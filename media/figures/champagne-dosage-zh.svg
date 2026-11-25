@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380" width="860" height="380" role="img" aria-labelledby="f2t f2d">
+  <title id="f2t">香槟补液量与甜度分级</title>
+  <desc id="f2d">示意图：按补液量（每升克数）排列香槟甜度等级，从 0–3 克/升的 Brut Nature 到 50 克/升以上的 Doux，并标出 Brut 的上限 12 克/升。</desc>
+  <rect width="860" height="380" fill="#faf7f0"/>
+  <text x="40" y="46" font-family="Georgia, 'Songti SC', serif" font-size="22" fill="#2b2118">补液量决定甜度标签</text>
+  <text x="40" y="70" font-family="Georgia, 'Songti SC', serif" font-size="13" fill="#6b5b4a">Dosage, in grams per litre, sets the sweetness term on the label</text>
+
+  <!-- bar -->
+  <rect x="40" y="150" width="120" height="54" fill="#f4e3c3" stroke="#8a7a5f"/>
+  <rect x="160" y="150" width="120" height="54" fill="#efd9ae" stroke="#8a7a5f"/>
+  <rect x="280" y="150" width="140" height="54" fill="#e6c98d" stroke="#8a7a5f"/>
+  <rect x="420" y="150" width="120" height="54" fill="#d9b26a" stroke="#8a7a5f"/>
+  <rect x="540" y="150" width="130" height="54" fill="#c99a4e" stroke="#8a7a5f"/>
+  <rect x="670" y="150" width="150" height="54" fill="#b07d36" stroke="#8a7a5f"/>
+
+  <g font-family="Georgia, 'Songti SC', serif" font-size="13" fill="#2b2118" text-anchor="middle">
+    <text x="100" y="182">Brut Nature</text>
+    <text x="220" y="182">Extra Brut</text>
+    <text x="350" y="182">Brut</text>
+    <text x="480" y="182">Extra Dry</text>
+    <text x="605" y="182">Sec</text>
+    <text x="745" y="182">Demi-Sec / Doux</text>
+  </g>
+  <g font-family="Georgia, 'Songti SC', serif" font-size="12" fill="#5a4a35" text-anchor="middle">
+    <text x="100" y="228">0–3 g/L</text>
+    <text x="220" y="228">0–6 g/L</text>
+    <text x="350" y="228">0–12 g/L</text>
+    <text x="480" y="228">12–17 g/L</text>
+    <text x="605" y="228">17–32 g/L</text>
+    <text x="745" y="228">32–50 / 50+ g/L</text>
+  </g>
+
+  <!-- brut marker -->
+  <line x1="420" y1="128" x2="420" y2="240" stroke="#8c2f1f" stroke-width="2" stroke-dasharray="4 3"/>
+  <text x="420" y="120" font-family="Georgia, 'Songti SC', serif" font-size="13" fill="#8c2f1f" text-anchor="middle">Brut 上限 12 g/L</text>
+
+  <g font-family="Georgia, 'Songti SC', serif" font-size="12" fill="#5a4a35">
+    <text x="40" y="286">读法：先看甜度词，再看补液量。同一句“Brut”在不同酒庄可能相差数克。</text>
+    <text x="40" y="310">常见误解：把 Brut 当甜酒。它通常是干型；Demi-Sec 才明显偏甜。</text>
+    <text x="40" y="334">数字为香槟区通行区间，具体以酒庄标签与背标为准。</text>
+  </g>
+  <text x="600" y="358" font-family="Georgia, 'Songti SC', serif" font-size="11" fill="#8a7a5f">本站自绘示意图 · CC BY 4.0</text>
+</svg>

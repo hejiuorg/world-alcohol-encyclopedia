@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 330" width="860" height="330" role="img" aria-labelledby="f6t f6d">
+  <title id="f6t">Six stages of whisky production</title>
+  <desc id="f6d">Flow chart: malting, mashing, fermentation, distillation, oak maturation and bottling, noting pot still versus column still and the angels' share.</desc>
+  <rect width="860" height="330" fill="#faf7f0"/>
+  <text x="40" y="46" font-family="Georgia, serif" font-size="22" fill="#2b2118">Whisky: from malted barley to oak</text>
+  <text x="40" y="70" font-family="Georgia, serif" font-size="13" fill="#6b5b4a">The same six stages; the still and the cask decide the flavour</text>
+
+  <g font-family="Georgia, serif" font-size="13" fill="#2b2118" text-anchor="middle">
+    <rect x="40" y="120" width="110" height="72" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="95" y="150">Malting</text><text x="95" y="172" font-size="11" fill="#6b5b4a">peat smoke optional</text>
+
+    <rect x="180" y="120" width="110" height="72" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="235" y="150">Mashing</text><text x="235" y="172" font-size="11" fill="#6b5b4a">hot water extract</text>
+
+    <rect x="320" y="120" width="110" height="72" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="375" y="150">Fermentation</text><text x="375" y="172" font-size="11" fill="#6b5b4a">about 48–72 hours</text>
+
+    <rect x="460" y="120" width="110" height="72" rx="6" fill="#e6d3b3" stroke="#8c2f1f"/>
+    <text x="515" y="150">Distillation</text><text x="515" y="172" font-size="11" fill="#8c2f1f">pot or column</text>
+
+    <rect x="600" y="120" width="110" height="72" rx="6" fill="#e6d3b3" stroke="#8c2f1f"/>
+    <text x="655" y="150">Oak maturation</text><text x="655" y="172" font-size="11" fill="#8c2f1f">at least 3 years</text>
+
+    <rect x="740" y="120" width="80" height="72" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="780" y="150">Bottling</text><text x="780" y="172" font-size="11" fill="#6b5b4a">dilute or cask strength</text>
+  </g>
+
+  <g stroke="#8c2f1f" stroke-width="2" fill="none">
+    <line x1="152" y1="156" x2="172" y2="156"/><polygon points="172,151 182,156 172,161" fill="#8c2f1f"/>
+    <line x1="292" y1="156" x2="312" y2="156"/><polygon points="312,151 322,156 312,161" fill="#8c2f1f"/>
+    <line x1="432" y1="156" x2="452" y2="156"/><polygon points="452,151 462,156 452,161" fill="#8c2f1f"/>
+    <line x1="572" y1="156" x2="592" y2="156"/><polygon points="592,151 602,156 592,161" fill="#8c2f1f"/>
+    <line x1="712" y1="156" x2="732" y2="156"/><polygon points="732,151 742,156 732,161" fill="#8c2f1f"/>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="12" fill="#5a4a35">
+    <text x="40" y="238">Pot still: batch distillation, usually twice, more body and character; the Scotch malt default.</text>
+    <text x="40" y="262">Column still: continuous, efficient, higher strength and lighter in style; common for grain whisky and bourbon.</text>
+    <text x="40" y="286">Angels' share: roughly 2% a year evaporates through the wood. Scotch rules require at least three years in oak.</text>
+  </g>
+  <text x="820" y="316" font-family="Georgia, serif" font-size="11" fill="#8a7a5f" text-anchor="end">Original diagram · CC BY 4.0</text>
+</svg>

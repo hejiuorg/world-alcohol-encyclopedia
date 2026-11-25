@@ -1,0 +1,227 @@
+# 地点
+
+- [A Ginjinha](a-ginjinha.md) — 里斯本 Largo de São Domingos 8 号的站立式 ginjinha 小酒铺，品牌根源追到 1840 年；一小杯酸樱桃利口酒、一颗酒渍樱桃，是里斯本最短的饮酒仪式。
+- [À la Mort Subite](a-la-mort-subite.md) — 布鲁塞尔 Rue Montagne-aux-Herbes Potagères 7 号的历史咖啡馆，1928 年迁至此址；店名来自国民银行常客的 421/pitjesbak 游戏，木镶板与新路易十六风格立面保存至今。
+- [阿尔比切林咖啡馆](al-bicerin-torino.md) — 都灵 Piazza della Consolata 的 1763 年咖啡馆，1856 年迁入 Carlo Promis 设计楼；以咖啡、巧克力与奶油分层的 bicerin 及 pur e fiur / pur e barba / ‘n poc ‘d tut 三种变体闻名，周三休息。
+- [阿莱格里尼酒庄](allegrini.md) — 富马内的瓦坡里切拉家族酒庄，家族历史可追溯到 16 世纪；以科维纳、风干葡萄与阿玛罗尼为核心，酒庄提供 45 分钟到 3 小时不等的预约品鉴与葡萄园体验。
+- [萨沃伊美式酒吧](american-bar-savoy.md) — 伦敦萨沃伊酒店内的经典美式酒吧，1893 年开业，以《萨沃伊鸡尾酒书》和经典调酒传统闻名。
+- [罗马希腊咖啡馆](antico-caffe-greco.md) — 罗马孔多蒂街 86 号的历史咖啡馆，1760 年开业，曾聚集歌德、拜伦、果戈理等文人艺术家；2025 年 10 月 8 日因租约纠纷停业。
+- [安东尼世家经典基安蒂酒庄](antinori-nel-chianti-classico.md) — 佛罗伦萨以南 Bargino 的安东尼世家酒庄，2012 年 10 月启用，由 Archea Associati 设计，建筑嵌入山坡，以重力酿造、螺旋楼梯、酒窖参观与屋顶餐厅 Rinuccio 1180 闻名。
+- [Appleton Estate](appleton-estate.md) — 牙买加圣伊丽莎白区 Nassau Valley 的甘蔗庄园与蒸馏厂，1670 年建立 estate，1749 年有最早的合法蒸馏记录；1981 年 Joy Spence 加入，1997 年成为业界首位女性 Master Blender，同年游客中心开放。
+- [阿贝蒸馏厂](ardbeg-distillery.md) — 1815 年由约翰·麦克杜格尔在艾雷岛南岸取得执照并创立的单一麦芽威士忌蒸馏厂，以重泥煤风格闻名；访客中心提供导览、品鉴与 Old Kiln Cafe，参观建议提前预约。
+- [奥古斯丁啤酒厂](augustiner-braeu.md) — 慕尼黑现存最古老的啤酒厂，源头可追溯到 1328 年奥古斯丁修道院的酿酒活动，现由家族企业 Augustiner-Bräu Wagner KG 经营；Landsberger Straße 厂区为保存完整的 19 世纪酿酒建筑群。
+- [埃佩尔奈香槟大道](avenue-de-champagne.md) — 法国埃佩尔奈市中心约 1.5 公里的香槟酒庄大道，两侧集中 Moët & Chandon、Mercier、Perrier-Jouët 等酒庄与 19 世纪宅邸；地下有约 110 公里酒窖与约 2 亿瓶香槟，2015 年作为“香槟丘陵、宅邸与酒窖”的一部分列入世界遗产。
+- [High Five 酒吧](bar-high-five.md) — 东京银座地下一层的经典鸡尾酒吧，2008 年由上野秀嗣（Hidetsugu Ueno）创立，以无固定酒单的定制调酒、手削透明冰与日式酒吧礼仪闻名。
+- [Bar Lupin](bar-lupin.md) — 东京银座五丁目地下一层的经典酒吧，1928 年开业；1935 年改成日本梣木 L 形吧台，太宰治、坂口安吾等文人的座位与 Golden Fizz 仍是核心。
+- [钟声酒馆](bell-in-hand-tavern.md) — 波士顿 Union Street 的历史酒馆，1795 年由镇公告员 Jimmy Wilson 创办；现建筑为 19 世纪中叶砖楼，店家自称美国最老连续营业酒馆，公开记录对此有不同说法，营业每日 11:00–02:00。
+- [贝梅尔曼斯酒吧](bemelmans-bar.md) — 纽约上东区卡莱尔酒店（The Carlyle）底层的经典酒店酒吧，1947 年开业；四周是路德维希·贝梅尔曼斯亲笔绘制的中央公园壁画，以夜间钢琴、爵士三重奏与经典鸡尾酒闻名，有着装要求。
+- [贝灵哲酒庄](beringer-vineyards.md) — 纳帕谷圣赫勒拿的历史酒庄，1876 年由贝灵哲兄弟创立，以手工开凿的酒窖、1884 年莱茵别墅与 Private Reserve 赤霞珠闻名，2026 年迎来 150 周年。
+- [比昂迪-桑蒂酒庄](biondi-santi.md) — 蒙塔希诺东北 Greppo 的历史酒庄，1888 年产出首批正式标为 Brunello di Montalcino 的酒；以 100% Sangiovese Grosso、BBS11 克隆、老藤与大型斯拉沃尼亚橡木桶陈年著称，2017 年 EPI 入主，Riserva 历史上仅生产约 38 次。
+- [比索尔酒庄](bisola-valdobbiadene.md) — 瓦尔多比亚德内的 Bisol1542，家族自 1542 年起在普罗塞克核心坡地种植格雷拉；酒窖开在岩壁里，周一至周六接待参观与品鉴，卡特兹与里韦系列是理解陡坡风土的关键。
+- [布兰迪葡萄酒庄](blandys-wine-lodge.md) — 位于马德拉丰沙尔市中心的马德拉酒陈年酒窖与参观据点，1811 年由约翰·布兰迪创立，属马德拉葡萄酒公司；以 canteiro 阁楼陈年、制桶作坊与四系马德拉酒闻名，周一至周日有导览。
+- [洛佩兹雷迪亚酒庄](bodegas-lopez-de-heredia.md) — 位于西班牙里奥哈阿罗（Haro）火车站区的历史酒庄，1877 年由拉斐尔·洛佩兹·德·埃雷迪亚创立，以 Viña Tondonia 等长期陈酿酒款、地下石窖与自有制桶车间闻名。
+- [埃米利奥·卢士涛酒庄](bodegas-lustau.md) — 位于赫雷斯-德拉弗龙特拉阿科斯街 53 号的雪莉酒庄，前身可追溯到 1896 年的 almacenista 家族酒行；以六座 19 世纪大教堂式酒窖、Almacenista 系列与 VORS 圣器室闻名，参观须预约。
+- [堡林爵香槟](bollinger.md) — 阿伊的家族香槟酒庄，1829 年由 Athanase de Villermont、Joseph Bollinger 与 Paul Renaudin 共同创立；约 180 公顷葡萄园，85% 为特级园与一级园，Pinot Noir 超过 60%，以旧橡木桶、百万瓶 reserve magnum 与 Special Cuvée、La Grande Année、R.D. 著称。
+- [博廷餐厅](botin.md) — 马德里刀匠街 17 号的家族餐厅，1725 年开业，常被吉尼斯世界纪录引为“世界最古老餐厅”；以木炉烤乳猪与烤羊闻名，海明威曾是常客。
+- [利普啤酒馆](brasserie-lipp.md) — 巴黎圣日耳曼大道 151 号的百年啤酒馆，1880 年由阿尔萨斯人 Léonard Lipp 开办，1920 年 Marcelin Cazes 接手后成为文学与政治人物会面场；1989 年列历史建筑，酸菜与 profiteroles 是招牌。
+- [布赫拉迪酒厂](bruichladdich-distillery.md) — 艾雷岛 Loch Indaal 岸边的维多利亚式蒸馏厂，1881 年由 Harvey 兄弟建造；2001 年由 Mark Reynier、Simon Coughlin 与 Jim McEwan 重启，2012 年归 Rémy Cointreau，2020 年获 B Corp 认证。生产无泥煤的 Bruichladdich、重泥煤的 Port Charlotte、超重泥煤的 Octomore 与 The Botanist 金酒。
+- [美景咖啡馆](buena-vista-cafe.md) — 旧金山 Hyde 与 Beach 街角的 1916 年酒吧，位于 Powell-Hyde 缆车终点；1952 年 Stanton Delaplane 与 Jack Koeppler 在此推广美国版爱尔兰咖啡，以 48 小时熟成奶油与 6 盎司杯闻名。
+- [水牛足迹酒厂](buffalo-trace-distillery.md) — 美国肯塔基州法兰克福的波本威士忌蒸馏厂，厂址自 1775 年 Leestown 聚落起延续至今，1870 年由 E.H. Taylor Jr. 扩为 O.F.C.，1999 年改名 Buffalo Trace；现为国家历史地标，导览、品鉴与停车免费，需提前在官网抢约。
+- [布什米尔斯酒厂](bushmills-distillery.md) — 北爱尔兰安特里姆郡布什米尔斯村的爱尔兰威士忌酒厂，以 1608 年蒸馏执照自称“世界最古老的持照威士忌酒厂”；厂内仍用铜制壶式蒸馏器三次蒸馏，设有预约导览、礼品店与 1608 酒吧。
+- [Café A Brasileira](cafe-a-brasileira.md) — 里斯本希亚多 Rua Garrett 120–122 号的新艺术咖啡馆，1905 年由 Adriano Telles 创办；Fernando Pessoa 是常客，门前立有他的青铜坐像。
+- [中央咖啡馆](cafe-central.md) — 维也纳历史悠久的文学咖啡馆，1876 年开业，以咖啡、蛋糕和知识分子顾客闻名。
+- [Café De Dokter](cafe-de-dokter.md) — 阿姆斯特丹 Rozenboomsteeg 4 号的迷你酒吧，1798 年由外科医生创办；约 18 平方米，同一家族第七代经营，只收现金、不接受预订。
+- [花神咖啡馆](cafe-de-flore.md) — 巴黎圣日耳曼德佩的文学咖啡馆，19 世纪末开业，以知识分子顾客和经典巴黎咖啡馆氛围闻名。
+- [和平咖啡馆](cafe-de-la-paix.md) — 巴黎歌剧院对面的咖啡馆，1862 年与 Grand Hôtel 同年开业；拿破仑三世风格装饰、历史建筑，Maupassant、Hugo、Zola 与 1948 年《This is Paris》录音使它成为歌剧院街区的文学与音乐坐标。
+- [哈维尔卡咖啡馆](cafe-hawelka.md) — 维也纳多罗特街 6 号的家族咖啡馆，1939 年由莱奥波德与约瑟菲娜·哈维尔卡开业，战后成为作家与艺术家的聚会地，以晚间现烤 Buchteln 闻名。
+- [Café Hoppe](cafe-hoppe.md) — 阿姆斯特丹 Spui 18–20 号的历史酒馆，官方称自 1670 年起在此卖酒；“站着的 Hoppe”与“坐着的 Hoppe”隔门相望，店内不放音乐。
+- [马杰斯蒂克咖啡馆](cafe-majestic.md) — 波尔图 Rua de Santa Catarina 112 号的新艺术咖啡馆，1922 年 12 月 2 日开业，José Pinto de Oliveira 设计；大理石立面、佛兰德斯镜与温室，1983 年列公共利益建筑，1994 年修复重开。
+- [普罗可布咖啡馆](cafe-procope.md) — 巴黎第六区圣日耳曼德佩的咖啡馆兼餐厅，1686 年由西西里人 Francesco Procopio dei Coltelli 开设，常称巴黎最古老咖啡馆；伏尔泰、卢梭、狄德罗等启蒙人物常客，今天仍供应咖啡与法式传统菜。
+- [Café Pushkin](cafe-pushkin.md) — 莫斯科特维尔林荫道 26A 的俄式餐厅，1999 年由 Andrei Dellos 在一座巴洛克式宅邸中开设；店名取自 Gilbert Bécaud 1964 年歌曲《Nathalie》中虚构的“Café Pouchkine”，不是百年老店。
+- [Café Sacher](cafe-sacher.md) — 维也纳 Philharmoniker Straße 4 号、萨赫酒店一层的咖啡馆，1832 年萨赫蛋糕在此诞生；Original Sacher-Torte 与红丝绒厅是核心，建议预订。
+- [斯拉维亚咖啡馆](cafe-slavia.md) — 布拉格民族大街 1 号、国家剧院对面的历史咖啡馆，1884 年开业，1930 年代改造成装饰艺术风格，曾聚集里尔克、卡夫卡、哈维尔等作家与异议人士。
+- [斯佩尔咖啡馆](cafe-sperl.md) — 维也纳玛利亚希尔夫区的传统咖啡馆，1880 年开业，以保留至今的 19 世纪内饰、大理石桌、Thonet 椅、台球桌与 Sperltorte 蛋糕闻名。
+- [花神咖啡馆（威尼斯）](caffe-florian.md) — 威尼斯圣马可广场的历史咖啡馆，1720 年开业，是欧洲持续经营时间最长的咖啡馆之一。
+- [吉利咖啡馆](caffe-gilli.md) — 佛罗伦萨 Piazza della Repubblica 转角的咖啡馆，1733 年 Gilli 家族开店，1893 年迁到新广场附近，1917 年定于 Palazzo Levi 底层；深色木饰、镜面与 Ezio Giovannozzi 女性肖像圆章，2025 年整修重开。
+- [圣卡洛咖啡馆](caffe-san-carlo-torino.md) — 都灵 Piazza San Carlo 的 1822 年咖啡馆，1837 年曾以“颠覆活动”被关闭；以 Giuseppe Leoni 立面、Morgari/Borra 新古典内部、1851 年中国厅与 Risorgimento 客人闻名，2022 年由 Costardi 兄弟重启。
+- [坎帕里诺长廊酒吧](camparino-in-galleria.md) — 米兰 Galleria Vittorio Emanuele II 北侧拱廊的 1915 年酒吧，Davide Campari 在家族 1867 年 Caffè Campari 基础上开设；以 Campari and soda、Liberty 装饰、地窖直供苏打水与 2019 年修复重开闻名。
+- [康帝隆酒厂](cantillon-brewery.md) — 布鲁塞尔安德莱赫特的自发发酵兰比克酒厂，1900 年建厂，兼作布鲁塞尔贵兹博物馆；平日自由参观、周六只做预约导览，是理解兰比克与贵兹的核心现场。
+- [嘉士伯酒厂：啤酒、实验室与一座花园](carlsberg-brewery.md) — 哥本哈根 Valby 的嘉士伯旧厂区由 J.C. Jacobsen 于 1847 年创立；今天的 Home of Carlsberg（原 Visit Carlsberg）用展览、旧酒窖、马厩与品鉴讲述家族史、科学发现与拉格酿造。
+- [旋转木马酒吧](carousel-bar-hotel-monteleone.md) — 新奥尔良 Hotel Monteleone 内的 1949 年旋转酒吧，25 个座位，约 15 分钟转一圈，以 Vieux Carré、Sazerac 与现场钢琴闻名。
+- [埃拉杜拉酒厂：阿马蒂坦的马蹄庄园](casa-herradura.md) — 位于墨西哥哈利斯科州阿马蒂坦圣何塞德尔雷富希奥庄园的龙舌兰酒厂，历史可追到 1870 年；以砖砌穹顶炉、露天野酵母发酵与自建美国白橡木桶闻名，参观须预约，成人限入。
+- [拉布拉之家](casa-labra.md) — 马德里太阳门旁 Calle de Tetuán 12 号的百年酒馆，1860 年开业，1879 年 5 月 2 日 PSOE 在此秘密成立；1947 年 Molina 家族接手，炸鳕鱼条与鳕鱼丸子配锌皮吧台。
+- [布罗利奥城堡](castello-di-brolio.md) — 基安蒂 Gaiole in Chianti 的里卡索利家族城堡，文献可追溯到 1141 年；1861 年意大利王国首相贝蒂诺·里卡索利在 1872 年写下基安蒂配方，今天以城堡参观、花园、家族收藏与 Castello di Brolio 旗舰酒闻名。
+- [卡氏家族酒庄](catena-zapata.md) — 门多萨卢汉德库约的家族酒庄，1902 年创立，以马尔贝克复兴与安第斯山麓高海拔风土著称；金字塔建筑与 Adrianna 葡萄园是参观核心，项目需预约，官方坐标为南纬 33°10′4.264″、西经 68°54′14.522″。
+- [张裕酒文化博物馆](changyu-wine-culture-museum.md) — 位于山东烟台芝罘区大马路 56 号的中国首家葡萄酒专业博物馆，1992 年在张裕老厂区启用，为国家一级博物馆、国家 4A 级景区，2002 与 2007 年两次扩建。
+- [白马酒庄](chateau-cheval-blanc.md) — 圣埃美隆的白马酒庄，1832 年 Jean-Jacques Ducasse 购入核心地块，20 年内从 Figeac 购地形成约 39 公顷；今天 42 公顷、56 个地块，55% Cabernet Franc，1954 年首次列入一级 A，2021 年退出 2022 年分级，2011 年 Portzamparc 酒窖落成。
+- [洛巴德酒庄](chateau-de-laubade.md) — 热尔省索尔贝的下雅文邑单一庄园，1870 年建庄、80 公顷葡萄园连成一片，以沙质土壤、1974 年定制的连续蒸馏器、约三千只酒桶与年份雅文邑装瓶著称。
+- [默尔索城堡](chateau-de-meursault.md) — 勃艮第默尔索的葡萄酒庄园，历史可追溯到 11 世纪，现址城堡为 18 世纪意大利风格建筑，2024 年完成整修；葡萄园约 67 公顷，酒窖从 12 世纪延续至 19 世纪，提供预约参观与品鉴。
+- [滴金酒庄](chateau-dyquem.md) — 索泰尔讷山顶的甜酒庄园，1855 年分级中唯一的 Premier Cru Supérieur；葡萄园约 100 公顷，以 Sémillon 为主、靠贵腐菌浓缩，采收通常分 5–10 次手工挑选；1593 年 Sauvage 家族建园，1999 年归 LVMH，2004 年 Pierre Lurton 接手管理。
+- [侯伯王酒庄](chateau-haut-brion.md) — 佩萨克-雷奥良的格拉夫一级庄，1855 年分级中唯一不在梅多克的一级庄；葡萄园历史可追到公元 1 世纪，1521 年首次以“Haut-Brion”之名出现，1533 年 Pontac 家族购入，1935 年起归 Dillon 家族。
+- [拉菲古堡](chateau-lafite-rothschild.md) — 法国波尔多波亚克（Pauillac）的梅多克一级庄，112 公顷葡萄园以赤霞珠为主，1855 年分级列为一级庄，1868 年由罗斯柴尔德家族购入；官网公告因整修暂停开放至 2028 年 1 月。
+- [拉图酒庄](chateau-latour.md) — 波亚克的梅多克一级庄，文献可追溯到 1331 年的圣莫贝尔塔楼；葡萄园 96.5 公顷，其中 47 公顷 Enclos 距吉伦特河口约 300 米，1993 年归 François Pinault 的 Artémis，2012 年起不再以期酒方式销售。
+- [玛歌酒庄](chateau-margaux.md) — 波尔多玛歌村的梅多克一级庄，1855 年分级四大一级庄之一；庄园约 265 公顷，1810–1815 年建成的新帕拉第奥式主楼与 2015 年 Norman Foster 设计的新酒窖并存，1977 年起由 Mentzelopoulos 家族经营。
+- [米拉沃酒庄](chateau-miraval.md) — 科朗斯山谷里的普罗旺斯桃红名庄，葡萄园按干石梯田排列，获有机认证；酒庄本身不对公众开放，酒款在佩兰家族的品鉴室与指定渠道出售。
+- [蒙特莱纳酒庄](chateau-montelena.md) — 纳帕谷卡利斯托加的 1882 年历史酒庄，1973 年霞多丽在 1976 年巴黎审判白葡萄酒组名列第一；以石砌城堡、Jade Lake 中式园林与耐陈年的 Estate Cabernet Sauvignon 著称，2008 年起由 Michel Reybier 持有。
+- [木桐酒庄](chateau-mouton-rothschild.md) — 位于法国波亚克（Pauillac）的梅多克一级庄，1853 年由纳塔涅·德·罗思柴尔德男爵买下并改现名，1855 年列二级庄、1973 年晋升一级庄；1945 年起每年邀请艺术家设计酒标，1962 年设立葡萄酒艺术博物馆。
+- [柏图斯酒庄](chateau-petrus.md) — 波美侯 11.4 公顷葡萄园位于产区最高的蓝黏土台地，自 2010 年起 100% Merlot，只产一款正牌、没有副牌，年产量约 30,000 瓶；没有城堡式主楼，也不参加 1855 分级，1969 年 Moueix 家族买下多数股份，不开放公众参观。
+- [中国酒文化城](china-liquor-culture-city.md) — 贵州仁怀茅台镇、茅台集团厂区内的酒文化博览馆，1993—1997 年由茅台集团投资修建；占地约 3 万平方米，设酒源、酒技、酒俗、酒器、茅台等七个展馆，为国家 4A 级旅游景区，2017 年获批贵州茅台酒博物馆。
+- [中国黄酒博物馆](china-yellow-wine-museum.md) — 位于绍兴市越城区下大路 557 号、光相桥畔的黄酒专题博物馆，2007 年由古越龙山投资建成开馆；占地约三万平方米，建筑面积约 1.6 万平方米，以酒史、酒俗、酒技、花雕与地下酒窖展示中国黄酒文化。
+- [Çiçek Pasajı](cicek-pasaji.md) — 伊斯坦布尔贝伊奥卢 İstiklal 大街上的拱廊，1876 年建成时称 Cité de Péra；1978 年部分坍塌后于 1988 年修复，今天聚集 meyhane、餐馆与啤酒馆，并非单一酒吧。
+- [波尔多葡萄酒城](cite-du-vin.md) — 位于法国波尔多巴卡朗码头的葡萄酒主题博物馆，2016 年开馆，由 XTU 建筑事务所设计，常设展约 3000 平方米，以六大主题、18 个展区讲述世界葡萄酒文化。
+- [云雾之湾酒庄](cloudy-bay.md) — 新西兰马尔堡布伦海姆 Jacksons Road 的长相思酒庄，1985 年酿出首个年份；门市每周七天 10:00–17:00 开放，设 Saku 餐厅与预约制品鉴，是理解 Wairau Valley 风格与马尔堡出口叙事的入口。
+- [干露酒庄](concha-y-toro.md) — 皮尔克迈坡谷的历史酒庄，1883 年由 Melchor Concha y Toro 创立；以 Casillero del Diablo、Marques de Casa Concha 与 Don Melchor 为核心，Centro del Vino 于 140 周年开放，含 22 公顷百年公园、1883 酒库与“魔鬼酒窖”体验。
+- [塞朗河畔坡地酒庄](coulee-de-serrant.md) — 法国卢瓦尔萨韦尼耶尔的一座 7 公顷独占 AOC 酒庄，葡萄园由西多会修士于 1130 年种植，现由乔利家族经营并自 1984 年起全面采用生物动力法；出产 Coulée de Serrant、Clos de la Bergerie 与 Les Vieux Clos 三款白诗南。
+- [CVNE 酒庄](cvne.md) — 西班牙里奥哈阿罗火车站区的历史酒庄，1879 年由 Real de Asúa 兄弟创立，全名 Compañía Vinícola del Norte de España；以 Cune、Viña Real 与 Imperial 等品牌、美国橡木桶陈年与老厂区建筑闻名，至今由创始家族经营。
+- [达尔维尼酒厂](dalwhinnie-distillery.md) — 苏格兰高地达尔维尼村的单一麦芽威士忌蒸馏厂，1897 年以 Strathspey 之名创立，海拔 1,164 英尺（355 米），官方称其为苏格兰最高、最冷的蒸馏厂之一；以石楠蜂蜜、轻柔烟熏与仍在使用的虫管冷凝器闻名。
+- [达伦堡酒庄](darenberg.md) — 麦克拉伦谷的家族酒庄，1912 年由 Joseph Osborn 创立，现由第四代 Chester Osborn 主理；以“Dead Arm”西拉与 2017 年开放的立方体酒窖（d’Arenberg Cube）闻名。
+- [达罗兹雅文邑](darroze.md) — 朗德省 Roquefort 的家族雅文邑酒商，1974 年由 Francis Darroze 正式创立；不自己大规模种植，而在 Bas-Armagnac 选酒，以“单一庄园、单一年份、不调配”的 Collection Unique 闻名，在 Roquefort 与 Labastide-d’Armagnac 的酒窖中陈年。
+- [半月酒厂](de-halve-maan.md) — 布鲁日市中心的家族酒厂，1856 年由 Maes 家族接手，六代经营至今；参观可上屋顶俯瞰老城，地下 3.3 公里输酒管道与 Brugse Zot、Straffe Hendrik 是核心看点。
+- [德尔莫尼科餐厅](delmonicos.md) — 纽约金融区 56 Beaver Street 的传奇餐厅，1837 年开出美国早期高级餐厅，1890–91 年建现楼，以 Delmonico Steak 与多道经典菜肴闻名。
+- [Demel](demel.md) — 维也纳 Kohlmarkt 14 号的皇家糖果店与咖啡馆，1786 年创立；洛可可室内、橱窗蛋糕与“K.u.k.”传统，官方不接受预订。
+- [金色和平餐厅](den-gyldene-freden.md) — 斯德哥尔摩老城 Österlånggatan 51 号的历史餐厅，按传统 1722 年开业，1919 年由画家安德斯·左恩买下并遗赠瑞典学院，以瑞典家常菜与文学记忆闻名。
+- [福塔莱萨酒厂：把 1873 年的作坊重新点火](destileria-fortaleza.md) — 位于墨西哥哈利斯科州特基拉镇塔巴斯科街 153 号的家族龙舌兰酒厂，沿用 1873 年老厂的砖炉、塔霍纳、木发酵槽与两只原装铜壶；2005 年重新上市，参观须预约，可走地下酒窖品鉴。
+- [罗曼尼康帝酒庄](domaine-de-la-romanee-conti.md) — 沃恩-罗曼尼的勃艮第特级园酒庄，以 1.81 公顷 Romanée-Conti 与 6.06 公顷 La Tâche 两块独占园为核心，葡萄园约 28.6 公顷全部为特级园；1942 年成立民事公司，由 de Villaine 与 Leroy/Roch 两家族共管，不设公众参观。
+- [约瑟夫杜鲁安酒庄](domaine-drouhin.md) — 1880 年由约瑟夫·杜鲁安在博讷创立的家族酒庄与酒商，总部位于 7 Rue d'Enfer，地下酒窖保留罗马 castrum 基础与中世纪遗迹，葡萄园约 100 公顷；提供每日酒窖导览与品鉴，并设有市集门市 Oenothèque。
+- [杜鲁安俄勒冈酒庄](domaine-drouhin-oregon.md) — 勃艮第杜鲁安家族于 1987 年在俄勒冈 Dundee Hills 建立的酒庄，把勃艮第的种植与酿造经验带到威拉米特谷；以黑皮诺与霞多丽著称。
+- [休埃酒庄](domaine-huet.md) — 法国卢瓦尔武弗雷的一座家族酒庄，1928 年由 Victor Huet 与 Gaston Huet 创立，以 30 公顷白诗南、Haut-Lieu、Le Mont 与 Clos du Bourg 三块地及 1988 年起的生物动力法闻名；参观与品鉴需先确认。
+- [奥尼奥阿庄园](domaine-ognoas.md) — 朗德省阿尔泰兹达尔马尼亚克的下雅文邑庄园，领地可追溯到 11 世纪末，1905 年后归朗德省所有；约 650 公顷土地、一台连续蒸馏器、成排酒窖与免费品鉴，让它成为产区内少见的公共庄园样本。
+- [魏恩巴赫酒庄](domaine-weinbach.md) — 法国阿尔萨斯凯泽斯堡的一座家族酒庄，1612 年由嘉布遣会修士建立，位于施洛斯山特级园脚下，以 Clos des Capucins 地块、生物动力法与雷司令、灰皮诺等贵族品种闻名；参观须预约。
+- [奥托酒庄](domaines-ott.md) — 普罗旺斯桃红的老牌名号，旗下有 Château de Selle、Clos Mireille 与 Château Romassan 三个庄园；可参观的是塔拉多的 Château de Selle，工作日上午开放酒窖与品鉴，导览约 45 分钟且须预约。
+- [卢森博士酒庄](dr-loosen.md) — 德国摩泽尔贝恩卡斯特-库斯圣约翰内斯霍夫的一座家族酒庄，以未嫁接老藤、蓝红灰三色板岩与 Großes Gewächs 雷司令为核心；参观与品鉴需先通过官方渠道预约确认。
+- [杜克斯酒吧](dukes-bar.md) — 伦敦圣詹姆斯杜克斯酒店内的小型酒店酒吧，官方以 1908 年为其历史起点，以桌边调制的 Dukes 马天尼、冷冻酒杯与“不加冰”做法闻名。
+- [鹰与孩童酒馆](eagle-and-child.md) — 牛津圣吉尔斯街的历史酒馆，以“Inklings”文学小组（托尔金、C.S.刘易斯等）的聚会地闻名；2020 年起关闭，2025 年获准修复，现址暂无酒馆服务。
+- [伊贡·米勒酒庄](egon-muller.md) — 摩泽尔萨尔河谷维尔廷根的家族酒庄，1797 年起由同一家族经营；核心是南向陡坡、蓝板岩与老藤的沙兹霍夫山，以极低产量与 Kabinett 到 TBA 的糖度分级著称，是理解德国雷司令「甜度与酸度」关系的教科书样本。
+- [小佛罗里达酒馆](el-floridita.md) — 哈瓦那老城的传奇酒吧，1817 年创立，以海明威、冷冻代基里和海鲜吧闻名。
+- [四猫咖啡馆](els-quatre-gats.md) — 巴塞罗那 Carrer de Montsió 3 号的现代主义咖啡馆，1897 年 6 月 12 日开幕，Ramon Casas、Santiago Rusiñol 与 Miquel Utrillo 发起；毕加索早期出入并办展，1903 年关闭、1980 年代重开。
+- [雇员专属酒吧](employees-only.md) — 纽约西村 2004 年开业的 speakeasy 风格鸡尾酒吧，以白制服调酒师、马天尼与曼哈顿、通宵餐食和“Psychic”门面闻名。
+- [艾瑞酒庄](eyrie-vineyards.md) — 威拉米特谷的先锋酒庄，1965 年由 David Lett 创立；1970 年代的黑皮诺让俄勒冈进入国际视野，以老藤、有机种植与轻盈风格著称。
+- [费尔西纳庄园](fattoria-felsina.md) — 锡耶纳以东 Castelnuovo Berardenga 的家族酒庄，1966 年由 Poggiali 家族购入；以桑娇维塞克隆、Rancia 与 Fontalloro、凝灰岩酒窖和橄榄油闻名，是经典基安蒂东南边缘的代表性庄园。
+- [汾酒博物馆](fenjiu-museum.md) — 山西汾阳杏花村的酒文化专题博物馆，前身可追溯到 1984 年，2007 年新馆落成；九个展厅展示汾酒 6000 年叙事、历代酒器与清香型白酒工艺。
+- [丰塔纳弗雷达酒庄](fontanafredda.md) — 塞拉伦加达尔巴的巴罗洛名庄，1858 年由意大利首位国王维托里奥·埃马努埃莱二世创立；拥有 120 公顷有机葡萄园与“叙述村”，酒窖参观通过 Villaggio Narrante 预约。
+- [四方朗姆酒厂](foursquare-rum-distillery.md) — 位于巴巴多斯圣菲利普教区四路镇的家族酒厂，1996 年在旧糖厂址重启；工作日开放式参访、无需预约，以壶式与双柱式蒸馏和热带陈年著称。
+- [弗朗西斯酒馆](fraunces-tavern.md) — 纽约曼哈顿珍珠街 1719 年建成的历史建筑，1762 年改为酒馆，1783 年华盛顿在楼上长厅向军官告别；今天是楼下餐厅酒吧、楼上博物馆的复合场所。
+- [嘉雅巴巴莱斯科酒庄](gaja-barbaresco.md) — 位于巴巴莱斯科村 Via Torino 5 的家族酒庄，官方页面只公布地址、电话与邮箱；对外参观与品鉴政策未公开确认，出发前须以官方渠道联系，不能默认可以随时进入。
+- [月桂冠大仓纪念馆](gekkeikan-okura-sake-museum.md) — 京都伏见濠川沿岸的清酒纪念馆，由月桂冠将 1909 年建造的酒窖改建，1982 年开馆，展示伏见酿酒史与酒造用具，并可试饮三款清酒。
+- [乔治迪克尔酒厂](george-dickel-distillery.md) — 田纳西州塔拉霍马附近 Cascade Hollow 的田纳西威士忌酒厂，品牌可追溯至 1870 年 George A. Dickel 的生意、酒厂 1878 年投产；以冷却后糖枫木炭过滤、无“e”的 whisky 拼写与 No. 8、No. 12 等酒款著称。
+- [Gerbeaud](gerbeaud.md) — 布达佩斯 Vörösmarty tér 7–8 号的咖啡馆与糖果店，1858 年由 Henrik Kugler 创办；Émile Gerbeaud 接手后以蛋糕、果酱与圣诞橱窗闻名。
+- [格兰帝酒厂](glen-scotia-distillery.md) — 坎贝尔镇 High Street 的维多利亚式单一麦芽酒厂，1832 年以 Scotia 之名创立，现属 Loch Lomond Group；以海洋咸感、油脂感与 Double Cask、Victoriana 等酒款著称，提供 1 小时导览与 Dunnage 仓库品鉴。
+- [格兰菲迪蒸馏厂](glenfiddich-distillery.md) — 苏格兰达夫镇（Dufftown）的单一麦芽威士忌蒸馏厂，1886 年由 William Grant 动工、1887 年圣诞节首次出酒，至今由 Grant 家族独立持有；以三角瓶、鹿标与 12 年、15 年索莱拉等酒款闻名，设有游客中心与多种预约导览。
+- [格兰威特蒸馏厂](glenlivet-distillery.md) — 苏格兰 Ballindalloch 的单一麦芽威士忌蒸馏厂，1824 年由 George Smith 取得执照，是 Glenlivet 教区第一家合法酒厂；以梨、苹果、花香与柔和酒体著称，现属 Pernod Ricard 旗下 Chivas Brothers，游客中心于 2021 年翻新重开。
+- [格兰杰酒厂](glenmorangie-distillery.md) — 苏格兰高地泰恩镇的单一麦芽威士忌蒸馏厂，1843 年由 William 与 Anne Matheson 创立；以苏格兰最高的壶式蒸馏器、塔尔洛吉泉与轻柔果香风格闻名，游客中心提供预约导览与品鉴。
+- [冈萨雷斯·比亚斯酒庄](gonzalez-byass-bodega.md) — 位于赫雷斯-德拉弗龙特拉市中心的雪莉酒庄建筑群，1835 年由曼努埃尔·玛丽亚·冈萨雷斯·安赫尔创立，以 Tío Pepe Fino 的 solera 与 La Concha 贝壳形酒窖闻名；参观须预约，周二至周日接待。
+- [甘布里努斯咖啡馆](gran-caffe-gambrinus.md) — 那不勒斯 Via Chiaia 1/2 的历史咖啡馆，1860 年开店、1890 年以现名改造开张；自由风格灰泥、镜面与文学沙龙，D’Annunzio、Croce、Hemingway 等客群。
+- [绿磨坊爵士酒吧](green-mill-chicago.md) — 芝加哥 Uptown 的爵士酒吧，起源常写作 1907 年，现建筑 1914 年完成、现空间 1935 年成形；与 Al Capone 时代、地下隧道传说、1984 年诗歌 slam 和七晚爵士相连，现金支付、21+。
+- [健力士仓库：圣詹姆斯门的黑色啤酒叙事](guinness-storehouse.md) — 都柏林圣詹姆斯门的健力士仓库，建在旧发酵车间里，用七层展线、广告档案与顶层 Gravity Bar 讲述健力士世涛；它是访客中心，不是生产车间导览，真正的酒厂仍在同一片厂区运转。
+- [古井酒文化博物馆](gujing-wine-culture-museum.md) — 位于安徽省亳州市谯城区古井镇古井酒厂对面的酒文化博物馆，1994 年建成、1996 年开放，是古井酒文化博览园的核心场馆；2008 年园区获评国家 4A 级景区。
+- [古越龙山（中央酒库与绍兴酒参观）](guyuelongshan.md) — 浙江古越龙山绍兴酒股份有限公司总部在绍兴市北海桥，其中央酒库位于越城区钱陶公路一带，是可供参观的大型陈酿酒库。这里看的是陶坛、年份与企业史，不是葡萄园或完整生产线；开放与预约以官方渠道为准。
+- [白鹿酒纪念馆](hakushika-sake-museum.md) — 兵库县西宫市滩五乡的清酒博物馆，由白鹿酿造元辰马本家酒造于 1982 年创业 320 年时设立，分为 1869 年建造的酒藏馆与纪念馆，展示滩酒工艺与樱研究资料。
+- [白州蒸馏所](hakushu-distillery.md) — 三得利 1973 年在山梨县北杜市白州町建成的麦芽威士忌蒸馏所，位于南阿尔卑斯山脚，以森林环境、花岗岩过滤的软水与多形状蒸馏器著称；参观须提前预约，设有免费导览与收费的“ものづくり”团。
+- [白鹤酒造资料馆](hakutsuru-museum.md) — 神户东滩区住吉南町的白鹤酒造资料馆，1982 年利用大正初期建造、运营至 1969 年的本店一号藏开馆；1995 年地震受损后于 1997 年复原，约 500 件酒造工具与 15 分钟影像构成参观主线。
+- [哈里酒吧（威尼斯）](harrys-bar-venice.md) — 威尼斯圣马可广场附近的传奇酒吧，1931 年由朱塞佩·奇普里亚尼创立，以贝里尼和生牛肉薄片闻名。
+- [哈利纽约酒吧](harrys-new-york-bar.md) — 巴黎第二区 rue Daunou 的百年鸡尾酒吧，1911 年由美国骑师 Tod Sloan 开设、Harry MacElhone 接手经营；以 Bloody Mary、Sidecar 等经典鸡尾酒的起源争议、“Sank Roo Doe Noo”招牌语与楼下钢琴闻名。
+- [天堂山酒厂](heaven-hill-distillery.md) — 美国肯塔基州巴兹敦的波本威士忌蒸馏厂，1935 年由 Shapira 五兄弟与当地投资人创立；1996 年大火后转往路易斯维尔蒸馏，2025 年以 Springs 新厂回到巴兹敦，参观从 Heaven Hill Bourbon Experience 集合出发。
+- [喜力体验馆：老啤酒厂的第二次生命](heineken-experience.md) — 阿姆斯特丹 Stadhouderskade 78 的喜力体验馆，由喜力最古老的啤酒厂改造；1988 年生产迁出后，这里以互动展陈、历史酿造空间与品鉴讲述喜力拉格，而不是一条仍在运转的生产线。
+- [丽兹海明威酒吧](hemingway-bar-ritz-paris.md) — 巴黎丽兹酒店内的传奇鸡尾酒吧，1994 年以海明威命名重开，25 个座位，以 Serendipity、Dry Martini 与无音乐的书房式氛围闻名。
+- [轩尼诗干邑酒庄](hennessy-cognac.md) — 1765 年由爱尔兰人理查·轩尼诗在干邑创立的酒商，如今在夏朗特河畔的理查·轩尼诗码头设游客中心与全球唯一全系列精品店，以八代调配师世家与从 19 欧元到 550 欧元的参观线路著称。
+- [恩里克斯与恩里克斯酒庄](henriques-henriques.md) — 位于马德拉卡马拉-德洛布什的家族马德拉酒庄，1850 年由若昂·贡萨尔维斯·恩里克斯创立；官方称其拥有自有葡萄园，酒窖提供三年期酒款品鉴，十人以下无需预约即可在工作日到访。
+- [亨施克酒庄](henschke.md) — 位于南澳伊甸谷基内顿的家族酒庄，1868 年出现首笔售酒记录，已传至第六代；以 Hill of Grace 与 Mount Edelstone 两块老藤西拉葡萄园著称，酒窖门市周一到周六 9:00–16:30 开放、周日关闭，因容量限制必须预约。
+- [皇家啤酒屋](hofbrauhaus.md) — 慕尼黑历史悠久的啤酒馆，1589 年由巴伐利亚公爵创立，以啤酒大厅和巴伐利亚菜闻名。
+- [博讷主宫医院](hospices-de-beaune.md) — 博讷市中心的 15 世纪慈善医院（Hôtel-Dieu），1443 年由勃艮第公爵府 chancellor 尼古拉·罗林与妻子吉戈娜·德·萨兰创立，1971 年停止收治病人后作为博物馆开放；以彩色琉璃瓦屋顶、罗希尔·范德魏登《最后的审判》祭坛画和每年 11 月的葡萄酒拍卖闻名。
+- [雨格酒庄](hugel.md) — 法国阿尔萨斯里屈埃维尔的一座家族酒庄，1639 年起在同一小镇经营，以黄标酒单、中世纪酒窖与 1715 年的 S. Caterine 大桶闻名，也是迟摘与贵腐精选法规的推动者；品鉴室按季开放，酒窖参观须预约。
+- [In ’t Aepjen](in-t-aepjen.md) — 阿姆斯特丹 Zeedijk 1 号的木立面历史房屋，约建于 1550 年；1920 年由 Hendrick de Keyser 协会购入，1986–87 修复后底层开设酒吧，沿用“猴子”传说与老阿姆斯特丹酒馆气质。
+- [英格努克酒庄](inglenook.md) — 纳帕谷卢瑟福的 1879 年历史酒庄，由 Gustave Niebaum 创立，1882 年建成石砌城堡；1941 年赤霞珠成为纳帕传奇，1994 年获有机认证，以 Rubicon、RC Reserve Syrah 与 Blancaneaux 著称。
+- [杰克丹尼酒厂](jack-daniels-distillery.md) — 田纳西州林奇堡的田纳西威士忌酒厂，1866 年由 Jack Daniel 注册，以林肯县工序的糖枫木炭过滤与旧 7 号闻名；所在的摩尔县是禁酒县，参观需预约，品鉴限 21 岁以上。
+- [尊美醇弓街酒厂](jameson-bow-street.md) — 都柏林 Smithfield 的尊美醇旧酒厂，1780 年由 John Jameson 在弓街创立，1970 年最后一次壶式蒸馏后停产，1997 年改为游客中心；今天以导览、对比品鉴与调酒课程讲述爱尔兰威士忌，但已不再生产。
+- [乔丹酒庄](jordan-vineyard.md) — 索诺马县亚历山大谷的法式风格酒庄，1972 年由 Tom 与 Sally Jordan 创立；以赤霞珠、霞多丽与法式城堡、餐厅体验著称。
+- [神谷酒吧](kamiya-bar.md) — 东京浅草 1 丁目 1 番地的老牌酒吧，1880 年创业，以“电气布兰”（Denki Bran）闻名，1921 年建成的本馆是日本登录有形文化财。
+- [贺茂泉酒造](kamoizumi.md) — 广岛县东广岛市西条上市町的酒藏，参观入口为延寿藏，平日可预约看片、走藏、讲解与试饮；附设的酒泉馆在周末与节假日营业，可一次比较二十种以上的贺茂泉清酒。官网目前公告参观预约暂停，出发前须电话确认。
+- [贺茂鹤酒造](kamotsuru.md) — 广岛县东广岛市西条酒藏通的酒藏，参观入口为西条本町 9 番 7 号的“一号藏”藏元直营店；旧藏建于 1872 年，2019 年改为见学室与直营店，2024 年随西条酒藏群列为国史迹，馆内可免费参观、付费试饮并购买藏元限定酒。
+- [基恩斯牛排馆](keens-steakhouse.md) — 纽约 1885 年开业的传统 chophouse，以 26 盎司羊排、大量陶土烟斗与 Herald Square 剧院区记忆闻名，2013 年获詹姆斯·比尔德“美国经典”奖。
+- [菊正宗酒造纪念馆](kiku-masamune-museum.md) — 神户东滩区鱼崎西町的菊正宗酒造纪念馆，1960 年将源自 1659 年御影本嘉纳家宅邸的酒藏移筑至此；1995 年地震倒塌后于 1999 年以耐震新馆复原，免费参观。
+- [基尔伯根酒厂](kilbeggan-distillery.md) — 爱尔兰 Westmeath 郡基尔伯根镇的老酒厂，1757 年取得执照，官方称为爱尔兰历史最悠久的持照酒厂；1957 年停产后由社区推动修复，2007 年恢复蒸馏，现以 Kilbeggan 调和、单一壶式与小型批次黑麦威士忌闻名。
+- [雾岛酒造雾岛工厂花园](kirishima-factory-garden.md) — 宫崎县都城市志比田町 5480 番地的烧酒观光设施，正式名称为“烧酎之里 雾岛工厂花园”；KIRISHIMA WALK FACTORY 每日五个时段、约 45 分钟，可看制曲、蒸芋、发酵与蒸馏，并提供免费试饮与甘薯试吃。
+- [库克香槟](krug.md) — 兰斯的香槟酒庄，1843 年由 Joseph Krug 创立，以跨年份的 Krug Grande Cuvée 为核心；Clos du Mesnil 1.84 公顷、Clos d’Ambonnay 0.68 公顷，均为单地块单一年份，现属 LVMH，2024 年在 Ambonnay 启用 Joseph 酒厂。
+- [会稽山（黄酒文化园与厂区参观）](kuaijishan.md) — 会稽山绍兴酒股份有限公司位于绍兴市柯桥区湖塘街道杨绍路 2579 号，鉴湖河畔。园区把黄酒博物馆、厂区参观与体验中心放在一起，可看到绍兴酒的工艺叙事与部分生产空间；需通过“会稽山黄酒博物馆”公众号预约。
+- [半途小酒馆](la-bodeguita-del-medio.md) — 哈瓦那老城的著名小酒馆，1942 年开业，以莫吉托和文人顾客的墙面签名闻名。
+- [丁香园咖啡馆](la-closerie-des-lilas.md) — 巴黎蒙帕纳斯大道 171 号的文学咖啡馆，1847 年该址已有舞厅，1883 年以现名经营；Paul Fort 周二聚会、Hemingway 1925 年完成《The Sun Also Rises》初稿，2007 年设 Prix de la Closerie des Lilas。
+- [圆顶咖啡馆](la-coupole.md) — 巴黎蒙帕纳斯大道 102 号的大型 brasserie，1927 年 12 月开业，32 根柱子由 27 位艺术家绘制；1928 年地下舞厅、1988 年历史建筑、2018 年 Bertrand 集团收购。
+- [里奥哈阿尔塔酒庄](la-rioja-alta.md) — 西班牙里奥哈阿罗（Haro）火车站区的历史酒庄，1890 年由五个里奥哈与巴斯克家族共同创立；以美国橡木桶、长时间陈酿与 Viña Ardanza、Gran Reserva 904、890 等酒款闻名，参观须提前预约。
+- [乐加维林蒸馏厂](lagavulin-distillery.md) — 苏格兰艾雷岛南岸、Port Ellen 以东的单一麦芽威士忌蒸馏厂，1816 年由 John Johnston 创立，以重泥煤、梨形蒸馏器与 16 年单一麦芽闻名，设有导览与 Warehouse No.3 品鉴。
+- [兰姆与旗](lamb-and-flag-covent-garden.md) — 伦敦科文特花园玫瑰街的历史酒馆，1772 年首次见于记载，19 世纪以赤手拳赛得名“血桶”，也是狄更斯与德莱顿故事的交汇点。
+- [拉弗格蒸馏厂](laphroaig-distillery.md) — 苏格兰艾雷岛南岸的泥煤味单一麦芽威士忌蒸馏厂，1815 年由约翰斯顿兄弟创立，厂区紧邻基尔布赖德溪与海，设有游客中心与多种预约制参观。
+- [露纹酒庄](leeuwin-estate.md) — 玛格丽特河的家族酒庄，1969 年由 Denis 与 Trish Horgan 创立；以 Art Series 霞多丽与西拉、以及 1985 年起的露纹音乐会著称。
+- [双叟咖啡馆](les-deux-magots.md) — 巴黎圣日耳曼德佩的文学咖啡馆，1885 年开业，曾与海明威、萨特和波伏娃等名字联系在一起。
+- [洛卡尔·德洛哈啤酒馆](lokal-dlouha.md) — 布拉格老城 Dlouhá 街的捷克啤酒馆，2009 年开业，以 12 个啤酒罐、69.78 米酒管、Pilsner Urquell 与 Kozel 深色拉格及捷克家常菜闻名。
+- [路易亚都酒庄](louis-jadot.md) — 博讷的勃艮第酒商与酒庄，1859 年由 Louis Henry Denis Jadot 创立；自有葡萄园约 528 英亩（214 公顷），其中约 280 英亩为金丘一级园与特级园，1996 年自建制桶厂，2024 年起酒庄葡萄园获有机认证。
+- [泸州老窖窖池群](luzhou-laojiao-cellars.md) — 四川泸州国窖广场的活态酿酒遗产，1573 年始建的国宝窖池连续使用 450 余年；连同 1619 口百年以上窖池、16 处明清作坊与三大天然藏酒洞，构成全国重点文物保护单位。
+- [美格酒厂](makers-mark-distillery.md) — 美国肯塔基州洛雷托的波本威士忌蒸馏厂，1952 年由 Bill Samuels Sr. 在 Star Hill Farm 创办，以红冬小麦替代黑麦、手工转桶与红蜡封瓶闻名；1980 年列为国家历史地标，参观需在官网预约。
+- [茅台酒厂（贵州茅台）](maotai-distillery.md) — 贵州仁怀茅台镇赤水河畔的酱香型白酒核心生产企业，前身为成义、荣和、恒兴三大烧房，1950 年代初整合为国营酒厂；核心产区 15.03 平方公里，以端午制曲、重阳下沙与长期陈贮闻名。
+- [瑞格尔侯爵酒庄](marques-de-riscal.md) — 里奥哈阿拉维萨 Elciego 的历史酒庄，1858 年由 Guillermo Hurtado de Amézaga 创立，1862 年推出首批瓶装里奥哈酒；2006 年 Frank Gehry 设计的酒店落成，2024 年获“世界最佳葡萄园”第一，以 Reserva、Gran Reserva 与 Barón de Chirel 著称。
+- [麦克索利老麦酒馆](mcsorleys-old-ale-house.md) — 纽约东村的历史酒馆，1854 年开业，以只供应淡色和深色艾尔、历史陈设闻名。
+- [美人鱼客栈](mermaid-inn.md) — 英国东萨塞克斯拉伊美人鱼街上的历史客栈，地窖可追溯至 1156 年，1377 年遭法国劫掠者焚毁后于 1420 年重建，18 世纪曾与霍克赫斯特走私团伙有关联。
+- [梅斯卡尔图书馆：瓦哈卡市中心的一间品鉴档案室](mezcaloteca.md) — 2010 年在瓦哈卡市 Reforma 街 506 号开门的品鉴室，不生产酒，而是以跨州、跨品种、跨生产者的收藏组织对比品鉴；以预约制为主，是理解传统梅斯卡尔与 NOM-070 关系的城市入口。
+- [酩悦香槟](moet-et-chandon.md) — 1743 年由克洛德·酩悦在埃佩尔奈创立的香槟酒庄，位于香槟大道，拥有约 28 公里白垩酒窖，是联合国教科文组织世界遗产的一部分；提供预约制酒窖参观、品鉴与酒吧体验。
+- [波布莱修道院](monastery-of-poblet.md) — 西班牙加泰罗尼亚 Vimbodí i Poblet 的熙笃会皇家修道院，1151 年由巴塞罗那伯爵拉蒙·贝伦格尔四世创建，1991 年列入世界遗产；院内的 Abadia de Poblet 是加泰罗尼亚唯一位于修道院内的酒庄。
+- [芒特盖酒厂](mount-gay-distillery.md) — 位于巴巴多斯圣露西教区北端的原址蒸馏厂，品牌以 1703 年为起点；厂区参观需预约，动线包括大宅、老井、发酵房、蒸馏室与陈年仓库，仅限 18 岁以上。
+- [姆加酒庄](muga.md) — 哈罗车站区的家族酒庄，1932 年由 Isaac Muga 与 Aurora Caño 创立；保留 200 年历史老宅、橡木大槽与自建制桶车间，坚持蛋清澄清与重力倒罐，以 Reserva、Prado Enea、Torre Muga 与 Aro 著称。
+- [哈瓦那朗姆酒博物馆](museo-del-ron-havana.md) — 位于哈瓦那老城港口大道 262 号的 18 世纪宅邸，2000 年 3 月 31 日开馆；以甘蔗到装瓶的展线、Havana Club 品鉴与酒吧商店构成哈瓦那朗姆入门。
+- [圣地亚哥朗姆酒博物馆](museo-del-ron-santiago.md) — 位于圣地亚哥-德古巴圣巴西利奥街 358 号 1889 年宅邸的朗姆博物馆，1996 年 6 月 24 日开馆；六个展厅、老装瓶线与酒馆品鉴，讲述东部“轻朗姆摇篮”的历史。
+- [穆索与弗兰克烤肉馆](musso-and-frank-grill.md) — 好莱坞大道 1919 年开业的餐厅与酒吧，1927 年迁到 6667 号现址；以老派侍者、Back Room 的文人影人记忆、经典 martini 与 flannel cakes 闻名，周一休息。
+- [拿破仑屋](napoleon-house-new-orleans.md) — 新奥尔良法国区 500 Chartres Street 的历史建筑与酒吧，1797 年建成，因 1821 年邀拿破仑避难的传说得名，1914 年起由 Impastato 家族经营。
+- [New York Café](new-york-cafe.md) — 布达佩斯 Erzsébet körút 9–11 号、纽约宫一层的咖啡馆，1894 年开业；黄金穹顶与 Nyugat 作家群，2006 年修复后重新开放。
+- [老苦艾酒屋](old-absinthe-house.md) — 新奥尔良 Bourbon 与 Bienville 街角的历史酒吧，建筑完成于 1806 年，1835 年取得酒牌，1874 年 Cayetano Ferrer 在此创作 Absinthe House Frappé。
+- [作品一号酒庄](opus-one-winery.md) — 纳帕谷奥克维尔的预约制酒庄，1979 年由罗伯特·蒙大维与菲利普·德·罗斯柴尔德男爵共同创立，只酿一款波尔多式混酿，1991 年启用现酒庄建筑。
+- [奔富玛吉尔庄园](penfolds-magill-estate.md) — 奔富在阿德莱德山麓的起点，1844 年建园，距市中心约 8 公里，是少见的城市单一葡萄园；门市每周七天 10:00–17:00 开放，提供酒窖参观、品鉴与餐厅体验，Grange 与 Bin 系列的试验传统在此有清晰的历史线索。
+- [巴黎之花](perrier-jouet.md) — 1811 年由皮埃尔—尼古拉·佩里耶与罗丝—阿德莱德·茹埃在埃佩尔奈创立的香槟酒庄，以霞多丽与 1902 年埃米尔·加莱设计的银莲花瓶闻名；访客可在香槟大道的 Cellier Belle Epoque 与 Maison Belle Epoque 体验。
+- [皮特酒馆](petes-tavern.md) — 纽约格拉梅西公园旁的历史酒馆与餐厅，1864 年在 1851 年建成的 Portman Hotel 底层开业，以 1864 House Ale、原始玫瑰木吧台与 O. Henry 写作传说闻名。
+- [比尔森啤酒厂：金色拉格的诞生地](pilsner-urquell-brewery.md) — 捷克 Plzeň 的比尔森啤酒厂自 1842 年由 Josef Groll 酿出第一锅金色拉格，至今坚持三重煮出糖化、软水与萨兹酒花；参观可进入历史糖化车间与酒窖，喝到未过滤原浆。
+- [Prater Garten](prater-garten.md) — 柏林普伦茨劳贝格 Kastanienallee 7–9 号的啤酒花园，官方起点 1837 年；栗树下长桌、自酿啤酒与露天剧场历史。
+- [克拉斯托酒庄](quinta-do-crasto.md) — 位于葡萄牙杜罗河谷萨布罗萨（Sabrosa）Gouvinhas 的家族酒庄，文献可追溯到 1615 年，1918 年起归 Constantino de Almeida 家族，1981 年由 Leonor 与 Jorge Roquette 接手；以杜罗 DOC 葡萄酒、波特酒与酒庄午餐闻名。
+- [诺瓦尔酒庄](quinta-do-noval.md) — 位于葡萄牙杜罗河谷皮尼昂附近 Vale de Mendiz 的历史波特酒庄，1715 年见于土地登记，1894 年由安东尼奥·若泽·达·席尔瓦接手重建，以未嫁接老藤地块 Nacional 与石 lagar 足踩酿造闻名；参观须预约。
+- [莱佛士长廊酒吧](raffles-long-bar.md) — 新加坡莱佛士酒店 Raffles Arcade 二层的传奇酒吧，1915 年在此首创新加坡司令，以花生壳落地的传统与 1920 年代马来亚种植园风格的空间闻名。
+- [雷亚尔米内罗帕伦克：圣卡塔里娜米纳斯的陶罐与种子](real-minero-palenque.md) — 位于墨西哥瓦哈卡州圣卡塔里娜米纳斯的家族 palenque，以土坑烘烤、木槌手捣与陶罐二次蒸馏著称；1978 年购入 La Concepción 老厂，2005 年后以 Mezcal Joven 装瓶，参观须预约且仅西语讲解。
+- [人头马干邑酒庄](remy-martin-cognac.md) — 1724 年由同名葡萄农创立的干邑酒商，只使用大香槟与小香槟区的生命之水，参观分散在干邑老宅、梅尔潘生产基地与瑞亚克勒科克蒸馏厂三处，价格从 25 欧元起。
+- [罗伯特·蒙大维酒庄](robert-mondavi-winery.md) — 纳帕谷奥克维尔的标志性酒庄，1966 年由罗伯特·蒙大维创立，以 To Kalon 葡萄园与传教站风格建筑闻名，2026 年完成三年改造后重新开放。
+- [萨摩酒造明治藏](satsuma-shochu-meijigura.md) — 鹿儿岛县枕崎市立神本町的烧酒藏，正式名称为花渡川蒸馏所明治藏；保留明治以来的藏屋与甕仕込，可免费参观制曲、发酵与蒸馏流程，馆内销售 25 度的白波与黑白波及 37 度原酒。
+- [施伦克拉烟熏啤酒馆](schlenkerla.md) — 德国班贝格的历史烟熏啤酒酒馆，以 Rauchbier 和传统法兰肯菜闻名。
+- [苏格兰威士忌体验中心](scotch-whisky-experience.md) — 爱丁堡城堡旁、皇家一英里顶端的威士忌主题展馆，1988 年由 19 家苏格兰威士忌公司合资设立；以互动展陈、多语种导览与 Diageo Claive Vidiz 藏酒闻名，本身不是生产型酒厂。
+- [水井坊博物馆](shuijingfang-museum.md) — 成都锦江区水井街的考古遗址博物馆，原址保存元末明初以来的水井街酒坊遗址；1999 年全国十大考古新发现，2001 年列为全国重点文物保护单位。
+- [西班牙人客栈](spaniards-inn-hampstead.md) — 伦敦 Hampstead Heath 北缘的 1585 年历史客栈，曾为收费关卡与驿馆，以狄更斯、济慈、Turpin 传说和大型围墙花园闻名。
+- [Speak Low 酒吧](speak-low.md) — 上海前法租界复兴中路的隐藏式鸡尾酒吧，2014 年由后闲信吾（Shingo Gokan）创立，入口藏在 OCHO 酒吧器具店内，以禁酒令主题、多层空间与经典/原创鸡尾酒闻名。
+- [云顶酒厂](springbank-distillery.md) — 苏格兰坎贝尔镇 Well Close 的家族蒸馏厂，1828 年由 Archibald Mitchell 在私蒸旧址上创立，是少数在厂内完成地板发麦、糖化、蒸馏与装瓶的单一麦芽酒厂；Springbank、Longrow、Hazelburn 三种酒名分别对应 2.5 次、2 次与 3 次蒸馏。
+- [鹿跃酒庄](stags-leap-wine-cellars.md) — 纳帕谷鹿跃区名庄，1970 年由 Warren Winiarski 创立；1973 年 S.L.V. 赤霞珠在 1976 年巴黎审判红葡萄酒组名列第一，旗舰为 S.L.V.、FAY 与 CASK 23，2023 年起由安东尼世家全资持有。
+- [星光酒吧（银座）](star-bar-ginza.md) — 东京银座一丁目并木通一带的地下一层经典鸡尾酒吧，主理人岸久；以经典配方、三种冰与银座老派吧台为核心，官方标明的座位费为每人 1100 日元。
+- [斯泰伦博斯](stellenbosch.md) — 西开普省的历史葡萄酒小镇与产区，1679 年由 Simon van der Stel 命名；以橡树成荫的 Dorp Street、Cape Dutch 建筑与 150 多家酒庄著称，1971 年建立南非第一条官方葡萄酒路线，现有五条子路线。
+- [泰亭哲香槟](taittinger.md) — 兰斯圣尼凯斯的家族香槟酒庄，起源可追溯到 1734 年的 Forest-Fourneaux，1932 年由 Pierre Taittinger 接手；约 288 公顷、37 个 crus，18 米深酒窖属 UNESCO 香槟遗产，Comtes de Champagne 首创于 1952 年。
+- [铜头酒馆](the-brazen-head.md) — 都柏林下桥街的爱尔兰老酒馆，店方称此地自 1198 年即有酒馆、现存建筑为 1754 年所建；以传统音乐、健力士与爱尔兰家常菜闻名，今天仍在营业。
+- [康诺特酒吧](the-connaught-bar.md) — 伦敦梅费尔康诺特酒店内的鸡尾酒吧，2008 年开业，以桌边手推车调制的马天尼、David Collins Studio 设计的空间和 The Connaught Bar Gin 闻名。
+- [乔治客栈](the-george-inn.md) — 伦敦南岸 Borough High Street 的历史客栈，国家信托所有、Greene King 经营；现存建筑为 17 世纪火灾后重建，是伦敦仅存的带廊式客栈，狄更斯《小杜丽》曾提及。
+- [麦卡伦庄园](the-macallan-estate.md) — 苏格兰 Craigellachie 附近 Easter Elchies 的麦卡伦酒厂与游客中心，1824 年取得合法执照，2018 年启用由 Rogers Stirk Harbour + Partners 设计的新酒厂；以雪莉桶熟成、小型蒸馏器与庄园式参观体验闻名，进入庄园须提前预约。
+- [青岛啤酒博物馆](tsingtao-beer-museum.md) — 2003 年 8 月 15 日青岛啤酒百年华诞时开馆，位于 1903 年德资啤酒厂原址，是国内首家专业啤酒博物馆，也是国家一级博物馆与全国重点文物保护单位。
+- [青岛啤酒街（登州路）](tsingtao-beer-street.md) — 市北区登州路东起延安二路、西至寿光路的一段商业街，长约 710 米，以啤酒屋、海鲜大排档与夜间消费闻名；青岛啤酒厂与啤酒博物馆就在街上。它是喝酒吃饭的街区，不是博物馆的延伸展厅。
+- [青岛啤酒厂（登州路厂区）](tsingtao-brewery.md) — 青岛啤酒位于市北区登州路 56 号的老厂区，1903 年德资啤酒厂在此建立，至今仍在运转。青岛啤酒博物馆就坐落在厂区内，游客通过博物馆的展线与玻璃廊道观看生产，不能自行进入车间；这里讲的是德式拉格传统与一座仍在工作的老厂。
+- [弗勒克啤酒屋](u-fleku.md) — 布拉格历史悠久的啤酒馆和微型啤酒厂，创立于 1499 年，以自酿黑啤和捷克菜闻名。
+- [小熊酒馆](u-medvidku.md) — 布拉格老城 Na Perštýně 街上的历史酒馆、餐厅与微型酒厂，建筑酿酒史可追溯到 1466 年，以 250 升糖化锅、橡木桶后熟与 X-BEER 33 闻名。
+- [金虎酒馆](u-zlateho-tygra.md) — 布拉格老城胡索瓦街 17 号的啤酒馆，房屋可追溯至 14 世纪，以皮尔森啤酒、赫拉巴尔常坐的桌位与哈维尔带克林顿来访而闻名。
+- [联合牡蛎屋](union-oyster-house.md) — 波士顿 Union Street 的 1826 年餐厅，所在建筑历史可追到 18 世纪；以半圆牡蛎吧台、Daniel Webster 与 Kennedy booth 闻名，2003 年列为国家历史地标。
+- [法塞尔酒庄](vasse-felix.md) — 玛格丽特河的第一个葡萄园与酒庄，1967 年由 Tom Cullity 创立；以 Heytesbury、Filius 与 Premier 系列著称，酒庄内有美术馆与餐厅。
+- [维苏威咖啡馆](vesuvio-cafe.md) — 旧金山 North Beach 的 1948 年酒吧，Henri Lenoir 创办；与 Beat 作家群相连，隔 Jack Kerouac Alley 与 1953 年开业的 City Lights 书店相望，现仍为拥挤的街区酒吧。
+- [王宝和酒家](wang-bao-he.md) — 上海福州路 603 号的黄酒与蟹宴老字号，1744 年始创，1936 年迁至现址，以王宝和黄酒、大闸蟹与“菊花蟹宴”闻名。
+- [唯森啤酒厂](weihenstephan-brewery.md) — 位于德国弗赖辛 Weihenstephan 山上的巴伐利亚国立酒厂，以 1040 年的酿酒特许为起点，是“世界最古老啤酒厂”说法最常被引用的对象；参观需提前预约，山下的 Bräustüberl 常年营业。
+- [白马酒馆](white-horse-tavern.md) — 纽约格林威治村的历史酒馆，1880 年开业，因诗人迪伦·托马斯等文人顾客闻名。
+- [威廉姆斯-塞莱姆酒庄](williams-selyem.md) — 索诺马县俄罗斯河谷的先锋黑皮诺酒庄，1981 年由 Burt Williams 与 Ed Selyem 在车库创立；以低产、老藤与细密风格著称，参观需预约。
+- [维拉维拉酒庄](wirra-wirra.md) — 麦克拉伦谷的历史酒庄，1894 年由 Robert Strangways Wigley 创建，1969 年由 Greg Trott 修复；以 Church Block 混酿、Scrubby Rise 与 R.S.W. 西拉著称。
+- [五粮液酒文化博物馆](wuliangye-wine-museum.md) — 位于宜宾市翠屏区岷江西路 150 号五粮液厂区内的酒文化博览馆，官方名称为五粮液酒文化博览馆，始建于 1988 年，展陈面积约 2400 平方米；2022 年 7 月提档升级，设品牌、工艺、历史、发展、规划五个展厅，免费开放。
+- [咸亨酒店](xianheng-hotel.md) — 绍兴市越城区鲁迅中路 179 号的老字号酒店与餐厅，1894 年（清光绪二十年）开业，因鲁迅《孔乙己》等作品而广为人知；今天的建筑为 1981 年重修、2007 年后扩建，堂吃部仍卖黄酒与茴香豆。
+- [山崎蒸馏所](yamazaki-distillery.md) — 日本大阪府岛本町的麦芽威士忌蒸馏厂，1923 年动工、1924 年开始蒸馏，是日本最早的麦芽威士忌蒸馏厂；参观需预约，设有付费蒸馏所导览与免费的威士忌馆。
+- [洋河酒厂文化旅游区](yanghe-tourism.md) — 江苏宿迁洋河镇中大街 118 号的酒厂文化旅游区，占地约 4.5 平方公里；2019 年列入第三批国家工业遗产，31 连跨车间、9 万吨陶坛库与地下酒窖构成主要参观点，散客入园时间须以官网公告为准。
+- [柴郡奶酪酒馆](ye-olde-cheshire-cheese.md) — 伦敦舰队街的历史酒馆，现建筑 1667 年重建，以木结构内饰和传统英式菜闻名。
+- [老主教冠酒馆](ye-olde-mitre.md) — 伦敦哈顿花园旁 Ely Court 内的历史酒馆，1546 年已有酒馆，现建筑为 18 世纪，以狭巷入口、木质内饰和传统英式麦酒闻名。
+- [耶路撒冷之旅酒馆](ye-olde-trip-to-jerusalem.md) — 位于英国诺丁汉城堡岩下的历史酒馆，自称英格兰最古老酒馆、创业于 1189 年；这一说法缺少同时代的确凿证据。现仍正常营业，每日 11:00–23:00。
+- [伊兰兹酒庄](yealands.md) — 新西兰马尔堡塞登 Seaview Road 的沿海酒庄，2008 年 8 月 8 日启用新厂，以从建厂第一天起获得 Toitū 碳中和认证与 White Road 自驾参观著称；品鉴室提供当地奶酪与腌肉，官方网站在部分地区受年龄验证限制，开放状态以官网或现场确认为准。
+- [苏卡尔迪酒庄](zuccardi.md) — 苏卡尔迪家族 1963 年创立的门多萨酒庄，商业档案地址位于迈普 Ruta Provincial 33, Km 7,5，也是 Santa Julia 产品线的基地；当前对外参观与餐厅体验主要在 Uco Valley 的 Finca Piedra Infinita，迈普基地的接待状态未能由官网确认。
+- [最后一审餐厅](zur-letzten-instanz.md) — 柏林瓦伊森街 14–16 号的历史餐厅，房屋初见于 1561 年，餐饮传统始于 1621 年，1924 年起使用今名，是柏林最老的餐厅之一。
+状态不是 `reviewed` 的条目只用于迁移预览，不进入正式搜索。
+
+[返回中文目录](../README.md)

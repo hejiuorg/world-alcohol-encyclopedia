@@ -1,0 +1,171 @@
+---
+schema_version: 1
+id: guide:food-pairing
+type: guide
+lang: en
+slug: food-pairing
+title: Look at the plate before the glass
+summary: Pairing is not a single right answer but a balance of weight, acidity, sweetness, fat and heat; taste a bite, then decide the next sip.
+status: reviewed
+revision: 3
+translation_of: guide:food-pairing
+source_lang: zh
+source_revision: sha256:49f5d8b29da7a877447fcf72f2ce32e985b6f55c332d3705a315cd87e968d651
+source_sha256: 49f5d8b29da7a877447fcf72f2ce32e985b6f55c332d3705a315cd87e968d651
+translation_status: reviewed
+about_refs:
+  - drink-style:wine
+  - drink-style:yellow-wine
+audience: readers who want pairing principles rather than a list of rules
+difficulty: beginner
+legacy_refs: []
+aliases: []
+tags:
+  - curated
+  - source-verified
+related:
+  - relation: about
+    target_id: drink-style:baijiu
+  - relation: about
+    target_id: drink-style:beer
+references:
+  - key: wine
+    target_id: drink-style:wine
+  - key: yellow-wine
+    target_id: drink-style:yellow-wine
+  - key: baijiu
+    target_id: drink-style:baijiu
+  - key: beer
+    target_id: drink-style:beer
+  - key: tannin
+    target_id: term:tannin
+  - key: hotpot
+    target_id: pairing:hotpot-baijiu
+  - key: grilled
+    target_id: pairing:grilled-meat-beer
+  - key: tasting
+    target_id: guide:first-tasting
+sources:
+  - key: wset-pairing
+    title: Four rules to masterful food and wine pairing
+    url: https://www.wsetglobal.com/knowledge-centre/blog/2023/july/13/four-rules-to-masterful-food-and-wine-pairing/
+    publisher: WSET
+    published: 2023-07-13
+    note: Used to check pairing principles of weight, acidity, sweetness and tannin; no source text is reproduced.
+    accessed: 2026-11-04
+  - key: oxford-wine
+    title: The Oxford Companion to Wine
+    publisher: Oxford University Press
+    note: Used to check general background on acidity, tannin, sweetness and serving temperature; no source text is reproduced.
+    accessed: 2026-11-04
+    url: https://global.oup.com/academic/product/the-oxford-companion-to-wine-9780198871316
+  - key: oxford-food
+    title: The Oxford Companion to Food
+    publisher: Oxford University Press
+    note: Used to check how ingredients, sauces and cooking methods affect flavour; no source text is reproduced.
+    accessed: 2026-11-04
+    url: https://www.oxfordreference.com/display/10.1093/acref/9780199677337.001.0001/acref-9780199677337
+  - key: oiv
+    title: OIV — International Organisation of Vine and Wine
+    url: https://www.oiv.int/
+    publisher: International Organisation of Vine and Wine
+    note: Used to check international references on wine and food pairing; no source text is reproduced.
+    accessed: 2026-11-07
+rights:
+  status: allowed
+  license: CC-BY-4.0
+  basis: Project-authored English translation of the Chinese page; based on public pairing principles and food reference works, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+verification_scope: source-verified
+---
+
+# Look at the plate before the glass
+
+Pairing is not the formula "red wine with red meat". Look at the plate first: the weight, fat, acidity, sweetness, savouriness and heat of the food often matter more than the colour of the drink. Then look at the glass: the weight, acidity, sweetness, tannin, bubbles and temperature of the drink determine whether it can carry that bite.
+
+![Look at the plate before the glass thematic illustration](/media/photos/theme-route.jpg)
+
+Figure: thematic illustration for Look at the plate before the glass. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+## Look at the plate first
+
+The same sentence, "goes with red meat", produces completely different results for stewed beef and charcoal-grilled steak. Stewed beef has plenty of liquid, little fat and a lighter flavour; grilled meat has a charred surface, heavy fat and high salt. The first needs a fresh, high-acid drink; the second can carry a heavier body and more tannin. The name of the ingredient is only the starting point; the cooking method and sauce decide the flavour.
+
+## Match weight to weight
+
+The first practical pairing principle is weight to weight. Light dishes go with light drinks, heavy dishes with heavy drinks. Steamed fish with a heavily tannic red wine makes the wine feel coarse and the fish thin; braised meat in a rich sauce with a fresh sparkling drink leaves the drink completely overwhelmed. When weights do not match, the drink is not "bad"; the two simply are not at the same table.
+
+Weight is not alcohol content. A drink with modest alcohol but concentrated flavour may carry more "weight" than a high-alcohol drink with simple flavour. Judge weight by aroma intensity, palate density and finish length, not by the number alone.
+
+## Acidity and fat
+
+High-acid [wine](ref:wine) cuts through fat and refreshes the palate. Fried food, fatty meat and cream sauces all suit drinks with higher acidity. Without enough acidity, fat accumulates in the mouth and both the next bite and the next sip feel dull.
+
+But more acidity is not always better. Excessive acidity makes light dishes feel sharp and can amplify a metallic impression. Look at the whole dish: if it already has the acidity of lemon, vinegar or tomato, the drink does not need to carry the whole job of cutting richness.
+
+## Sweetness and heat
+
+Sweetness can soften chilli heat, while high alcohol amplifies it. With spicy food, a sweet drink is usually more comfortable than a high-alcohol dry one; chilling also reduces the burn. Note that too little sweetness makes the heat more direct, while too much sweetness can cover the flavour of the dish itself.
+
+Heat also involves fat and spice. The heat of a mala hotpot comes from chilli and Sichuan pepper, giving both burn and numbness; such dishes suit drinks that cool, carry sweetness or bring bubbles. For a specific hotpot pairing, see [Hotpot and baijiu](ref:hotpot).
+
+## Tannin and protein
+
+[Tannin](ref:tannin) binds with protein, making the palate feel dry while reducing the richness of meat. This is one reason red meat often goes with red wine. But tannin meeting fish and seafood can amplify fishiness and a metallic note, especially with steaming or raw preparation.
+
+Tannin strength should match the fat and fibre of the dish. Fatty, fibrous red meat can carry stronger tannin; delicate, light dishes suit softer tannin. Tannin is not a sign of "quality"; mismatched, it simply feels coarse.
+
+## Savouriness and bitterness
+
+Savoury, umami-rich flavours amplify bitterness and alcohol. Soy sauce, oyster sauce, fermented bean products and aged cheese all belong here. When pairing, choose a drink with sweetness, higher acidity or bubbles to balance the pressure of savouriness; alternatively, choose a drink that itself carries a savoury note so the flavours echo each other.
+
+Bitterness is easily amplified by bitter dishes such as bitter melon, chicory or charred vegetables. Avoid drinks with strong tannin or obvious bitterness, or the bitterness stacks up. The aim is not to remove bitterness but to give it layers without sharpness.
+
+## Texture, temperature and bubbles
+
+Texture includes tender, crisp, springy, sticky and flaky. Tender dishes suit drinks with a soft texture; crisp dishes suit high-acid, bubbly drinks; sticky, rich dishes suit drinks with some body and sweetness. When textures do not match, the pairing feels awkward even if the flavours are close.
+
+Temperature changes the match. The same [huangjiu](ref:yellow-wine) is softer and sweeter warm, fresher and more direct chilled; the same [beer](ref:beer) shows more bitterness when warmer, more bubbles and freshness when colder. The temperature of the dish and the temperature of the drink need to be considered together.
+
+Bubbles are a "palate cleaner" in pairing. Fried food, cream and salty snacks often suit sparkling wine or sparkling drinks, because bubbles carry away fat and acidity restores freshness.
+
+## Sauce and cooking method
+
+The sauce often matters more than the ingredient itself. Steaming emphasises the original flavour, so it suits light drinks with moderate acidity; braising uses sugar and soy, giving a strong sweet-savoury flavour, so it suits drinks with some sweetness or body; grilling brings char and fat, so it suits drinks with smoke, cask or tannin; cold dressing brings acidity and sesame oil, so it suits fresh, high-acid drinks.
+
+Cooking also changes texture and temperature. The same fish steamed is tender and hot; raw is cold and springy; braised is soft and rich in sauce. The three preparations may need completely different drinks; "fish goes with white wine" cannot cover them all.
+
+## Common Chinese combinations
+
+- Hairy crab with warm huangjiu: the sweetness of the crab echoes the rice aroma and slight sweetness of huangjiu, and the warmth offsets the chilled feeling.
+- Braised pork with semi-dry huangjiu: the fat and sweet-savoury sauce need acidity and body, and the acidity and rice aroma of huangjiu can carry them.
+- Mala hotpot with chilled [baijiu](ref:baijiu) or beer: the stimulation of high alcohol stacks with the heat, while chilling and bubbles provide cooling; for details, see [Hotpot and baijiu](ref:hotpot).
+- Charcoal-grilled meat with lager or smoked beer: bitterness and bubbles cut the fat, and malt aroma echoes the char; for details, see [Grilled meat and beer](ref:grilled).
+- Steamed fish with a fresh white wine: both acidity and aroma intensity need restraint, so as not to overpower the umami of the fish.
+
+These combinations are common experience, not rules. The same dish may be seasoned very differently in different restaurants, and the actual taste in the mouth remains the final judge.
+
+## The order of a meal
+
+- First decide the weight of the whole meal: light snacks, or heavy, richly sauced main dishes.
+- Arrange drink weight in serving order, usually from light to heavy, so a later drink is not overwhelmed by an earlier one.
+- Taste each dish alone first, then take a sip, and judge whether the flavour is amplified, muted or cleaned up.
+- Keep one fresh drink as a palate cleaner between two heavy dishes.
+- Match dessert with a drink at least as sweet as the dessert, or the drink will seem thin and sour.
+- Record the result, and next time adjust only one drink or one dish.
+
+## Common misconceptions
+
+First, pairing only by the colour of the ingredient. Cooking method and sauce often matter more than the ingredient itself.
+
+Second, assuming an expensive drink pairs better. Price is irrelevant to pairing; weight and structure are the key.
+
+Third, using high alcohol to fight heat. High alcohol amplifies heat; sweetness, chilling and bubbles are usually more effective.
+
+Fourth, matching all seafood with white wine. Steaming, raw preparation, braising and grilling need different drinks.
+
+Fifth, ignoring temperature. The same drink can move from "suitable" to "unsuitable" at a different temperature.
+
+## Boundary
+
+Personal preference comes before rules. The aim is a more enjoyable meal, not one "correct" drink for every dish. To record your impressions more systematically, see [How to take a first taste](ref:tasting). This page evaluates no specific restaurant or brand and does not present any pairing as the only answer.

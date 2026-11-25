@@ -1,0 +1,22 @@
+# Processes
+
+[返回English目录](../README.md)
+
+- [Blending](blending.md) — Combining liquids from different batches, vintages, varieties or cask types in set proportions to stabilise quality, balance structure or build a fixed style; wine, Champagne, whisky, brandy and baijiu follow different rules and logics.
+- [Distillation](distillation.md) — A process that separates and concentrates ethanol from a fermented liquid or mash by exploiting differences in boiling points; equipment, reflux and cut points shape the spirit's flavour.
+- [Fermentation](fermentation.md) — The metabolic process in which yeast or bacteria convert sugar into ethanol, carbon dioxide and flavour compounds under low oxygen; strain, temperature, sugar concentration, pH and oxygen set speed, strength and aroma.
+- [Fortification](fortification.md) — The addition of grape spirit to wine to raise alcohol and stabilise the wine; fortifying mid-fermentation retains residual sugar, while fortifying after fermentation gives a dry fortified style, so timing and proportion decide the result.
+- [Kimoto and yamahai](kimoto-yamahai.md) — Two traditional sake-mother routes that rely on natural lactic acid bacteria; kimoto keeps the yamafuri mashing step while yamahai omits it, and both differ from the sokujo route that adds lactic acid, shaping acidity, umami and production time.
+- [Lagering](lagering.md) — The cold-storage stage after primary fermentation, in which yeast takes up diacetyl, suspended solids settle, sulfur compounds disperse and natural carbonation settles; the temperature curve, time and dissolved oxygen decide the cleanliness and shelf life of lager.
+- [Lees ageing](lees-ageing.md) — An ageing method that keeps wine in contact with the fine lees left after fermentation; stirring frequency, temperature and time bring roundness, creamy and bready notes and a reductive barrier, but poor handling produces sulfides and bitterness.
+- [Malolactic fermentation](malolactic-fermentation.md) — A secondary fermentation in which lactic acid bacteria convert malic acid into lactic acid and carbon dioxide; it lowers titratable acidity, raises pH and softens texture, adding creamy notes in moderation but volatile acidity, biogenic amines and haze when uncontrolled.
+- [Malting](malting.md) — The pre-treatment that steeps, germinates, kilns and de-roots barley and other grains; the degree of germination and the kilning curve set amylase power, modification and colour, and therefore saccharification efficiency and finished flavour.
+- [Mixed steaming and distillation](mixed-steaming.md) — A solid-state baijiu arrangement in which fresh grain and fermented mash are steamed in the same vessel and spirit is collected in one pass, as opposed to separate steaming; it usually works with continuous mash replenishment and shapes grain aroma, body and pit cycling.
+- [Oak ageing](oak-ageing.md) — Storing wine or spirit in oak casks so that wood, trace oxygen and time change aroma, tannin, colour and texture; species, cask size, age and toast level are adjustable variables.
+- [Pressing](pressing.md) — Pressing separates juice or wine from skins, seeds and stems. White wines are usually pressed before fermentation, red wines after maceration or fermentation, and the pressure curve and fraction cuts decide yield, tannin and body.
+- [Qu making](qu-making.md) — A traditional process that cultures moulds, yeasts and bacteria on grain to make a saccharifying and fermenting starter; qu quality and microbial community directly affect yield and flavour in baijiu and yellow wine.
+- [Saccharification](saccharification.md) — The process that breaks starch in grains and other raw materials into fermentable sugars; malt enzymes, mould enzymes from qu, temperature, pH and the water-to-grain ratio set the sugar profile and shape body, yield and fermentation.
+- [Solid-state fermentation](solid-state-fermentation.md) — Fermentation carried out on a low-moisture solid grain mash, the basis of solid-state baijiu; unlike semi-solid and liquid routes, vessels, qu and temperature management shape the flavour.
+- [Stacked fermentation](stacked-fermentation.md) — An open process step in baijiu production in which qu-inoculated mash is piled for a period before pit loading, allowing natural warming and microbial multiplication. Common in sauce-aroma baijiu.
+
+Entries not marked `reviewed` are migration previews and are excluded from production search.

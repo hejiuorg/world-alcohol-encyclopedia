@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 520" width="860" height="520" role="img" aria-labelledby="f3t f3d">
+  <title id="f3t">葡萄酒正标常见信息位置</title>
+  <desc id="f3d">示意图：一张法国 AOC 葡萄酒正标的九个常见信息位置，包括酒庄名、法定产区名、年份、分级、品种或酒款名、酒精度、容量、装瓶者与过敏原提示。</desc>
+  <rect width="860" height="520" fill="#faf7f0"/>
+  <text x="40" y="46" font-family="Georgia, 'Songti SC', serif" font-size="22" fill="#2b2118">一张正标上，先读哪几行</text>
+  <text x="40" y="70" font-family="Georgia, 'Songti SC', serif" font-size="13" fill="#6b5b4a">带 * 的项目在欧盟属于强制或条件强制信息；其余为常见但非必须</text>
+
+  <!-- label -->
+  <rect x="70" y="110" width="300" height="370" rx="4" fill="#f3ead6" stroke="#8a7a5f" stroke-width="2"/>
+  <g font-family="Georgia, 'Songti SC', serif" fill="#2b2118" text-anchor="middle">
+    <text x="220" y="160" font-size="12" fill="#8a7a5f">CHÂTEAU</text>
+    <text x="220" y="190" font-size="19">某某酒庄</text>
+    <text x="220" y="214" font-size="11" fill="#8a7a5f">GRAND CRU CLASSÉ</text>
+    <line x1="120" y1="232" x2="320" y2="232" stroke="#b9a888"/>
+    <text x="220" y="262" font-size="14">MARGAUX</text>
+    <text x="220" y="284" font-size="10" fill="#6b5b4a">APPELLATION MARGAUX CONTRÔLÉE *</text>
+    <text x="220" y="316" font-size="15">2015</text>
+    <text x="220" y="344" font-size="11" fill="#6b5b4a">12.5% vol * · 750 ml *</text>
+    <text x="220" y="368" font-size="10" fill="#6b5b4a">MIS EN BOUTEILLE AU CHÂTEAU *</text>
+    <text x="220" y="390" font-size="10" fill="#6b5b4a">CONTIENT DES SULFITES *</text>
+    <text x="220" y="418" font-size="9" fill="#8a7a5f">L. 26-11-08 · 法国·波尔多</text>
+  </g>
+
+  <!-- callouts -->
+  <g font-family="Georgia, 'Songti SC', serif" font-size="13" fill="#2b2118">
+    <g stroke="#8c2f1f" stroke-width="1.2">
+      <line x1="370" y1="186" x2="440" y2="150"/><line x1="370" y1="258" x2="440" y2="210"/>
+      <line x1="370" y1="280" x2="440" y2="260"/><line x1="370" y1="314" x2="440" y2="310"/>
+      <line x1="370" y1="216" x2="440" y2="360"/><line x1="370" y1="342" x2="440" y2="410"/>
+      <line x1="370" y1="366" x2="440" y2="456"/><line x1="370" y1="388" x2="440" y2="492"/>
+    </g>
+    <text x="448" y="154">1 酒庄或生产商名：谁装瓶、谁负责</text>
+    <text x="448" y="214">2 法定产区名：葡萄来自哪个受控产区</text>
+    <text x="448" y="264">3 分级或地块声明：如 Grand Cru Classé、Premier Cru</text>
+    <text x="448" y="314">4 年份：只有全部来自该年才可标</text>
+    <text x="448" y="364">5 品种或酒款名：新世界更常见单一品种标注</text>
+    <text x="448" y="414">6 酒精度与容量：两者都是强制信息</text>
+    <text x="448" y="460">7 装瓶声明：酒庄内、产区内或酒商装瓶</text>
+    <text x="448" y="496">8 过敏原提示：含亚硫酸盐几乎必标</text>
+  </g>
+  <text x="700" y="112" font-family="Georgia, 'Songti SC', serif" font-size="11" fill="#8a7a5f" text-anchor="end">本站自绘 · CC BY 4.0</text>
+</svg>

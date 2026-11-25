@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440" role="img" aria-labelledby="f4t f4d">
+  <title id="f4t">五种常见杯型的轮廓与用途</title>
+  <desc id="f4d">示意图：从左到右依次为香槟笛形杯、郁金香杯、碟形杯、古典杯与 copita 品鉴杯，并标注各自最常见的用途。</desc>
+  <rect width="860" height="440" fill="#faf7f0"/>
+  <text x="40" y="46" font-family="Georgia, 'Songti SC', serif" font-size="22" fill="#2b2118">杯型不是礼仪，是香气与温度的控制器</text>
+  <text x="40" y="70" font-family="Georgia, 'Songti SC', serif" font-size="13" fill="#6b5b4a">收口越窄，香气越集中；杯口越宽，酒精感越容易散开</text>
+
+  <g fill="none" stroke="#4a3b2a" stroke-width="2.5" stroke-linejoin="round">
+    <!-- flute -->
+    <path d="M96 110 L96 250 C96 268 108 280 126 280 C144 280 156 268 156 250 L156 110 Z"/>
+    <line x1="126" y1="280" x2="126" y2="350"/><line x1="100" y1="352" x2="152" y2="352"/>
+    <!-- tulip -->
+    <path d="M226 108 C226 108 210 150 210 196 C210 236 228 262 256 262 C284 262 302 236 302 196 C302 150 286 108 286 108 Z"/>
+    <line x1="256" y1="262" x2="256" y2="350"/><line x1="230" y1="352" x2="282" y2="352"/>
+    <!-- coupe -->
+    <path d="M362 112 C354 128 350 148 358 164 C368 184 440 184 450 164 C458 148 454 128 446 112 Z"/>
+    <line x1="404" y1="182" x2="404" y2="350"/><line x1="378" y1="352" x2="430" y2="352"/>
+    <!-- rocks -->
+    <path d="M508 200 L518 344 C519 352 526 356 534 356 L586 356 C594 356 601 352 602 344 L612 200 Z"/>
+    <!-- copita -->
+    <path d="M660 110 C660 150 648 190 648 214 C648 240 664 258 686 258 C708 258 724 240 724 214 C724 190 712 150 712 110 Z"/>
+    <line x1="686" y1="258" x2="686" y2="350"/><line x1="660" y1="352" x2="712" y2="352"/>
+  </g>
+
+  <g font-family="Georgia, 'Songti SC', serif" font-size="13" fill="#2b2118" text-anchor="middle">
+    <text x="126" y="386">笛形杯</text><text x="126" y="406" font-size="11" fill="#6b5b4a">气泡、开胃酒</text>
+    <text x="256" y="386">郁金香杯</text><text x="256" y="406" font-size="11" fill="#6b5b4a">香槟、起泡酒</text>
+    <text x="404" y="386">碟形杯</text><text x="404" y="406" font-size="11" fill="#6b5b4a">鸡尾酒、庆典</text>
+    <text x="560" y="386">古典杯</text><text x="560" y="406" font-size="11" fill="#6b5b4a">加冰烈酒、调酒</text>
+    <text x="686" y="386">Copita</text><text x="686" y="406" font-size="11" fill="#6b5b4a">雪莉、品鉴</text>
+  </g>
+  <text x="800" y="422" font-family="Georgia, 'Songti SC', serif" font-size="11" fill="#8a7a5f" text-anchor="end">本站自绘 · CC BY 4.0</text>
+</svg>

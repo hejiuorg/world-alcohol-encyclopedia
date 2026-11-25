@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 520" width="860" height="520" role="img" aria-labelledby="f1t f1d">
+  <title id="f1t">Bordeaux: the left bank and the right bank</title>
+  <desc id="f1d">Schematic map: the Gironde estuary divides Bordeaux into a left bank of gravel soils (Saint-Estèphe, Pauillac, Saint-Julien, Margaux) and a right bank of clay and limestone (Saint-Émilion, Pomerol).</desc>
+  <rect width="860" height="520" fill="#faf7f0"/>
+  <text x="40" y="46" font-family="Georgia, serif" font-size="22" fill="#2b2118">Bordeaux: one estuary, two soil families</text>
+  <text x="40" y="70" font-family="Georgia, serif" font-size="13" fill="#6b5b4a">Schematic: gravel on the left, clay and limestone on the right</text>
+
+  <path d="M470 92 C500 150 520 200 512 260 C506 320 470 372 452 430 C442 466 448 486 452 500 L512 500 C508 470 502 446 514 410 C536 344 566 300 570 244 C574 190 550 132 520 92 Z" fill="#cfe0e6" stroke="#9dbfc9" stroke-width="1.5"/>
+  <text x="516" y="300" font-family="Georgia, serif" font-size="12" fill="#4a7080" transform="rotate(90 516 300)">Gironde estuary</text>
+
+  <path d="M40 100 L470 92 C500 150 520 200 512 260 C506 320 470 372 452 430 C442 466 448 486 452 500 L40 500 Z" fill="#e8dfcb" stroke="#8a7a5f" stroke-width="1.5"/>
+  <path d="M520 92 C550 132 574 190 570 244 C566 300 536 344 514 410 C502 446 508 470 512 500 L820 500 L820 100 Z" fill="#dfe6d5" stroke="#6f8163" stroke-width="1.5"/>
+
+  <text x="70" y="120" font-family="Georgia, serif" font-size="14" fill="#5a4a35">Left bank · gravel soils</text>
+  <text x="600" y="120" font-family="Georgia, serif" font-size="14" fill="#3f5238">Right bank · clay–limestone</text>
+
+  <g font-family="Georgia, serif" font-size="13" fill="#2b2118">
+    <circle cx="120" cy="175" r="5" fill="#8c2f1f"/><text x="134" y="180">Saint-Estèphe</text>
+    <circle cx="165" cy="225" r="5" fill="#8c2f1f"/><text x="179" y="230">Pauillac</text>
+    <circle cx="150" cy="278" r="5" fill="#8c2f1f"/><text x="164" y="283">Saint-Julien</text>
+    <circle cx="118" cy="330" r="5" fill="#8c2f1f"/><text x="132" y="335">Margaux</text>
+    <circle cx="96" cy="392" r="5" fill="#8c2f1f"/><text x="110" y="397">Pessac-Léognan</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="13" fill="#2b2118">
+    <circle cx="648" cy="250" r="5" fill="#4a6b52"/><text x="662" y="255">Saint-Émilion</text>
+    <circle cx="700" cy="310" r="5" fill="#4a6b52"/><text x="714" y="315">Pomerol</text>
+    <circle cx="672" cy="382" r="5" fill="#4a6b52"/><text x="686" y="387">Castillon</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="12" fill="#5a4a35">
+    <text x="70" y="448">The 1855 classification covers left-bank reds only</text>
+    <text x="70" y="468">(plus Sauternes): five first growths — three in Pauillac, one in Margaux, one in Graves.</text>
+    <text x="70" y="488">The right bank never joined it; Saint-Émilion runs its own periodic ranking.</text>
+  </g>
+  <text x="600" y="470" font-family="Georgia, serif" font-size="11" fill="#8a7a5f">Schematic diagram, not a survey map</text>
+  <text x="600" y="488" font-family="Georgia, serif" font-size="11" fill="#8a7a5f">Original diagram · CC BY 4.0</text>
+</svg>

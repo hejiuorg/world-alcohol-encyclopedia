@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 500" width="860" height="500" role="img" aria-labelledby="f7t f7d">
+  <title id="f7t">Baijiu aroma families: four bases, several derivatives</title>
+  <desc id="f7d">Diagram: strong, sauce, light and rice aromas form the four bases; feng, mixed, te, sesame, fu, laobaigan, medicinal and chi aromas are derivatives built on them.</desc>
+  <rect width="860" height="500" fill="#faf7f0"/>
+  <text x="40" y="46" font-family="Georgia, serif" font-size="22" fill="#2b2118">Baijiu aroma families: four bases, several offshoots</text>
+  <text x="40" y="70" font-family="Georgia, serif" font-size="13" fill="#6b5b4a">Aroma describes style tendency, not quality rank; variation within one family is large</text>
+
+  <g font-family="Georgia, serif" font-size="13" fill="#2b2118">
+    <rect x="40" y="96" width="230" height="66" rx="6" fill="#e6d3b3" stroke="#8c2f1f"/>
+    <text x="60" y="124" font-size="15">Strong aroma</text>
+    <text x="60" y="146" font-size="11" fill="#5a4a35">mud-pit solid ferment · ethyl caproate</text>
+
+    <rect x="40" y="182" width="230" height="66" rx="6" fill="#e6d3b3" stroke="#8c2f1f"/>
+    <text x="60" y="210" font-size="15">Sauce aroma</text>
+    <text x="60" y="232" font-size="11" fill="#5a4a35">hot qu, hot stacking · many rounds</text>
+
+    <rect x="40" y="268" width="230" height="66" rx="6" fill="#e6d3b3" stroke="#8c2f1f"/>
+    <text x="60" y="296" font-size="15">Light aroma</text>
+    <text x="60" y="318" font-size="11" fill="#5a4a35">jar-separated ferment · ethyl acetate</text>
+
+    <rect x="40" y="354" width="230" height="66" rx="6" fill="#e6d3b3" stroke="#8c2f1f"/>
+    <text x="60" y="382" font-size="15">Rice aroma</text>
+    <text x="60" y="404" font-size="11" fill="#5a4a35">small qu · semi-solid ferment · rice</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="12" fill="#2b2118">
+    <rect x="360" y="96" width="210" height="52" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="376" y="118" font-size="13">Feng aroma</text><text x="376" y="137" font-size="10" fill="#5a4a35">earth pit · jiu hai storage</text>
+
+    <rect x="360" y="160" width="210" height="52" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="376" y="182" font-size="13">Mixed aroma</text><text x="376" y="201" font-size="10" fill="#5a4a35">strong and sauce together</text>
+
+    <rect x="360" y="224" width="210" height="52" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="376" y="246" font-size="13">Te aroma</text><text x="376" y="265" font-size="10" fill="#5a4a35">whole rice · daqu</text>
+
+    <rect x="360" y="288" width="210" height="52" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="376" y="310" font-size="13">Sesame aroma</text><text x="376" y="329" font-size="10" fill="#5a4a35">hot stacking · roasted note</text>
+
+    <rect x="360" y="352" width="210" height="52" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="376" y="374" font-size="13">Fu aroma</text><text x="376" y="393" font-size="10" fill="#5a4a35">three aromas in one sip</text>
+
+    <rect x="610" y="160" width="210" height="52" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="626" y="182" font-size="13">Laobaigan aroma</text><text x="626" y="201" font-size="10" fill="#5a4a35">jar ferment · wheat qu</text>
+
+    <rect x="610" y="224" width="210" height="52" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="626" y="246" font-size="13">Medicinal (Dong)</text><text x="626" y="265" font-size="10" fill="#5a4a35">two qu types · herbs</text>
+
+    <rect x="610" y="288" width="210" height="52" rx="6" fill="#efe4cd" stroke="#8a7a5f"/>
+    <text x="626" y="310" font-size="13">Chi aroma</text><text x="626" y="329" font-size="10" fill="#5a4a35">fat-soaked · Yuk Bing Siu</text>
+  </g>
+
+  <g stroke="#b9a888" stroke-width="1.4" fill="none">
+    <path d="M270 190 C320 190 320 122 355 122"/>
+    <path d="M270 200 C330 200 330 186 355 186"/>
+    <path d="M270 220 C330 220 330 250 355 250"/>
+    <path d="M270 290 C320 290 320 314 355 314"/>
+    <path d="M270 380 C330 380 330 378 355 378"/>
+    <path d="M570 186 C590 186 590 186 605 186"/>
+    <path d="M570 250 C590 250 590 250 605 250"/>
+    <path d="M570 314 C590 314 590 314 605 314"/>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#5a4a35">
+    <text x="40" y="452">How to read it: start with the base family, then the process and the region. Most offshoots combine base techniques.</text>
+    <text x="40" y="474">National standards define terms and quality requirements, not a ranking; “older is better” holds only for some families.</text>
+  </g>
+  <text x="820" y="490" font-family="Georgia, serif" font-size="11" fill="#8a7a5f" text-anchor="end">Original diagram · CC BY 4.0</text>
+</svg>
