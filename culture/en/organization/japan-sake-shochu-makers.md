@@ -70,7 +70,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the association website and public press material; no third-party text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are cited for verification only. No third-party images are used on this organization.
 verification_scope: source-verified
 ---
 # Japan Sake and Shochu Makers Association: The Trade Body for Sake, Shochu and Mirin
@@ -85,7 +85,7 @@ Figure: thematic illustration for Japan Sake and Shochu Makers Association: The 
 
 The Japanese name is Nihon Shuzo Kumiai Chuokai, and the English name is Japan Sake and Shochu Makers Association, abbreviated JSS. It was founded in December 1953 under the Act on Securing of Liquor Tax and on Liquor Business Associations, and it is a non-profit trade organisation.
 
-Its members include producers of sake, honkaku shochu, awamori and hon mirin. Public material often mentions about 1600 member companies; the figure changes with consolidation in the trade and should not be treated as permanent. Its membership is not a single drink but several categories of traditional Japanese alcohol, a point often missed by readers who think only of sake.
+Its members include producers of sake, honkaku shochu, awamori and hon mirin. Public material often mentions about 1600 member companies; the figure changes with consolidation in the trade and should not be treated as permanent. Its membership is not a single drink but several categories of traditional Japanese alcohol, a point often missed by if you want think only of sake.
 
 It is neither a government department nor an enforcement agency. Licensing, tax and some technical standards belong to government; the association's role is coordination, promotion, research and information exchange.
 

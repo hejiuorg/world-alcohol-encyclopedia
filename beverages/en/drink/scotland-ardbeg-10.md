@@ -118,7 +118,7 @@ Distillery, brand and product are three levels: the distillery answers equipment
 
 Islay lies off the west coast of Scotland in a maritime climate with strong winds, high humidity and small temperature swings, and it has abundant peat. Local peat releases phenolic compounds when burned, which attach to the malt during kilning and create the base of smoke and medicinal notes; Ardbeg's peat intensity is high by industry norms.
 
-The raw materials are [barley](ref:barley) and [water](ref:water). Barley is steeped and germinated, kilned over a peat fire, mashed, fermented and distilled. The precise phenol level, malt suppliers and water details belong to distillery craft information that is not always public, so this page does not treat a single figure as the whole explanation of style.
+The raw materials are [barley](ref:barley) and [water](ref:water). Barley is steeped and germinated, kilned over a peat fire, mashed, fermented and distilled. The precise phenol level, malt suppliers and water details belong to distillery craft information that is not always public, so this entry does not treat a single figure as the whole explanation of style.
 
 ## Production
 
@@ -146,7 +146,7 @@ It can also be used in mixing, but the heavy peat will dominate the drink and th
 
 ## Buying and storage
 
-Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market and batch, so this page gives no figures; differences in volume and packaging between markets should be checked on the actual bottle.
+Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market and batch, so this entry gives no figures; differences in volume and packaging between markets should be checked on the actual bottle.
 
 An unopened bottle can be kept for years in a dark, cool place, standing upright to limit contact between liquid and cork. Heat and strong light accelerate decline, and odour-heavy environments such as kitchens are unsuitable for long storage; once opened, finish it within a few months.
 

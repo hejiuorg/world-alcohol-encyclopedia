@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:oxidation
 source_lang: zh
-source_revision: sha256:f0a412a0d203534504813905596a109e05d284c67eb3c303cfa2c33f91f88c62
-source_sha256: f0a412a0d203534504813905596a109e05d284c67eb3c303cfa2c33f91f88c62
+source_revision: sha256:c9e1fc1bd4c6214a7a8a9718c48fee3a1d3309598ec98afb30d86495550a4f80
+source_sha256: c9e1fc1bd4c6214a7a8a9718c48fee3a1d3309598ec98afb30d86495550a4f80
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -72,7 +72,7 @@ verification_scope: source-verified
 
 Oxidation is the reaction of compounds in wine with oxygen. It is not a single reaction but a chain: ethanol can be oxidised to acetaldehyde, phenolics to quinones, and pigments and [tannin](ref:tannin) polymerise or brown along the way. In winemaking it is both a tool and a risk, and the difference lies in whether it is controlled.
 
-![Oxidation thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Oxidation thematic illustration](/media/figures/specific/term-oxidation.svg)
 
 Figure: thematic illustration for Oxidation. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -132,6 +132,6 @@ Begin with where the term is used, move on to what it is contrasted with, and fi
 
 [Aroma](ref:aroma) explains definition; [Decanting](ref:decanting) adds applicable standard. Put Oxidation between them before deciding what it is.
 
-**Read alongside.** Put Oxidation next to Aroma, Tannin, Decanting: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Oxidation next to Aroma, Tannin, Decanting: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Oxidation are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check oxidation and related winemaking terminology), Oxford University Press (Used for entries on oxidation, oxidative winemaking and maderisation), Comité Interprofessionnel des Vins du Jura and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.

@@ -81,9 +81,9 @@ verification_scope: source-verified
 
 起泡酒瓶内带有明显压力。开瓶时如果不加控制，瓶塞会像子弹一样飞出，酒液也会喷出。正确的方法不是“把塞子拧下来”，而是让瓶内气体缓慢释放，让塞子在手心里轻轻离开瓶口。整个过程要安全、安静，并尽量保留气泡。
 
-![开瓶（起泡酒） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![开瓶（起泡酒） 类型示意图](/media/figures/specific/technique-opening-sparkling-wine.svg)
 
-图：开瓶（起泡酒） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是开瓶（起泡酒）的实拍。
+图：开瓶（起泡酒） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

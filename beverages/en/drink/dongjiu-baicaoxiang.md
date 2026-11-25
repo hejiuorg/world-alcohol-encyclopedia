@@ -132,13 +132,13 @@ Dongjiu's process and formula have been listed as state secret technology since 
 
 Donggongsi town lies in northern [Guizhou](ref:guizhou) near the urban area of Zunyi, in a humid subtropical climate with distinct seasons. Local water and air conditions favour open qu making and long fermentation. Origin conditions are external factors and do not replace checking the label of a specific product.
 
-Raw materials include sorghum, rice and wheat. [Sorghum](ref:sorghum) is the main fermenting grain, while [rice](ref:rice) and wheat are used to make small or large qu and serve as carriers for the herbs. Herbs participate in forming the microbial community during qu making and affect qu aroma and later fermentation. The herb varieties, ratios and handling are company secrets, and this page does not speculate.
+Raw materials include sorghum, rice and wheat. [Sorghum](ref:sorghum) is the main fermenting grain, while [rice](ref:rice) and wheat are used to make small or large qu and serve as carriers for the herbs. Herbs participate in forming the microbial community during qu making and affect qu aroma and later fermentation. The herb varieties, ratios and handling are company secrets, and this entry does not speculate.
 
 ## Brewing process
 
 Dongjiu's public process features are the combined use of small and large qu and double-mash steam distillation. Large qu and small qu are cultured separately, with different microbial composition and enzyme activity; during distillation the fermented mashes are steamed together so aroma compounds transfer and layer. This route differs from single-large-qu sauce aroma and from mud-pit continued-mash strong aroma.
 
-[Qu making](ref:qu-making) is the base of Dong aroma, with herbs participating in qu culture to form a distinctive qu aroma; during [fermentation](ref:fermentation) the mashes for small and large qu are handled separately; during [distillation](ref:distillation) steam distillation carries aroma into the spirit. New spirit is stored and blended to unify style. Specific rounds, temperatures and ratios are company secrets, and this page describes only the public framework.
+[Qu making](ref:qu-making) is the base of Dong aroma, with herbs participating in qu culture to form a distinctive qu aroma; during [fermentation](ref:fermentation) the mashes for small and large qu are handled separately; during [distillation](ref:distillation) steam distillation carries aroma into the spirit. New spirit is stored and blended to unify style. Specific rounds, temperatures and ratios are company secrets, and this entry describes only the public framework.
 
 ## Specification and label
 
@@ -156,7 +156,7 @@ Taste from a small cup: smell at rest, then gently swirl and smell again. Let th
 
 Public company milestones include the 1957 resumption of production, selection among China's old eight famous spirits in 1963, state secret technology status from 1983, establishment of the joint-stock company in 1994 and the August 2008 Guizhou local standard for Dong aroma. The company has since received titles such as China Time-honoured Brand and intangible cultural heritage; the exact lists and batches follow official announcements.
 
-Baicaoxiang sits in the high-end price band and is a common choice for business banquets and gifting. Prices change with year, channel and supply and demand, and this page gives no figures. Treating "state secret" as a quality guarantee, or "hundred herbs" as a health effect, are common misreadings; the first is a secrecy system and the second does not fit food-labelling rules.
+Baicaoxiang sits in the high-end price band and is a common choice for business banquets and gifting. Prices change with year, channel and supply and demand, and this entry gives no figures. Treating "state secret" as a quality guarantee, or "hundred herbs" as a health effect, are common misreadings; the first is a secrecy system and the second does not fit food-labelling rules.
 
 ## Buying and storage
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: vessel:highball
 source_lang: zh
-source_revision: sha256:b89835c9efe51d4175b2ee2c834b43ee50d664b7289ae8a52f04b1ec7ebaa811
-source_sha256: b89835c9efe51d4175b2ee2c834b43ee50d664b7289ae8a52f04b1ec7ebaa811
+source_revision: sha256:f212ac227da8f030dd35b7656e909d817b4285e2f9baf1a76485980e220bdc77
+source_sha256: f212ac227da8f030dd35b7656e909d817b4285e2f9baf1a76485980e220bdc77
 translation_status: reviewed
 materials:
   - glass
@@ -62,7 +62,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -92,11 +92,11 @@ Figure: A highball glass holding an iced long drink, with condensation on the gl
 
 Two proportions define it: the height is clearly greater than the diameter, and the body is close to a straight cylinder. It is not a short, wide short-drink glass, nor a stemmed cone. The straight sides let ice stack in layers, the height gives bubbles room to rise, and the larger capacity holds liquid, ice and soda.
 
-The name is linked to highball drinks such as whisky soda, but the glass is not limited to them. Mojitos, gin and tonics and other long drinks can all use it. The name is a convention, not a restriction. Some references treat the taller straight glass as a Collins glass; in everyday use the two names overlap, and this page discusses them together as straight long-drink glasses.
+The name is linked to highball drinks such as whisky soda, but the glass is not limited to them. Mojitos, gin and tonics and other long drinks can all use it. The name is a convention, not a restriction. Some references treat the taller straight glass as a Collins glass; in everyday use the two names overlap, and this glass discusses them together as straight long-drink glasses.
 
 ## Shape and capacity
 
-There is no single capacity standard for a highball glass. Common sizes range from smaller to larger, and wall thickness and rim diameter vary too. This page therefore gives no "standard capacity" and does not assume that every highball glass holds the same number of millilitres.
+There is no single capacity standard for a highball glass. Common sizes range from smaller to larger, and wall thickness and rim diameter vary too. This glass therefore gives no "standard capacity" and does not assume that every highball glass holds the same number of millilitres.
 
 Capacity differences directly affect use: a small glass with plenty of ice leaves too little room for liquid and soda and spills easily; a large glass with little ice thins the carbonation and lets aroma disperse. In practice, first see how much ice your glass can hold, then decide how much to pour. "Fill with ice" and "top up with soda" in a recipe should be adjusted to the glass.
 
@@ -156,4 +156,4 @@ If you buy only one, choose a straight, medium-to-large, slightly thick-walled g
 
 ## Limits
 
-A highball glass is a tool, not a badge of identity. Capacity, ice shape and bubbles usually affect the drink more than the price of the glass. This page does not recommend brands or present one shape as the only correct choice; use should follow your own glass and your own taste.
+A highball glass is a tool, not a badge of identity. Capacity, ice shape and bubbles usually affect the drink more than the price of the glass. This glass does not recommend brands or present one shape as the only correct choice; use should follow your own glass and your own taste.

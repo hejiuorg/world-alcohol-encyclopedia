@@ -61,7 +61,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA 官方鸡尾酒名单
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 官方鸡尾酒名单；未复制原文。
     accessed: 2026-11-07

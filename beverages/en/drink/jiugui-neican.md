@@ -148,7 +148,7 @@ For Jiugui Neican, taste in a small glass: smell the resting spirit first, then 
 
 The Jishou distillery was founded in 1956 and is the industrial predecessor of the brand. In 1983 Xiangquan liquor switched to an earthen-ochre jar with incised lines, and in 1987 Huang Yongyu designed a sack-shaped bottle and wrote the two characters "Jiugui", forming the brand's early cultural-liquor image. The company listed in 1997 and became a COFCO member enterprise in 2016.
 
-The Neican series later became an important lever in the company's high-end price band. The annual report shows that Neican revenue and its share of the total move with the market, indicating that high-end products depend closely on channel, supply and demand and brand investment. Prices move with vintage, channel and supply and demand, and this page gives no figures.
+The Neican series later became an important lever in the company's high-end price band. The annual report shows that Neican revenue and its share of the total move with the market, indicating that high-end products depend closely on channel, supply and demand and brand investment. Prices move with vintage, channel and supply and demand, and this entry gives no figures.
 
 ## Buying and storage
 

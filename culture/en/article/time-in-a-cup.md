@@ -53,7 +53,7 @@ sources:
   - key: quantangshi
     title: "Complete Tang Poems: Li Bai, “Qiang Jin Jiu”"
     publisher: Zhonghua Book Company
-    note: Public-domain classic; this page uses an excerpt from the received text.
+    note: Public-domain classic; this essay uses an excerpt from the received text.
     accessed: 2026-11-04
   - key: wikisource
     title: Chinese Wikisource
@@ -119,7 +119,7 @@ From “wine in poetry” to “wine in a manual” is an important shift: the f
 
 ## Cups in poetry
 
-By the Tang dynasty, wine continued to appear in poetry. In Li Bai's “Qiang Jin Jiu”, the lines “when life is good, enjoy it to the full; do not let the golden goblet stand empty against the moon” put drinking, time and emotion together. This page quotes those two lines and cites the received text in Complete Tang Poems; no separate excerpt page is created.
+By the Tang dynasty, wine continued to appear in poetry. In Li Bai's “Qiang Jin Jiu”, the lines “when life is good, enjoy it to the full; do not let the golden goblet stand empty against the moon” put drinking, time and emotion together. This essay quotes those two lines and cites the received text in Complete Tang Poems; no separate excerpt page is created.
 
 Bai Juyi's “Asking Liu” returns wine to a smaller scene: “evening comes and snow is in the air; can you come and drink a cup?” Dusk and approaching snow turn a cup into an invitation and companionship. Both poems write about time, but one is a broad reflection on life and the other a specific evening.
 
@@ -135,7 +135,7 @@ Fourth, keep appreciation apart from advice. Reading poetry gives access to emot
 
 ## Three boundaries for reading documents
 
-This page offers no collation conclusions and does not judge one edition superior to another; quoted texts follow received editions, and variant readings are not adjudicated. The page does not treat poems as drinking advice: ancient intake, alcohol strength and vessel capacity all differ from today. Nor does it substitute literature for craft history; the details of qu-making and brewing still require specialist sources.
+This essay offers no collation conclusions and does not judge one edition superior to another; quoted texts follow received editions, and variant readings are not adjudicated. The page does not treat poems as drinking advice: ancient intake, alcohol strength and vessel capacity all differ from today. Nor does it substitute literature for craft history; the details of qu-making and brewing still require specialist sources.
 
 For Time in a cup, begin with the subject it covers, then the sources it draws on, and finish with what it adds to the general account; that order keeps the account grounded.
 
@@ -151,7 +151,7 @@ For Time in a cup, begin with the subject it covers, then the sources it draws o
 | Topics | seasons、poetry and wine、brewing documents |
 | Period | pre-Qin to Tang |
 
-**Sources and limits.** The key claims about Time in a cup are checked against the following sources: Chinese Text Project (based on the Mao Shi Zhengyi), By Jia Sixie (Northern Wei); Zhonghua Book Company edition, Zhonghua Book Company (Public-domain classic; this page uses an excerpt from the received text) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+**Sources and limits.** The key claims about Time in a cup are checked against the following sources: Chinese Text Project (based on the Mao Shi Zhengyi), By Jia Sixie (Northern Wei); Zhonghua Book Company edition, Zhonghua Book Company (Public-domain classic; this essay uses an excerpt from the received text) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 ## Further reading
 

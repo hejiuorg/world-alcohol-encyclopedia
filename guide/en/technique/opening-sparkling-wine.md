@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:opening-sparkling-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e393177ddb4520e5af784c58599d14d7d0eacd7a01421adf596e8766167b69b1
-source_sha256: e393177ddb4520e5af784c58599d14d7d0eacd7a01421adf596e8766167b69b1
+source_revision: sha256:8bd9cb3b20a4796ade64dc5389acfad176cc7cc1810886a74d001ac545b6b004
+source_sha256: 8bd9cb3b20a4796ade64dc5389acfad176cc7cc1810886a74d001ac545b6b004
 applies_to_refs:
   - drink-style:sparkling-wine
 about_refs:
@@ -76,14 +76,14 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 # Opening sparkling wine
 
 A sparkling wine bottle is under noticeable pressure. Without control, the cork can fly out like a bullet and the wine can spray. The right approach is not to twist the cork off but to let the gas escape slowly, so the cork leaves the bottle inside your hand. The process should be safe, quiet and as gentle on the bubbles as possible.
 
-![Opening sparkling wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Opening sparkling wine thematic illustration](/media/figures/specific/technique-opening-sparkling-wine.svg)
 
 Figure: thematic illustration for Opening sparkling wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

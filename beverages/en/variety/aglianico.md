@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:aglianico
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c7e848bee3ca04b65b708aeacbaae4f2fd5ff368dfdc0c96345b7cb5af9092fe
-source_sha256: c7e848bee3ca04b65b708aeacbaae4f2fd5ff368dfdc0c96345b7cb5af9092fe
+source_revision: sha256:6e21f5b90dcf817ca41826305dcacd5bdd0dcf7eb7f068ab2df5aa1b110dc929
+source_sha256: 6e21f5b90dcf817ca41826305dcacd5bdd0dcf7eb7f068ab2df5aa1b110dc929
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -87,6 +87,15 @@ Aglianico is one of the weightiest red grapes of southern Italy, planted mainly 
 ![Aglianico image](/media/photos/variety-aglianico-d4dec6be.jpg)
 
 Figure: Aglianico. Image: Alexis Kreyder, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aglianico_Viala_Vermorel.jpg)).
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Aglianico suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Aglianico with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - The variety is Aglianico.
+>   - The name is usually linked to the Italian ellenico, "Greek", pointing to an arrival in southern Italy during the Greek colonial period.
 
 ## Definition and synonyms
 

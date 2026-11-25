@@ -154,7 +154,7 @@ Okinawa's awamori is made from rice and black koji, distilled once and aged in c
 
 **Sources and limits.** The key claims about Okinawa are checked against the following sources: Okinawa Distillers Association (awamori's rice and black-koji ingredients, single-pot distillation and kusu ageing, and its production region), Visit Okinawa Japan (awamori history, black koji, Thai rice and kusu aged three years or more), National Tax Agency, Okinawa Regional Taxation Bureau (the awamori definition, black koji, distillation and alcohol strength) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Okinawa, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Okinawa, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 
@@ -163,4 +163,4 @@ Further reading: awamori is often misread as sake or shochu, but it follows thre
 Kusu is not simply “older is more expensive”: age brings roundness and aroma, but also warehouse loss, cask handling and tied-up capital; the number is only part of the price. When buying kusu, read distillery, cask, age and ABV, and try a small glass first; for new spirit, read koji aroma and distillation cleanliness. Naha and Ishigaki differ through water, koji and warehouse, not through the word Okinawa. With half a day, the museum plus one distillery is enough; for outer islands, leave margin for boats and weather. Awamori pairing is about salt and fat in Okinawan food, not sweetness. Buy a small kusu sample and compare it with new spirit; colour, aroma and texture move together.
 
 - Related: [japan](ref:japan), [awamori](ref:awamori), [sake](ref:sake), [rice](ref:rice), [distillation](ref:distillation).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.

@@ -71,7 +71,7 @@ sources:
     title: Encyclopaedia Britannica
     url: https://www.britannica.com/
     publisher: Encyclopaedia Britannica
-    note: General background reference for wine, beer and spirits storage; no entry text is quoted on this page.
+    note: General background reference for wine, beer and spirits storage; no entry text is quoted on this essay.
     accessed: 2026-11-07
   - key: oxford-wine
     title: The Oxford Companion to Wine
@@ -119,7 +119,7 @@ Oxygen in the bottle is the other half of the story. Oxidation in wine is contin
 
 By drink type, wine, beer and spirits follow different logic. Wine needs an assessment of vintage, alcohol, acidity, sugar, tannin and body to judge ageing potential; most beer is best fresh, with only a minority of strong, dark or specially treated beers suited to keeping; spirits do not continue to “distil” in bottle, but change slowly under light and temperature.
 
-By closure, cork, screwcap and crown cap differ in sealing and permeability. Wine under cork is often laid down so the liquid keeps the cork moist; screwcaps and crown caps have no such humidity requirement and can be stored upright. Bottle shape, glass colour and labels also affect light protection. Recommended ranges for temperature and humidity vary between producers and industry guidance, so this page does not turn them into fixed figures; follow product instructions and reliable guidance.
+By closure, cork, screwcap and crown cap differ in sealing and permeability. Wine under cork is often laid down so the liquid keeps the cork moist; screwcaps and crown caps have no such humidity requirement and can be stored upright. Bottle shape, glass colour and labels also affect light protection. Recommended ranges for temperature and humidity vary between producers and industry guidance, so this essay does not turn them into fixed figures; follow product instructions and reliable guidance.
 
 ## Cases
 
@@ -135,7 +135,7 @@ First, the fridge is suitable for long-term storage. It is cold but dry, vibrate
 
 There are genuine disputes in storage. One is cork versus screwcap: cork has tradition and breathability but carries the risk of cork taint, while screwcaps seal reliably but their permeability and long-term ageing behaviour depend on the liner. Another is home versus professional storage: a home cannot fully reproduce a professional cellar, and stability and darkness matter more than perfection. A third is transport: heat and vibration on a long journey may affect a wine more than home storage. A fourth is the “drinking window”: it varies by drink, vintage, batch and personal preference, and producer advice is only a guide.
 
-This page therefore gives no universal temperature or humidity figures and no promise about how long any drink will keep at home. For a specific product's ageing potential and storage advice, consult the producer; for food safety and labelling requirements, follow local law.
+This essay therefore gives no universal temperature or humidity figures and no promise about how long any drink will keep at home. For a specific product's ageing potential and storage advice, consult the producer; for food safety and labelling requirements, follow local law.
 
 ## How to use it
 

@@ -75,7 +75,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against BIVB, INAO, the EU geographical indications register and a reference work; no source text is copied. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
 # Chablis

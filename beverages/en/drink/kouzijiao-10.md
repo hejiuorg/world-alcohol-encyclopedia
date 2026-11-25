@@ -147,7 +147,7 @@ For Kouzijiao 10 Year, taste in a small glass: smell the resting spirit first, t
 
 Company material traces the brand back to the brewing tradition around Suixi and uses the Sui-Tang ancient spring, century-old pits and three-step circulating storage as its craft narrative. After the company listed in 2015, the vintage series became an important line for Kouzijiao's expansion into the mid-to-high price band.
 
-The vintage series sits where a regional brand is extending into the national market. Prices move with vintage, channel and supply and demand, and this page gives no figures. Treating price as proof of quality, or the "10 years" as age in the bottle, are common misreadings.
+The vintage series sits where a regional brand is extending into the national market. Prices move with vintage, channel and supply and demand, and this entry gives no figures. Treating price as proof of quality, or the "10 years" as age in the bottle, are common misreadings.
 
 ## Buying and storage
 

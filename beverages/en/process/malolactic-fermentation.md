@@ -87,7 +87,7 @@ MLF follows alcoholic fermentation or overlaps its final stage. It is a deacidif
 
 ## Steps and parameters
 
-A common practice is to inoculate a selected lactic acid bacterium after alcoholic fermentation, hold 18–22 °C and allow 2–4 weeks; pH should be 3.3–3.5, since most strains struggle to start below 3.2; free sulfur dioxide usually needs to be below 10–15 mg/L, because too much molecular sulfur dioxide blocks the bacteria outright. These ranges follow the common descriptions in the OIV material, wine reference work and AWRI material listed on this page. Some producers co-inoculate late in alcoholic fermentation to shorten the total cycle and reduce competition for nutrients. Completion is judged by residual malic acid below 0.1–0.2 g/L.
+A common practice is to inoculate a selected lactic acid bacterium after alcoholic fermentation, hold 18–22 °C and allow 2–4 weeks; pH should be 3.3–3.5, since most strains struggle to start below 3.2; free sulfur dioxide usually needs to be below 10–15 mg/L, because too much molecular sulfur dioxide blocks the bacteria outright. These ranges follow the common descriptions in the OIV material, wine reference work and AWRI material listed on this process. Some producers co-inoculate late in alcoholic fermentation to shorten the total cycle and reduce competition for nutrients. Completion is judged by residual malic acid below 0.1–0.2 g/L.
 
 ## Mechanism: malolactic enzyme and citrate metabolism
 
@@ -138,4 +138,4 @@ Malolactic fermentation converts malic acid to lactic acid, softening acidity an
 
 **Sources and limits.** The key claims about Malolactic fermentation are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check malolactic fermentation and acidity terminology), Oxford University Press (Used for reference on malolactic fermentation, lactic acid bacteria and diacetyl), The Australian Wine Research Institute (AWRI) (Used to check industry and research descriptions of MLF inoculation, nutrition and volatile acidity risk) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Malolactic fermentation, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Malolactic fermentation, this process was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

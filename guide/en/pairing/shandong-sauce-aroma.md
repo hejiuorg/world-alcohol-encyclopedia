@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:shandong-sauce-aroma
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e1013bac40279e18051846c7362daf26903729b9a6cdc429ae859d278025bfda
-source_sha256: e1013bac40279e18051846c7362daf26903729b9a6cdc429ae859d278025bfda
+source_revision: sha256:44b66d162134d144fd221dff1c905b3fe4e48a9d97ad4607f4d3ffe4ea000908
+source_sha256: 44b66d162134d144fd221dff1c905b3fe4e48a9d97ad4607f4d3ffe4ea000908
 aliases:
   - Shandong cuisine and sauce-aroma baijiu
 tags:
@@ -92,13 +92,13 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against national standards, reference works and industry material, and no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
 # Shandong cuisine with sauce-aroma baijiu: savoury weight and a long finish
 
-Shandong cooking first reads as "salty", but its real skeleton is stock. Clear stock is drawn from chicken, duck and pork knuckle; milky stock is boiled hard until fat and protein form an emulsion; braises, scallion dishes and steamed dishes all gain flavour from stock. Salt is the final stroke. This structure of savouriness carrying salt can talk to [sauce-aroma baijiu](ref:baijiu), whose high-temperature koji and multiple distillation rounds create a complex aroma, provided the dish is not pushed into excess salt.![Shandong cuisine with sauce-aroma baijiu: savoury weight and a long finish thematic illustration](/media/photos/theme-asian.jpg)
+Shandong cooking first reads as "salty", but its real skeleton is stock. Clear stock is drawn from chicken, duck and pork knuckle; milky stock is boiled hard until fat and protein form an emulsion; braises, scallion dishes and steamed dishes all gain flavour from stock. Salt is the final stroke. This structure of savouriness carrying salt can talk to [sauce-aroma baijiu](ref:baijiu), whose high-temperature koji and multiple distillation rounds create a complex aroma, provided the dish is not pushed into excess salt.![Shandong cuisine with sauce-aroma baijiu: savoury weight and a long finish thematic illustration](/media/figures/specific/pairing-shandong-sauce-aroma.svg)
 
 Figure: thematic illustration for Shandong cuisine with sauce-aroma baijiu: savoury weight and a long finish. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

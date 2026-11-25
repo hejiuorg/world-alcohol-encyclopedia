@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: sazerac
 title: Sazerac recipe (IBA cognac version)
-summary: 50 ml cognac, 10 ml absinthe for the rinse, 1 sugar cube and 2 dashes of Peychaud's bitters, stirred and strained into a chilled rocks glass with lemon peel; this page explains the rinse, the sugar work, the frozen glass and the choice of bitters.
+summary: 50 ml cognac, 10 ml absinthe for the rinse, 1 sugar cube and 2 dashes of Peychaud's bitters, stirred and strained into a chilled rocks glass with lemon peel; this recipe explains the rinse, the sugar work, the frozen glass and the choice of bitters.
 status: reviewed
 revision: 1
 translation_of: recipe:sazerac
 source_lang: zh
-source_revision: sha256:327b2b510ee400ca19a372f92afbcae995dfbcf923d564753a1faf691096aa5c
-source_sha256: 327b2b510ee400ca19a372f92afbcae995dfbcf923d564753a1faf691096aa5c
+source_revision: sha256:901e1b4f8419fce660340c170f1875e69b65282aa243ea12fd4df5ad09c60add
+source_sha256: 901e1b4f8419fce660340c170f1875e69b65282aa243ea12fd4df5ad09c60add
 translation_status: reviewed
 product_id: cocktail:sazerac
 source_version: IBA Official Cocktails (checked November 2026)
@@ -130,17 +130,26 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and steps follow the public IBA recipe, historical background was checked against public sources, and the explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
 # Sazerac recipe (IBA cognac version)
 
-This page records the cognac version of the [Sazerac](ref:cocktail) as it appears on the public IBA list: 50 ml cognac, 10 ml absinthe for the rinse, 1 sugar cube, 2 dashes of Peychaud's bitters, stirred and strained into a chilled rocks glass with lemon peel. It is not the same recipe as the rye version most bars pour. This page takes the cognac version only as far as a reader can reproduce it, and marks where common practice diverges.
+This recipe records the cognac version of the [Sazerac](ref:cocktail) as it appears on the public IBA list: 50 ml cognac, 10 ml absinthe for the rinse, 1 sugar cube, 2 dashes of Peychaud's bitters, stirred and strained into a chilled rocks glass with lemon peel. It is not the same recipe as the rye version most bars pour. This recipe takes the cognac version only as far as a reader can reproduce it, and marks where common practice diverges.
 
-![Sazerac recipe (IBA cognac version) thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Sazerac recipe (IBA cognac version) thematic illustration](/media/figures/specific/recipe-sazerac.svg)
 
 Figure: thematic illustration for Sazerac recipe (IBA cognac version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Sazerac recipe (IBA cognac version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Sazerac recipe (IBA cognac version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - The IBA entry names cognac as the base spirit, and the same entry notes that cognac became hard to obtain after the American Civil War, which is when rye whiskey took over.
+>   - The order cannot be reversed.
 
 ## Why this version uses cognac, not rye
 
@@ -148,7 +157,7 @@ The IBA entry names cognac as the base spirit, and the same entry notes that cog
 
 The difference is more than a label. [Brandy](ref:brandy) is made from grapes and brings fruit, floral notes and a softer texture; rye is spicier and drier, with grain and spice in the finish. Once you switch, the sugar and bitters need to move too: the cognac version carries a little more sugar without turning cloying, while the rye version turns sweet and buries its own spice if you keep the same amount.
 
-Cognac is listed here so that the version stays traceable. If you want the rye version, record it as a variation with its own quantities rather than adjusting this page while you mix; otherwise you cannot tell whether a difference in the glass came from the ingredient or the execution.
+Cognac is listed here so that the version stays traceable. If you want the rye version, record it as a variation with its own quantities rather than adjusting this recipe while you mix; otherwise you cannot tell whether a difference in the glass came from the ingredient or the execution.
 
 ## Is the absinthe a rinse or an ingredient
 
@@ -194,7 +203,7 @@ Peychaud's is itself a New Orleans product, created by the French-speaking apoth
 
 Antoine Peychaud was a nineteenth-century New Orleans apothecary, and it is commonly traced to him that his namesake bitters were made in the 1830s. The story that he served bitters in egg cups (coquetier in French), and that this turned into the cocktail, is widely repeated but lacks contemporary records, so it is best treated as legend.
 
-In the 1850s a coffee house bearing the Sazerac name appeared in New Orleans; coffee house was then the local word for a bar. It served this drink with cognac from Sazerac-de-Forge, which is where the name comes from. Who first added absinthe is told in more than one way, and this page does not settle it.
+In the 1850s a coffee house bearing the Sazerac name appeared in New Orleans; coffee house was then the local word for a bar. It served this drink with cognac from Sazerac-de-Forge, which is where the name comes from. Who first added absinthe is told in more than one way, and this recipe does not settle it.
 
 After the Civil War the cognac supply was cut, and rye took its place; in 1912 the United States banned absinthe, and a local anise spirit stepped in. Both substitutions changed the drink and both remain in today's versions. The "traditional recipe" is therefore a line rewritten by supply conditions, not an archive that never moved.
 
@@ -237,7 +246,7 @@ Do not keep the same ingredient table after changing the base spirit. The value 
 
 The equipment list is short: a jigger for accurate 50 and 10 ml measures, a bar spoon for crushing the sugar and stirring, a mixing glass with room for ice, and a strainer to keep the ice out of the serving glass. No shaker and no fine strainer are needed.
 
-This page uses millilitres and dashes and does not convert to ounces. A home [jigger](ref:jigger) is accurate enough; without one, use a small cup of known volume, but check the markings first. The back of a [bar spoon](ref:spoon) is enough to crush the cube, and a dedicated muddler is optional.
+This recipe uses millilitres and dashes and does not convert to ounces. A home [jigger](ref:jigger) is accurate enough; without one, use a small cup of known volume, but check the markings first. The back of a [bar spoon](ref:spoon) is enough to crush the cube, and a dedicated muddler is optional.
 
 The order is fixed: chill the glass, work the sugar, rinse the glass, then stir and strain. Lock those three moves in place and you have a baseline you can adjust one variable at a time; only then does changing the cognac, the bitters or the ice tell you what each step was doing.
 

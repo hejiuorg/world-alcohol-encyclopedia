@@ -153,7 +153,7 @@ Putting Niagara Peninsula into an itinerary means separating the regional centre
 Niagara is about 90 minutes from Toronto and 30–45 minutes from Niagara Falls. Wineries cluster along the lake shore and escarpment, but three tastings plus lunch still fill a day. Book ahead, check winter icewine-season hours, and do not assume every estate grows its own grapes.
 
 - Related: [canada](ref:canada), [riesling](ref:riesling), [chardonnay](ref:chardonnay), [ice-wine](ref:icewine), [white-wine](ref:white).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 **Short definition:** A wine region in southern Ontario, Canada, between the Niagara Escarpment and Lake Ontario; known for Riesling, Chardonnay, Cabernet Franc and icewine, with a strict VQA system, it is the core of Canadian wine.
 

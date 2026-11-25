@@ -165,7 +165,7 @@ Fifth, judging authenticity by price or packaging. Channel, label and bottler in
 ## Further reading
 
 - [Red wine](ref:red-wine): the wider category to which Gevrey-Chambertin belongs.
-- [Pinot Noir](ref:pinot-noir): the only grape variety on this page.
+- [Pinot Noir](ref:pinot-noir): the only grape variety on this entry.
 - [France](ref:france): French wine law and appellations.
 - [Burgundy](ref:burgundy): the grading framework of the region.
 - [Grape](ref:grape): the basic structure of wine grapes and ripeness measures.

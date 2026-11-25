@@ -151,7 +151,7 @@ Putting Hermitage into an itinerary means separating the regional centre from sp
 Hermitage is based around Tain-l’Hermitage, about an hour south of Lyon. The terraces are steep and visits are limited, so appointments are essential; three stops in a day is optimistic. Combine Hermitage with Crozes-Hermitage only if travel time is realistic, and allow 60–90 minutes per tasting.
 
 - Related: [rhone](ref:rhone), [syrah](ref:syrah), [viognier](ref:viognier), [red-wine](ref:red), [white-wine](ref:white).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 **Short definition:** The granite hill behind Tain-l’Hermitage in the Northern Rhône, made up of 13 lieux-dits; reds are mainly Syrah, whites Marsanne and Roussanne, with small volumes and long ageing potential, one of the Rhône’s most famous hill appellations.
 

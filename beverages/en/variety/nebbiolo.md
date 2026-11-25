@@ -110,7 +110,7 @@ Differences between these wines come from commune, soil, picking date and [oak a
 
 The difficulty with Nebbiolo is its long season and narrow ripening window. In cool years it may not ripen fully, leaving harsh tannin and green aromas; in very hot years acidity falls and the wine loses tension. Aspect, altitude and day-night temperature swings therefore matter a great deal.
 
-Yield control affects the concentration of tannin and aroma. High yields give a thinner wine with paler colour, while moderate control gives more focused aroma and a more complete structure. Specific viticultural parameters vary by region and estate, and this page gives no universal figures.
+Yield control affects the concentration of tannin and aroma. High yields give a thinner wine with paler colour, while moderate control gives more focused aroma and a more complete structure. Specific viticultural parameters vary by region and estate, and this variety gives no universal figures.
 
 ## Common misconceptions
 
@@ -140,7 +140,7 @@ Nebbiolo ripens late and produces pale, high-acid, high-tannin wines; Barolo and
 
 **Sources and limits.** The key claims about Nebbiolo are checked against the following sources: International Organisation of Vine and Wine (OIV) (variety descriptors and the Vitis species framework), Oxford University Press (Consulted for entries on Nebbiolo's botany, aromas and regions), Consorzio di Tutela Barolo Barbaresco Alba Langhe e Dogliani (the Barolo and Barbaresco areas and ageing rules). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Nebbiolo, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Nebbiolo, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

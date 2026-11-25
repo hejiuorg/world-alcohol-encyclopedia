@@ -5,7 +5,7 @@ type: custom
 lang: en
 slug: cold-food-festival-wine
 title: Cold Food Festival and wine
-summary: The Cold Food Festival falls a day or two before Qingming and centres on a fire ban, cold food and tomb visits; wine plays the role of a libation and a family-meal drink rather than a fixed seasonal recipe. This page covers timing, origins, vessels, food, modern practice and health limits.
+summary: The Cold Food Festival falls a day or two before Qingming and centres on a fire ban, cold food and tomb visits; wine plays the role of a libation and a family-meal drink rather than a fixed seasonal recipe. This entry covers timing, origins, vessels, food, modern practice and health limits.
 status: reviewed
 revision: 2
 translation_of: custom:cold-food-festival-wine
@@ -80,7 +80,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; checked against public-domain ritual texts, seasonal notes and a general history of customs, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 # Cold Food Festival and wine

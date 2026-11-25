@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cafe-hawelka
 source_lang: zh
-source_revision: sha256:f92a09e58b9c669a90749b8ebb97e44c5cc72e620cb452838d2fd36f645b3724
-source_sha256: f92a09e58b9c669a90749b8ebb97e44c5cc72e620cb452838d2fd36f645b3724
+source_revision: sha256:866e249278699ab2a858527dd1c2bbf600c426a83f6d08a71679d4f3cacdef01
+source_sha256: 866e249278699ab2a858527dd1c2bbf600c426a83f6d08a71679d4f3cacdef01
 translation_status: reviewed
 subtype: bar
 address: Dorotheergasse 6, 1010 Wien, Austria
@@ -84,7 +84,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on the café's official site, the Vienna tourist board and the City of Vienna history wiki; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY 3.0 and is credited in the caption. Opening hours and prices are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY 3.0 and is credited in the caption. Opening hours and prices are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -95,6 +95,15 @@ From St Stephen's Cathedral, walk south for two minutes and turn into Dorotheerg
 ![Street façade of Café Hawelka in Vienna](/media/photos/place-cafe-hawelka-3a2e4186.jpg)
 
 Figure: The façade of Café Hawelka in Vienna. Image: Photo: Andreas Praefcke, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wien_Caf%C3%A9_Hawelka.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Café Hawelka deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Café Hawelka who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Café Hawelka opened in May 1939.
+>   - Find a seat yourself and wait for the waiter; do not stand at the door waiting to be seated, and do not order at the bar.
 
 ## Setting and history
 

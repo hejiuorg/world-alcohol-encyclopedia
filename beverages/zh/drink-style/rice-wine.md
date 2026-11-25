@@ -76,9 +76,9 @@ verification_scope: source-verified
 
 米酒是[中国](ref:china)以[糯米](ref:rice)为主料、加入酒药或甜酒曲、经糖化与发酵得到的低度酒。它最常见的形态是酒酿、醪糟：白色或微黄的浊液，米粒半浮半沉，入口甜、带酸、有轻微气泡，酒精度通常只有 1% 到 15%。它不蒸馏，也不像黄酒那样陈放，价值在新鲜、甜润与米香。
 
-![米酒 类型示意图](/media/photos/theme-asian.jpg)
+![米酒 类型示意图](/media/figures/specific/drink-style-rice-wine.svg)
 
-图：米酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是米酒的实拍。
+图：米酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 一碗甜酒酿的边界
 

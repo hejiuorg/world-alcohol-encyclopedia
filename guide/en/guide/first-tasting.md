@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: guide:first-tasting
 source_lang: zh
-source_revision: sha256:507b5e559efb27789395f7a2858674368e74ec3835d4c7f73f669fb28c6701da
-source_sha256: 507b5e559efb27789395f7a2858674368e74ec3835d4c7f73f669fb28c6701da
+source_revision: sha256:27dce310b5f7ba6edb9dcb0bc85f4030f79e1898345fa83117c30280aaee1070
+source_sha256: 27dce310b5f7ba6edb9dcb0bc85f4030f79e1898345fa83117c30280aaee1070
 translation_status: reviewed
 about_refs:
   - drink-style:baijiu
@@ -73,7 +73,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; based on public tasting guidance and drink reference works, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 
@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 Tasting is not an exam, and it is not guessing the price. Its first job is to help you notice what you like, why you like it, and what you want to compare next time. With that purpose, your notes become more specific and your experience accumulates.
 
-![Give the first sip a moment thematic illustration](/media/photos/theme-route.jpg)
+![Give the first sip a moment thematic illustration](/media/figures/specific/guide-first-tasting.svg)
 
 Figure: thematic illustration for Give the first sip a moment. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -165,7 +165,7 @@ Fifth, treating one impression as a conclusion. The same drink can differ with t
 
 ## Boundary
 
-Tasting helps you identify preferences; it does not decide value for you. Alcohol content, origin and technique come from checkable sources, while aroma and palate come from your observation; record the two separately. For the effect of temperature and ice, see [Ice and temperature](ref:ice). This page gives no advice that encourages drinking to excess.
+Tasting helps you identify preferences; it does not decide value for you. Alcohol content, origin and technique come from checkable sources, while aroma and palate come from your observation; record the two separately. For the effect of temperature and ice, see [Ice and temperature](ref:ice). This guide gives no advice that encourages drinking to excess.
 
 For Give the first sip a moment, begin with what it is, then where it comes from, and finish with how it is used; that order keeps the account grounded.
 

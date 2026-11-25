@@ -53,7 +53,7 @@ sources:
   - key: oxford-us-history
     title: The Oxford Companion to United States History
     publisher: Oxford University Press; edited by Paul S. Boyer
-    note: Background reference for the American prohibition movement, church politics and twentieth-century social history; no source text is reproduced on this page.
+    note: Background reference for the American prohibition movement, church politics and twentieth-century social history; no source text is reproduced on this organization.
     accessed: 2026-11-04
   - key: loc
     title: Library of Congress
@@ -102,7 +102,7 @@ Here one sees the relationship between a pressure group and a constitutional ame
 
 ## Its methods and political influence
 
-What the available material supports is this: the League lobbied at every level of government, mobilised through church networks and made prohibition a central election issue. As for its internal budgets, membership figures and number of local branches, this page has no reliable data and so makes no estimates.
+What the available material supports is this: the League lobbied at every level of government, mobilised through church networks and made prohibition a central election issue. As for its internal budgets, membership figures and number of local branches, this organization has no reliable data and so makes no estimates.
 
 Its political influence can be inferred from the outcome: a voluntary moral campaign became a prohibition written into the Constitution. However people judge prohibition, the League demonstrated how an organised minority can change national policy through institutional channels. That is why it became a case study in political science and history.
 

@@ -39,8 +39,8 @@ tags:
 translation_of: place:eyrie-vineyards
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:34b7d262ddd852f56a6c5f7e52c307e6cfa4cd22a00dd351f41e725c7a894947
-source_sha256: 34b7d262ddd852f56a6c5f7e52c307e6cfa4cd22a00dd351f41e725c7a894947
+source_revision: sha256:25c6cd2fed2ebb11a674abc4e810cd715a57d8fe884f010430e904b749824ceb
+source_sha256: 25c6cd2fed2ebb11a674abc4e810cd715a57d8fe884f010430e904b749824ceb
 related:
   - relation: about
     target_id: region:willamette-valley
@@ -104,6 +104,15 @@ The Eyrie is the beginning of modern Pinot Noir in the Willamette Valley: in 196
 
 Figure: The Eyrie Vineyards. Photograph: File:Wvatbethel1.jpg. Credit: Rvannatta ( talk · contribs ) Image edits: Peteforsyth ( talk · contribs ), CC BY-SA 3.0 ([source page](https://commons.wikimedia.org/wiki/File:Wvatbethel1.jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether The Eyrie Vineyards deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to The Eyrie Vineyards who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The Eyrie is in Oregon’s Dundee Hills, with the winery on Kutch Street in McMinnville and the vineyards on south-facing slopes in Dundee Hills.
+>   - Tastings are mainly by appointment.
+
 ## Position and history
 
 The Eyrie is in Oregon’s Dundee Hills, with the winery on Kutch Street in McMinnville and the vineyards on south-facing slopes in Dundee Hills. In February 1965, David Lett planted 3,000 cuttings from UC Davis in a nursery near Corvallis while searching for a permanent site. The material included the Wädenswil Pinot Noir clone that later became central to Oregon, and the first commercially planted Pinot Gris in the United States. In 1966 he and his new wife Diana bought twenty acres in Dundee Hills and spent their honeymoon planting the first five acres.
@@ -161,7 +170,7 @@ The best way to understand Eyrie is to compare Original Vines with Daphne on the
 ## Further reading and see also
 
 - Related entries: [willamette-valley](ref:willamette), [usa](ref:usa), [pinot-noir](ref:pinot), [terroir](ref:organic), [australia](ref:region).
-- This page does not provide live prices, tasting fees or opening status; check the estate website and Oregon Wine Board before visiting.
+- This entry does not provide live prices, tasting fees or opening status; check the estate website and Oregon Wine Board before visiting.
 - To understand own-rooted old vines, ask at the tasting whether the wine comes from the 1966–1974 Original Vines and whether the block has ever been irrigated or replanted.
 
 The Eyrie Vineyards is best approached through the address, then the current opening status, and then what the place is known for. One check alone will not settle it.

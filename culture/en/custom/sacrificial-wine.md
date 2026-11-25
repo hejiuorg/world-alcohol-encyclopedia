@@ -5,7 +5,7 @@ type: custom
 lang: en
 slug: sacrificial-wine
 title: Sacrificial wine
-summary: Sacrificial wine is offered to ancestors, spirits and sages, with stress on purity, vessels and order. This page compares household, grave and public sacrifices, explains the three offerings and libation, and discusses modern disputes and the double meaning of the term.
+summary: Sacrificial wine is offered to ancestors, spirits and sages, with stress on purity, vessels and order. This entry compares household, grave and public sacrifices, explains the three offerings and libation, and discusses modern disputes and the double meaning of the term.
 status: reviewed
 revision: 3
 translation_of: custom:sacrificial-wine
@@ -77,7 +77,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against public-domain ritual texts and poetry, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
@@ -152,4 +152,4 @@ Sixth, confusing libation with urging a drink. Libation is an offering to the de
 - [Yellow wine](ref:yellow-wine): a common sacrificial drink.
 - [Baijiu](ref:baijiu): spirits used for ancestor offerings in some regions.
 
-**At a glance:** Sacrificial wine is offered to ancestors, spirits and sages, with stress on purity, vessels and order. This page compares household, grave and public sacrifices, explains the three offerings and libation, and discusses modern disputes and the double meaning of the term.
+**At a glance:** Sacrificial wine is offered to ancestors, spirits and sages, with stress on purity, vessels and order. This entry compares household, grave and public sacrifices, explains the three offerings and libation, and discusses modern disputes and the double meaning of the term.

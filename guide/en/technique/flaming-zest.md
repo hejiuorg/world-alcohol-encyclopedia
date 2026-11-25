@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:flaming-zest
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d0b3961f89365ce4dae52d237a9dda9dfa2334893b5cf373a158b31c5435beff
-source_sha256: d0b3961f89365ce4dae52d237a9dda9dfa2334893b5cf373a158b31c5435beff
+source_revision: sha256:6bc58c6d178fe2fb7f28d796bde492ed733c29752dc752d77917378d3a438879
+source_sha256: 6bc58c6d178fe2fb7f28d796bde492ed733c29752dc752d77917378d3a438879
 applies_to_refs:
   - cocktail:old-fashioned
 about_refs:
@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check classic cocktail garnish and citrus peel practice; no source text is reproduced.
     accessed: 2026-11-07
@@ -78,7 +78,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 
@@ -86,7 +86,7 @@ verification_scope: source-verified
 
 Flaming zest means pointing the outer layer of a citrus peel at a flame, squeezing the peel so that the oil sprays through the flame and falls into the glass. The oil mist burns briefly, bringing out toasted and charred notes, and the aroma settles on the surface of the drink. It appears in upgraded versions of classic cocktails and is often used as a bar flourish; but an open flame combined with high-strength alcohol makes it one of the riskiest garnish techniques.
 
-![Flaming zest thematic illustration](/media/photos/theme-beer.jpg)
+![Flaming zest thematic illustration](/media/figures/specific/technique-flaming-zest.svg)
 
 Figure: thematic illustration for Flaming zest. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

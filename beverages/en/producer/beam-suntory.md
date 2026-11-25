@@ -11,8 +11,8 @@ revision: 3
 translation_of: producer:beam-suntory
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d2544e757ceffe42343e1a8aace73913663c4ee9cfbaaf447451485073dd1668
-source_sha256: d2544e757ceffe42343e1a8aace73913663c4ee9cfbaaf447451485073dd1668
+source_revision: sha256:cb32f451638e86394dbdca1d3ae7d495774100e6fca831e1f6e0870273d9c24f
+source_sha256: cb32f451638e86394dbdca1d3ae7d495774100e6fca831e1f6e0870273d9c24f
 region_refs:
   - region:japan
   - region:usa
@@ -84,6 +84,15 @@ Beam Suntory is a multinational spirits company formed when Japan's Suntory Hold
 ![related photograph of Beam Suntory](/media/photos/producer-beam-suntory-98a63cfd.jpg)
 
 Figure: Related photograph of Beam Suntory. Image: Richard Sutcliffe, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Beam_Suntory_Linlithgow_Warehouses_-_geograph.org.uk_-_7431635.jpg)).
+
+> **Quick verdict**
+> **In one line:** This producer explains the craft behind Beam Suntory, and what a visit can show.
+>
+> - **Best for:** Anyone who wants the craft, products and visitor limits of Beam Suntory.
+> - **Not for:** If you want only want a buying link and do not care about craft or visitor rules.
+> - **Check first:**
+>   - The key dates form a line: Fortune Brands split in 2011, leaving spirits as Beam Inc.
+>   - Beam Suntory is a corporate entity, not a single brand.
 
 ## Definition and position
 

@@ -164,4 +164,4 @@ Barrett owned Chateau Montelena, whose 1973 Chardonnay won the white-wine catego
 
 **Sources and limits.** The key claims about Jim Barrett are checked against the following sources: Chateau Montelena Winery, The Wine Cellar Insider, Wine History Tours and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Jim Barrett next to Napa Valley, Chardonnay, White wine: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Jim Barrett next to Napa Valley, Chardonnay, White wine: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this profile first, then return to those entries; the links become coordinates, not decoration.

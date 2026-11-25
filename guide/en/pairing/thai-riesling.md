@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:thai-riesling
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:20e5b655eea84a8ed2e0b9c3bae9f8275b90231fc6e4f275afb1dabf1dea0f46
-source_sha256: 20e5b655eea84a8ed2e0b9c3bae9f8275b90231fc6e4f275afb1dabf1dea0f46
+source_revision: sha256:48017d84651f48ee54dcc2e219992ac4f7b135291c45ea6c21ffa060c7f8c0f4
+source_sha256: 48017d84651f48ee54dcc2e219992ac4f7b135291c45ea6c21ffa060c7f8c0f4
 aliases:
   - Thai cuisine and Riesling
 tags:
@@ -94,7 +94,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
@@ -102,7 +102,7 @@ verification_scope: source-verified
 
 Thai cooking is concentrated: lime sourness, chilli heat, fish-sauce saltiness, the perfume of lemongrass and galangal, and the fat and sweetness of coconut milk. Riesling is known for high acidity, clear fruit and floral notes, usually moderate alcohol, and a range from dry to sweet. High acid cuts fat and eases heat, while the perfume echoes herbs, which is why Riesling is often treated as a reliable choice for Thai food. But reliable does not mean that any bottle will do: sweetness, temperature and the structure of the dish all change the result.
 
-![Thai cuisine with Riesling: high acid and aroma against heat thematic illustration](/media/photos/theme-ingredients.jpg)
+![Thai cuisine with Riesling: high acid and aroma against heat thematic illustration](/media/figures/specific/pairing-thai-riesling.svg)
 
 Figure: thematic illustration for Thai cuisine with Riesling: high acid and aroma against heat. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

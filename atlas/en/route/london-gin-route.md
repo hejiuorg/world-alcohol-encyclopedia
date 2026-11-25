@@ -82,7 +82,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project text, checked against regional associations, winery websites and tourism bodies for routes, stops and booking information; no source text was copied. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, labels, maps and quoted text are excluded; roads, hours, booking rules and prices change, so check official channels. This page does not draw a map.
+  note: Third-party trademarks, labels, maps and quoted text are excluded; roads, hours, booking rules and prices change, so check official channels. This route does not draw a map.
 verification_scope: source-verified
 stop_ids:
   - place_id: place:american-bar-savoy
@@ -140,7 +140,7 @@ London is wet year-round, and from October to March it is dark by 16:30, so star
 
 Both bars have dress codes and booking rules; do not bring large luggage or wet umbrellas inside — leave the umbrella at the door and the coat with the cloakroom. Do not order for other people or assume the most expensive martini is best; telling the bartender your taste and limit is more professional than ordering the top price. Service is usually included; tip extra only for good service.
 
-This page does not draw a map or provide live prices; hours, booking rules and lists change, so check both hotel websites before going. If one bar is full, do not wait it out — go to the other or come back another night; London has plenty of gin bars and no need to spend the evening at a door.
+This route does not draw a map or provide live prices; hours, booking rules and lists change, so check both hotel websites before going. If one bar is full, do not wait it out — go to the other or come back another night; London has plenty of gin bars and no need to spend the evening at a door.
 
 ## Further reading and see also
 

@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对含新鲜香草与柑橘的经典配方及其构建方式；未复制原文。
     accessed: 2026-11-07
@@ -85,9 +85,9 @@ verification_scope: source-verified
 
 捣压（muddling）是把香草、水果或糖块放在杯中用捣棒轻压，让香气与汁液释放出来的调酒技法。它是“在杯中构建”的一部分，常见于莫吉托、薄荷茱莉普一类以新鲜植物香气为核心的配方。它看起来简单，实际却很容易因为力度、顺序或工具不合适而毁掉一杯酒。
 
-![捣压 类型示意图](/media/photos/theme-beer.jpg)
+![捣压 类型示意图](/media/figures/specific/technique-muddling.svg)
 
-图：捣压 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是捣压的实拍。
+图：捣压 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

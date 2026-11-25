@@ -140,7 +140,7 @@ Spring and autumn are easiest; Bruges is crowded in summer and winter cellars co
 
 Lambic's acidity is hard on an empty stomach, so eat in Brussels; tastings add up, so leave an hour between stops for walking and water. Take care on the 220 steps after beer, check the last train, and do not rent a car: Belgium enforces drink-driving rules strictly.
 
-This page covers route structure and verifiable facts only, with no live opening status, tour prices or train times; check the two breweries and the rail operator's official channels. Page verified on 2026-11-08.
+This route covers route structure and verifiable facts only, with no live opening status, tour prices or train times; check the two breweries and the rail operator's official channels. Page verified on 2026-11-08.
 
 Further reading: [Lambic](ref:c-extra-1).
 

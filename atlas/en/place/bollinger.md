@@ -39,8 +39,8 @@ tags:
 translation_of: place:bollinger
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:47d7cbb57b6e8824104ff367d0af332825d12600b66a69dc01d3ca2bf87331bd
-source_sha256: 47d7cbb57b6e8824104ff367d0af332825d12600b66a69dc01d3ca2bf87331bd
+source_revision: sha256:018eaa4cf0f1dd8b80d9191eee57d3ee5a4959a17e77120b051cc34b30248006
+source_sha256: 018eaa4cf0f1dd8b80d9191eee57d3ee5a4959a17e77120b051cc34b30248006
 related:
   - relation: about
     target_id: place:krug
@@ -99,6 +99,12 @@ verification_scope: source-verified
 
 Driving north from Reims into Aÿ, the vineyards press right up to the edge of the town. Bollinger’s house and cellars sit on the main street behind stone steps, an iron gate and a discreet sign. It is a different Champagne from Krug: Krug turns blending into a library across years, while Bollinger puts Pinot Noir, old oak and long lees ageing at the front. Three numbers matter here: 180 hectares, 85% and 60%.
 
+> **Visit information**
+> - Address: 20 Boulevard Maréchal de Lattre de Tassigny, 51160 Aÿ-Champagne, France.
+> - Opening and booking: check the [official page](https://www.champagne-bollinger.com/en/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
+
 ![Bollinger house in Aÿ](/media/photos/place-bollinger-0c558246.jpg)
 
 Figure: The Bollinger house and courtyard in Aÿ. Image: G.Garitan, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bollinger_01315.JPG)).
@@ -151,7 +157,7 @@ Half a day: a booked Bollinger tasting and a walk in Aÿ. A full day: add the av
 
 - Champagne comparisons: [Krug](ref:krug), [Taittinger](ref:taittinger), [Avenue de Champagne](ref:avenue), [Champagne avenue walk](ref:route).
 - Background: [Champagne](ref:champagne).
-- This page provides no map; visit, membership and release information should be checked with official channels.
+- This entry provides no map; visit, membership and release information should be checked with official channels.
 
 [Krug](ref:krug) explains address and space; [Avenue de Champagne, Épernay](ref:avenue) adds operating status. Put Champagne Bollinger between them before deciding what it is.
 

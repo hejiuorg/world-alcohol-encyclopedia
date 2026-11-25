@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: guide:rum-intro
 source_lang: zh
-source_revision: sha256:359076c25d092a93d4216c74af6a5f0d601ff4f8f5e065fdac560c3e3cdf6e4a
-source_sha256: 359076c25d092a93d4216c74af6a5f0d601ff4f8f5e065fdac560c3e3cdf6e4a
+source_revision: sha256:01d043403d4bd695e11c5906baa634eb60a01cf86504c40192099077ccf3a703
+source_sha256: 01d043403d4bd695e11c5906baa634eb60a01cf86504c40192099077ccf3a703
 translation_status: reviewed
 aliases:
   - Rum basics
@@ -63,7 +63,7 @@ references:
 sources:
   - key: iba
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the framework of classic rum-based cocktails; no source text is reproduced.
     accessed: 2026-11-07
@@ -89,7 +89,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 
@@ -97,9 +97,16 @@ verification_scope: source-verified
 
 Rum is a distilled spirit that starts from sugar cane or its by-products. Its types differ not only in colour but in raw material, distillation, ageing environment and regional style. A beginner does not need to memorise every category; holding on to the four lines of raw material, distillation, ageing and region is enough to judge the direction of a glass.
 
-![Rum for Beginners: From Sugar Cane to the Glass thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Rum for Beginners: From Sugar Cane to the Glass thematic illustration](/media/figures/specific/guide-rum-intro.svg)
 
 Figure: thematic illustration for Rum for Beginners: From Sugar Cane to the Glass. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Starting from zero:** Rum has two main raw materials: molasses and cane juice.
+> - **Main types and differences:** White or light rum is usually unaged or only briefly aged and filtered, with a pale colour and clean flavour, suited to mixing.
+> - **Choosing a first bottle:** Choose the first bottle by purpose.
 
 ## Starting from zero
 
@@ -169,3 +176,14 @@ Fourth, try an agricole rum and notice the green, mineral character of cane juic
 Start with what it is. From there, consider where it comes from, then how it is used. That is how a practical judgment about Rum for Beginners is built.
 
 Start with [Rum](ref:rum) for reader, then read [Barbados](ref:barbados) for route. Seeing both keeps Rum for Beginners from being confused with a neighbouring idea.
+
+## Quick comparison: four rum styles
+
+| Style | Base and process | Flavour | Best for |
+| --- | --- | --- | --- |
+| White rum | Cane juice or molasses, short rest | Clean, cane sweetness | Mojito, daiquiri |
+| Gold rum | Short oak ageing | Soft, vanilla | Neat or with ice |
+| Dark rum | Longer ageing, caramel colour | Rich caramel and spice | Dark cocktails, baking |
+| Agricole | Fresh cane juice | Grassy, green, intense | Vivid, punchy flavours |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.

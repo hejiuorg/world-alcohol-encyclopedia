@@ -107,6 +107,31 @@ updated_at: 2026-11-08
 
 图：伦敦经典酒吧步行路线。摄影：Royal Opera House - Bow Street, London - statue (6446853425)。署名：Elliott Brown from Birmingham, United Kingdom，CC BY 2.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=22459244)）。
 
+> **先给结论**
+> **一句话：** 这页判断伦敦经典酒吧步行路线怎么排、走多久、哪些点不能省。
+>
+> - **适合谁：** 想把伦敦经典酒吧步行路线排成一日或两日行程、需要知道顺序与停留重点的人。
+> - **不适合谁：** 只想看单个地点、不打算按路线走的人。
+> - **先看这两点：**
+>   - - 第一站：萨沃伊美式酒吧，地址 The Savoy, Strand, London WC2R 0EZ，1893 年开业，位于酒店底层。
+>   - 三间酒店酒吧的差别，不在于价格高低，而在于它们各自把“仪式”放在什么位置。
+
+> **决策清单**
+> 买之前、去之前，按这三步过一遍。
+>
+> - **路线概览：** 第一站：萨沃伊美式酒吧，地址 The Savoy, Strand, London WC2R 0EZ，1893 年开业，位于酒店底层。
+> - **顺序与交通：** 建议按“美式酒吧 → 康诺特 → 杜克斯 → 柴郡奶酪”的顺序走，原因是营业时间与节奏：美式酒吧中午就开门，康诺特要到 16:00 才开门，杜克斯 15:00 开门、22:00。
+> - **为什么是这几站：** 三间酒店酒吧的差别，不在于价格高低，而在于它们各自把“仪式”放在什么位置。
+
+> **专题导航：伦敦经典酒吧与一杯鸡尾酒**
+> - [伦敦经典酒吧步行路线](https://atlas.hejiu.org/routes/london-classic-bar-walk/)
+> - [萨沃伊美式酒吧](https://atlas.hejiu.org/places/american-bar-savoy/)
+> - [《萨伏伊鸡尾酒书》](https://culture.hejiu.org/books/savoy-cocktail-book/)
+> - [伦敦干金](https://beverages.hejiu.org/styles/london-dry-gin/)
+> - [伦敦金酒路线](https://atlas.hejiu.org/routes/london-gin-route/)
+> - [调酒基础](https://hejiu.org/guides/cocktail-basics/)
+> - [干马天尼配方](https://hejiu.org/recipes/dry-martini/)
+
 ## 路线概览
 
 - 第一站：[萨沃伊美式酒吧](ref:american-bar)，地址 The Savoy, Strand, London WC2R 0EZ，1893 年开业，位于酒店底层。

@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:french-burgundy
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:589e90064727fe6c2f8084a5bcb3d03b909ee2f3cd89c09e536f89f1f8c27526
-source_sha256: 589e90064727fe6c2f8084a5bcb3d03b909ee2f3cd89c09e536f89f1f8c27526
+source_revision: sha256:1a4c2857a7c99f19c49d3b56fd84109da99ade2b8637bada7ec5be4b8601000e
+source_sha256: 1a4c2857a7c99f19c49d3b56fd84109da99ade2b8637bada7ec5be4b8601000e
 aliases:
   - French cuisine and Burgundy
 tags:
@@ -99,7 +99,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against wine reference works and public material, and no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
@@ -107,7 +107,7 @@ verification_scope: source-verified
 
 [French cooking](ref:france) is often decided by sauce: a demi-glace may reduce for hours, and butter and flour determine not seasoning but texture and gloss. Red Burgundy is likewise a drink of texture. Its colour is not deep and its tannin is not heavy, yet it wins on aroma, acidity and detail. Put the two together and the point is not to see which dominates, but to keep the concentration of sauce and wine on the same level.
 
-![French cuisine with Burgundy: Pinot Noir and the dialogue of sauce thematic illustration](/media/photos/theme-ingredients.jpg)
+![French cuisine with Burgundy: Pinot Noir and the dialogue of sauce thematic illustration](/media/figures/specific/pairing-french-burgundy.svg)
 
 Figure: thematic illustration for French cuisine with Burgundy: Pinot Noir and the dialogue of sauce. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

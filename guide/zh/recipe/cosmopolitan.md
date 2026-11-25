@@ -97,7 +97,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该配方所属的官方鸡尾酒名单与类别；未复制原文。
     accessed: 2026-11-07
@@ -130,9 +130,18 @@ verification_scope: source-verified
 
 大都会不是从某本调酒手册里掉下来的，它是 1980 年代美国城市夜生活的一个产物：粉红色的酒液、柑橘伏特加、蔓越莓汁，再加上电视与杂志把它推成一种身份符号。谁最先做出这一杯——佛罗里达的酒吧、纽约的调酒师，还是为品牌做推广的人——几种说法各有支持者。本页不裁决署名，只采用 IBA 的当代经典版本：40 毫升柠檬伏特加、15 毫升君度、15 毫升鲜榨青柠汁、30 毫升蔓越莓汁。
 
-![大都会配方（IBA 版本） 类型示意图](/media/photos/theme-ingredients.jpg)
+![大都会配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-cosmopolitan.svg)
 
-图：大都会配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是大都会配方（IBA 版本）的实拍。
+图：大都会配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页判断大都会配方（IBA 版本）怎么做、容易失败在哪一步。
+>
+> - **适合谁：** 想按步骤做出大都会配方（IBA 版本）、并知道失败点在哪的人。
+> - **不适合谁：** 不准备称量、也不接受步骤顺序影响结果的人。
+> - **先看这两点：**
+>   - 这杯酒的颜色比它的配方更早成名。
+>   - 蔓越莓汁在这杯酒里扮演三个角色，而它常常被当成一个角色。
 
 ## 1980 年代的粉红流行
 

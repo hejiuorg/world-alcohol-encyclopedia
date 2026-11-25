@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: cocktail:bellini
 source_lang: zh
-source_revision: sha256:bab97fc3bafcf28d9e6eb922fe6bbef00137779e3db82cd66f5e4525f70b2cd5
-source_sha256: bab97fc3bafcf28d9e6eb922fe6bbef00137779e3db82cd66f5e4525f70b2cd5
+source_revision: sha256:02a0ef74ec8cc6663f59283930cf5b096fbffbae1c9b2e62b9e2f7f9bc26c770
+source_sha256: 02a0ef74ec8cc6663f59283930cf5b096fbffbae1c9b2e62b9e2f7f9bc26c770
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -73,7 +73,7 @@ sources:
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-08

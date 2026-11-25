@@ -80,9 +80,9 @@ verification_scope: source-verified
 
 酒头、酒心、酒尾是壶式蒸馏过程中对馏出液的三段划分。它们不是三种酒，而是一次蒸馏里先后流出的三个部分。操作者按香气、口感与酒精度切换接收容器：最先流出的是酒头，中间是酒心，最后是酒尾。酒心构成成品主体，酒头与酒尾通常回收，留到下一批再蒸。
 
-![酒头、酒心、酒尾（heads, hearts, tails） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![酒头、酒心、酒尾（heads, hearts, tails） 类型示意图](/media/figures/specific/term-heads-hearts-tails.svg)
 
-图：酒头、酒心、酒尾（heads, hearts, tails） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是酒头、酒心、酒尾（heads, hearts, tails）的实拍。
+图：酒头、酒心、酒尾（heads, hearts, tails） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 为什么必须切酒
 

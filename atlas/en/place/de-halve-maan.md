@@ -131,7 +131,7 @@ Recipes and strengths change, so read the bottle. Comparing Belgian top fermenta
 
 **Address:** Walplein 26, 8000 Brugge, Belgium. **Getting there:** 15 minutes on foot from Bruges station; cobbles are hard on wheeled luggage, and the brewery has no car park, so use a public one at the edge of the centre. **Hours:** tours are sold by slot, with several classic tours daily and the XL at weekends; restaurant and tavern hours differ. **Prices:** 16 EUR classic, 26 EUR XL, both including beer; child and group rates are online.
 
-**Notes:** 220 steps, so wear shoes with grip; cellars and stairs are narrow in high season; do not start on an empty stomach; respect the legal drinking age. Central Bruges hotels are expensive and staying near the station is practical. This page does not list coordinates; use official channels for those.
+**Notes:** 220 steps, so wear shoes with grip; cellars and stairs are narrow in high season; do not start on an empty stomach; respect the legal drinking age. Central Bruges hotels are expensive and staying near the station is practical. This entry does not list coordinates; use official channels for those.
 
 Further reading: [A Ginjinha](ref:c-extra-1).
 

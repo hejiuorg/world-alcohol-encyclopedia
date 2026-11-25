@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: cocktail:daiquiri
 source_lang: zh
-source_revision: sha256:37d8a0c3da4975ec455e8db76bf31c8fbf5ffa23dff70eb39b8564ce6095c738
-source_sha256: 37d8a0c3da4975ec455e8db76bf31c8fbf5ffa23dff70eb39b8564ce6095c738
+source_revision: sha256:8be50a7859978b1e0f8dfc403a1ceae924bef09094a5c8b82fb681f26fb329e7
+source_sha256: 8be50a7859978b1e0f8dfc403a1ceae924bef09094a5c8b82fb681f26fb329e7
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -64,7 +64,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -89,7 +89,7 @@ Figure: Daiquiri. Image: Will Shenton, CC BY-SA 3.0, via Wikimedia Commons ([sou
 
 ## Definition and identity
 
-The Daiquiri is often traced to Cuba, with several accounts involving different places and periods. This page does not present one narrative as settled; it treats the drink as part of Caribbean drinking culture in the late 19th and early 20th centuries. Name and recipe are separate things, and the same name with a different method should be explained.
+The Daiquiri is often traced to Cuba, with several accounts involving different places and periods. This cocktail does not present one narrative as settled; it treats the drink as part of Caribbean drinking culture in the late 19th and early 20th centuries. Name and recipe are separate things, and the same name with a different method should be explained.
 
 ## Recipe (IBA version)
 
@@ -149,7 +149,7 @@ For Daiquiri, a common mistake is treating a variation as the original recipe. A
 
 ## Boundary
 
-A Daiquiri is a short, relatively strong drink; sip slowly and drink water, and do not drink quickly on an empty stomach. Do not drink when driving, taking medication or pregnant. This page records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer.
+A Daiquiri is a short, relatively strong drink; sip slowly and drink water, and do not drink quickly on an empty stomach. Do not drink when driving, taking medication or pregnant. This cocktail records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer.
 
 The finished strength depends on the rum's [alcohol by volume](ref:abv), the sugar and the shaking dilution, not on the recipe numbers alone. Keep name, ratio and method separate so that preference is not mistaken for standard.
 

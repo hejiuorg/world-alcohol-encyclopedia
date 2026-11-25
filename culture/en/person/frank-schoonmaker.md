@@ -100,7 +100,7 @@ Figure: Frank Schoonmaker. Photograph: Dual Steering Wheel of the Frank E. Tapli
 
 Schoonmaker was first of all a writer. He wrote for American readers over a long period, introducing European traditional regions and also following the development of American wine. Unlike critics concerned only with tasting descriptions, he cared whether the label told the drinker what was in the bottle. That concern made him an important voice in the American debate over varietal labelling.
 
-It should be said that public material on his birth year, death year and specific posts is incomplete. This page therefore does not fill in dates and does not list unverified titles or offices. If other sources give precise years, their own verifiable evidence should be the guide.
+It should be said that public material on his birth year, death year and specific posts is incomplete. This profile therefore does not fill in dates and does not list unverified titles or offices. If other sources give precise years, their own verifiable evidence should be the guide.
 
 ## Times and career
 
@@ -128,7 +128,7 @@ His influence also showed in writing and education. By explaining the relationsh
 
 ## Controversies and limits
 
-First, varietal labelling has limits. Many wines are blends, and a single-variety label may not reflect all the components; overemphasising variety can also obscure the complexity of place and craft. Second, Europe traditionally centres on place while America centres on variety, and the two logics are not naturally compatible; extending one logic into the other's system requires care. Third, a person's contribution is hard to quantify. Changes in labelling practice involve law, markets, technology and consumer habits, and cannot simply be attributed to one writer. Fourth, biographical material is limited. Birth and death years, specific posts and institutions lack reliable public sources, so this page leaves them empty instead of filling them with rumour.
+First, varietal labelling has limits. Many wines are blends, and a single-variety label may not reflect all the components; overemphasising variety can also obscure the complexity of place and craft. Second, Europe traditionally centres on place while America centres on variety, and the two logics are not naturally compatible; extending one logic into the other's system requires care. Third, a person's contribution is hard to quantify. Changes in labelling practice involve law, markets, technology and consumer habits, and cannot simply be attributed to one writer. Fourth, biographical material is limited. Birth and death years, specific posts and institutions lack reliable public sources, so this profile leaves them empty instead of filling them with rumour.
 
 ## Common misreadings
 

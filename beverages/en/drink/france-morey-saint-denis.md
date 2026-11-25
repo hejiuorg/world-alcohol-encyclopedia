@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-morey-saint-denis
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1cd8b989cc49f0ea3e9fe5f05b3ff6652f6a78ef90cd68c5405fdd6c2e9a31d1
-source_sha256: 1cd8b989cc49f0ea3e9fe5f05b3ff6652f6a78ef90cd68c5405fdd6c2e9a31d1
+source_revision: sha256:6072618c3816c430f0c30b3506965b3c8358dd181893465151e748db6005262a
+source_sha256: 6072618c3816c430f0c30b3506965b3c8358dd181893465151e748db6005262a
 style_refs:
   - drink-style:red-wine
   - drink-style:white-wine
@@ -103,6 +103,15 @@ On a label, Morey-Saint-Denis is a village name made by joining two names: "More
 ![Morey-Saint-Denis image](/media/photos/drink-france-morey-saint-denis-a608776b.jpg)
 
 Figure: Morey-Saint-Denis. Image: Palauenc05, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Morey-Saint-Denis_general_view.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Morey-Saint-Denis suits you, and how to serve and pair it.
+>
+> - **Best for:** Anyone trying to understand what Morey-Saint-Denis is, how it is served and when it fits.
+> - **Not for:** If you want only want the cheapest buying link and do not care about flavour or context.
+> - **Check first:**
+>   - Village-level Morey usually sits in the middle band of Côte de Nuits village wines; premier cru moves up one step.
+>   - The commune was originally called Morey.
 
 ## From "Morey" to "Morey-Saint-Denis"
 

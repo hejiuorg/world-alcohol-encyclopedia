@@ -67,9 +67,9 @@ verification_scope: source-verified
 
 clos 是法语名词，指以围墙、篱笆、沟渠或自然边界围合起来的葡萄园地块。它回答的是“这块地在哪里、边界到哪里”，而不回答“这块地属于哪个等级”。在[勃艮第](ref:burgundy)，clos 常与特定的气候（climat）和地块名一起出现；在卢瓦尔、阿尔萨斯、汝拉与香槟，它同样是地名的一部分。理解 clos 的关键，是把它当地块标识，而不是质量徽章。
 
-![围墙园（clos） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![围墙园（clos） 类型示意图](/media/figures/specific/term-clos.svg)
 
-图：围墙园（clos） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是围墙园（clos）的实拍。
+图：围墙园（clos） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

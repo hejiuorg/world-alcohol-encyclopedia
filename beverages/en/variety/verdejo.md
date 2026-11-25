@@ -141,7 +141,7 @@ To study Verdejo, read botanical and viticultural sources first, then taste thre
 Compare a Rueda Verdejo with a Rueda blend, then Verdejo with Sauvignon Blanc and Viognier. Keep vintage and alcohol fixed; fennel and acidity should identify Verdejo, while green pepper points to Sauvignon and a rounder body to Viognier.
 
 - Related: [rueda](ref:rueda), [sauvignon-blanc](ref:sauvignon), [viognier](ref:viognier), [white-wine](ref:white), [terroir](ref:terroir).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 Read [Rueda](ref:rueda) for the variety character side of Verdejo, and [Viognier](ref:viognier) for the regional performance side. Together they locate it.
 

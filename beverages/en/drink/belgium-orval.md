@@ -98,7 +98,7 @@ Figure: Orval. Photograph: File:A wall of Belgian beer bottles at the Bruges bee
 
 Separate the levels first: beer is the broad category, abbey ale is a tradition and institutional background, Belgium is the region, and Orval is the abbey, brand and single product. Keeping the four apart prevents confusion between the certification mark, abbey history and the flavour in the bottle.
 
-Orval makes only one beer, which is unusual among abbey breweries. Its style resists a single label: it has the floral note of dry hopping and the acidity and dryness brought by microbes in the bottle, and it is usually described as sitting between a pale ale and a sour beer. This page does not force it into one fixed category.
+Orval makes only one beer, which is unusual among abbey breweries. Its style resists a single label: it has the floral note of dry hopping and the acidity and dryness brought by microbes in the bottle, and it is usually described as sitting between a pale ale and a sour beer. This entry does not force it into one fixed category.
 
 ## Producer and brand
 
@@ -138,7 +138,7 @@ The ABV is moderate but the beer should still be drunk in moderation. Carbonatio
 
 ## Buying and storage
 
-Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number, and confirm the bottle mark and date information. Prices move with market and channel, so this page gives no figures; because there is only one product, version differences come mainly from batch and bottle age rather than from a product range.
+Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number, and confirm the bottle mark and date information. Prices move with market and channel, so this entry gives no figures; because there is only one product, version differences come mainly from batch and bottle age rather than from a product range.
 
 Unopened bottles can be kept in a dark, cool place, and some drinkers cellar them deliberately for a more acidic, drier profile; the effect depends on temperature and batch, so "older is always better" is not a general rule. After opening, refrigerate and finish soon.
 

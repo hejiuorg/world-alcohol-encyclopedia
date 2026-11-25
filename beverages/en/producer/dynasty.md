@@ -11,8 +11,8 @@ revision: 3
 translation_of: producer:dynasty
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:06a9ab5e8711262303bdfaadc55cd6a16b3dc06082df6961e74d9d504c649100
-source_sha256: 06a9ab5e8711262303bdfaadc55cd6a16b3dc06082df6961e74d9d504c649100
+source_revision: sha256:422ffc0eaf363ff85f841cd7b10d83a4a3adee30513fe91937019feaf6957733
+source_sha256: 422ffc0eaf363ff85f841cd7b10d83a4a3adee30513fe91937019feaf6957733
 region_refs:
   - region:china
 official_url: https://www.dynasty-wines.com/
@@ -104,6 +104,15 @@ Dynasty (Dynasty Fine Wines Group, stock code 828) is the continuation of a Sino
 
 Figure: Dynasty. Image: 日本国政府, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:The_Imperial_Family_of_Japan,_2021.jpg)).
 
+> **Quick verdict**
+> **In one line:** This producer explains the craft behind Dynasty, and what a visit can show.
+>
+> - **Best for:** Anyone who wants the craft, products and visitor limits of Dynasty.
+> - **Not for:** If you want only want a buying link and do not care about craft or visitor rules.
+> - **Check first:**
+>   - Tianjin lies on the eastern North China Plain in the lower Hai River basin, with a warm temperate semi-humid monsoon climate.
+>   - The listed entity is Dynasty Fine Wines Group Limited, on the Main Board of the Hong Kong Stock Exchange under stock code 828.
+
 ## Company identity and listing
 
 The listed entity is Dynasty Fine Wines Group Limited, on the Main Board of the Hong Kong Stock Exchange under stock code 828. Its registered place and main production base are in Tianjin, and its business covers grape growing, winemaking, bottling and sales, with products sold in the mainland market and some overseas markets under the "Dynasty" brand.
@@ -166,7 +175,7 @@ These risks are not a verdict on the company; they are angles to keep when readi
 
 ## Division of labour with the brand page
 
-This page handles the company layer: who the shareholders are, where it is listed, where the plant is and how to read the accounts. The brand page handles the product layer: positioning, series, price bands, packaging and consumer perception. Mixing them produces explanations of wine style through equity structure, or of governance through advertising.
+This producer handles the company layer: who the shareholders are, where it is listed, where the plant is and how to read the accounts. The brand page handles the product layer: positioning, series, price bands, packaging and consumer perception. Mixing them produces explanations of wine style through equity structure, or of governance through advertising.
 
 Same-name entries at different layers are intentional in this content structure. On seeing "Dynasty", establish whether the reference is the listed company, the producer or a bottle before deciding whether the information fits the question.
 

@@ -86,7 +86,7 @@ Fortification happens during alcoholic [fermentation](ref:fermentation) or after
 
 ## Steps and parameters
 
-In Port, for example, grape spirit at about 77% alcohol is added when fermentation has reached roughly 5–9% alcohol, bringing the finished wine to 19–22% alcohol and leaving 90–140 g/L residual sugar. In dry Sherry, the base wine ferments to completion and is then raised from about 11–12.5% to 15–15.5% for Fino or 17–18% for Oloroso. EU rules frame fortified wine alcohol between 15% and 22%. These ranges follow the common descriptions in the OIV material, regional association information and wine reference work listed on this page, and individual products remain bound by appellation rules.
+In Port, for example, grape spirit at about 77% alcohol is added when fermentation has reached roughly 5–9% alcohol, bringing the finished wine to 19–22% alcohol and leaving 90–140 g/L residual sugar. In dry Sherry, the base wine ferments to completion and is then raised from about 11–12.5% to 15–15.5% for Fino or 17–18% for Oloroso. EU rules frame fortified wine alcohol between 15% and 22%. These ranges follow the common descriptions in the OIV material, regional association information and wine reference work listed on this process, and individual products remain bound by appellation rules.
 
 ## Mechanism: alcohol inhibition and extraction
 

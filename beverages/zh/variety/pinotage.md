@@ -79,6 +79,15 @@ verification_scope: source-verified
 
 图：皮诺塔吉。图片：Please note: This photo can be reproduced. Please quote the source as indicated below: Doris Schneider, Julius Kühn-Institut (JKI), Federal Research Centre for ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VIVC9286_PINOTAGE_Full_plant_3638.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断皮诺塔吉适不适合你，以及怎么比较其他品种。
+>
+> - **适合谁：** 正在比较皮诺塔吉与其他品种、想弄懂风味差异的人。
+> - **不适合谁：** 只想要单一名庄推荐、不关心品种本身的人。
+> - **先看这两点：**
+>   - 皮诺塔吉属于欧洲葡萄 Vitis vinifera，是红葡萄品种，名称来自 Pinot（黑皮诺）与 Hermitage（神索在南非的旧称）的组合。
+>   - 1925 年，斯泰伦博斯大学（Stellenbosch University）的教授 Abraham Izak Perold 在实验园中用黑皮诺的花粉授给神索。
+
 ## 定义与别名
 
 皮诺塔吉属于欧洲葡萄 Vitis vinifera，是红葡萄品种，名称来自 Pinot（黑皮诺）与 Hermitage（神索在南非的旧称）的组合。它不是黑皮诺的变种，也不是“黑皮诺与西拉”的杂交；它的另一个亲本是神索（Cinsaut），在南非历史上常被称为 Hermitage。皮诺塔吉是人工杂交（crossing），不是种间杂种（hybrid），因为两个亲本都属于 Vitis vinifera。中文名“皮诺塔吉”是音译，酒标上通常直接写 Pinotage(ref:red-wine)。

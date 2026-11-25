@@ -103,6 +103,15 @@ verification_scope: source-verified
 
 图：Vouvray：Vouvray Vineyard after budbreak（Wikimedia Commons）。图片：Peter Dutton，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vouvray_Vineyard_after_budbreak.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断武弗雷的风味与旅行价值，以及怎么安排。
+>
+> - **适合谁：** 正在比较武弗雷与其他产区、准备买酒或安排旅行的人。
+> - **不适合谁：** 只想要“哪个产区最贵”的结论、不关心风格和年份的人。
+> - **先看这两点：**
+>   - 标签读法上，AOC 名之下，风格词 sec、demi-sec、moelleux、liquoreux 比产区名更重要；残留糖分决定口感，“干型”不等于高酒精。
+>   - 产区距图尔市区约十公里上下，车程一刻钟左右；自驾最方便，也可沿卢瓦尔河谷自行车道（Loire à Vélo）连接图尔与沿岸酒庄，公共交通班次有限。
+
 ## 先划清「武弗雷」的边界
 产区位于图尔上游近郊，高原被多条干谷切割，边缘是俯瞰卢瓦尔河的陡崖，海拔在 85–110 米之间。法定范围沿卢瓦尔河及汇入谷地的八个市镇展开，包括 Vouvray、Rochecorbon、Vernou-sur-Brenne、Parçay-Meslay、Chançay 等；葡萄园集中在朝南、东南的坡地与台缘地带。
 

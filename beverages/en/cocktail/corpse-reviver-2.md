@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:corpse-reviver-2
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:691bc0d69714b6c82a3aca01d3453d9dd188c681e2d60190052ec8c0c67ad48c
-source_sha256: 691bc0d69714b6c82a3aca01d3453d9dd188c681e2d60190052ec8c0c67ad48c
+source_revision: sha256:658c443ac9fda0f6676f26c5928e62082a7f570d4e87ef430239f76224555267
+source_sha256: 658c443ac9fda0f6676f26c5928e62082a7f570d4e87ef430239f76224555267
 style: 经典鸡尾酒
 ingredient_refs: []
 origin_place: London, United Kingdom (as the widely told story)
@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and classic-cocktail context; no source text is reproduced.
     accessed: 2026-11-07
@@ -84,9 +84,18 @@ The Corpse Reviver #2 is a classic cocktail of equal parts gin, orange liqueur, 
 
 Figure: Related photograph of Corpse Reviver #2. Image: Adrian Scottow, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Corpse_Reviver_-2_-_16294945262.jpg)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Corpse Reviver #2, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Corpse Reviver #2.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - Start with the base and the ratio.
+>   - "Corpse Reviver" is the name of a family of cocktails intended to revive or wake someone up; the phrase literally means "one that brings a corpse back".
+
 ## Origin and naming
 
-"Corpse Reviver" is the name of a family of cocktails intended to revive or wake someone up; the phrase literally means "one that brings a corpse back". The family was recorded in the Savoy Cocktail Book in the 1930s, and the #2 became the most famous member. The exact author, earlier sources and evolution of the recipe are not fully consistent across accounts, so this page treats the origin as widely told rather than documented. No single year or author should be presented as settled fact.
+"Corpse Reviver" is the name of a family of cocktails intended to revive or wake someone up; the phrase literally means "one that brings a corpse back". The family was recorded in the Savoy Cocktail Book in the 1930s, and the #2 became the most famous member. The exact author, earlier sources and evolution of the recipe are not fully consistent across accounts, so this cocktail treats the origin as widely told rather than documented. No single year or author should be presented as settled fact.
 
 The "number 2" signals that other numbered versions exist in the family; the one most often mentioned is #1, which is built on brandy. #2 uses gin and is closer to a sour: a base spirit, orange liqueur, Lillet Blanc and lemon juice in equal parts, plus an absinthe rinse. The number is not a quality ranking but a way of distinguishing different formulas within the family. Treating #2 as an "upgraded #1" is a misconception.
 

@@ -151,7 +151,7 @@ Junmai is defined by ingredients: rice, rice koji and water, with no added brewi
 
 **Sources and limits.** The key claims about Junmai sake are checked against the following sources: Japan Sake and Shochu Makers Association (Used to check sake classification and labelling), National Tax Agency of Japan (raw materials, polishing ratios and labelling rules for named sake categories), Oxford University Press (Consulted for entries on junmai, ginjo aroma and sake brewing; Migrated from the former reference list at the end of the article; access date not re-verified). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Junmai sake, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Junmai sake, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

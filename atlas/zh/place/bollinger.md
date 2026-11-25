@@ -93,6 +93,12 @@ verification_scope: source-verified
 
 从兰斯往北，车开进阿伊（Aÿ）时，葡萄园一直压到镇边。堡林爵的宅邸与酒窖就在主街上，门口是石阶、铁门与一块不张扬的招牌。它与库克是两种香槟：库克把“调配”做成跨年份的图书馆，堡林爵则把 Pinot Noir、旧橡木桶与长时间带酒泥陈年放在前面。要理解堡林爵，先记住三个数字：180 公顷、85%、60%。
 
+> **到访信息**
+> - 地址：20 Boulevard Maréchal de Lattre de Tassigny, 51160 Aÿ-Champagne, France。
+> - 开放与预约：以[官方页面](https://www.champagne-bollinger.com/en/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-21。
+
 ![堡林爵阿伊宅邸](/media/photos/place-bollinger-0c558246.jpg)
 
 图：堡林爵在阿伊的宅邸与庭院。图片：G.Garitan，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bollinger_01315.JPG)）。

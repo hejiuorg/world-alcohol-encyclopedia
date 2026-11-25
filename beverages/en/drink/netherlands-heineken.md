@@ -114,7 +114,7 @@ The company still maintains its own yeast library and uses A-yeast as part of it
 
 The published materials are [barley](ref:barley) malt, [water](ref:water) and hops, with no rice or maize adjunct. An all-malt grist gives fuller malt sweetness and a biscuit note, and the body feels more solid; hops supply a light herbal and spicy character, with bitterness above American lager but far below IPA.
 
-Plants use local water treated to approach a common style target. Mineral content affects mashing efficiency, the presentation of hop bitterness and fermentation behaviour, so water treatment is one of the most important stability tools in a large lager plant. Proportions and process parameters are company information and only partly public, so this page does not guess at numbers.
+Plants use local water treated to approach a common style target. Mineral content affects mashing efficiency, the presentation of hop bitterness and fermentation behaviour, so water treatment is one of the most important stability tools in a large lager plant. Proportions and process parameters are company information and only partly public, so this entry does not guess at numbers.
 
 ## Cool fermentation and conditioning
 

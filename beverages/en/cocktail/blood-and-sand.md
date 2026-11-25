@@ -163,4 +163,4 @@ The comparison with [Scotch whisky](ref:scotch) and [Shaking](ref:shaking) runs 
 
 **Sources and limits.** The key claims about Blood and Sand are checked against the following sources: International Bartenders Association, Oxford University Press (Used to check cocktail history and terminology), CocktailDB (Used to cross-check recipe structure and common variations) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Blood and Sand, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Blood and Sand, this cocktail was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

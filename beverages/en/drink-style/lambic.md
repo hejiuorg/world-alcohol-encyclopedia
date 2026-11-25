@@ -81,7 +81,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against brewery public information, style guidelines and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Lambic
@@ -148,9 +148,9 @@ Lambic is fermented by wild yeast and bacteria in the Senne valley, then aged in
 
 **Sources and limits.** The key claims about Lambic are checked against the following sources: Brasserie Cantillon, Beer Judge Certification Program, Oxford University Press and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Lambic next to Beer, Belgium, Wheat: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Lambic next to Beer, Belgium, Wheat: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
-For Lambic, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Lambic, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

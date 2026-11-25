@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:japanese-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1184227678463bfd4e99ee399a6cbd6278a6bbf60c1f7239114ee2c523c22e33
-source_sha256: 1184227678463bfd4e99ee399a6cbd6278a6bbf60c1f7239114ee2c523c22e33
+source_revision: sha256:f64cfa967fb1e7f524214f4baf7ee39d4223af09e407702bc388634b62d10855
+source_sha256: f64cfa967fb1e7f524214f4baf7ee39d4223af09e407702bc388634b62d10855
 aliases:
   - Japanese cuisine and sake
 tags:
@@ -98,17 +98,16 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against industry bodies, reference works and public material, and no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
-# Japanese cuisine with sake: umami and rice aroma in balance
-
-Between [sake](ref:sake) and Japanese food there is more than the convenience of a same-country match. They share a grammar of taste: both depend on amino acids and nucleotides created by fermentation, both put savouriness before sweetness and salt, and both adjust intensity by temperature rather than by spice. Once that grammar is clear, pairing stops being a matter of memorising menus and becomes a judgement about concentration, temperature and fat.
-
-![Japanese cuisine with sake: umami and rice aroma in balance thematic illustration](/media/photos/theme-asian.jpg)
-
-Figure: thematic illustration for Japanese cuisine with sake: umami and rice aroma in balance. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Classification: polishing ratio and added alcohol:** The legal categories of sake are decided by two variables: the polishing ratio, meaning the proportion of the rice grain left after milling, and whether brewers' alcohol is added.
+> - **Where umami comes from: koji, yeast and amino acids:** Sake's umami comes from rice and koji.
+> - **Mechanism: umami layering, acidity, alcohol and temperature:** Umami layering is the first mechanism.
 
 ## Classification: polishing ratio and added alcohol
 
@@ -173,4 +172,8 @@ Sixth, scalding hotpot with ice-cold ginjo. The temperature gap interrupts both 
 
 Without alcohol, unsweetened amazake can replace sake's rice aroma and sweetness, cold-brewed green tea can replace acidity and refreshment, and kombu stock can replace umami. Amazake is sweet and suits glazed and grilled food rather than raw fish; green tea tannin creates slight astringency with raw fish, so keep it light.
 
-Further reading: [Sake for beginners](ref:c-extra-1).
+Further reading: [Sake for beginners](ref:c-extra-1).## Ordering and portion size
+
+At a Japanese restaurant, order a light sashimi or chawanmushi first, then decide the sake temperature and portion. For two people, one go (about 180 ml) is a comfortable start; pour 60–90 ml per person and ask for small cups or split pours if you want to compare styles. Sake loses aroma after opening, so order a small bottle first and add more halfway through rather than filling every cup at once. If someone is not drinking, use [Sake intro](ref:c-extra-1) to choose a style and temperature, then apply the [pairing principles](ref:food-pairing) to sashimi, tempura and hot-pot dishes; for a fuller rice profile, see [Junmai](ref:junmai).
+
+

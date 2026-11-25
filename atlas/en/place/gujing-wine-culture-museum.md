@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:gujing-wine-culture-museum
 source_lang: zh
-source_revision: sha256:1ddab6bf8d5215b2e485605818d71a2e5ce0bb7ba36c13ec5d8ad2e5aac5a1ae
-source_sha256: 1ddab6bf8d5215b2e485605818d71a2e5ce0bb7ba36c13ec5d8ad2e5aac5a1ae
+source_revision: sha256:4d0869df20bcca6726e662e7698b8068655a24be3c301834bf2bff5ef2c3c90a
+source_sha256: 4d0869df20bcca6726e662e7698b8068655a24be3c301834bf2bff5ef2c3c90a
 translation_status: reviewed
 subtype: museum
 address: 安徽省亳州市谯城区古井镇三曹大道（古井酒厂对面）
@@ -104,11 +104,20 @@ The Gujing Wine Culture Museum stands in Gujing Town, Qiaocheng District, Bozhou
 
 Figure: Gujing Wine Culture Museum. Photograph: File:Bozhou Railway Station (54488765713).jpg. Credit: Jeremy Thompson, CC BY 2.0 ([source page](https://commons.wikimedia.org/wiki/File:Bozhou_Railway_Station_(54488765713).jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Gujing Wine Culture Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Gujing Wine Culture Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Gujing Group traces its corporate line to the Gongxing distillery of 1515, during the Ming Zhengde reign.
+>   - The museum covers about 3,200 square metres of land and 2,200 square metres of floor area, all in a traditional-style compound.
+
 ## Place and history
 
 Gujing Group traces its corporate line to the Gongxing distillery of 1515, during the Ming Zhengde reign. In 1959 the site was converted into the state-run Bozhou Gujing Distillery; the group was established in 1992 and Gujing Gongjiu was listed on the stock market in 1996. The brand story reaches further back: in 196 AD Cao Cao presented "Jiuyun spring wine" and its production method from his home region of Bozhou to Emperor Xian of Han. The company uses this as its origin narrative, and in 2018 Guinness World Records recognised the "Jiuyun method" as the world's oldest surviving distilled-liquor production method.
 
-Gujing Group built the museum itself with an investment of more than 1500 wan yuan (about 15 million yuan). The Bozhou municipal government says it was completed in 1994 and formally opened in 1996, and describes it as one of Anhui's ten major industry museums and one of China's earliest wine-culture museums. The National Cultural Heritage Administration's museum report records construction beginning in 1995 and its first public opening on 1 January 1997. The two official sources do not fully agree on construction, completion and opening dates. This page follows the municipal account of completion in 1994 and opening in 1996, while keeping the discrepancy visible rather than treating either version as undisputed.
+Gujing Group built the museum itself with an investment of more than 1500 wan yuan (about 15 million yuan). The Bozhou municipal government says it was completed in 1994 and formally opened in 1996, and describes it as one of Anhui's ten major industry museums and one of China's earliest wine-culture museums. The National Cultural Heritage Administration's museum report records construction beginning in 1995 and its first public opening on 1 January 1997. The two official sources do not fully agree on construction, completion and opening dates. This entry follows the municipal account of completion in 1994 and opening in 1996, while keeping the discrepancy visible rather than treating either version as undisputed.
 
 In 2008 the Gujing Wine Culture Park became a national 4A tourist attraction. In 2013 the Gujing Gongjiu brewing site was listed as a nationally protected cultural relic. In 2019 the "Gujing Gongjiu vintage raw wine traditional brewing area" entered the national industrial heritage list. In 2022 the park was named a national industrial-tourism demonstration base. Company materials also say that in 2025 the brewing site entered China's tentative list for World Cultural Heritage. These overlapping designations explain why the site is more than a single gallery: corporate history, heritage protection and industrial tourism all support it.
 
@@ -160,7 +169,7 @@ The first misconception is that the museum and the distillery are the same visit
 
 The second is to expect a fully commercial 4A visitor circuit. The value here lies in the authenticity of the wells, cellars and manual brewing; food, souvenirs and interactive exhibits are less developed than at a large city museum. Anyone who only wants easy photo stops may find it hard going.
 
-The third is to overlook the date discrepancy. Official material gives both 1996 and 1997 for the opening. This page keeps both rather than declaring one absolute. If a panel on site says 1997, it is not contradicting this page; the two records use different conventions.
+The third is to overlook the date discrepancy. Official material gives both 1996 and 1997 for the opening. This entry keeps both rather than declaring one absolute. If a panel on site says 1997, it is not contradicting this entry; the two records use different conventions.
 
 In the heritage and cellar areas, follow the rules: do not touch, step over barriers or enter closed zones. Well walls, cellar mud and inscriptions do not survive handling. Production areas involve machinery and spent grain, so heels and sandals are unsuitable. Check photography notices before taking pictures; some workshops prohibit it.
 
@@ -178,6 +187,6 @@ With only half a day in Bozhou, choose either the Gujing museum or the Flower Th
 
 ## See also
 
-The Gujing Wine Culture Museum is linked to [Anhui Gujing Distillery Co., Ltd.](ref:producer) through the "visitor place of" relationship: the company profile covers the business and products, while this page covers the visit and the space. For the city context, continue with [Bozhou](ref:bozhou).
+The Gujing Wine Culture Museum is linked to [Anhui Gujing Distillery Co., Ltd.](ref:producer) through the "visitor place of" relationship: the company profile covers the business and products, while this entry covers the visit and the space. For the city context, continue with [Bozhou](ref:bozhou).
 
 Further reading: [Strong-aroma baijiu](ref:c-extra-1), [Gujing Gongjiu](ref:c-extra-2), [Wuliangye Wine Museum](ref:c-extra-3).

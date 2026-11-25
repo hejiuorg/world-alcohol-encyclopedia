@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:provence-rose-trail
 source_lang: zh
-source_revision: sha256:67d2d1fef8753458c4f7ece71563583af796551760a17e42b8211423542142a3
-source_sha256: 67d2d1fef8753458c4f7ece71563583af796551760a17e42b8211423542142a3
+source_revision: sha256:8108c8479677ab5fe5f91ae8286bda68ae726df0d86cb3e7912928991a5bd1a6
+source_sha256: 8108c8479677ab5fe5f91ae8286bda68ae726df0d86cb3e7912928991a5bd1a6
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -99,6 +99,15 @@ This route has two stops: Château de Selle in Taradeau and Miraval in Correns. 
 
 Figure: "Provence rosé trail: Taradeau to Correns". Photograph: File:Lavender field and Mont Ventoux.jpg. Credit: Robert Brink, CC BY-SA 3.0 ([source page](https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This route helps you plan Provence rosé trail: Taradeau to Correns, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Provence rosé trail: Taradeau to Correns into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - The Mistral is unavoidable in any Provençal wine story.
+>   - The two stops are about an hour apart, and with the drive in and out of Les Baux-de-Provence, two stops in a day is not rushed.
+
 ## One hour between two stops
 
 Put Taradeau first, because it is somewhere you can actually enter. Château de Selle is at 5093 Route de Flayosc, 83460 Taradeau; from Les Baux-de-Provence or Aix it is a little over an hour by car. The second stop lies east in Correns, at Miraval, 83570 Correns, about an hour from Taradeau. The route suits a car: public transport in the inland Var is sparse, and neither estate sits near a station.
@@ -147,7 +156,7 @@ The two stops are about an hour apart, and with the drive in and out of Les Baux
 
 May to September is the most reliable season, but August afternoons are hot and neither the vineyards nor the cellar offer much shade; spring and autumn are more comfortable and busier with harvest events. On a strong Mistral day, outdoor stops shorten quickly. When booking, confirm whether tasting is included, whether children are welcome, the meeting point and the cancellation policy; inside the production area, do not touch cask racks or pipes.
 
-Anyone driving should not drink at all, or should spit every sample. Provençal country roads are narrow and winding, and low afternoon sun hurts visibility; a designated driver, a hired car or a tour with transport is the safe arrangement. Opening hours, bookings and prices are subject to official channels; this page was verified on 2026-11-09.
+Anyone driving should not drink at all, or should spit every sample. Provençal country roads are narrow and winding, and low afternoon sun hurts visibility; a designated driver, a hired car or a tour with transport is the safe arrangement. Opening hours, bookings and prices are subject to official channels; this route was verified on 2026-11-09.
 
 Begin with the order of stops, move on to the distance and opening hours, and finish with whether it works as a fixed itinerary. That order keeps the reading of Provence rosé trail practical.
 

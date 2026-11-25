@@ -151,7 +151,7 @@ Putting Beijing into an itinerary means separating the regional centre from spec
 Fangshan is about an hour to ninety minutes from central Beijing; Miyun and Yanqing take two hours or more. A winery visit usually includes vineyard, cellar and tasting, so three stops in one day is already tight. Book ahead and do not try to combine a wine estate with a baijiu museum in the same afternoon.
 
 - Related: [china](ref:china), [cabernet-sauvignon](ref:cabernet), [baijiu](ref:baijiu), [red-wine](ref:red), [white-wine](ref:white).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 **In brief:** The Chinese capital’s wine and baijiu region, with vineyards in Fangshan and Miyun and the light-aroma baijiu producers Niulanshan and Red Star Erguotou in Shunyi; estate wineries on the urban edge and old distilleries make a rare “urban drinks region”. 
 

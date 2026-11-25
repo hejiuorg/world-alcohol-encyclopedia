@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:aubert-de-villaine
 source_lang: zh
-source_revision: sha256:1dfccb83052465906aa128c398b1f05e3ccd71f7d7c07a895253aa6e851153c8
-source_sha256: 1dfccb83052465906aa128c398b1f05e3ccd71f7d7c07a895253aa6e851153c8
+source_revision: sha256:7c23a99913b8a608a52cf60412734d25131552adb401596b7f3c24a265d58c5b
+source_sha256: 7c23a99913b8a608a52cf60412734d25131552adb401596b7f3c24a265d58c5b
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1939
@@ -96,6 +96,15 @@ Aubert de Villaine (born 1939) is a French winemaker and one of the longest-serv
 ![Bottles of Romanée-Conti, La Tâche and Échézeaux in a wine display](/media/photos/person-aubert-de-villaine-75c5c6d2.jpg)
 
 Figure: Bottles of Romanée-Conti and La Tâche. Image: Arnaud 25, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Domaine_de_la_Roman%C3%A9-conti_02.JPG)).
+
+> **Quick verdict**
+> **In one line:** This profile explains why Aubert de Villaine is remembered, and which works to look at first.
+>
+> - **Best for:** Anyone trying to understand what Aubert de Villaine did and why the drink world remembers them.
+> - **Not for:** If you want only want anecdotes and do not care about historical position.
+> - **Check first:**
+>   - Aubert was born in Rennes on 8 February 1939, the eldest of six children.
+>   - DRC's structure is easy to misread.
 
 ## From Rennes to Vosne-Romanée
 

@@ -109,7 +109,7 @@ Distillery, brand and product are three levels: the distillery answers equipment
 
 Islay lies off the west coast of Scotland in a maritime climate with strong winds, high humidity and small temperature swings; most distilleries sit close to the sea. Local peat is formed from accumulated plant remains and releases phenolic compounds when burned, which attach to the malt during kilning and create the base of smoke and medicinal notes.
 
-The raw materials are [barley](ref:barley) and [water](ref:water). Barley is steeped and germinated, then kilned over a peat fire so the malt takes on [peat](ref:peat) character, before mashing, fermentation and distillation. Water sources and malt suppliers belong to distillery craft information that is not always public, so this page does not treat a single input as the whole explanation of style.
+The raw materials are [barley](ref:barley) and [water](ref:water). Barley is steeped and germinated, then kilned over a peat fire so the malt takes on [peat](ref:peat) character, before mashing, fermentation and distillation. Water sources and malt suppliers belong to distillery craft information that is not always public, so this entry does not treat a single input as the whole explanation of style.
 
 ## Production
 
@@ -137,7 +137,7 @@ It can also be used in mixing, but the heavy peat will dominate the drink and th
 
 ## Buying and storage
 
-Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market and batch, so this page gives no figures; differences in ABV and volume between markets should be checked on the actual bottle rather than generalised.
+Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market and batch, so this entry gives no figures; differences in ABV and volume between markets should be checked on the actual bottle rather than generalised.
 
 An unopened bottle can be kept for years in a dark, cool place, standing upright to limit contact between liquid and cork. Once opened, the aroma shifts over time, so it is best finished within a few months; heat and strong light accelerate decline, and odour-heavy environments such as kitchens are unsuitable for long storage.
 

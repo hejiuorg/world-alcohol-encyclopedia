@@ -118,7 +118,7 @@ The raw material is [grape](ref:grape), here the [Sauvignon Blanc](ref:sauvignon
 
 After picking, the grapes are pressed, the juice is settled cold and clarified, and yeast carries out [fermentation](ref:fermentation). Marlborough Sauvignon Blanc is usually fermented cool in stainless steel to preserve varietal aroma and fresh acidity; some batches use oak or lees contact to add texture and complexity.
 
-The estate also makes a barrel-fermented Sauvignon Blanc with a different craft aim from the stainless-steel line. Fermentation temperature, yeast choice and whether malolactic fermentation occurs all change the final aroma and texture. These details belong to estate craft information and are not always public, so this page gives no single set of parameters.
+The estate also makes a barrel-fermented Sauvignon Blanc with a different craft aim from the stainless-steel line. Fermentation temperature, yeast choice and whether malolactic fermentation occurs all change the final aroma and texture. These details belong to estate craft information and are not always public, so this entry gives no single set of parameters.
 
 ## Specification and label
 
@@ -140,7 +140,7 @@ After opening, keep it chilled and finish within a few days, since the aroma fad
 
 ## Buying and storage
 
-Buy through regular channels and check vintage, region, importer and anti-counterfeit information. Prices move with vintage, channel and batch, so this page gives no figures. Different lines from the same estate, such as the barrel-fermented version, should be judged separately and not merged under one label.
+Buy through regular channels and check vintage, region, importer and anti-counterfeit information. Prices move with vintage, channel and batch, so this entry gives no figures. Different lines from the same estate, such as the barrel-fermented version, should be judged separately and not merged under one label.
 
 Keep unopened bottles in a dark, cool place, lying down or standing, ideally at 10–13 degrees Celsius, away from heat and sharp temperature swings. Bottles closed with cork need humidity and are often stored lying down; after opening, refrigerate and drink soon rather than warming and cooling repeatedly.
 

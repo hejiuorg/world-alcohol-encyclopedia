@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:layering
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f715f828006f14b7b88e4d967d64ebb173eb9428644bcb4e27dd49bb170762ae
-source_sha256: f715f828006f14b7b88e4d967d64ebb173eb9428644bcb4e27dd49bb170762ae
+source_revision: sha256:a673a17baad57902b3c4da10826975b333368e4cc1c8be5d03f7c55b20f8a6cc
+source_sha256: a673a17baad57902b3c4da10826975b333368e4cc1c8be5d03f7c55b20f8a6cc
 applies_to_refs: []
 about_refs:
   - tool:bar-spoon
@@ -49,7 +49,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check classic cocktail structure and garnish practice; no source text is reproduced.
     accessed: 2026-11-07
@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 Layering is the technique of building a drink so that different ingredients remain visible as separate bands in the glass. It relies on differences in liquid density and on a slow, wall-guided pour that lets heavier liquids settle below lighter ones. It is used in small shooters, dessert-style cocktails and drinks where visual presentation matters, and also to float a layer of aroma or colour on top of a finished drink.
 
-![Layering thematic illustration](/media/photos/theme-beer.jpg)
+![Layering thematic illustration](/media/figures/specific/technique-layering.svg)
 
 Figure: thematic illustration for Layering. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

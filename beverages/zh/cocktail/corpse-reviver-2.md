@@ -43,7 +43,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单与经典鸡尾酒分类背景；未复制原文。
     accessed: 2026-11-07
@@ -83,6 +83,15 @@ verification_scope: source-verified
 ![还魂酒二号相关实景照片](/media/photos/cocktail-corpse-reviver-2-9af7f153.jpg)
 
 图：还魂酒二号相关实景照片。图片：Adrian Scottow，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Corpse_Reviver_-2_-_16294945262.jpg)）。
+
+> **先给结论**
+> **一句话：** 这页判断还魂酒二号该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂还魂酒二号的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 常见配方为金酒 22.5 毫升、橙味利口酒 22.5 毫升、利莱白 22.5 毫升、柠檬汁 22.5 毫升，另用苦艾酒洗杯。
+>   - 点单时可以直接说“还魂酒二号”，若店家不熟悉，可以说明是金酒、橙味利口酒、利莱白与柠檬汁等量、苦艾酒洗杯的版本。
 
 ## 起源与命名
 

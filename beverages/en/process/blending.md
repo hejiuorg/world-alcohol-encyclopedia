@@ -102,7 +102,7 @@ Blending sits after each component has finished fermentation or ageing and befor
 
 ## Steps and parameters
 
-The usual sequence is component assessment, bench trials, fixing proportions, vat blending, resting, stabilisation and filtration. Bench trials record alcohol, titratable acidity, pH, residual sugar, colour, tannin and aroma intensity; after vat blending the liquid rests for 2–4 weeks so colloids and aromas can rebalance. These ranges follow the common descriptions in the regulations, industry material and reference works listed on this page. Temperature, stirring and oxygen during mixing change how quickly components marry; when alcohol levels differ widely, a compatibility trial should come first to avoid protein or tartrate precipitation.
+The usual sequence is component assessment, bench trials, fixing proportions, vat blending, resting, stabilisation and filtration. Bench trials record alcohol, titratable acidity, pH, residual sugar, colour, tannin and aroma intensity; after vat blending the liquid rests for 2–4 weeks so colloids and aromas can rebalance. These ranges follow the common descriptions in the regulations, industry material and reference works listed on this process. Temperature, stirring and oxygen during mixing change how quickly components marry; when alcohol levels differ widely, a compatibility trial should come first to avoid protein or tartrate precipitation.
 
 ## Mechanism: colloids, colour and volatility
 

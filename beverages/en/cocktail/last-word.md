@@ -11,8 +11,8 @@ revision: 1
 translation_of: cocktail:last-word
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:73566de491bf2fbf7470f224369fd857a32ca16f3c07040dd7c51ffeddd8a9df
-source_sha256: 73566de491bf2fbf7470f224369fd857a32ca16f3c07040dd7c51ffeddd8a9df
+source_revision: sha256:425ee132d167ac2e55abb9f6677f5eae93d06766e315c8c18b97125791401236
+source_sha256: 425ee132d167ac2e55abb9f6677f5eae93d06766e315c8c18b97125791401236
 style: Modern classic
 ingredient_refs: []
 origin_place: Detroit, United States (commonly traced to the Detroit Athletic Club, 1915–1916)
@@ -52,7 +52,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and the equal-parts recipe; no source text is reproduced.
     accessed: 2026-11-07
@@ -99,6 +99,15 @@ The Last Word is a short drink built from equal parts gin, green Chartreuse, mar
 ![The Last Word photograph](/media/photos/q2-cocktail-last-word-6f808b57.jpg)
 
 Figure: The Last Word. Photograph: The Last Word cocktail raised. Credit: Don LaVange, CC BY-SA 2.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=18593444)).
+
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order The Last Word, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind The Last Word.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - Green Chartreuse descends from a Carthusian monastic recipe and, according to the producer, is bottled at 55% ABV with about 130 plants in the infusion.
+>   - Green and yellow Chartreuse belong to the same family but pull in different directions.
 
 ## A Detroit club and a vaudeville name
 

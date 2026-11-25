@@ -80,7 +80,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against publisher, author and bibliographic pages, without reproducing maps, photographs, brewery entries or translations. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original maps, photographs, brewery entries and translations are not covered by this licence; sources are cited for verification only. The image on this page shows a tasting table of beers from several countries, not the book cover.
+  note: The original maps, photographs, brewery entries and translations are not covered by this licence; sources are cited for verification only. The image on this book entry shows a tasting table of beers from several countries, not the book cover.
 verification_scope: source-verified
 source_sha256: cca44c829134a84ff5c81bdae8e24ee96ba65343db3d3252ed317adc239788ed
 source_revision: sha256:cca44c829134a84ff5c81bdae8e24ee96ba65343db3d3252ed317adc239788ed
@@ -124,7 +124,7 @@ The book’s influence is mainly in travel, hospitality and introductory educati
 
 As a reference, its value is in putting style back into place. The brewery histories, pub culture, drinking habits and pairing advice can be checked against local records, industry reports and brewery websites. It also helps readers see how beer tax, the Reformation, migration and war shaped beer: the survival of abbey beers, the Czech lager tradition and the British pub system are not isolated “flavour stories.”
 
-There are four limits. First, the industry changes very fast; brewery recommendations, beers and prices go out of date, and even the third edition only covers the world up to 2021. Second, global coverage is uneven, with Europe receiving far more space than Africa, South Asia or the Middle East. Third, the book is a geography and style survey, not a brewing manual; readers who want recipes and process need technical books. Fourth, tasting and pairing advice reflects author preferences, not universal laws; the same beer behaves differently at different temperatures and with different dishes.
+There are four limits. First, the industry changes very fast; brewery recommendations, beers and prices go out of date, and even the third edition only covers the world up to 2021. Second, global coverage is uneven, with Europe receiving far more space than Africa, South Asia or the Middle East. Third, the book is a geography and style survey, not a brewing manual; if you want want recipes and process need technical books. Fourth, tasting and pairing advice reflects author preferences, not universal laws; the same beer behaves differently at different temperatures and with different dishes.
 
 ## Common misreadings
 

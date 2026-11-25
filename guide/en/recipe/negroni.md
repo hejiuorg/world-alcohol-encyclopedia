@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: negroni
 title: Negroni recipe (IBA version)
-summary: 30 ml each of gin, Campari and sweet vermouth, stirred and strained into a rocks glass over ice, garnished with orange peel; this page explains ratio, technique, equipment and substitution limits.
+summary: 30 ml each of gin, Campari and sweet vermouth, stirred and strained into a rocks glass over ice, garnished with orange peel; this recipe explains ratio, technique, equipment and substitution limits.
 status: reviewed
 revision: 3
 translation_of: recipe:negroni
 source_lang: zh
-source_revision: sha256:f22a6270c48c55e48c97e9895b952fbfb8690404f2e246be424445563454f50f
-source_sha256: f22a6270c48c55e48c97e9895b952fbfb8690404f2e246be424445563454f50f
+source_revision: sha256:59e7c69ae05f4f9026272129282bd649c140e6c2a24eeedb3b97fdb1f393518c
+source_sha256: 59e7c69ae05f4f9026272129282bd649c140e6c2a24eeedb3b97fdb1f393518c
 translation_status: reviewed
 product_id: cocktail:negroni
 source_version: IBA Official Cocktails (checked October 2026)
@@ -92,7 +92,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -106,22 +106,22 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 # Negroni recipe (IBA version)
 
-This is a sourced version of the [Negroni](ref:cocktail) recipe. Recipe versions are kept separate from the cocktail identity, so that other sourced versions can sit alongside without overwriting this one. This page describes only this version's ratio and method, and does not mix in other versions.
+This is a sourced version of the [Negroni](ref:cocktail) recipe. Recipe versions are kept separate from the cocktail identity, so that other sourced versions can sit alongside without overwriting this one. This recipe describes only this version's ratio and method, and does not mix in other versions.
 
-![Negroni recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Negroni recipe (IBA version) thematic illustration](/media/figures/specific/recipe-negroni.svg)
 
 Figure: thematic illustration for Negroni recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
 ## This is a sourced version
 
-The public IBA (International Bartenders Association) recipe lists the Negroni as three equal parts: gin, Campari and sweet vermouth, stirred and strained into a rocks glass, garnished with orange peel. This page follows that version and explains the purpose of each step, so a home bartender can tell where a problem comes from.
+The public IBA (International Bartenders Association) recipe lists the Negroni as three equal parts: gin, Campari and sweet vermouth, stirred and strained into a rocks glass, garnished with orange peel. This recipe follows that version and explains the purpose of each step, so a home bartender can tell where a problem comes from.
 
-A version matters because it is traceable. The same cocktail may exist with different ratios, base spirits or garnishes; without a stated source, a reader cannot tell whether a difference comes from the version or the execution. This page therefore lists the source version separately and does not merge it with other recipes.
+A version matters because it is traceable. The same cocktail may exist with different ratios, base spirits or garnishes; without a stated source, a reader cannot tell whether a difference comes from the version or the execution. This recipe therefore lists the source version separately and does not merge it with other recipes.
 
 ## Ingredients and ratio
 
@@ -139,7 +139,7 @@ The ratio is 1:1:1. This is not the only correct version, but it is the one used
 
 Campari provides bitterness and colour. Its bitterness is not a fault but part of the structure: bitterness gives sweetness a boundary so the drink does not become cloying. Campari's colour also affects the look, but colour says nothing about quality.
 
-Sweet vermouth provides sweetness, a wine base and spice. It adds both water and sugar, rounding out the high-strength gin. The quality of the vermouth clearly affects the result, but this page evaluates no specific brand.
+Sweet vermouth provides sweetness, a wine base and spice. It adds both water and sugar, rounding out the high-strength gin. The quality of the vermouth clearly affects the result, but this recipe evaluates no specific brand.
 
 ## Stirring and dilution
 
@@ -161,7 +161,7 @@ Do not squeeze so hard that the pith turns bitter. The white pith is more bitter
 
 ## Units and substitutions
 
-This page uses millilitres and does not automatically convert to ounces or "parts". Home measures vary in accuracy, and millilitres are easier to reproduce than "a few spoons". Without a jigger, you can use a small cup of known volume as a temporary measure, but check its capacity first.
+This recipe uses millilitres and does not automatically convert to ounces or "parts". Home measures vary in accuracy, and millilitres are easier to reproduce than "a few spoons". Without a jigger, you can use a small cup of known volume as a temporary measure, but check its capacity first.
 
 Substituting the base spirit, the bitter or the vermouth creates another drink, and the same recipe title should not be used without stating the difference. For example, swapping gin for another spirit or Campari for another bitter changes the sweet-sour-bitter balance and the aroma structure. Substitution is allowed, but record it as a "variation", not as the original recipe.
 
@@ -185,8 +185,8 @@ When comparing versions, fix the other conditions first: the same ice, the same 
 
 ## Boundary
 
-This page records one sourced version, evaluates no specific brand and does not present the equal-parts ratio as the only correct approach. A recipe is a starting point, not a law; any change should state the difference. Drink in moderation and follow local law and safety requirements; do not work with open flame without permission or safe conditions.
+This recipe records one sourced version, evaluates no specific brand and does not present the equal-parts ratio as the only correct approach. A recipe is a starting point, not a law; any change should state the difference. Drink in moderation and follow local law and safety requirements; do not work with open flame without permission or safe conditions.
 
 [Negroni](ref:cocktail) and [Gin](ref:gin) are the nearest useful comparisons: one clarifies formula, the other tests steps.
 
-**Short definition:** 30 ml each of gin, Campari and sweet vermouth, stirred and strained into a rocks glass over ice, garnished with orange peel; this page explains ratio, technique, equipment and substitution limits.
+**Short definition:** 30 ml each of gin, Campari and sweet vermouth, stirred and strained into a rocks glass over ice, garnished with orange peel; this recipe explains ratio, technique, equipment and substitution limits.

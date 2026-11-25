@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: austerity-consumption-restriction-2013
 title: The 2013 restrictions on official consumption and the baijiu adjustment
-summary: After the Central Committee's eight-point rules of late 2012, official spending and receptions were tightened in 2013, and official banquets and premium baijiu consumption contracted sharply. This page explains the policy background, the industry response and the structural changes of the adjustment period.
+summary: After the Central Committee's eight-point rules of late 2012, official spending and receptions were tightened in 2013, and official banquets and premium baijiu consumption contracted sharply. This essay explains the policy background, the industry response and the structural changes of the adjustment period.
 status: reviewed
 revision: 3
 translation_of: historical-event:austerity-consumption-restriction-2013
@@ -158,7 +158,7 @@ The usual confusion is to treat The 2013 restrictions on official consumption an
 
 | Item | Detail |
 | --- | --- |
-| In one line | After the Central Committee's eight-point rules of late 2012, official spending and receptions were tightened in 2013, and official banquets and premium baijiu consumption contracted sharply. This page explains the polic… |
+| In one line | After the Central Committee's eight-point rules of late 2012, official spending and receptions were tightened in 2013, and official banquets and premium baijiu consumption contracted sharply. This essay explains the polic… |
 | Date | From 2013 |
 | Place | China |
 | Calendar | Gregorian |

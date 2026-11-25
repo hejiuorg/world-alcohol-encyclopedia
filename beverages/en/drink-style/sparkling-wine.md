@@ -123,7 +123,7 @@ Third, sparkling wine is not only an aperitif. It can also accompany a meal, esp
 
 ## Boundary
 
-This page describes the category, process and labelling framework, not specific estates, vintages or prices. Check the label, producer information and professional reviews for base-wine proportions, residual sugar, strength, ageing time and drinking window. Sparkling wine is a category of [wine](ref:wine), but its process and labelling rules differ clearly from still wine.
+This style describes the category, process and labelling framework, not specific estates, vintages or prices. Check the label, producer information and professional reviews for base-wine proportions, residual sugar, strength, ageing time and drinking window. Sparkling wine is a category of [wine](ref:wine), but its process and labelling rules differ clearly from still wine.
 
 **In brief:** Wine containing carbon dioxide of fermentative origin that keeps bubbling after opening; traditional method, tank method and ancestral method are distinct, and Champagne is only one example.
 

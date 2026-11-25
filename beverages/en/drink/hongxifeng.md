@@ -61,7 +61,7 @@ sources:
     title: Five-star Hong Xifeng launched, priced at 3,980 yuan per bottle
     url: https://www.sxxfj.com/content/details15_5808.html
     publisher: Shaanxi Xifeng Distillery Co., Ltd.
-    note: Used to verify the 2021 launch and product positioning; price information is not included on this page.
+    note: Used to verify the 2021 launch and product positioning; price information is not included on this entry.
     accessed: 2026-11-04
   - key: gbt-14867
     title: National Standards Information Service — GB/T 14867-2007, Feng-aroma baijiu
@@ -138,7 +138,7 @@ For tasting, smell the resting aroma first, then gently swirl the cup. Let the l
 
 ## History and naming
 
-Xifeng has a long brewing tradition. The company sums up its cultural lineage as "three thousand years" and treats wine-sea storage as a key identifier. This is corporate narrative and should be read separately from verifiable modern product history; this page does not treat a cultural timeline as the age of the liquid.
+Xifeng has a long brewing tradition. The company sums up its cultural lineage as "three thousand years" and treats wine-sea storage as a key identifier. This is corporate narrative and should be read separately from verifiable modern product history; this entry does not treat a cultural timeline as the age of the liquid.
 
 In 2021 the company held an event marking two years since Hong Xifeng's launch and introduced Five-star Hong Xifeng. In 2022 Five-star Hong Xifeng received the China Alcoholic Drinks Association's "Qingzhuo Award" for a new liquor product. The "red" in the name comes from product identity and gifting settings, while "Xifeng" carries brand and origin memory.
 

@@ -57,7 +57,7 @@ sources:
   - key: kuaiji-xianzhi
     title: Kuaiji County Gazetteer (1681)
     publisher: Shaoxing local gazetteer, compiled in 1681
-    note: Used to check the early record 'Yue wine travels the world; its kinds are many, and the old wine is especially current'; this page relies on a research-institute quotation and has not checked the original woodblock edition.
+    note: Used to check the early record 'Yue wine travels the world; its kinds are many, and the old wine is especially current'; this essay relies on a research-institute quotation and has not checked the original woodblock edition.
   - key: ref
     title: Kuaiji County Gazetteer (1681), entry on 'Yue wine travels the world'.
     publisher: Unattributed
@@ -130,7 +130,7 @@ Second, rankings of famous wine came from individual judgements. Yuan Mei, Liang
 
 Third, Qing huangjiu is not the same as Shaoxing wine. Jinhua wine, Fujian red-qu wine and Jimo aged wine still held local markets; writing the history of huangjiu as the history of Shaoxing wine would ignore other regions' techniques and consumption.
 
-Fourth, the text of the 1681 Kuaiji gazetteer still needs checking. This page relies on a research-institute quotation and has not checked the original Kangxi woodblock; the exact chapter and context of 'Yue wine travels the world' require edition comparison.
+Fourth, the text of the 1681 Kuaiji gazetteer still needs checking. This essay relies on a research-institute quotation and has not checked the original Kangxi woodblock; the exact chapter and context of 'Yue wine travels the world' require edition comparison.
 
 ## Timeline
 

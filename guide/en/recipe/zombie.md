@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: zombie
 title: Zombie recipe (IBA version)
-summary: 45 ml Jamaican dark rum, 45 ml gold Puerto Rican rum and 30 ml demerara rum with lime juice, falernum, Donn's Mix, grenadine, bitters and pastis, shaken with crushed ice and poured into a highball; this page explains the three-rum split, the two-per-customer legend and the crushed-ice trade-off.
+summary: 45 ml Jamaican dark rum, 45 ml gold Puerto Rican rum and 30 ml demerara rum with lime juice, falernum, Donn's Mix, grenadine, bitters and pastis, shaken with crushed ice and poured into a highball; this recipe explains the three-rum split, the two-per-customer legend and the crushed-ice trade-off.
 status: reviewed
 revision: 1
 translation_of: recipe:zombie
 source_lang: zh
-source_revision: sha256:272912e4a6da9f56cafc029019be6c14914abfc3d5d06678058f21d5ff08f1de
-source_sha256: 272912e4a6da9f56cafc029019be6c14914abfc3d5d06678058f21d5ff08f1de
+source_revision: sha256:8b90c80b59aeb22b8d012b0481a752dcb1074a41f7d0c3965da88743942acfc1
+source_sha256: 8b90c80b59aeb22b8d012b0481a752dcb1074a41f7d0c3965da88743942acfc1
 translation_status: reviewed
 product_id: cocktail:zombie
 source_version: IBA Official Cocktails (checked 2026-11-07)
@@ -149,7 +149,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
@@ -157,9 +157,18 @@ verification_scope: source-verified
 
 This is one traceable version of the [Zombie](ref:cocktail), filed under the IBA's contemporary classics. It records exactly this build: three rums totalling 120 ml, 20 ml lime juice, 15 ml falernum, 15 ml Donn's Mix, 5 ml grenadine, 1 dash Angostura bitters and 6 drops of pastis, shaken with about 170 g of crushed ice and poured unstrained into a highball. Keeping the recipe separate from the cocktail's identity means the 1934 original and the many bar adaptations can later sit side by side instead of overwriting each other.
 
-![Zombie recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Zombie recipe (IBA version) thematic illustration](/media/figures/specific/recipe-zombie.svg)
 
 Figure: thematic illustration for Zombie recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Zombie recipe (IBA version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Zombie recipe (IBA version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - The Zombie is usually traced to 1934 and to Donn Beach, born Ernest Gantt, who ran Don the Beachcomber in Hollywood.
+>   - The most famous story about the Zombie is that Don the Beachcomber capped every guest at two.
 
 ## What this version is, and how it differs from 1934
 
@@ -169,7 +178,7 @@ The IBA entry is a contemporary classic rather than a transcript of the original
 
 ## Where the two-drink limit comes from
 
-The most famous story about the Zombie is that Don the Beachcomber capped every guest at two. One telling has a hung-over customer declaring that the drink had turned him into a zombie for the rest of the day, which is supposed to explain the name. Another has the owner simply writing a house rule because he knew exactly how strong the drink was. Both are anecdotes without a verifiable primary document, so this page treats them as legend rather than archive.
+The most famous story about the Zombie is that Don the Beachcomber capped every guest at two. One telling has a hung-over customer declaring that the drink had turned him into a zombie for the rest of the day, which is supposed to explain the name. Another has the owner simply writing a house rule because he knew exactly how strong the drink was. Both are anecdotes without a verifiable primary document, so this recipe treats them as legend rather than archive.
 
 The arithmetic behind the limit, however, is real. The three rums total 120 ml; at a typical 40% to 43% alcohol by volume that is roughly 48 to 52 ml of pure alcohol before any dilution. Shaking and the ice in the glass add another 20% to 30%, which still leaves the serve at about three to four standard drinks. Yet it tastes of fruit and syrup, with the bitterness and the alcoholic bite pushed far into the background, and that is precisely what makes it dangerous to drink quickly. The two-drink rule is less a prohibition than a warning that this drink will not announce its strength.
 
@@ -209,7 +218,7 @@ One dash of Angostura brings clove, cinnamon and a little bitterness, confirming
 
 The IBA method puts everything into an electric blender with 170 g of cracked ice and pulses it for a few seconds before pouring into a tall glass. The point is not to turn the ice into slush but to bring ice, syrup and juice together in a very short time while folding in air, leaving a cloudy suspension of fine ice.
 
-This page records the method as [shaking](ref:shaking) for reproducibility. Without a blender, 170 g of crushed ice in a shaker and 10 to 12 seconds of hard shaking gets very close to the same temperature, dilution and aeration; tiki bartenders call the technique a whip shake. The difference is that a blender is easier to overrun. Blend too long and every piece of ice collapses, the foam falls, and the drink becomes thin fruit juice.
+This recipe records the method as [shaking](ref:shaking) for reproducibility. Without a blender, 170 g of crushed ice in a shaker and 10 to 12 seconds of hard shaking gets very close to the same temperature, dilution and aeration; tiki bartenders call the technique a whip shake. The difference is that a blender is easier to overrun. Blend too long and every piece of ice collapses, the foam falls, and the drink becomes thin fruit juice.
 
 The choice between crushed and cubed ice follows from that. Crushed ice chills fast and dilutes fast, which suits a long drink that is meant to be finished quickly. Cubes chill slowly and keep the body tighter, but the aroma never opens the same way. Shaking time can be trimmed or extended with the ice load; the target is a frosted tin and a distinctly cold hand, not a count of shakes. For more on ice shape and temperature, see [Ice and temperature](ref:ice).
 
@@ -223,7 +232,7 @@ Chill both the glass and the ice beforehand. If the ice is not cold enough, the 
 
 ## Garnish: slap the mint, add fruit last
 
-The IBA lists mint only. This page records mint and fruit together because that is the common presentation: one mint sprig supplies a cool aromatic top note, while the fruit, a pineapple wedge or a lime wheel, supplies visual recognition and a little peel aroma. Fruit is not measured, not part of the build and does not change the sweet-sour balance.
+The IBA lists mint only. This recipe records mint and fruit together because that is the common presentation: one mint sprig supplies a cool aromatic top note, while the fruit, a pineapple wedge or a lime wheel, supplies visual recognition and a little peel aroma. Fruit is not measured, not part of the build and does not change the sweet-sour balance.
 
 Do not muddle the mint. A slap is enough to break the cells and release the oil; muddling draws out chlorophyll bitterness that turns grassy within minutes. Sit the sprig on top of the ice rather than burying it. The same applies to fruit: a thick wedge takes up the rim, and a slice left sitting turns sour on the surface. Cut it fresh, place it last and leave it alone.
 

@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against Nikka's official founder history and chronology, Suntory's official chronology and Nikka Europe's story pages, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party company histories, trademarks and images are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party company histories, trademarks and images are not covered by this licence; sources are used for verification only. This profile uses no third-party images.
 verification_scope: source-verified
 ---
 # Masataka Taketsuru

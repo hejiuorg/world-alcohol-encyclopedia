@@ -142,4 +142,4 @@ First, Magill is not Penfolds' only vineyard. It is the founding site and urban 
 
 ## References
 
-This page was checked against Penfolds' official Magill Estate cellar door, contact, history and booking pages, plus Wine Australia's Barossa Valley material. Page verified 2026-11-09. To place this stop in a day, see the [Barossa wine trail](ref:route); for variety and technique background, see [Shiraz](ref:shiraz), [red wine](ref:red-wine) and [oak ageing](ref:oak-ageing). Opening hours, prices and booking rules are subject to official channels.
+This entry was checked against Penfolds' official Magill Estate cellar door, contact, history and booking pages, plus Wine Australia's Barossa Valley material. Page verified 2026-11-09. To place this stop in a day, see the [Barossa wine trail](ref:route); for variety and technique background, see [Shiraz](ref:shiraz), [red wine](ref:red-wine) and [oak ageing](ref:oak-ageing). Opening hours, prices and booking rules are subject to official channels.

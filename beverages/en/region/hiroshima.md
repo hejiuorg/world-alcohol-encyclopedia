@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:hiroshima
 source_lang: zh
-source_revision: sha256:1031854753ad2b7b283b324bdf4d70b0d15a7572ea62b157b239b7c2b8d4c90d
-source_sha256: 1031854753ad2b7b283b324bdf4d70b0d15a7572ea62b157b239b7c2b8d4c90d
+source_revision: sha256:ee26d3b58c8968beb9cbdc8531c2f86ef2b27f91a112043f466fb5c2aef3008f
+source_sha256: ee26d3b58c8968beb9cbdc8531c2f86ef2b27f91a112043f466fb5c2aef3008f
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -114,6 +114,15 @@ Hiroshima is a [sake](ref:sake) region on [Japan's](ref:japan) Seto Inland Sea c
 ![Hiroshima image](/media/photos/region-hiroshima-65300b14.jpg)
 
 Figure: Hiroshima. Image: DXR, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome_and_Motoyaso_River,_Hiroshima,_Northwest_view_20190417_1.jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Hiroshima for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Hiroshima with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - A Hiroshima visit can follow a Saijo-Aki-tsu-Kure sequence.
+>   - Hiroshima Prefecture lies in southwestern Honshu, facing the Seto Inland Sea to the south and the Chugoku Mountains to the north.
 
 ## Definition and scope
 

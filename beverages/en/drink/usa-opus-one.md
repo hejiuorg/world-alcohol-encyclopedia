@@ -5,7 +5,7 @@ type: drink
 lang: en
 slug: usa-opus-one
 title: Opus One
-summary: Opus One is a Bordeaux-style dry red made in Oakville, Napa Valley, founded in 1979 by Robert Mondavi and Baron Philippe de Rothschild; the first vintage was 1979, released in 1984, and this page explains the 1982 renaming, the four parcels, the 2023 blend, Overture and the auction record.
+summary: Opus One is a Bordeaux-style dry red made in Oakville, Napa Valley, founded in 1979 by Robert Mondavi and Baron Philippe de Rothschild; the first vintage was 1979, released in 1984, and this entry explains the 1982 renaming, the four parcels, the 2023 blend, Overture and the auction record.
 status: reviewed
 revision: 3
 translation_of: drink:usa-opus-one
@@ -173,13 +173,13 @@ The front label should show the brand, vintage, Oakville or Napa Valley appellat
 
 For Opus One, begin with the base and the stated strength. Then look at the sweetness or bitterness, and finally ask how it is served. The answers point to different choices, not to a single score.
 
-**At a glance:** Opus One is a Bordeaux-style dry red made in Oakville, Napa Valley, founded in 1979 by Robert Mondavi and Baron Philippe de Rothschild; the first vintage was 1979, released in 1984, and this page explains the 1982 renaming, the four parcels, the 2023 blend, Overture and the auction record.
+**At a glance:** Opus One is a Bordeaux-style dry red made in Oakville, Napa Valley, founded in 1979 by Robert Mondavi and Baron Philippe de Rothschild; the first vintage was 1979, released in 1984, and this entry explains the 1982 renaming, the four parcels, the 2023 blend, Overture and the auction record.
 
 **Key facts.**
 
 | Item | Detail |
 | --- | --- |
-| In one line | Opus One is a Bordeaux-style dry red made in Oakville, Napa Valley, founded in 1979 by Robert Mondavi and Baron Philippe de Rothschild; the first vintage was 1979, released in 1984, and this page explains the 1982 renami… |
+| In one line | Opus One is a Bordeaux-style dry red made in Oakville, Napa Valley, founded in 1979 by Robert Mondavi and Baron Philippe de Rothschild; the first vintage was 1979, released in 1984, and this entry explains the 1982 renami… |
 | Style | Red wine |
 | Region | United States、Napa Valley |
 

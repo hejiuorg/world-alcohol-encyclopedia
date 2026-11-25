@@ -70,9 +70,9 @@ verification_scope: source-verified
 
 醒酒（decanting，中文也称换瓶、滗酒）是把酒液从原瓶缓慢倒入另一容器，通常是一个宽底的玻璃醒酒器。这个动作有两个目的：把酒与瓶底沉淀分开，以及让酒液与空气接触。两者的适用条件不同，混在一起谈，容易得出“所有酒都要醒”的错误结论。
 
-![醒酒与换瓶（decanting） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![醒酒与换瓶（decanting） 类型示意图](/media/figures/specific/term-decanting.svg)
 
-图：醒酒与换瓶（decanting） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是醒酒与换瓶（decanting）的实拍。
+图：醒酒与换瓶（decanting） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

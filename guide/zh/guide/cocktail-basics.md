@@ -60,7 +60,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA 官方鸡尾酒名单
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 官方鸡尾酒名单；未复制原文。
     accessed: 2026-11-07
@@ -76,9 +76,18 @@ verification_scope: source-verified
 
 鸡尾酒不是把几种酒倒进一个杯子。它有结构：基酒提供骨架，甜味与酸度提供平衡，苦味与香气提供层次，冰与水提供稀释和温度。先看懂结构，配方才有意义；否则只是照着数字搬运，无法解释成品为什么好喝或难喝。
 
-![调酒，是另一种认识酒的方式 类型示意图](/media/photos/theme-route.jpg)
+![调酒，是另一种认识酒的方式 类型示意图](/media/figures/specific/guide-cocktail-basics.svg)
 
-图：调酒，是另一种认识酒的方式 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是调酒，是另一种认识酒的方式的实拍。
+图：调酒，是另一种认识酒的方式 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **专题导航：从一杯古典开始**
+> - [调酒基础](https://hejiu.org/guides/cocktail-basics/)
+> - [古典配方](https://hejiu.org/recipes/old-fashioned/)
+> - [古典](https://beverages.hejiu.org/cocktails/old-fashioned/)
+> - [干马天尼配方](https://hejiu.org/recipes/dry-martini/)
+> - [内格罗尼配方](https://hejiu.org/recipes/negroni/)
+> - [古典杯](https://hejiu.org/vessels/rocks-glass/)
+> - [摇酒壶](https://hejiu.org/tools/cocktail-shaker/)
 
 ## 先看结构，不是配方
 
@@ -155,3 +164,26 @@ verification_scope: source-verified
 ## 边界
 
 调酒不替代理性饮酒。注意酒精度、份量和饮用速度，不要在没有许可或安全条件的地方操作明火。配方是起点，不是必须遵守的法律；但任何改动都应被记录，否则无法比较。本页不评价具体品牌，也不把某一种比例说成唯一正确答案。
+
+## 快速对比：五种基础鸡尾酒结构
+
+| 结构 | 组成 | 例子 | 难度 |
+| --- | --- | --- | --- |
+| 直调 | 基酒加冰搅拌或摇匀 | 干马天尼 | 低 |
+| 构建 | 在杯中依次加料 | 古典 | 低 |
+| 摇匀 | 加冰摇出稀释与泡沫 | 代基里 | 中 |
+| 搅拌 | 加冰搅拌，保持清澈 | 曼哈顿 | 中 |
+| 长饮 | 基酒加大量气泡或果汁 | 金菲士 | 低 |
+
+
+
+快速对比：金酒、伏特加与朗姆
+
+| 酒类 | 原料 | 风味 | 常见调酒 |
+| --- | --- | --- | --- |
+| 金酒 | 谷物或糖蜜，加杜松子等植物 | 杜松、柑橘、草本 | 金汤力、干马天尼 |
+| 伏特加 | 谷物、薯类或糖蜜，中性蒸馏 | 干净、中性、微甜 | 莫斯科骡子、血腥玛丽 |
+| 白朗姆 | 甘蔗汁或糖蜜，短陈 | 甘蔗、清爽 | 莫吉托、代基里 |
+| 黑朗姆 | 甘蔗汁或糖蜜，较长陈年 | 焦糖、香料、厚重 | 黑色风暴、热带长饮 |
+
+怎么用：先按场景排除，再用预算和口味微调；这是入口表，不是评分表。

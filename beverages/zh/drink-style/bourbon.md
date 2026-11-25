@@ -86,9 +86,9 @@ verification_scope: source-verified
 
 波本威士忌（bourbon）是美国威士忌中以玉米为主料、以新烧焦橡木桶完成熟成的类别。[威士忌](ref:whisky)是大类，波本是其中一个有明确联邦定义的子集；反过来，并非所有美国威士忌都符合波本规则。本页讨论波本这一风格的法规、原料与工艺，不讨论“波本威士忌”这一称谓在贸易与市场中的用法。
 
-![波本威士忌 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![波本威士忌 类型示意图](/media/figures/specific/drink-style-bourbon.svg)
 
-图：波本威士忌 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是波本威士忌的实拍。
+图：波本威士忌 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 类别边界：什么算、什么不算
 

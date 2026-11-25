@@ -76,9 +76,9 @@ verification_scope: source-verified
 
 品鉴不是考试，也不是猜价格。它的第一作用，是帮你辨认自己喜欢什么、为什么喜欢，以及下一次想比较什么。带着这个目的去喝，记录会更具体，也更容易积累经验。
 
-![第一口，先别急着下结论 类型示意图](/media/photos/theme-route.jpg)
+![第一口，先别急着下结论 类型示意图](/media/figures/specific/guide-first-tasting.svg)
 
-图：第一口，先别急着下结论 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是第一口，先别急着下结论的实拍。
+图：第一口，先别急着下结论 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 品鉴不是考试
 

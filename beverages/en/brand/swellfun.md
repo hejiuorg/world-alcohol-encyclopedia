@@ -78,7 +78,7 @@ Figure: Swellfun. Photograph: File:Vertreter der vier Baijiu Kategorien.jpg. Cre
 
 ## Brand definition
 
-For Swellfun, a brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This page records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history and ownership.
+For Swellfun, a brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This brand records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history and ownership.
 
 "Swellfun" is at once the company name, the brand name and a product name. A question such as "what does Swellfun taste like" needs a specific series first, because one brand covers products of different years, strengths, volumes and price bands.
 
@@ -86,7 +86,7 @@ For Swellfun, a brand and a producer are two different entities. The brand answe
 
 The brand's producer is [Sichuan Swellfun Co., Ltd.](ref:producer). The company listed on the Shanghai Stock Exchange in December 1996; its parent is Sichuan Chengdu Swellfun Group Co., Ltd., and Diageo plc is the actual controller. Ownership of the brand and trademark, the organisation of production and disclosure rest with that company and its subsidiaries.
 
-The producer entry records the listing, foreign control and product-line information. This page keeps only what relates directly to the brand, so corporate history and brand history are not conflated.
+The producer entry records the listing, foreign control and product-line information. This brand keeps only what relates directly to the brand, so corporate history and brand history are not conflated.
 
 ## Product line
 

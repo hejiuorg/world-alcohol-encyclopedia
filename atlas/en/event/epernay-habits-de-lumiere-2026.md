@@ -116,17 +116,26 @@ place_refs:
 organizer_refs: []
 official_url: https://habitsdelumiere.epernay.fr/
 event_status: upcoming
-source_sha256: 16034a136e153be4bb4ae31a345668880a24f602839c0a6df047a5ea42831405
-source_revision: sha256:16034a136e153be4bb4ae31a345668880a24f602839c0a6df047a5ea42831405
+source_sha256: 765bb0649e7acc5e9a59d7f5a0e75b785e7a74941e4cdce0760f658cf1bf695e
+source_revision: sha256:765bb0649e7acc5e9a59d7f5a0e75b785e7a74941e4cdce0760f658cf1bf695e
 ---
 
 # Habits de Lumière 2026 in Épernay: Champagne's Festival of Light
 
-From 11 to 13 December 2026, Épernay will hold the 26th Habits de Lumière. On Friday and Saturday evenings the Avenue de Champagne becomes a stage for light and video projection; Saturday daytime brings gastronomy demonstrations and a pastry competition; Sunday is a vintage-car parade. It is not a wine fair organised around how many champagnes you can taste, but a staging of Champagne's end-of-year way of life in the street. The event is still to come; this page records the dates, venue, programme outline and limits.
+From 11 to 13 December 2026, Épernay will hold the 26th Habits de Lumière. On Friday and Saturday evenings the Avenue de Champagne becomes a stage for light and video projection; Saturday daytime brings gastronomy demonstrations and a pastry competition; Sunday is a vintage-car parade. It is not a wine fair organised around how many champagnes you can taste, but a staging of Champagne's end-of-year way of life in the street. The event is still to come; this event records the dates, venue, programme outline and limits.
 
 !["Habits de Lumière 2026 in Épernay: Champagne's Festival of Light" category image](/media/photos/region-champagne-acf0412f.jpg)
 
 Figure: "Habits de Lumière 2026 in Épernay: Champagne's Festival of Light". Photograph: File:Glass of champagne.jpg. Credit: bgvjpe, CC BY 2.0 ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This event explains the current status of Habits de Lumière 2026 in Épernay: Champagne's Festival of Light, and how to take part.
+>
+> - **Best for:** Anyone who wants the scene, mechanics and current status of Habits de Lumière 2026 in Épernay: Champagne's Festival of Light.
+> - **Not for:** If you want only want live ticketing or real-time logistics.
+> - **Check first:**
+>   - The first Habits de Lumière was held in December 2000, initiated by the Comité de l'Avenue de Champagne.
+>   - Habits de Lumière is jointly organised by the City of Épernay and the Comité de l'Avenue de Champagne.
 
 ## What the event is
 
@@ -170,7 +179,7 @@ In French, habits means habits or clothes. The event name can be read as “dres
 
 First, the boundary between free and paid. Street lights, gastronomy demonstrations, the pastry competition and the vintage-car parade are free; cellar visits, food-and-wine workshops, champagne bars and restaurants are paid. Do not assume that because the festival is free, entering a house is free too.
 
-Second, the programme is not yet complete. As of 8 November 2026, the official pages give only the dates and outline; the detailed programme is due in mid-November. This page does not name bands, performance times or wine lists; check the official programme for those.
+Second, the programme is not yet complete. As of 8 November 2026, the official pages give only the dates and outline; the detailed programme is due in mid-November. This event does not name bands, performance times or wine lists; check the official programme for those.
 
 Third, do not get the edition wrong. 2025 was the 25th edition and 2026 is the 26th; the first was in December 2000. Calling 2026 the 25th or the first would conflict with the official record.
 

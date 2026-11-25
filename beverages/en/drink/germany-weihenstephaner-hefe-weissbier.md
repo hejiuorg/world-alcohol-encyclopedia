@@ -108,7 +108,7 @@ The ingredients are [barley](ref:barley), [wheat](ref:wheat) and [water](ref:wat
 
 Malted grain is mashed into wort and fermented with top-fermenting yeast ([fermentation](ref:fermentation)), at a higher temperature than the usual lager process. Some yeast is retained at bottling so the bottle keeps producing carbon dioxide and aroma, and the sediment enters the glass when poured, creating the cloudy look.
 
-The aroma comes from esters and phenols produced by the yeast, showing as banana, clove and vanilla. Fermentation temperature, yeast strain and bottle maturation decide the intensity; these parameters belong to brewery information that is only partly public, so this page gives no single set of figures.
+The aroma comes from esters and phenols produced by the yeast, showing as banana, clove and vanilla. Fermentation temperature, yeast strain and bottle maturation decide the intensity; these parameters belong to brewery information that is only partly public, so this entry gives no single set of figures.
 
 ## Specification and label
 
@@ -130,7 +130,7 @@ After opening, refrigerate and finish soon, since carbonation and aroma fade; lo
 
 ## Buying and storage
 
-Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market and channel, so this page gives no figures; other lines from the brewery, such as dark wheat beer or lager, should be checked separately rather than generalised from one specification.
+Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market and channel, so this entry gives no figures; other lines from the brewery, such as dark wheat beer or lager, should be checked separately rather than generalised from one specification.
 
 Keep unopened bottles in a dark, cool place, standing upright to limit sediment disturbance; deep freezing is unnecessary, but heat and sharp temperature swings should be avoided. Yeast remains active in the bottle, so the drinking window should follow brewery advice and the label.
 

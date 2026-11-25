@@ -85,12 +85,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public provincial information and national standards; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
 # Jiangsu Province
 
-Jiangsu lies on the east coast of China along the lower Yangtze. In the map of alcoholic drinks it has both a strong aroma baijiu industry, represented by Yanghe and Shuanggou, and yellow wine traditions represented by Danyang sealed-jar wine and Wuxi Huiquan wine. This page focuses on the yellow wine regions and mentions baijiu only where necessary.
+Jiangsu lies on the east coast of China along the lower Yangtze. In the map of alcoholic drinks it has both a strong aroma baijiu industry, represented by Yanghe and Shuanggou, and yellow wine traditions represented by Danyang sealed-jar wine and Wuxi Huiquan wine. This region focuses on the yellow wine regions and mentions baijiu only where necessary.
 
 ![Jiangsu Province image](/media/photos/region-jiangsu-f89e739b.jpg)
 

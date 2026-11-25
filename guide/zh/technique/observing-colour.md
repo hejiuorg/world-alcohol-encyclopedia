@@ -96,9 +96,9 @@ verification_scope: source-verified
 
 观察颜色是品鉴的第一步：在倒酒之后、闻香之前，用眼睛判断酒液的澄清度、色调与浓度。它不能告诉你酒好不好喝，但能提供酒龄、品种、浸皮时间、是否经过桶陈等线索。把颜色当成线索而不是结论，是这项技法的前提。
 
-![观察颜色 类型示意图](/media/photos/theme-beer.jpg)
+![观察颜色 类型示意图](/media/figures/specific/technique-observing-colour.svg)
 
-图：观察颜色 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是观察颜色的实拍。
+图：观察颜色 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

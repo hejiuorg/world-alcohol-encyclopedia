@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: cocktail:clover-club
 source_lang: zh
-source_revision: sha256:6d80dee44404b0ca63f4fd6788c9e34a028f29baa6f3527dc3fcbb0b6dedacfc
-source_sha256: 6d80dee44404b0ca63f4fd6788c9e34a028f29baa6f3527dc3fcbb0b6dedacfc
+source_revision: sha256:d66c052a7e8c20540b615ff4d128d0eccf9a4a0a383c02403f23a6ca3a148954
+source_sha256: d66c052a7e8c20540b615ff4d128d0eccf9a4a0a383c02403f23a6ca3a148954
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -65,7 +65,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -92,7 +92,7 @@ Figure: Related photograph of Clover Club. Image: Will Shenton, CC BY-SA 3.0, vi
 
 ## Definition and identity
 
-The Clover Club's name is linked to a club on the American East Coast in the early 20th century, and origin exists in different accounts. The club began as a men's social and debating society before its name reached the cocktail. This page treats it as historical background and does not present one version as settled fact.
+The Clover Club's name is linked to a club on the American East Coast in the early 20th century, and origin exists in different accounts. The club began as a men's social and debating society before its name reached the cocktail. This cocktail treats it as historical background and does not present one version as settled fact.
 
 ## Recipe (IBA version)
 
@@ -146,7 +146,7 @@ For Clover Club, a common mistake is treating a variation as the original recipe
 
 The Clover Club suits a before-meal or afternoon drink, with nuts, fruit or simple savoury snacks. It has moderate strength and contains egg white, so sip slowly and drink water; do not drink it quickly on an empty stomach. Do not drink when driving, taking medication or pregnant; anyone uneasy about raw egg white should avoid it.
 
-This page records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. The finished strength depends on the gin's [alcohol by volume](ref:abv), the syrup and the ice dilution, not on the recipe numbers alone.
+This cocktail records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. The finished strength depends on the gin's [alcohol by volume](ref:abv), the syrup and the ice dilution, not on the recipe numbers alone.
 
 **Short definition:** A classic cocktail of gin, lemon juice, raspberry syrup and egg white, shaken to a fine foam; balanced sour-sweet and usually garnished with a raspberry; the name comes from an American club of the same name in the early 20th century.
 
@@ -166,7 +166,7 @@ Gin, lemon, raspberry syrup and egg white, shaken dry then with ice; the pink fo
 
 **Sources and limits.** The key claims about Clover Club are checked against the following sources: International Bartenders Association (Used to check the official recipe, method and garnish; Used to confirm the drink is on the IBA official cocktail list), Oxford University Press (Used to check the historical background and basic composition), David Wondrich / Perigee (Used to check background on early 20th-century American cocktail development) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Clover Club next to Gin, Alcohol by volume (ABV), A cocktail is another way in: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Clover Club next to Gin, Alcohol by volume (ABV), A cocktail is another way in: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this cocktail first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

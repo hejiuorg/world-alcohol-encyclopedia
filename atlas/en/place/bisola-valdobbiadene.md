@@ -136,7 +136,7 @@ A visit normally begins in reception, then moves into the cellar and the tasting
 
 From Venice the drive is about an hour; from Conegliano, about half an hour. Regional trains reach Conegliano or Treviso, then a bus or taxi is needed. The winery is in the village, parking is limited and tighter at weekends. Do not touch fermentation tanks, pipes or wine racks; the cellar is cold, so bring a light jacket in summer.
 
-To see Veneto's two wine worlds side by side, continue to [Allegrini](ref:allegrini) in Fumane, about an hour and a half away. The first is the world of Glera and tank-fermented sparkling wine; the second is the world of Corvina and dried grapes. One region, two completely different technical logics. Opening hours, bookings and prices are subject to official channels; this page was verified on 2026-11-09, and coordinates should be confirmed through official channels.
+To see Veneto's two wine worlds side by side, continue to [Allegrini](ref:allegrini) in Fumane, about an hour and a half away. The first is the world of Glera and tank-fermented sparkling wine; the second is the world of Corvina and dried grapes. One region, two completely different technical logics. Opening hours, bookings and prices are subject to official channels; this entry was verified on 2026-11-09, and coordinates should be confirmed through official channels.
 
 For Bisol, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
 

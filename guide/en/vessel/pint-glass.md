@@ -11,8 +11,8 @@ revision: 1
 translation_of: vessel:pint-glass
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a1149e7877150c8f7ed3390069c9577079b18bfc4224ada48bc6645a5ee2d133
-source_sha256: a1149e7877150c8f7ed3390069c9577079b18bfc4224ada48bc6645a5ee2d133
+source_revision: sha256:b4d7e7a8737726fd192fdd7fec79ad7d6c272512ef7a91bafeb52235ce2b271c
+source_sha256: b4d7e7a8737726fd192fdd7fec79ad7d6c272512ef7a91bafeb52235ce2b271c
 materials:
   - Glass
 capacity_ml: null
@@ -95,6 +95,15 @@ The pint glass is easy to underestimate. It looks like a thick-based tumbler wit
 ![British pint glass with a PINT stamp](/media/photos/vessel-pint-glass-2d4614ad.jpg)
 
 Figure: A British pint glass marked “PINT” with the Crown stamp, holding a little beer. Image: Justinc, CC BY-SA 2.0, via [source page](https://commons.wikimedia.org/wiki/File:Pint_Glass_with_some_beer.jpg).
+
+> **Quick verdict**
+> **In one line:** This glass explains why Pint glass changes aroma, and which drinks it suits.
+>
+> - **Best for:** Anyone who wants to understand why Pint glass changes aroma and texture.
+> - **Not for:** If you want want a “buy the most expensive glass” verdict without matching the drink.
+> - **Check first:**
+>   - The rim of a pint glass is essentially open.
+>   - Nominal capacity changes with the market: 568 ml in the UK, 473 ml in the US and commonly 570 ml in Australia.
 
 ## One name, two volumes: 95 ml apart
 

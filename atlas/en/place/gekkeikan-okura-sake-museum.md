@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:gekkeikan-okura-sake-museum
 source_lang: zh
-source_revision: sha256:05ebd9cf9e93f12a2db850fb69eee86074358293d76a7d929bd2a91753a49927
-source_sha256: 05ebd9cf9e93f12a2db850fb69eee86074358293d76a7d929bd2a91753a49927
+source_revision: sha256:9a7b371b832afa4423220411e9688d495cadb827ceca43a4b67475cede6ef8f4
+source_sha256: 9a7b371b832afa4423220411e9688d495cadb827ceca43a4b67475cede6ef8f4
 translation_status: reviewed
 subtype: museum
 address: 247 Minamihama-cho, Fushimi-ku, Kyoto 612-8660, Japan
@@ -101,6 +101,15 @@ The Gekkeikan Okura Sake Museum stands on Minamihama-cho in Fushimi, Kyoto, amon
 ![related photograph of Gekkeikan Okura Sake Museum](/media/photos/place-gekkeikan-okura-sake-museum-a8b62f22.jpg)
 
 Figure: Related photograph of Gekkeikan Okura Sake Museum. Image: 663highland, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Gekkeikan_Okura_Sake_Museum02s4592.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Gekkeikan Okura Sake Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Gekkeikan Okura Sake Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Gekkeikan begins in 1637, when the first Okura Jiemon came from Kasagi, south of Kyoto, and opened a sake shop near the Fushimi horse market.
+>   - General admission is self-guided.
 
 ## Place and history
 

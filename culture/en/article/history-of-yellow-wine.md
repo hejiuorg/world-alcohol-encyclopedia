@@ -85,7 +85,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against an archaeological paper, a public-domain agricultural treatise, news reporting and national standard information, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party papers, editions, standard texts and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party papers, editions, standard texts and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 

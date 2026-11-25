@@ -15,8 +15,8 @@ dynasty: Tang
 text_variant: The title is also given as Kezhong Xing; “jade bowl” is also written with the characters 椀, 埦 or 盌.
 translation_of: poem:li-bai-kezhong-zuo
 source_lang: zh
-source_revision: sha256:fd6c2c1361f738ebce93e31f0908df88797d13224c4a242ab461d13f665854ce
-source_sha256: fd6c2c1361f738ebce93e31f0908df88797d13224c4a242ab461d13f665854ce
+source_revision: sha256:b17e5fd0c4906398c86481b65994c5936a78d33c7c59d6ebdb814cccf303522f
+source_sha256: b17e5fd0c4906398c86481b65994c5936a78d33c7c59d6ebdb814cccf303522f
 translation_status: reviewed
 aliases:
   - 客中作
@@ -77,17 +77,26 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against public classical texts and an encyclopaedia entry, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page. The English translation is the project's own and is not an authoritative version.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry. The English translation is the project's own and is not an authoritative version.
 verification_scope: source-verified
 ---
 
 # Written While Travelling: Li Bai's Lanling Wine and a Host Who Makes a Guest Forget Home
 
-Li Bai's “Written While Travelling” (Kezhong Zuo, also known as Kezhong Xing) is only four lines and twenty-eight characters, yet it turns an ordinary act of hospitality on a journey into an experience of being made at home in a foreign place. There is no homesickness here and no heavy lament over a wandering life; there is Lanling wine, the light in a jade bowl, and a host who makes his guest forget where he is. Because the poem is so light, it is easy to miss its turn: the first couplet is about things, the second about people. The English rendering on this page is the project's own translation, not an authoritative version.
+Li Bai's “Written While Travelling” (Kezhong Zuo, also known as Kezhong Xing) is only four lines and twenty-eight characters, yet it turns an ordinary act of hospitality on a journey into an experience of being made at home in a foreign place. There is no homesickness here and no heavy lament over a wandering life; there is Lanling wine, the light in a jade bowl, and a host who makes his guest forget where he is. Because the poem is so light, it is easy to miss its turn: the first couplet is about things, the second about people. The English rendering on this poem entry is the project's own translation, not an authoritative version.
 
 ![Written While Travelling: Li Bai's Lanling Wine and a Host Who Makes a Guest Forget Home thematic illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: thematic illustration for Written While Travelling: Li Bai's Lanling Wine and a Host Who Makes a Guest Forget Home. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This poem entry explains why Written While Travelling: Li Bai's Lanling Wine and a Host Who Makes a Guest Forget Home matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants Written While Travelling: Li Bai's Lanling Wine and a Host Who Makes a Guest Forget Home in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - First read it as a travel poem: a stranger arrives in Lanling, and the host brings out the local wine.
+>   - The poem is short enough to quote only its four lines: Lanling's fine wine is scented with turmeric; Poured into a jade bowl, it gives an amber light.
 
 ## The text, quoted sparingly
 
@@ -140,7 +149,7 @@ In the history of criticism, specialised commentary on this poem is relatively s
 
 Modern anthologies usually classify it under travel or under drinking. Travel, because of the title and the foreign land; drinking, because of the vessel and the colour in the first couplet. Each classification captures only half. A more accurate description might be: this is a poem about being a guest, and the wine is a gift handed to the guest by the host.
 
-Its reception abroad is also entangled with translation. “Turmeric” is often translated literally as “tulip”, and the poem then becomes, for some English readers, a poem about tulip-flavoured wine — a classic translation-made misreading. The English version on this page uses “turmeric-scented” and states plainly that it is the project's own rendering, not an authoritative translation.
+Its reception abroad is also entangled with translation. “Turmeric” is often translated literally as “tulip”, and the poem then becomes, for some English readers, a poem about tulip-flavoured wine — a classic translation-made misreading. The English version on this poem entry uses “turmeric-scented” and states plainly that it is the project's own rendering, not an authoritative translation.
 
 ## Common misreadings
 

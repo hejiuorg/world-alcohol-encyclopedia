@@ -111,6 +111,31 @@ updated_at: 2026-11-08
 
 图：艾雷岛路线：南岸泥煤威士忌三家酒厂所经地区的一处实景。图片：Bjarne Henning Kvaal…，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Laphroaig_Distillery_-_panoramio_(4).jpg)）。这张照片用于说明艾雷岛路线：南岸泥煤威士忌三家酒厂所经过的产区或城市环境，不标定其具体停靠点。
 
+> **先给结论**
+> **一句话：** 这页判断艾雷岛路线：南岸泥煤威士忌三家酒厂怎么排、走多久、哪些点不能省。
+>
+> - **适合谁：** 想把艾雷岛路线：南岸泥煤威士忌三家酒厂排成一日或两日行程、需要知道顺序与停留重点的人。
+> - **不适合谁：** 只想看单个地点、不打算按路线走的人。
+> - **先看这两点：**
+>   - - 第一站：Lagavulin 酒厂，Port Ellen, Isle of Islay PA42 7DZ，1816 年由 John Johnston 创立。
+>   - 艾雷岛的旺季在五月到九月，日照长、渡轮班次多，但酒厂导览与岛上住宿都紧张；五月末的 Islay Festival（Fèis Ìle）是全年最忙的时候。
+
+> **决策清单**
+> 买之前、去之前，按这三步过一遍。
+>
+> - **路线概览：** 第一站：Lagavulin 酒厂，Port Ellen, Isle of Islay PA42 7DZ，1816 年由 John Johnston 创立，此前该地已有非法蒸馏活。
+> - **交通与节奏：** 到艾雷岛通常从苏格兰 mainland 乘渡轮，CalMac 运营主要航线，船期受天气影响；2026-06-02 起 Port Ellen 码头关闭至 2029 年，Islay。
+> - **为什么走这条线：** 艾雷岛的威士忌常被简化成“泥煤味”。
+
+> **专题导航：艾雷岛泥煤威士忌**
+> - [艾雷岛路线](https://atlas.hejiu.org/routes/islay-whisky-trail/)
+> - [艾雷岛](https://beverages.hejiu.org/regions/islay/)
+> - [阿贝蒸馏厂](https://atlas.hejiu.org/places/ardbeg-distillery/)
+> - [拉弗格蒸馏厂](https://atlas.hejiu.org/places/laphroaig-distillery/)
+> - [布赫拉迪蒸馏厂](https://atlas.hejiu.org/places/bruichladdich-distillery/)
+> - [威士忌入门](https://hejiu.org/guides/whisky-intro/)
+> - [苏格兰威士忌](https://beverages.hejiu.org/styles/scotch-whisky/)
+
 ## 路线概览
 
 - 第一站：[Lagavulin 酒厂](ref:lagavulin)，Port Ellen, Isle of Islay PA42 7DZ，1816 年由 John Johnston 创立，此前该地已有非法蒸馏活动。

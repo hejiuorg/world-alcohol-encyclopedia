@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:shuijingfang-museum
 source_lang: zh
-source_revision: sha256:207eed7b977a41e026841e24c63ec144c289250305434d18d001511a1f0fdbe5
-source_sha256: 207eed7b977a41e026841e24c63ec144c289250305434d18d001511a1f0fdbe5
+source_revision: sha256:4cccaf47143d01d296dc17619df8a72dd9063ba9fc516ffb8e8a47bb5b56f6fd
+source_sha256: 4cccaf47143d01d296dc17619df8a72dd9063ba9fc516ffb8e8a47bb5b56f6fd
 translation_status: reviewed
 subtype: museum
 address: 19 Shuijing Street, Jinjiang District, Chengdu 610061, China
@@ -90,7 +90,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on the museum's official site, the Sichuan cultural relics authority, the national museum annual report and Chengdu Fangzhi; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY 4.0 and is credited in the caption. Opening hours, tickets and closures are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY 4.0 and is credited in the caption. Opening hours, tickets and closures are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -101,6 +101,15 @@ Shuijing Street in Chengdu's Jinjiang District runs near Dongmen Bridge and Heji
 ![Exterior of Shuijingfang Museum in Chengdu](/media/photos/place-shuijingfang-museum-f2fbcdf5.jpg)
 
 Figure: Shuijingfang Museum in Chengdu. Image: xiquinhosilva, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shujingfang_Museum.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Shuijingfang Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Shuijingfang Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The deposits at the Shuijing Street distillery run from the late Yuan and early Ming to the modern period, with more than 600 years of uninterrupted production.
+>   - First, do not treat "600 years" as "the museum is 600 years old".
 
 ## Setting and history
 

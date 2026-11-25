@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:muddler
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0ebfbc2bdc315b2e8c9dda766f68fe73de608179dc288c26eac1653ee4e356ff
-source_sha256: 0ebfbc2bdc315b2e8c9dda766f68fe73de608179dc288c26eac1653ee4e356ff
+source_revision: sha256:da3b4352fbc56ba600415c72e8a7525a50a70fb3033b121ffa57f4e102fe3e2f
+source_sha256: da3b4352fbc56ba600415c72e8a7525a50a70fb3033b121ffa57f4e102fe3e2f
 materials:
   - Wood
   - Food-grade plastic
@@ -49,7 +49,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check recipes with fresh herbs and citrus and their equipment; no source text is reproduced.
     accessed: 2026-11-07

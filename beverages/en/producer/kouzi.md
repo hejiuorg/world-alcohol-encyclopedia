@@ -79,7 +79,7 @@ Figure: Anhui Kouzi Distillery Co., Ltd.. Image: N509FZ, CC BY-SA 4.0, via Wikim
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottle. When discussing "Kouzijiao", first establish whether the subject is the company, the brand or a bottle.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottle. When discussing "Kouzijiao", first establish whether the subject is the company, the brand or a bottle.
 
 "Kouzi" is a local term in the Huaibei area, linked to the geography of river junctions and market roads. "Kouzijiao" combines the place term with the fermentation pit, pointing both to origin and to craft tradition. Such names are cultural and brand resources and cannot replace checking the production entity and the label.
 
@@ -143,7 +143,7 @@ Kouzi is a Jianxiang-aroma baijiu producer in Huaibei, Anhui, listed in 2015.
 
 **Sources and limits.** The key claims about Anhui Kouzi Distillery Co., Ltd. are checked against the following sources: Kouzi official website — company profile (the Jianxiang-aroma positioning and the 2015 listing), Kouzi official website — congratulations on the successful A-share listing of Anhui Kouzi Distillery (the listing date, ticker and product series), Kouzi official website — brand origin (the Suixi brewing culture and the listing point) and 4 sources in total. For current products, addresses or opening status, use kouzi.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Anhui Kouzi Distillery Co., Ltd. next to Anhui, Baijiu, Qu making: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Anhui Kouzi Distillery Co., Ltd. next to Anhui, Baijiu, Qu making: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this producer first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

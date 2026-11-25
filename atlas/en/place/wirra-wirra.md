@@ -37,8 +37,8 @@ tags:
 translation_of: place:wirra-wirra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5295e2a8f95e05f1b8672b37159f03adfc0a2ba4bbd782b4afa8038ba8e1fe0d
-source_sha256: 5295e2a8f95e05f1b8672b37159f03adfc0a2ba4bbd782b4afa8038ba8e1fe0d
+source_revision: sha256:7802d7b0f59d0378a86658798a0e27375fa7a811cf3a2633b914bcaf9508eb67
+source_sha256: 7802d7b0f59d0378a86658798a0e27375fa7a811cf3a2633b914bcaf9508eb67
 related:
   - relation: about
     target_id: region:mclaren-vale
@@ -102,6 +102,15 @@ Wirra Wirra is one of McLaren Vale’s great storytellers: Robert Strangways Wig
 
 Figure: Related photograph of Wirra Wirra. Image: No Swan So Fine, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wirra_Wirra_Vineyards,_Strout_Road,_McLaren_Vale_07.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Wirra Wirra deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Wirra Wirra who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Wirra Wirra sits on the Strout Road slope at the edge of McLaren Vale township, about forty-five minutes from Adelaide.
+>   - The cellar door sits inside the 1894 ironstone cellars, so the visit is also a walk through regional history: old fermenters, bluestone walls.
+
 ## Position and history
 
 Wirra Wirra sits on the Strout Road slope at the edge of McLaren Vale township, about forty-five minutes from Adelaide. The entrance is not grand: a lawn, an old ironstone and bluestone cellar, a bell tower, and the trebuchet Greg Trott could not stop thinking about. Step inside, though, and the character is clear: history weighs a lot, but the pose is light.
@@ -161,5 +170,5 @@ The best way to understand Wirra Wirra is to compare Church Block with RSW on th
 ## Further reading and see also
 
 - Related entries: [mclaren-vale](ref:mclaren-vale), [australia](ref:australia), [red-wine](ref:church-block), [syrah](ref:shiraz), [cabernet-sauvignon](ref:cabernet).
-- This page does not provide live prices, menus, tasting fees or opening status; check the estate website and Wine Australia before visiting.
+- This entry does not provide live prices, menus, tasting fees or opening status; check the estate website and Wine Australia before visiting.
 - To understand how Church Block evolved, ask about the blend proportions in the vintage you taste and compare it with a bottle of Original Blend Grenache Shiraz.

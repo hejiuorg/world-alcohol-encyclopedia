@@ -70,7 +70,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against Qingdao government heritage materials and reports in the People's Daily Overseas Edition and Dazhong Daily, with company 'first' claims qualified. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party reports, company websites and government pages are used for fact checking only; their copy and images are not reproduced. No company marks or product photographs are used on this page.
+  note: Third-party reports, company websites and government pages are used for fact checking only; their copy and images are not reproduced. No company marks or product photographs are used on this essay.
 verification_scope: source-verified
 ---
 # The Founding of the Qingdao Brewery (1903): German and British Merchants and China's First Continuously Operating Brewery
@@ -121,7 +121,7 @@ First, 'first' needs qualification. Qingdao government heritage materials call i
 
 Second, the founding parties need separating. The company was set up through the Hong Kong Anglo-German Brewery Company, with German and British merchants providing capital and German capital dominant; describing it simply as 'founded by Germans' or 'founded by Britons' is inaccurate.
 
-Third, early output and capital figures come from different sources. The 400,000 Mexican silver dollars and 2000 tonnes of annual output appear in local media reports, while the company website and government materials do not list every item; this page cites them with their source and does not treat them as audited conclusions.
+Third, early output and capital figures come from different sources. The 400,000 Mexican silver dollars and 2000 tonnes of annual output appear in local media reports, while the company website and government materials do not list every item; this essay cites them with their source and does not treat them as audited conclusions.
 
 Fourth, the name and level of the 1906 award need care. Reports mostly say 'gold award at the Munich world beer festival exhibition', but the exact award category, exhibition name and judging records require the fair archives of the time to confirm.
 

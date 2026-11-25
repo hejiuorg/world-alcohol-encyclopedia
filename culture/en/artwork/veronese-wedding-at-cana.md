@@ -10,8 +10,8 @@ summary: Paolo Veronese's 1562–1563 canvas for the refectory of San Giorgio Ma
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:c2672f6cc74323ac152af9ddc2590f1eb3c4db054db341c67aa3c0cbf0e7dc90
-source_sha256: c2672f6cc74323ac152af9ddc2590f1eb3c4db054db341c67aa3c0cbf0e7dc90
+source_revision: sha256:0caaf0f42ba2447c70bbb0f8491d022900b865656d0e83eb55a740736ef34b6f
+source_sha256: 0caaf0f42ba2447c70bbb0f8491d022900b865656d0e83eb55a740736ef34b6f
 source_lang: zh
 translation_status: reviewed
 creator_refs: []
@@ -83,13 +83,22 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original text by the project, checked against the Louvre catalogue, museum guide and reference works; quotations are limited to short phrases. The project owner declared CC BY 4.0 for site content on 2026-10-29.
-  note: The painting is in the public domain; museum photography, catalogue text and translations are not. This page uses a public-domain reproduction from Wikimedia Commons, credited in the caption.
+  note: The painting is in the public domain; museum photography, catalogue text and translations are not. This artwork entry uses a public-domain reproduction from Wikimedia Commons, credited in the caption.
 verification_scope: source-verified
 ---
 
 ![Full reproduction of Veronese's The Wedding at Cana, Musée du Louvre; not an installation photograph and not a detail.](/media/photos/artwork-veronese-wedding-at-cana-f405f493.jpg)
 
 Figure: Full reproduction of Veronese's The Wedding at Cana, Musée du Louvre; not an installation photograph and not a detail.. Image: Paolo Veronese, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Les_Noces_de_Cana_-_Paolo_Veronese_-_Mus%C3%A9e_du_Louvre_Peintures_INV_142_;_MR_384.jpg)).
+
+> **Quick verdict**
+> **In one line:** This artwork entry helps you look at The Wedding at Cana: A Wall-Sized Feast with a Miracle at the Edge, and place it in the history of drinking imagery.
+>
+> - **Best for:** Anyone who wants The Wedding at Cana: A Wall-Sized Feast with a Miracle at the Edge in the history of drinking imagery, not as a standalone picture.
+> - **Not for:** If you want want a single image without the period or drinking context.
+> - **Check first:**
+>   - It is hard to approach The Wedding at Cana as a religious painting.
+>   - The artist is Paolo Caliari, known as Paolo Veronese (1528–1588).
 
 ## A feast that fills a wall
 

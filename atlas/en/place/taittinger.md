@@ -148,7 +148,7 @@ For two days, split Taittinger from [Bollinger](ref:bollinger) or [Krug](ref:kru
 
 - Champagne comparisons: [Krug](ref:krug), [Bollinger](ref:bollinger), [Avenue de Champagne](ref:avenue), [Champagne avenue walk](ref:route).
 - Background: [Champagne](ref:champagne).
-- This page provides no map; tour, restaurant and price information should be checked with official channels.
+- This entry provides no map; tour, restaurant and price information should be checked with official channels.
 
 **At a glance:** A family-owned Champagne house at Saint-Nicaise in Reims, tracing its origins to the Forest-Fourneaux firm of 1734 and taken over by Pierre Taittinger in 1932. It farms about 288 hectares across 37 crus; its cellars lie 18 metres underground within the UNESCO Champagne hillsides, houses and cellars; Comtes de Champagne was first made in 1952.
 

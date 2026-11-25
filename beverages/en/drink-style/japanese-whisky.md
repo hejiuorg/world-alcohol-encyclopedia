@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:japanese-whisky
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fdbff8431932bda3a599e521f0b4e62765716354b9b5c0653f956018a710fcc5
-source_sha256: fdbff8431932bda3a599e521f0b4e62765716354b9b5c0653f956018a710fcc5
+source_revision: sha256:92ecb62e872f32cdbd1dfcd185eeddf19c9d2b6ec110439b5de756fa2bbaab63
+source_sha256: 92ecb62e872f32cdbd1dfcd185eeddf19c9d2b6ec110439b5de756fa2bbaab63
 legacy_refs: []
 parent_style_id: drink-style:whisky
 aroma_family: grain/fruit/smoke
@@ -75,7 +75,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against the JSLMA labelling standard, National Tax Agency material and a reference work; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Japanese whisky
@@ -85,6 +85,15 @@ Japanese whisky has a history of less than a century, yet it has acquired a clea
 ![Japanese whisky image](/media/photos/drink-style-japanese-whisky-d17593e0.jpg)
 
 Figure: Japanese whisky. Image: Mikael Leppä, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vintage_Suntory_Tasting.jpg)).
+
+> **Quick verdict**
+> **In one line:** This style places Japanese whisky on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Japanese whisky with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - The usual starting point is 1923, when Suntory built a malt whisky distillery at Yamazaki on the border of Kyoto and Osaka prefectures.
+>   - For neat drinking, use a tulip-shaped glass.
 
 ## Definition and regulation
 

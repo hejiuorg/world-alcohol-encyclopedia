@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:lujiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:46a0b978726727a1e4830138ebdcb064715ff561c7eb3375bca24b53f12e9714
-source_sha256: 46a0b978726727a1e4830138ebdcb064715ff561c7eb3375bca24b53f12e9714
+source_revision: sha256:6976885b939e16410458ce9be3bb312067b05d776b948ac36f66dcbd283afdb0
+source_sha256: 6976885b939e16410458ce9be3bb312067b05d776b948ac36f66dcbd283afdb0
 legacy_refs: []
 aliases:
   - Lujiu
@@ -74,12 +74,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against national standards and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Lujiu
 
-Lujiu is a major branch of Chinese compounded liquor. Under GB/T 27588-2011, Lujiu, it is made from a base of distilled spirit, fermented wine or food-grade alcohol with edible or medicinal-and-food materials, blended, mixed or reprocessed, and the style of the base has been changed. It is a beverage, not a medicine.![Lujiu thematic illustration](/media/photos/theme-beer.jpg)
+Lujiu is a major branch of Chinese compounded liquor. Under GB/T 27588-2011, Lujiu, it is made from a base of distilled spirit, fermented wine or food-grade alcohol with edible or medicinal-and-food materials, blended, mixed or reprocessed, and the style of the base has been changed. It is a beverage, not a medicine.![Lujiu thematic illustration](/media/figures/specific/drink-style-lujiu.svg)
 
 Figure: thematic illustration for Lujiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

@@ -46,7 +46,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对以新鲜柑橘汁为基础的经典配方；未复制原文。
     accessed: 2026-11-07

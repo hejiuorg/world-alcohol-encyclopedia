@@ -39,7 +39,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对经典鸡尾酒的配方用量；未复制原文。
     accessed: 2026-11-04

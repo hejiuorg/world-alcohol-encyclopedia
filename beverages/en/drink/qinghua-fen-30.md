@@ -134,7 +134,7 @@ Taste from a small cup: smell at rest, then gently swirl and smell again. Let th
 
 Common public corporate milestones are: the joint-stock company was restructured in December 1993 and listed in January 1994, and the group was restructured in March 2002. The Qinghua series represents the brand's move upmarket, and Qinghua 30 has long sat in the high-end price band.
 
-Prices change with year, channel and supply and demand, and this page gives no figures. Treating "30" as the age of the liquid, or treating a packaging generation change as a body upgrade, are common misreadings. Company history, brand age and product age should be read separately.
+Prices change with year, channel and supply and demand, and this entry gives no figures. Treating "30" as the age of the liquid, or treating a packaging generation change as a body upgrade, are common misreadings. Company history, brand age and product age should be read separately.
 
 ## Buying and storage
 

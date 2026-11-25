@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-aloxe-corton
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d7354c7a334039f14c3c4c9afe085668afd6dd245958d13ae5bac7cbfce93cdd
-source_sha256: d7354c7a334039f14c3c4c9afe085668afd6dd245958d13ae5bac7cbfce93cdd
+source_revision: sha256:6c5ab950dfbcee1e30e909176c57f2a7ca32abe391b46df64152b9afd590f692
+source_sha256: 6c5ab950dfbcee1e30e909176c57f2a7ca32abe391b46df64152b9afd590f692
 style_refs:
   - drink-style:red-wine
   - drink-style:white-wine
@@ -118,6 +118,15 @@ Aloxe-Corton sits at the northern edge of the Côte de Beaune, [Burgundy](ref:bu
 ![Aloxe-Corton image](/media/photos/drink-france-aloxe-corton-2a8e19f0.jpg)
 
 Figure: Aloxe-Corton. Image: PhillipC, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aloxe-corton-21.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Aloxe-Corton suits you, and how to serve and pair it.
+>
+> - **Best for:** Anyone trying to understand what Aloxe-Corton is, how it is served and when it fits.
+> - **Not for:** If you want only want the cheapest buying link and do not care about flavour or context.
+> - **Check first:**
+>   - BIVB figures for 2018 give 118.53 ha of village red (35.91 ha premier cru) and only 1.36 ha of village white (0.27 ha premier cru).
+>   - Typical European retail ranges in 2026 are roughly €30–45 for village red, €45–75 for premier cru and €90–180 for Corton grand cru; DRC's Corton usually exceeds €1,500.
 
 ## Two appellations on one hill
 

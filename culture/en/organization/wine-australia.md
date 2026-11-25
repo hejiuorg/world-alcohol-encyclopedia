@@ -71,7 +71,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the agency website, the Australian Government Directory and Commonwealth legislation; no third-party text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are cited for verification only. No third-party images are used on this organization.
 verification_scope: source-verified
 ---
 # Wine Australia: A Statutory Body for Research, Promotion and Export Control
@@ -90,7 +90,7 @@ The creation consolidated functions previously divided between bodies responsibl
 
 Wine Australia is not a membership association, so it has no layer of member companies. It relates to the whole trade through levies, statutory functions and public services: growers, winemakers and exporters pay statutory charges, the agency spends them under the Act and its funding agreement, and it reports to government.
 
-Industry views enter decisions through consultative mechanisms, committees and public processes rather than through a members' vote. This arrangement sacrifices the flexibility of a private association in exchange for the stability of a statutory mandate. Its leadership and governance follow statutory appointment procedures; the individuals change, so this page gives no fixed names.
+Industry views enter decisions through consultative mechanisms, committees and public processes rather than through a members' vote. This arrangement sacrifices the flexibility of a private association in exchange for the stability of a statutory mandate. Its leadership and governance follow statutory appointment procedures; the individuals change, so this organization gives no fixed names.
 
 ## Six statutory functions and their outputs
 

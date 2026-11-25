@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: cocktail:whiskey-sour
 source_lang: zh
-source_revision: sha256:decb4e73e792e951058c36e7552c6618c7b517ca3cf7cc1c8b0ad0041872e540
-source_sha256: decb4e73e792e951058c36e7552c6618c7b517ca3cf7cc1c8b0ad0041872e540
+source_revision: sha256:c591f97cef4a9e65f201a1a82d29d51ddc509c5d25342ae24a9a58542159c5ae
+source_sha256: c591f97cef4a9e65f201a1a82d29d51ddc509c5d25342ae24a9a58542159c5ae
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -65,7 +65,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -144,7 +144,7 @@ For Whiskey Sour, a common mistake is treating a variation as the same recipe. A
 
 A Whiskey Sour suits slow pre-dinner or after-dinner drinking with nuts, cheese or simple savoury snacks. It is relatively strong, so sip slowly and drink water; do not drink quickly on an empty stomach. Do not drink if driving, taking medication or pregnant.
 
-This page records one sourced version and does not rate specific brands or present one whiskey or ratio as the only correct answer. The final strength depends on the whiskey's [alcohol by volume](ref:abv), the amount of syrup and ice dilution, not on the recipe numbers alone.
+This cocktail records one sourced version and does not rate specific brands or present one whiskey or ratio as the only correct answer. The final strength depends on the whiskey's [alcohol by volume](ref:abv), the amount of syrup and ice dilution, not on the recipe numbers alone.
 
 **At a glance:** A classic cocktail of whiskey, lemon juice and sugar syrup, shaken and served, optionally with an egg-white foam; commonly garnished with a lemon slice or cherry. 
 
@@ -164,9 +164,9 @@ A Boston sour adds egg white, while a New York sour floats red wine on top; the 
 
 **Sources and limits.** The key claims about Whiskey Sour are checked against the following sources: International Bartenders Association (Used to check the official recipe, method and garnish; Used to confirm the drink is on the IBA official cocktail list), Oxford University Press (Used to check historical background and basic composition), David Wondrich / Perigee (Used to check background on 19th-century American cocktail development) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Whiskey Sour next to Whisky, Alcohol by volume (ABV), A cocktail is another way in: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Whiskey Sour next to Whisky, Alcohol by volume (ABV), A cocktail is another way in: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this cocktail first, then return to those entries; the links become coordinates, not decoration.
 
-For Whiskey Sour, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Whiskey Sour, this cocktail was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

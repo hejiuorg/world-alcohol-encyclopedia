@@ -5,7 +5,7 @@ type: drink
 lang: en
 slug: wuliangye-puwu
 title: Wuliangye Puwu
-summary: The market nickname for Wuliangye's core product, usually the eighth-generation Wuliangye. It is strong aroma, commonly 52% ABV in 500 mL; this page covers specification, process and buying at product level.
+summary: The market nickname for Wuliangye's core product, usually the eighth-generation Wuliangye. It is strong aroma, commonly 52% ABV in 500 mL; this entry covers specification, process and buying at product level.
 status: reviewed
 revision: 2
 translation_of: drink:wuliangye-puwu
@@ -109,7 +109,7 @@ The same brand also has lower-strength versions and different packaging editions
 
 The product is made within the [group](ref:producer) system, the brand is carried by [Wuliangye](ref:brand), and production and sales sit with the listed platform. Group, listed company, brand and product are four layers with different data scopes and responsible parties.
 
-When you see "Puwu ex-factory price" or "Puwu wholesale price", first establish whether it is the official guide price, a channel transaction price or a market quote in a given year. Price information is highly time-sensitive; this page gives no figures and only explains the scope difference.
+When you see "Puwu ex-factory price" or "Puwu wholesale price", first establish whether it is the official guide price, a channel transaction price or a market quote in a given year. Price information is highly time-sensitive; this entry gives no figures and only explains the scope difference.
 
 ## Origin and raw materials
 
@@ -139,7 +139,7 @@ For Wuliangye Puwu, taste from a small cup: smell at rest, then gently swirl and
 
 Common public milestones are: the distillery was formally named Yibin Wuliangye Distillery in 1959, the group was restructured in 1998, and the listed arm was listed in the same year. The core product has gone through several generations, and "eighth generation" is the current common description; the exact edition and packaging follow official information.
 
-Puwu has long sat in the high-end price band and is a common choice for banquets and gifting. Prices change with year, channel and supply and demand, and this page gives no figures. Treating price as proof of quality, or treating "vintage" as age, are common misreadings.
+Puwu has long sat in the high-end price band and is a common choice for banquets and gifting. Prices change with year, channel and supply and demand, and this entry gives no figures. Treating price as proof of quality, or treating "vintage" as age, are common misreadings.
 
 ## Buying and storage
 
@@ -155,7 +155,7 @@ Third, assuming higher strength is more authentic. Strength serves product desig
 Fourth, treating a packaging edition as a body upgrade. Edition differences need official explanation.
 Fifth, judging authenticity from price or packaging. Anti-counterfeit checks, channels and labels are more reliable.
 
-**In brief:** The market nickname for Wuliangye's core product, usually the eighth-generation Wuliangye. It is strong aroma, commonly 52% ABV in 500 mL; this page covers specification, process and buying at product level.
+**In brief:** The market nickname for Wuliangye's core product, usually the eighth-generation Wuliangye. It is strong aroma, commonly 52% ABV in 500 mL; this entry covers specification, process and buying at product level.
 
 Start with the base and the stated strength. From there, consider the sweetness or bitterness, then how it is served. That is how a practical judgment about Wuliangye Puwu is built.
 
@@ -165,7 +165,7 @@ Read [Wuliangye](ref:brand) for the style side of Wuliangye Puwu, and [Baijiu](r
 
 | Item | Detail |
 | --- | --- |
-| In one line | The market nickname for Wuliangye's core product, usually the eighth-generation Wuliangye. It is strong aroma, commonly 52% ABV in 500 mL; this page covers specification, process and buying at product level. |
+| In one line | The market nickname for Wuliangye's core product, usually the eighth-generation Wuliangye. It is strong aroma, commonly 52% ABV in 500 mL; this entry covers specification, process and buying at product level. |
 | Style | Baijiu、Strong-aroma baijiu |
 | Region | China |
 | ABV | 52–52% vol |

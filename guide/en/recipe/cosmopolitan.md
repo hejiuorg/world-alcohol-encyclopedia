@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: cosmopolitan
 title: Cosmopolitan recipe (IBA version)
-summary: 40 ml citron vodka, 15 ml Cointreau, 15 ml fresh lime juice and 30 ml cranberry juice make the four-part Cosmopolitan ratio; this page explains the 1980s pink vogue, the sweetness and acid of cranberry juice, shaking and straining, and the lemon-peel aroma.
+summary: 40 ml citron vodka, 15 ml Cointreau, 15 ml fresh lime juice and 30 ml cranberry juice make the four-part Cosmopolitan ratio; this recipe explains the 1980s pink vogue, the sweetness and acid of cranberry juice, shaking and straining, and the lemon-peel aroma.
 status: reviewed
 revision: 3
 translation_of: recipe:cosmopolitan
 source_lang: zh
-source_revision: sha256:6f0fb88f6cba93dbb7a51ab76bc2b02690de0d1982785244f6981d01a462f595
-source_sha256: 6f0fb88f6cba93dbb7a51ab76bc2b02690de0d1982785244f6981d01a462f595
+source_revision: sha256:4a946cbb6d313edd308ad8ae26a2ddc963c920644d2d4c33a4954bdbaaafe2cd
+source_sha256: 4a946cbb6d313edd308ad8ae26a2ddc963c920644d2d4c33a4954bdbaaafe2cd
 translation_status: reviewed
 product_id: cocktail:cosmopolitan
 source_version: IBA Official Cocktails (checked 2026-11-07)
@@ -102,7 +102,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the official list and category of this cocktail; no source text is reproduced.
     accessed: 2026-11-07
@@ -127,17 +127,26 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
 # Cosmopolitan recipe (IBA version)
 
-The Cosmopolitan did not fall out of a bartender's manual. It is a product of American city nightlife in the 1980s: pink liquid, citron vodka, cranberry juice, and a television and magazine culture that turned the drink into a status signal. Who made it first — a Florida bar, a New York bartender, or someone promoting a brand — has supporters on several sides. This page does not award the credit; it uses the IBA Contemporary Classic version: 40 ml citron vodka, 15 ml Cointreau, 15 ml fresh lime juice and 30 ml cranberry juice.
+The Cosmopolitan did not fall out of a bartender's manual. It is a product of American city nightlife in the 1980s: pink liquid, citron vodka, cranberry juice, and a television and magazine culture that turned the drink into a status signal. Who made it first — a Florida bar, a New York bartender, or someone promoting a brand — has supporters on several sides. This recipe does not award the credit; it uses the IBA Contemporary Classic version: 40 ml citron vodka, 15 ml Cointreau, 15 ml fresh lime juice and 30 ml cranberry juice.
 
-![Cosmopolitan recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Cosmopolitan recipe (IBA version) thematic illustration](/media/figures/specific/recipe-cosmopolitan.svg)
 
 Figure: thematic illustration for Cosmopolitan recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Cosmopolitan recipe (IBA version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Cosmopolitan recipe (IBA version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - This recipe uses shaking.
+>   - The colour became famous before the recipe did.
 
 ## The pink vogue of the 1980s
 
@@ -145,7 +154,7 @@ The colour became famous before the recipe did. Pink was a recognisable social s
 
 The label had a practical consequence too. To make a drink "look like a Cosmopolitan", many bars added extra syrup or switched to a sweeter cranberry drink so the colour deepened and the entry softened. That works commercially, but it pushes the recipe from a sweet-sour short drink towards a fruit beverage. Whether a Cosmopolitan still sits inside the IBA frame can be judged by two things: vodka remains the body, and the lime acid can still be tasted.
 
-The question of the name has never settled. What is clear is that the drink existed by the 1980s and spread worldwide in the 1990s with the cocktail revival. This page treats it as a sourced recipe version, not as an unverifiable legend.
+The question of the name has never settled. What is clear is that the drink existed by the 1980s and spread worldwide in the 1990s with the cocktail revival. This recipe treats it as a sourced recipe version, not as an unverifiable legend.
 
 ## The four-part 40:15:15:30 ratio
 
@@ -173,7 +182,7 @@ The division can be summed up in one working line: vodka carries the weight, Coi
 
 ## Shaking, straining and serving
 
-This page uses [shaking](ref:shaking). Three of the four ingredients carry sugar or pulp, and shaking chills fast, mixes thoroughly and adds a little air for a rounder texture. Stirring is clearer but cannot fully combine cranberry juice and sugar, and it does not suit a drink built on juice.
+This recipe uses [shaking](ref:shaking). Three of the four ingredients carry sugar or pulp, and shaking chills fast, mixes thoroughly and adds a little air for a rounder texture. Stirring is clearer but cannot fully combine cranberry juice and sugar, and it does not suit a drink built on juice.
 
 Keep the intensity in the "cold but not overworked" band. Fill the tin with ice and shake hard until the wall is clearly cold, usually a dozen seconds or so; shake longer and the ice melts faster than the temperature falls, thinning the drink and dulling the colour. A Cosmopolitan is a short drink, and a little extra dilution shows immediately.
 
@@ -205,4 +214,4 @@ The garnish counts as a variation as well. Lime peel in place of lemon gives a g
 
 ## See also
 
-For the general structure of a cocktail and sweet-sour balance, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of shaking, read [shaking](ref:shaking). For the drink itself, see [Cosmopolitan](ref:cocktail); on the neutral base, see [vodka](ref:vodka); on the role of orange liqueur, see [liqueur](ref:liqueur); on what acid does in a drink, see [acidity](ref:acidity). This page records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.
+For the general structure of a cocktail and sweet-sour balance, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of shaking, read [shaking](ref:shaking). For the drink itself, see [Cosmopolitan](ref:cocktail); on the neutral base, see [vodka](ref:vodka); on the role of orange liqueur, see [liqueur](ref:liqueur); on what acid does in a drink, see [acidity](ref:acidity). This recipe records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.

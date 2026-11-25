@@ -100,7 +100,7 @@ Saccharification sits between raw-material preparation and fermentation. Upstrea
 
 ## Steps and parameters
 
-Typical brewery values are a water-to-grain ratio of 2.5–4 L/kg and a mash pH of 5.2–5.5; a rest at 62–65 °C for 30–60 minutes lets beta-amylase cut starch into maltose; a rest at 70–72 °C for 20–40 minutes lets alpha-amylase continue dextrinisation; 75–78 °C is used to end conversion. These ranges follow the common descriptions in the brewing reference works and association material listed on this page, and breweries adjust them to malt modification and target body. Baijiu steams grain at about 100 °C under atmospheric steam, sake steams rice for about 40–60 minutes, and rice-koji cultivation is usually held at 30–38 °C.
+Typical brewery values are a water-to-grain ratio of 2.5–4 L/kg and a mash pH of 5.2–5.5; a rest at 62–65 °C for 30–60 minutes lets beta-amylase cut starch into maltose; a rest at 70–72 °C for 20–40 minutes lets alpha-amylase continue dextrinisation; 75–78 °C is used to end conversion. These ranges follow the common descriptions in the brewing reference works and association material listed on this process, and breweries adjust them to malt modification and target body. Baijiu steams grain at about 100 °C under atmospheric steam, sake steams rice for about 40–60 minutes, and rice-koji cultivation is usually held at 30–38 °C.
 
 ## Mechanism: gelatinisation and enzymolysis
 

@@ -132,7 +132,7 @@ Processing shapes flavour more than the variety name. Roasting gives tsampa its 
 ## Further reading and see also
 
 - Related: [baijiu](ref:baijiu), [barley](ref:barley), [rice](ref:rice), [fermentation](ref:fermentation), [terroir](ref:terroir).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This ingredient offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **In brief:** Naked barley of the Tibetan Plateau, cold- and drought-tolerant and early-ripening, the base of tsampa, barley wine and everyday diet in Tibetan areas; high fibre, beta-glucan and a low glycaemic profile have made it a health grain in recent years. 
 
@@ -156,4 +156,4 @@ In Tibet, highland barley is also milled into flour for tsampa, a staple roasted
 
 **Sources and limits.** The key claims about Highland Barley are checked against the following sources: FAO (crop, production-region and processing background), USDA (agricultural, botanical and nutritional material), CGIAR (crop germplasm and agricultural research frameworks) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Highland Barley, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Highland Barley, this ingredient was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

@@ -113,7 +113,7 @@ Ageing runs from 3 years to more than 20. Long maturation turns grain spice towa
 
 The style range comes from three variables: the unmalted share, the number of distillations and the cask type. A high unmalted share with two distillations gives a heavier, spicier result; triple distillation with mostly bourbon casks gives a lighter profile leaning towards green apple and cream.
 
-Representative products include the Redbreast range, Green Spot, Yellow Spot and Powers John's Lane. All sit in the single pot still category but differ in age, cask and strength. Some cask-strength versions push alcohol above 55%, concentrating the flavour and making a little water useful. This page does not rank brands or batches.
+Representative products include the Redbreast range, Green Spot, Yellow Spot and Powers John's Lane. All sit in the single pot still category but differ in age, cask and strength. Some cask-strength versions push alcohol above 55%, concentrating the flavour and making a little water useful. This style does not rank brands or batches.
 
 ## Difference from single malt and blended whiskey
 

@@ -5,7 +5,7 @@ type: drink
 lang: en
 slug: france-moet
 title: Moët & Chandon
-summary: A Champagne house founded in Épernay in 1743, known for the non-vintage Brut Impérial, about 1,300 hectares of vineyards and more than 28 kilometres of cellars; this page explains why its style is built for consistency, easy drinking and large-scale hospitality.
+summary: A Champagne house founded in Épernay in 1743, known for the non-vintage Brut Impérial, about 1,300 hectares of vineyards and more than 28 kilometres of cellars; this entry explains why its style is built for consistency, easy drinking and large-scale hospitality.
 status: reviewed
 revision: 3
 translation_of: drink:france-moet

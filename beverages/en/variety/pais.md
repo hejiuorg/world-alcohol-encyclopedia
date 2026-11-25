@@ -23,8 +23,8 @@ tags:
 translation_of: variety:pais
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ac2d4a442ee20ecd95a8ca65b655c654dfc1c66a30e4f4451ca9262f3877f5be
-source_sha256: ac2d4a442ee20ecd95a8ca65b655c654dfc1c66a30e4f4451ca9262f3877f5be
+source_revision: sha256:753d802bcfae4dd4322f3d0ea138b742f641ae4feb6d53140e0079157b8013f1
+source_sha256: 753d802bcfae4dd4322f3d0ea138b742f641ae4feb6d53140e0079157b8013f1
 related:
   - relation: about
     target_id: region:itata
@@ -110,6 +110,15 @@ País is one of Chile's oldest cultivated red grapes, today preserved mainly in 
 ![País category illustration](/media/photos/theme-grapes.jpg)
 
 Figure: País. Project-generated or category illustration used for grapes context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether País suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing País with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - Treat País as a light-bodied red, served around 14–16°C, dropping to the low teens in hot weather to keep acidity and fruit upright; too warm.
+>   - The first misreading is to dismiss all País as cheap wine.
 
 ## Definition and naming
 

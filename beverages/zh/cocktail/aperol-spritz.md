@@ -49,7 +49,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单与调制背景；未复制原文。
     accessed: 2026-11-07
@@ -83,6 +83,15 @@ verification_scope: source-verified
 ![阿佩罗气泡 图像](/media/photos/cocktail-aperol-spritz-bd7e4e67.jpg)
 
 图：阿佩罗气泡。图片：JIP，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aperol_Spritz_aboard_Viking_Mariella.jpg)）。
+
+> **先给结论**
+> **一句话：** 这页判断阿佩罗气泡该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂阿佩罗气泡的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 常见比例为普罗塞克 90 毫升、阿佩罗 60 毫升、苏打水 30 毫升，即三比二比一。
+>   - 点单时可以直接说“阿佩罗气泡”，若店家使用不同起泡酒，可以询问品牌与甜度。
 
 ## 起源与命名
 

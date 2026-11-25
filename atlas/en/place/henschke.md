@@ -142,4 +142,4 @@ First, Henschke is not a Barossa Valley floor winery. It sits at Keyneton in Ede
 
 ## References
 
-This page was checked against Henschke's official contact, home and family history pages, and Wine Australia's Barossa Valley material. Page verified 2026-11-09. To place this stop in a day, see the [Barossa wine trail](ref:route); for variety and style background, see [Shiraz](ref:shiraz) and [red wine](ref:red-wine). Opening hours, booking rules and wines are subject to official channels.
+This entry was checked against Henschke's official contact, home and family history pages, and Wine Australia's Barossa Valley material. Page verified 2026-11-09. To place this stop in a day, see the [Barossa wine trail](ref:route); for variety and style background, see [Shiraz](ref:shiraz) and [red wine](ref:red-wine). Opening hours, booking rules and wines are subject to official channels.

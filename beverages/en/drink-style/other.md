@@ -70,23 +70,32 @@ translation_of: drink-style:other
 source_lang: zh
 translation_status: reviewed
 verification_scope: source-verified
-source_revision: sha256:f504af0f415486914a839c00f777cf3d1842fba53ba44c0834c2319773b33f7c
-source_sha256: f504af0f415486914a839c00f777cf3d1842fba53ba44c0834c2319773b33f7c
+source_revision: sha256:6c9758057034c6d561c7402f2387fb7a5601f4ffb4c20bc32dcc2bdb0df4183b
+source_sha256: 6c9758057034c6d561c7402f2387fb7a5601f4ffb4c20bc32dcc2bdb0df4183b
 ---
 
 # Other Drinks (Category Note)
 
-“Other drinks” is not a strict legal category. It is a mapping container retained from the old site for entries that did not fit neatly under wine, beer, distilled spirits or compounded drinks. It is not a specific drink, a quality grade, or a way of saying that a subject matters less. A better reading is that when a drink crosses several craft families, or when a local name does not match the mainstream taxonomy, this page explains the boundary and points to the specific style entry.
+“Other drinks” is not a strict legal category. It is a mapping container retained from the old site for entries that did not fit neatly under wine, beer, distilled spirits or compounded drinks. It is not a specific drink, a quality grade, or a way of saying that a subject matters less. A better reading is that when a drink crosses several craft families, or when a local name does not match the mainstream taxonomy, this style explains the boundary and points to the specific style entry.
 
-![Thematic illustration for other drinks](/media/photos/theme-asian.jpg)
+![Thematic illustration for other drinks](/media/figures/specific/drink-style-other.svg)
 
 Figure: thematic illustration for the category note. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph.
+
+> **Quick verdict**
+> **In one line:** This style places Other Drinks (Category Note) on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Other Drinks (Category Note) with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - Fermented drinks are defined by the conversion of sugar into alcohol by microorganisms.
+>   - Apples, pears, cherries and plums can all be fermented into alcohol.
 
 ## Definition and boundaries
 
 The first layer of classification is raw material and process, not the name. A drink made by fermenting grain or fruit, then distilling the result, usually belongs with distilled spirits. A drink made from malted grain, boiled with hops and fermented with brewers’ yeast belongs with beer. A drink made by fermenting grapes or other fruit and keeping the juice character belongs with wine or fruit wine. Some drinks combine fermentation with infusion, blending or the addition of honey, and do not fit a single box. In that case “other” means “needs a separate explanation”, not one shared flavour or grade.
 
-This page therefore does not offer a single alcohol level, ingredient list or serving temperature for “other drinks”. Each drink should be checked against its own entry: what sugar source it uses, which microorganism ferments it, whether it is distilled, whether sugar or flavouring is added, and how it is stabilised and packaged.
+This style therefore does not offer a single alcohol level, ingredient list or serving temperature for “other drinks”. Each drink should be checked against its own entry: what sugar source it uses, which microorganism ferments it, whether it is distilled, whether sugar or flavouring is added, and how it is stabilised and packaged.
 
 ## Why the container exists
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:disgorgement
 source_lang: zh
-source_revision: sha256:906001f5e3e1ab3d0cd8925df52a537ce17068733546b51fb486641de339ffb6
-source_sha256: 906001f5e3e1ab3d0cd8925df52a537ce17068733546b51fb486641de339ffb6
+source_revision: sha256:db13cc9ef5a32eb1026b85e003142f949de3bed29dc8b1084c7773f989c9a4d0
+source_sha256: db13cc9ef5a32eb1026b85e003142f949de3bed29dc8b1084c7773f989c9a4d0
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -77,7 +77,7 @@ verification_scope: source-verified
 
 Disgorgement (French dégorgement) is the step in traditional-method sparkling wine, after riddling, in which the yeast sediment gathered at the bottle neck is ejected. The sediment comes from the second fermentation in bottle: yeast converts sugar into alcohol and carbon dioxide, then dies and forms lees. Riddling moves the lees gradually into the neck, and disgorgement removes them. Dosage usually follows, then the final cork and wire hood. It is the closing move of the traditional method and the end of the wine's contact with the lees.
 
-![Disgorgement thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Disgorgement thematic illustration](/media/figures/specific/term-disgorgement.svg)
 
 Figure: thematic illustration for Disgorgement. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

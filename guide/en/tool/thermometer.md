@@ -164,4 +164,4 @@ A probe should be inserted at least 5 cm into the liquid for a stable reading.
 
 **Sources and limits.** The key claims about Thermometer are checked against the following sources: Oxford University Press (Used to check drinks temperature and service background), Encyclopaedia Britannica (Used to check wine temperature and fermentation background), Corning Museum of Glass (Used to check thermometer and glass object craft background) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Thermometer, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Thermometer, this tool was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:fine-strainer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:290f80a607e206f472c9bfed855d3fd9911e52d4e487e3897027f6913a475396
-source_sha256: 290f80a607e206f472c9bfed855d3fd9911e52d4e487e3897027f6913a475396
+source_revision: sha256:8018412fae4347d3c4748024276a9a4780762bff9bbcb5a917c7d7f1a4838b90
+source_sha256: 8018412fae4347d3c4748024276a9a4780762bff9bbcb5a917c7d7f1a4838b90
 materials:
   - Stainless steel mesh
   - Nylon mesh
@@ -50,7 +50,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check shaken cocktails and straining practice; no source text is reproduced.
     accessed: 2026-11-07

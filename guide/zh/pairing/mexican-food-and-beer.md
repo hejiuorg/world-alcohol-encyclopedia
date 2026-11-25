@@ -65,7 +65,7 @@ sources:
     accessed: 2026-11-07
   - key: iba
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对以啤酒为基底的经典饮品框架；未复制原文。
     accessed: 2026-11-07

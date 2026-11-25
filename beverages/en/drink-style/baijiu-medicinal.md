@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:baijiu-medicinal
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d80633c3c029f29a8bb171e17708e7480fc3de830871443246da0a36948a2952
-source_sha256: d80633c3c029f29a8bb171e17708e7480fc3de830871443246da0a36948a2952
+source_revision: sha256:249f920b7b2b04341e79db894ce7d5bb828be738e8cfce2e35effd38eabe28a1
+source_sha256: 249f920b7b2b04341e79db894ce7d5bb828be738e8cfce2e35effd38eabe28a1
 legacy_refs: []
 aliases:
   - Health liquor
@@ -64,14 +64,14 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. This page is not medical or legal advice, and compliance judgments should follow current regulations and regulator guidance.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. This style is not medical or legal advice, and compliance judgments should follow current regulations and regulator guidance.
 verification_scope: source-verified
 ---
 # Medicinal liquor
 
 "Health liquor" usually means a compounded liquor made with a distilled spirit or [yellow wine](ref:yellow-wine) as the base, plus food-medicine ingredients, edible medicinal herbs or extracts. It belongs to the food or health-food category, not to medicine. In China, a health-function claim must meet health-food registration or filing rules, and ordinary compounded liquor may not claim to treat disease.
 
-![Medicinal liquor thematic illustration](/media/photos/theme-beer.jpg)
+![Medicinal liquor thematic illustration](/media/figures/specific/drink-style-baijiu-medicinal.svg)
 
 Figure: thematic illustration for Medicinal liquor. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -129,7 +129,7 @@ Fifth, ignoring the risk of alcohol itself. However low the base strength, it is
 
 Start with the production rule. From there, consider the strength, then the usual serving. That is how a practical judgment about Medicinal liquor is built.
 
-**Read alongside.** Put Medicinal liquor next to Baijiu, Yellow wine, Lujiu: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Medicinal liquor next to Baijiu, Yellow wine, Lujiu: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Medicinal liquor are checked against the following sources: State Administration for Market Regulation (registration, filing, labelling and health-claim rules for health foods; no legal text is reproduced), Standing Committee of the National People's Congress, State Administration for Market Regulation; Standardization Administration of China (Searchable by standard number in the National Standards Full-Text Public System) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 

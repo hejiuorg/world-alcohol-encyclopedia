@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:u-zlateho-tygra
 source_lang: zh
-source_revision: sha256:3b33b3541dfb2ba11c57b92a62440245076f08e7d629d3d076c360154961b828
-source_sha256: 3b33b3541dfb2ba11c57b92a62440245076f08e7d629d3d076c360154961b828
+source_revision: sha256:6cbef17d1f2bc1e566059e699132ecc671d09cbf8446d2be4a1377b667746025
+source_sha256: 6cbef17d1f2bc1e566059e699132ecc671d09cbf8446d2be4a1377b667746025
 translation_status: reviewed
 subtype: pub
 address: Husova 17, 110 00 Praha 1, Czechia
@@ -84,7 +84,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on the beer hall's official site and public travel sources; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY 4.0 and is credited in the caption. Opening hours, prices and payment policy are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY 4.0 and is credited in the caption. Opening hours, prices and payment policy are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -95,6 +95,15 @@ From Prague's Old Town Square, walk south and turn into Husova. After a few minu
 ![The golden tiger house sign above the entrance of U Zlatého tygra](/media/photos/place-u-zlateho-tygra-43a8c302.jpg)
 
 Figure: The golden tiger house sign above the entrance of U Zlatého tygra. Image: Sarah Stierch, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:M%C4%9Bstsk%C3%BD_d%C5%AFm_U_zlat%C3%A9ho_tygra_-_Stierch.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether U Zlatého tygra deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to U Zlatého tygra who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The house dates from the fourteenth and fifteenth centuries and was connected to one of Prague's most valuable architectural complexes.
+>   - Find a seat yourself.
 
 ## Setting and history
 

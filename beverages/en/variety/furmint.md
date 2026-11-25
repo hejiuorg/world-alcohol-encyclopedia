@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:furmint
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:13c3a8ebb2a76b77c0b64434e4572fab2423b688d5617956d7ecb51f3acab8a7
-source_sha256: 13c3a8ebb2a76b77c0b64434e4572fab2423b688d5617956d7ecb51f3acab8a7
+source_revision: sha256:937336c4de329aba5623ee0aeae12d1aae61d0b128ff4e497f6cf147e5c4d6a3
+source_sha256: 937336c4de329aba5623ee0aeae12d1aae61d0b128ff4e497f6cf147e5c4d6a3
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -86,6 +86,15 @@ Furmint is the most important white grape of Tokaj in Hungary and one of the mos
 ![Furmint image](/media/photos/variety-furmint-942bb30a.jpg)
 
 Figure: Furmint. Image: Andrs.kovacs, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Furmint_grape_cluster.jpg)).
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Furmint suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Furmint with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - Furmint is the variety; Tokaj is the region, and the two should not be confused.
+>   - Furmint is native to the Carpathian Basin, with Tokaj-Hegyalja as its heartland.
 
 ## Definition and synonyms
 

@@ -147,7 +147,7 @@ Merlot ripens earlier than Cabernet Sauvignon and gives softer tannin and plum f
 
 **Sources and limits.** The key claims about Merlot are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check varietal descriptors and the Vitis species framework), Oxford University Press (Used for reference on Merlot parentage, regions and style; Migrated from the former reference list at the end of the article; access date not re-verified), INAO (Used to check how varieties correspond to regions under the French appellation system). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Merlot, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Merlot, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

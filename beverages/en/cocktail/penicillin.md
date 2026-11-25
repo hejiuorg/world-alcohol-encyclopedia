@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:penicillin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f14cbe09ee5dae2fc9167141d14e8865280ffa6e6b073d535d60d8728564b946
-source_sha256: f14cbe09ee5dae2fc9167141d14e8865280ffa6e6b073d535d60d8728564b946
+source_revision: sha256:290546dd731896922b6a96ca15826076765c403250f2fdb85722aea3c40cab53
+source_sha256: 290546dd731896922b6a96ca15826076765c403250f2fdb85722aea3c40cab53
 style: 现代经典鸡尾酒
 ingredient_refs: []
 origin_place: New York, United States (as the widely told story)
@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and modern-classic context; no source text is reproduced.
     accessed: 2026-11-07
@@ -86,9 +86,18 @@ The Penicillin is a cocktail of blended Scotch whisky, lemon juice and honey-gin
 
 Figure: Penicillin. Photograph: File:Penicillin Cocktail.png. Credit: Matthias Friedlein (www.augustine-bar.de), CC BY-SA 4.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=41778882)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Penicillin, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Penicillin.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - Penicillin is best approached through the base and the ratio, then the dilution and the ice, and then the garnish and the glass.
+>   - The widely told story places the drink in New York in the mid-2000s and links it to a local bar and a bartender.
+
 ## Origin and naming
 
-The widely told story places the drink in New York in the mid-2000s and links it to a local bar and a bartender. The exact year, the name of the bar and the evolution of the recipe differ between accounts, so this page treats the story as widely told rather than documented. What is clearer is that it belongs to the group of drinks that appeared early and travelled widely in the "modern classic" discussions that followed the 2000s.
+The widely told story places the drink in New York in the mid-2000s and links it to a local bar and a bartender. The exact year, the name of the bar and the evolution of the recipe differ between accounts, so this cocktail treats the story as widely told rather than documented. What is clearer is that it belongs to the group of drinks that appeared early and travelled widely in the "modern classic" discussions that followed the 2000s.
 
 The name comes from the antibiotic penicillin. Ginger and honey are traditionally associated with soothing a sore throat, and the bartender used the name to suggest a "medicinal" and restorative quality. That is naming wit, not a medical claim. A cocktail cannot treat an infection and cannot replace medicine. Taking the name as a health promise is one of the most common misreadings of the drink.
 

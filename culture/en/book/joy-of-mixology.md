@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against publisher bibliographic pages and industry sources, without reproducing text, charts or recipes. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, recipes and charts are not covered by this licence; sources are cited for verification only. The image on this page shows a bartender double-straining a cocktail, not the book cover.
+  note: The original text, recipes and charts are not covered by this licence; sources are cited for verification only. The image on this book entry shows a bartender double-straining a cocktail, not the book cover.
 verification_scope: source-verified
 source_sha256: 0dc79c753a98139307028af11334b3d9464ebda95a4ac318c710069c5bc58352
 source_revision: sha256:0dc79c753a98139307028af11334b3d9464ebda95a4ac318c710069c5bc58352

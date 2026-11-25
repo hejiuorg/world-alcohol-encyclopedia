@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:bemelmans-bar
 source_lang: zh
-source_revision: sha256:10142c524fd51ca6e2c5076332e69dab6bd436bf43424f9cfb5f24d8ddc11225
-source_sha256: 10142c524fd51ca6e2c5076332e69dab6bd436bf43424f9cfb5f24d8ddc11225
+source_revision: sha256:84a65187adc828f0f31ac9b58f108e5da9da85e456c8297f7a028be61cc36fb5
+source_sha256: 84a65187adc828f0f31ac9b58f108e5da9da85e456c8297f7a028be61cc36fb5
 translation_status: reviewed
 subtype: bar
 address: 35 East 76th Street, New York, NY 10021, USA
@@ -101,6 +101,15 @@ Bemelmans Bar occupies the ground floor of The Carlyle on New York's Upper East 
 
 Figure: Bemelmans Bar. Image: Ɱ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bemelmans_Bar.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Bemelmans Bar deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Bemelmans Bar who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The Carlyle opened in 1930 as an Art Deco apartment hotel on the Upper East Side.
+>   - Decide where to sit first.
+
 ## Place and history
 
 The Carlyle opened in 1930 as an Art Deco apartment hotel on the Upper East Side. Bemelmans Bar appeared on the ground floor in 1947, part of the post-war reinvention of New York hotel nightlife. It was never an ordinary corner bar: it was a reception room for hotel guests and Upper East Side residents, small, tightly seated, dimly lit, built for low conversation and slow drinking.
@@ -113,7 +122,7 @@ The bar is often confused with Café Carlyle in the same hotel. Café Carlyle is
 
 The bar is on the ground floor, small enough that the bar counter, banquettes and piano share one room. The murals cover the walls, the lighting is low, the tables are small and the seats are close together. That scale dictates how the room is used: two or three people talking, listening to music, drinking one or two cocktails — not a large group or a long working session. The murals are the main subject, but the hotel has not isolated them like a museum; guests sit beneath them, and coats, glasses and conversation form the work's present-day setting.
 
-The list is built on classics: martinis, Manhattans, old fashioneds, gin and tonic, champagne and wine. It does not aim at molecular mixology or elaborate garnish; its strength is consistent execution, temperature and proportion. On a first visit, a martini or a Manhattan is the safest order; for something lighter, champagne or wine. Specific drinks, seasonal specials and prices change, so use the hotel's official menu; this page gives no fixed prices.
+The list is built on classics: martinis, Manhattans, old fashioneds, gin and tonic, champagne and wine. It does not aim at molecular mixology or elaborate garnish; its strength is consistent execution, temperature and proportion. On a first visit, a martini or a Manhattan is the safest order; for something lighter, champagne or wine. Specific drinks, seasonal specials and prices change, so use the hotel's official menu; this entry gives no fixed prices.
 
 Music is the other half of the product. The official page says the pianist begins at 5:30 pm and the jazz trio plays from 9 pm; a cover charge applies from 5:30 pm, at USD 25–35 per person for tables and USD 20–25 per person at the bar, depending on the artist. This is a music charge, not a drink minimum; drinks are separate. If you only want to look at the murals in peace, the hours after opening and before 5:30 pm are the cheapest and quietest; if you want the trio, accept the cover and the later crowd.
 

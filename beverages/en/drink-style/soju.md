@@ -125,7 +125,7 @@ Fifth, choosing by brand without reading the category. Strength and ingredient l
 
 Soju is best read by starting with the production rule, moving to the strength, and ending with the usual serving.
 
-**Read alongside.** Put Soju next to Baijiu, Sake, Alcohol by volume (ABV): the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Soju next to Baijiu, Sake, Alcohol by volume (ABV): the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Soju are checked against the following sources: Oxford University Press (Consulted for entries on Korean soju history and the difference between distilled and diluted soju), National Tax Service of Korea (the statutory classification and labelling framework for Korean liquor), Korea Legislation Research Institute (provisions and definitions in the Liquor Tax Act) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 

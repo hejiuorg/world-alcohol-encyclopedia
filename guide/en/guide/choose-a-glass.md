@@ -10,13 +10,13 @@ status: reviewed
 revision: 3
 translation_of: guide:choose-a-glass
 source_lang: zh
-source_revision: sha256:f51b681967bb6a16485f6d58d7b2891d2683ef1a09244e696fcf38a8cac8dddc
-source_sha256: f51b681967bb6a16485f6d58d7b2891d2683ef1a09244e696fcf38a8cac8dddc
+source_revision: sha256:82b90dc4561c6a740c21bb857ec3e401f7b1500309b1daae41d501371001e3f2
+source_sha256: 82b90dc4561c6a740c21bb857ec3e401f7b1500309b1daae41d501371001e3f2
 translation_status: reviewed
 about_refs:
   - drink-style:wine
   - drink-style:beer
-audience: readers who want to understand glassware without the ceremony
+audience: if you want want to understand glassware without the ceremony
 difficulty: beginner
 legacy_refs: []
 aliases: []
@@ -78,17 +78,36 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; based on wine, beer and spirits reference works, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 
-# A different glass, a different view
+> **Topic guide: glass, drink and setting**
+> - [Why the glass matters](https://hejiu.org/en/guides/choose-a-glass/)
+> - [Red wine glass](https://hejiu.org/en/vessels/red-wine-glass/)
+> - [White wine glass](https://hejiu.org/en/vessels/white-wine-glass/)
+> - [Champagne flute](https://hejiu.org/en/vessels/champagne-flute/)
+> - [Rocks glass](https://hejiu.org/en/vessels/rocks-glass/)
+> - [Highball](https://hejiu.org/en/vessels/highball/)
+> - [Snifter](https://hejiu.org/en/vessels/snifter/)
 
-Glass shape is not magic, but it does change three things: where aroma gathers, where the liquid first meets your mouth, and how quickly it warms. Understand these three and you can judge whether a glass suits the drink in front of you, without memorising a list of "the right glass for every drink".
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **What shape actually changes:** The geometry of a glass determines the area of liquid exposed to air, the size of the space above the rim, and the path aroma takes from the surface to your nose.
+> - **How aroma reaches the nose:** Aroma molecules evaporate from the surface, enter the space inside the glass and are carried to the nasal cavity with the breath.
+> - **Where the liquid lands, and temperature:** The shape of the rim guides the liquid towards different parts of the mouth.
 
-![A different glass, a different view thematic illustration](/media/photos/theme-route.jpg)
+> **Topic guide: glass, drink and setting**
+> - [Why the glass matters](https://hejiu.org/en/guides/choose-a-glass/)
+> - [Red wine glass](https://hejiu.org/en/vessels/red-wine-glass/)
+> - [White wine glass](https://hejiu.org/en/vessels/white-wine-glass/)
+> - [Champagne flute](https://hejiu.org/en/vessels/champagne-flute/)
+> - [Rocks glass](https://hejiu.org/en/vessels/rocks-glass/)
+> - [Highball](https://hejiu.org/en/vessels/highball/)
+> - [Snifter](https://hejiu.org/en/vessels/snifter/)
 
-Figure: thematic illustration for A different glass, a different view. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+![Why the glass matters bilingual editorial visual card](/media/figures/specific/guide-choose-a-glass.svg)
 
 ## What shape actually changes
 
@@ -166,4 +185,17 @@ On a limited budget, buy two identical medium all-purpose glasses first, then ad
 
 ## Boundary
 
-A glass is a tool, not an identity test. Temperature, ice, the drink itself and the pace of drinking usually matter more than shape. This page recommends no brands and does not present any shape as the only correct answer; the choice of temperature and ice should combine the drink type with your own impression.
+A glass is a tool, not an identity test. Temperature, ice, the drink itself and the pace of drinking usually matter more than shape. This guide recommends no brands and does not present any shape as the only correct answer; the choice of temperature and ice should combine the drink type with your own impression.
+
+## Quick comparison: six common glasses
+
+| Glass | Shape | Use | Why it works |
+| --- | --- | --- | --- |
+| Red wine glass | Large bowl, tapered rim | Red wine | Room for aroma |
+| White wine glass | Medium bowl, tapered rim | White wine | Keeps it cool, focuses aroma |
+| Champagne flute | Tall and narrow | Sparkling wine | Slows bubble loss |
+| Coupe | Shallow and wide | Champagne, cocktails | Open aroma; bubbles fade faster |
+| Rocks glass | Short and wide | Whisky, ice | Easy to add ice and stir |
+| Highball | Tall and straight | Long drinks | Space for ice and bubbles |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.

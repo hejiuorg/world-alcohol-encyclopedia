@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: vessel:champagne-flute
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:31a54af4543bd6bd900a1248f393f90bbd796bee469af30fdb16e0d6d532e73b
-source_sha256: 31a54af4543bd6bd900a1248f393f90bbd796bee469af30fdb16e0d6d532e73b
+source_revision: sha256:81402baa58d714e81fed6d908a2d5a314257f8f278b0eeedbd7480884ede38eb
+source_sha256: 81402baa58d714e81fed6d908a2d5a314257f8f278b0eeedbd7480884ede38eb
 materials:
   - Glass
   - Crystal glass
@@ -50,7 +50,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check general practice for sparkling drinks and serving glasses; no source text is reproduced.
     accessed: 2026-11-07
@@ -112,7 +112,7 @@ The narrowed rim has another effect: the liquid flows towards the middle of the 
 
 ## Capacity and suitable drinks
 
-There is no single capacity standard, and body width and height vary widely. This page gives no fixed capacity figure; capacity depends on the specific product. Adjust the pour and the pouring height to your own glass so that the drink is not too full for nosing and bubbles.
+There is no single capacity standard, and body width and height vary widely. This glass gives no fixed capacity figure; capacity depends on the specific product. Adjust the pour and the pouring height to your own glass so that the drink is not too full for nosing and bubbles.
 
 It suits Champagne and [sparkling wine](ref:sparkling) best, especially when bubble persistence and a crisp texture are the focus. Most non-vintage and vintage Champagnes from the [Champagne](ref:champagne) region can be served in a flute, though a wider, narrowed-rim shape may be better when detailed aroma is the goal.
 

@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: mojito
 title: Mojito recipe (IBA version)
-summary: 45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with mint and lime; this page explains the order of pressing, dissolving, ice and bubbles.
+summary: 45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with mint and lime; this recipe explains the order of pressing, dissolving, ice and bubbles.
 status: reviewed
 revision: 2
 translation_of: recipe:mojito
 source_lang: zh
-source_revision: sha256:cc275cd81b8abe2d0def570fd2e561a9bbd6e098fbd847ae7a8e429a887e1c7c
-source_sha256: cc275cd81b8abe2d0def570fd2e561a9bbd6e098fbd847ae7a8e429a887e1c7c
+source_revision: sha256:99e721404da133297829f594033ee36be25b8ae2a72ea3599693d2e0b2d648c9
+source_sha256: 99e721404da133297829f594033ee36be25b8ae2a72ea3599693d2e0b2d648c9
 translation_status: reviewed
 product_id: cocktail:mojito
 source_version: IBA Official Cocktails (checked October 2026)
@@ -97,7 +97,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -111,18 +111,18 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 # Mojito recipe (IBA version)
 
-This is one [Mojito](ref:cocktail) recipe with a stated source. The Mojito is a long drink built in the glass: press the mint gently, dissolve the sugar first, use plenty of ice and add the soda water last. Get the order wrong and the drink is either too sweet or has lost its bubbles. This page records the public IBA version and explains the purpose of each step.![Mojito recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+This is one [Mojito](ref:cocktail) recipe with a stated source. The Mojito is a long drink built in the glass: press the mint gently, dissolve the sugar first, use plenty of ice and add the soda water last. Get the order wrong and the drink is either too sweet or has lost its bubbles. This recipe records the public IBA version and explains the purpose of each step.![Mojito recipe (IBA version) thematic illustration](/media/figures/specific/recipe-mojito.svg)
 
 Figure: thematic illustration for Mojito recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
 ## A recipe with a stated source
 
-The public IBA (International Bartenders Association) recipe uses 45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with a mint sprig and a lime slice. This page follows that version and explains the purpose of each step so that a problem at home can be traced to a specific stage.
+The public IBA (International Bartenders Association) recipe uses 45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with a mint sprig and a lime slice. This recipe follows that version and explains the purpose of each step so that a problem at home can be traced to a specific stage.
 
 The recipe version is recorded separately from the cocktail identity so that it stays traceable. Bars make Mojitos very differently: some shake and strain, some use syrup, some pile in crushed ice, some use other citrus. These differences are not about who is "authentic"; they are different versions and should carry their own sources.
 
@@ -191,6 +191,6 @@ Aged rum instead of white rum brings barrel flavour and a heavier body; less sug
 
 ## Limits
 
-This page records one source version only. It does not rank brands and does not present one mint or sugar as the only correct choice. A recipe is a starting point, not a law; any change should be labelled as a difference. A long drink is easy to finish without noticing, so watch the total and the pace. Do not drink while driving, taking medication or pregnant, and follow local law.
+This recipe records one source version only. It does not rank brands and does not present one mint or sugar as the only correct choice. A recipe is a starting point, not a law; any change should be labelled as a difference. A long drink is easy to finish without noticing, so watch the total and the pace. Do not drink while driving, taking medication or pregnant, and follow local law.
 
-**At a glance:** 45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with mint and lime; this page explains the order of pressing, dissolving, ice and bubbles.
+**At a glance:** 45 ml Cuban white rum, 20 ml fresh lime juice, six mint sprigs, two teaspoons of white cane sugar and soda water, built in the glass and garnished with mint and lime; this recipe explains the order of pressing, dissolving, ice and bubbles.

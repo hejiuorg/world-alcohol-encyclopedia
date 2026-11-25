@@ -133,7 +133,7 @@ Netherlands is best read by starting with the appellation and its permitted vari
 
 **Sources and limits.** The key claims about Netherlands are checked against the following sources: Heineken (the founding year and Amsterdam origin of Heineken; no original text is reproduced), Nederlandse Bierbrouwers (the Dutch beer industry and style overview; no original text is reproduced), Oxford University Press (Consulted for entries on pilsner, lager and Dutch beer; no original text is reproduced; Migrated from the former reference list at the end of the article; access date not re-verified) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Netherlands, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Netherlands, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: guide:beer-tasting-intro
 source_lang: zh
-source_revision: sha256:9fd1e223d6e51a067d220bed43ce61fd196ac7601f9d8c79d815e1b65eacfa8e
-source_sha256: 9fd1e223d6e51a067d220bed43ce61fd196ac7601f9d8c79d815e1b65eacfa8e
+source_revision: sha256:08df17ff67d3790476ee7de4361938de5c0625e2119e5389d50cc0265549c7ea
+source_sha256: 08df17ff67d3790476ee7de4361938de5c0625e2119e5389d50cc0265549c7ea
 translation_status: reviewed
 aliases:
   - Beer tasting basics
@@ -28,7 +28,7 @@ about_refs:
   - drink-style:lager
   - drink-style:ipa
   - term:ibu
-audience: readers who have just started drinking beer and want to move from thirst-quenching to tasting
+audience: if you want have just started drinking beer and want to move from thirst-quenching to tasting
 difficulty: beginner
 related:
   - relation: about
@@ -88,16 +88,23 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 # Beer Tasting for Beginners: Aroma, Body and Bitterness
 
 Beer is often treated as a thirst-quencher, but like wine and whisky it has raw materials, fermentation, aroma and structure. Tasting is not pretence; it is breaking a glass into comparable variables: aroma, appearance, sweetness, bitterness, body, carbonation and finish. Learn to describe first, then talk about liking and disliking.
 
-![Beer Tasting for Beginners: Aroma, Body and Bitterness thematic illustration](/media/photos/theme-beer.jpg)
+![Beer Tasting for Beginners: Aroma, Body and Bitterness thematic illustration](/media/figures/specific/guide-beer-tasting-intro.svg)
 
 Figure: thematic illustration for Beer Tasting for Beginners: Aroma, Body and Bitterness. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Starting from zero:** Beer's basic ingredients are water, malt, hops and yeast.
+> - **Main types and differences:** Lager is a broad family; pilsner is a common pale type, golden with moderate bitterness and a clean finish; pale lager is lighter and suited to everyday drinking; amber and dark lagers bring.
+> - **Choosing a first glass:** Start with a pilsner or pale lager: clean aroma, moderate bitterness, usually friendly prices, and an easy way to establish that beer can have layers.
 
 ## Starting from zero
 
@@ -165,3 +172,15 @@ Fourth, learn to read labels: style, alcohol content, bitterness, ingredients an
 **Short definition:** Understand beer through raw materials, fermentation and style, then learn how to choose a first glass, how to pour and drink it, what glassware and temperature do, what prices and buying involve, and which tasting myths to drop.
 
 For Beer Tasting for Beginners, begin with what it is, then where it comes from, and finish with how it is used; that order keeps the account grounded.
+
+## Quick comparison: five beer styles to start with
+
+| Style | Fermentation | Bitterness | Beginner fit |
+| --- | --- | --- | --- |
+| Lager / pilsner | Bottom-fermented | Low to medium | High; crisp and clean |
+| Wheat beer | Top-fermented | Low | High; banana and clove |
+| IPA | Top-fermented | Medium to high | Medium; start with low bitterness |
+| Stout | Top-fermented | Medium | Medium; coffee and chocolate |
+| Sour beer | Wild or lactic | Low | Try a small glass first |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.

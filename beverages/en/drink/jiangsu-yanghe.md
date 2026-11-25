@@ -119,7 +119,7 @@ Taste in a small cup: first check whether the aroma is clean, then sip and feel 
 
 Yanghe has Haitian, Tianzhi and Mengzhi Blue series with different positioning, price and body design. The producer, aroma type, strength, standard and volume on the label are the basics for identity. Counterfeits and similar names exist, so buy through official channels and check anti-counterfeit marks.
 
-For Yanghe, terms such as "vintage" and "aged" must be read with company standards and labels. Bottle ageing and jar ageing change at different rates, and home storage cannot easily reproduce distillery conditions, so purchase year is not the same as quality. Price movements are market behaviour, and this page gives no collecting or investment advice.
+For Yanghe, terms such as "vintage" and "aged" must be read with company standards and labels. Bottle ageing and jar ageing change at different rates, and home storage cannot easily reproduce distillery conditions, so purchase year is not the same as quality. Price movements are market behaviour, and this entry gives no collecting or investment advice.
 
 ## Drinking and pairing
 

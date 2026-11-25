@@ -84,9 +84,9 @@ verification_scope: source-verified
 
 英式艾尔是一个家族，不是一款酒。酒吧里日常的苦啤、颜色更浅的淡色艾尔、历史上的英式 IPA、深色的波特与世涛，都可以归在这个名字下。它们共享上层发酵、以麦芽为骨架、用酒花做平衡、追求适饮性而非极端强度这几条底线，却在颜色、苦味、酒精度与侍酒方式上各走各的路。
 
-![英式艾尔 类型示意图](/media/photos/theme-beer.jpg)
+![英式艾尔 类型示意图](/media/figures/specific/drink-style-english-ale.svg)
 
-图：英式艾尔 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是英式艾尔的实拍。
+图：英式艾尔 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 一个家族，而不是一个风格
 

@@ -150,7 +150,7 @@ To study Müller-Thurgau, read botanical and viticultural sources first, then ta
 Compare a dry Müller-Thurgau/Rivaner with a Riesling from the same region, then an off-dry Liebfraumilch blend. Fix vintage and sweetness so early ripening, lower acidity and blending are not mistaken for poor Riesling.
 
 - Related: [germany](ref:germany), [riesling](ref:riesling), [white-wine](ref:white), [fermentation](ref:fermentation), [terroir](ref:terroir).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **At a glance:** A German-bred white grape, a cross of Riesling and Madeleine Royale; early-ripening and high-yielding, with flowers, citrus and a light Muscat note, it is one of Germany’s most planted whites.
 

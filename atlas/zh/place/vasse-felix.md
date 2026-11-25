@@ -103,6 +103,15 @@ verification_scope: source-verified
 
 图：Vasse Felix：Vasse Felix Winery（Wikimedia Commons）。图片：Mark Pegrum，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vasse_Felix_Winery.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断法塞尔酒庄值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去法塞尔酒庄、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 酒庄的参观核心是 cellar door、餐厅、美术馆与 The Vault 葡萄酒博物馆。
+>   - 法塞尔位于西澳大利亚玛格丽特河产区北部的 Wilyabrup，距印度洋约四公里，距玛格丽特河镇约十五分钟车程。
+
 ## 1967 年：法塞尔酒庄的关键起点
 法塞尔位于西澳大利亚玛格丽特河产区北部的 Wilyabrup，距印度洋约四公里，距玛格丽特河镇约十五分钟车程。酒庄的正式地址在 Cowaramup 的 Bussell Highway，入口从 Caves Road 转入以创始人命名的 Tom Cullity Drive；葡萄园、发酵间、酒窖、餐厅与美术馆集中在同一片坡地上，参观动线很短，却足以看清一座酒庄从葡萄到餐桌的完整链条。
 

@@ -124,9 +124,9 @@ Fourth, it produced an industry body and a legal framework. In 1912 brand owners
 
 ## Sources and disputes
 
-First, the 1494 record is the 'earliest documentary record', not 'the earliest distilling'. Archaeology and local records may suggest earlier activity, but there is no verifiable written evidence; this page uses 1494 as the documentary starting point.
+First, the 1494 record is the 'earliest documentary record', not 'the earliest distilling'. Archaeology and local records may suggest earlier activity, but there is no verifiable written evidence; this essay uses 1494 as the documentary starting point.
 
-Second, the exact duty rates of the 1823 Act differ across sources. The association page gives the licence fee and the principle of duty per gallon, while the local history site gives the detail of 2 shillings 3 pence per gallon for stills of 40 gallons or more; the sources do not fully agree on units and scope, and this page cites both kinds of source.
+Second, the exact duty rates of the 1823 Act differ across sources. The association page gives the licence fee and the principle of duty per gallon, while the local history site gives the detail of 2 shillings 3 pence per gallon for stills of 40 gallons or more; the sources do not fully agree on units and scope, and this essay cites both kinds of source.
 
 Third, '1823 made illicit distilling disappear' is a summary. Smuggling fell sharply within a decade but did not vanish at once; legalisation was gradual and regionally uneven.
 

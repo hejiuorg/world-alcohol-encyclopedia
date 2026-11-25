@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: term:lees
 source_lang: zh
-source_revision: sha256:241f3329211003aa8ee47386c0b4bfd06a32b2e5382b4a8992c3acf67150e7f5
-source_sha256: 241f3329211003aa8ee47386c0b4bfd06a32b2e5382b4a8992c3acf67150e7f5
+source_revision: sha256:80be50884945c259ec2e7f0d49b655a71643bb04d3aca554276fa5776582d080
+source_sha256: 80be50884945c259ec2e7f0d49b655a71643bb04d3aca554276fa5776582d080
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -76,9 +76,18 @@ verification_scope: source-verified
 
 Lees are the solid matter that settles to the bottom of a vessel after [fermentation](ref:fermentation) ends. They consist mainly of spent yeast cells, along with grape pulp and skin residue, tartrates, proteins and a little other particulate matter. Lees are not a synonym for dirt, nor waste that must be removed at once; in winemaking they can add flavour and texture, and they can also cause faults.
 
-![Lees thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Lees thematic illustration](/media/figures/specific/term-lees.svg)
 
 Figure: thematic illustration for Lees. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This term explains Lees in one line: definition, boundary and usage.
+>
+> - **Best for:** Anyone who has met Lees and needs a precise definition, boundary and usage.
+> - **Not for:** If you want need the full legal text or legal/medical advice.
+> - **Check first:**
+>   - White wine is the most common setting, especially for styles seeking texture and complexity rather than pure fruit.
+>   - The first pair is lees and sediment.
 
 ## Definition and boundaries
 

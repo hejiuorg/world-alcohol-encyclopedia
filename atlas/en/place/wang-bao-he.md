@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:wang-bao-he
 source_lang: zh
-source_revision: sha256:2b7828c05ca9427b65e50c9f03267fa0a95207cc3177f6bd9653c0e6062ed36a
-source_sha256: 2b7828c05ca9427b65e50c9f03267fa0a95207cc3177f6bd9653c0e6062ed36a
+source_revision: sha256:a59df39a3fd8ec6259b7e70c22a9db778124bf31a80d08519e9f689c78fbe452
+source_sha256: a59df39a3fd8ec6259b7e70c22a9db778124bf31a80d08519e9f689c78fbe452
 translation_status: reviewed
 subtype: pub
 address: 603 Fuzhou Road, Huangpu District, Shanghai 200001, China
@@ -91,7 +91,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on Wang Bao He's official site, the Shanghai tourism authority and The Paper; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY-SA 4.0 and is credited in the caption. Opening hours, prices and crab-season arrangements are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY-SA 4.0 and is credited in the caption. Opening hours, prices and crab-season arrangements are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -102,6 +102,15 @@ The stretch of Fuzhou Road near Zhejiang Road is one of Shanghai's densest conce
 ![Street frontage of Wang Bao He on Fuzhou Road, Shanghai](/media/photos/place-wang-bao-he-f27cc79e.jpg)
 
 Figure: Wang Bao He on Fuzhou Road, Shanghai. Image: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wang_Bao_He_Restaurant_(20250610145416).jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Wang Bao He deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Wang Bao He who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The chronology runs on two tracks, Shaoxing and Shanghai.
+>   - First decide between a crab banquet and a la carte.
 
 ## Setting and history
 

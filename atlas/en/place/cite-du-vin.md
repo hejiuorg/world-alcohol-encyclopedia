@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:cite-du-vin
 source_lang: zh
-source_revision: sha256:e17f06c6b92229924f1f19b9564e7f52403c22689df9d83d51a5809b1e8f7fd8
-source_sha256: e17f06c6b92229924f1f19b9564e7f52403c22689df9d83d51a5809b1e8f7fd8
+source_revision: sha256:77d5fc3091dbe7db2579bf6c08136e016db6288807e8c5773fafd467bca78f2a
+source_sha256: 77d5fc3091dbe7db2579bf6c08136e016db6288807e8c5773fafd467bca78f2a
 translation_status: reviewed
 subtype: museum
 address: 134 Quai de Bacalan, 33300 Bordeaux, France
@@ -105,9 +105,22 @@ verification_scope: source-verified
 
 La Cité du Vin stands at 134 Quai de Bacalan on the left bank of the Garonne, in Bordeaux's Bassins à Flot district. It is not a winery and not a regional trade pavilion, but a civic museum of wine civilisation. It opened in 2016, designed by the Paris-based XTU architects Anouk Legendre and Nicolas Desmazieres. The official reading of the form combines a gnarled vine stock, wine swirling in a glass and the eddies of the Garonne; the facade is made of silk-screened glass and perforated aluminium that shifts with the light. That brief explains the visit: wine is presented through geography, history, craft, consumption and art, not as a wall of famous château labels.
 
+> **Visit information**
+> - Address: 134 Quai de Bacalan, 33300 Bordeaux, France.
+> - Opening and booking: check the [official page](https://www.laciteduvin.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![The twisting glass tower of the Cité du Vin](/media/photos/place-cite-du-vin-c31cf8f4.jpg)
 
 Figure: Looking up at the Cité du Vin in Bordeaux, its tower wrapped in reflective glass and metal panels. Image: olilynch, CC0 1.0, via [source page](https://www.flickr.com/photo.gne?id=37500642606).
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Setting and history:** The museum belongs to the redevelopment of the Bacalan quays, a former port and warehouse area turned into a mixed district of housing, culture and restaurants.
+> - **Space and displays:** The permanent exhibition covers about 3,000 m² and is divided into six universes and 18 modules, from antiquity to the present and across five continents.
+> - **Visiting and tasting:** Take a map on the ground floor and choose a route by interest rather than trying to walk all 18 modules in order.
 
 ## Setting and history
 

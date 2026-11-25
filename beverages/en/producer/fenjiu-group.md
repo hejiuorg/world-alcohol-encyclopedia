@@ -5,7 +5,7 @@ type: producer
 lang: en
 slug: fenjiu-group
 title: Shanxi Xinghuacun Fenjiu Group Co., Ltd.
-summary: A wholly state-owned company in Xinghuacun, Fenyang, Shanxi, restructured in March 2002. Its listed arm is Shanxi Xinghuacun Fenjiu Distillery Co., Ltd. (600809). This page separates group, listed company and brand.
+summary: A wholly state-owned company in Xinghuacun, Fenyang, Shanxi, restructured in March 2002. Its listed arm is Shanxi Xinghuacun Fenjiu Distillery Co., Ltd. (600809). This producer separates group, listed company and brand.
 status: reviewed
 revision: 2
 translation_of: producer:fenjiu-group
@@ -82,7 +82,7 @@ Figure: Shanxi Xinghuacun Fenjiu Group Co., Ltd.. Photograph: File:Vertreter der
 
 ## Company identity
 
-This page records producer identity: name, registered place, founding time, organisational form and public entry point. The group handles state-owned asset operation and industrial management, while the joint-stock company handles production, sales and disclosure. The names are similar, but the legal entities and financial scope differ, so group statements cannot be applied directly to the listed company's reports.
+This producer records producer identity: name, registered place, founding time, organisational form and public entry point. The group handles state-owned asset operation and industrial management, while the joint-stock company handles production, sales and disclosure. The names are similar, but the legal entities and financial scope differ, so group statements cannot be applied directly to the listed company's reports.
 
 In public material, "Fenjiu Group" usually means the parent group described here, while "Shanxi Xinghuacun Fenjiu Distillery Co., Ltd." is the listed entity. Figures on output, revenue and channels should follow the joint-stock company's periodic reports.
 
@@ -96,7 +96,7 @@ The joint-stock company's main business is Fenjiu, Zhuyeqing and series products
 
 Fenyang lies in central Shanxi with a temperate continental monsoon climate: distinct seasons and limited rainfall. The groundwater and loess environment around Xinghuacun suit separated jar fermentation. Within the wider map of [China](ref:china)'s baijiu regions, Fenyang is an important light-aroma node, contrasting with Sichuan strong aroma and Guizhou sauce aroma.
 
-The "light" in light aroma is both a process requirement and a flavour direction. Jar fermentation separates the mash from soil and reduces the influence of pit microbes, so the aroma is cleaner and fresher. Regional tradition and archaeological finds are often mentioned, but specific dates and interpretations of objects need archaeological reports; this page does not turn legend into dated fact.
+The "light" in light aroma is both a process requirement and a flavour direction. Jar fermentation separates the mash from soil and reduces the influence of pit microbes, so the aroma is cleaner and fresher. Regional tradition and archaeological finds are often mentioned, but specific dates and interpretations of objects need archaeological reports; this producer does not turn legend into dated fact.
 
 ## Raw materials and process position
 
@@ -112,11 +112,11 @@ Besides Fenjiu, the group also has liqueur products such as Zhuyeqing. Under the
 
 ## History
 
-The joint-stock company was restructured in December 1993 and listed in January 1994; the group was restructured in March 2002. Earlier workshop history mostly belongs to local gazetteers and corporate narrative, and specific years need archival support. This page keeps only checkable corporate milestones and does not assemble contradictory details from different sources into one "complete timeline".
+The joint-stock company was restructured in December 1993 and listed in January 1994; the group was restructured in March 2002. Earlier workshop history mostly belongs to local gazetteers and corporate narrative, and specific years need archival support. This producer keeps only checkable corporate milestones and does not assemble contradictory details from different sources into one "complete timeline".
 
 ## Limits of public information
 
-This page does not expand revenue, capacity, share price or market share. These need full context and change over time; taken out of the reporting year they mislead. Titles such as "time-honoured brand" or "famous liquor" should be checked against the issuing body and year rather than judged from packaging.
+This producer does not expand revenue, capacity, share price or market share. These need full context and change over time; taken out of the reporting year they mislead. Titles such as "time-honoured brand" or "famous liquor" should be checked against the issuing body and year rather than judged from packaging.
 
 ## Common misconceptions
 
@@ -132,13 +132,13 @@ Start with the range it makes. From there, consider the site and the owner, then
 
 [China](ref:china) explains company history; [Qu making](ref:qu-making) adds production assets. Put Shanxi Xinghuacun Fenjiu Group Co., Ltd. between them before deciding what it is.
 
-**Short definition:** A wholly state-owned company in Xinghuacun, Fenyang, Shanxi, restructured in March 2002. Its listed arm is Shanxi Xinghuacun Fenjiu Distillery Co., Ltd. (600809). This page separates group, listed company and brand.
+**Short definition:** A wholly state-owned company in Xinghuacun, Fenyang, Shanxi, restructured in March 2002. Its listed arm is Shanxi Xinghuacun Fenjiu Distillery Co., Ltd. (600809). This producer separates group, listed company and brand.
 
 **Key facts.**
 
 | Item | Detail |
 | --- | --- |
-| In one line | A wholly state-owned company in Xinghuacun, Fenyang, Shanxi, restructured in March 2002. Its listed arm is Shanxi Xinghuacun Fenjiu Distillery Co., Ltd. (600809). This page separates group, listed company and brand. |
+| In one line | A wholly state-owned company in Xinghuacun, Fenyang, Shanxi, restructured in March 2002. Its listed arm is Shanxi Xinghuacun Fenjiu Distillery Co., Ltd. (600809). This producer separates group, listed company and brand. |
 | Founded | 2002 |
 | Type | State-owned sole proprietorship |
 | Official site | fenjiu.com.cn |

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:moet-et-chandon
 source_lang: zh
-source_revision: sha256:3c2d8b6776cbd9b1b4f7d34db394cebc3c757ca2661fbb9a62e784a1c3707161
-source_sha256: 3c2d8b6776cbd9b1b4f7d34db394cebc3c757ca2661fbb9a62e784a1c3707161
+source_revision: sha256:28f6a732ee705fa559fba926eca4eb8e765978849f68effbd491500809e95650
+source_sha256: 28f6a732ee705fa559fba926eca4eb8e765978849f68effbd491500809e95650
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -110,6 +110,15 @@ Moët & Chandon occupies a site on the Avenue de Champagne in Épernay. This str
 ![Moët & Chandon image](/media/photos/place-moet-et-chandon-5f14a8b9.jpg)
 
 Figure: Moët & Chandon. Image: Andreas Levers from Potsdam, Germany, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mo%C3%ABt_et_Chandon.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Moët & Chandon deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Moët & Chandon who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Claude Moët founded the house in Épernay in 1743.
+>   - Visits are mainly by reservation, and the house recommends booking online in advance, especially at weekends and in high season.
 
 ## Place and history
 

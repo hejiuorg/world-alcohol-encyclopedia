@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: cocktail:margarita
 source_lang: zh
-source_revision: sha256:9aba3b981dae038baf4266cb0400d7163578cc31cba212aedc2b16c38968b1bb
-source_sha256: 9aba3b981dae038baf4266cb0400d7163578cc31cba212aedc2b16c38968b1bb
+source_revision: sha256:b020b6ac16063fabc7eebe3f0e1e16b92226950d3af93f92b901d68dd3cedee9
+source_sha256: b020b6ac16063fabc7eebe3f0e1e16b92226950d3af93f92b901d68dd3cedee9
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -64,7 +64,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -91,7 +91,7 @@ Figure: Margarita. Image: Akke Monasso, CC BY-SA 3.0, via Wikimedia Commons ([so
 
 ## Definition and identity
 
-The Margarita's origin has several accounts, involving different places, people and years. This page does not present one narrative as settled; it treats the drink as part of 20th-century drinking culture around Mexico and the US border. Name and recipe are separate things, and the same name with a different method should be explained.
+The Margarita's origin has several accounts, involving different places, people and years. This cocktail does not present one narrative as settled; it treats the drink as part of 20th-century drinking culture around Mexico and the US border. Name and recipe are separate things, and the same name with a different method should be explained.
 
 ## Recipe (IBA version)
 
@@ -157,7 +157,7 @@ For Margarita, a common mistake is treating a variation as the original recipe. 
 
 The Margarita's strength depends on the tequila and liqueur ratios and cannot be read from the recipe numbers alone. It suits pre-dinner or casual drinking; sip slowly and drink water, and do not drink quickly on an empty stomach. Do not drink when driving, taking medication or pregnant.
 
-This page records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. Strength is also affected by ice dilution; see [Alcohol by volume](ref:abv). Keep name, ratio and method separate so that preference is not mistaken for standard.
+This cocktail records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. Strength is also affected by ice dilution; see [Alcohol by volume](ref:abv). Keep name, ratio and method separate so that preference is not mistaken for standard.
 
 **Key facts.**
 

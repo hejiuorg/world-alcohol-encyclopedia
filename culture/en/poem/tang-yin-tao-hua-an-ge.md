@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: poem:tang-yin-tao-hua-an-ge
 source_lang: zh
-source_revision: sha256:feb26e2fc9d0dc7fea03edd0e3f71e86e2805856157338869115a4bfaac89f4d
-source_sha256: feb26e2fc9d0dc7fea03edd0e3f71e86e2805856157338869115a4bfaac89f4d
+source_revision: sha256:4f54cb77cb8df739abd53a395e4543bb4e07040127bc37d69ea4c6a89486b018
+source_sha256: 4f54cb77cb8df739abd53a395e4543bb4e07040127bc37d69ea4c6a89486b018
 translation_status: reviewed
 author_name: Tang Yin
 source_title: Collected Works of Tang Yin
@@ -75,7 +75,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against a public poem text, a museum publication and a dynastic history; the quoted poem is in the public domain. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry.
 verification_scope: source-verified
 ---
 
@@ -86,6 +86,15 @@ The poem opens like a fairy tale: in the Peach Blossom Dell there is a Peach Blo
 ![Song of the Peach Blossom Hut: Tang Yin Pays for Wine with Peach Blossoms thematic illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: thematic illustration for Song of the Peach Blossom Hut: Tang Yin Pays for Wine with Peach Blossoms. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This poem entry explains why Song of the Peach Blossom Hut: Tang Yin Pays for Wine with Peach Blossoms matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants Song of the Peach Blossom Hut: Tang Yin Pays for Wine with Peach Blossoms in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - “And picks peach blossoms to trade for wine money” is the most concrete line in the whole poem.
+>   - The next four lines write a cycle: when sober he only sits before the flowers; when drunk he comes back to sleep beneath them; half drunk, half awake, day after day; flowers fall.
 
 ## The Peach Blossom Dell and the Peach Blossom Hut
 
@@ -106,7 +115,7 @@ The Peach Blossom Dell lay north of Suzhou, and Tang Yin built the Peach Blossom
 > Others laugh at me for being too crazy; I laugh at them for not seeing through.
 > Do you not see the tombs of the great at Wuling: no flowers, no wine, hoed into fields.
 
-This page follows one received text, the one given in the Palace Museum publication. The poem has many variants, set out below under Textual variants. The Peach Blossom Dell is a place name in Suzhou; the Peach Blossom Hut is the property Tang Yin built; the peach blossom immortal is the poet's name for himself; trading for wine money means the wine had to be paid for with the proceeds of the blossoms; before carriages and horses means before the carriages of the powerful; dust of carriages and hooves stands for the bustle of the rich; a wine cup and flowering branches stand for the daily life of the poor; Wuling first meant the five imperial tombs of the Han and later stood for the quarters of the nobility.
+This poem entry follows one received text, the one given in the Palace Museum publication. The poem has many variants, set out below under Textual variants. The Peach Blossom Dell is a place name in Suzhou; the Peach Blossom Hut is the property Tang Yin built; the peach blossom immortal is the poet's name for himself; trading for wine money means the wine had to be paid for with the proceeds of the blossoms; before carriages and horses means before the carriages of the powerful; dust of carriages and hooves stands for the bustle of the rich; a wine cup and flowering branches stand for the daily life of the poor; Wuling first meant the five imperial tombs of the Han and later stood for the quarters of the nobility.
 
 ## Peach blossoms for wine: livelihood and drink in the poem
 
@@ -142,7 +151,7 @@ The ending does not say that poverty is certainly happy; it says that wealth can
 
 ## Textual variants
 
-The Song of the Peach Blossom Hut is one of the Tang Yin poems with the greatest variation in its transmission, and different anthologies differ in wording and even in the order of lines. Common differences include: picks peach blossoms to trade for wine money appears in some texts as breaks a flowering branch to pay for wine; when drunk he comes back to sleep beneath them appears as when drunk he must sleep beneath them; half drunk, half awake, day after day; flowers fall, flowers open, year after year appears as half awake, half drunk, day after day, or as before and after the flowers, day after day; wine and waking, year after year; dust of carriages and hooves is the pleasure of the rich appears with the noble for the rich; others laugh at me for being too crazy varies between too and exceedingly. These differences are not only in individual characters; they change the rhythm and tone of the lines. A quotation should therefore state the text it follows and should not splice lines from different versions. This page follows the text in the Palace Museum publication and checks famous lines against Gushiwen.
+The Song of the Peach Blossom Hut is one of the Tang Yin poems with the greatest variation in its transmission, and different anthologies differ in wording and even in the order of lines. Common differences include: picks peach blossoms to trade for wine money appears in some texts as breaks a flowering branch to pay for wine; when drunk he comes back to sleep beneath them appears as when drunk he must sleep beneath them; half drunk, half awake, day after day; flowers fall, flowers open, year after year appears as half awake, half drunk, day after day, or as before and after the flowers, day after day; wine and waking, year after year; dust of carriages and hooves is the pleasure of the rich appears with the noble for the rich; others laugh at me for being too crazy varies between too and exceedingly. These differences are not only in individual characters; they change the rhythm and tone of the lines. A quotation should therefore state the text it follows and should not splice lines from different versions. This poem entry follows the text in the Palace Museum publication and checks famous lines against Gushiwen.
 
 ## Common misreadings
 
@@ -158,7 +167,7 @@ Fifth, mixing lines from different versions in a quotation. The poem has many va
 
 ## Further reading
 
-- [Tang Yin](ref:tang-yin): this page touches on his life, the examination scandal and the Peach Blossom Hut; the person page gives a fuller account.
+- [Tang Yin](ref:tang-yin): this poem entry touches on his life, the examination scandal and the Peach Blossom Hut; the person page gives a fuller account.
 - [Yellow Wine](ref:yellow-wine): the craft lineage of Ming grain wine, the background of the wine money here.
 - [Wine and Poetry](ref:wine-and-poetry): several basic uses of the wine image in Chinese poetry.
 

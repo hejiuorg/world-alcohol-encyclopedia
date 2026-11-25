@@ -121,7 +121,7 @@ In the 1960s Italian labelling rules began to tighten, defining Barolo's zone, m
 
 Giovanni died in 2004, and Roberto Conterno took over. Roberto had worked with his father since 1988 and later acquired Cerretta (2008) and Arione (2015), expanding the estate's own vineyards. He kept the traditional skeleton but became more precise in vineyard management, fermentation control and hygiene. The Barolo, Barbera and Langhe Nebbiolo remain dominated by long maceration and large casks, and Monfortino is made only in selected years.
 
-On Giacomo's own death, secondary sources give both 1961 and 1971; this page therefore avoids a specific year and says only that the sons formally took over in 1961 and the brothers split in 1969. Such biographical details are often skipped in estate histories, yet they matter for understanding who did what and when.
+On Giacomo's own death, secondary sources give both 1961 and 1971; this profile therefore avoids a specific year and says only that the sons formally took over in 1961 and the brothers split in 1969. Such biographical details are often skipped in estate histories, yet they matter for understanding who did what and when.
 
 ## Assessment and controversy
 

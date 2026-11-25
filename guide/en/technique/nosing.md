@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:nosing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7bb427e59e43527eed0cf2cbfa5a4685ed990fe8a1454d8a297fff3884950405
-source_sha256: 7bb427e59e43527eed0cf2cbfa5a4685ed990fe8a1454d8a297fff3884950405
+source_revision: sha256:cd524167b099eb8709815fee1a64eabe1b01b073bfefc33bb2ffa2ae498cbe7c
+source_sha256: cd524167b099eb8709815fee1a64eabe1b01b073bfefc33bb2ffa2ae498cbe7c
 applies_to_refs:
   - drink-style:wine
   - drink-style:whisky
@@ -96,14 +96,14 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 # Nosing
 
 Nosing is the technique of judging condition, aroma layers and intensity before the first sip. It gives more information than colour and is safer than tasting: a small amount of volatile aroma is enough to form a judgement without swallowing any liquid. The point of nosing is not to smell for as long as possible, but to work in a sequence, record what you find and be able to repeat it.
 
-![Nosing thematic illustration](/media/photos/theme-beer.jpg)
+![Nosing thematic illustration](/media/figures/specific/technique-nosing.svg)
 
 Figure: thematic illustration for Nosing. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

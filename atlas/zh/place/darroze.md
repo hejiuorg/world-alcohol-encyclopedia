@@ -105,6 +105,15 @@ Roquefort 是 Landes 省东部的一个小镇，主路两旁是矮房、面包�
 
 图：Roquefort 镇中心街景；达罗兹的酒窖与接待处位于镇上的 277 Avenue de l’Armagnac。图片：Jibi44，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Roquefort_(Landes)_vue_rue.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断达罗兹雅文邑值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去达罗兹雅文邑、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 达罗兹的常规参观分三段：先看一段家族与雅文邑历史的幻灯，再走进酒窖看桶，最后在品鉴室试一组酒。
+>   - Roquefort 在 Landes 的东端，往西是 Mont-de-Marsan，往东是 Nérac 与 Lot-et-Garonne。
+
 ## 1974 年：达罗兹雅文邑的关键起点
 达罗兹的故事从一家餐厅开始。Jean Darroze 在 Villeneuve-de-Marsan 经营餐厅，儿子 Francis 在 1960 年代末开始替客人寻找雅文邑。他很快意识到，雅文邑可以像葡萄酒一样，按庄园、按年份、按批次来做，而不必把所有酒混成一个大品牌。1974 年，官方把这一年写作 Maison Darroze 的创立年；1982 年，Francis 在 Saint-Aubin 开出第一间酒窖；1985 年买下 Roquefort 的旧酒窖；1994 年，儿子 Marc 加入；2002 年，Roquefort 的接待与参观空间完成；2011 年，Labastide-d’Armagnac 的酒窖启用。
 

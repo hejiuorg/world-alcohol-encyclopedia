@@ -125,7 +125,7 @@ Fifth, the discussion of [terroir](ref:terroir) became more complicated. Graftin
 
 ## Disputes and sources
 
-First, the arrival date varies. French official archives and some overviews give 1865, while INRAE's public material dates the first French discovery to 1863 at Roquemaure. The two reflect different ideas of "confirmation" and "emblematic year"; this page uses "around 1863" and notes 1865 as a common alternative rather than making either year an absolute starting point.
+First, the arrival date varies. French official archives and some overviews give 1865, while INRAE's public material dates the first French discovery to 1863 at Roquemaure. The two reflect different ideas of "confirmation" and "emblematic year"; this essay uses "around 1863" and notes 1865 as a common alternative rather than making either year an absolute starting point.
 
 Second, losses are hard to quantify. Uprooting, yield decline and replanting times differed greatly by region, and the percentages often quoted come from particular areas or years rather than national totals. Third, the response was never single. Grafting, hybrids, chemicals, flooding and crop change ran in parallel, and success depended on soil, climate, capital and markets. Reducing the history to "grafting saved Europe" hides the failures and costs of adoption.
 

@@ -103,9 +103,9 @@ verification_scope: source-verified
 
 里奥哈的标签上，除了酒庄与年份，还有一行时间信息：Crianza、Reserva 或 Gran Reserva。这不是营销等级，而是产区法规对“总陈年时间”和“橡木桶中时间”的最低要求。理解这套时间表，比记住“西班牙红酒配火腿”更有用——因为不同陈年等级的里奥哈，适合的菜完全不同。
 
-![西班牙菜配里奥哈：火腿、烤羊与橡木香 类型示意图](/media/photos/theme-ingredients.jpg)
+![西班牙菜配里奥哈：火腿、烤羊与橡木香 类型示意图](/media/figures/specific/pairing-spanish-rioja.svg)
 
-图：西班牙菜配里奥哈：火腿、烤羊与橡木香 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是西班牙菜配里奥哈：火腿、烤羊与橡木香的实拍。
+图：西班牙菜配里奥哈：火腿、烤羊与橡木香 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 地理：三条带与两种气候
 

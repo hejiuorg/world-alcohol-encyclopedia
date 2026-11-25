@@ -73,7 +73,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against Mexico's denomination-of-origin declaration, the Chihuahua state government, the SICE list and industry material; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Sotol
@@ -128,6 +128,6 @@ For Sotol, begin with the production rule. Then look at the strength, and finall
 
 **Sources and limits.** The key claims about Sotol are checked against the following sources: Instituto Mexicano de la Propiedad Industrial / WIPO Lex (the application, covered states and legal basis of the sotol denomination of origin), Gobierno del Estado de Chihuahua (the Chihuahua certification body and industry management), Organización de los Estados Americanos — SICE (sotol's place on Mexico's official list of protected denominations of origin) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Sotol next to Mezcal, Tequila, Agave: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Sotol next to Mezcal, Tequila, Agave: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
-For Sotol, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Sotol, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

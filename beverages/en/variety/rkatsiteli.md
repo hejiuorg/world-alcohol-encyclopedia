@@ -145,7 +145,7 @@ To study Rkatsiteli, read botanical and viticultural sources first, then taste t
 Compare a dry Rkatsiteli and an amber qvevri version from the same vintage before adding other varieties. Then place the dry wine beside Mtsvane or Chardonnay, and the amber wine beside a light red. Keeping grape, vintage and alcohol fixed makes the role of skin contact and vessel clear.
 
 - Related: [white-wine](ref:white), [terroir](ref:terroir), [fermentation](ref:fermentation), [chardonnay](ref:chardonnay), [oak-ageing](ref:oak).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **In brief:** One of Georgia’s oldest white grapes, high in acidity with green apple, white flowers and spice; it makes crisp dry whites and amber wines through qvevri skin contact, and is central to Georgia’s clay-vessel tradition.
 

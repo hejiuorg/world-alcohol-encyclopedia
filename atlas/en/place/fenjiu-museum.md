@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fenjiu-museum
 source_lang: zh
-source_revision: sha256:e7b917fb8013e2a896684d8c48c96800dff17858b13a39112a89096732163fe9
-source_sha256: e7b917fb8013e2a896684d8c48c96800dff17858b13a39112a89096732163fe9
+source_revision: sha256:f2468014884b01db38980757c65bd78d86ac66bcb0aa7dc8e5234efcd03f864e
+source_sha256: f2468014884b01db38980757c65bd78d86ac66bcb0aa7dc8e5234efcd03f864e
 translation_status: reviewed
 subtype: museum
 address: Xinghuacun, Fenyang, Lüliang, Shanxi 032205, China
@@ -90,7 +90,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on Fenjiu Group's official site, the National Cultural Heritage Administration annual report and Shanxi News; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is Public Domain and is credited in the caption. Opening hours, tickets and reservations are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is Public Domain and is credited in the caption. Opening hours, tickets and reservations are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -98,9 +98,24 @@ verification_scope: source-verified
 
 From Fenyang, drive 15 kilometres north to Xinghuacun, where the Fenjiu Group complex and the "shepherd boy points to Xinghuacun" sign sit by the road. The Fenjiu Museum is inside the complex, in a Ming-Qing-style timber building with red columns, painted beams and grey tiles, its plaque reading "Fenjiu Museum". It is a specialist liquor-culture museum and the core of the group's wine-tourism route: on one side a 6000-year brewing narrative, on the other historical drinking vessels, paintings and the production of light-aroma baijiu.
 
+> **Visit information**
+> - Address: Xinghuacun, Fenyang, Lüliang, Shanxi 032205, China.
+> - Opening and booking: check the [official page](https://www.fenjiu.com.cn/OnlineTour/2023-01-06/296.html) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-20.
+
 ![1915 Panama-Pacific exposition gold medal in the Fenjiu Museum collection](/media/photos/place-fenjiu-museum-efad0f85.png)
 
 Figure: The 1915 Panama-Pacific exposition gold medal held by the Fenjiu Museum. Image: Fenjiu Group Cultural Centre, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E8%A5%BF%E6%B1%BE%E9%85%92%E8%8D%A3%E8%8E%B71915%E5%B9%B4%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E7%9A%84%E2%80%9C%E4%B8%80%E7%AD%89%E9%87%91%E8%B4%A8%E5%A4%A7%E5%A5%96%E7%AB%A0%E2%80%9D_%E6%B1%BE%E9%85%92%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F.png)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Fenjiu Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Fenjiu Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The museum's roots go back to a Fenjiu culture exhibition in 1984.
+>   - First, do not treat "6000 years" as "the museum is 6000 years old".
 
 ## Setting and history
 
@@ -110,7 +125,7 @@ The museum presents itself as one of the earliest and richest specialist liquor 
 
 Fenjiu's historical narrative is long. The Xinghuacun site has produced late Neolithic small-mouthed pointed-bottom jars and other brewing, storage and drinking vessels; official and archaeological material therefore says brewing began in Xinghuacun 6000 years ago, and the group uses "6000 years" as its cultural spine. That number describes the brewing tradition, not the age of the museum; the museum displays objects, documents and techniques along that long line, not 6000 years compressed into one exhibit.
 
-The modern key date is the 1915 Panama-Pacific International Exposition. Fenjiu won an award there, described in different sources as a "first-class gold medal" or "grand prize"; the museum holds a medal (the image on this page) and reconstructs the award scene. Treat it as a symbol of Fenjiu entering the modern international market, not as the only proof of its history. More reliable is the brand-building, industrialisation and standard-setting that followed 1915.
+The modern key date is the 1915 Panama-Pacific International Exposition. Fenjiu won an award there, described in different sources as a "first-class gold medal" or "grand prize"; the museum holds a medal (the image on this entry) and reconstructs the award scene. Treat it as a symbol of Fenjiu entering the modern international market, not as the only proof of its history. More reliable is the brand-building, industrialisation and standard-setting that followed 1915.
 
 ## The site and what to see
 

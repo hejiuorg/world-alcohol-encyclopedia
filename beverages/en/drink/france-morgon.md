@@ -167,7 +167,7 @@ Read [Red wine](ref:red-wine) for the style side of Morgon, and [Beaujolais](ref
 ## Further reading
 
 - [Red wine](ref:red-wine): the wider category to which Morgon belongs.
-- [Gamay](ref:gamay): the only grape variety on this page.
+- [Gamay](ref:gamay): the only grape variety on this entry.
 - [France](ref:france): French wine law and appellations.
 - [Beaujolais](ref:beaujolais): the region and its ten-cru framework.
 - [Grape](ref:grape): the basic structure of wine grapes and ripeness measures.

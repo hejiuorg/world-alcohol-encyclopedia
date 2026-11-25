@@ -103,8 +103,8 @@ stop_ids:
     note: End at Laphroaig, see the floor maltings and shore warehouses, and separate peat, sea and medicinal notes.
 mode: walk-bus
 updated_at: 2026-11-08
-source_sha256: c86d32db4fdcdacc83c9d6ecacb2e2c10b5d56d9497f7b00c0c923d2bf285c9a
-source_revision: sha256:c86d32db4fdcdacc83c9d6ecacb2e2c10b5d56d9497f7b00c0c923d2bf285c9a
+source_sha256: 8791493ad228b6278f134cafa2de7480830e91f6bb4e5c5090181d22c3a0181c
+source_revision: sha256:8791493ad228b6278f134cafa2de7480830e91f6bb4e5c5090181d22c3a0181c
 ---
 
 # Islay: three peat distilleries on the south coast
@@ -114,6 +114,40 @@ There is a plain route on the south coast of Islay: start at Port Ellen, head ea
 !["Islay: three peat distilleries on the south coast" category image](/media/photos/place-laphroaig-distillery-6c3ea2c6.jpg)
 
 Figure: "Islay: three peat distilleries on the south coast". Photograph: File:Laphroaig Distillery - panoramio (4).jpg. Credit: Bjarne Henning Kvaal, CC BY-SA 3.0 ([source page](https://commons.wikimedia.org/wiki/File:Laphroaig_Distillery_-_panoramio_(4).jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Islay: three peat distilleries on the south coast, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Islay: three peat distilleries on the south coast into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Lagavulin, Port Ellen, Isle of Islay PA42 7DZ, founded in 1816 by John Johnston, on a site with earlier illicit distillation.
+>   - Islay whisky is often reduced to “peat”.
+
+> **Topic guide: Islay peat whisky**
+> - [Islay whisky trail](https://atlas.hejiu.org/en/routes/islay-whisky-trail/)
+> - [Islay](https://beverages.hejiu.org/en/regions/islay/)
+> - [Ardbeg distillery](https://atlas.hejiu.org/en/places/ardbeg-distillery/)
+> - [Laphroaig distillery](https://atlas.hejiu.org/en/places/laphroaig-distillery/)
+> - [Bruichladdich distillery](https://atlas.hejiu.org/en/places/bruichladdich-distillery/)
+> - [Whisky intro](https://hejiu.org/en/guides/whisky-intro/)
+> - [Scotch whisky](https://beverages.hejiu.org/en/styles/scotch-whisky/)
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Route overview:** Stop one: Lagavulin, Port Ellen, Isle of Islay PA42 7DZ, founded in 1816 by John Johnston, on a site with earlier illicit distillation.
+> - **Why this route:** Islay whisky is often reduced to “peat”.
+> - **Stop one: Lagavulin:** Why go: it puts heavy peat and slow distillation under one roof.
+
+> **Topic guide: Islay peat whisky**
+> - [Islay whisky trail](https://atlas.hejiu.org/en/routes/islay-whisky-trail/)
+> - [Islay](https://beverages.hejiu.org/en/regions/islay/)
+> - [Ardbeg distillery](https://atlas.hejiu.org/en/places/ardbeg-distillery/)
+> - [Laphroaig distillery](https://atlas.hejiu.org/en/places/laphroaig-distillery/)
+> - [Bruichladdich distillery](https://atlas.hejiu.org/en/places/bruichladdich-distillery/)
+> - [Whisky intro](https://hejiu.org/en/guides/whisky-intro/)
+> - [Scotch whisky](https://beverages.hejiu.org/en/styles/scotch-whisky/)
 
 ## Route overview
 
@@ -175,7 +209,7 @@ First, a distillery is a production site, not a bar. Do not enter production are
 
 Fourth, read the dates and ownership correctly. Lagavulin's 1816 is the legal foundation, not the start of distillation in the area; Ardbeg's 1815 is the founding year, while 1981, 1989, 1997 and 2005 are closure, reopening and changes of ownership; Laphroaig's 1815 is the founding year, and its floor maltings cover only part of the malt. Fifth, do not rank whisky by peat ppm: ppm describes the phenol content of malt, not the taste in your glass.
 
-For Islay: three peat distilleries on the south coast, this page does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
+For Islay: three peat distilleries on the south coast, this route does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 ## Alternatives and extensions
 
@@ -188,6 +222,6 @@ Westwards the route reaches Port Charlotte and Bruichladdich; northwards, Bowmor
 - [Lagavulin](ref:lagavulin): slow distillation, shore warehouses and the 16-year-old.
 - [Ardbeg](ref:ardbeg): heavy peat, the purifier and Uigeadail.
 - [Laphroaig](ref:laphroaig): floor maltings, shore warehouses and the medicinal note.
-- For background, consult the Islay region, Scotch whisky and place-and-process entries in the content repository; this page does not register further references.
+- For background, consult the Islay region, Scotch whisky and place-and-process entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.

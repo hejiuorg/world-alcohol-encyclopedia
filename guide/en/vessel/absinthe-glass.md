@@ -157,4 +157,4 @@ Start with the material and size. From there, consider the intended use, then ho
 
 **Sources and limits.** The key claims about Absinthe Glass are checked against the following sources: Oxford University Press (Used to check absinthe and dilution ritual history), Encyclopaedia Britannica (Used to check absinthe production and cultural background), Corning Museum of Glass (Used to check glass forms and craft background) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Absinthe Glass, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Absinthe Glass, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

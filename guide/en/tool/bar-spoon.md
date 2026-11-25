@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:bar-spoon
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e0800492c6ba20a00b86a5ed59c3cbc0b0e4df537cd434f7b2ad49a2d3e05ed4
-source_sha256: e0800492c6ba20a00b86a5ed59c3cbc0b0e4df537cd434f7b2ad49a2d3e05ed4
+source_revision: sha256:379a53278c73365b478f6aba40ab6d1a6b3139131ec843a6e563aacefd24c965
+source_sha256: 379a53278c73365b478f6aba40ab6d1a6b3139131ec843a6e563aacefd24c965
 materials:
   - stainless steel
 purpose: Stir cocktails, guide pours and measure small volumes
@@ -41,7 +41,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the methods for stirred and shaken cocktails; no source text is reproduced.
     accessed: 2026-11-04

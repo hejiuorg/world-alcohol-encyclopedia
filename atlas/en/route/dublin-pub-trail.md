@@ -137,7 +137,7 @@ Start around midday: lunch at the Brazen Head, walk at about two, enter the Stor
 
 A pint is a substantial measure, so leave half an hour between stops for walking and water. Nitrogenated stout goes down easily on an empty stomach, so eat first. After more than two pints, take the Luas or a taxi rather than driving; central parking is expensive and scarce. Walk home on main streets and in company at night. Families should note that the pub is loud during music sessions.
 
-This page covers route structure and verifiable facts only, with no live opening status, prices or train times; check the venues' official channels. Page verified on 2026-11-08.
+This route covers route structure and verifiable facts only, with no live opening status, prices or train times; check the venues' official channels. Page verified on 2026-11-08.
 
 Further reading: [Stout](ref:c-extra-1).
 

@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:creme-de-cassis
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e1291fd39d1473fdc215ca1cd3abe48181e7276624e39835c8d88484983dadc4
-source_sha256: e1291fd39d1473fdc215ca1cd3abe48181e7276624e39835c8d88484983dadc4
+source_revision: sha256:036ded76acb42682991ba2a9f18cb16bd53dcbf90d4842d1ae3bfa3285f3c628
+source_sha256: 036ded76acb42682991ba2a9f18cb16bd53dcbf90d4842d1ae3bfa3285f3c628
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: black fruit and violet
@@ -74,7 +74,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-written; verified against EU regulation, a French trade federation and producer material, with no source text reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are not covered; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered; sources are cited for verification only. No third-party images are used on this style.
 verification_scope: source-verified
 ---
 
@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 Crème de cassis is a deep purple liqueur made by steeping blackcurrants in neutral spirit and then sweetening the infusion. In French liqueur naming, crème does not mean cream; it marks a sweeter, thicker grade. The drink therefore contains no dairy, yet it often feels heavier than an ordinary fruit [liqueur](ref:liqueur). Its most famous use is with white wine or sparkling wine in Kir and Kir Royale, but it also works over ice or spooned onto dessert.
 
-![Crème de Cassis thematic illustration](/media/photos/theme-beer.jpg)
+![Crème de Cassis thematic illustration](/media/figures/specific/drink-style-creme-de-cassis.svg)
 
 Figure: thematic illustration for Crème de Cassis. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

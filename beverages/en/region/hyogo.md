@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:hyogo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5584d451f6ca4f988d97a97057e390292dc1ae89cf420d802ecd93d12d22b5b7
-source_sha256: 5584d451f6ca4f988d97a97057e390292dc1ae89cf420d802ecd93d12d22b5b7
+source_revision: sha256:d0feb18eb5e3b5b09ba4e496689e99854372f7e9a33182c64ee601df1487652e
+source_sha256: d0feb18eb5e3b5b09ba4e496689e99854372f7e9a33182c64ee601df1487652e
 level: province
 parent_id: region:japan
 country_code: JP
@@ -102,6 +102,15 @@ Hyogo's sake reputation is often reduced to two words: Nada and miyamizu. That i
 ![Hyogo Prefecture image](/media/photos/region-hyogo-b092f465.jpg)
 
 Figure: Hyogo Prefecture. Image: Laitr Keiows, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Night_view_of_Rokk%C5%8D_Island_and_Higashinada-ku,_Kobe,_Japan.jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Hyogo Prefecture for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Hyogo Prefecture with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Hyogo lies in Japan's Kansai region, with the Sea of Japan to the north and the Seto Inland Sea to the south; Kobe is the prefectural capital.
+>   - In winter, seasonal winds from the west descend the Rokko slopes as the so-called rokko-oroshi, bringing cold conditions suited to low-temperature fermentation.
 
 ## Geography: between the Rokko mountains and the Seto Inland Sea
 

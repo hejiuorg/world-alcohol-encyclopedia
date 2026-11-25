@@ -108,7 +108,7 @@ The raw material is [grape](ref:grape), of the [Gewürztraminer](ref:gewurztrami
 
 Dry Alsace Gewürztraminer usually completes [fermentation](ref:fermentation) in temperature-controlled vessels to preserve aroma and control alcohol; some estates use old oak for texture. Late-harvest and botrytised selections depend on higher ripeness at picking and noble rot, and where fermentation stops sets the final sweetness.
 
-Gewürztraminer is naturally low in acidity, and a hot fermentation or over-extraction makes the wine loose and hot. Specific parameters are estate information, and this page gives no universal figures; the estate's own material and the label govern.
+Gewürztraminer is naturally low in acidity, and a hot fermentation or over-extraction makes the wine loose and hot. Specific parameters are estate information, and this entry gives no universal figures; the estate's own material and the label govern.
 
 ## Specification and label
 

@@ -122,6 +122,15 @@ verification_scope: source-verified
 
 图：木桐古堡。图片：Jack ma，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jardin_de_Ch%C3%A2teau_de_Mouton-Rothschild,_Pauillac._2012.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断木桐古堡适不适合你，以及怎么喝、怎么搭。
+>
+> - **适合谁：** 想弄懂木桐古堡是什么、怎么喝、适合什么场景的人。
+> - **不适合谁：** 只找最低价购买链接、不关心风味和使用场景的人。
+> - **先看这两点：**
+>   - Wine-Searcher 在 2026 年 11 月页面上给出的正牌平均零售价约为 US$794/750 mL。
+>   - 1853 年，纳塔涅·德·罗思柴尔德男爵为了在自家餐桌上招待贵客，在拍卖会上买下 Brane-Mouton。
+
 ## 1853 年拍卖会上的 Brane-Mouton
 
 1853 年，纳塔涅·德·罗思柴尔德男爵为了在自家餐桌上招待贵客，在拍卖会上买下 Brane-Mouton。庄园此前因 Joseph de Brane 而得名，交易之后改称 Château Mouton Rothschild。这次购买属于罗思柴尔德家族在波尔多扩张的一部分，也解释了为什么木桐与拉菲、拉图同处波亚克却分属不同家族支系。

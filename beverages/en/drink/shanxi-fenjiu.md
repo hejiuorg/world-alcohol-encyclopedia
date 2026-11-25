@@ -150,7 +150,7 @@ Begin with the base and the stated strength, move on to the sweetness or bittern
 
 **Sources and limits.** The key claims about Fenjiu are checked against the following sources: Industry body (origin, ingredients and product information; light-aroma baijiu, clean-steam second-clear and earthen-jar fermentation terms), Oxford University Press (Consulted for entries on Chinese baijiu and light aroma). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Fenjiu next to Baijiu, Qu making, Distillation: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Fenjiu next to Baijiu, Qu making, Distillation: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

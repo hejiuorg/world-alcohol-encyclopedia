@@ -11,11 +11,11 @@ revision: 2
 translation_of: guide:whisky-intro
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:69e913bc6ad5ac8042618d81642c7bd8779802b6743cbdcf97137f99ef92c3ef
-source_sha256: 69e913bc6ad5ac8042618d81642c7bd8779802b6743cbdcf97137f99ef92c3ef
+source_revision: sha256:d34f587fe0a45968447f8c98b58df0bab7ff221c29c6fa0e71fd903ea0f27667
+source_sha256: d34f587fe0a45968447f8c98b58df0bab7ff221c29c6fa0e71fd903ea0f27667
 about_refs:
   - drink-style:whisky
-audience: Readers who want to start drinking whisky but are put off by regions and age statements.
+audience: If you want want to start drinking whisky but are put off by regions and age statements.
 difficulty: beginner
 legacy_refs: []
 aliases:
@@ -81,14 +81,21 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against an industry association, legislation and reference works, and no promotional copy is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 # Whisky for beginners
 
-The difficulty of starting with whisky is not that it is hard to drink, but that there are too many words: single malt, blended, age, region, cask. Understand the levels behind those words, then filter by occasion and flavour preference, and the first bottle is not hard to choose.![Whisky for beginners thematic illustration](/media/photos/theme-wine-spirits.jpg)
+The difficulty of starting with whisky is not that it is hard to drink, but that there are too many words: single malt, blended, age, region, cask. Understand the levels behind those words, then filter by occasion and flavour preference, and the first bottle is not hard to choose.![Whisky for beginners thematic illustration](/media/figures/specific/guide-whisky-intro.svg)
 
 Figure: thematic illustration for Whisky for beginners. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Start with the categories:** Whisky is a spirit made from grain through mashing, fermentation, distillation and maturation in oak.
+> - **Regions are clues only:** Scotland is a major whisky origin, with commonly cited areas including Speyside, Highland, Lowland, Islay and Campbeltown.
+> - **Age and strength:** An age statement such as 12 or 18 years means the youngest whisky in the bottle is at least that old; it is not an average age, nor extra maturation after blending.
 
 ## Start with the categories
 
@@ -160,14 +167,26 @@ The guide separates single malt from blended Scotch and explains that age is the
 | Item | Detail |
 | --- | --- |
 | In one line | A beginner's route into whisky, starting with single malt versus blended Scotch, a decision table for a first bottle, and notes on age, strength, serving and common myths. |
-| Audience | Readers who want to start drinking whisky but are put off by regions and age statements. |
+| Audience | If you want want to start drinking whisky but are put off by regions and age statements. |
 | Level | beginner |
 
 **Sources and limits.** The key claims about Whisky for beginners are checked against the following sources: Scotch Whisky Association (Scotch whisky categories, regions and legal requirements), UK Government (the rules for single malt, blended whisky and age statements), William Grant & Sons (the Glenfiddich distillery and its Speyside origin) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Whisky for beginners, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Whisky for beginners, this guide was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
-## Further reading
+## Quick comparison: five whisky families
+
+| Type | Main grain | Typical flavour | Where to start |
+| --- | --- | --- | --- |
+| Scotch single malt | Malted barley | Malt, peat, fruit | Begin with low peat |
+| Irish whisky | Barley | Soft, grainy sweetness | Good if you dislike harshness |
+| Bourbon | Corn | Vanilla, caramel, oak | For a sweeter profile |
+| Japanese whisky | Barley | Clean, precise, fruity | For a softer style |
+| Rye whisky | Rye | Pepper, spice, dry finish | For spice lovers |
+
+
+
+Further reading
 
 - [Whisky](ref:whisky): whisky categories and basic production.
 - [Scotland](ref:scotland): regions, rules and style background.

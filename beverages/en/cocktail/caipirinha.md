@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: cocktail:caipirinha
 source_lang: zh
-source_revision: sha256:13348026d7ca923bc32a8fda36862c1e660ece8b0c8c6497227c0570fc9cbc03
-source_sha256: 13348026d7ca923bc32a8fda36862c1e660ece8b0c8c6497227c0570fc9cbc03
+source_revision: sha256:c9d845c46f7e85813182d3c6496bc7e67194733b58c0c8d66479f8d9fe82574f
+source_sha256: c9d845c46f7e85813182d3c6496bc7e67194733b58c0c8d66479f8d9fe82574f
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -78,7 +78,7 @@ sources:
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-08

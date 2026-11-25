@@ -125,6 +125,12 @@ verification_scope: source-verified
 
 在法兰克福（Frankfort）北侧的肯塔基河岸，水牛足迹酒厂（Buffalo Trace Distillery）占据着一片仍在生产的厂区：石砌仓库、红砖蒸馏楼、装瓶线与游客中心挤在同一块地上，没有把“历史”隔离成博物馆展柜。它同时是美国国家历史地标和一座每天出酒的工厂，这种“活着的遗产”状态，是理解参观内容的前提。
 
+> **到访信息**
+> - 地址：113 Great Buffalo Trace, Frankfort, KY 40601, USA。
+> - 开放与预约：以[官方页面](https://www.buffalotracedistillery.com/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-08。
+
 ![水牛足迹酒厂 图像](/media/photos/place-buffalo-trace-distillery-34f70545.jpg)
 
 图：水牛足迹酒厂。图片：Kittugwiki，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Buffalo_Trace_Tower.jpg)）。

@@ -87,7 +87,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 公开名单；条目页在本次核对时未能直接打开，比例以名单与品牌方标注的 IBA 认可版本为准；未复制原文。
     accessed: 2026-11-07
@@ -127,9 +127,18 @@ verification_scope: source-verified
 
 这是[阿佩罗气泡](ref:cocktail)的一个有明确出处的版本：普罗塞克 90 毫升、阿佩罗 60 毫升、苏打水 30 毫升，在加满冰的高脚广口杯中直接调配，最后放一片橙子。三者的比例是 3 比 2 比 1，也就是常说的"三二一"。本页把比例、次序和每一步的目的写清楚，方便判断成品偏甜、偏淡或气泡不足时，问题出在配方还是操作。
 
-![阿佩罗气泡配方（IBA 认可版） 类型示意图](/media/photos/theme-ingredients.jpg)
+![阿佩罗气泡配方（IBA 认可版） 类型示意图](/media/figures/specific/recipe-aperol-spritz.svg)
 
-图：阿佩罗气泡配方（IBA 认可版） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是阿佩罗气泡配方（IBA 认可版）的实拍。
+图：阿佩罗气泡配方（IBA 认可版） 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页判断阿佩罗气泡配方（IBA 认可版）怎么做、容易失败在哪一步。
+>
+> - **适合谁：** 想按步骤做出阿佩罗气泡配方（IBA 认可版）、并知道失败点在哪的人。
+> - **不适合谁：** 不准备称量、也不接受步骤顺序影响结果的人。
+> - **先看这两点：**
+>   - Spritz 在意大利东北部，尤其是威尼托一带，是一种餐前饮酒习惯：用气泡水把葡萄酒或苦味酒稀释，得到酒精度低、可以慢慢喝的一杯。
+>   - 按 11% 估算，60 毫升阿佩罗带来约 6.6 毫升纯酒精，90 毫升普罗塞克带来约 9.9 毫升，合计约 16.5 毫升；在 180 毫升酒液里，酒精度约 9%。
 
 ## 三比二比一：先把数字钉住
 

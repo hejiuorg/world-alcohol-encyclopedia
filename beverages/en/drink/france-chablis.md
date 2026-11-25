@@ -116,7 +116,7 @@ The raw material is [grape](ref:grape), of the [Chardonnay](ref:chardonnay) vari
 
 After harvest the grapes are pressed, the juice is settled at low temperature and then fermented by yeast. Traditional practice ferments mostly in stainless steel to preserve citrus and mineral aromas; some producers use old oak or lees contact to add texture and complexity.
 
-Malolactic fermentation lowers acidity and adds a creamy feel, and whether it is allowed depends on the producer's style. Fermentation temperature, yeast choice and barrel type all change the final flavour; these are producer details, and this page gives no universal parameters.
+Malolactic fermentation lowers acidity and adds a creamy feel, and whether it is allowed depends on the producer's style. Fermentation temperature, yeast choice and barrel type all change the final flavour; these are producer details, and this entry gives no universal parameters.
 
 ## Specification and label
 

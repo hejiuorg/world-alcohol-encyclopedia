@@ -135,7 +135,7 @@ The main raw material is sorghum, with wheat used to make high-temperature qu. [
 
 The public route for sauce-aroma baijiu is usually summarised as one production cycle a year, two rounds of grain addition, and repeated steaming, fermentation and spirit drawing. Base spirit from each round differs in style, is stored separately by type and is then blended into the finished product. High-temperature qu, pile fermentation and multi-round drawing together build the base of the composite aroma.
 
-[Qu making](ref:qu-making) sets the qu aroma and fermentation power; during [distillation](ref:distillation) the run is cut by fraction, with head and tail separated and the middle run used as the main base. New spirit is stored and then blended to unify aroma, body and finish. Blending is not simple addition, nor is it dilution; it depends on base-stock inventory and sensory judgement. Round ratios and storage periods are company information, and this page describes only the public framework.
+[Qu making](ref:qu-making) sets the qu aroma and fermentation power; during [distillation](ref:distillation) the run is cut by fraction, with head and tail separated and the middle run used as the main base. New spirit is stored and then blended to unify aroma, body and finish. Blending is not simple addition, nor is it dilution; it depends on base-stock inventory and sensory judgement. Round ratios and storage periods are company information, and this entry describes only the public framework.
 
 ## Specification and label
 
@@ -153,7 +153,7 @@ Taste from a small cup: smell at rest, then gently swirl and smell again. Let th
 
 Public company milestones include the 1952 state enterprise, a national quality award silver medal in 1988, joining the Moutai group in 1998 and the joint-stock conversion in 2022. Company narratives often link the "1988" in the product name to that award, but this is naming background, not the age of the spirit.
 
-Jiaocang 1988 has long sat in the upper-mid price band and is a common choice for banquets, business occasions and gifting. Prices change with year, channel and supply and demand, and this page gives no figures. Treating "1988" as an age, or a single year's transaction price as permanent proof of quality, are common misreadings.
+Jiaocang 1988 has long sat in the upper-mid price band and is a common choice for banquets, business occasions and gifting. Prices change with year, channel and supply and demand, and this entry gives no figures. Treating "1988" as an age, or a single year's transaction price as permanent proof of quality, are common misreadings.
 
 ## Buying and storage
 

@@ -83,7 +83,7 @@ Figure: Xijiu. Image: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source page]
 
 ## Brand definition
 
-A brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This page records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history, ownership and subsidiary roles.
+A brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This brand records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history, ownership and subsidiary roles.
 
 A brand is also not a single product. One brand can have several series, strengths, volumes and price bands, so a question such as "how much does Xijiu cost" or "what does Xijiu taste like" needs a specific product first.
 
@@ -91,7 +91,7 @@ A brand is also not a single product. One brand can have several series, strengt
 
 The brand's producer is [Guizhou Xijiu Co., Ltd.](ref:producer). Its predecessor can be traced to a Yin-family workshop of the Wanli era of the Ming dynasty; it became a state-run enterprise through acquisition in 1952, joined the Moutai group in 1998, and converted into a joint-stock company in 2022. The joint-stock company holds the brand and assets, and organises product specifications and sales.
 
-The producer entry records the plant location, the entry into the Moutai group and the joint-stock conversion. This page keeps only what relates directly to the brand, so corporate history and product history are not conflated.
+The producer entry records the plant location, the entry into the Moutai group and the joint-stock conversion. This brand keeps only what relates directly to the brand, so corporate history and product history are not conflated.
 
 ## Product line
 
@@ -101,7 +101,7 @@ Strength, volume, packaging and standards change by year, and some series have g
 
 ## Positioning and price band
 
-The brand covers a band from mid-market to high-end: the Jinzhi, Yinzhi and Jinzuan series serve everyday banquets and mass gifting, Jiaocang 1988 carries business and banquet demand, and Junpin Xijiu reaches high-end gifting. Prices change with year, channel and promotions, so this page gives no specific retail price and does not treat one promotion as long-term positioning.
+The brand covers a band from mid-market to high-end: the Jinzhi, Yinzhi and Jinzuan series serve everyday banquets and mass gifting, Jiaocang 1988 carries business and banquet demand, and Junpin Xijiu reaches high-end gifting. Prices change with year, channel and promotions, so this brand gives no specific retail price and does not treat one promotion as long-term positioning.
 
 A price band is market positioning, not a quality grade. Judging the liquid means looking at raw materials, process, storage and the label standard, not price or packaging alone. Vintage wording on sauce-aroma products also needs care: the year printed on the bottle, the base-liquor vintage and the blending ratio are different concepts.
 

@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:hotpot-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:64a292435a623045214b9fd038199de2ed13a30ffa7614e803ffa84cb365a16b
-source_sha256: 64a292435a623045214b9fd038199de2ed13a30ffa7614e803ffa84cb365a16b
+source_revision: sha256:ea2cf8a03395885b2c78375ac5c896621c0571b0b837925892cd89accb621e2f
+source_sha256: ea2cf8a03395885b2c78375ac5c896621c0571b0b837925892cd89accb621e2f
 aliases:
   - Hot pot and baijiu
 tags:
@@ -75,16 +75,23 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 # Hot Pot and Baijiu: One Hot, One Strong
 
 Hot pot is a meal of high temperature, high fat and strong spice; baijiu is a distilled spirit with concentrated aroma and relatively high alcohol. Put together, the stimulation adds up: chill heat amplifies the sense of burning, alcohol also amplifies the heat, and fat simultaneously coats the tongue and the stomach. The question is not whether they go together, but how to make the meal comfortable and the drinking clear-headed.
 
-![Hot Pot and Baijiu: One Hot, One Strong thematic illustration](/media/photos/theme-asian.jpg)
+![Hot Pot and Baijiu: One Hot, One Strong thematic illustration](/media/figures/specific/pairing-hotpot-baijiu.svg)
 
 Figure: thematic illustration for Hot Pot and Baijiu: One Hot, One Strong. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Look at the pot first, then the glass:** The first variable in hot pot is the base.
+> - **The flavour structure of hot pot:** The taste of hot pot does not come from heat alone.
+> - **The role of baijiu at the hot pot table:** Baijiu at a hot pot table usually serves three functions: accompanying the meal, socialising and pacing.
 
 ## Look at the pot first, then the glass
 

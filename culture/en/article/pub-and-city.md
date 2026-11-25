@@ -69,7 +69,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against CAMRA, Britannica and public bar-history material, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, menus, images and quoted texts are not covered by this licence; opening hours, prices and trading status change, so check the venue's official channels. No third-party images are used on this page.
+  note: Third-party trademarks, menus, images and quoted texts are not covered by this licence; opening hours, prices and trading status change, so check the venue's official channels. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 
@@ -133,6 +133,6 @@ Ordering a drink that locals commonly order explains a place better than orderin
 
 A bar is public space, not a stage set. Check the venue's rules and other guests' wishes before photographing; respect opening hours, minimum charges and dress requirements; do not treat a bar as a free lounge or a photo studio. Interest in history should not become an intrusion into regulars' lives.
 
-This page makes no guarantee about any particular venue's trading status, prices or service quality; that information changes, and the venue's official channels are authoritative. The city and bar types discussed here are an analytical framework, not an overall judgement on any city.
+This essay makes no guarantee about any particular venue's trading status, prices or service quality; that information changes, and the venue's official channels are authoritative. The city and bar types discussed here are an analytical framework, not an overall judgement on any city.
 
 Read Reading a city through its bars through the subject it covers, then the sources it draws on, and finally what it adds to the general account. The sequence matters.

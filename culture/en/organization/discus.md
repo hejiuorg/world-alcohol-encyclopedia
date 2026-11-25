@@ -83,7 +83,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the association website and public material; no third-party text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are cited for verification only. No third-party images are used on this organization.
 verification_scope: source-verified
 ---
 # DISCUS: The US Spirits Trade's Voice in Washington

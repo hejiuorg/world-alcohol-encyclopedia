@@ -152,7 +152,7 @@ Putting Paso Robles into an itinerary means separating the regional centre from 
 Paso Robles is about 3.5 hours from Los Angeles and 2.5 hours from San Francisco, with San Luis Obispo 30–40 minutes south. The AVA is large, and west-side estates can be 30–45 minutes from the east side. Three wineries plus lunch is a full day; book and group stops by geography.
 
 - Related: [usa](ref:usa), [zinfandel](ref:zinfandel), [cabernet-sauvignon](ref:cabernet), [red-wine](ref:red), [oak-ageing](ref:oak).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 Compare Paso Robles with Santa Barbara and Monterey rather than with Napa: the first two show the coastal cooling and limestone influence, while Napa shows a warmer, more sheltered inland model. 
 

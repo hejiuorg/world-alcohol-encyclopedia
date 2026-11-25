@@ -101,13 +101,13 @@ Estate, brand and product are three levels: the estate answers for sites, equipm
 
 The wine comes from the Middle Mosel in [Germany](ref:germany). The area is cool with a long ripening season; the Wehlener Sonnenuhr is a steep, south-facing site whose slate soils drain well, warm by day and release heat slowly at night, helping Riesling ripen in a cool environment. Steep slopes rule out mechanisation, so farming and picking are largely manual.
 
-The raw material is [grape](ref:grape), of the [Riesling](ref:riesling) variety. Riesling ripens late and has high acidity, with aromas of citrus, green apple and minerality, and it suits cool regions. Slate shapes water and heat conditions, but positions within one site still differ, so this page does not treat slate as a universal explanation for every Mosel wine.
+The raw material is [grape](ref:grape), of the [Riesling](ref:riesling) variety. Riesling ripens late and has high acidity, with aromas of citrus, green apple and minerality, and it suits cool regions. Slate shapes water and heat conditions, but positions within one site still differ, so this entry does not treat slate as a universal explanation for every Mosel wine.
 
 ## Winemaking
 
 Picking is usually late, and some grades require selecting whole bunches or even individual berries. After pressing, yeast carries out [fermentation](ref:fermentation), and the estate's traditional practice ferments slowly in large old oak barrels with extended lees contact to add texture and stability while avoiding obvious new-oak flavour.
 
-Whether fermentation finishes and whether residual sugar is kept decides if the wine is dry or sweet, and it also decides the alcohol. German Riesling grades are set by ripeness at harvest, not by chaptalisation or blending after fermentation, which differs from practice in many other regions. Specific parameters are estate information, and this page gives no universal figures.
+Whether fermentation finishes and whether residual sugar is kept decides if the wine is dry or sweet, and it also decides the alcohol. German Riesling grades are set by ripeness at harvest, not by chaptalisation or blending after fermentation, which differs from practice in many other regions. Specific parameters are estate information, and this entry gives no universal figures.
 
 ## Specification and label
 

@@ -14,8 +14,8 @@ legacy_refs: []
 translation_of: region:scotland
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:02f07133d1eb0abc52878cf4515468f1390f3954436420fb8edbf07c19cd57ec
-source_sha256: 02f07133d1eb0abc52878cf4515468f1390f3954436420fb8edbf07c19cd57ec
+source_revision: sha256:510302d5fe502988e24978812ab6dd626414909d7d94bf6d56b045a588d46529
+source_sha256: 510302d5fe502988e24978812ab6dd626414909d7d94bf6d56b045a588d46529
 aliases:
   - Scotland
   - Scotch whisky region
@@ -90,6 +90,15 @@ Scotland lies in the north of the United Kingdom and is the legal home of Scotch
 
 Figure: Scotland. Photograph: File:Glenmorangie Distillery - panoramio.jpg. Credit: Alan Jamieson, CC BY-SA 3.0 ([source page](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This region helps you judge Scotland for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Scotland with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Whisky can be drunk neat, with a little water or with ice.
+>   - A Scotch whisky label usually carries the brand, distillery, age or vintage, cask type, alcohol content, volume and bottling information.
+
 ## Geography and climate
 
 Scotland is made up of highlands, lowlands, islands and coastline, with a cool, damp climate and plentiful rainfall. Such a climate is poor for grape growing but well suited to barley and to the long maturation of whisky. Water sources, peat, sea air and the local terrain all influence aroma and texture. Island distilleries are often described as salty and smoky, but that is a stylistic tendency, not a guaranteed feature of every bottle.
@@ -158,6 +167,6 @@ Whisky is an important Scottish industry, and the distribution of distilleries i
 
 ## Scope note
 
-This page describes Scotland's legal and stylistic framework as a whisky region and does not assess specific distilleries or market prices.
+This region describes Scotland's legal and stylistic framework as a whisky region and does not assess specific distilleries or market prices.
 
 Further reading: [Aconcagua Valley](ref:c-extra-1).

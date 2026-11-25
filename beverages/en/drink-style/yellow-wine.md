@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink-style:yellow-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:47f7d1041760affc1f19ad1de14083dc925eb936aaac2a0320939f560307a1d6
-source_sha256: 47f7d1041760affc1f19ad1de14083dc925eb936aaac2a0320939f560307a1d6
+source_revision: sha256:8687336b9a9e9112039609b69cfeecbe84b80660b030c87cd4bb005d0bb5fb73
+source_sha256: 8687336b9a9e9112039609b69cfeecbe84b80660b030c87cd4bb005d0bb5fb73
 legacy_refs: []
 aliases:
   - Huangjiu
@@ -141,6 +141,17 @@ Fifth, ignoring strength differences. Products range from the low teens to aroun
 For Yellow wine, begin with the production rule, then the strength, and finish with the usual serving; that order keeps the account grounded.
 
 [Qu making](ref:qu-making) explains legal definition; [Distillation](ref:distillation) adds materials and process. Put Yellow wine between them before deciding what it is.
+
+## Quick comparison: four yellow-wine types
+
+| Type | Sweetness | Process | How to drink |
+| --- | --- | --- | --- |
+| Yuanhong | Dry | Rice, starter and water; light body | Chilled or warm, with Jiangnan food |
+| Jiafan | Semi-dry | Extra rice; fuller body | Warm, with braised dishes and crab |
+| Shanniang | Semi-sweet | Wine replaces water; sweeter | Warm, with sweeter dishes |
+| Xiangxue | Sweet | Wine lees or rice wine; rich sweetness | Small cups, with desserts |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.
 
 ## Further reading
 

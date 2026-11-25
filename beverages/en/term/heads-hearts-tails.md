@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: term:heads-hearts-tails
 source_lang: zh
-source_revision: sha256:d4883ed39223fdfd64cb08f6a2dc801bbb80eb2c923dcad644730427bb192a28
-source_sha256: d4883ed39223fdfd64cb08f6a2dc801bbb80eb2c923dcad644730427bb192a28
+source_revision: sha256:6575d577147fe9185c84478d7ddb64ade2ed1bb43e57d91e94b3bf050fceea9a
+source_sha256: 6575d577147fe9185c84478d7ddb64ade2ed1bb43e57d91e94b3bf050fceea9a
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -85,7 +85,7 @@ verification_scope: source-verified
 
 Heads, hearts and tails are the three fractions of a pot-still run. They are not three different spirits but three successive parts of one distillation. The operator switches collection vessels according to aroma, taste and strength: heads come first, hearts in the middle, tails last. Hearts make up the body of the final spirit; heads and tails are usually recycled into the next batch.
 
-![Heads, hearts and tails thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Heads, hearts and tails thematic illustration](/media/figures/specific/term-heads-hearts-tails.svg)
 
 Figure: thematic illustration for Heads, hearts and tails. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

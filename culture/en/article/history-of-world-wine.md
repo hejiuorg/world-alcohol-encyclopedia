@@ -86,7 +86,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against archaeological papers, industry-association documents, legislation and reference works, without reproducing source text. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party papers, translated legislation, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party papers, translated legislation, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 # A concise history of world alcohol: from fermented drinks to a global industry

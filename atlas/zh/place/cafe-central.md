@@ -78,6 +78,12 @@ founded_year: 1876
 ---
 # 中央咖啡馆
 
+> **到访信息**
+> - 地址：Herrengasse 14 (Ecke Strauchgasse), 1010 Wien, Austria。
+> - 开放与预约：以[官方页面](https://www.cafecentral.wien/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：未核实；来源最近核对：2026-11-08。
+
 ![中央咖啡馆 图像](/media/photos/place-cafe-central-2af7dbed.jpg)
 
 图：中央咖啡馆。图片：User:Florian Prischl，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Palais_Ferstel.jpg)）。

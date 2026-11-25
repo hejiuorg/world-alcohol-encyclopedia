@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:aperol-spritz
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:17efd1a51c0fe6ed0c31a708f08ee457d7f257b5cac74a168ac5ef5bdbb097fd
-source_sha256: 17efd1a51c0fe6ed0c31a708f08ee457d7f257b5cac74a168ac5ef5bdbb097fd
+source_revision: sha256:7674ed79d0020529136eef3a36f3eb21b621883df0457e3302e803b49a1b024f
+source_sha256: 7674ed79d0020529136eef3a36f3eb21b621883df0457e3302e803b49a1b024f
 style: 现代经典鸡尾酒
 ingredient_refs: []
 origin_place: Veneto, Italy (as the widely told story)
@@ -54,7 +54,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and mixing context; no source text is reproduced.
     accessed: 2026-11-07
@@ -85,6 +85,15 @@ The Aperol Spritz is a low-alcohol aperitif made from Aperol, Prosecco and soda 
 ![Aperol Spritz image](/media/photos/cocktail-aperol-spritz-bd7e4e67.jpg)
 
 Figure: Aperol Spritz. Image: JIP, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aperol_Spritz_aboard_Viking_Mariella.jpg)).
+
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Aperol Spritz, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Aperol Spritz.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - Start with the base and the ratio.
+>   - The word "Spritz" is tied to drinking habits in north-eastern Italy, especially the aperitif culture of the Veneto.
 
 ## Origin and naming
 

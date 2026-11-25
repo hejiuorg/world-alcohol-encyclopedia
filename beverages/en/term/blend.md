@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:blend
 source_lang: zh
-source_revision: sha256:717ed05890d1c9a66497ce83edc9c3a3d445c1a8f9863de160b50f8baea91458
-source_sha256: 717ed05890d1c9a66497ce83edc9c3a3d445c1a8f9863de160b50f8baea91458
+source_revision: sha256:6d0d743c419bb0a12132e11cdd6e0b582bbde50deafdfe9e6261ff1eb5b70db5
+source_sha256: 6d0d743c419bb0a12132e11cdd6e0b582bbde50deafdfe9e6261ff1eb5b70db5
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -103,7 +103,7 @@ verification_scope: source-verified
 
 A blend combines different varieties, vintages, sites or base wines into a final product. It is one of the most common operations in drinks production, not a synonym for adulteration or inferior goods. [Wine](ref:wine), [sparkling wine](ref:sparkling) and [whisky](ref:whisky) all have mature blending traditions; what differs is what is combined and why.
 
-![Blend thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Blend thematic illustration](/media/figures/specific/term-blend.svg)
 
 Figure: thematic illustration for Blend. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

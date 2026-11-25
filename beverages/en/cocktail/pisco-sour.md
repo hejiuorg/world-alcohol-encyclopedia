@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:pisco-sour
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:833ecdcc132a229a9028604f3c6d84ae4c97c19799f43741e7ad67f4cbf3dc65
-source_sha256: 833ecdcc132a229a9028604f3c6d84ae4c97c19799f43741e7ad67f4cbf3dc65
+source_revision: sha256:ea3419e34c79b429a3a7e6aa6ca6d360c8de01d34f51d17add5b80b7369ae8a8
+source_sha256: ea3419e34c79b429a3a7e6aa6ca6d360c8de01d34f51d17add5b80b7369ae8a8
 style: 经典鸡尾酒
 ingredient_refs: []
 origin_place: Peru and Chile (as the widely told story)
@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and sour-cocktail context; no source text is reproduced.
     accessed: 2026-11-07
@@ -84,9 +84,18 @@ The Pisco Sour is a sour cocktail made from pisco, lime juice, syrup and egg whi
 
 Figure: Pisco Sour. Image: Dtarazona, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Pisco_sour_20100613b.JPG)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Pisco Sour, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Pisco Sour.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - Start with the base and the ratio.
+>   - The origins of the Pisco Sour are contested.
+
 ## Origin and naming
 
-The origins of the Pisco Sour are contested. Peru and Chile both treat pisco and their sour traditions as part of national food culture, and public accounts do not agree on which port saw the drink first, who refined it or when it took its present form. The widely told story places it in port cities along the Pacific coast of South America and links it to local habits of drinking grape brandy with lemon and sugar. Because the exact year and the individuals involved are not consistently documented, this page treats the story as widely told.
+The origins of the Pisco Sour are contested. Peru and Chile both treat pisco and their sour traditions as part of national food culture, and public accounts do not agree on which port saw the drink first, who refined it or when it took its present form. The widely told story places it in port cities along the Pacific coast of South America and links it to local habits of drinking grape brandy with lemon and sugar. Because the exact year and the individuals involved are not consistently documented, this cocktail treats the story as widely told.
 
 Pisco itself is a distillate made from grapes, and Peru and Chile each have their own production regions and regulations with clearly different styles. Peruvian pisco is generally not aged for long in wood and emphasises fresh grape aroma; Chilean pisco has its own rules and traditions. Using "pisco" as a blanket term hides these differences, so a record should state the origin, grape varieties and production method.
 

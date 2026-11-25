@@ -135,7 +135,7 @@ The ABV is low but the beer should still be drunk in moderation. After opening, 
 
 ## Buying and storage
 
-Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number, and confirm the product name and fruit type. Prices move with market and channel, so this page gives no figures; other fruit lines and traditional lambic from the same brewery should be checked separately rather than generalised from one specification.
+Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number, and confirm the product name and fruit type. Prices move with market and channel, so this entry gives no figures; other fruit lines and traditional lambic from the same brewery should be checked separately rather than generalised from one specification.
 
 Keep unopened bottles in a dark, cool place, standing upright to limit sediment disturbance; deep freezing is unnecessary, but heat and sharp temperature swings should be avoided. Fruit lambic is not suited to long cellaring, and the drinking window should follow brewery advice and the label.
 

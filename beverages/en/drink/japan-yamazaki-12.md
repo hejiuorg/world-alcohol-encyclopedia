@@ -169,7 +169,7 @@ Sixth, colour is not a reliable guide to age or cask. Whisky can be pale from re
 
 **Sources and limits.** The key claims about Yamazaki 12 are checked against the following sources: Industry body (the basic framework of Japanese liquor labelling and representation rules), Japan Spirits & Liqueurs Makers Association (labelling standards and raw-material requirements for Japanese whisky), Suntory (the Yamazaki distillery location, product range and process notes) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Yamazaki 12, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Yamazaki 12, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 
@@ -181,4 +181,4 @@ For Yamazaki 12, this page was last checked in 2026; prices, batches and availab
 - [Oak ageing](ref:oak-ageing): cask type and flavour direction.
 - [Yamazaki](ref:yamazaki): the distillery and brand background.
 
-This page offers no price ranking, investment advice or shopping links. Age, cask and batch are the useful variables; a single tasting note is not a specification.
+This entry offers no price ranking, investment advice or shopping links. Age, cask and batch are the useful variables; a single tasting note is not a specification.

@@ -176,4 +176,4 @@ A thermometer in the fridge and a quick ice-water bath are more reliable than a 
 
 **Sources and limits.** The key claims about Temperature Control are checked against the following sources: Oxford University Press (Used to check drinks temperature and service background), Encyclopaedia Britannica (Used to check wine temperature and fermentation background), Comité Interprofessionnel du vin de Champagne (Used to check sparkling wine service temperature and advice) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Temperature Control, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Temperature Control, this technique was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

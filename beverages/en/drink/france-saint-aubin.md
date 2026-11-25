@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-saint-aubin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:710c805653d176c88b4fdef53669603f35193f71861ad9916287aa5c8878c55e
-source_sha256: 710c805653d176c88b4fdef53669603f35193f71861ad9916287aa5c8878c55e
+source_revision: sha256:efb28064a4575ebbb8b95379fb80e873a0b7c9e8bb0e65d5139062e8ea78bd0b
+source_sha256: efb28064a4575ebbb8b95379fb80e873a0b7c9e8bb0e65d5139062e8ea78bd0b
 style_refs:
   - drink-style:red-wine
   - drink-style:white-wine
@@ -97,6 +97,15 @@ Saint-Aubin's vineyards lie in a valley partly enclosed by a ridge: the village 
 ![Saint-Aubin category image](/media/photos/drink-style-wine-bbcaddfe.jpg)
 
 Figure: Saint-Aubin. Photograph: File:Red and white wine in glass.jpg. Credit: André Karwath, CC BY-SA 2.5 ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Saint-Aubin suits you, and how to serve and pair it.
+>
+> - **Best for:** Anyone trying to understand what Saint-Aubin is, how it is served and when it fits.
+> - **Not for:** If you want only want the cheapest buying link and do not care about flavour or context.
+> - **Check first:**
+>   - After harvest the red fruit is usually sorted, and some producers keep a proportion of whole clusters to add aromatic complexity.
+>   - Village-level Saint-Aubin white usually sits in the entry to middle band of Côte de Beaune whites.
 
 ## The Côte de Beaune white hidden behind a ridge
 

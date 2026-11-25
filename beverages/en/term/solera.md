@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:solera
 source_lang: zh
-source_revision: sha256:e94dedaa8e24ab28fcb21ea7ee5d53f91224107042965ce53d3ef600a2c7079d
-source_sha256: e94dedaa8e24ab28fcb21ea7ee5d53f91224107042965ce53d3ef600a2c7079d
+source_revision: sha256:3215e22de74b8a94d9e0b4901397685f17aa377a7aca8e059399e9cf5b3be153
+source_sha256: 3215e22de74b8a94d9e0b4901397685f17aa377a7aca8e059399e9cf5b3be153
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -71,7 +71,7 @@ verification_scope: source-verified
 
 A solera is a stacked system of fractional ageing and blending. The bottom level holds the oldest wine and is called the solera; above it sit several criadera levels, younger as they go up. Wine is drawn from the bottom, replaced from the level above, and each level is replaced in turn until new wine enters at the top. The finished product is therefore a mixture of many years and many levels, not a single cask of old wine. Traditional Sherry butt barrels hold about 600 L; cask material, age and cleaning also affect oxidation and the microbial environment.
 
-![Solera thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Solera thematic illustration](/media/figures/specific/term-solera.svg)
 
 Figure: thematic illustration for Solera. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

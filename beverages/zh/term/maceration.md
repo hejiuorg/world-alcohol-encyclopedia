@@ -75,9 +75,18 @@ verification_scope: source-verified
 
 浸渍（maceration）指葡萄汁与固体部分——果皮、果肉、种子，有时还有果梗——保持接触的过程。它不是一个独立的“步骤”，而是一段可以安排在发酵前、发酵中或发酵后的接触时间。颜色、单宁、香气前体和部分口感物质都在这段时间里被带入液相。
 
-![浸渍（maceration） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![浸渍（maceration） 类型示意图](/media/figures/specific/term-maceration.svg)
 
-图：浸渍（maceration） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是浸渍（maceration）的实拍。
+图：浸渍（maceration） 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页用一句话讲清浸渍（maceration）的定义、边界和用法。
+>
+> - **适合谁：** 读到浸渍（maceration）想快速弄懂定义、边界和用法的人。
+> - **不适合谁：** 需要法规原文全文或法律/医疗意见的人。
+> - **先看这两点：**
+>   - 浸渍的核心是“接触”与“提取”。
+>   - maceration 来自拉丁语 macerare，意为“泡软、浸软”。
 
 ## 定义与边界
 

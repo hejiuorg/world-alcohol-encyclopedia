@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: guide:cocktail-basics
 source_lang: zh
-source_revision: sha256:4bba66659ea198466fd360a21e3a7a687cca252192061e051c91bbc007a157be
-source_sha256: 4bba66659ea198466fd360a21e3a7a687cca252192061e051c91bbc007a157be
+source_revision: sha256:621fd51b2450bede8a57b4a0d731038b8d6f39cacc5919df2c242b9dbc810341
+source_sha256: 621fd51b2450bede8a57b4a0d731038b8d6f39cacc5919df2c242b9dbc810341
 translation_status: reviewed
 about_refs:
   - cocktail:negroni
@@ -65,7 +65,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -73,17 +73,27 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; based on the public IBA recipe framework and bartending reference works, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 
-# A cocktail is another way in
+> **Topic guide: start with an Old Fashioned**
+> - [Cocktail basics](https://hejiu.org/en/guides/cocktail-basics/)
+> - [Old Fashioned recipe](https://hejiu.org/en/recipes/old-fashioned/)
+> - [Old Fashioned](https://beverages.hejiu.org/en/cocktails/old-fashioned/)
+> - [Dry Martini recipe](https://hejiu.org/en/recipes/dry-martini/)
+> - [Negroni recipe](https://hejiu.org/en/recipes/negroni/)
+> - [Rocks glass](https://hejiu.org/en/vessels/rocks-glass/)
+> - [Cocktail shaker](https://hejiu.org/en/tools/cocktail-shaker/)
 
-A cocktail is not several spirits tipped into a glass. It has structure: a base spirit provides the frame, sweetness and acidity balance it, bitterness and aroma add layers, and ice and water bring dilution and temperature. Understand the structure and a recipe becomes meaningful; otherwise you are just moving numbers around and cannot explain why the drink tastes good or bad.
-
-![A cocktail is another way in thematic illustration](/media/photos/theme-route.jpg)
-
-Figure: thematic illustration for A cocktail is another way in. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+> **Topic guide: start with an Old Fashioned**
+> - [Cocktail basics](https://hejiu.org/en/guides/cocktail-basics/)
+> - [Old Fashioned recipe](https://hejiu.org/en/recipes/old-fashioned/)
+> - [Old Fashioned](https://beverages.hejiu.org/en/cocktails/old-fashioned/)
+> - [Dry Martini recipe](https://hejiu.org/en/recipes/dry-martini/)
+> - [Negroni recipe](https://hejiu.org/en/recipes/negroni/)
+> - [Rocks glass](https://hejiu.org/en/vessels/rocks-glass/)
+> - [Cocktail shaker](https://hejiu.org/en/tools/cocktail-shaker/)
 
 ## Start with structure, not the recipe
 
@@ -159,4 +169,27 @@ Fifth, changing too many variables at once. Swap the base, change the sugar and 
 
 ## Boundary
 
-Bartending does not replace responsible drinking. Watch the alcohol content, the serving size and the pace, and do not work with open flame without permission or safe conditions. A recipe is a starting point, not a law; but any change should be recorded, or it cannot be compared. This page recommends no brands and does not present any one ratio as the only correct answer.
+Bartending does not replace responsible drinking. Watch the alcohol content, the serving size and the pace, and do not work with open flame without permission or safe conditions. A recipe is a starting point, not a law; but any change should be recorded, or it cannot be compared. This guide recommends no brands and does not present any one ratio as the only correct answer.
+
+## Quick comparison: five cocktail structures
+
+| Structure | Build | Example | Difficulty |
+| --- | --- | --- | --- |
+| Stirred | Chill and stir, then strain | Dry martini | Low |
+| Built | Add ingredients directly in the glass | Old fashioned | Low |
+| Shaken | Shake with ice for dilution and foam | Daiquiri | Medium |
+| Stirred clear | Stir with ice, keep it clear | Manhattan | Medium |
+| Long drink | Base plus soda or juice | Gin fizz | Low |
+
+
+
+Quick comparison: gin, vodka and rum
+
+| Spirit | Base | Flavour | Common cocktails |
+| --- | --- | --- | --- |
+| Gin | Grain or molasses plus botanicals | Juniper, citrus, herb | Gin and tonic, dry martini |
+| Vodka | Grain, potato or molasses; neutral | Clean, neutral, faint sweetness | Moscow mule, bloody mary |
+| White rum | Cane juice or molasses; short rest | Cane, clean | Mojito, daiquiri |
+| Dark rum | Cane juice or molasses; longer ageing | Caramel, spice, weight | Dark and stormy, tropical drinks |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.

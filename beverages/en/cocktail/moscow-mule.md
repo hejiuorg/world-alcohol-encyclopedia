@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:moscow-mule
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:391d75a239e722598fd9622af77bfc727ea9b8cdf80589583b264081fbed6424
-source_sha256: 391d75a239e722598fd9622af77bfc727ea9b8cdf80589583b264081fbed6424
+source_revision: sha256:19a712c690eed353496b9ddb1ec604fa522fa5d21538c15e36dc607d7109eb48
+source_sha256: 19a712c690eed353496b9ddb1ec604fa522fa5d21538c15e36dc607d7109eb48
 style: 经典鸡尾酒
 ingredient_refs: []
 origin_place: United States (as the widely told story)
@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and classification context; no source text is reproduced.
     accessed: 2026-11-07
@@ -86,9 +86,18 @@ The Moscow Mule is a long drink built from vodka, ginger beer and fresh lime. It
 
 Figure: Moscow Mule. Image: Gordito1869, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Moscow Mule, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Moscow Mule.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - For Moscow Mule, begin with the base and the ratio, then the dilution and the ice, and finish with the garnish and the glass; that order keeps the account grounded.
+>   - Public accounts of the drink's beginnings do not fully agree.
+
 ## Origin and naming
 
-Public accounts of the drink's beginnings do not fully agree. The most widely told version places it in the United States in the 1940s and links it to a collaboration between a vodka brand, a ginger beer brand and a bar operator; the copper mug and the "mule" image are often explained as part of that marketing. Names, places and the order of events differ between retellings, so this page treats the story as widely told rather than documented. No single date should be presented as an archive fact.
+Public accounts of the drink's beginnings do not fully agree. The most widely told version places it in the United States in the 1940s and links it to a collaboration between a vodka brand, a ginger beer brand and a bar operator; the copper mug and the "mule" image are often explained as part of that marketing. Names, places and the order of events differ between retellings, so this cocktail treats the story as widely told rather than documented. No single date should be presented as an archive fact.
 
 The "Moscow" in the name does not mean the drink originated in Moscow. It is more often read as an association with the vodka then being promoted, and that reading is itself an interpretation rather than a verified record. "Mule" is commonly said to describe the kick of ginger, which is another piece of naming lore. A name can suggest a place or a sensation without proving anything about the recipe's origin.
 

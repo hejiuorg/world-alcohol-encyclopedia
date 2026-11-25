@@ -92,7 +92,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该配方所属的官方鸡尾酒名单与类别；未复制原文。
     accessed: 2026-11-07
@@ -125,9 +125,18 @@ verification_scope: source-verified
 
 曼哈顿比大多数鸡尾酒都更早进入印刷品：19 世纪后期的美国手册与报纸上已经出现它的名字，配方写法却各不相同——有的写威士忌加味美思，有的用樱桃酒代替糖，有的把比例含糊地写成“一份对一份”。这些老写法留下的不是一条标准，而是一条可以追溯的线索：它诞生在纽约的俱乐部与酒吧之间，用黑麦威士忌和甜味美思把“烈”与“柔”缝在一起。本页采用 IBA 的难忘经典版本：黑麦威士忌 50 毫升、甜味美思 20 毫升、安高天娜苦精 1 滴，搅拌后滤入冰镇鸡尾酒杯。
 
-![曼哈顿配方（IBA 版本） 类型示意图](/media/photos/theme-ingredients.jpg)
+![曼哈顿配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-manhattan.svg)
 
-图：曼哈顿配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是曼哈顿配方（IBA 版本）的实拍。
+图：曼哈顿配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页判断曼哈顿配方（IBA 版本）怎么做、容易失败在哪一步。
+>
+> - **适合谁：** 想按步骤做出曼哈顿配方（IBA 版本）、并知道失败点在哪的人。
+> - **不适合谁：** 不准备称量、也不接受步骤顺序影响结果的人。
+> - **先看这两点：**
+>   - 50 毫升黑麦、20 毫升甜味美思，比例约为 5:2。
+>   - 1 滴苦精在 70 毫升液体里几乎不改变体积，也不显著改变甜度，但它改变了香气的形状。
 
 ## 黑麦与甜味美思的 5:2
 

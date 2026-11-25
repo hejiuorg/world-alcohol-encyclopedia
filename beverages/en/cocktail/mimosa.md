@@ -152,4 +152,4 @@ Use equal parts chilled sparkling wine and fresh orange juice; a drier sparkling
 
 **Sources and limits.** The key claims about Mimosa are checked against the following sources: International Bartenders Association (Used to check the IBA category, ingredients and ratio), Oxford University Press (Used to check cocktail history and terminology), CocktailDB (Used to cross-check recipe structure and common variations) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Mimosa, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Mimosa, this cocktail was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

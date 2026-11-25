@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:sichuan-strong-aroma
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:24d87340696d4184a3e91a6df703bbbbb75bc59561156fa73771d22229364a4e
-source_sha256: 24d87340696d4184a3e91a6df703bbbbb75bc59561156fa73771d22229364a4e
+source_revision: sha256:f4a183b6d6e0d3f397bc5ea10a7f8e3ee04733df0f8c336f386089822466d3ef
+source_sha256: f4a183b6d6e0d3f397bc5ea10a7f8e3ee04733df0f8c336f386089822466d3ef
 aliases:
   - Sichuan cuisine and strong-aroma baijiu
 tags:
@@ -86,7 +86,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against national standards, reference works and industry material, and no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
@@ -94,7 +94,7 @@ verification_scope: source-verified
 
 [Sichuan](ref:sichuan) "mala" is often treated as one word, but it is two sensations. Capsaicin produces burning and pain, while hydroxy-alpha-sanshool from Sichuan pepper creates a tingling vibration of roughly fifty cycles per second, called ma in Chinese. Stack the two, add fat, salt and fermented savour, and you have the intensity of Sichuan food. The cellar and grain aroma of strong-aroma baijiu can either catch that intensity or be completely buried by it.
 
-![Sichuan cuisine with strong-aroma baijiu: heat against cellar aroma thematic illustration](/media/photos/theme-asian.jpg)
+![Sichuan cuisine with strong-aroma baijiu: heat against cellar aroma thematic illustration](/media/figures/specific/pairing-sichuan-strong-aroma.svg)
 
 Figure: thematic illustration for Sichuan cuisine with strong-aroma baijiu: heat against cellar aroma. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

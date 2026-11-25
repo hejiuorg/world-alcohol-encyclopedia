@@ -83,7 +83,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the organisation's official site, the association's guild history, the FIVS member page and a wine reference work, with no third-party text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This organization uses no third-party images.
 verification_scope: source-verified
 ---
 # Vinos de Chile: presenting Chilean wine as a whole abroad
@@ -102,13 +102,13 @@ In legal terms it is a private non-profit trade association, governed by its own
 
 The association's authority comes from its members, not from legislation. Wine law, labelling requirements and export inspection belong to public bodies. The Agriculture and Livestock Service, known as SAG, inspects wine and grape products and clears exports. The association may promote, publish information, convene the trade and encourage self-regulation, but it cannot withdraw an export licence or decide on its own who may use a regional name.
 
-That boundary is easy to miss. A regional description or a sustainability mark published by the association can look like official certification, yet enforcement and industry schemes run on separate tracks. Readers who keep them apart will not mistake an industry document for a legal text.
+That boundary is easy to miss. A regional description or a sustainability mark published by the association can look like official certification, yet enforcement and industry schemes run on separate tracks. If you want keep them apart will not mistake an industry document for a legal text.
 
 ## Membership and decision-making
 
 Members are wine companies, ranging from family estates to large groups. Growers are not the membership unit, which distinguishes this body from organisations that admit both growers and wineries; the concerns of the vineyard reach the board through winery members. A board chosen by the members sets direction, the president speaks for the trade, and a secretariat and specialist staff run the programmes. The association publishes an annual report, the Memoria Anual, setting out the year's promotional priorities, export conditions and project results.
 
-The member list and the board change with elections, and no stable membership total appears in public material. This page therefore avoids a figure that would soon be out of date; the current annual report is the place to look.
+The member list and the board change with elections, and no stable membership total appears in public material. This organization therefore avoids a figure that would soon be out of date; the current annual report is the place to look.
 
 ## Promotion, data and sustainability certification
 

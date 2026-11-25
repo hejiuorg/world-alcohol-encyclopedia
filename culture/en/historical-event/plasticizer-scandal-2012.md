@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: plasticizer-scandal-2012
 title: The 2012 baijiu plasticiser incident
-summary: In November 2012 a sample of Jiugui liquor was found to contain 1.08 mg/kg of the plasticiser dibutyl phthalate (DBP), above the 0.3 mg/kg reference limit then applied, triggering a crisis of trust and nationwide checks across the baijiu industry. This page explains the course, the standards gap, the remediation and the longer effects.
+summary: In November 2012 a sample of Jiugui liquor was found to contain 1.08 mg/kg of the plasticiser dibutyl phthalate (DBP), above the 0.3 mg/kg reference limit then applied, triggering a crisis of trust and nationwide checks across the baijiu industry. This essay explains the course, the standards gap, the remediation and the longer effects.
 status: reviewed
 revision: 3
 translation_of: historical-event:plasticizer-scandal-2012

@@ -82,7 +82,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the organisation's official site, its member page, a sustainability programme document and a wine reference work, with no third-party text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This organization uses no third-party images.
 verification_scope: source-verified
 ---
 # Wines of South Africa: Taking South African Wine to Export Markets

@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: yi-di-wine-legend
 title: "The Yi Di Wine Legend: 'First to Make Jiu Lao', in Texts of Uncertain Date"
-summary: Several texts from the Warring States period to the Eastern Han credit Yi Di with 'making wine' or 'making jiu lao', adding the story that Yu drank it, found it sweet, and then distanced himself from Yi Di. These texts were written long after the era the legend describes, and Yi Di's person, identity, and location cannot be verified; this page treats the story as an ancient explanation of how brewing began.
+summary: Several texts from the Warring States period to the Eastern Han credit Yi Di with 'making wine' or 'making jiu lao', adding the story that Yu drank it, found it sweet, and then distanced himself from Yi Di. These texts were written long after the era the legend describes, and Yi Di's person, identity, and location cannot be verified; this essay treats the story as an ancient explanation of how brewing began.
 status: reviewed
 revision: 2
 translation_of: historical-event:yi-di-wine-legend
@@ -94,7 +94,7 @@ Figure: "The Yi Di Wine Legend: 'First to Make Jiu Lao', in Texts of Uncertain D
 
 ## Date and place
 
-The legend places Yi Di in the age of Yu the Great. An annotation to the Strategies of the Warring States says that the 'daughter of the emperor' was a daughter of Yao or Shun, and cites the Bowuzhi as saying that Yi Di lived in Yu's time; the annotation itself is later and only shows how people of the Han and Wei periods understood the story. The texts leave no verifiable date, and the received Lüshi Chunqiu lists only the four characters 'Yi Di made wine' without saying where. Early texts give no answer to the question of where Yi Di worked; later local narratives supply place names without early evidence, so this page does not assign a location.
+The legend places Yi Di in the age of Yu the Great. An annotation to the Strategies of the Warring States says that the 'daughter of the emperor' was a daughter of Yao or Shun, and cites the Bowuzhi as saying that Yi Di lived in Yu's time; the annotation itself is later and only shows how people of the Han and Wei periods understood the story. The texts leave no verifiable date, and the received Lüshi Chunqiu lists only the four characters 'Yi Di made wine' without saying where. Early texts give no answer to the question of where Yi Di worked; later local narratives supply place names without early evidence, so this essay does not assign a location.
 
 ## Background: why the ancients credited one person
 

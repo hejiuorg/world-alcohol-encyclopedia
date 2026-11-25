@@ -80,7 +80,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; checked against the book, an encyclopaedia entry and a library catalogue, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, interview material, translations and book images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: The original text, interview material, translations and book images are not covered by this licence; sources are cited for verification only. No third-party images are used on this book entry.
 verification_scope: source-verified
 ---
 # Wine and War
@@ -101,7 +101,7 @@ Its themes have three layers. The first is economic: wine was an important Frenc
 
 The authors are Don Kladstrup and Petie Kladstrup, both American journalists who lived in France for many years; their style favours people and scenes over statistics and theory. The original was published by Broadway Books in 2001, and later editions and translations followed. Subtitles, chapter arrangements and illustrations may differ between editions, so the edition should be cited.
 
-It is important to say what the book is not: it is neither a complete history of French wine nor a military history of the Second World War. Its time frame is the occupation, and its geography is mainly the major French regions; pre-war wine, post-war reconstruction and the German or Italian side are treated only as background. Readers who want a fuller history of the occupation should read academic work alongside it.
+It is important to say what the book is not: it is neither a complete history of French wine nor a military history of the Second World War. Its time frame is the occupation, and its geography is mainly the major French regions; pre-war wine, post-war reconstruction and the German or Italian side are treated only as background. If you want want a fuller history of the occupation should read academic work alongside it.
 
 ## Core argument
 

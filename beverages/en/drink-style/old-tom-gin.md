@@ -77,7 +77,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against The Gin Guild, EU spirit-drink law, a producer technical article and a reference work; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Old Tom Gin
@@ -128,8 +128,8 @@ The three can be arranged as a historical line: genever is the earlier malt-wine
 
 **In brief:** A sweetened gin style popular in eighteenth- and nineteenth-century England, made by adding sugar or sweet botanicals such as liquorice after distillation; it is not a legal category, and modern revivals usually sit at 40% to 45% ABV as the historical base for Tom Collins and Old Fashioned variations.
 
-**Read alongside.** Put Old Tom Gin next to Gin, Genever, London dry gin: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Old Tom Gin next to Gin, Genever, London dry gin: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Old Tom Gin are checked against the following sources: The Gin Guild (the historical period, sources of sweetness and style features of Old Tom gin), European Union (gin categories and the fact that Old Tom is not an EU legal category), Beefeater Gin (modern Old Tom sweetening and revival methods) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Old Tom Gin, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Old Tom Gin, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

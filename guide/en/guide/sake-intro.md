@@ -11,11 +11,11 @@ revision: 2
 translation_of: guide:sake-intro
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9d18aa58f4ad3dd500e1a90be5e45151f791d80b03a2d3692608c10df25dcd6d
-source_sha256: 9d18aa58f4ad3dd500e1a90be5e45151f791d80b03a2d3692608c10df25dcd6d
+source_revision: sha256:c1e6747ce55c3fbedb42e626c9446302f5047f6cea78e0e0c9a24c15593b76a2
+source_sha256: c1e6747ce55c3fbedb42e626c9446302f5047f6cea78e0e0c9a24c15593b76a2
 about_refs:
   - drink-style:sake
-audience: Readers who want to try sake but cannot decode junmai, ginjo or polishing ratio.
+audience: If you want want to try sake but cannot decode junmai, ginjo or polishing ratio.
 difficulty: beginner
 legacy_refs: []
 aliases:
@@ -69,14 +69,39 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against an industry association, the tax authority and a public research institute, and no promotional copy is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 # Sake for beginners
 
-A sake label reads like a technical data sheet: junmai, ginjo, daiginjo, polishing ratio, sake meter value. For a first purchase you do not need all of it. Separate the two dimensions of raw material and polishing, then choose by temperature and occasion, and you can find a bottle that suits you.![Sake for beginners thematic illustration](/media/photos/theme-asian.jpg)
+A sake label reads like a technical data sheet: junmai, ginjo, daiginjo, polishing ratio, sake meter value. For a first purchase you do not need all of it. Separate the two dimensions of raw material and polishing, then choose by temperature and occasion, and you can find a bottle that suits you.![Sake for beginners thematic illustration](/media/figures/specific/guide-sake-intro.svg)
 
 Figure: thematic illustration for Sake for beginners. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Topic guide: sake from grade to table**
+> - [Sake intro](https://hejiu.org/en/guides/sake-intro/)
+> - [Sake](https://beverages.hejiu.org/en/styles/sake/)
+> - [Junmai](https://beverages.hejiu.org/en/styles/junmai-sake/)
+> - [Ginjo](https://beverages.hejiu.org/en/styles/ginjo-sake/)
+> - [Daiginjo](https://beverages.hejiu.org/en/styles/daiginjo-sake/)
+> - [Japanese food with sake](https://hejiu.org/en/pairings/japanese-sake/)
+> - [Sake and shochu](https://culture.hejiu.org/en/articles/sake-and-shochu/)
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **What sake is:** Sake is brewed from rice, water, koji and yeast through saccharification and fermentation; it is not a distilled spirit.
+> - **Junmai and ginjo:** "Junmai" means only rice, water, koji and yeast, with no added brewer's alcohol; "honjozo" allows a small amount of brewer's alcohol to adjust aroma and texture.
+> - **Sake meter value and sweetness:** The sake meter value (nihonshu-do) is an indicator related to density and sugar; values can be positive or negative.
+
+> **Topic guide: sake from grade to table**
+> - [Sake intro](https://hejiu.org/en/guides/sake-intro/)
+> - [Sake](https://beverages.hejiu.org/en/styles/sake/)
+> - [Junmai](https://beverages.hejiu.org/en/styles/junmai-sake/)
+> - [Ginjo](https://beverages.hejiu.org/en/styles/ginjo-sake/)
+> - [Daiginjo](https://beverages.hejiu.org/en/styles/daiginjo-sake/)
+> - [Japanese food with sake](https://hejiu.org/en/pairings/japanese-sake/)
+> - [Sake and shochu](https://culture.hejiu.org/en/articles/sake-and-shochu/)
 
 ## What sake is
 
@@ -146,12 +171,24 @@ A first bottle should be stored cool and dark, opened within a few months and se
 | Item | Detail |
 | --- | --- |
 | In one line | A first-sake guide to junmai, ginjo, daiginjo and honjozo, explaining polishing ratio, sake meter value, serving temperature and how to choose a bottle. |
-| Audience | Readers who want to try sake but cannot decode junmai, ginjo or polishing ratio. |
+| Audience | If you want want to try sake but cannot decode junmai, ginjo or polishing ratio. |
 | Level | beginner |
 
 **Sources and limits.** The key claims about Sake for beginners are checked against the following sources: Japan Sake and Shochu Makers Association (special-designation sake, polishing ratio and serving temperature), National Tax Agency of Japan (sake labelling rules and category definitions), National Research Institute of Brewing (public research material on sake brewing and quality) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-## Further reading
+## Quick comparison: main sake grades
+
+| Grade | Polishing | Flavour | Best for |
+| --- | --- | --- | --- |
+| Junmai | No added brewing alcohol | Rice-forward, full | Warm sake, Japanese food |
+| Honjozo | Small amount added | Clean, light | Everyday drinking |
+| Ginjo | 60% or less | Fruit and floral notes | Chilled, light dishes |
+| Daiginjo | 50% or less | Fine, aromatic | Celebrations, on its own |
+| Junmai daiginjo | 50% or less, pure rice | Rich and round | Umami-rich food |
+
+
+
+Further reading
 
 - [Sake](ref:sake): categories, production and styles.
 - [Alcohol by volume](ref:abv): reading the strength on a sake label.

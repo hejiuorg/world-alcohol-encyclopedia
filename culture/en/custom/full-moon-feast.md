@@ -5,7 +5,7 @@ type: custom
 lang: en
 slug: full-moon-feast
 title: Full-moon feast
-summary: The full-moon feast marks a baby's first month with announcement, thanks, naming and social exchange. This page links the Song “baby-washing gathering” to later banquets, compares regional customs, and sets out infant-safety and breastfeeding boundaries.
+summary: The full-moon feast marks a baby's first month with announcement, thanks, naming and social exchange. This entry links the Song “baby-washing gathering” to later banquets, compares regional customs, and sets out infant-safety and breastfeeding boundaries.
 status: reviewed
 revision: 3
 translation_of: custom:full-moon-feast
@@ -72,7 +72,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against a gazetteer compendium, public-domain ritual texts, Song notes and WHO material, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 

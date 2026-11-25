@@ -148,7 +148,7 @@ To study Blaufränkisch, read botanical and viticultural sources first, then tas
 Compare an Austrian Blaufränkisch, a Hungarian Kékfrankos and a Czech Frankovka at similar alcohol and vintage. Then place Blaufränkisch beside Cabernet Franc to separate pepper-and-acid lift from leafy, denser tannin. Fix vintage and serving temperature so the country, not the bottle, explains the difference.
 
 - Related: [red-wine](ref:red), [oak-ageing](ref:oak), [terroir](ref:terroir), [vintage](ref:vintage), [cabernet-sauvignon](ref:cabernet).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **In brief:** A red grape of Burgenland, Austria, also called Kékfrankos in Hungary and Frankovka in Czechia; deep in colour with black cherry, pepper and spice, high acidity, medium-high tannin and good ageing potential.
 

@@ -144,7 +144,7 @@ Fifth, treating VT and SGN as ordinary marketing words. They carry legal ripenes
 
 ## Scope note
 
-This page describes the geography, varieties and rules of Alsace and does not assess individual estates or vintages. The parent region is [France](ref:france).
+This region describes the geography, varieties and rules of Alsace and does not assess individual estates or vintages. The parent region is [France](ref:france).
 
 **In brief:** A wine region in north-eastern France, east of the Vosges and on the west bank of the Rhine, known for Riesling, Gewürztraminer, Pinot Gris and Muscat, mostly labelled by variety and with Grand Cru, late-harvest (VT) and botrytised selection (SGN) tiers. 
 
@@ -165,4 +165,4 @@ Alsace lies east of the Vosges and west of the Rhine, and its rain shadow makes 
 
 **Sources and limits.** The key claims about Alsace are checked against the following sources: INAO (Used to check the French appellation system and its administering body), European Union (Used to check EU wine categories, geographical indications and labelling rules), Oxford University Press (Consulted for entries on the Alsace region, its grands crus and its sweet-wine designations) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Alsace, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Alsace, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

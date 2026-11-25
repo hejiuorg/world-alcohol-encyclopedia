@@ -172,4 +172,4 @@ A wide-based decanter exposes wine to air; young reds may need an hour, older wi
 
 **Sources and limits.** The key claims about Decanter are checked against the following sources: Oxford University Press (Used to check decanter and wine service background), Encyclopaedia Britannica (Used to check decanting and sediment history), Corning Museum of Glass (Used to check decanter forms and glass craft) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Decanter, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Decanter, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

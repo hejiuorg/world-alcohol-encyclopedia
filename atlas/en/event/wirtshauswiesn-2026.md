@@ -78,7 +78,7 @@ event_status: past
 ---
 # WirtshausWiesn 2026 at the Hofbräuhaus
 
-From 19 September to 4 October 2026, the Hofbräuhaus in Munich ran a “WirtshausWiesn” alongside Oktoberfest. The idea is clear: instead of squeezing into a tent on the Theresienwiese, drink festival beer, hear daily live music and eat Oktoberfest dishes in the old city-centre beer hall. The event has ended, and this page records that year's arrangements.
+From 19 September to 4 October 2026, the Hofbräuhaus in Munich ran a “WirtshausWiesn” alongside Oktoberfest. The idea is clear: instead of squeezing into a tent on the Theresienwiese, drink festival beer, hear daily live music and eat Oktoberfest dishes in the old city-centre beer hall. The event has ended, and this event records that year's arrangements.
 
 ![Entrance hall of the Hofbräuhaus, Munich](/media/photos/event-wirtshauswiesn-2026-e7825701.jpg)
 
@@ -88,7 +88,7 @@ Figure: The entrance hall of Munich's Hofbräuhaus, with the name lettered on th
 
 The organiser is the Hofbräuhaus München at Platzl 9 in Munich, whose operating parent is the Bavarian state-owned Staatliches Hofbräu München. The Hofbräuhaus was founded by Duke Wilhelm V in 1589 as a court brewery, and in 1828 King Ludwig I opened it to the public, after which it became one of Munich's best-known beer halls. The event takes place inside that building rather than on a separate site.
 
-On the edition, the official event page gives only the 2026 dates and programme and does not state an edition in words; the number in the page address is a site identifier and is not read as an edition number here. This page therefore records it as the 2026 edition and does not invent a number. What can be confirmed is that it belongs to the Hofbräuhaus's regular Oktoberfest-season schedule rather than being a one-off.
+On the edition, the official event page gives only the 2026 dates and programme and does not state an edition in words; the number in the page address is a site identifier and is not read as an edition number here. This event therefore records it as the 2026 edition and does not invent a number. What can be confirmed is that it belongs to the Hofbräuhaus's regular Oktoberfest-season schedule rather than being a one-off.
 
 ## Date and place
 
@@ -103,7 +103,7 @@ The dates overlap the main 2026 Oktoberfest, which also ran from 19 September to
 
 The official description lists three main elements: festival beer, daily live music and Oktoberfest dishes. Festival beer is a seasonal style with a different strength and recipe from the regular beer, usually emphasising malt aroma and drinkability; the music is typically Bavarian brass and folk; the food leans toward roast chicken, sausages, sauerkraut, bread and sweets. The historic building has several floors and a beer garden, so the atmosphere differs by area: the ground floor is the busiest and turns over fastest, upper rooms suit groups and families, and the garden is quieter in good weather.
 
-A distinction should be made between what is promised and what is scheduled. The official page does not publish a complete daily timetable or a full menu with prices, so this page states the types of activity rather than “the band starts at this hour” or “this dish costs this much”. Such details change daily, and visitors should check the event page or the house's notice on the day.
+A distinction should be made between what is promised and what is scheduled. The official page does not publish a complete daily timetable or a full menu with prices, so this event states the types of activity rather than “the band starts at this hour” or “this dish costs this much”. Such details change daily, and visitors should check the event page or the house's notice on the day.
 
 ## How to attend
 
@@ -115,13 +115,13 @@ It is sensible to avoid the early evening rush or to arrive a little earlier; we
 
 The official page makes three rules clear: free seating on the ground floor and in the beer garden, no admission charge, and payment by order. Free-seating areas do not take advance reservations, and seats are first come, first served. During the event the hall is loud and crowded, and belongings should be watched.
 
-The official page does not set out full rules on dress, pets, children, payment methods or outside drinks, and this page does not invent them. Such information should come from the house notice or staff. The event takes place inside a fixed building and does not involve coordinates or a map, so no map is drawn here.
+The official page does not set out full rules on dress, pets, children, payment methods or outside drinks, and this event does not invent them. Such information should come from the house notice or staff. The event takes place inside a fixed building and does not involve coordinates or a map, so no map is drawn here.
 
 ## Verification status
 
-This page is based on three sources: the Hofbräuhaus official event page, for the dates, programme, free seating and free admission; the official venue page, for the address and venue; and the brewery website, for the brand and festival beer background. All three are official or affiliated sites, with no second-hand paraphrase.
+This event is based on three sources: the Hofbräuhaus official event page, for the dates, programme, free seating and free admission; the official venue page, for the address and venue; and the brewery website, for the brand and festival beer background. All three are official or affiliated sites, with no second-hand paraphrase.
 
-Items that could not be verified include: the daily band list and times, the menu and prices, any cap on festival beer supply, whether groups need to coordinate in advance, and the exact location of accessible seating. The official pages do not publish these, and this page does not guess. The event status is past (`event_status: past`), and the last review date is 2026-11-08. Dates, menus, prices and programmes change each year; anyone planning to attend in future should re-check the official event page and treat the organiser's announcement as authoritative.
+Items that could not be verified include: the daily band list and times, the menu and prices, any cap on festival beer supply, whether groups need to coordinate in advance, and the exact location of accessible seating. The official pages do not publish these, and this event does not guess. The event status is past (`event_status: past`), and the last review date is 2026-11-08. Dates, menus, prices and programmes change each year; anyone planning to attend in future should re-check the official event page and treat the organiser's announcement as authoritative.
 
 ## See also
 

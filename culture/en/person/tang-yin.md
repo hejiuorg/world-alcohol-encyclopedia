@@ -36,8 +36,8 @@ related:
 translation_of: person:tang-yin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:220bcda4337089020958fdf046e0aa8d82b8564c230aa75124b7cd2f3cdbf704
-source_sha256: 220bcda4337089020958fdf046e0aa8d82b8564c230aa75124b7cd2f3cdbf704
+source_revision: sha256:481f6e588166fdcb339c808c532f60bdb4c343f27ae5c3e4f481f3e74533bd56
+source_sha256: 481f6e588166fdcb339c808c532f60bdb4c343f27ae5c3e4f481f3e74533bd56
 references:
   - key: wine-and-painting
     target_id: culture-article:wine-and-painting
@@ -53,12 +53,12 @@ sources:
   - key: ming-shi
     title: History of Ming
     publisher: Compiled by Zhang Tingyu and others under the Qing; Zhonghua Book Company punctuated edition
-    note: Used to check dates, the examination case, the summons by Prince Ning and the record of feigned madness through drink; this page quotes only short phrases.
+    note: Used to check dates, the examination case, the summons by Prince Ning and the record of feigned madness through drink; this profile quotes only short phrases.
     accessed: 2026-11-07
   - key: liuru-jushi-ji
     title: Collected Works of Liuru Jushi
     publisher: By Tang Yin of the Ming; standard modern edition
-    note: Used to check the titles and wording of the Peach Blossom Cottage Song, Drinking Wine Facing the Moon and Resolve; this page quotes only short lines and reproduces no complete poem.
+    note: Used to check the titles and wording of the Peach Blossom Cottage Song, Drinking Wine Facing the Moon and Resolve; this profile quotes only short lines and reproduces no complete poem.
     accessed: 2026-11-07
   - key: wikisource
     title: Wikisource - public-domain literary texts
@@ -106,6 +106,15 @@ Tang Yin (1470-1524), courtesy name Bohu and also Ziwu, called Liuru Jushi and M
 ![Tang Yin, Drinking at Night](/media/photos/person-tang-yin-d2337b16.jpg)
 
 Figure: Tang Yin's Drinking at Night, a literati drinking scene set in a misty courtyard. Image: Tang Yin, Public domain, via [source page](https://commons.wikimedia.org/wiki/File:Tang_Yin_-_Drinking_at_Night_-_1955.761_-_Art_Institute_of_Chicago.jpg).
+
+> **Quick verdict**
+> **In one line:** This profile explains why Tang Yin is remembered, and which works to look at first.
+>
+> - **Best for:** Anyone trying to understand what Tang Yin did and why the drink world remembers them.
+> - **Not for:** If you want only want anecdotes and do not care about historical position.
+> - **Check first:**
+>   - Another frequently quoted poem is Drinking Wine Facing the Moon.
+>   - "The finest talent south of the Yangtze" and "Tang Bohu flirts with Qiuxiang" come mostly from late-Ming popular fiction, ballads and opera.
 
 ## A man buried under legend
 

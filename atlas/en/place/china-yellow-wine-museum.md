@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:china-yellow-wine-museum
 source_lang: zh
-source_revision: sha256:7640cae2111fd0ab3cd6c140cb14ac0ae6fd5fa9ed0151a668633ae401a7fd4d
-source_sha256: 7640cae2111fd0ab3cd6c140cb14ac0ae6fd5fa9ed0151a668633ae401a7fd4d
+source_revision: sha256:be8dfb51ac156424092c4e7f70b9301d17e53d4e08b331b88e443278d70bb7c8
+source_sha256: be8dfb51ac156424092c4e7f70b9301d17e53d4e08b331b88e443278d70bb7c8
 translation_status: reviewed
 subtype: museum
 address: 557 Xia Da Road, Yuecheng District, Shaoxing, Zhejiang, China
@@ -105,9 +105,24 @@ verification_scope: source-verified
 
 The China Yellow Wine Museum stands beside Guangxiang Bridge in the northern part of Shaoxing's old city, at 557 Xia Da Road in Yuecheng District. Zhejiang Guyuelongshan Shaoxing Wine Co. invested in it, and it opened in 2007. The site covers about 30,000 square metres and the building about 16,000; it is the country's large specialist museum devoted to the history and culture of Chinese yellow wine. It is not a room of bottles in glass cases, but a sequence that connects wine history, local custom, brewing technique, Huadiao decoration and an underground cellar.
 
+> **Visit information**
+> - Address: 557 Xia Da Road, Yuecheng District, Shaoxing, Zhejiang, China.
+> - Opening and booking: check the [official page](https://shaoxingwine.com.cn/home/nous/museum.html) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![China Yellow Wine Museum photograph](/media/photos/q2-place-china-yellow-wine-museum-bcbf374a.jpg)
 
 Figure: China Yellow Wine Museum. Photograph: Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925. Credit: Daderot, CC0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=152459715)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether China Yellow Wine Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to China Yellow Wine Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 2007 Guyuelongshan opened the museum after two years of construction and an investment of 420 million yuan.
+>   - Allow one and a half to two and a half hours.
 
 ## Place and history
 

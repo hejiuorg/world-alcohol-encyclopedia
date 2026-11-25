@@ -151,7 +151,7 @@ For Niulanshan Chenniang, taste in a small glass: smell the resting spirit first
 
 The state-run Niulanshan distillery was founded in 1952 and gradually built a product system centred on er-guotou; Niulanshan Chenniang took on the strong-aroma, mass-price distribution task. The product has wide coverage in catering and supermarkets and is one of the representative open-bottle spirits in the market.
 
-Prices move with channel, region and supply and demand, and this page gives no figures. Treating sales volume as proof of quality, or "chenniang" as age, are common misreadings. It is better assessed as an everyday spirit than measured against the standards of a high-end banquet liquor.
+Prices move with channel, region and supply and demand, and this entry gives no figures. Treating sales volume as proof of quality, or "chenniang" as age, are common misreadings. It is better assessed as an everyday spirit than measured against the standards of a high-end banquet liquor.
 
 ## Buying and storage
 

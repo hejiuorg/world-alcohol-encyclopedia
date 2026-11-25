@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:tennessee-whiskey
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:812358746241939a792cddba6154ed328ef8b8669d0d0a55a7383a090d4e07a0
-source_sha256: 812358746241939a792cddba6154ed328ef8b8669d0d0a55a7383a090d4e07a0
+source_revision: sha256:6552c95da9f289e0411275d150ad280dd93a7d9448dfb587339fd703385a9900
+source_sha256: 6552c95da9f289e0411275d150ad280dd93a7d9448dfb587339fd703385a9900
 legacy_refs: []
 parent_style_id: drink-style:whisky
 aroma_family: grain/fruit/smoke
@@ -74,7 +74,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against TTB federal standards, the eCFR and a reference work; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 
@@ -82,9 +82,18 @@ verification_scope: source-verified
 
 Tennessee whiskey is often dismissed as bourbon with a different label, which is the laziest way to read it. The grain recipe and the new charred barrels are indeed close to bourbon, but US federal standards give this name its own origin rule and require the new spirit to pass through sugar maple charcoal before it enters the barrel. Origin, filtration and maturation together make the category.
 
-![Tennessee whiskey thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Tennessee whiskey thematic illustration](/media/figures/specific/drink-style-tennessee-whiskey.svg)
 
 Figure: thematic illustration for Tennessee whiskey. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This style places Tennessee whiskey on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Tennessee whiskey with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - Whiskey production in middle Tennessee grew in the 19th century alongside corn farming, river transport and limestone water.
+>   - Serve neat in a tulip-shaped glass.
 
 ## Definition and regulation
 

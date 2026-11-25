@@ -11,8 +11,8 @@ revision: 2
 parent_style_id: drink-style:wine
 translation_of: drink-style:red-wine
 source_lang: zh
-source_revision: sha256:6f11d2e9a9d073ab6f357a930466bfe0fabd6104e0dc3378ec6b06591be00d9a
-source_sha256: 6f11d2e9a9d073ab6f357a930466bfe0fabd6104e0dc3378ec6b06591be00d9a
+source_revision: sha256:40fe51698943d9f936764bf406f829d2444af715421fd4bbc00bd0d1b06c55b4
+source_sha256: 40fe51698943d9f936764bf406f829d2444af715421fd4bbc00bd0d1b06c55b4
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -69,7 +69,7 @@ verification_scope: source-verified
 
 Red wine is made from dark-skinned grape varieties. Its colour comes from anthocyanins in the skins, and its tannin from skins, seeds and stems. The biggest difference from white wine is not the colour of the raw material but whether the liquid stays in contact with the skins during fermentation: red wine is usually fermented with skins, extracting colour, tannin and aroma during maceration.
 
-![Red wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Red wine thematic illustration](/media/figures/specific/drink-style-red-wine.svg)
 
 Figure: thematic illustration for Red wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -119,7 +119,7 @@ Third, red wine does not always need decanting. Young, tannic wines may benefit,
 
 ## Boundary
 
-This page describes the category and basic methods, not specific estates, vintages or prices. Check the label, producer information and professional reviews for grape proportions, residual sugar, strength, ageing potential and drinking window.
+This style describes the category and basic methods, not specific estates, vintages or prices. Check the label, producer information and professional reviews for grape proportions, residual sugar, strength, ageing potential and drinking window.
 
 **At a glance:** Wine made by fermenting dark-skinned grapes with their skins to extract colour and tannin; colour, tannin, acidity and alcohol together shape the style, not a vintage or regional label alone.
 

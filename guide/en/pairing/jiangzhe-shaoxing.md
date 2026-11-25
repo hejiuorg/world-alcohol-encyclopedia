@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:jiangzhe-shaoxing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f9dab735f0254b2a57a1d921749d82189c3f65a7a95eca888a05ccb191c586df
-source_sha256: f9dab735f0254b2a57a1d921749d82189c3f65a7a95eca888a05ccb191c586df
+source_revision: sha256:4b8b8f62e7cc417727a4c476e048a4018f872ff142ed497b042289aa136af069
+source_sha256: 4b8b8f62e7cc417727a4c476e048a4018f872ff142ed497b042289aa136af069
 aliases:
   - Jiangzhe cuisine and Shaoxing yellow wine
 tags:
@@ -85,15 +85,31 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against national standards, reference works and industry material, and no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
 # Jiangzhe cuisine with Shaoxing yellow wine: one language of umami
 
-Beside a Jiangnan stove there is often a bowl of [yellow wine](ref:yellow-wine): a spoonful goes into the pan to remove fishiness, and a warmed pot goes on the table with the meal. These are not two uses but one material divided between two stages. Shaoxing yellow wine ferments glutinous rice with wheat koji; amino acids bring umami, residual sugar brings sweetness, and alcohol and acidity provide structure. Jiangzhe cooking prizes freshness, softness and a balance of sweet and salt, and the two share exactly that language.![Jiangzhe cuisine with Shaoxing yellow wine: one language of umami thematic illustration](/media/photos/theme-asian.jpg)
+Beside a Jiangnan stove there is often a bowl of [yellow wine](ref:yellow-wine): a spoonful goes into the pan to remove fishiness, and a warmed pot goes on the table with the meal. These are not two uses but one material divided between two stages. Shaoxing yellow wine ferments glutinous rice with wheat koji; amino acids bring umami, residual sugar brings sweetness, and alcohol and acidity provide structure. Jiangzhe cooking prizes freshness, softness and a balance of sweet and salt, and the two share exactly that language.![Jiangzhe cuisine with Shaoxing yellow wine: one language of umami thematic illustration](/media/figures/specific/pairing-jiangzhe-shaoxing.svg)
 
 Figure: thematic illustration for Jiangzhe cuisine with Shaoxing yellow wine: one language of umami. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Topic guide: yellow wine at the Jiangnan table**
+> - [Jiangzhe food with Shaoxing yellow wine](https://hejiu.org/en/pairings/jiangzhe-shaoxing/)
+> - [Yellow wine](https://beverages.hejiu.org/en/styles/yellow-wine/)
+> - [History of yellow wine](https://culture.hejiu.org/en/articles/history-of-yellow-wine/)
+> - [China Yellow Wine Museum](https://atlas.hejiu.org/en/places/china-yellow-wine-museum/)
+> - [Shaoxing yellow wine trail](https://atlas.hejiu.org/en/routes/shaoxing-yellow-wine-trail/)
+> - [Choosing your first wine](https://hejiu.org/en/guides/first-wine/)
+
+> **Topic guide: yellow wine at the Jiangnan table**
+> - [Jiangzhe food with Shaoxing yellow wine](https://hejiu.org/en/pairings/jiangzhe-shaoxing/)
+> - [Yellow wine](https://beverages.hejiu.org/en/styles/yellow-wine/)
+> - [History of yellow wine](https://culture.hejiu.org/en/articles/history-of-yellow-wine/)
+> - [China Yellow Wine Museum](https://atlas.hejiu.org/en/places/china-yellow-wine-museum/)
+> - [Shaoxing yellow wine trail](https://atlas.hejiu.org/en/routes/shaoxing-yellow-wine-trail/)
+> - [Choosing your first wine](https://hejiu.org/en/guides/first-wine/)
 
 ## What Shaoxing yellow wine is: rice, wheat koji and Jian Lake water
 

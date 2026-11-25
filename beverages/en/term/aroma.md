@@ -155,6 +155,6 @@ Start with where the term is used. From there, consider what it is contrasted wi
 
 [Wine](ref:wine) and [Beer](ref:beer) are the two useful reference points for Aroma. [Wine](ref:wine) sets out definition; [Beer](ref:beer) brings in applicable standard. Read them together.
 
-**Read alongside.** Put Aroma next to Wine, Whisky, Beer: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Aroma next to Wine, Whisky, Beer: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Aroma are checked against the following sources: Oxford University Press (Used for entries on aroma, olfaction and tasting), International Organisation of Vine and Wine (OIV) (Used to check definitions relating to sensory evaluation of wine), Beer Judge Certification Program (Used to check how aroma is used in beer style descriptions) and 7 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.

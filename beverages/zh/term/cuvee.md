@@ -70,9 +70,9 @@ verification_scope: source-verified
 
 cuvée 是一个被过度使用的法语词。它至少有两层工艺含义：起泡酒压榨时最先流出的轻柔汁液，以及由多个基酒组合成的一批酒。到了酒标上，它又常常只是产品名。三层含义互相交叠，但没有任何一层等于法定质量等级。
 
-![调配（cuvée） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![调配（cuvée） 类型示意图](/media/figures/specific/term-cuvee.svg)
 
-图：调配（cuvée） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是调配（cuvée）的实拍。
+图：调配（cuvée） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

@@ -97,7 +97,7 @@ Fermentation sits between sugar supply and post-treatment. Upstream are pressing
 
 ## Steps and parameters
 
-Fermentation normally passes through a lag phase, exponential growth, a stationary phase and decline. Ale ferments at 18–22 °C for 3–7 days and lager at 8–12 °C for 7–14 days; red wine usually ferments on skins at 20–30 °C for 5–15 days and white wine at 12–20 °C; sake mash often ferments slowly at 10–18 °C for about 20–35 days. These ranges follow the common descriptions in the OIV, national-standard and industry material listed on this page. About 17 g of sugar per litre yields 1% alcohol by volume, and the tolerance of wine yeast usually sits at 15–16%, with adapted strains going higher. Wine pH is mostly 3.2–3.8, while fermenting beer is mostly 4.0–4.6.
+Fermentation normally passes through a lag phase, exponential growth, a stationary phase and decline. Ale ferments at 18–22 °C for 3–7 days and lager at 8–12 °C for 7–14 days; red wine usually ferments on skins at 20–30 °C for 5–15 days and white wine at 12–20 °C; sake mash often ferments slowly at 10–18 °C for about 20–35 days. These ranges follow the common descriptions in the OIV, national-standard and industry material listed on this process. About 17 g of sugar per litre yields 1% alcohol by volume, and the tolerance of wine yeast usually sits at 15–16%, with adapted strains going higher. Wine pH is mostly 3.2–3.8, while fermenting beer is mostly 4.0–4.6.
 
 ## Mechanism: glycolysis and by-products
 
@@ -146,4 +146,4 @@ Fermentation temperature and yeast strain decide whether a wine or beer stays cl
 
 **Sources and limits.** The key claims about Fermentation are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check the framework for wine fermentation, yeast and alcohol content), State Administration for Market Regulation, Standardisation Administration of China (Used to check fermented drink categories and process terminology), Encyclopaedia Britannica (Used for reference on fermentation metabolism, yeast and anaerobic processes) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Fermentation, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Fermentation, this process was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

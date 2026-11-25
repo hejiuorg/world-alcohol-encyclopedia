@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:sesame-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bfb89b5f500351ccf3ca42595404be13703538b2a6dac67375926f8bf66d18b4
-source_sha256: bfb89b5f500351ccf3ca42595404be13703538b2a6dac67375926f8bf66d18b4
+source_revision: sha256:43313d80e2c40a2ee25cc6e3ccc3d73dccd51f260391ca8d29bc6575c1b821b6
+source_sha256: 43313d80e2c40a2ee25cc6e3ccc3d73dccd51f260391ca8d29bc6575c1b821b6
 legacy_refs: []
 aliases:
   - Zhimaxiang baijiu
@@ -88,16 +88,25 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public national-standard information and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Sesame-aroma baijiu
 
 The name of sesame-aroma baijiu misleads easily: it contains no sesame and is not flavoured with sesame essence. "Sesame aroma" is a metaphor for a roasted, nutty, lightly scorched composite impression. The real source is the microbiology and chemistry of koji making, stacking, the fermentation pit and long storage, above all sulphur compounds, pyrazines and roasted aroma substances.
 
-![Sesame-aroma baijiu thematic illustration](/media/photos/theme-asian.jpg)
+![Sesame-aroma baijiu thematic illustration](/media/figures/specific/drink-style-sesame-aroma-baijiu.svg)
 
 Figure: thematic illustration for Sesame-aroma baijiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This style places Sesame-aroma baijiu on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Sesame-aroma baijiu with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - Fermentation is followed by solid-state distillation, see distillation.
+>   - There is no sesame in the ingredient list.
 
 ## The aroma does not come from sesame
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:botin
 source_lang: zh
-source_revision: sha256:5aca7e87870a77a7d885e03f4cf82c7bf0e5149ddf9a532f82cfdc21f0469e23
-source_sha256: 5aca7e87870a77a7d885e03f4cf82c7bf0e5149ddf9a532f82cfdc21f0469e23
+source_revision: sha256:70b74a2b1f98fbfead113ec2d992abf7ee5109eeed62c6cf003fbf00b3347e0b
+source_sha256: 70b74a2b1f98fbfead113ec2d992abf7ee5109eeed62c6cf003fbf00b3347e0b
 translation_status: reviewed
 subtype: pub
 address: Calle de Cuchilleros 17, 28005 Madrid, Spain
@@ -92,6 +92,15 @@ At the south-west corner of Madrid's Plaza Mayor runs a short, sloping street ca
 
 Figure: The façade of Botín at Calle de Cuchilleros 17 in Madrid, its awning lettered “Restaurante Sobrino de Botín” and “Horno de Asar”. Image: Ank Kumar, CC BY-SA 4.0, via [source page](https://commons.wikimedia.org/wiki/File:2014_-_Sobrino_de_Bot%C3%ADn_%28Casa_Bot%C3%ADn%29_Restaurant%2C_Madrid%2C_Spain_%28_Ank_Kumar_%29_01.jpg).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Botín deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Botín who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The "oldest" claim needs unpacking.
+>   - In 1590 the building enters the written record.
+
 ## Why this place
 
 The "oldest" claim needs unpacking. Botín's own history dates the beginning to 1725: the French cook Jean Botín arrived in Madrid with his Asturian wife, hoping to work for a noble family at court; in 1725, his wife's nephew, Cándido Remis, opened a small inn on Calle de Cuchilleros and renovated the ground floor of the building. Guinness World Records, by contrast, usually describes the restaurant as having been opened in 1725 by the French cook Jean Botín and his wife. The accounts differ on the family relationship but agree on 1725 as the start.
@@ -128,7 +137,7 @@ The first misconception is to confuse "oldest" with "best". Guinness records con
 
 The Hemingway connection also needs care. He was indeed a regular during his Madrid years, the official site and numerous media accounts note that characters in The Sun Also Rises eat at Botín, and the restaurant lists Hemingway, Benito Pérez Galdós, Graham Greene and María Dueñas among its literary guests. But "Hemingway's fixed table" is part of the restaurant's storytelling; the exact table matters less than the broader literary association. A fourth misconception is to expect a quiet, romantic dinner: the place is busy, tables are close together and service moves quickly, so choose a later slot or off-peak day if you want to linger.
 
-When ordering suckling pig, remember that it is rich and fatty, with crisp skin and soft meat; bread and red wine suit it better than beer. For two people, one portion of suckling pig plus a soup or salad is usually more comfortable than two main courses. Tipping is not compulsory in Spain, and service is normally included in the bill; rounding up or leaving a little change is enough. The restaurant expects reasonable dress, but no formal suit is required; the old quarter is hot in summer, and the indoor rooms are more comfortable than the street. This page was verified on 2026-11-08; opening hours, prices and reservation policies are subject to official confirmation.
+When ordering suckling pig, remember that it is rich and fatty, with crisp skin and soft meat; bread and red wine suit it better than beer. For two people, one portion of suckling pig plus a soup or salad is usually more comfortable than two main courses. Tipping is not compulsory in Spain, and service is normally included in the bill; rounding up or leaving a little change is enough. The restaurant expects reasonable dress, but no formal suit is required; the old quarter is hot in summer, and the indoor rooms are more comfortable than the street. This entry was verified on 2026-11-08; opening hours, prices and reservation policies are subject to official confirmation.
 
 ## See also
 

@@ -67,9 +67,9 @@ verification_scope: source-verified
 
 索莱拉（solera）是一种分级叠放、逐级取补的陈年与调配体系。最底层存放最老的酒，称为 solera；其上是若干级 criadera，越往上酒越年轻。取酒从底层取出，上一级补入，逐级上推，最顶端补入新酒。成品因此是多个年份、多个层级的混合物，而不是某一桶老酒。传统雪莉酒使用的 butt 桶容量约为 600 升；桶的材质、新旧与清洗方式，也会影响氧化程度与微生物环境。
 
-![索莱拉系统（solera） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![索莱拉系统（solera） 类型示意图](/media/figures/specific/term-solera.svg)
 
-图：索莱拉系统（solera） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是索莱拉系统（solera）的实拍。
+图：索莱拉系统（solera） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

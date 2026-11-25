@@ -141,7 +141,7 @@ Typical Torrontés is pale straw yellow with green reflections, carrying jasmine
 
 Fermentation usually takes place cool in stainless steel to preserve fresh floral perfume, with little or no new oak; some producers use a little barrel ageing or lees contact for roundness and nutty notes. Besides young dry wines there are late-harvest Torrontés Tardío styles with higher residual sugar, honey and dried-fruit character ([fermentation](ref:fermentation)).
 
-Most Torrontés is drunk within 1–2 years of vintage, when fresh perfume is at its core; good high-altitude vintages can age two or three years in bottle, developing preserved fruit and spice, but they are not built for long cellaring. Judge potential by intact acidity and concentrated perfume, not alcohol level ([white-wine](ref:white)).
+Most Torrontés is drunk within 1–2 years of vintage, when fresh perfume is at heart; good high-altitude vintages can age two or three years in bottle, developing preserved fruit and spice, but they are not built for long cellaring. Judge potential by intact acidity and concentrated perfume, not alcohol level ([white-wine](ref:white)).
 
 ## Main regions and representative wines
 

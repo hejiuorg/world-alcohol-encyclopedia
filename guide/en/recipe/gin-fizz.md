@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: gin-fizz
 title: Gin Fizz recipe (IBA version)
-summary: 45 ml gin, 30 ml fresh lemon juice and 10 ml sugar syrup are shaken and strained before a splash of soda water goes in; this page explains why soda comes last, the dry 45:30:10 frame, the egg-white Silver Fizz and the ways carbonation is lost.
+summary: 45 ml gin, 30 ml fresh lemon juice and 10 ml sugar syrup are shaken and strained before a splash of soda water goes in; this recipe explains why soda comes last, the dry 45:30:10 frame, the egg-white Silver Fizz and the ways carbonation is lost.
 status: reviewed
 revision: 3
 translation_of: recipe:gin-fizz
 source_lang: zh
-source_revision: sha256:49a1564b02f6c860cd301d596706394cb2ea6263a90d5be4960f852841f0eac8
-source_sha256: 49a1564b02f6c860cd301d596706394cb2ea6263a90d5be4960f852841f0eac8
+source_revision: sha256:8c7051d7d9fee0e0454d55e177264090dd3dd81776622f1f1689dc2c536b86ae
+source_sha256: 8c7051d7d9fee0e0454d55e177264090dd3dd81776622f1f1689dc2c536b86ae
 translation_status: reviewed
 product_id: cocktail:gin-fizz
 source_version: IBA Official Cocktails (checked 2026-11-07)
@@ -99,7 +99,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the official list and category of this cocktail; no source text is reproduced.
     accessed: 2026-11-07
@@ -124,7 +124,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
@@ -132,9 +132,18 @@ verification_scope: source-verified
 
 In a Gin Fizz, soda water is not a footnote at the end of the ingredient list; it is the step that decides the drink's character. The argument behind most bars is not which gin to use but when the soda goes in, how much goes in, and whether to stir after it does. The IBA answer is blunt: shake the gin, lemon and syrup, strain into a tall glass, then add a splash of soda water, with no ice in the glass. The 45:30:10 figures therefore read like a sequence of operations rather than a plain ratio.
 
-![Gin Fizz recipe (IBA version) thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Gin Fizz recipe (IBA version) thematic illustration](/media/figures/specific/recipe-gin-fizz.svg)
 
 Figure: thematic illustration for Gin Fizz recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Gin Fizz recipe (IBA version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Gin Fizz recipe (IBA version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - The word "fizz" refers to the bubbles.
+>   - Gin 45, lemon 30, syrup 10 is more sour than many equal-parts sour recipes.
 
 ## Soda water is always the last step
 
@@ -206,4 +215,4 @@ The fizz family has other members as well: changing the base spirit, adding juic
 
 ## See also
 
-For the general structure of a cocktail, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of shaking, read [shaking](ref:shaking); for acid in a drink, read [acidity](ref:acidity). For gin styles, see [gin](ref:gin); for the drink itself, see [Gin Fizz](ref:cocktail); for the glass, see [highball](ref:vessel). This page records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.
+For the general structure of a cocktail, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of shaking, read [shaking](ref:shaking); for acid in a drink, read [acidity](ref:acidity). For gin styles, see [gin](ref:gin); for the drink itself, see [Gin Fizz](ref:cocktail); for the glass, see [highball](ref:vessel). This recipe records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.

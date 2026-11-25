@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:guinness-storehouse
 source_lang: zh
-source_revision: sha256:3ee5b9313ed689a4e0c23e1039e47b4c3770d2ed1d0e18167e8e302bb7e99c4e
-source_sha256: 3ee5b9313ed689a4e0c23e1039e47b4c3770d2ed1d0e18167e8e302bb7e99c4e
+source_revision: sha256:1fa837b185d1323ed3d3ea02d80c0026acd04971e83da71a72ba650a35a6c77f
+source_sha256: 1fa837b185d1323ed3d3ea02d80c0026acd04971e83da71a72ba650a35a6c77f
 translation_status: reviewed
 subtype: museum
 address: St. James's Gate, Dublin 8, D08 VF8H, Ireland
@@ -91,6 +91,12 @@ verification_scope: source-verified
 # Guinness Storehouse: Telling the Black Stuff at St. James's Gate
 
 The Guinness Storehouse stands at St. James's Gate in Dublin, postcode Dublin 8, D08 VF8H. Many visitors treat it as a brewery tour, but it is a visitor centre: exhibition, tasting and rooftop bar occupy an old fermentation building, while the working brewery continues next door. Ordinary tickets do not enter the brewhouse, and keeping the two apart sharpens what you actually see.
+
+> **Visit information**
+> - Address: St. James's Gate, Dublin 8, D08 VF8H, Ireland.
+> - Opening and booking: check the [official page](https://www.guinness-storehouse.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
 
 ![Guinness Storehouse: Telling the Black Stuff at St. James's Gate photograph](/media/photos/q2-place-guinness-storehouse-df42c6a2.jpg)
 

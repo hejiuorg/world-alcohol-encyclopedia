@@ -87,7 +87,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA 官方鸡尾酒名单
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 官方鸡尾酒名单；未复制原文。
     accessed: 2026-11-07
@@ -109,9 +109,9 @@ verification_scope: source-verified
 
 这是[内格罗尼](ref:cocktail)的一个有明确出处的配方版本。配方版本与鸡尾酒身份分开记录，未来出现不同来源的版本时，可以并列保存而不互相覆盖。本页只描述这一版的比例与做法，不把其他版本混写进来。
 
-![内格罗尼配方（IBA 版本） 类型示意图](/media/photos/theme-ingredients.jpg)
+![内格罗尼配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-negroni.svg)
 
-图：内格罗尼配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是内格罗尼配方（IBA 版本）的实拍。
+图：内格罗尼配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 这是一份有出处的配方
 

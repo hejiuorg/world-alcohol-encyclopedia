@@ -119,7 +119,7 @@ Buyers should verify the product name, strength, volume, producer, origin and fr
 
 ## Positioning and price band
 
-The brand sits in a mass-to-mid-market price band: the draught-style version is a fixture of pubs and restaurants, cans and bottles serve retail and home consumption, export and special versions reach towards the mid-to-high end, and the alcohol-free version addresses newer demand. Prices vary with country, channel, tax, promotions and pack size, so this page gives no specific retail price.
+The brand sits in a mass-to-mid-market price band: the draught-style version is a fixture of pubs and restaurants, cans and bottles serve retail and home consumption, export and special versions reach towards the mid-to-high end, and the alcohol-free version addresses newer demand. Prices vary with country, channel, tax, promotions and pack size, so this brand gives no specific retail price.
 
 A price band is market positioning, not a quality grade. Freshness, ingredients, fermentation and filling conditions strongly affect beer flavour, and the same brand can differ between markets and batches. "Imported" or "more expensive" does not automatically mean better.
 

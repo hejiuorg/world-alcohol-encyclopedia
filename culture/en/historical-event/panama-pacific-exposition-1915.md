@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: panama-pacific-exposition-1915
 title: The 1915 Panama-Pacific International Exposition
-summary: The Panama-Pacific International Exposition, held in San Francisco in 1915, was a major international showcase for Chinese goods, and its wine exhibits and award claims entered the narrative of Chinese alcohol history. This page sets out the dates, background, participation and award disputes, separating participation from the later gold-medal legend.
+summary: The Panama-Pacific International Exposition, held in San Francisco in 1915, was a major international showcase for Chinese goods, and its wine exhibits and award claims entered the narrative of Chinese alcohol history. This essay sets out the dates, background, participation and award disputes, separating participation from the later gold-medal legend.
 status: reviewed
 revision: 3
 translation_of: historical-event:panama-pacific-exposition-1915
@@ -139,7 +139,7 @@ One: "Moutai's gold medal at Panama in 1915 is undisputed." In fact the award cl
 - [Yellow wine](ref:yellow-wine): the traditional grain wine on display.
 - [The 1952 national wine evaluation](ref:evaluation-1952): a later evaluation that invoked the 1915 story.
 
-**Short definition:** The Panama-Pacific International Exposition, held in San Francisco in 1915, was a major international showcase for Chinese goods, and its wine exhibits and award claims entered the narrative of Chinese alcohol history. This page sets out the dates, background, participation and award disputes, separating participation from the later gold-medal legend.
+**Short definition:** The Panama-Pacific International Exposition, held in San Francisco in 1915, was a major international showcase for Chinese goods, and its wine exhibits and award claims entered the narrative of Chinese alcohol history. This essay sets out the dates, background, participation and award disputes, separating participation from the later gold-medal legend.
 
 Read The 1915 Panama-Pacific International Exposition through the date and setting, then the documented consequences, and finally how later accounts treat it. The sequence matters.
 

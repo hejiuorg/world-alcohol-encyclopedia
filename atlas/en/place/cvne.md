@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cvne
 source_lang: zh
-source_revision: sha256:3dc6704f51faaf6fa233e85143c9d52cad7b6d8ee9a102eaaf8d8f3f0af66dda
-source_sha256: 3dc6704f51faaf6fa233e85143c9d52cad7b6d8ee9a102eaaf8d8f3f0af66dda
+source_revision: sha256:a2685d81eaa1666ca75e11b85316f516e18a0faa53ab3d912f1c26cdbdcbcbc5
+source_sha256: a2685d81eaa1666ca75e11b85316f516e18a0faa53ab3d912f1c26cdbdcbcbc5
 translation_status: reviewed
 subtype: winery-visitor
 address: Calle Barrio de la Estación 2, 26200 Haro, La Rioja, Spain
@@ -93,6 +93,15 @@ Leave Haro station and walk a few minutes along Barrio de la Estación: a walled
 
 Figure: CVNE. Photograph: CVNE bodega Imperial 2. Credit: Txo, CC BY-SA 4.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=83638963)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether CVNE deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to CVNE who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1879 Eusebio and Raimundo Real de Asúa founded CVNE in Haro's station district.
+>   - A visit usually starts in the Aldea del Vino and passes through the old halls, fermentation, the barrel cellar and the bottle cellar before ending in a tasting room.
+
 ## Place and history
 
 In 1879 Eusebio and Raimundo Real de Asúa founded CVNE in Haro's station district. The official history tells the origin concretely: the brothers had come to Haro for health reasons and decided to stay and make wine. That detail matters because modern Rioja was not built only by local growers; outside capital, the railway and French demand all played a part. In the second half of the nineteenth century, French vineyards were hit first by oidium and then by phylloxera, and merchants crossed the Pyrenees to buy Rioja wine. Haro's station allowed barrels to move quickly to France and the Atlantic ports, so wineries clustered beside the tracks.
@@ -123,7 +132,7 @@ The address is Calle Barrio de la Estación 2, 26200 Haro, La Rioja, Spain, at t
 
 Book ahead through the visit entry on the official site, or by phone or email, and confirm date, time, language, group size, whether a tasting is included and the price. The harvest closes or reduces visits, and Sundays and public holidays are usually unavailable. A visit usually lasts one to two hours depending on the package; cellars are cold and damp, so wear shoes with grip and a light jacket. Visitors with mobility needs should say so in advance, since thresholds and stairs in a historic building are not always suitable for wheelchairs.
 
-Opening hours, prices and wines change. This page was checked on 2026-11-08; confirm with the winery and the official site before travelling. If this is the third stop on the Haro station-district route, book early afternoon, leaving time for lunch and the first two wineries. Do not crowd three tastings together; palate fatigue turns the third visit into an exercise in not tasting the difference.
+Opening hours, prices and wines change. This entry was checked on 2026-11-08; confirm with the winery and the official site before travelling. If this is the third stop on the Haro station-district route, book early afternoon, leaving time for lunch and the first two wineries. Do not crowd three tastings together; palate fatigue turns the third visit into an exercise in not tasting the difference.
 
 ## Etiquette and around
 

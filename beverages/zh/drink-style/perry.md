@@ -76,9 +76,9 @@ verification_scope: source-verified
 
 梨酒（perry）是梨汁经过发酵得到的低度酒，最典型的版本来自英国西米德兰兹的赫里福德郡、格洛斯特郡与伍斯特郡。它使用专门栽培的高单宁梨品种，成品从干型到半甜型都有，酒精度通常在 4% 到 8% 之间。它与“梨味苹果酒”最大的区别在原料：真正的 perry 以梨汁为主体，苹果酒则以[苹果](ref:apple)汁为主体，二者在香气、单宁与收尾上走的是不同路线。
 
-![梨酒 类型示意图](/media/photos/theme-beer.jpg)
+![梨酒 类型示意图](/media/figures/specific/drink-style-perry.svg)
 
-图：梨酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是梨酒的实拍。
+图：梨酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 用梨酿的酒，不等于梨味 cider
 

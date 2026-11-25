@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against public-domain poetry collections and editions, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 # Wine and poetry: drinking from the Book of Songs to Song lyrics

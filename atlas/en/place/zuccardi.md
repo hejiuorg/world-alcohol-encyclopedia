@@ -112,7 +112,7 @@ The Zuccardi family company was founded in 1963. Official and industry profiles 
 
 Maipú lies east of Mendoza city, with vineyards at about 650–850 metres, deeper clay-rich soils that hold water better, earlier ripening and usually rounder, more direct wines. Zuccardi's commercial address is Ruta Provincial 33, Km 7,5, Fray Luis Beltrán, Maipú; the Santa Julia plant and part of its fruit supply are in this area. For the company this is the engine of everyday wine: large volume, clear price tiers and a stable range.
 
-A production base is not the same as a public visit. The official tourism page currently describes the Uco Valley experience, and it does not state with equal clarity whether the Maipú base receives individual visitors or offers tastings. This page therefore records the address and district without presenting the Maipú base as somewhere you can simply turn up; that is why operating status is marked unknown.
+A production base is not the same as a public visit. The official tourism page currently describes the Uco Valley experience, and it does not state with equal clarity whether the Maipú base receives individual visitors or offers tastings. This entry therefore records the address and district without presenting the Maipú base as somewhere you can simply turn up; that is why operating status is marked unknown.
 
 ## The Uco Valley flagship: Piedra Infinita
 
@@ -122,7 +122,7 @@ These honours explain why visitors equate "Zuccardi" with Uco. But the Uco exper
 
 ## Visit times, restaurant and booking
 
-The official tourism page gives daily visit times of 09:30, 11:00, 12:30 and 15:00, all requiring advance booking; lunch runs from 12:30 to 14:00, and dinner must be enquired about separately. Book through the official site, WhatsApp or email, and confirm the length, whether food or tasting is included, and cancellation rules. Prices and available slots change with season, so this page does not turn one quote into a permanent price.
+The official tourism page gives daily visit times of 09:30, 11:00, 12:30 and 15:00, all requiring advance booking; lunch runs from 12:30 to 14:00, and dinner must be enquired about separately. Book through the official site, WhatsApp or email, and confirm the length, whether food or tasting is included, and cancellation rules. Prices and available slots change with season, so this entry does not turn one quote into a permanent price.
 
 Restaurant and visit are separate arrangements: diners should confirm whether a winery tour is included, and tasters should confirm whether they can eat. Uco is high and sunny, and fatigue after lunch is common; do not plan a long night drive back. If returning to Mendoza city the same day, allow at least 1.5–2 hours.
 
@@ -130,7 +130,7 @@ Restaurant and visit are separate arrangements: diners should confirm whether a 
 
 This entry follows the administrative city of Maipú and uses the commercial address in the Wines of Argentina profile: Ruta Provincial 33, Km 7,5, Fray Luis Beltrán, Maipú. That address is tied to the Santa Julia production base and was central to the family's early expansion; it is not the same as the Uco visitor centre currently promoted on the official site. Separating them is more useful for readers: those planning a Uco visit will not drive to the wrong place, and those interested in family history will not miss Maipú.
 
-To be clear, this page does not present the Maipú base as confirmed open. The official home page returned no usable content during verification, and the tourism page describes only Uco; operating status is therefore marked unknown and no verified_at is given. The address and district come from an industry profile, while visit rules come from the official tourism page; both are listed in the sources so readers can check them.
+To be clear, this entry does not present the Maipú base as confirmed open. The official home page returned no usable content during verification, and the tourism page describes only Uco; operating status is therefore marked unknown and no verified_at is given. The address and district come from an industry profile, while visit rules come from the official tourism page; both are listed in the sources so readers can check them.
 
 ## What to confirm before visiting
 
@@ -148,4 +148,4 @@ Start with the address. From there, consider the current opening status, then wh
 
 ## References
 
-This page was checked against Zuccardi's official tourism page and site entry, Argentina's national tourism promotion page for Zuccardi, Wines of Argentina's family profile and its INV-based data. Page verified 2026-11-09. The Maipú base's visitor status could not be confirmed on the official site and is marked unknown; Uco visit and restaurant rules are subject to official channels.
+This entry was checked against Zuccardi's official tourism page and site entry, Argentina's national tourism promotion page for Zuccardi, Wines of Argentina's family profile and its INV-based data. Page verified 2026-11-09. The Maipú base's visitor status could not be confirmed on the official site and is marked unknown; Uco visit and restaurant rules are subject to official channels.

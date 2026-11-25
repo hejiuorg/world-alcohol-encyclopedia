@@ -91,7 +91,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored place profile checked against Satsuma Shuzo and Meijigura's official pages, the Kagoshima Prefectural Visitors Bureau and the National Tax Agency (verified 2026-11-09); no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; hours, visit arrangements and product information change, so check official channels. No map is drawn on this page.
+  note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; hours, visit arrangements and product information change, so check official channels. No map is drawn on this entry.
 verification_scope: source-verified
 ---
 
@@ -137,7 +137,7 @@ Jar storage gives the spirit a slow integration before bottling. The micro-oxyge
 
 The address is 26 Tategamihonmachi, Makurazaki. Opening hours are 9:00–16:00, admission is free, and the site closes from 30 December to 3 January. Call ahead to confirm visits and group reception, especially around the New Year and typhoon season; both the Kagoshima tourism page and the brewery site list telephone numbers, and temporary closures should be checked against the official notice. Parking is free and large coaches can be received.
 
-From Kagoshima Chuo Station, take the JR Ibusuki-Makurazaki Line to Makurazaki and then about five minutes by car; from Kagoshima Airport it is about one hundred minutes by car, longer than it looks, so leave time for the return. Take coordinates from official channels; this page gives none. Some floors are wet and steam is obvious, so wear grippy shoes and keep away from running equipment; ask about the permitted area before bringing children.
+From Kagoshima Chuo Station, take the JR Ibusuki-Makurazaki Line to Makurazaki and then about five minutes by car; from Kagoshima Airport it is about one hundred minutes by car, longer than it looks, so leave time for the return. Take coordinates from official channels; this entry gives none. Some floors are wet and steam is obvious, so wear grippy shoes and keep away from running equipment; ask about the permitted area before bringing children.
 
 To combine a brewery visit with the producing landscape, put Makurazaki harbour, Ibusuki's sand baths and Chiran's samurai gardens in one day. With only half a day, come to Meijigura alone and take time over the tasting and shop. This is not a large theme park; its value is a working set of jars and stills and a process that the tourist route has not rewritten.
 

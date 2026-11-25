@@ -150,7 +150,7 @@ To study Overproof Rum, build a raw material–process–taste table, then compa
 For Overproof Rum, to learn a style, build a “benchmark–variant–extreme” sequence: taste the standard version, then a variant with changed material or process, then an extreme version. After three steps, the boundary becomes clear.
 
 - Related: [rum](ref:rum), [distillation](ref:distillation), [jamaica](ref:jamaica), [liqueur](ref:liqueur), [proof-and-abv](ref:proof).
-- This page offers no brand ranking, prices or shopping channels; style is a classification tool, not a quality grade.
+- This style offers no brand ranking, prices or shopping channels; style is a classification tool, not a quality grade.
 
 [Rum](ref:rum) explains legal definition; [Jamaica](ref:jamaica) adds materials and process. Put Overproof Rum between them before deciding what it is.
 

@@ -83,8 +83,8 @@ rights:
 verification_scope: source-verified
 translation_of: standard:eu-spirits-regulation-2019-787
 source_lang: zh
-source_revision: sha256:196b64b309f396788a320d101cfbe9b03368ed5b2b6e34ccbfae62997cb59f8e
-source_sha256: 196b64b309f396788a320d101cfbe9b03368ed5b2b6e34ccbfae62997cb59f8e
+source_revision: sha256:6fa471a4a01bc5968ae3df6fa9aff341346e63e10d57ee06c7bd35a824afd63f
+source_sha256: 6fa471a4a01bc5968ae3df6fa9aff341346e63e10d57ee06c7bd35a824afd63f
 translation_status: reviewed
 ---
 
@@ -95,6 +95,15 @@ Regulation (EU) 2019/787 is the framework law for spirit drinks in the European 
 ![Regulation (EU) 2019/787 on Spirit Drinks thematic illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: thematic illustration for Regulation (EU) 2019/787 on Spirit Drinks. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This standard explains the scope, limits and common misreadings of Regulation (EU) 2019/787 on Spirit Drinks.
+>
+> - **Best for:** Anyone who needs the scope and limits of Regulation (EU) 2019/787 on Spirit Drinks quickly.
+> - **Not for:** If you want need the full standard text or a compliance ruling.
+> - **Check first:**
+>   - Article 2 defines a spirit drink as an alcoholic beverage intended for human consumption, with particular organoleptic qualities and a minimum alcoholic strength of 15% vol.
+>   - The full title lists five areas: the definition, description, presentation and labelling of spirit drinks.
 
 ## Where the regulation sits, and when it applies
 

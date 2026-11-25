@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: whiskey-sour
 title: Whiskey Sour recipe (IBA version)
-summary: The Whiskey Sour is built on 45 ml bourbon, 25 ml fresh lemon juice and 20 ml sugar syrup, with egg white optional; this page covers the dry shake, the aroma of fresh lemon, how far to shake, glass and ice, and the departures common at the bar.
+summary: The Whiskey Sour is built on 45 ml bourbon, 25 ml fresh lemon juice and 20 ml sugar syrup, with egg white optional; this recipe covers the dry shake, the aroma of fresh lemon, how far to shake, glass and ice, and the departures common at the bar.
 status: reviewed
 revision: 3
 translation_of: recipe:whiskey-sour
 source_lang: zh
-source_revision: sha256:965f07eb2939bf9e5cb0bd0fa56c9afc12bdb0e0e6feb9751edb8655183163a2
-source_sha256: 965f07eb2939bf9e5cb0bd0fa56c9afc12bdb0e0e6feb9751edb8655183163a2
+source_revision: sha256:632cecaab19927c94dc0693adef313cb62915db9d14efa8aa366f7f0bd9866bd
+source_sha256: 632cecaab19927c94dc0693adef313cb62915db9d14efa8aa366f7f0bd9866bd
 translation_status: reviewed
 product_id: cocktail:whiskey-sour
 source_version: IBA Official Cocktails (checked 2026-11-07)
@@ -103,7 +103,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the official list and category of this cocktail; no source text is reproduced.
     accessed: 2026-11-07
@@ -128,17 +128,26 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
 # Whiskey Sour recipe (IBA version)
 
-The Whiskey Sour did not come from one bar's signboard. It grew out of a family of "sours" served in nineteenth-century American port towns, where sailors mixed spirit, lemon and sugar with whatever was at hand to break the monotony of ship rations and to keep scurvy away. Who first wrote the combination down, and in which year egg white joined it, is still disputed. This page does not settle that argument; it uses the IBA version as a citable position: 45 ml bourbon, 25 ml fresh lemon juice, 20 ml sugar syrup, egg white optional.
+The Whiskey Sour did not come from one bar's signboard. It grew out of a family of "sours" served in nineteenth-century American port towns, where sailors mixed spirit, lemon and sugar with whatever was at hand to break the monotony of ship rations and to keep scurvy away. Who first wrote the combination down, and in which year egg white joined it, is still disputed. This recipe does not settle that argument; it uses the IBA version as a citable position: 45 ml bourbon, 25 ml fresh lemon juice, 20 ml sugar syrup, egg white optional.
 
-![Whiskey Sour recipe (IBA version) thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Whiskey Sour recipe (IBA version) thematic illustration](/media/figures/specific/recipe-whiskey-sour.svg)
 
 Figure: thematic illustration for Whiskey Sour recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Whiskey Sour recipe (IBA version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Whiskey Sour recipe (IBA version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - The criterion is not a count of shakes but the temperature and feel of the tin.
+>   - The IBA specifies a cobbler glass; for the on-the-rocks version, fill a large rocks glass with ice and strain into it.
 
 ## Egg white: where dry shake and wet shake divide
 
@@ -214,4 +223,4 @@ Serving on ice or straight up counts as a variation as well. Straining straight 
 
 ## See also
 
-For the general principles of sweet-sour balance, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of shaking, read [shaking](ref:shaking). On equipment, the [shaker](ref:shaker) and the [strainer](ref:strainer) determine temperature and clarity, and the [highball](ref:vessel) is the registered glass. For the base spirit, read [bourbon](ref:bourbon); for the drink itself, see [Whiskey Sour](ref:cocktail). This page records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.
+For the general principles of sweet-sour balance, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of shaking, read [shaking](ref:shaking). On equipment, the [shaker](ref:shaker) and the [strainer](ref:strainer) determine temperature and clarity, and the [highball](ref:vessel) is the registered glass. For the base spirit, read [bourbon](ref:bourbon); for the drink itself, see [Whiskey Sour](ref:cocktail). This recipe records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.

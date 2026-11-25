@@ -99,6 +99,12 @@ verification_scope: source-verified
 
 从佛罗伦萨向南，沿 SS2 公路进入 San Casciano Val di Pesa 的丘陵，Bargino 一带的葡萄园之间会出现两条细长的水平切口。那不是普通的挡土墙，而是安东尼世家经典基安蒂酒庄露在地表的部分：大部分体量埋在山坡里，参观者从切口进入，沿螺旋楼梯向下，穿过发酵、陈酿与品鉴空间。它既是生产设施，也是安东尼家族在经典基安蒂产区的接待中心。
 
+> **到访信息**
+> - 地址：Via Cassia per Siena 133, Loc. Bargino, 50026 San Casciano Val di Pesa, Firenze, Italy。
+> - 开放与预约：以[官方页面](https://www.antinori.it/en/tenuta/estates-antinori/antinori-nel-chianti-classico-estate/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-21。
+
 ![安东尼世家酒庄螺旋楼梯](/media/photos/place-antinori-nel-chianti-classico-78daa3d3.jpg)
 
 图：安东尼世家酒庄的螺旋楼梯与几何空间。图片：Repuli，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Angoli_e_geometrie.jpg)）。

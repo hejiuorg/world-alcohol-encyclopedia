@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: vessel:martini-glass
 source_lang: zh
-source_revision: sha256:9be611d644e5aaeab996ea01a0bc7d3f00f8de344ce5453632eeac4fa0e92c5d
-source_sha256: 9be611d644e5aaeab996ea01a0bc7d3f00f8de344ce5453632eeac4fa0e92c5d
+source_revision: sha256:325c2e365d5d5aa9e40facf2b3958f7be5fcb55701a6c12f185ea6d4f2ea7d94
+source_sha256: 325c2e365d5d5aa9e40facf2b3958f7be5fcb55701a6c12f185ea6d4f2ea7d94
 translation_status: reviewed
 materials:
   - glass
@@ -66,7 +66,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -97,7 +97,7 @@ The Chinese name comes from the glass's typical use, but its uses are not limite
 
 ## Shape and capacity
 
-There is no single capacity standard for a martini glass. Common sizes range from smaller to larger, and rim diameter, cone angle and stem height all vary. This page therefore gives no "standard capacity" and does not assume that every martini glass holds the same number of millilitres.
+There is no single capacity standard for a martini glass. Common sizes range from smaller to larger, and rim diameter, cone angle and stem height all vary. This glass therefore gives no "standard capacity" and does not assume that every martini glass holds the same number of millilitres.
 
 Capacity differences directly affect use: too small a glass will not hold the recipe and overflows when strained; too large a glass spreads the liquid thin, so aroma disperses and the drink warms faster. In practice, see how much your glass holds and adjust the total volume of the recipe rather than filling to the rim. For the relation between shape and capacity, see [choosing a glass](ref:glass).
 
@@ -151,7 +151,7 @@ Without the proper glass, choose another with a slightly narrowed rim and a mode
 
 ## Limits
 
-A martini glass is a tool, not a badge of identity. Pre-chilling, capacity and how you hold it usually affect the drink more than the price of the glass. This page does not recommend brands or present one shape as the only correct choice; use should follow your own glass and your own taste.
+A martini glass is a tool, not a badge of identity. Pre-chilling, capacity and how you hold it usually affect the drink more than the price of the glass. This glass does not recommend brands or present one shape as the only correct choice; use should follow your own glass and your own taste.
 
 **At a glance:** A conical, stemmed short-drink glass with a slightly narrowed rim, also called a cocktail glass, used for the Dry Martini, Margarita and Daiquiri; capacity has no single standard and pre-chilling matters more than shape. 
 

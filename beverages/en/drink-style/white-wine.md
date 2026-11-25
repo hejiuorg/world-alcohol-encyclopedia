@@ -11,8 +11,8 @@ revision: 2
 parent_style_id: drink-style:wine
 translation_of: drink-style:white-wine
 source_lang: zh
-source_revision: sha256:a834651eb78978447e346de03afe65836dd4a98cea4254d3ce662bdc50d99b55
-source_sha256: a834651eb78978447e346de03afe65836dd4a98cea4254d3ce662bdc50d99b55
+source_revision: sha256:8b4a61f8f938e9a2569daa97fee424e65c701ae76a46dfe9170a8e19b68b1161
+source_sha256: 8b4a61f8f938e9a2569daa97fee424e65c701ae76a46dfe9170a8e19b68b1161
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -73,7 +73,7 @@ verification_scope: source-verified
 
 White wine is made from white grape varieties, or from destemmed dark varieties. Unlike red wine, white wine usually does not let the liquid stay in contact with skins for long, so it is pale in colour and low in tannin, with acidity and aroma as its main structural pillars. Its range is wide: from crisp, dry, drink-now wines to rich wines shaped by oak and lees, and to base wines for sparkling wine.
 
-![White wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![White wine thematic illustration](/media/figures/specific/drink-style-white-wine.svg)
 
 Figure: thematic illustration for White wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -123,7 +123,7 @@ Third, sweet white wine is not necessarily sweetened. Late harvest, noble rot, i
 
 ## Boundary
 
-This page describes the category and basic methods, not specific estates, vintages or prices. Check the label, producer information and professional reviews for variety proportions, residual sugar, strength, oak use and ageing potential. White wine can also be the base for [sparkling wine](ref:sparkling), but sparkling wine has its own process and labelling rules.
+This style describes the category and basic methods, not specific estates, vintages or prices. Check the label, producer information and professional reviews for variety proportions, residual sugar, strength, oak use and ageing potential. White wine can also be the base for [sparkling wine](ref:sparkling), but sparkling wine has its own process and labelling rules.
 
 **Short definition:** Wine made from white grapes, or from destemmed dark grapes, usually without skin fermentation; acidity, aroma, lees and oak treatment together shape the style.
 

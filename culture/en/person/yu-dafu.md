@@ -49,7 +49,7 @@ sources:
   - key: yu-dafu-quanji
     title: Complete Works of Yu Dafu
     publisher: Zhejiang University Press
-    note: Used to check dates, writings and classical-style poems; this page quotes only short lines.
+    note: Used to check dates, writings and classical-style poems; this profile quotes only short lines.
     accessed: 2026-11-04
   - key: diaotai-tibi
     title: Written on the Diaotai Wall

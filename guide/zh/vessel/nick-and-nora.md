@@ -71,7 +71,7 @@ sources:
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对形制/工艺/馆藏背景；未复制原文。
     accessed: 2026-11-07
@@ -90,6 +90,15 @@ verification_scope: source-verified
 ![复古尼克与诺拉杯](/media/photos/vessel-nick-and-nora-775b2313.jpg)
 
 图：一只复古尼克与诺拉杯，约 120 ml，杯身带蚀刻波纹。图片：Mangomix，CC BY-SA 4.0，来源：[原始页面](https://commons.wikimedia.org/wiki/File:Nick_and_Nora_cocktail_glass.jpg)。
+
+> **先给结论**
+> **一句话：** 这页判断尼克与诺拉杯为什么影响香气，以及该配什么酒。
+>
+> - **适合谁：** 想弄懂尼克与诺拉杯为什么影响香气与口感的人。
+> - **不适合谁：** 只想要“买最贵杯子”的结论、不关心酒款匹配的人。
+> - **先看这两点：**
+>   - 宽口带来的是“开放”，不是“集中”。
+>   - 1934 年上映的《瘦人》改编自达希尔·哈米特（Dashiell Hammett）的同名侦探小说。
 
 ## 名字来自一部电影
 

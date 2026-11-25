@@ -127,7 +127,7 @@ Today's German beer law is not identical to the 1516 text, and European Union la
 
 Without entering the brewery, the Bräustüberl at Weihenstephaner Berg 10 is the easiest point of contact. It calls itself the brewery's parent house and opens daily from 10:00 to 23:00; the kitchen runs Tuesday to Saturday 11:30–21:00 and Sunday 11:30–20:00, with the beer garden open in fine weather. It also claims to be the birthplace of Obazda, the Bavarian cheese spread, best ordered with a pretzel and a Hell. It is quieter than Munich's [Hofbräuhaus](ref:hofbrauhaus) and less dominated by tour groups, which makes it a good place to turn a visit into a full Bavarian lunch.
 
-Practical notes: the tour and the pub are separate operations, so a meal does not replace a booking. Holiday and some Monday arrangements change, so check the official site. The S1 from Munich to Freising takes about 30–40 minutes, followed by a walk or a bus uphill. The hill is exposed and colder than the town in winter. This page does not list coordinates; use official channels for those.
+Practical notes: the tour and the pub are separate operations, so a meal does not replace a booking. Holiday and some Monday arrangements change, so check the official site. The S1 from Munich to Freising takes about 30–40 minutes, followed by a walk or a bus uphill. The hill is exposed and colder than the town in winter. This entry does not list coordinates; use official channels for those.
 
 Weihenstephan Brewery is best read by starting with the address, moving to the current opening status, and ending with what the place is known for.
 

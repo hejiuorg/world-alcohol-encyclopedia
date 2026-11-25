@@ -72,9 +72,9 @@ verification_scope: source-verified
 
 除渣（disgorgement，法语 dégorgement）是传统法起泡酒在转瓶（riddling）之后，把聚集在瓶口的酵母沉淀排出瓶外的工序。沉淀来自瓶内二次发酵：酵母把糖转化成酒精与二氧化碳，死亡后形成酒泥；转瓶让酒泥逐步滑到瓶口，除渣则把它移除。除渣之后通常要补液（dosage），再换上最终软木塞与网套。它是传统法的收尾动作，也是酒液与酒泥接触的终点。
 
-![除渣（disgorgement） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![除渣（disgorgement） 类型示意图](/media/figures/specific/term-disgorgement.svg)
 
-图：除渣（disgorgement） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是除渣（disgorgement）的实拍。
+图：除渣（disgorgement） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

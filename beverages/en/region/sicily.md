@@ -151,7 +151,7 @@ Putting Sicily into an itinerary means separating the regional centre from speci
 Palermo and Catania are the main airports; Etna and Vittoria are on opposite sides of the island, so combining them in one day is unrealistic. Three wineries plus lunch is a full day, and travel times are longer than the map suggests. Book estate visits and check harvest-season closures.
 
 - Related: [italy](ref:italy), [barbera](ref:barbera), [red-wine](ref:red), [white-wine](ref:white), [fortified-wine](ref:fortified).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 **Short definition:** The largest Mediterranean island and one of Italy’s most productive wine regions; from Marsala fortified wine in the west to Mount Etna in the east, its range is huge, with Nero d’Avola, Catarratto, Grillo and Frappato at the core.
 

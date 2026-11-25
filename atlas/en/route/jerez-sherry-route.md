@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:jerez-sherry-route
 source_lang: zh
-source_revision: sha256:1215f0eebd59ecf21ee6f6b0aa55cc399ab97aec8a636e124bb98c2a4ab67af6
-source_sha256: 1215f0eebd59ecf21ee6f6b0aa55cc399ab97aec8a636e124bb98c2a4ab67af6
+source_revision: sha256:8be677b81db9be546c80fd0e17b4945707ad4b797ea4cbb06aca3f6fdbf83a5c
+source_sha256: 8be677b81db9be546c80fd0e17b4945707ad4b797ea4cbb06aca3f6fdbf83a5c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -106,6 +106,15 @@ Jerez de la Frontera is often treated as the name of a drink, but it is first of
 !["Jerez sherry route: one city, two houses, three paths of ageing" category image](/media/photos/region-jerez-6c8a748e.jpg)
 
 Figure: "Jerez sherry route: one city, two houses, three paths of ageing". Photograph: File:(Jerez de la Frontera) DSC 0560 (6271831479) (cropped).jpg. Credit: Annie and Andrew, CC BY 2.0 ([source page](https://commons.wikimedia.org/wiki/File:(Jerez_de_la_Frontera)_DSC_0560_(6271831479)_(cropped).jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Jerez sherry route: one city, two houses, three paths of ageing, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Jerez sherry route: one city, two houses, three paths of ageing into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - Both houses use solera, but they present it differently.
+>   - Both houses require booking and neither takes walk-in tours.
 
 ## Two stops, one city, one thread
 

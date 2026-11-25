@@ -110,7 +110,7 @@ Treating "Wairau" as one precise plot would be wrong. It is a valley containing 
 
 The core range is the clearest entry point. Sauvignon Blanc is the baseline, usually with lime, passionfruit, herbaceous notes and mineral tension, high in acidity and open in aroma; Chardonnay ranges from fresh to more textured; Pinot Noir offers red cherry, plum and spice in a medium body. Above that sit Te Koko and Te Wāhi, the former another expression of Sauvignon Blanc and the latter more focused on site and winemaking choice; Pelorus is the sparkling line. Ripeness changes the aroma balance from year to year, so one bottle should not define the whole brand.
 
-If you plan to drink only one glass, start with the core Sauvignon Blanc as a reference. If you want to understand how one variety can speak in different voices, choose a tasting that includes Te Koko and compare the texture that fermentation and ageing bring. Availability and tasting-list inclusion change; this page does not turn the range into a fixed inventory.
+If you plan to drink only one glass, start with the core Sauvignon Blanc as a reference. If you want to understand how one variety can speak in different voices, choose a tasting that includes Te Koko and compare the texture that fermentation and ageing bring. Availability and tasting-list inclusion change; this entry does not turn the range into a fixed inventory.
 
 ## Cellar door and Saku: planning the visit
 
@@ -144,6 +144,6 @@ Start with [Marlborough](ref:marlborough) for address and space, then read [Whit
 
 ## References
 
-This page was checked against Cloudy Bay's official visit page, New Zealand Winegrowers' Cloudy Bay entry and Marlborough region page, and Brancott's official brand page. Page verified 2026-11-09. To place this stop in a day, see the [Marlborough wine trail](ref:route); for variety background, see [Sauvignon Blanc](ref:sauvignon) and [white wine](ref:white-wine). Opening hours, bookings and wines are subject to official channels.
+This entry was checked against Cloudy Bay's official visit page, New Zealand Winegrowers' Cloudy Bay entry and Marlborough region page, and Brancott's official brand page. Page verified 2026-11-09. To place this stop in a day, see the [Marlborough wine trail](ref:route); for variety background, see [Sauvignon Blanc](ref:sauvignon) and [white wine](ref:white-wine). Opening hours, bookings and wines are subject to official channels.
 
 Further reading: [A Ginjinha](ref:c-extra-1).

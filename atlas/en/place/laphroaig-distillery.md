@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:laphroaig-distillery
 source_lang: zh
-source_revision: sha256:87808294e4caab24061c04793c01554902eaebdf5bb7b548e9ef2dc1e8d3ec53
-source_sha256: 87808294e4caab24061c04793c01554902eaebdf5bb7b548e9ef2dc1e8d3ec53
+source_revision: sha256:ece4ae1ce0dab854c9c5e699062f03dca83fd4f2532bdec58e24c5125403331a
+source_sha256: ece4ae1ce0dab854c9c5e699062f03dca83fd4f2532bdec58e24c5125403331a
 translation_status: reviewed
 subtype: distillery-visitor
 address: Laphroaig Distillery, Port Ellen, Isle of Islay, Argyll PA42 7DU, Scotland, United Kingdom
@@ -106,9 +106,24 @@ verification_scope: source-verified
 
 Laphroaig sits on the south coast of Islay, almost at sea level, with peatland behind it and the Kilbride stream beside it. Alexander and Donald Johnston founded the distillery in 1815, making it one of the island's earliest licensed concerns. What a visitor sees today is not a whisky theme park but a working plant: malt is turned on its own floor, peat burns in the kiln, seven stills run to a fixed rhythm, and the visitor centre is simply a door into that system.
 
+> **Visit information**
+> - Address: Laphroaig Distillery, Port Ellen, Isle of Islay, Argyll PA42 7DU, Scotland, United Kingdom.
+> - Opening and booking: check the [official page](https://www.laphroaig.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![related photograph of Laphroaig Distillery](/media/photos/place-laphroaig-distillery-6c3ea2c6.jpg)
 
 Figure: Related photograph of Laphroaig Distillery. Image: Bjarne Henning Kvaal, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Laphroaig_Distillery_-_panoramio_(4).jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Laphroaig Distillery deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Laphroaig Distillery who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - "Laphroaig" is Gaelic, glossed by the distillery as "the beautiful hollow by a broad bay".
+>   - The most common mistake is to think Laphroaig's medicinal note comes from added iodine or medicine.
 
 ## Place and history
 
@@ -140,7 +155,7 @@ The address is Laphroaig Distillery, Port Ellen, Isle of Islay, Argyll PA42 7DU,
 
 Visitor-centre hours in the 2026 official timetable are: March to October daily 09:45–17:00, with the lounge bar 10:00–16:30 and last orders at 16:15; November daily 09:45–16:30, with the bar 10:00–16:00 and last orders at 15:45; December Monday to Friday 09:45–16:30. It closes on 24 December and reopens on 5 January. The planned silent season runs from 8 July to 13 September 2026, when the production areas close and visits shift to history, warehouses and tastings. Holiday and maintenance changes follow the day's official notice.
 
-Tickets and booking: every visit entering the production areas must be booked in advance on the official site, and peak season and Fèis Ìle sell out quickly. In 2026 the classic tour (Lessons in Laphroaig / Classic Tour) costs £22 per person and lasts about 1.5 hours, covering malting, mashing, fermentation and distillation before a tasting; the Warehouse One three-cask tasting is about £70 for 1.5 hours and includes a 100ml hand-filled bottle; the Whisky Trail is about £160 for four hours. The range is roughly £22–£160, all including tastings, with the official booking page as the final word. Under-18s may visit with an adult but cannot take part in whisky tastings; some warehouse and production experiences have additional access limits, which should be raised when booking. Island accommodation is tight in season, and trying to combine a tour with a same-day ferry is risky, so allow at least one night. The site is windy and the ground wet: shoes with grip matter more than shoes for photographs. Opening status, prices and bookings are subject to official confirmation. This page was verified on 2026-11-08.
+Tickets and booking: every visit entering the production areas must be booked in advance on the official site, and peak season and Fèis Ìle sell out quickly. In 2026 the classic tour (Lessons in Laphroaig / Classic Tour) costs £22 per person and lasts about 1.5 hours, covering malting, mashing, fermentation and distillation before a tasting; the Warehouse One three-cask tasting is about £70 for 1.5 hours and includes a 100ml hand-filled bottle; the Whisky Trail is about £160 for four hours. The range is roughly £22–£160, all including tastings, with the official booking page as the final word. Under-18s may visit with an adult but cannot take part in whisky tastings; some warehouse and production experiences have additional access limits, which should be raised when booking. Island accommodation is tight in season, and trying to combine a tour with a same-day ferry is risky, so allow at least one night. The site is windy and the ground wet: shoes with grip matter more than shoes for photographs. Opening status, prices and bookings are subject to official confirmation. This entry was verified on 2026-11-08.
 
 ## Etiquette and misconceptions
 

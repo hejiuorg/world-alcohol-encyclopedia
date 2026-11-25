@@ -129,9 +129,9 @@ Sources for Appellation include INAO, European Commission, Directorate-General f
 
 **Sources and limits.** The key claims about Appellation are checked against the following sources: INAO (Used to check the administering body, geographical scope and production rules of the French AOC/AOP system), European Commission, Directorate-General for Agriculture and Rural Development (Used to check the EU framework for PDO, PGI and geographical indications), International Organisation of Vine and Wine (OIV) (Used to check the place of geographical indications in the definition of wine and labelling rules) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Appellation next to Terroir, Wine, Sparkling wine: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Appellation next to Terroir, Wine, Sparkling wine: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
-For Appellation, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Appellation, this term was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

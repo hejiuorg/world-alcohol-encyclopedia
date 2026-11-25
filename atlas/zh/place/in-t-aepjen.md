@@ -91,6 +91,15 @@ verification_scope: source-verified
 
 图：Zeedijk 1 的木结构立面历史照片；房屋约建于 1550 年，现由 Hendrick de Keyser 协会保护。图片：Unknown author Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Historische_stadswoning_met_houten_gevel,_SFA022811075.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断In ’t Aepjen值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去In ’t Aepjen、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 最舒服的时间是下午三点到五点，或晚上十点以后。
+>   - 第一，不要把“1519 年客栈”当成事实。
+
 ## 1519–2026：In ’t Aepjen的历史节点
 先把三个时间分开：建筑、店面、酒吧。Hendrick de Keyser 协会的官方页面把 Zeedijk 1 的建造年份写作 1550 年，并说明协会在 1920 年购入这栋房子；Amsterdam Monumentenstad 的档案则说，关于“Het Aepgen”的最早资料可追到 1543 年，现存房屋约建于 1560 年。两个说法相差十年左右，但都指向十六世纪中期，而不是常被引用的 1519 年。
 

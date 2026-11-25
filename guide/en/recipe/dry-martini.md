@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: dry-martini
 title: Dry Martini recipe (IBA version)
-summary: 60 ml gin and 10 ml dry vermouth stirred over ice and strained into a chilled martini glass, garnished with lemon peel or a green olive; this page explains how dryness, stirring, ice and glass shape decide the result.
+summary: 60 ml gin and 10 ml dry vermouth stirred over ice and strained into a chilled martini glass, garnished with lemon peel or a green olive; this recipe explains how dryness, stirring, ice and glass shape decide the result.
 status: reviewed
 revision: 2
 translation_of: recipe:dry-martini
 source_lang: zh
-source_revision: sha256:db73ee981691f16bb6db189504e17686bad591e9565da00c026704303036bc87
-source_sha256: db73ee981691f16bb6db189504e17686bad591e9565da00c026704303036bc87
+source_revision: sha256:2dcbc4273d0c746c78c8f49d8201fcb2700deb0b40e20776cef5302c364a7a2a
+source_sha256: 2dcbc4273d0c746c78c8f49d8201fcb2700deb0b40e20776cef5302c364a7a2a
 translation_status: reviewed
 product_id: cocktail:dry-martini
 source_version: IBA Official Cocktails (checked October 2026)
@@ -88,7 +88,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -102,20 +102,20 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 # Dry Martini recipe (IBA version)
 
-This is one [Dry Martini](ref:cocktail) recipe with a stated source. "Dry" refers to the proportion of vermouth, not to the brand of spirit or the shape of the glass: with the same motions, a little more or less vermouth sends the drink in a completely different direction. This page records the public IBA version and explains the ratio, the stirring and the pre-chilling.
+This is one [Dry Martini](ref:cocktail) recipe with a stated source. "Dry" refers to the proportion of vermouth, not to the brand of spirit or the shape of the glass: with the same motions, a little more or less vermouth sends the drink in a completely different direction. This recipe records the public IBA version and explains the ratio, the stirring and the pre-chilling.
 
-![Dry Martini recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Dry Martini recipe (IBA version) thematic illustration](/media/figures/specific/recipe-dry-martini.svg)
 
 Figure: thematic illustration for Dry Martini recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
 ## A recipe with a stated source
 
-The public IBA (International Bartenders Association) recipe uses 60 ml gin and 10 ml dry vermouth, stirred over ice and strained into a chilled glass, garnished with lemon peel or a green olive. This page follows that version and explains the purpose of each step so that a problem at home can be traced to a specific stage.
+The public IBA (International Bartenders Association) recipe uses 60 ml gin and 10 ml dry vermouth, stirred over ice and strained into a chilled glass, garnished with lemon peel or a green olive. This recipe follows that version and explains the purpose of each step so that a problem at home can be traced to a specific stage.
 
 The recipe version is recorded separately from the cocktail identity so that it stays traceable. The Martini has been made very differently over the decades: some ratios are close to 2:1, some add vermouth only as a rinse of the glass; some shake and some stir; some use lemon peel and some an olive. These differences are not about who is "authentic"; they are different versions.
 
@@ -182,7 +182,7 @@ Replacing gin with vodka gives a Vodka Martini; adding olive brine gives a Dirty
 
 ## Limits
 
-This page records one source version only. It does not rank brands and does not present 6:1 as the only correct dryness. A recipe is a starting point, not a law; any change should be labelled as a difference. A Martini is strong; sip it slowly and drink water alongside. Do not drink while driving, taking medication or pregnant, and follow local law.
+This recipe records one source version only. It does not rank brands and does not present 6:1 as the only correct dryness. A recipe is a starting point, not a law; any change should be labelled as a difference. A Martini is strong; sip it slowly and drink water alongside. Do not drink while driving, taking medication or pregnant, and follow local law.
 
 For Dry Martini recipe (IBA version), begin with what it is. Then look at where it comes from, and finally ask how it is used. The answers point to different choices, not to a single score.
 

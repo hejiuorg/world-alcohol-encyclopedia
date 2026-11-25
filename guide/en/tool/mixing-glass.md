@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:mixing-glass
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0004b2f3b970c80dc55951649049eb3b161781864f013c702500214b11085495
-source_sha256: 0004b2f3b970c80dc55951649049eb3b161781864f013c702500214b11085495
+source_revision: sha256:e70cd094ee478c1a4f86873c437bbf1529bae8c91617e9d6f1cea5c6b0fe859b
+source_sha256: e70cd094ee478c1a4f86873c437bbf1529bae8c91617e9d6f1cea5c6b0fe859b
 materials:
   - Glass
   - Crystal glass
@@ -42,7 +42,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check methods for stirred and shaken cocktails; no source text is reproduced.
     accessed: 2026-11-04

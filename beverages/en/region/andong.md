@@ -152,9 +152,9 @@ Start with the appellation and its permitted varieties. From there, consider the
 
 **Sources and limits.** The key claims about Andong are checked against the following sources: Korea Heritage Service, Korea Tourism Organization, Korea.net (the rice ingredient, distillation tradition and historical account of Andong soju) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Andong next to South Korea, Soju, Rice: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Andong next to South Korea, Soju, Rice: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this region first, then return to those entries; the links become coordinates, not decoration.
 
-For Andong, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Andong, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 The traditional distillate is typically 40–50% ABV.
 
@@ -165,4 +165,4 @@ Further reading: placing Andong soju within Korea’s traditional drinks is more
 A final note: the best traditional bottles are often small batches, not the loudest advertisement; buy a small bottle before committing to a case.
 
 - Related: [south-korea](ref:south-korea), [soju](ref:soju), [rice](ref:rice), [fermentation](ref:fermentation), [terroir](ref:terroir).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.

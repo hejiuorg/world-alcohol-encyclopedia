@@ -111,8 +111,8 @@ stop_ids:
     note: Return to old Beaune for a cellar tour and the market shop, completing the merchant side of the story.
 mode: walk-car
 updated_at: 2026-11-08
-source_sha256: 678ef602dc1e0b64107621d4daff208ebf3da5eb34e0261f38bd9a07c34c71be
-source_revision: sha256:678ef602dc1e0b64107621d4daff208ebf3da5eb34e0261f38bd9a07c34c71be
+source_sha256: 47a8500f7bfab0951cf8b1d862e40688f214b84737dbb749dc7f009e1a966701
+source_revision: sha256:47a8500f7bfab0951cf8b1d862e40688f214b84737dbb749dc7f009e1a966701
 ---
 
 # Burgundy: Beaune, Meursault and the culture of the négociant
@@ -122,6 +122,15 @@ This route arranges three Burgundian spaces in a loop: the charitable hospital i
 ![Burgundy: Beaune, Meursault and the culture of the négociant photograph](/media/photos/q2-route-burgundy-grands-crus-drive-9d3b5378.jpg)
 
 Figure: Burgundy: Beaune, Meursault and the culture of the négociant. Photograph: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=65061583)).
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Burgundy: Beaune, Meursault and the culture of the négociant, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Burgundy: Beaune, Meursault and the culture of the négociant into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Hôtel-Dieu des Hospices de Beaune, 2 Rue de l'Hôtel-Dieu, 21200 Beaune, founded in 1443 and converted into a museum after patient care ended in the early 1980s.
+>   - The difficulty of Burgundy is not remembering Pinot Noir and Chardonnay; it is understanding the relationship between parcels and people.
 
 ## Route overview
 
@@ -183,7 +192,7 @@ First, separate “museum”, “estate” and “shop”. The Hôtel-Dieu has n
 
 Fourth, read the dates correctly. At Meursault, the eleventh century is the start of the fief and land record, 1973 is the start of the modern estate name and visit system, and 2012 is the change of ownership; at Drouhin, 1880 is the founding year, not the year the whole vineyard was assembled; at the Hôtel-Dieu, 1443 is the foundation and the early 1980s the end of patient care. Fifth, do not equate organic farming with natural wine: Meursault has farmed its own vineyards organically since the 2022 vintage, but winemaking and style still follow Burgundian convention.
 
-For Burgundy: Beaune, Meursault and the culture of the négociant, this page does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map.
+For Burgundy: Beaune, Meursault and the culture of the négociant, this route does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map.
 
 ## Alternatives and extensions
 
@@ -196,6 +205,6 @@ Southwards the D974 runs to Puligny-Montrachet and Chassagne-Montrachet; northwa
 - [Hôtel-Dieu des Hospices de Beaune](ref:hospices): the entry to Beaune's city history, charitable medicine and auction tradition.
 - [Château de Meursault](ref:meursault): Meursault whites, the château building and the cellars.
 - [Maison Joseph Drouhin](ref:drouhin): the family merchant house and the négociant system in Beaune.
-- For background, consult the Burgundy region, white wine, red wine and wine-grading entries in the content repository; this page does not register further references.
+- For background, consult the Burgundy region, white wine, red wine and wine-grading entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.

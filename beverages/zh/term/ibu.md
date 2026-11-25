@@ -71,9 +71,9 @@ verification_scope: source-verified
 
 IBU（International Bitterness Units）是啤酒行业用来量化苦度的单位。1 IBU 约等于每升啤酒含 1 毫克异α-酸，也就是 1 ppm。它描述的是酒花来源的苦味物质浓度，不是舌头当场感受到的“苦味强度”。同一 IBU 的啤酒，可以因为麦芽甜感、碳酸化与温度而显得截然不同。
 
-![IBU（国际苦味单位） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![IBU（国际苦味单位） 类型示意图](/media/figures/specific/term-ibu.svg)
 
-图：IBU（国际苦味单位） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是IBU（国际苦味单位）的实拍。
+图：IBU（国际苦味单位） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

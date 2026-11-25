@@ -97,6 +97,15 @@ updated_at: 2026-11-08
 
 图：里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年相关实景照片。图片：Schumi4ever，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:N-340a_Rioja.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年怎么排、走多久、哪些点不能省。
+>
+> - **适合谁：** 想把里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年排成一日或两日行程、需要知道顺序与停留重点的人。
+> - **不适合谁：** 只想看单个地点、不打算按路线走的人。
+> - **先看这两点：**
+>   - - 第一站：洛佩兹雷迪亚酒庄，Avenida de Vizcaya 3, 26200 Haro；1877 年由 Rafael López de Heredia 创立。
+>   - 到阿罗最方便的方式是火车。
+
 ## 路线概览
 
 - 第一站：[洛佩兹雷迪亚酒庄](ref:lopez)，Avenida de Vizcaya 3, 26200 Haro；1877 年由 Rafael López de Heredia 创立，以地下石窖、自有制桶与多年桶陈的 Reserva、Gran Reserva 闻名。

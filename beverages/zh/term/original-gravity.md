@@ -80,9 +80,9 @@ verification_scope: source-verified
 
 原麦汁浓度（original gravity，OG）指糖化结束、接种酵母之前，麦汁中可溶性固形物（主要是糖与非发酵性浸出物）的浓度。它回答的是“这批原料能提供多少浸出物”，而不是“成品有多少酒精”。在啤酒厂里，OG 是配方与工艺控制的起点；在中国啤酒标签上，它常以“原麦汁浓度 10°P”“11°P”出现，容易被误读成酒精度。
 
-![原麦汁浓度（original gravity） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![原麦汁浓度（original gravity） 类型示意图](/media/figures/specific/term-original-gravity.svg)
 
-图：原麦汁浓度（original gravity） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是原麦汁浓度（original gravity）的实拍。
+图：原麦汁浓度（original gravity） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:honjozo-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9134035547361e6a6b63f8be5f72989dbe466de7172c8d7dc6a5831744bcb59f
-source_sha256: 9134035547361e6a6b63f8be5f72989dbe466de7172c8d7dc6a5831744bcb59f
+source_revision: sha256:68c1a9af84d528c757bcdf907c8ad45b0778a5d7140b7b60575426894c678e8d
+source_sha256: 68c1a9af84d528c757bcdf907c8ad45b0778a5d7140b7b60575426894c678e8d
 legacy_refs: []
 aliases:
   - Honjozo
@@ -92,6 +92,15 @@ Honjozo is one of the eight tokutei meisho categories of [sake](ref:sake), often
 ![Tokusen Masumi honjozo bottle and display card](/media/photos/drink-style-honjozo-sake-df831282.jpg)
 
 Figure: The bottle and shop display card for Tokusen Masumi honjozo; this sake is polished to 60% and has 15% alcohol. Image: At1973, CC BY-SA 4.0, via [source page](https://commons.wikimedia.org/wiki/File:TOKUSEN_Masumi_honjozo_%22Special_Selection%22.jpg).
+
+> **Quick verdict**
+> **In one line:** This style places Honjozo sake on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Honjozo sake with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - Japan's tokutei meisho system divides sake into eight names: ginjo, daiginjo, junmai, junmai ginjo, junmai daiginjo, special junmai, honjozo and special honjozo.
+>   - The first is the polishing ratio.
 
 ## Where honjozo sits
 

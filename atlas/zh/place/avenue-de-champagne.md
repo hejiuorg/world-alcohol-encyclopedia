@@ -99,6 +99,12 @@ verification_scope: source-verified
 
 埃佩尔奈香槟大道（Avenue de Champagne）在埃佩尔奈市中心南侧，从共和国广场一带向东南延伸，约 1.5 公里。它不是一座酒庄，而是一条由香槟酒商宅邸、生产与仓储建筑共同构成的街道。18 世纪这里是巴黎通往德国的大道，被称为“王家之路”；酒商因为地下白垩岩层适合挖酒窖而聚集，街道先后叫过“商业郊区”等名字，1925 年正式改称“香槟大道”。1849 年巴黎—埃佩尔奈铁路通车，把这里与巴黎市场更紧密地连起来。
 
+> **到访信息**
+> - 地址：Avenue de Champagne, 51200 Épernay, France。
+> - 开放与预约：以[官方页面](https://epernay.fr/sortir-bouger/culture-patrimoine/patrimoine-a-decouvrir/lavenue-de-champagne)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-08。
+
 ![埃佩尔奈香槟大道实景照片](/media/photos/q2-place-avenue-de-champagne-77370346.jpg)
 
 图：埃佩尔奈香槟大道。摄影：Avenue de champagne épernay 1409027。署名：G.Garitan，CC BY-SA 4.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=121135039)）。

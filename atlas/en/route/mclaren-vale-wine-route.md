@@ -76,7 +76,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project text, checked against regional associations, winery websites and tourism bodies for routes, stops and booking information; no source text was copied. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, labels, maps and quoted text are excluded; roads, hours, booking rules and prices change, so check official channels. This page does not draw a map.
+  note: Third-party trademarks, labels, maps and quoted text are excluded; roads, hours, booking rules and prices change, so check official channels. This route does not draw a map.
 verification_scope: source-verified
 stop_ids:
   - place_id: place:darenberg
@@ -138,7 +138,7 @@ Allow about 45 minutes from Adelaide to d’Arenberg, 10 minutes from d’Arenbe
 
 Book the Cube, Blending Bench and restaurant at d’Arenberg, and confirm tasting and cellar visits at Wirra Wirra. Neither estate handles large walk-in groups well; for more than six people, email ahead. Spit into the spit bucket and do not take the tasting glass; stairs, stone floors and vineyard tracks call for proper shoes.
 
-This page does not draw a map or provide live prices; roads, hours and booking rules change, so check both estate websites and McLaren Vale Wine before leaving. If an estate closes unexpectedly, do not force it — go to an alternative cellar or the coast and the day still works.
+This route does not draw a map or provide live prices; roads, hours and booking rules change, so check both estate websites and McLaren Vale Wine before leaving. If an estate closes unexpectedly, do not force it — go to an alternative cellar or the coast and the day still works.
 
 ## Further reading and see also
 

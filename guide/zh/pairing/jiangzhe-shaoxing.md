@@ -90,9 +90,17 @@ verification_scope: source-verified
 
 江南的灶台边常放着一碗[黄酒](ref:yellow-wine)：烧菜时舀一勺去腥，吃饭时温一壶佐餐。这不是两种用途，而是同一种材料在两个环节里的分工。绍兴黄酒以糯米与麦曲发酵，氨基酸带来鲜味，残糖带来甜感，酒精与酸度提供结构；江浙菜讲究鲜、糯、甜咸平衡，两者共享的正是这套味觉语言。
 
-![江浙菜配绍兴黄酒：鲜与醇的同一套语言 类型示意图](/media/photos/theme-asian.jpg)
+![江浙菜配绍兴黄酒：鲜与醇的同一套语言 类型示意图](/media/figures/specific/pairing-jiangzhe-shaoxing.svg)
 
-图：江浙菜配绍兴黄酒：鲜与醇的同一套语言 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是江浙菜配绍兴黄酒：鲜与醇的同一套语言的实拍。
+图：江浙菜配绍兴黄酒：鲜与醇的同一套语言 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **专题导航：黄酒与江南餐桌**
+> - [江浙菜配绍兴黄酒](https://hejiu.org/pairings/jiangzhe-shaoxing/)
+> - [黄酒](https://beverages.hejiu.org/styles/yellow-wine/)
+> - [黄酒史](https://culture.hejiu.org/articles/history-of-yellow-wine/)
+> - [中国黄酒博物馆](https://atlas.hejiu.org/places/china-yellow-wine-museum/)
+> - [绍兴黄酒路线](https://atlas.hejiu.org/routes/shaoxing-yellow-wine-trail/)
+> - [第一次喝葡萄酒怎么选](https://hejiu.org/guides/first-wine/)
 
 ## 绍兴黄酒是什么：糯米、麦曲与鉴湖水
 

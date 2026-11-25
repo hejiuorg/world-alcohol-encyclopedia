@@ -55,7 +55,7 @@ sources:
   - key: cha-guan
     title: Teahouse
     publisher: By Lao She; People's Literature Publishing House and other standard editions
-    note: Used to check the characters, setting and three-act structure; this page summarises and quotes no dialogue.
+    note: Used to check the characters, setting and three-act structure; this profile summarises and quotes no dialogue.
     accessed: 2026-11-07
   - key: britannica-lao-she
     title: "Encyclopaedia Britannica: Lao She"
@@ -93,7 +93,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the author's complete works, a standard edition of the play and an encyclopaedia, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and images are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party editions, annotations, trademarks and images are not covered by this licence; sources are used for verification only. This profile uses no third-party images.
 verification_scope: source-verified
 ---
 # Lao She
@@ -110,7 +110,7 @@ His language is built on Beijing speech: clean, sharp and humorous. He neither l
 
 ## Relationship with wine
 
-Lao She is not a writer known as a heavy drinker, and the reliable record does not support claims of daily drinking. Friends' memoirs contain fragments, but not enough to justify conclusions about his tolerance or habits. This page does not turn such anecdotes into biography; it concentrates on the drinking spaces and drinking relationships in his work.
+Lao She is not a writer known as a heavy drinker, and the reliable record does not support claims of daily drinking. Friends' memoirs contain fragments, but not enough to justify conclusions about his tolerance or habits. This profile does not turn such anecdotes into biography; it concentrates on the drinking spaces and drinking relationships in his work.
 
 Start with the period and the role. From there, consider the documented work, then the sources behind the claim. That is how a practical judgment about Lao She is built.
 

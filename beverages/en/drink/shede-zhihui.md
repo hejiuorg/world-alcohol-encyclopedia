@@ -150,7 +150,7 @@ For Shede Zhihui, taste in a small glass: smell the resting spirit first, then s
 
 The Shede brand was launched in 2001, Zhihui Shede followed in March 2018, and the brand introduced the "Chinese wisdom" slogan that year. After the 2019 old-liquor strategy, Zhihui Shede became an important lever in the company's high-end price band.
 
-The product sits where a regional famous liquor is extending into the national high-end market. Prices move with vintage, channel and supply and demand, and this page gives no figures. Treating price as proof of quality, or the "eight-year base spirit" as a bottle-age promise, are common misreadings.
+The product sits where a regional famous liquor is extending into the national high-end market. Prices move with vintage, channel and supply and demand, and this entry gives no figures. Treating price as proof of quality, or the "eight-year base spirit" as a bottle-age promise, are common misreadings.
 
 ## Buying and storage
 

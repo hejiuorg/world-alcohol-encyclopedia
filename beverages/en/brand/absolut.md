@@ -123,7 +123,7 @@ Buyers should verify the product name, flavour designation, strength, volume, or
 
 ## Positioning and price band
 
-The brand sits in a mainstream-to-mid-market price band: the original is a common base for mixing and restaurant use, flavoured versions serve home mixing and parties, and Elyx reaches into the premium segment. Prices vary with country, channel, tax, promotions and pack size, so this page gives no specific retail price.
+The brand sits in a mainstream-to-mid-market price band: the original is a common base for mixing and restaurant use, flavoured versions serve home mixing and parties, and Elyx reaches into the premium segment. Prices vary with country, channel, tax, promotions and pack size, so this brand gives no specific retail price.
 
 A price band is market positioning, not a quality grade. Judging vodka involves raw material, the number of [distillations](ref:distillation), filtration, water and balance, and cannot be inferred from the word "Absolut" or from price. Products with the same name may also differ in version and volume between markets.
 

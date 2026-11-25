@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:shaking
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:229966af4f8f414db947b7a6c3bbeb050f274b58a2fbfdc703c7ce36239510be
-source_sha256: 229966af4f8f414db947b7a6c3bbeb050f274b58a2fbfdc703c7ce36239510be
+source_revision: sha256:26135b53d27aa224e87908a28a546c67fe8c341d1b7582fdfcebe0e61c10f34a
+source_sha256: 26135b53d27aa224e87908a28a546c67fe8c341d1b7582fdfcebe0e61c10f34a
 applies_to_refs:
   - cocktail:negroni
   - recipe:negroni
@@ -51,7 +51,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the general classification of cocktail methods; no source text is reproduced.
     accessed: 2026-11-04
@@ -75,14 +75,14 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 # Shaking
 
 Shaking is a bartending technique in which ingredients and ice are placed in a shaker and shaken hard. It accomplishes three things at once: chilling, dilution and mixing. Compared with stirring, shaking is faster, adds more aeration and dilutes more, so it suits recipes with juice, cream, egg white or syrup rather than every cocktail.
 
-![Shaking thematic illustration](/media/photos/theme-beer.jpg)
+![Shaking thematic illustration](/media/figures/specific/technique-shaking.svg)
 
 Figure: thematic illustration for Shaking. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

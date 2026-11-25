@@ -68,7 +68,7 @@ sources:
     title: "The founder of the Yantai Changyu Wine Company: patriotic overseas Chinese and national industrialist Zhang Bishi"
     url: https://dsyjy.yantai.gov.cn/art/2016/4/7/art_1332_378561.html
     publisher: Yantai Institute of Local History
-    note: Used to check the 1892 investment, the 1893 Qing approval, Sun Yat-sen's 1912 inscription, the 1915 Panama award and production details; the article gives 1840 as his birth year, while this page uses 1841 and notes the discrepancy.
+    note: Used to check the 1892 investment, the 1893 Qing approval, Sun Yat-sen's 1912 inscription, the 1915 Panama award and production details; the article gives 1840 as his birth year, while this profile uses 1841 and notes the discrepancy.
     accessed: 2026-11-07
   - key: people-zhang
     title: The richest overseas Chinese, Zhang Bishi, founded Changyu brandy
@@ -143,7 +143,7 @@ First, Changyu turned wine production into a concrete branch of Chinese industry
 
 The most often quoted assessment is Sun Yat-sen's 1912 inscription "Pinzhong Liquan", which links the quality of the wine to the classical image of a sweet spring. Local histories and mainstream media often call Zhang the "father of Chinese wine" or a "patriotic overseas Chinese and national industrialist".
 
-There are three disputes. First, his birth year: the Yantai Institute of Local History gives 1840, while the Institute of Modern History of the Chinese Academy of Social Sciences and People's Daily Online give 1841. This page uses 1841 and writes "around 1856" for his departure. Second, the founding year: Changyu is usually dated to 1892, but Qing approval came in 1893, and some studies treat 1894 or 1895 as the year of formal establishment or first production. Third, the source of his wealth: local histories state that in Southeast Asia he contracted for liquor tax, pawnshop tax and, in some areas, opium tax.
+There are three disputes. First, his birth year: the Yantai Institute of Local History gives 1840, while the Institute of Modern History of the Chinese Academy of Social Sciences and People's Daily Online give 1841. This profile uses 1841 and writes "around 1856" for his departure. Second, the founding year: Changyu is usually dated to 1892, but Qing approval came in 1893, and some studies treat 1894 or 1895 as the year of formal establishment or first production. Third, the source of his wealth: local histories state that in Southeast Asia he contracted for liquor tax, pawnshop tax and, in some areas, opium tax.
 
 The claim that Changyu was "China's first wine company" also needs qualification. It is usually regarded as China's first large-scale, industrial modern wine enterprise, but winemaking in China long predates 1892.
 

@@ -94,7 +94,7 @@ verification_scope: source-verified
 ---
 # Harry Johnson
 
-Harry Johnson (usually dated to 1845) was the nineteenth-century American bartender who wrote about the bar as a business. This page refers to the author of the New and Improved Bartender's Manual, not to other people of the same name; his identity can be checked from the 1882 title page, its place of publication and its bilingual edition.
+Harry Johnson (usually dated to 1845) was the nineteenth-century American bartender who wrote about the bar as a business. This profile refers to the author of the New and Improved Bartender's Manual, not to other people of the same name; his identity can be checked from the 1882 title page, its place of publication and its bilingual edition.
 
 His name is often paired with Jerry Thomas, but the two contributions differ: Thomas gave bartending a theatrical side, while Johnson gave it an operating manual and management standards.![Harry Johnson category illustration](/media/photos/theme-wine-spirits.jpg)
 
@@ -104,7 +104,7 @@ Figure: Harry Johnson. Project-generated or category illustration used for bar a
 
 He was born on 28 August 1845 in Königsberg, Prussia, now Kaliningrad in Russia. He went to sea as a young man, was stranded in San Francisco in 1862, and then worked as a bartender and bar owner in the United States, in cities including New York, Chicago and San Francisco. Some accounts say he was born on a ship, but the birth year 1845 is fairly consistent.
 
-His death year has no settled answer: 1930, 1933 and 1936 all appear in common accounts. This page therefore leaves the death year empty and explains the dispute in the text. Archives of nineteenth-century bar workers are scattered, and such uncertainty is normal in the study of early bartending.
+His death year has no settled answer: 1930, 1933 and 1936 all appear in common accounts. This profile therefore leaves the death year empty and explains the dispute in the text. Archives of nineteenth-century bar workers are scattered, and such uncertainty is normal in the study of early bartending.
 
 ## Career in the trade
 

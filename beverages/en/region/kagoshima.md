@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:kagoshima
 source_lang: zh
-source_revision: sha256:9c13ec2908a59370dc8e63155b83efe75dd2df2bdf49472ce317527c3e0a9f65
-source_sha256: 9c13ec2908a59370dc8e63155b83efe75dd2df2bdf49472ce317527c3e0a9f65
+source_revision: sha256:2eb82421ddfde8a7eb0efbaee2d553758edfaf859d844438824e655e524ab185
+source_sha256: 2eb82421ddfde8a7eb0efbaee2d553758edfaf859d844438824e655e524ab185
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -100,6 +100,15 @@ Kagoshima is the core honkaku shochu region of southern Kyushu in [Japan](ref:ja
 ![Kagoshima image](/media/photos/region-kagoshima-0e1e1de3.jpg)
 
 Figure: Kagoshima. Image: A pool full of water, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kagoshima_Montage.jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Kagoshima for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Kagoshima with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - The storage vessel affects texture.
+>   - Kagoshima brewery visits follow "kura-meguri" and "shochu street" routes.
 
 ## Definition and scope
 

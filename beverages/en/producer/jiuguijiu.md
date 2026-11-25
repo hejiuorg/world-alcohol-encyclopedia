@@ -81,7 +81,7 @@ Figure: Related photograph of Jiugui Liquor Co., Ltd.. Image: Badagnani, CC BY 3
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; COFCO became the actual controller through the ownership chain and influences governance and channels.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; COFCO became the actual controller through the ownership chain and influences governance and channels.
 
 "Jiugui" is at once the company's short name, the brand name and a product name. A discussion should first establish whether the subject is the listed company, the brand or a specific bottle. The company is registered in Jishou, Hunan, while production and bottling sites should be checked on the label.
 

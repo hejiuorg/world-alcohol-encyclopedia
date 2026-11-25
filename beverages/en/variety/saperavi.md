@@ -21,8 +21,8 @@ tags:
 translation_of: variety:saperavi
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a4abdf2a4466155fe4c70d0db14a87e24fa02f1ad532f56ed76b97e7cebd9f68
-source_sha256: a4abdf2a4466155fe4c70d0db14a87e24fa02f1ad532f56ed76b97e7cebd9f68
+source_revision: sha256:d8b97aacefe44a80e8d32a1b4f7b7ceebd7f0ae9554a2878c904e751b33dcc4e
+source_sha256: d8b97aacefe44a80e8d32a1b4f7b7ceebd7f0ae9554a2878c904e751b33dcc4e
 related:
   - relation: about
     target_id: drink-style:red-wine
@@ -108,6 +108,15 @@ Saperavi is Georgia's most important red grape, a rare teinturier variety with r
 ![Saperavi](/media/photos/variety-saperavi-ca8257db.jpg)
 
 Figure: Saperavi: Saperavibunch (Wikimedia Commons). Image: Lebowskyclone, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Saperavibunch.jpg)).
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Saperavi suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Saperavi with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - Dry and reserve Saperavi is served around 16–18°C; semi-sweet versions can be a little cooler, around 14–16°C.
+>   - The first misreading is to treat a teinturier as an ordinary dark red grape.
 
 ## Definition and naming
 

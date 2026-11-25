@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:cachaca
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:241e0d1378482b8227ce1fd94d2576a96f963f0c2889a095a2a30efc1b2681aa
-source_sha256: 241e0d1378482b8227ce1fd94d2576a96f963f0c2889a095a2a30efc1b2681aa
+source_revision: sha256:8c4acac3f0c46f3b3a90cf806319913e0ee2b83988cd948560f301a8f3a1bd56
+source_sha256: 8c4acac3f0c46f3b3a90cf806319913e0ee2b83988cd948560f301a8f3a1bd56
 legacy_refs: []
 parent_style_id: drink-style:rum
 aroma_family: Fruit / sugarcane
@@ -70,7 +70,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against EU regulation, appellation bodies and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 
@@ -81,6 +81,15 @@ Cachaça is Brazil's sugarcane spirit: juice is pressed from cane, fermented and
 ![Cachaça image](/media/photos/drink-style-cachaca-74382ef5.jpg)
 
 Figure: Cachaça. Image: Tom Tom at German Wikipedia, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cachaca.JPG)).
+
+> **Quick verdict**
+> **In one line:** This style places Cachaça on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Cachaça with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - The Portuguese brought sugarcane to Brazil in the sixteenth century, and plantation agriculture spread quickly along the coast and in the north-east.
+>   - For young cachaça, use a tulip glass.
 
 ## Definition and regulation
 

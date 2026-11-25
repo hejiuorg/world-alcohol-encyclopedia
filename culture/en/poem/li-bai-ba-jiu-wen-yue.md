@@ -11,8 +11,8 @@ revision: 1
 translation_of: poem:li-bai-ba-jiu-wen-yue
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a2342497dd148c13c57711143044c676476c6dd76281d388a00a0880d3ca2d86
-source_sha256: a2342497dd148c13c57711143044c676476c6dd76281d388a00a0880d3ca2d86
+source_revision: sha256:cf1317182399d0f0b6e407f12ff8e92edf96b17f13d8ae8ec015e66eff8b697f
+source_sha256: cf1317182399d0f0b6e407f12ff8e92edf96b17f13d8ae8ec015e66eff8b697f
 author_name: Li Bai
 source_title: Complete Tang Poems
 dynasty: Tang
@@ -93,6 +93,15 @@ Holding a Cup and Asking the Moon begins with a very specific occasion. The note
 ![Liang Kai, Li Bai Strolling](/media/photos/poem-li-bai-ba-jiu-wen-yue-d8ddbfd9.jpg)
 
 Figure: Li Bai Strolling, attributed to Liang Kai of the Southern Song. This is not a manuscript of the poem or a record of Li Bai drinking under the moon. Image: Liang Kai, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Liang_Kai_-_Li_Bai_Strolling.jpg)).
+
+> **Quick verdict**
+> **In one line:** This poem entry explains why Holding a Cup and Asking the Moon: Li Bai on people, time and the moon matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants Holding a Cup and Asking the Moon: Li Bai on people, time and the moon in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - Holding a cup is a physical action; asking the moon is a conversation.
+>   - When did the moon first appear in the blue sky?
 
 ## Title and text
 

@@ -138,7 +138,7 @@ After opening, store upright in a dark, cool place to limit aroma loss and oxida
 
 ## Buying and storage
 
-Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market and batch, so this page gives no figures; other brands from the same distillery should be checked separately rather than generalised from Buffalo Trace's specification.
+Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market and batch, so this entry gives no figures; other brands from the same distillery should be checked separately rather than generalised from Buffalo Trace's specification.
 
 An unopened bottle can be kept for years in a dark, cool place, standing upright to limit contact between liquid and cork. Once opened, the whisky oxidises slowly and its aroma shifts month by month, so it is best finished within a few months; heat and strong light accelerate decline.
 

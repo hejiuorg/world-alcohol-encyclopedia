@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:the-macallan-estate
 source_lang: zh
-source_revision: sha256:ddc150b08684835e0e2ed239856005acf58d7f6cac72047b4a4e2752df02dc57
-source_sha256: ddc150b08684835e0e2ed239856005acf58d7f6cac72047b4a4e2752df02dc57
+source_revision: sha256:02d0d01c770720da183b0faf311c91db355591930928475f6bb130c44e1a69ad
+source_sha256: 02d0d01c770720da183b0faf311c91db355591930928475f6bb130c44e1a69ad
 translation_status: reviewed
 subtype: distillery-visitor
 address: The Macallan Distillery, Easter Elchies, Craigellachie, Moray AB38 9RX, Scotland, United Kingdom
@@ -117,6 +117,15 @@ Leave Craigellachie on the A941, follow the Spey for a short stretch, then turn 
 
 Figure: Easter Elchies House (built in 1700) on the Macallan estate. Image: יאיר צפורי, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Macallan_Easter_Elchies_House_Built_in_1700.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether The Macallan Estate deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to The Macallan Estate who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The legal history begins in 1824, when Alexander Reid obtained a licence in the Easter Elchies area.
+>   - Macallan is not a shot.
+
 ## Place and history
 
 The legal history begins in 1824, when Alexander Reid obtained a licence in the Easter Elchies area. Before that, the Spey valley had a long practice of illicit distillation, with woods, springs and hidden glens providing cover. Easter Elchies House, built in 1700, is a Highland laird's house and the most recognisable image on the label. Keeping "licensed in 1824" apart from "house built in 1700" prevents two very different timelines from collapsing into one phrase about heritage.
@@ -155,7 +164,7 @@ The address is The Macallan Distillery, Easter Elchies, Craigellachie, Moray AB3
 
 The estate works on a book-first basis. The official site separates the distillery experience, the restaurant, the bar and the shop, so confirm what you have reserved: some experiences include production areas and a tasting, others are tasting-only or hospitality-only, and age rules differ. Production floors are wet, with hot and moving equipment, so wear grippy shoes rather than sandals, and bring a layer for the cold buildings. Visitors with mobility needs should explain them in advance; the new building is more accessible than the old distillery, but routes still vary by experience.
 
-Opening hours, prices, sessions and menus change. This page was checked on 2026-11-08; confirm on the official site before travelling. High season and holidays fill up quickly, so book weeks ahead; winter reduces some experiences, though the estate and restaurant may remain open. If you are driving later that day, skip the bar and the tasting, or arrange a separate driver.
+Opening hours, prices, sessions and menus change. This entry was checked on 2026-11-08; confirm on the official site before travelling. High season and holidays fill up quickly, so book weeks ahead; winter reduces some experiences, though the estate and restaurant may remain open. If you are driving later that day, skip the bar and the tasting, or arrange a separate driver.
 
 ## Etiquette and common misunderstandings
 

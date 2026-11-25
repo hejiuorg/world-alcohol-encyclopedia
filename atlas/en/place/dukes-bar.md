@@ -94,7 +94,7 @@ Figure: Dukes Bar. Image: Ricardalovesmonuments, CC BY-SA 4.0, via Wikimedia Com
 
 ## Place and history
 
-Dukes Hotel stands on St James's Place, and the bar's address is 35 St James's Place, London SW1A 1NY. The official page dates the bar's presence in St James's to 1908, which is why this page records 1908 as the founding year; the room and the way it operates have been adjusted many times since, and what you see today is a small, old-fashioned hotel bar built around tableside service rather than a preserved 1908 interior.
+Dukes Hotel stands on St James's Place, and the bar's address is 35 St James's Place, London SW1A 1NY. The official page dates the bar's presence in St James's to 1908, which is why this entry records 1908 as the founding year; the room and the way it operates have been adjusted many times since, and what you see today is a small, old-fashioned hotel bar built around tableside service rather than a preserved 1908 interior.
 
 Ian Fleming drank in St James's in the 1950s, and the bar's association with the line "shaken, not stirred" is a story told by the house and repeated by the press. The hotel itself uses the phrase "legend has it" — the connection explains why the bar is famous, but it is not evidence that Fleming wrote the line there. Alessandro has long led the bar, and the official page describes "Alessandro and his team" carrying on the tradition; staff and schedules change, so do not treat a particular bartender as a guaranteed sighting.
 
@@ -116,7 +116,7 @@ The address is 35 St James's Place, London SW1A 1NY, United Kingdom, in St James
 
 The official pages disagree on hours: the bar page lists Monday to Saturday 15:00–22:00, with last orders at 22:00 and closing at 22:30, while the "Dukes Bar" page lists Monday to Saturday 15:00–23:00 with last orders 45 minutes before closing. Neither lists Sunday service, and the bar took a short pause from 29 July to 16 August 2026, so check the day's official notice before travelling. The bar is walk-in only, and a short wait is possible when busy. The dress code is smart casual: sportswear, shorts and T-shirts are not permitted, except short-sleeved collared shirts such as polo shirts. Guests must be 18 or over, and only assistance dogs are allowed.
 
-The hotel itself is temporarily closed for a staged refurbishment, but Dukes Bar remains open; during the works the hotel entrance is not wheelchair accessible, so guests with limited mobility should contact the hotel in advance. Prices are in the top tier of London hotel bars, and The Infatuation gives the bar its highest price band; check the menu for actual prices. Opening status, prices and bookings are subject to official confirmation. This page was verified on 2026-11-08.
+The hotel itself is temporarily closed for a staged refurbishment, but Dukes Bar remains open; during the works the hotel entrance is not wheelchair accessible, so guests with limited mobility should contact the hotel in advance. Prices are in the top tier of London hotel bars, and The Infatuation gives the bar its highest price band; check the menu for actual prices. Opening status, prices and bookings are subject to official confirmation. This entry was verified on 2026-11-08.
 
 ## Etiquette and common mistakes
 

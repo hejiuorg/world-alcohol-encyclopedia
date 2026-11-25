@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:tokyo-bar-route
 source_lang: zh
-source_revision: sha256:daf8f7c5137dd423d72b2d1291d97b55156c90f0c62d0ace1e6e8f11b26b164a
-source_sha256: daf8f7c5137dd423d72b2d1291d97b55156c90f0c62d0ace1e6e8f11b26b164a
+source_revision: sha256:6b052da42eabde53c3fb0c626ced2d7fddf9dc751709cf5af81b7bbcc359d57d
+source_sha256: 6b052da42eabde53c3fb0c626ced2d7fddf9dc751709cf5af81b7bbcc359d57d
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -89,7 +89,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored route checked against the two bars' official pages and Time Out Tokyo (verified 2026-11-09); no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, menus, photographs and quoted texts are not covered by this licence; hours, booking rules and prices change, so check official channels. No map is drawn and no coordinates are given on this page.
+  note: Third-party trademarks, menus, photographs and quoted texts are not covered by this licence; hours, booking rules and prices change, so check official channels. No map is drawn and no coordinates are given on this route.
 verification_scope: source-verified
 stop_ids:
   - place_id: place:bar-high-five
@@ -109,6 +109,15 @@ This route has only two stops, both in Ginza and linked on foot. The first is Ba
 ![related photograph of Tokyo bar route: two bartenders in Ginza](/media/photos/route-tokyo-bar-route-38c59394.jpg)
 
 Figure: Related photograph of Tokyo bar route: two bartenders in Ginza. Image: Jc8136, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shinjuku_at_night.JPG)).
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Tokyo bar route: two bartenders in Ginza, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Tokyo bar route: two bartenders in Ginza into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - Star Bar's operating status is marked unknown on this route: the official site exists, but there is no verifiable information that it is open on a given day.
+>   - - Stop one: High Five, basement of a building at 5-4-15 Ginza; opened in July 2008, Monday to Saturday 17:00–01:00, last entry 00:00, closed Sundays and Japanese national holidays.
 
 ## Two stops and timing
 
@@ -162,9 +171,9 @@ The relation between [the bar and the city](ref:pubcity) runs both ways here: Gi
 
 ## Boundaries of hours, bookings and etiquette
 
-Star Bar's operating status is marked unknown on this page: the official site exists, but there is no verifiable information that it is open on a given day. Fixed closing days, last orders, reservations and buy-outs belong to official channels. High Five has taken no reservations since 2015 and only confirms seats by telephone at short notice; neither bar welcomes large groups.
+Star Bar's operating status is marked unknown on this route: the official site exists, but there is no verifiable information that it is open on a given day. Fixed closing days, last orders, reservations and buy-outs belong to official channels. High Five has taken no reservations since 2015 and only confirms seats by telephone at short notice; neither bar welcomes large groups.
 
-This page gives no coordinates and draws no map: the two bars' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source only the walking relationship is described in words. For precise navigation, use a live map and follow on-site signs.
+This route gives no coordinates and draws no map: the two bars' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source only the walking relationship is described in words. For precise navigation, use a live map and follow on-site signs.
 
 The route does not guarantee any day's opening. If the first stop is full, do not treat the second as a fallback and rush it; specialist Ginza bars deserve an hour each, and two bars in a night is fuller than three or four. Before the final drink, check the last metro and the taxi rank, then decide how long the last glass can take.
 

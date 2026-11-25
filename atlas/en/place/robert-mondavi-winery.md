@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:robert-mondavi-winery
 source_lang: zh
-source_revision: sha256:e195e6b0faaa55d66156c201e864051a5c89e75421815ceab9eb3d1d771374b9
-source_sha256: e195e6b0faaa55d66156c201e864051a5c89e75421815ceab9eb3d1d771374b9
+source_revision: sha256:c130ddac8f1deea77150e4370430e02b21f9cf54966b1128e9dcccf06fa2e017
+source_sha256: c130ddac8f1deea77150e4370430e02b21f9cf54966b1128e9dcccf06fa2e017
 translation_status: reviewed
 subtype: winery-visitor
 address: 7801 St. Helena Highway, Oakville, CA 94562, USA
@@ -109,6 +109,15 @@ Robert Mondavi Winery stands in Oakville, Napa Valley, close to Highway 29, and 
 ![Robert Mondavi Winery photograph](/media/photos/q2-place-robert-mondavi-winery-9a1f1a11.jpg)
 
 Figure: Robert Mondavi Winery. Photograph: Robert Mondavi winery. Credit: Greg Dunham from Kirkland, WA, USA, CC BY 2.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=2945111)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Robert Mondavi Winery deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Robert Mondavi Winery who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Robert Mondavi was not Napa's first winemaker, but he turned "Napa can make world-class wine" from a claim into an industry consensus.
+>   - The winery recommends booking ahead.
 
 ## Place and history
 

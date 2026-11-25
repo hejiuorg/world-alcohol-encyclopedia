@@ -90,7 +90,7 @@ Figure: Sichuan Langjiu Group Co., Ltd.. Photograph: File:Vertreter der vier Bai
 
 ## Company identity
 
-This page records the producer layer: group name, registered place, founding date and organisational form. The group is the holding platform for the brand and assets, while production, sales and product specifications are handled by subsidiary companies; public material mentions several wholly owned and controlled subsidiaries, and the exact number changes with restructuring.
+This producer records the producer layer: group name, registered place, founding date and organisational form. The group is the holding platform for the brand and assets, while production, sales and product specifications are handled by subsidiary companies; public material mentions several wholly owned and controlled subsidiaries, and the exact number changes with restructuring.
 
 When discussing "Langjiu", first establish whether the subject is the group, the joint-stock company, the brand or a bottle. Registry entries, official profiles and financial reporting do not use identical definitions, so establish the entity first and then check which document a figure comes from.
 
@@ -110,13 +110,13 @@ Brand narrative traces its origin to the late-Qing Xuzhi distillery and to earli
 
 The basic sauce-aroma route is: sorghum as the raw material, qu made at the Dragon Boat Festival, grain added at the Double Ninth Festival, then [qu making](ref:qu-making), high-temperature stacking, multi-round fermentation and fractionated [distillation](ref:distillation), followed by graded storage and blending. Langjiu's public description stresses high temperature, long fermentation and multi-round spirit drawing; base spirits are stored separately by round and grade and then blended across rounds and years.
 
-Storage needs a separate note on this page: the clay-jar warehouse is used for routine ageing, while natural caves such as Tianbao Cave and Dibao Cave are used for cave storage. Temperature and humidity in the caves are relatively stable, and the liquor changes slowly in clay jars. Cave storage is a method, not the exact age of the liquid in a bottle; the age and base-liquor ratio should be checked against company information.
+Storage needs a separate note on this producer: the clay-jar warehouse is used for routine ageing, while natural caves such as Tianbao Cave and Dibao Cave are used for cave storage. Temperature and humidity in the caves are relatively stable, and the liquor changes slowly in clay jars. Cave storage is a method, not the exact age of the liquid in a bottle; the age and base-liquor ratio should be checked against company information.
 
 ## History
 
 In the late Qing, distilling workshops already existed around Erlang, and public accounts usually treat the Xuzhi distillery as the predecessor of the modern plant. In 1933 Huichuan Zaofang renamed "Huisha Langjiu" as "Langjiu". In 1957 production resumed locally and Langjiu entered its development phase in the People's Republic. In 1963 Langjiu won gold at the first Sichuan famous-liquor evaluation.
 
-In March 1998 Sichuan Langjiu Group Co., Ltd. was registered. Between 2002 and 2003 the Baoguang group acquired control of Langjiu Group by taking over state-held equity, and the enterprise moved from state to private ownership. Media accounts differ slightly on the timing, consideration and equity ratio, so this page uses only the points on which the reports agree.
+In March 1998 Sichuan Langjiu Group Co., Ltd. was registered. Between 2002 and 2003 the Baoguang group acquired control of Langjiu Group by taking over state-held equity, and the enterprise moved from state to private ownership. Media accounts differ slightly on the timing, consideration and equity ratio, so this producer uses only the points on which the reports agree.
 
 ## Timeline
 
@@ -129,7 +129,7 @@ In March 1998 Sichuan Langjiu Group Co., Ltd. was registered. Between 2002 and 2
 
 ## Visiting
 
-Langjiu Estate is on the left bank of the Chishui River at Erlang; public material states that it covers about 10 square kilometres and includes brewing, storage and cave-ageing stops. Whether the estate is open to the public, how visits are booked, whom it receives and what it charges all depend on the operator's current official notices. This page does not provide unverified booking numbers or tour prices and does not recommend following old guides to the site.
+Langjiu Estate is on the left bank of the Chishui River at Erlang; public material states that it covers about 10 square kilometres and includes brewing, storage and cave-ageing stops. Whether the estate is open to the public, how visits are booked, whom it receives and what it charges all depend on the operator's current official notices. This producer does not provide unverified booking numbers or tour prices and does not recommend following old guides to the site.
 
 ## Common misconceptions
 

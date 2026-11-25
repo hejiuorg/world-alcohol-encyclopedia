@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:pisco
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:55625e8ac4d29e7ad856c30726493101d7f2a8444543cda0b04f7155d522469d
-source_sha256: 55625e8ac4d29e7ad856c30726493101d7f2a8444543cda0b04f7155d522469d
+source_revision: sha256:42ac182d97f4bf299b4033c9c35d66c833a6ce08e003335e9389ffe95f23185a
+source_sha256: 42ac182d97f4bf299b4033c9c35d66c833a6ce08e003335e9389ffe95f23185a
 legacy_refs: []
 parent_style_id: drink-style:brandy
 aroma_family: Fruit / sugarcane
@@ -74,7 +74,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against EU regulation, appellation bodies and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 
@@ -85,6 +85,15 @@ Pisco is a grape spirit distilled from freshly fermented grape juice, produced i
 ![Pisco image](/media/photos/drink-style-pisco-f6bd686b.jpg)
 
 Figure: Pisco. Image: Cocktailmarler, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Range_of_Pisco.jpg)).
+
+> **Quick verdict**
+> **In one line:** This style places Pisco on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Pisco with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - Pisco grew out of colonial viticulture in South America.
+>   - To read Pisco, start with the production rule, then the strength, then the usual serving; no single check settles it.
 
 ## Definition and regulation
 

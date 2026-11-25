@@ -119,7 +119,7 @@ The raw material is [grape](ref:grape), with [Chardonnay](ref:chardonnay) as the
 
 After harvest the grapes are pressed, the juice is settled and clarified, and yeast carries out [fermentation](ref:fermentation). The traditional Meursault style often ferments or ages in [oak](ref:oak-ageing), with the proportion of new barrels varying by estate and tier, bringing hazelnut, butter and toast while slow oxygen exposure adds texture.
 
-Whether malolactic fermentation is allowed clearly changes acidity and creaminess. Some estates now use less new oak and stress fruit and minerality. These are producer style choices, and this page gives no universal parameters; the estate's own information and the label govern.
+Whether malolactic fermentation is allowed clearly changes acidity and creaminess. Some estates now use less new oak and stress fruit and minerality. These are producer style choices, and this entry gives no universal parameters; the estate's own information and the label govern.
 
 ## Specification and label
 

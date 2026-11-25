@@ -140,7 +140,7 @@ From Gilli, the Duomo and Baptistery are two minutes north; crossing Piazza dell
 - The Firenze Patrimonio Mondiale "Arte e botteghe" PDF: <https://www.firenzepatrimoniomondiale.it/wp-content/uploads/2015/12/AB-PiazzaSignoria.pdf> for the 1733 origin and the Donatello Award.
 - Compare `place:antico-caffe-greco` and `place:caffe-san-carlo-torino` for other Italian historic cafés of the pastry-shop-plus-salon type.
 - For Turin's bicerin and chocolate tradition, read `place:al-bicerin-torino`.
-- This page does not present "Florence's oldest café" as an undisputed record; sources differ on the details of the moves after 1733, and only the supported nodes are stated.
+- This entry does not present "Florence's oldest café" as an undisputed record; sources differ on the details of the moves after 1733, and only the supported nodes are stated.
 - Related entries: [Antico Caffè Greco](ref:greco)、[Caffè San Carlo](ref:san-carlo)、[Al Bicerin](ref:bicerin)、[Camparino in Galleria](ref:camparino)、[A Vienna coffee-house evening](ref:vienna)
 
 **In brief:** Florence's Caffè Gilli, on the corner of Piazza della Repubblica, began in 1733 as a Swiss family's sweet-bread shop; it moved to the new piazza in 1893 and to Palazzo Levi in 1917, keeping woodwork, an old clock and a marble counter.

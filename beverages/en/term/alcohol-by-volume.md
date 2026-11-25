@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: term:alcohol-by-volume
 source_lang: zh
-source_revision: sha256:d51af5305652ed6c8f1e689c1a3008bc75f48a375cb3bf9623ede5232937f080
-source_sha256: d51af5305652ed6c8f1e689c1a3008bc75f48a375cb3bf9623ede5232937f080
+source_revision: sha256:64bfc12e936e07a35979c3c30334b6013bb77640af8c05eda2ee572c7471a002
+source_sha256: 64bfc12e936e07a35979c3c30334b6013bb77640af8c05eda2ee572c7471a002
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -72,7 +72,7 @@ verification_scope: source-verified
 ---
 # Alcohol by volume (ABV)
 
-Alcohol by volume (ABV) describes the share of ethanol in a drink by volume. It is usually written as “% vol”: 12.5% vol means that, at 20 °C, every 100 volume units of the drink contain 12.5 volume units of pure ethanol. It is a basic parameter for formulations, labels, taxation and drinking guidance, but it is not a quality score.![Alcohol by volume (ABV) thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Alcohol by volume (ABV) describes the share of ethanol in a drink by volume. It is usually written as “% vol”: 12.5% vol means that, at 20 °C, every 100 volume units of the drink contain 12.5 volume units of pure ethanol. It is a basic parameter for formulations, labels, taxation and drinking guidance, but it is not a quality score.![Alcohol by volume (ABV) thematic illustration](/media/figures/specific/term-alcohol-by-volume.svg)
 
 Figure: thematic illustration for Alcohol by volume (ABV). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -126,7 +126,7 @@ Different markets allow different tolerances for the declared strength, some as 
 
 **Sources and limits.** The key claims about Alcohol by volume (ABV) are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check the definition and measurement basis of alcoholic strength), European Union (Used to check the labelling rules for alcoholic strength), State Administration for Market Regulation; Standardization Administration of China and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Alcohol by volume (ABV) next to Baijiu, Wine, Original gravity: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Alcohol by volume (ABV) next to Baijiu, Wine, Original gravity: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

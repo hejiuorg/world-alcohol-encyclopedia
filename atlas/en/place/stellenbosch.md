@@ -134,7 +134,7 @@ Around Stellenbosch, link the [Stellenbosch](ref:stellenbosch) sub-routes, Stran
 
 - Comparisons: [stellenbosch](ref:stellenbosch), [south-africa](ref:south-africa), [chenin-blanc](ref:chenin), [cabernet-sauvignon](ref:cabernet), [red-wine](ref:red).
 - Background: [stellenbosch](ref:stellenbosch), [south-africa](ref:south-africa).
-- This page provides no map; visits, vintages and prices should be checked with official channels.
+- This entry provides no map; visits, vintages and prices should be checked with official channels.
 
 **At a glance:** A historic wine town and ward in the Western Cape, South Africa, named in 1679 by Cape governor Simon van der Stel. The town has oak-lined Dorp Street and Cape Dutch, Georgian and Victorian buildings, while more than 150 wineries and five sub-routes surround it; in 1971 it established South Africa’s first official wine route and remains one of the Cape Winelands’ most complete wine destinations. 
 

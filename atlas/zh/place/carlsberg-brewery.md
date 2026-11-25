@@ -92,6 +92,12 @@ verification_scope: source-verified
 
 哥本哈根西南的 Valby 有一片旧工业区，嘉士伯的老厂就坐落在缓坡上。地址是 Gamle Carlsberg Vej 11，今天以 Home of Carlsberg 的名字对外开放；原来的 Visit Carlsberg 品牌与旧网址会导向这里。它不是一个只剩空壳的遗址：展览、酒窖、马厩、花园与酒吧仍在使用，但大规模生产早已迁往别处。理解这座厂，最好把“啤酒”与“实验室”放在一起看，因为嘉士伯对现代酿造的影响，很多来自后者。
 
+> **到访信息**
+> - 地址：Gamle Carlsberg Vej 11, 1799 København V, Denmark。
+> - 开放与预约：以[官方页面](https://www.homeofcarlsberg.com/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-08。
+
 ![嘉士伯酒厂：啤酒、实验室与一座花园实景照片](/media/photos/q2-place-carlsberg-brewery-b547a277.jpg)
 
 图：嘉士伯酒厂：啤酒、实验室与一座花园。摄影：Phillip II, king of Macedonia, Roman copy of Greek original, Ny Carlsberg Glyptotek, Copenhagen (36420294055)。署名：Richard Mortel from Riyadh, Saudi Arabia，CC BY 2.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=69756691)）。

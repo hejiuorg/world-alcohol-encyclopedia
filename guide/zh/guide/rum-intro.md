@@ -58,7 +58,7 @@ references:
 sources:
   - key: iba
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对以朗姆为基酒的经典鸡尾酒框架；未复制原文。
     accessed: 2026-11-07
@@ -91,9 +91,16 @@ verification_scope: source-verified
 
 朗姆酒是从甘蔗或甘蔗副产品出发的蒸馏酒。它的类型很多，差异不只在颜色，还在原料、蒸馏方式、陈年环境与产区风格。第一次接触时，不必背下所有分类，只要抓住“原料—蒸馏—陈年—产区”四条线，就能大致判断一杯朗姆酒的方向。
 
-![朗姆入门：从甘蔗到杯中 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![朗姆入门：从甘蔗到杯中 类型示意图](/media/figures/specific/guide-rum-intro.svg)
 
-图：朗姆入门：从甘蔗到杯中 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是朗姆入门：从甘蔗到杯中的实拍。
+图：朗姆入门：从甘蔗到杯中 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **决策清单**
+> 买之前、去之前，按这三步过一遍。
+>
+> - **怎么选第一瓶：** 第一瓶可以先按用途选。
+> - **从零开始：** 朗姆的原料主要有两类：糖蜜与甘蔗汁。
+> - **主要类型与区别：** 白朗姆或淡朗姆通常不陈年或只短暂陈年，经过过滤，颜色浅、风味干净，适合调酒。
 
 ## 从零开始
 
@@ -161,3 +168,14 @@ verification_scope: source-verified
 - [调酒入门](ref:cocktails)：以朗姆为基酒的调酒结构。
 
 对照阅读：[朗姆酒](ref:rum)、[巴巴多斯](ref:barbados)。
+
+## 快速对比：朗姆的四种常见类型
+
+| 类型 | 原料与工艺 | 风味 | 适合 |
+| --- | --- | --- | --- |
+| 白朗姆 | 甘蔗汁或糖蜜，短陈 | 清爽、甘蔗甜 | 莫吉托、代基里 |
+| 金朗姆 | 短期橡木陈年 | 柔和、香草 | 纯饮或加冰 |
+| 黑朗姆 | 较长陈年、焦糖色 | 浓郁、焦糖、香料 | 深色鸡尾酒、烘焙 |
+| 农业朗姆 | 新鲜甘蔗汁 | 草本、青绿、强烈 | 喜欢鲜明风味的人 |
+
+怎么用：先按场景排除，再用预算和口味微调；这是一张入口表，不是评分表。

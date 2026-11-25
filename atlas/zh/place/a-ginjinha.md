@@ -86,6 +86,12 @@ founded_year: 1840
 
 Largo de São Domingos 的西北角，一块红色霓虹招牌、一扇窄门、一段大理石台面，就是 A Ginjinha 的全部门面。这里没有餐桌，也没有“请慢慢享用”的姿态：客人挤在柜台前，点一小杯深红色的 ginjinha，接过杯子，站在门口喝完，把空杯放回台面，再让位给下一个人。它更像一个饮酒版的街角报亭，而不是可以坐一下午的咖啡馆。
 
+> **到访信息**
+> - 地址：Largo de São Domingos 8, 1100-320 Lisboa, Portugal。
+> - 开放与预约：以[官方页面](https://ginjinhaespinheira.com/en)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-21。
+
 ![A Ginjinha 红色店面](/media/photos/place-a-ginjinha-c9fe334e.jpg)
 
 图：Largo de São Domingos 8 号的 A Ginjinha 店面，红色招牌与站立式吧台。图片：Shadowgate，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ginjinha_store.jpg)）。

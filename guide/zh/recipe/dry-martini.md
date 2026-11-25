@@ -83,7 +83,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA 官方鸡尾酒名单
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 官方鸡尾酒名单；未复制原文。
     accessed: 2026-11-07
@@ -105,9 +105,9 @@ verification_scope: source-verified
 
 这是[干马天尼](ref:cocktail)的一个有明确出处的配方版本。马天尼的“干”指的是味美思的比例，而不是酒的品牌或杯子的形状；同一套动作，味美思多一点或少一点，成品就会走向完全不同的方向。本页记录 IBA 的公开版本，并把比例、搅拌与预冷讲清楚。
 
-![干马天尼配方（IBA 版本） 类型示意图](/media/photos/theme-ingredients.jpg)
+![干马天尼配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-dry-martini.svg)
 
-图：干马天尼配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是干马天尼配方（IBA 版本）的实拍。
+图：干马天尼配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 这是一份有出处的配方
 

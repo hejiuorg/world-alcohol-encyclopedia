@@ -118,7 +118,7 @@ Taste in a small cup: let it rest and smell, then sip so the liquid covers the t
 
 Moutai has Feitian, Five Star, vintage and series products, with different price, positioning and body design. Products of other distilleries in Maotai town are not the same thing as Moutai: the former may use the origin description, while the latter is protected by trademark and geographical indication. Check the producer, trademark, standard and anti-counterfeit information when buying.
 
-The vintage, batch and strength on the label are key to identifying the product. The detailed rules for vintage products are set by company standards and label statements, and packaging colour or the word "aged" is not enough to infer them. Price movements are market behaviour, and this page gives no collecting or investment advice.
+The vintage, batch and strength on the label are key to identifying the product. The detailed rules for vintage products are set by company standards and label statements, and packaging colour or the word "aged" is not enough to infer them. Price movements are market behaviour, and this entry gives no collecting or investment advice.
 
 ## Drinking and pairing
 

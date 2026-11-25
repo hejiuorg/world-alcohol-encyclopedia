@@ -80,9 +80,9 @@ Figure: Yantai Changyu Pioneer Wine Co., Ltd.. Photograph: File:Red and white wi
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the group layer involves investment and winery assets. When discussing "Changyu", first establish whether the subject is the joint-stock company, the group, the brand or a bottle.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the group layer involves investment and winery assets. When discussing "Changyu", first establish whether the subject is the joint-stock company, the group, the brand or a bottle.
 
-Public material uses different starting points for "founding year": counting from the joint-stock company gives 1997, while counting from the Changyu winemaking company goes back to 1892. This page uses 1997 for the founding year and lists the 1892 founding separately in the history section.
+Public material uses different starting points for "founding year": counting from the joint-stock company gives 1997, while counting from the Changyu winemaking company goes back to 1892. This producer uses 1997 for the founding year and lists the 1892 founding separately in the history section.
 
 ## Site and region
 
@@ -116,7 +116,7 @@ In 1892 Zhang Bishi invested in the Changyu winemaking company, introduced grape
 
 ## Visiting
 
-The company is in Zhifu District, Yantai. Opening hours, booking arrangements and ticket prices for drinks-culture facilities such as the Changyu Wine Culture Museum depend on the operator's current notices. This page does not provide unverified booking numbers or tour prices and does not recommend following old guides to the site.
+The company is in Zhifu District, Yantai. Opening hours, booking arrangements and ticket prices for drinks-culture facilities such as the Changyu Wine Culture Museum depend on the operator's current notices. This producer does not provide unverified booking numbers or tour prices and does not recommend following old guides to the site.
 
 ## Common misconceptions
 
@@ -149,5 +149,5 @@ The comparison with [China](ref:china) and [Red wine](ref:red-wine) runs through
 
 - [China](ref:china): the broad context of wine regions.
 - [Wine](ref:wine): the category and process system.
-- [Red wine](ref:red-wine): the main product category on this page.
+- [Red wine](ref:red-wine): the main product category on this producer.
 - [Changyu](ref:changyu-drink): the specific product entry.

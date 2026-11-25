@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: pairing:mexican-food-and-beer
 source_lang: zh
-source_revision: sha256:b8d96bba33a90be5bac2d7fda047333c6fa98bc02eb07af8f127bc32929d91cf
-source_sha256: b8d96bba33a90be5bac2d7fda047333c6fa98bc02eb07af8f127bc32929d91cf
+source_revision: sha256:3626a2ce34d26398e0e641658946d27d62a35f6424a505aeb4b168ca71c14bfe
+source_sha256: 3626a2ce34d26398e0e641658946d27d62a35f6424a505aeb4b168ca71c14bfe
 translation_status: reviewed
 aliases:
   - Mexican food and beer
@@ -70,7 +70,7 @@ sources:
     accessed: 2026-11-07
   - key: iba
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the framework of classic beer-based drinks; no source text is reproduced.
     accessed: 2026-11-07
@@ -90,7 +90,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 # Mexican Food and Beer: Maize, Chilli and Lime in Balance

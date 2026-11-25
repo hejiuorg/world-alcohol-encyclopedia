@@ -81,9 +81,9 @@ verification_scope: source-verified
 
 单一麦芽威士忌（single malt whisky）指同一家酒厂、以 100% 发芽大麦为原料、用壶式蒸馏器生产的威士忌。三个条件缺一不可：一个酒厂、一种谷物、一种设备。它描述的是来源与工艺边界，不是年份、桶型或价格等级。把“单一麦芽”当成“更好的威士忌”的同义词，是市场上最常见的误读。
 
-![单一麦芽威士忌（single malt） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![单一麦芽威士忌（single malt） 类型示意图](/media/figures/specific/term-single-malt.svg)
 
-图：单一麦芽威士忌（single malt） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是单一麦芽威士忌（single malt）的实拍。
+图：单一麦芽威士忌（single malt） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义：三个条件
 

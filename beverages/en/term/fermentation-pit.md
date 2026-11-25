@@ -81,7 +81,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no standard text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this term.
 verification_scope: source-verified
 ---
 # Fermentation pit

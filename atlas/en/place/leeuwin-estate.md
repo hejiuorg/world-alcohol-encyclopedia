@@ -37,8 +37,8 @@ tags:
 translation_of: place:leeuwin-estate
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6d59c7031bdf4862821284485371c4f5e3855276014f2664a44c4a79d77a9592
-source_sha256: 6d59c7031bdf4862821284485371c4f5e3855276014f2664a44c4a79d77a9592
+source_revision: sha256:898ac7587fb22d5c183c7f4ee61adf641e66069ccd29d563335d20a0203c61c5
+source_sha256: 898ac7587fb22d5c183c7f4ee61adf641e66069ccd29d563335d20a0203c61c5
 related:
   - relation: about
     target_id: region:margaret-river
@@ -102,6 +102,15 @@ Leeuwin Estate is one of Margaret River’s “founding five” wineries: the Ho
 
 Figure: Leeuwin Estate. Photograph: File:2016 Margaret River Australia. Watershed vineyard.jpg. Credit: Lasthib, CC BY-SA 4.0 ([source page](https://commons.wikimedia.org/wiki/File:2016_Margaret_River_Australia._Watershed_vineyard.jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Leeuwin Estate deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Leeuwin Estate who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Leeuwin Estate lies in southern Margaret River, at 1379 Bussell Highway, about ten minutes from the town of Margaret River.
+>   - The visit centres on the cellar door, restaurant, Art Series gallery and open-air concert site.
+
 ## Position and history
 
 Leeuwin Estate lies in southern Margaret River, at 1379 Bussell Highway, about ten minutes from the town of Margaret River. It did not begin as a winery: in 1969 Denis and Tricia Horgan bought the 121-acre cattle farm together with a plumbing business, with no complete plan to make wine. The turning point came in 1972, when Napa Valley’s Robert Mondavi visited and judged the maritime climate, laterite gravel over ancient granite and long, even growing season suitable for high-quality Chardonnay. Mondavi became an adviser and mentor.
@@ -159,5 +168,5 @@ The best way to understand Leeuwin is not to buy many vintages at once but to co
 ## Further reading and see also
 
 - Related entries: [margaret-river](ref:margaret-river), [australia](ref:australia), [chardonnay](ref:chardonnay), [syrah](ref:shiraz), [terroir](ref:art).
-- This page does not provide live prices, menus, concert line-ups or opening status; check the estate website and regional association before visiting.
+- This entry does not provide live prices, menus, concert line-ups or opening status; check the estate website and regional association before visiting.
 - To understand Block 20, ask at the tasting about the fruit proportion, oak time and new-oak percentage in that year’s Art Series Chardonnay, then compare it with Prelude.

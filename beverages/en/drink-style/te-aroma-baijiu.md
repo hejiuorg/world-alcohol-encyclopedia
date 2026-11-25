@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:te-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5303bf6c0f3df2c80496054703b9e7f331c26a14373cffce506c3601133d578d
-source_sha256: 5303bf6c0f3df2c80496054703b9e7f331c26a14373cffce506c3601133d578d
+source_revision: sha256:d367f43e9ff601000f4dbb0fe6aaacb3a271e1a69904c05d08500759ecb82871
+source_sha256: d367f43e9ff601000f4dbb0fe6aaacb3a271e1a69904c05d08500759ecb82871
 legacy_refs: []
 aliases:
   - Texiangxing baijiu
@@ -93,7 +93,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public national-standard information, company material and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 
@@ -101,9 +101,18 @@ verification_scope: source-verified
 
 Te-aroma is often summed up as "three aromas, yet belonging to none": it has the pit aroma of strong aroma, the cleanliness of light aroma and the scorch of sauce aroma, without settling into any of them. The phrase sounds abstract, but the process is concrete: rice as the bone, daqu cultured from wheat flour, wheat bran and distillers' grains as the soul, and red conglomerate stone pits as the bed. Those three elements give te-aroma its frame.
 
-![Te-aroma baijiu thematic illustration](/media/photos/theme-asian.jpg)
+![Te-aroma baijiu thematic illustration](/media/figures/specific/drink-style-te-aroma-baijiu.svg)
 
 Figure: thematic illustration for Te-aroma baijiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This style places Te-aroma baijiu on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Te-aroma baijiu with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - The national standard has gone through three editions.
+>   - The main material is rice, not sorghum.
 
 ## Rice as the bone, three aromas as the application
 

@@ -60,7 +60,7 @@ sources:
     title: Quan Tang Shi (全唐诗)
     url: https://ctext.org/quantangshi
     publisher: Zhonghua Book Company edition; the Chinese Text Project provides the online text
-    note: Common textual source for Li Bai's poems; this page quotes only short passages and no source text is reproduced.
+    note: Common textual source for Li Bai's poems; this profile quotes only short passages and no source text is reproduced.
     accessed: 2026-11-04
   - key: qimin-yaoshu
     title: Qimin Yaoshu (齐民要术)

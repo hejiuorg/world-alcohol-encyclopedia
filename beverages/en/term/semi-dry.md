@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:semi-dry
 source_lang: zh
-source_revision: sha256:e2ac3184e1a1ad2ff4c39f3974a7b2daf00605c3400234066cb8913e9dfa628c
-source_sha256: e2ac3184e1a1ad2ff4c39f3974a7b2daf00605c3400234066cb8913e9dfa628c
+source_revision: sha256:13fe420d4868dfe4fe5ca926a0a4b62f7d434f0038e9c9cce73841a5aadd7048
+source_sha256: 13fe420d4868dfe4fe5ca926a0a4b62f7d434f0038e9c9cce73841a5aadd7048
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -77,13 +77,13 @@ verification_scope: source-verified
 
 Semi-dry (often written medium dry in EU labelling) is the middle residual-sugar band: above dry, below semi-sweet and sweet. That “middle” has no single global number, because still wine, sparkling wine and national rules each use their own ranges. The same phrase can point to very different sweetness in Champagne and in an ordinary still wine.
 
-![Semi-dry thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Semi-dry thematic illustration](/media/figures/specific/term-semi-dry.svg)
 
 Figure: thematic illustration for Semi-dry. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
 ## Definition and boundaries
 
-At its core, semi-dry means [residual sugar](ref:residual-sugar) lies between dry and semi-sweet. In the EU still-wine labelling system, dry has an upper limit of 4 g/L; semi-dry (medium dry) normally means above 4 g/L and no more than 12 g/L, with the upper limit rising to 18 g/L when total acidity is at least 10 g/L; above that comes medium sweet and sweet. The band is therefore a conditional range, not one fixed number.
+At heart, semi-dry means [residual sugar](ref:residual-sugar) lies between dry and semi-sweet. In the EU still-wine labelling system, dry has an upper limit of 4 g/L; semi-dry (medium dry) normally means above 4 g/L and no more than 12 g/L, with the upper limit rising to 18 g/L when total acidity is at least 10 g/L; above that comes medium sweet and sweet. The band is therefore a conditional range, not one fixed number.
 
 The boundary also depends on category. In sparkling wine, “semi-dry” corresponds to demi-sec at roughly 32–50 g/L, far above the still-wine band; Champagne brut is below 12 g/L, even lower than the still-wine semi-dry ceiling. Applying the still-wine standard to Champagne produces the wrong answer. Always confirm the category and the applicable rules first.
 

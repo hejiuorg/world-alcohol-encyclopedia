@@ -155,7 +155,7 @@ Fifth, judging authenticity by price or packaging. The village name, the bottler
 
 ## Further reading
 
-- [Red wine](ref:red-wine): the wider category to which this page belongs.
+- [Red wine](ref:red-wine): the wider category to which this entry belongs.
 - [Gamay](ref:gamay): the only grape variety in Brouilly.
 - [France](ref:france): French wine law and appellations.
 - [Beaujolais](ref:beaujolais): the ten-cru framework and the southern zone.

@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:cocktail-pick
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:48eacdead4f6a3178ffc7c6d7ddabbeb6cc8e75654c2a7ba529de5c831ed45b1
-source_sha256: 48eacdead4f6a3178ffc7c6d7ddabbeb6cc8e75654c2a7ba529de5c831ed45b1
+source_revision: sha256:e6474e0fe309f73d87b4380d38e3b77a8382426c946e9e57bac22ae044e766c5
+source_sha256: e6474e0fe309f73d87b4380d38e3b77a8382426c946e9e57bac22ae044e766c5
 materials:
   - Bamboo
   - Plastic
@@ -65,7 +65,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check classic recipes garnished with olives, cherries and similar items; no source text is reproduced.
     accessed: 2026-11-07
@@ -94,6 +94,15 @@ A cocktail pick is a thin pin that fixes an olive, cherry, citrus peel or pearl 
 ![Whiskey sour with cherries on a cocktail pick](/media/photos/tool-cocktail-pick-642b86a7.jpg)
 
 Figure: A whiskey sour with two maraschino cherries on a metal cocktail pick, alongside a twist of lemon peel. Image: Ilikefood, CC BY-SA 4.0, via [source page](https://commons.wikimedia.org/wiki/File:Whiskey_sour_in_coupe_glass_with_garnishes.jpg).
+
+> **Quick verdict**
+> **In one line:** This tool helps you decide whether Cocktail pick is worth buying, and whether a substitute works.
+>
+> - **Best for:** Anyone who wants the purpose, substitutes and limits of Cocktail pick.
+> - **Not for:** If you want want a gear list without the use case.
+> - **Check first:**
+>   - Olives sit in brine, cherries and citrus carry acid, and both accelerate corrosion.
+>   - A pick changes the space at the rim.
 
 ## Three jobs on one thin stick
 

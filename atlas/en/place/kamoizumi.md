@@ -127,7 +127,7 @@ A notice at the top of the tour page says that, in light of the pandemic, bookin
 
 ## Visiting notes and the neighbourhood
 
-The address is 2-4 Saijo Kamiiichi-machi; from JR Saijo Station, walk into Sakagura-dori and follow the street signs. Ordinary cars can park nearby, but there is no dedicated coach bay. Take coordinates from official channels; this page gives none. Wear flat shoes, because the floor can be wet, and ask about the route before bringing small children or a pushchair: not every stretch around the fermentation and equipment areas is suitable for stopping.
+The address is 2-4 Saijo Kamiiichi-machi; from JR Saijo Station, walk into Sakagura-dori and follow the street signs. Ordinary cars can park nearby, but there is no dedicated coach bay. Take coordinates from official channels; this entry gives none. Wear flat shoes, because the floor can be wet, and ask about the route before bringing small children or a pushchair: not every stretch around the fermentation and equipment areas is suitable for stopping.
 
 To set two versions of the junmai story side by side, the [Hakushika Sake Museum](ref:hakushika) in Nishinomiya offers a different sample: a museum and archive first, with a visit closer to a gallery. Kamoizumi is a working brewery plus a weekend cafe. Both reward a slow visit, but only at Kamoizumi can you compare several glasses and then walk back to the brewery gate in a few steps. Kamotsuru's No. 1 Brewery and other permanent tasting stops are also near Saijo Station, so half a day can hold two or three addresses.
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: organization:oiv
 source_lang: zh
-source_revision: sha256:6006dd1cd3423d68caa456fe135d8f8fd6101b31695fa0252b2072fa117658f6
-source_sha256: 6006dd1cd3423d68caa456fe135d8f8fd6101b31695fa0252b2072fa117658f6
+source_revision: sha256:00151eaa143cf3acc1e154eed10e51e4a9fc86ff7fb0b7d0af6ab63916062763
+source_sha256: 00151eaa143cf3acc1e154eed10e51e4a9fc86ff7fb0b7d0af6ab63916062763
 translation_status: reviewed
 region_refs:
   - region:france
@@ -59,7 +59,7 @@ sources:
   - key: oxford-companion-wine
     title: The Oxford Companion to Wine
     publisher: Oxford University Press; edited by Jancis Robinson and Julia Harding
-    note: Background reference for international wine standards, regulation and the industry; no source text is reproduced on this page, and institutional details follow the OIV official pages.
+    note: Background reference for international wine standards, regulation and the industry; no source text is reproduced on this organization, and institutional details follow the OIV official pages.
     accessed: 2026-11-04
     url: https://global.oup.com/academic/product/the-oxford-companion-to-wine-9780198871316
   - key: c-ref-4
@@ -78,7 +78,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the OIV official history and presentation pages, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations, logos and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations, logos and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this organization.
 verification_scope: source-verified
 ---
 
@@ -89,6 +89,15 @@ The International Organisation of Vine and Wine is usually shortened to “OIV�
 ![The International Organisation of Vine and Wine: from the 1924 wine office to today thematic illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: thematic illustration for The International Organisation of Vine and Wine: from the 1924 wine office to today. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This organization explains the industry role of The International Organisation of Vine and Wine: from the 1924 wine office to today, and what it has done.
+>
+> - **Best for:** Anyone who wants the industry role and history of The International Organisation of Vine and Wine: from the 1924 wine office to today.
+> - **Not for:** If you want only want industry gossip and not the organisation’s function.
+> - **Check first:**
+>   - For general readers, the OIV's value is the backstage language it gives to the wine world.
+>   - The OIV's official presentation says it provides information to producing and consuming countries so that they can draw up regulations, reduce trade barriers.
 
 ## What kind of organisation it is
 

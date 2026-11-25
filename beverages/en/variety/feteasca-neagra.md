@@ -22,8 +22,8 @@ tags:
 translation_of: variety:feteasca-neagra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6821e5d29bbc546ac359bf1ea75b0494ca9cffb54777a29bfceedf020a1e572e
-source_sha256: 6821e5d29bbc546ac359bf1ea75b0494ca9cffb54777a29bfceedf020a1e572e
+source_revision: sha256:264a0c1dc5e87aa15f8afa6002627a26e2742bd87a51e194df2b4cae1fc17e4f
+source_sha256: 264a0c1dc5e87aa15f8afa6002627a26e2742bd87a51e194df2b4cae1fc17e4f
 related:
   - relation: about
     target_id: variety:pinot-noir
@@ -104,6 +104,15 @@ Fetească Neagră is an ancient indigenous red grape of Romania and Moldova, who
 Read the variety first at home: its ripening rhythm, bunch structure and tannin direction under a continental climate, then trace what survives or what gets amplified when it is made into dry red, off-dry or rosé styles. The same name appears in different descriptions across sources — one focuses on botany, another on market style, a third on a single region's rules.![Fetească Neagră](/media/photos/variety-feteasca-neagra-b06465d5.jpg)
 
 Figure: Fetească Neagră: Feteasca Neagra (Wikimedia Commons). Image: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Feteasca_Neagra.jpg)).
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Fetească Neagră suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Fetească Neagră with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - Fetească Neagră dry reds are best served at 15–18 °C: young, fruit-forward examples at 15–16 °C, while structured, oak-aged wines can go up to 17–18 °C.
+>   - The most common mistake is treating "Fetească" as one variety.
 
 ## Definition and naming
 

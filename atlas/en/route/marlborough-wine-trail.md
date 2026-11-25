@@ -131,7 +131,7 @@ The cellar door is open seven days, 10:00–17:00, closed on Christmas Day and G
 
 Yealands stands on Seaview Road at Seddon, where the vineyard is close enough to the coast for sea mist to reach the vines. The winery opened on 8 August 2008 and its official account describes it as the first winery in the world to be Toitū carbonzero certified from inception; measures include solar power, wind turbines, vine prunings and homemade compost. The tasting room offers local cheeses and cured meats, and a complimentary self-drive White Road tour leads through the vineyard, coast and native vegetation.
 
-The visit feels more like a coastal farm than a city cellar: wind, bright light and grass or gravel paths make sturdy shoes and a windproof layer more useful than formal clothes. The official site may show an age gate in some regions, so opening hours and tasting formats should be confirmed on an accessible official page or by contacting the winery directly; this page does not turn an unverified timetable into fact. The address is 534 Seaview Road, Seddon, Marlborough 7285; coordinates should be taken from official channels.
+The visit feels more like a coastal farm than a city cellar: wind, bright light and grass or gravel paths make sturdy shoes and a windproof layer more useful than formal clothes. The official site may show an age gate in some regions, so opening hours and tasting formats should be confirmed on an accessible official page or by contacting the winery directly; this route does not turn an unverified timetable into fact. The address is 534 Seaview Road, Seddon, Marlborough 7285; coordinates should be taken from official channels.
 
 ## Driving, booking and tasting
 
@@ -141,4 +141,4 @@ Book the two stops separately: Cloudy Bay recommends booking its cellar door, an
 
 ## References
 
-This page was checked against Cloudy Bay's official visit page, New Zealand Winegrowers' Marlborough region page and 2026 release, the Yealands entry in the New Zealand Winegrowers directory, and Brancott's official brand page. Page verified 2026-11-09. Opening hours, booking rules, wines and prices change, so check each official channel.
+This route was checked against Cloudy Bay's official visit page, New Zealand Winegrowers' Marlborough region page and 2026 release, the Yealands entry in the New Zealand Winegrowers directory, and Brancott's official brand page. Page verified 2026-11-09. Opening hours, booking rules, wines and prices change, so check each official channel.

@@ -10,8 +10,8 @@ summary: Edgar Degas's canvas of 1875–1876, originally titled In a Café, hang
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:f1d604a06eab3ce04d4b2b467a6897d1d6780ae53d5121371c4abdf21335459f
-source_sha256: f1d604a06eab3ce04d4b2b467a6897d1d6780ae53d5121371c4abdf21335459f
+source_revision: sha256:3b54454004168a4d5f37447f39daae1ca500b0155d6a1c739c27d750b804560e
+source_sha256: 3b54454004168a4d5f37447f39daae1ca500b0155d6a1c739c27d750b804560e
 source_lang: zh
 translation_status: reviewed
 creator_refs: []
@@ -83,13 +83,22 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original text by the project, checked against the Musée d'Orsay, Google Arts & Culture and art-historical reference works; quotations are limited to short phrases. The project owner declared CC BY 4.0 for site content on 2026-10-29.
-  note: The painting is in the public domain; Musée d'Orsay and RMN photography and catalogue text are not. This page uses a public-domain reproduction from Wikimedia Commons.
+  note: The painting is in the public domain; Musée d'Orsay and RMN photography and catalogue text are not. This artwork entry uses a public-domain reproduction from Wikimedia Commons.
 verification_scope: source-verified
 ---
 
 ![Reproduction of Degas's In a Café (L'Absinthe), 1875–1876, Musée d'Orsay; not a photograph of the café.](/media/photos/artwork-degas-absinthe-7ae4b4bb.jpg)
 
 Figure: Reproduction of Degas's In a Café (L'Absinthe), 1875–1876, Musée d'Orsay; not a photograph of the café.. Image: Edgar Degas, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project.jpg)).
+
+> **Quick verdict**
+> **In one line:** This artwork entry helps you look at L'Absinthe: Degas Paints Two People Sitting Together and Looking Past Each Other, and place it in the history of drinking imagery.
+>
+> - **Best for:** Anyone who wants L'Absinthe: Degas Paints Two People Sitting Together and Looking Past Each Other in the history of drinking imagery, not as a standalone picture.
+> - **Not for:** If you want want a single image without the period or drinking context.
+> - **Check first:**
+>   - Absinthe occupies a small patch of the canvas, but it anchors the whole picture.
+>   - Start with the two gazes: hers down, his to the right.
 
 ## Two people, looking past each other
 

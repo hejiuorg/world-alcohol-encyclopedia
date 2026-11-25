@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: mint-julep
 title: Mint Julep recipe (IBA version)
-summary: 60 ml bourbon, 4 fresh mint sprigs, 1 tsp powdered sugar and 2 tsp water, gently pressed in the cup and stirred with crushed ice until the cup frosts; this page covers why crushed ice is the body, the pressing technique, the frost signal and the racing tradition.
+summary: 60 ml bourbon, 4 fresh mint sprigs, 1 tsp powdered sugar and 2 tsp water, gently pressed in the cup and stirred with crushed ice until the cup frosts; this recipe covers why crushed ice is the body, the pressing technique, the frost signal and the racing tradition.
 status: reviewed
 revision: 3
 translation_of: recipe:mint-julep
 source_lang: zh
-source_revision: sha256:336e0ba47e8dd9e12c6a7d56839b0344a5d777ef0c25d4429550f360f796d37f
-source_sha256: 336e0ba47e8dd9e12c6a7d56839b0344a5d777ef0c25d4429550f360f796d37f
+source_revision: sha256:13e7302b955558f5878969bf9f208697d14f5e061098bcf1819de576de398458
+source_sha256: 13e7302b955558f5878969bf9f208697d14f5e061098bcf1819de576de398458
 translation_status: reviewed
 product_id: cocktail:mint-julep
 source_version: IBA Official Cocktails (checked 2026-11-07)
@@ -94,7 +94,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the official list and category of this cocktail; no source text is reproduced.
     accessed: 2026-11-07
@@ -119,17 +119,26 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
 # Mint Julep recipe (IBA version)
 
-The modern identity of the Mint Julep is almost inseparable from the Kentucky Derby: on the first Saturday in May, the crowd at Churchill Downs holds this drink, the metal cup white with frost and a thick bunch of mint at the rim. That picture is only about a century old, while the julep itself is older — nineteenth-century pharmacies and hotels in the American South were already selling mint-and-ice drinks of the same family. This page uses the IBA Contemporary Classic version: 60 ml bourbon, 4 fresh mint sprigs, 1 tsp powdered sugar and 2 tsp water, gently pressed in a julep cup, filled with crushed ice and stirred until the cup frosts.
+The modern identity of the Mint Julep is almost inseparable from the Kentucky Derby: on the first Saturday in May, the crowd at Churchill Downs holds this drink, the metal cup white with frost and a thick bunch of mint at the rim. That picture is only about a century old, while the julep itself is older — nineteenth-century pharmacies and hotels in the American South were already selling mint-and-ice drinks of the same family. This recipe uses the IBA Contemporary Classic version: 60 ml bourbon, 4 fresh mint sprigs, 1 tsp powdered sugar and 2 tsp water, gently pressed in a julep cup, filled with crushed ice and stirred until the cup frosts.
 
-![Mint Julep recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Mint Julep recipe (IBA version) thematic illustration](/media/figures/specific/recipe-mint-julep.svg)
 
 Figure: thematic illustration for Mint Julep recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Mint Julep recipe (IBA version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Mint Julep recipe (IBA version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - Many people treat crushed ice as the tool that makes the drink cold, but in a Mint Julep the ice is the structure itself.
+>   - The IBA ratio reads as 60 ml of base spirit with 1 tsp powdered sugar and 2 tsp water.
 
 ## Crushed ice is the body
 
@@ -193,8 +202,8 @@ Replacing bourbon with rye gives a spicier frame; replacing it with aged rum mak
 
 Replacing crushed ice with large cubes gives slower chilling and slower dilution, pushing the drink towards iced whiskey; replacing the metal cup with glass changes both the frost and the temperature curve, and the equipment difference should be stated. Some branches add a little soda water or lemon juice for freshness, but that changes the sweet-sour structure and cannot keep the same title without a note.
 
-When recording a variation, say which ingredient changed, how the ratio moved and whether the equipment changed; otherwise the same name will describe very different drinks. This page records only the IBA version; other approaches should carry their own sources.
+When recording a variation, say which ingredient changed, how the ratio moved and whether the equipment changed; otherwise the same name will describe very different drinks. This recipe records only the IBA version; other approaches should carry their own sources.
 
 ## See also
 
-For the general structure and balance of a cocktail, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of stirring, read [stirring](ref:stirring). For bourbon styles, see [bourbon](ref:bourbon); for the regional background, see [Kentucky](ref:kentucky); for the drink itself, see [Mint Julep](ref:cocktail); for the glass, see [rocks glass](ref:vessel). This page records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.
+For the general structure and balance of a cocktail, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of stirring, read [stirring](ref:stirring). For bourbon styles, see [bourbon](ref:bourbon); for the regional background, see [Kentucky](ref:kentucky); for the drink itself, see [Mint Julep](ref:cocktail); for the glass, see [rocks glass](ref:vessel). This recipe records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.

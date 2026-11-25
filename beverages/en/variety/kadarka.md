@@ -146,7 +146,7 @@ To study Kadarka, read botanical and viticultural sources first, then taste thre
 Compare a single-varietal Kadarka with a Kékfrankos from the same region, then a Kadarka-led Bikavér with a Kékfrankos-led one. Record maceration length and blend proportion; colour alone will not tell you which grape is doing the structural work.
 
 - Related: [blaufrankisch](ref:blaufrankisch), [red-wine](ref:red), [terroir](ref:terroir), [oak-ageing](ref:oak), [vintage](ref:vintage).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **At a glance:** A red grape of Hungary and the Balkans, pale in colour, high in acidity and low in tannin, with red cherry, spice and pepper; once Hungary’s most important red grape, it survives as a traditional variety in Szekszárd and Eger. 
 

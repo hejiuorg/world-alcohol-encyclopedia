@@ -118,6 +118,15 @@ verification_scope: source-verified
 
 图：麦卡伦庄园的 Easter Elchies House（建于 1700 年）。图片：יאיר צפורי，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Macallan_Easter_Elchies_House_Built_in_1700.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断麦卡伦庄园值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去麦卡伦庄园、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 麦卡伦的品鉴不适合“一口闷”。
+>   - 这里是生产与接待并存的场所。
+
 ## 1824 年：麦卡伦庄园的关键起点
 麦卡伦的合法历史从 1824 年开始。这一年，Alexander Reid 在 Easter Elchies 一带取得执照；在此之前，Spey 河谷已有大量非法蒸馏，地处的森林、泉水与隐蔽谷地是当时蒸馏者的条件。酒标上的 Easter Elchies House 建于 1700 年，是一座高地庄园宅邸，也是品牌最常使用的视觉符号。把“1824 年合法化”和“1700 年宅邸”分开看，才不会把两个时间混成一句“历史悠久”。
 

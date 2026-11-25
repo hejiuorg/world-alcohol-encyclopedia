@@ -57,7 +57,7 @@ sources:
     accessed: 2026-11-20
   - key: iba
     title: IBA Official Cocktails — cocktail list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对热带鸡尾酒的配方与杯型；未复制原文。
     accessed: 2026-11-20

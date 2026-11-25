@@ -87,6 +87,12 @@ verification_scope: source-verified
 
 从阿姆斯特丹市中心往南，沿着 Singelgracht 运河走到 Stadhouderskade 78，会看到一排 19 世纪工业建筑，门口挂着喜力的绿色标志。这里不是一座仍在出酒的工厂，而是喜力最古老的啤酒厂在 1988 年停产后改造的体验馆。它把品牌史、酿造流程与品鉴打包成一条室内动线，适合想在城市里快速理解“荷兰拉格”与喜力这个品牌的游客，但它不能替代真正的生产参观。
 
+> **到访信息**
+> - 地址：Stadhouderskade 78, 1072 AE Amsterdam, Netherlands。
+> - 开放与预约：以[官方页面](https://www.heinekenexperience.com/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-21。
+
 ![喜力体验馆砖砌厂房与屋顶绿色标志](/media/photos/place-heineken-experience-6ed3e1de.jpg)
 
 图：阿姆斯特丹喜力体验馆的砖砌厂房立面，屋顶立着绿色 Heineken 标志。图片：Steven Lek，CC BY-SA 4.0，via [原图页面](https://commons.wikimedia.org/wiki/File:Heineken_Experience_Amsterdam_2018_3.jpg)。

@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:rice-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e650ac0deea8a1fd3ca9c6fbfb31e39757dec66c19a1ef0792b0b22728d27d5f
-source_sha256: e650ac0deea8a1fd3ca9c6fbfb31e39757dec66c19a1ef0792b0b22728d27d5f
+source_revision: sha256:e9ff028e9313c27b6dfa5364681de42e32063bb9c73b898cee178eee0f69c20e
+source_sha256: e9ff028e9313c27b6dfa5364681de42e32063bb9c73b898cee178eee0f69c20e
 legacy_refs: []
 aroma_family: rice, sweet ferment and lactic acid
 aliases:
@@ -74,7 +74,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-written; verified against local-government, trade-association and standards material, with no source text reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are not covered; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered; sources are cited for verification only. No third-party images are used on this style.
 verification_scope: source-verified
 ---
 
@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 Rice wine is the low-alcohol drink of [China](ref:china) made from [glutinous rice](ref:rice) with a sweet-rice starter, usually seen as jiuniang or laozao: a white or pale yellow cloudy liquid with half-floating grains, sweet and slightly sour, lightly sparkling, and usually only 1% to 15% ABV. It is neither distilled nor aged like huangjiu. Its value lies in freshness, sweetness and rice aroma rather than in vintage.
 
-![Rice Wine thematic illustration](/media/photos/theme-asian.jpg)
+![Rice Wine thematic illustration](/media/figures/specific/drink-style-rice-wine.svg)
 
 Figure: thematic illustration for Rice Wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

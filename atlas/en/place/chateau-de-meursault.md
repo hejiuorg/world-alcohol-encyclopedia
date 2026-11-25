@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:chateau-de-meursault
 source_lang: zh
-source_revision: sha256:191f3acfad00e38e1735e3634cf24f2a3612b7434d2770c8b58b423857c82a18
-source_sha256: 191f3acfad00e38e1735e3634cf24f2a3612b7434d2770c8b58b423857c82a18
+source_revision: sha256:d038f586d6f01b2fe50f8083d57b1d264b9006a0413c1a84ac60feab97b295f8
+source_sha256: d038f586d6f01b2fe50f8083d57b1d264b9006a0413c1a84ac60feab97b295f8
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -114,6 +114,15 @@ Château de Meursault stands in the village of Meursault, in Burgundy's Côte d'
 ![Château de Meursault photograph](/media/photos/q2-place-chateau-de-meursault-e59c9efc.jpg)
 
 Figure: Château de Meursault. Photograph: Château de Meursault 003. Credit: Arnaud 25, CC BY-SA 3.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=18551544)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Château de Meursault deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Château de Meursault who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The estate traces its history to the 11th century.
+>   - Visits fall into two categories: reserved and walk-in.
 
 ## Place and history
 

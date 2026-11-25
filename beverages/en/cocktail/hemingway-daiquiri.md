@@ -11,8 +11,8 @@ revision: 1
 translation_of: cocktail:hemingway-daiquiri
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6f4d4127c051d3d18bc8b3fb3abd238a371497b28fe3719a08e4a5187d151b54
-source_sha256: 6f4d4127c051d3d18bc8b3fb3abd238a371497b28fe3719a08e4a5187d151b54
+source_revision: sha256:765ca32f6a06965f5bc5403a0aec3d4e06a52b05bf31e5c742f92ff76508b4d8
+source_sha256: 765ca32f6a06965f5bc5403a0aec3d4e06a52b05bf31e5c742f92ff76508b4d8
 style: Classic cocktail
 ingredient_refs: []
 origin_place: Havana, Cuba (commonly associated with El Floridita)
@@ -54,7 +54,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the proportions and classification of the Hemingway Special; no source text is reproduced.
     accessed: 2026-11-07
@@ -102,6 +102,15 @@ The Hemingway Daiquiri is a short drink of [white rum](ref:rum), fresh grapefrui
 
 Figure: Hemingway Daiquiri. Image: Achim Schleuning (E-Mail: comander02_de@yahoo.de ), CC BY-SA 3.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hemingway_Daiquiri.jpg)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Hemingway Daiquiri, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Hemingway Daiquiri.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - The skeleton of a standard Daiquiri is rum, lime and syrup.
+>   - Order a "Hemingway Daiquiri" or a "Hemingway Special" and confirm whether sugar is included.
+
 ## El Floridita in Havana
 
 The drink is inseparable from [El Floridita](ref:floridita) in Havana. The bar's own history places Constantino Ribalaigua Vert at its centre: the Catalan immigrant began working there as a bartender in 1914, became the owner in 1918 and was known to guests as "Constante". He is credited with turning the Daiquiri into a house signature, and some accounts also credit him with the popularity of the frozen version.
@@ -116,7 +125,7 @@ The most widely told story is that Hemingway found the bar's standard Daiquiri t
 
 "Papa Doble" is usually explained as "a double for Papa". Papa was Hemingway's nickname in Cuba and the Spanish-speaking world; doble means double. The name describes a quantity rather than a fixed formula. Different bars interpret "double" as double rum, double total volume, or both. Order a Papa Doble and you may receive a large Hemingway Daiquiri, or simply a double measure of a standard Daiquiri.
 
-There are many anecdotes about Hemingway's drinking, but this page does not treat "how many glasses he drank" as fact. What is clear is that his name gave the drink a reach far beyond an ordinary Daiquiri. His personal habits belong to the overlap between biography and bar legend, and readers should treat them as cultural narrative rather than recipe parameters.
+There are many anecdotes about Hemingway's drinking, but this cocktail does not treat "how many glasses he drank" as fact. What is clear is that his name gave the drink a reach far beyond an ordinary Daiquiri. His personal habits belong to the overlap between biography and bar legend, and readers should treat them as cultural narrative rather than recipe parameters.
 
 ## Where sweetness goes when sugar leaves
 

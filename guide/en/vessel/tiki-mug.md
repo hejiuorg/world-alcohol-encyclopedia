@@ -7,8 +7,8 @@ slug: tiki-mug
 title: Tiki Mug
 translation_of: vessel:tiki-mug
 source_lang: zh
-source_revision: sha256:968dfd2b1b590f0c6c1ad29a41c7b6052f7897c16a45e16cb3a141ee1ea24b92
-source_sha256: 968dfd2b1b590f0c6c1ad29a41c7b6052f7897c16a45e16cb3a141ee1ea24b92
+source_revision: sha256:080c9e5493786f9e3980e02c95108ab808b7247e8772b34b2068c72c8ee8e34c
+source_sha256: 080c9e5493786f9e3980e02c95108ab808b7247e8772b34b2068c72c8ee8e34c
 translation_status: reviewed
 summary: A shaped ceramic or glass mug carved as a tiki god, mask or totem. It belongs to tropical cocktail culture, and its capacity and form are more theatrical than an ordinary glass.
 status: reviewed
@@ -61,7 +61,7 @@ sources:
     accessed: 2026-11-20
   - key: iba
     title: IBA Official Cocktails — cocktail list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check tropical cocktail formulas and glass usage; no source text is reproduced.
     accessed: 2026-11-20
@@ -174,4 +174,4 @@ The mugs are often designed by artists and collected, not just used for drinks.
 
 **Sources and limits.** The key claims about Tiki Mug are checked against the following sources: Oxford University Press (Used to check tiki culture and tropical cocktail background), International Bartenders Association (Used to check tropical cocktail formulas and glass usage), CocktailDB (Used to cross-check tiki mug usage and capacity) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Tiki Mug, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Tiki Mug, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

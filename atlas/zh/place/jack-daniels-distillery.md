@@ -105,6 +105,12 @@ verification_scope: source-verified
 
 杰克丹尼在美国田纳西州的小镇林奇堡（Lynchburg），属于摩尔县（Moore County）。它常被当作“美国威士忌”的代名词，但严格说，它生产的是[田纳西威士忌](ref:tnwhiskey)：原料与桶的规定接近[波本](ref:bourbon)，却多了一道糖枫木炭过滤，并且必须在田纳西州境内完成。酒厂的参观动线穿过泉眼、木炭车间、蒸馏与桶库，最后落在品鉴室；理解这套流程，比记住酒标上的名字更重要。
 
+> **到访信息**
+> - 地址：280 Lynchburg Hwy, Lynchburg, TN 37352, USA。
+> - 开放与预约：以[官方页面](https://www.jackdaniels.com/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-08。
+
 ![杰克丹尼酒厂 图像](/media/photos/place-jack-daniels-distillery-1ab6c621.jpg)
 
 图：杰克丹尼酒厂。图片：Ben Jacobson ( Kranar Drogin )，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)）。

@@ -5,7 +5,7 @@ type: producer
 lang: en
 slug: wuliangye-group
 title: Sichuan Yibin Wuliangye Group Co., Ltd.
-summary: A baijiu group based in Yibin, Sichuan, formed in 1998 from the Yibin Wuliangye Distillery. Its listed arm is Yibin Wuliangye Co., Ltd. This page separates group, listed company, brand and product.
+summary: A baijiu group based in Yibin, Sichuan, formed in 1998 from the Yibin Wuliangye Distillery. Its listed arm is Yibin Wuliangye Co., Ltd. This producer separates group, listed company, brand and product.
 status: reviewed
 revision: 2
 translation_of: producer:wuliangye-group
@@ -82,7 +82,7 @@ Figure: Sichuan Yibin Wuliangye Group Co., Ltd.. Photograph: File:Vertreter der 
 
 ## Company identity
 
-This page records producer identity: name, registered place, founding time, organisational form and public entry point. The group leans towards state-owned asset operation and industrial investment, while the listed company handles production, sales and disclosure. The names are similar but the duties differ: a statement at group level cannot simply be applied to a listed company's financial report, and one marketing campaign by the listed company is not a long-term group strategy.
+This producer records producer identity: name, registered place, founding time, organisational form and public entry point. The group leans towards state-owned asset operation and industrial investment, while the listed company handles production, sales and disclosure. The names are similar but the duties differ: a statement at group level cannot simply be applied to a listed company's financial report, and one marketing campaign by the listed company is not a long-term group strategy.
 
 In public material, "Wuliangye Group" usually means the parent group described here, while "Yibin Wuliangye Co., Ltd." is the listed entity with stock code 000858. When checking information, first establish which layer is being discussed, then check which report the figure comes from.
 
@@ -94,19 +94,19 @@ Both the registered address and the site are in Yibin, but "the company is in Yi
 
 ## Business and layers
 
-The group's main business is wine and spirit production and sales, with supporting packaging, logistics and glass operations. Support and main business reinforce each other and can lower packaging and transport costs. The exact business mix and revenue shares change by year, so this page does not list figures; readers should use the company's periodic reports.
+The group's main business is wine and spirit production and sales, with supporting packaging, logistics and glass operations. Support and main business reinforce each other and can lower packaging and transport costs. The exact business mix and revenue shares change by year, so this producer does not list figures; readers should use the company's periodic reports.
 
 The layers work like this: the group holds industrial resources and the brand system, the listed company produces and sells and discloses, the brand carries the name and product lines, and the product carries strength, volume and price. The group is not limited to one aroma type or one position, so when discussing "Wuliangye", first make clear whether the subject is the company, the brand or a bottle.
 
 ## History
 
-The common public account of the early history is: in the early 1950s, several traditional distilling workshops in Yibin were combined into a state-run distillery; in 1959 it was formally named the Yibin Wuliangye Distillery; in 1998 it was restructured into the group company, and the listed arm was listed on the Shenzhen Stock Exchange in the same year. Sources differ slightly on the number of workshops and exact years; this page follows the more common public account and avoids over-precise claims on uncertain details.
+The common public account of the early history is: in the early 1950s, several traditional distilling workshops in Yibin were combined into a state-run distillery; in 1959 it was formally named the Yibin Wuliangye Distillery; in 1998 it was restructured into the group company, and the listed arm was listed on the Shenzhen Stock Exchange in the same year. Sources differ slightly on the number of workshops and exact years; this producer follows the more common public account and avoids over-precise claims on uncertain details.
 
 "Old pit" and "old method" in historical narrative need separating: continuous use of a pit has physical and process meaning, while "old method" is often a general phrase; for a specific product, the label and standard still govern. Company history is not product history, and brand age is not the age of the liquid in the bottle.
 
 ## Limits of public information
 
-This page records only verifiable identity and layer information. It does not evaluate product flavour and does not reproduce promotional copy. Revenue, profit, capacity, market share and share price change over time and need full context, so they are not expanded here. Titles such as "China Time-honoured Brand" or "national famous liquor" should be checked against the issuing body and year rather than judged from packaging text.
+This producer records only verifiable identity and layer information. It does not evaluate product flavour and does not reproduce promotional copy. Revenue, profit, capacity, market share and share price change over time and need full context, so they are not expanded here. Titles such as "China Time-honoured Brand" or "national famous liquor" should be checked against the issuing body and year rather than judged from packaging text.
 
 ## Common misconceptions
 
@@ -122,7 +122,7 @@ Sichuan Yibin Wuliangye Group Co., Ltd. is best approached through the range it 
 
 Read [China](ref:china) for the company history side of Sichuan Yibin Wuliangye Group Co., Ltd., and [Strong-aroma baijiu](ref:strong-aroma) for the production assets side. Together they locate it.
 
-**Short definition:** A baijiu group based in Yibin, Sichuan, formed in 1998 from the Yibin Wuliangye Distillery. Its listed arm is Yibin Wuliangye Co., Ltd. This page separates group, listed company, brand and product.
+**Short definition:** A baijiu group based in Yibin, Sichuan, formed in 1998 from the Yibin Wuliangye Distillery. Its listed arm is Yibin Wuliangye Co., Ltd. This producer separates group, listed company, brand and product.
 
 A common misreading treats Sichuan Yibin Wuliangye Group Co., Ltd. as a sub-brand. The correction is to ask what it is, then what the label claims, and keep the answers apart.
 
@@ -130,7 +130,7 @@ A common misreading treats Sichuan Yibin Wuliangye Group Co., Ltd. as a sub-bran
 
 | Item | Detail |
 | --- | --- |
-| In one line | A baijiu group based in Yibin, Sichuan, formed in 1998 from the Yibin Wuliangye Distillery. Its listed arm is Yibin Wuliangye Co., Ltd. This page separates group, listed company, brand and product. |
+| In one line | A baijiu group based in Yibin, Sichuan, formed in 1998 from the Yibin Wuliangye Distillery. Its listed arm is Yibin Wuliangye Co., Ltd. This producer separates group, listed company, brand and product. |
 | Founded | 1998 |
 | Type | Local state-owned enterprise group |
 | Official site | wuliangye.com.cn |

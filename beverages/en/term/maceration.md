@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: term:maceration
 source_lang: zh
-source_revision: sha256:342691df3e1a151d84be26ff58326004397e8a401b952a49aff9883268815e84
-source_sha256: 342691df3e1a151d84be26ff58326004397e8a401b952a49aff9883268815e84
+source_revision: sha256:4c22811a257a1805bdee0a1cfbf4bceaeb07fef4f96f826ce959d95eaf0914bd
+source_sha256: 4c22811a257a1805bdee0a1cfbf4bceaeb07fef4f96f826ce959d95eaf0914bd
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -78,9 +78,18 @@ verification_scope: source-verified
 
 # Maceration
 
-Maceration is the contact of grape juice with the solid parts, namely skins, pulp, seeds and sometimes stems. It is not a single step but a period of contact that can be placed before, during or after fermentation. Colour, tannin, aroma precursors and some textural substances are carried into the liquid during that time.![Maceration thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Maceration is the contact of grape juice with the solid parts, namely skins, pulp, seeds and sometimes stems. It is not a single step but a period of contact that can be placed before, during or after fermentation. Colour, tannin, aroma precursors and some textural substances are carried into the liquid during that time.![Maceration thematic illustration](/media/figures/specific/term-maceration.svg)
 
 Figure: thematic illustration for Maceration. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This term explains Maceration in one line: definition, boundary and usage.
+>
+> - **Best for:** Anyone who has met Maceration and needs a precise definition, boundary and usage.
+> - **Not for:** If you want need the full legal text or legal/medical advice.
+> - **Check first:**
+>   - Producers use maceration to shape style, not to hit a fixed number.
+>   - The first pair is maceration and fermentation.
 
 ## Definition and boundaries
 

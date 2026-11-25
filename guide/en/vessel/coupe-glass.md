@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: vessel:coupe-glass
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:379604576e3db8ee6ca13679a18461bd7f4373ce3868dcce7f49def2c7cec8fd
-source_sha256: 379604576e3db8ee6ca13679a18461bd7f4373ce3868dcce7f49def2c7cec8fd
+source_revision: sha256:a101acb8faa57dae07ca0ecb304fdbef3dd40b1ba666bb4f7c69e502daf6276f
+source_sha256: a101acb8faa57dae07ca0ecb304fdbef3dd40b1ba666bb4f7c69e502daf6276f
 materials:
   - Glass
   - Crystal glass
@@ -56,7 +56,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check serving vessels for short drinks and sparkling drinks; no source text is reproduced.
     accessed: 2026-11-07
@@ -116,7 +116,7 @@ The stem plays a role in temperature control. Holding it reduces heat from the h
 
 ## Capacity and suitable drinks
 
-There is no single capacity standard for a coupe, and bowl size, depth and rim diameter vary widely. This page gives no fixed capacity figure; capacity depends on the specific product. First see how much your glass holds, then adjust the recipe quantity and garnish rather than assuming that all coupes are the same.
+There is no single capacity standard for a coupe, and bowl size, depth and rim diameter vary widely. This glass gives no fixed capacity figure; capacity depends on the specific product. First see how much your glass holds, then adjust the recipe quantity and garnish rather than assuming that all coupes are the same.
 
 Drinks that suit a coupe include Champagne and [sparkling wine](ref:sparkling), especially when aroma is meant to open in the glass, and short drinks strained and served without ice, such as the [Cosmopolitan](ref:cosmo) and the [Paper Plane](ref:paper-plane). These drinks usually contain no ice, and the wide rim makes nosing easy while the shallow bowl keeps the liquid close to the rim.
 

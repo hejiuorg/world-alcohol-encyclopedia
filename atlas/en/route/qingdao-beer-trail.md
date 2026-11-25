@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:qingdao-beer-trail
 source_lang: zh
-source_revision: sha256:1c2cbf7c7f1619365d876b6fcf464ab66807a6cacdcc75eb5ea757853c6bd2a5
-source_sha256: 1c2cbf7c7f1619365d876b6fcf464ab66807a6cacdcc75eb5ea757853c6bd2a5
+source_revision: sha256:48822b6781f880bb5b4e9e8ff2a3852e39a3092d83cdb2bc807213fd3f125eab
+source_sha256: 48822b6781f880bb5b4e9e8ff2a3852e39a3092d83cdb2bc807213fd3f125eab
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -99,6 +99,15 @@ Qingdao's beer visit has a very short geography: enter the museum for history, w
 !["Qingdao Beer Trail: museum, old brewery and Dengzhou Road" category image](/media/photos/region-shandong-1f89a703.jpg)
 
 Figure: "Qingdao Beer Trail: museum, old brewery and Dengzhou Road". Photograph: File:PenglaiPavilion.jpg. Credit: Chrishcn, CC BY 2.0 ([source page](https://commons.wikimedia.org/wiki/File:PenglaiPavilion.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Qingdao Beer Trail: museum, old brewery and Dengzhou Road, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Qingdao Beer Trail: museum, old brewery and Dengzhou Road into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop 1: the Tsingtao Beer Museum, 56 Dengzhou Road, Shibei District.
+>   - The museum opened on 15 August 2003, the centenary of Tsingtao beer, on the site of the 1903 German brewery.
 
 ## Route at a glance
 

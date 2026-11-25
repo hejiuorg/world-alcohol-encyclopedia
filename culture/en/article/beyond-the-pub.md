@@ -5,7 +5,7 @@ type: article
 lang: en
 slug: beyond-the-pub
 title: "Beyond the bar: following a drink to where it is made"
-summary: Beyond the bar lies the place of production. Visits to breweries, distilleries and wine estates break flavour down into raw materials, equipment, time and human choices. This article explains what each kind of visit shows, what to ask, and which claims not to trust.
+summary: Beyond the bar lies the place of production. Visits to breweries, distilleries and wine estates break flavour down into raw materials, equipment, time and human choices. This essay explains what each kind of visit shows, what to ask, and which claims not to trust.
 status: reviewed
 revision: 3
 translation_of: culture-article:beyond-the-pub
@@ -72,7 +72,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the Schlenkerla official page, the Scotch Whisky Association page and public brewing material, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images, tour scripts and quoted texts are not covered by this licence; visit arrangements, prices and safety rules change, so check the producer's official channels. No third-party images are used on this page.
+  note: Third-party trademarks, images, tour scripts and quoted texts are not covered by this licence; visit arrangements, prices and safety rules change, so check the producer's official channels. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 # Beyond the bar: following a drink to where it is made
@@ -125,11 +125,11 @@ Supporting local production does not mean buying without question. More effectiv
 
 ## Boundaries
 
-This page describes a framework for visits and does not guarantee any producer's opening hours, ticket price, tour language or tasting arrangements. Rules on visits, tasting age and drink-driving differ between places, so check local law and official pages before travelling.
+This essay describes a framework for visits and does not guarantee any producer's opening hours, ticket price, tour language or tasting arrangements. Rules on visits, tasting age and drink-driving differ between places, so check local law and official pages before travelling.
 
-Stories of origin are easily packaged as “heritage”, “secret recipe” and “limited edition”; those words are not proof of quality by themselves. Judge by verifiable process, vintage and label information rather than by the tone of the advertising. No third-party images are used on this page, and no specific route coordinates are given; for navigation to a place, use a live map service.
+Stories of origin are easily packaged as “heritage”, “secret recipe” and “limited edition”; those words are not proof of quality by themselves. Judge by verifiable process, vintage and label information rather than by the tone of the advertising. No third-party images are used on this essay, and no specific route coordinates are given; for navigation to a place, use a live map service.
 
-**At a glance:** Beyond the bar lies the place of production. Visits to breweries, distilleries and wine estates break flavour down into raw materials, equipment, time and human choices. This article explains what each kind of visit shows, what to ask, and which claims not to trust. 
+**At a glance:** Beyond the bar lies the place of production. Visits to breweries, distilleries and wine estates break flavour down into raw materials, equipment, time and human choices. This essay explains what each kind of visit shows, what to ask, and which claims not to trust. 
 
 For Beyond the bar, begin with the subject it covers. Then look at the sources it draws on, and finally ask what it adds to the general account. The answers point to different choices, not to a single score.
 

@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: pairing:cheese-and-wine
 source_lang: zh
-source_revision: sha256:979fe142402994ffac1cec9a21c112823b6463b4500ee1aed189751aa7820589
-source_sha256: 979fe142402994ffac1cec9a21c112823b6463b4500ee1aed189751aa7820589
+source_revision: sha256:915cbaed89c354b2d797fb13cd0b74bed5555225cd2545616f1c2260933da4c7
+source_sha256: 915cbaed89c354b2d797fb13cd0b74bed5555225cd2545616f1c2260933da4c7
 translation_status: reviewed
 aliases:
   - Cheese and wine
@@ -97,7 +97,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
@@ -108,6 +108,13 @@ Cheese and wine is often reduced to "red wine with cheese". But cheeses differ e
 ![Cheese and Wine: Match Texture, Salt and Fat thematic illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: thematic illustration for Cheese and Wine: Match Texture, Salt and Fat. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Pairing principles: texture first, then intensity:** The first principle is flavour intensity.
+> - **Specific matches and why:** | Cheese type | Common examples | Wine direction | Why | | --- | --- | --- | --- | | Fresh goat cheese | Fresh goat cheese | Dry, high-acid white | Acidity cuts the butterfat; herbal and cit.
+> - **Serving order and temperature:** Cheese usually comes after the main course and before dessert, or as a meal of its own.
 
 ## Pairing principles: texture first, then intensity
 

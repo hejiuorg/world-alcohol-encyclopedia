@@ -171,4 +171,4 @@ A drop of water can open the aroma, but too much dilutes the structure.
 
 **Sources and limits.** The key claims about Whisky Nosing Glass are checked against the following sources: Oxford University Press (Used to check whisky tasting, nosing and glass background), Encyclopaedia Britannica (Used to check whisky categories and tasting background), Corning Museum of Glass (Used to check glass forms and craft background) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Whisky Nosing Glass, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Whisky Nosing Glass, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

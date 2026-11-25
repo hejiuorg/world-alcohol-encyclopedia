@@ -163,7 +163,7 @@ For Yingjia Dongcang 16, taste in a small glass: smell the resting spirit first,
 
 After the company listed in 2015, the cave-storage series became an important line for Yingjia's move into the upper-mid price band. Company material presents "ecological brewing" as a long-term positioning and keeps promoting the water source, the production process and the cave base. These statements help explain the product background but are not a third-party quality rating.
 
-The series sits where a regional brand is extending into the national market. Prices move with vintage, channel and supply and demand, and this page gives no figures. Treating price as proof of quality, or the "16" as age, are common misreadings.
+The series sits where a regional brand is extending into the national market. Prices move with vintage, channel and supply and demand, and this entry gives no figures. Treating price as proof of quality, or the "16" as age, are common misreadings.
 
 ## Buying and storage
 

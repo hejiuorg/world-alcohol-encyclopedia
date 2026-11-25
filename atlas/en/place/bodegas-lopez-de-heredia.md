@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:bodegas-lopez-de-heredia
 source_lang: zh
-source_revision: sha256:07734da298f9ad10a22b4c5e6ea8baac460c317f08790bf38a4065982b8ab41f
-source_sha256: 07734da298f9ad10a22b4c5e6ea8baac460c317f08790bf38a4065982b8ab41f
+source_revision: sha256:3d65e98883b3b1ae61af7c73757d83239ff861fbc7ebfbe43e48819515d02abe
+source_sha256: 3d65e98883b3b1ae61af7c73757d83239ff861fbc7ebfbe43e48819515d02abe
 translation_status: reviewed
 subtype: winery-visitor
 address: Avenida de Vizcaya 3, 26200 Haro, La Rioja, Spain
@@ -93,9 +93,24 @@ verification_scope: source-verified
 
 Bodegas López de Heredia stands in Haro's Barrio de la Estación, in Rioja, at Avenida de Vizcaya 3. Rafael López de Heredia y Landeta founded it in 1877; it is the oldest winery in Haro and one of the three earliest in Rioja. Unlike estates that have turned visits into a standardised product, this is first of all a working building operating on an old rhythm: sandstone cellars, rows of American oak barrels, its own cooperage, and Reserva and Gran Reserva wines released many years after harvest.
 
+> **Visit information**
+> - Address: Avenida de Vizcaya 3, 26200 Haro, La Rioja, Spain.
+> - Opening and booking: check the [official page](https://www.lopezdeheredia.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![Bodegas López de Heredia image](/media/photos/place-bodegas-lopez-de-heredia-8703f772.jpg)
 
 Figure: Bodegas López de Heredia. Image: Zarateman, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Haro_-_Bodegas_L%C3%B3pez_de_Heredia_Vi%C3%B1a_Tondonia_1.JPG)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Bodegas López de Heredia deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Bodegas López de Heredia who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1877 Rafael López de Heredia y Landeta began building the winery beside Haro station.
+>   - The winery is open by appointment only, with no walk-in tours or tastings.
 
 ## Place and history
 

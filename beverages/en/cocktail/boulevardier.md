@@ -11,8 +11,8 @@ revision: 1
 translation_of: cocktail:boulevardier
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:dfc3c4d95448962fafea10c42f839ec6bbd54622c2dd5f710f6dd56537c55759
-source_sha256: dfc3c4d95448962fafea10c42f839ec6bbd54622c2dd5f710f6dd56537c55759
+source_revision: sha256:35d7101eed65cb5866801cf02d16cc14352ccf344d66c17873a14809c528bddc
+source_sha256: 35d7101eed65cb5866801cf02d16cc14352ccf344d66c17873a14809c528bddc
 style: Classic cocktail
 ingredient_refs: []
 origin_place: Paris, France (1927, often traced to Harry's New York Bar)
@@ -100,6 +100,15 @@ The Boulevardier is a classic cocktail of whiskey, Campari and sweet vermouth. I
 
 Figure: Related photograph of Boulevardier. Image: Edsel Little, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Society_Lounge_-_Boulevardier_-_16164913902.jpg)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Boulevardier, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Boulevardier.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - Order a Boulevardier with bourbon, at 1.5:1:1, in a rocks glass over one large cube, or in a coupe without ice.
+>   - The drink takes its name from a magazine.
+
 ## 1927, Paris, a magazine and a name
 
 The drink takes its name from a magazine. Erskine Gwynne was an American writer living in Paris who founded the monthly *The Boulevardier* in 1927; the magazine is usually recorded as running until 1932. In French, a boulevardier is a man who strolls the city boulevards and takes part in its social life — someone stylish and urbane, not simply a frivolous playboy.
@@ -156,7 +165,7 @@ But that one substitution changes more than the name. Gin's juniper and citrus m
 
 ## Variations: Old Pal, 1794 and further relatives
 
-The Old Pal is usually written as equal parts rye whiskey, dry vermouth and Campari. Replacing sweet vermouth with dry vermouth lowers the sweetness, pushes the bitterness and herbs forward and gives a drier finish. Some drinkers find it closer to the aperitif idea than the Boulevardier. Its own origin is also told in more than one way, and this page does not treat a particular year as settled.
+The Old Pal is usually written as equal parts rye whiskey, dry vermouth and Campari. Replacing sweet vermouth with dry vermouth lowers the sweetness, pushes the bitterness and herbs forward and gives a drier finish. Some drinkers find it closer to the aperitif idea than the Boulevardier. Its own origin is also told in more than one way, and this cocktail does not treat a particular year as settled.
 
 The 1794 is usually written as rye whiskey, sweet vermouth and Campari with a few dashes of orange bitters. It is often treated as a modern Boulevardier variant: the orange bitters lift the citrus and give the Campari bitterness more layers. There are also versions that swap bourbon for rye, use a drier style of vermouth, or add a little smoky whiskey. Every substitution should be stated, or "Boulevardier" becomes a name without boundaries.
 

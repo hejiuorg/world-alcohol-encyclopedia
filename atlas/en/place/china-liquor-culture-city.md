@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:china-liquor-culture-city
 source_lang: zh
-source_revision: sha256:5dd3e83254484424fc66e78233bb5495a421fa4ff734736da8fb28e2d76ea746
-source_sha256: 5dd3e83254484424fc66e78233bb5495a421fa4ff734736da8fb28e2d76ea746
+source_revision: sha256:a4f3f9d76495a76641c794a6995578f0b44af37463c05b51039cacefc8bbb9d7
+source_sha256: a4f3f9d76495a76641c794a6995578f0b44af37463c05b51039cacefc8bbb9d7
 translation_status: reviewed
 subtype: museum
 address: Maotai Town, Renhuai, Zunyi, Guizhou, China (inside the Moutai distillery area)
@@ -98,9 +98,24 @@ verification_scope: source-verified
 
 Driving from Renhuai city towards Maotai Town, the Chishui River bends through a gorge and the air gradually fills with the smell of distillers' grain and damp fermentation. China Liquor Culture City stands inside the grounds of the Moutai distillery. It is not a museum built alone on the edge of town, but a cultural scenic area layered into an industrial site, old streets and exhibition halls. The Moutai Group invested in it between 1993 and 1997, and official sources describe it as "currently the largest liquor-culture museum in the world"; it was rated a national 4A scenic area in 2014 and approved as the Guizhou Moutai Wine Museum in 2017.
 
+> **Visit information**
+> - Address: Maotai Town, Renhuai, Zunyi, Guizhou, China (inside the Moutai distillery area).
+> - Opening and booking: check the [official page](https://www.moutaichina.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![China Liquor Culture City category image](/media/photos/region-guizhou-b13939f2.jpg)
 
 Figure: China Liquor Culture City. Photograph: File:Huangguoshu Waterfall in October 2020, Picture12.jpg. Credit: Huangdan2060, CC BY 3.0 ([source page](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether China Liquor Culture City deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to China Liquor Culture City who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - China Liquor Culture City is in Maotai Town, Renhuai, Zunyi, Guizhou, inside the Moutai distillery area.
+>   - Official pages list seven galleries: the China Hall of Wine Origins, the China Hall of Brewing Technology, the China Hall of Wine Rhyme, the China Hall of Wine Customs.
 
 ## From distillery grounds to museum
 
@@ -140,7 +155,7 @@ This is part of a working distillery, not a pure tourist park. Follow security c
 
 The first misconception is to treat the Liquor Culture City as a tour of the whole Moutai distillery. What you see is the museum and some landscaped areas; the core brewing workshops are not open to ordinary visitors. The second is to assume that a 4A rating means "must-see" or "best": 4A is a scenic-area quality grade, not a guarantee that the displays will suit your interests, and two hours may be enough if baijiu production does not interest you. The third is to treat "largest in the world" as a precise statistical claim; it is a phrase used by the Moutai Group and local officials.
 
-When tasting, sip slowly; 10 ml of Feitian or fifteen-year Moutai is enough to sense the aroma and texture. Sauce-aroma baijiu is usually 53 percent alcohol, and an empty stomach makes it hit harder, so eat some staple food first. Families with children can focus on the Hall of Wine Customs, the Hall of Drinking Vessels and the courtyards; adults decide whether to enter the tasting area. Finally, do not buy "internal liquor" of unknown origin, and do not confuse the Liquor Culture City with the bar street in Maotai Town: the former is a museum, the latter a commercial district. This page was verified on 2026-11-08.
+When tasting, sip slowly; 10 ml of Feitian or fifteen-year Moutai is enough to sense the aroma and texture. Sauce-aroma baijiu is usually 53 percent alcohol, and an empty stomach makes it hit harder, so eat some staple food first. Families with children can focus on the Hall of Wine Customs, the Hall of Drinking Vessels and the courtyards; adults decide whether to enter the tasting area. Finally, do not buy "internal liquor" of unknown origin, and do not confuse the Liquor Culture City with the bar street in Maotai Town: the former is a museum, the latter a commercial district. This entry was verified on 2026-11-08.
 
 ## See also
 

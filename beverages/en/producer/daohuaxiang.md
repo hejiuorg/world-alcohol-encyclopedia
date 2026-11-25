@@ -102,7 +102,7 @@ The distillery handles brewing, storage, blending and sales; the group platform 
 
 ## Ownership type and current control
 
-The National Enterprise Credit Information Publicity System records Hubei Daohuaxiang Distillery as a non-listed joint-stock company invested or controlled by natural persons. Public material generally names Cai Kaiyun as chairman and manager, but the full shareholder list and individual ratios are not disclosed item by item on a checkable public page, so this page does not state specific percentages.
+The National Enterprise Credit Information Publicity System records Hubei Daohuaxiang Distillery as a non-listed joint-stock company invested or controlled by natural persons. Public material generally names Cai Kaiyun as chairman and manager, but the full shareholder list and individual ratios are not disclosed item by item on a checkable public page, so this producer does not state specific percentages.
 
 That means two things: the company has no publicly traded shares, so outsiders cannot read its equity structure from periodic reports; and control arrangements can only be observed indirectly through registration changes and group personnel information. Any claim of a specific shareholding should be checked against registration records or company announcements.
 
@@ -116,7 +116,7 @@ Public material dates the company's starting point to 1992, when it began as a l
 
 Longquan lies in eastern Yichang, in the hills of the middle and upper Yangtze, with a warm, humid subtropical monsoon climate suited to multiple rounds of fermentation. The water systems and grain supply of [Hubei](ref:hubei) provide conditions for brewing, and sorghum and wheat from western Hubei are common raw materials.
 
-The plant and supporting industries are concentrated in Longquan, forming a pattern of "brewing locally, support nearby". Public material does not disclose verifiable numbers of branch plants, fermentation pits or base-liquor inventory, and this page does not fill them in.
+The plant and supporting industries are concentrated in Longquan, forming a pattern of "brewing locally, support nearby". Public material does not disclose verifiable numbers of branch plants, fermentation pits or base-liquor inventory, and this producer does not fill them in.
 
 ## Strong-aroma process and capacity organisation
 
@@ -134,7 +134,7 @@ These moves show the company using premium products to raise the ceiling and mul
 
 Daohuaxiang's core market is Hubei, with Yichang as its base and Wuhan and the western Hubei city cluster as priorities. Channels are mainly distributors, tobacco-and-liquor shops and banquet group purchases, with e-commerce and livestreaming as supplements. Group-level packaging and logistics support can lower local fulfilment costs, but they also mean managing several business segments at once.
 
-Outside the province, the brand faces competition from national names and local brands alike. Public material does not disclose provincial sales shares, and this page does not speculate.
+Outside the province, the brand faces competition from national names and local brands alike. Public material does not disclose provincial sales shares, and this producer does not speculate.
 
 ## Capital market and financing status
 
@@ -146,7 +146,7 @@ That does not mean there is no capital activity. The group investment holding pl
 
 The company website provides products, news and events; the business registration system provides the entity and ownership type. They answer different questions. The website stresses product upgrading, while registration only confirms the legal entity and status.
 
-For Hubei Daohuaxiang Distillery, public material does not disclose the full shareholder list, plant-level capacity, base-liquor inventory or related-party details. When such figures appear, ask whether they come from registration, a company announcement or a promotional article. This page does not fill in unverifiable ratios or capacity.
+For Hubei Daohuaxiang Distillery, public material does not disclose the full shareholder list, plant-level capacity, base-liquor inventory or related-party details. When such figures appear, ask whether they come from registration, a company announcement or a promotional article. This producer does not fill in unverifiable ratios or capacity.
 
 ## Division of labour with the brand page
 

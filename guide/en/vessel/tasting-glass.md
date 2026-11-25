@@ -11,8 +11,8 @@ revision: 1
 translation_of: vessel:tasting-glass
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:24eef1936b1d8625a51a88cbdb3b0c3709cfc9fba64f10bebee55f80bf9656e9
-source_sha256: 24eef1936b1d8625a51a88cbdb3b0c3709cfc9fba64f10bebee55f80bf9656e9
+source_revision: sha256:76b821de2d1ffef79b513433df42d6a6edc7ccf8e620fedaceb3b2685ec31d35
+source_sha256: 76b821de2d1ffef79b513433df42d6a6edc7ccf8e620fedaceb3b2685ec31d35
 materials:
   - Glass
   - Crystal glass
@@ -89,7 +89,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English page based on the public ISO abstract and reference works; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions. The full ISO text is available from ISO for a fee; this page cites public abstract information only.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions. The full ISO text is available from ISO for a fee; this glass cites public abstract information only.
 verification_scope: source-verified
 ---
 
@@ -100,6 +100,15 @@ A tasting glass is not just any glass used for tasting. It is a glass with a wri
 ![Tasting glass image](/media/photos/vessel-tasting-glass-a4924e65.jpg)
 
 Figure: Tasting glass. Image: Sietske at Dutch Wikipedia, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Michaeljacksonbierglazen.jpg)).
+
+> **Quick verdict**
+> **In one line:** This glass explains why Tasting glass changes aroma, and which drinks it suits.
+>
+> - **Best for:** Anyone who wants to understand why Tasting glass changes aroma and texture.
+> - **Not for:** If you want want a “buy the most expensive glass” verdict without matching the drink.
+> - **Check first:**
+>   - The core of tasting is not "which glass is best" but "how to make comparison valid".
+>   - ISO 3591 was published in 1977 under the title Sensory analysis — Apparatus — Wine-tasting glass.
 
 ## A glass with a written definition
 

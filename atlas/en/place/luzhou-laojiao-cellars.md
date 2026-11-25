@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:luzhou-laojiao-cellars
 source_lang: zh
-source_revision: sha256:333fc2554c8f63db943581dd9659c312931dee1a0ac795f5ca03a6df8c07f687
-source_sha256: 333fc2554c8f63db943581dd9659c312931dee1a0ac795f5ca03a6df8c07f687
+source_revision: sha256:1ff290927c5f6bba17506af146e736de43ab6d5854ddcba9a587c2345cfff870
+source_sha256: 1ff290927c5f6bba17506af146e736de43ab6d5854ddcba9a587c2345cfff870
 translation_status: reviewed
 subtype: distillery-visitor
 address: Guojiao Square, Sanxing Street, Jiangyang District, Luzhou 646000, China
@@ -85,7 +85,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on Luzhou Laojiao's official site, the Luzhou government and local tourism material; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY-SA 4.0 and is credited in the caption. Opening hours, tickets and reservations are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY-SA 4.0 and is credited in the caption. Opening hours, tickets and reservations are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -97,9 +97,18 @@ Luzhou sits where the Yangtze and Tuo rivers meet, in south-eastern Sichuan, and
 
 Figure: A traditional distillation apparatus at the Luzhou Laojiao distillery. Image: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Luzhou Laojiao Cellars deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Luzhou Laojiao Cellars who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Luzhou Laojiao's heritage is a system, not a single point.
+>   - First, do not treat 1573 as the year the whole scenic area was built.
+
 ## Setting and history
 
-Luzhou Laojiao's heritage is a system, not a single point. At its core is the 1573 National Treasure Cellar group, built in the first year of the Ming Wanli reign (1573) and used continuously for more than 450 years. It is described as one of China's earliest, longest-used and best-preserved "living" cellar groups. Around it are 1619 century-old pits, 16 Ming and Qing brewing workshops, and three natural storage caves: Chunyang, Longquan and Zuihong. In 1996 the 1573 group entered the fourth batch of national key cultural relics; in 2013 the 1619 century-old pits, the 16 workshops and the three caves were added to the same national list; in 2018 the pits and workshops entered the national industrial heritage list.
+Luzhou Laojiao's heritage is a system, not a single point. At heart is the 1573 National Treasure Cellar group, built in the first year of the Ming Wanli reign (1573) and used continuously for more than 450 years. It is described as one of China's earliest, longest-used and best-preserved "living" cellar groups. Around it are 1619 century-old pits, 16 Ming and Qing brewing workshops, and three natural storage caves: Chunyang, Longquan and Zuihong. In 1996 the 1573 group entered the fourth batch of national key cultural relics; in 2013 the 1619 century-old pits, the 16 workshops and the three caves were added to the same national list; in 2018 the pits and workshops entered the national industrial heritage list.
 
 The numbers need separating. "1573" is the founding year of the core group, not the age of all 1619 pits. "More than 450 years" is the length of continuous brewing, not a rough statement that "the Ming dynasty was exactly 450 years ago". "1619 pits" is the total of pits over a century old, of which the 1573 group is the oldest and most central. Official material also says Luzhou Laojiao holds 91.3% of the industry's century-old pits; that share shows its position in strong-aroma resources, not that "all old pits are in Luzhou".
 

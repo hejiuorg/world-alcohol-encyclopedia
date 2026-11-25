@@ -142,7 +142,7 @@ Sauvignon Blanc changes more with site than most white grapes: in the Loire it s
 
 **Sources and limits.** The key claims about Sauvignon Blanc are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check varietal descriptors and the Vitis species framework), Oxford University Press (Used for reference on Sauvignon Blanc aroma, regions and winemaking; Migrated from the former reference list at the end of the article; access date not re-verified), INAO (Used to check how varieties correspond to regions under the French appellation system). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Sauvignon Blanc, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Sauvignon Blanc, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

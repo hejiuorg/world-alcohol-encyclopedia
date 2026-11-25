@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:italian-sangiovese
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3272ed3bacd5df5d74363064ffc951bdb7ce05fd65515f6d8f344414a745b93f
-source_sha256: 3272ed3bacd5df5d74363064ffc951bdb7ce05fd65515f6d8f344414a745b93f
+source_revision: sha256:ad356795489f5c697410818c2895af37695b866642ad5645679ab8e83b3d9cc2
+source_sha256: ad356795489f5c697410818c2895af37695b866642ad5645679ab8e83b3d9cc2
 aliases:
   - Italian cuisine and Sangiovese
 tags:
@@ -98,14 +98,14 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against wine reference works and public material, and no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 # Italian cuisine with Sangiovese: tomato, olive oil and acidity
 
 The most common sauce on an Italian menu is not meat gravy but tomato: fresh, tinned, paste, sun-dried, ranging from bright acidity to concentration. [Sangiovese](ref:sangiovese) is one of [Italy](ref:italy)'s most important red varieties, and its high acidity and dry tannin were made for this kind of acid-led cooking. The first premise to accept is that in Italy acidity is not a defect but structure.
 
-![Italian cuisine with Sangiovese: tomato, olive oil and acidity thematic illustration](/media/photos/theme-ingredients.jpg)
+![Italian cuisine with Sangiovese: tomato, olive oil and acidity thematic illustration](/media/figures/specific/pairing-italian-sangiovese.svg)
 
 Figure: thematic illustration for Italian cuisine with Sangiovese: tomato, olive oil and acidity. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

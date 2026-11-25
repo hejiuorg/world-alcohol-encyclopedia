@@ -87,7 +87,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against public-domain food texts and library catalogues, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and book images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and book images are not covered by this licence; sources are cited for verification only. No third-party images are used on this book entry.
 verification_scope: source-verified
 ---
 # Suiyuan Shidan (tea and wine list)

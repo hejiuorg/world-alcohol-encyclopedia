@@ -89,7 +89,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该配方所属的官方鸡尾酒名单与类别；未复制原文。
     accessed: 2026-11-07
@@ -122,9 +122,18 @@ verification_scope: source-verified
 
 薄荷朱莉普的现代身份几乎和肯塔基德比绑在一起：每年五月的第一个星期六，丘吉尔唐斯赛马场的观众手里端着的就是这杯酒，金属杯外壁挂着白霜，杯口插着一大丛薄荷。这个画面只有一百来年历史，而朱莉普本身更早，19 世纪美国南方的药房与旅馆里已经在卖类似的薄荷加冰饮品。本页采用 IBA 的当代经典版本：60 毫升波本、4 枝新鲜薄荷、1 茶匙糖粉、2 茶匙清水，在朱莉普杯中轻压后加碎冰，搅拌至杯壁结霜。
 
-![薄荷朱莉普配方（IBA 版本） 类型示意图](/media/photos/theme-ingredients.jpg)
+![薄荷朱莉普配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-mint-julep.svg)
 
-图：薄荷朱莉普配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是薄荷朱莉普配方（IBA 版本）的实拍。
+图：薄荷朱莉普配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页判断薄荷朱莉普配方（IBA 版本）怎么做、容易失败在哪一步。
+>
+> - **适合谁：** 想按步骤做出薄荷朱莉普配方（IBA 版本）、并知道失败点在哪的人。
+> - **不适合谁：** 不准备称量、也不接受步骤顺序影响结果的人。
+> - **先看这两点：**
+>   - IBA 的比例可以读成“60 毫升基酒，配 1 茶匙糖粉与 2 茶匙清水”。
+>   - 薄荷朱莉普与肯塔基德比的绑定，是 20 世纪的事。
 
 ## 碎冰才是主体
 

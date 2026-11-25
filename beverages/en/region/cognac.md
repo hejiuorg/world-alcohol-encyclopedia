@@ -70,7 +70,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against regional bodies, official institutions and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images. Grade ages follow current regulation and labels.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images. Grade ages follow current regulation and labels.
 verification_scope: source-verified
 ---
 # Cognac
@@ -148,7 +148,7 @@ Cognac's age statements refer to the youngest eau-de-vie in the blend, and VS, V
 
 **Sources and limits.** The key claims about Cognac are checked against the following sources: BNIC (the region, grape varieties, double distillation and minimum age requirements; no original text is reproduced), INAO (the protected appellation status and geographical indication framework; no original text is reproduced), European Union (the category definition and minimum requirements for grape brandy; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Cognac, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Cognac, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

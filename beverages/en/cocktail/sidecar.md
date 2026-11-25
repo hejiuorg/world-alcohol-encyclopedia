@@ -11,8 +11,8 @@ revision: 1
 translation_of: cocktail:sidecar
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4c0872737111c0f28c795171fa26a88107305d6bfcc08df4effbe61729b9d719
-source_sha256: 4c0872737111c0f28c795171fa26a88107305d6bfcc08df4effbe61729b9d719
+source_revision: sha256:d8114f5b715f9c3047aa521d166e7a91da67054e9d273492a997cd45e0b7def0
+source_sha256: d8114f5b715f9c3047aa521d166e7a91da67054e9d273492a997cd45e0b7def0
 style: Classic cocktail
 ingredient_refs: []
 origin_place: Disputed; often traced to Harry's New York Bar in Paris or Buck's Club in London
@@ -58,7 +58,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the Sidecar's place in the IBA's Unforgettables category; no source text is reproduced.
     accessed: 2026-11-07
@@ -100,6 +100,15 @@ The Sidecar is a classic cocktail of cognac, orange liqueur and fresh lemon juic
 
 Figure: A Sidecar in a coupe, with amber liquid and a lemon wheel on the rim. Image: Achim Schleuning, CC BY-SA 4.0, via [source page](https://commons.wikimedia.org/wiki/File:Sidecar_Cocktail.jpg).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Sidecar, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Sidecar.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - The IBA lists the Sidecar among its Unforgettables.
+>   - Order a Sidecar with cognac, and ask for a half rim or no rim.
+
 ## The triangle of a sour
 
 A sour is built on spirit, acid and sugar. In the Sidecar, [cognac](ref:cognac) is the spirit and the centre of the flavour; [orange liqueur](ref:orange) provides sweetness, citrus aroma and some body; lemon juice provides acidity and lift. The three are not simply added together. The sweetness of the liqueur needs the lemon to cut it, the sharpness of the lemon needs sweetness to round it, and the grape and oak of the cognac need both to sit in the middle.
@@ -114,7 +123,7 @@ There is no settled origin for the Sidecar. At least three stories recur, and th
 
 One places the drink at Harry's New York Bar in Paris and credits Harry MacElhone. That bar was a meeting point for American expatriates and drinks writers in the 1920s, and MacElhone did record a Sidecar in his books. A second places it at Buck's Club in London and credits the bartender MacGarry. One of the earlier printed records is Robert Vermeire's *Cocktails: How to Mix Them* of 1922, which lists a Side-Car of one-sixth of a gill each of lemon juice, Cointreau and cognac — equal parts — and notes that the drink was very popular in France and had been introduced in London by MacGarry of Buck's Club. A third account comes from David Embury's *The Fine Art of Mixing Drinks* of 1948: he wrote that an American army captain in Paris during the First World War invented it and named it after the motorcycle sidecar that carried him to and from the bistro. Embury gave no bar name, though later retellings often supply one.
 
-These stories do not prove one another. The 1922 printing shows that the drink was already circulating; it does not identify the inventor. Harry's New York Bar and Buck's Club may both have been transmission points rather than a single birthplace. The army-captain story reads more like an anecdote that was repeated than a documented event. This page therefore says "is often traced to" or "one account holds", and does not present any year, bar or person as settled fact.
+These stories do not prove one another. The 1922 printing shows that the drink was already circulating; it does not identify the inventor. Harry's New York Bar and Buck's Club may both have been transmission points rather than a single birthplace. The army-captain story reads more like an anecdote that was repeated than a documented event. This cocktail therefore says "is often traced to" or "one account holds", and does not present any year, bar or person as settled fact.
 
 ## Why the IBA uses 50:20:20
 
@@ -128,7 +137,7 @@ Sources differ mainly on sweetness. Beyond equal parts and 2.5:1:1, a 2:1:1 form
 
 The sugar rim is the most misunderstood part of the Sidecar. It looks like a signature, but it is only an option. The usual method is to moisten the outside of the rim with a lemon wedge and dip it in fine sugar, either halfway round or all the way. Sugar must not fall into the drink, or it changes the sweetness of the liquid itself.
 
-The rim changes the order of perception. The lips meet sugar first, so the first sip tastes sweeter, the acidity is softened, and the alcohol of the cognac feels gentler. For a drinker who likes sweetness, this makes the drink friendlier. For a drinker with a good bottle of cognac, it is an intervention. The sugar stacks on top of the orange liqueur's sweetness, dulls the citrus in the middle, and the grain of the sugar pulls attention away from aroma. In short, the rim trades aroma for sweetness, and the more it trades, the more the Sidecar becomes a dessert drink.
+The rim changes the order of perception. The lips meet sugar first, so the first sip tastes sweeter, the acidity is softened, and the alcohol of the cognac feels gentler. For a drinker who likes sweetness, this makes the drink friendlier. For a drinker with a good bottle of cognac, it is an intervention. The sugar stacks on top of the orange liqueur's sweetness, dulls the citrus in the middle, and the grain of the sugar pulls attention away from aroma. In brief, the rim trades aroma for sweetness, and the more it trades, the more the Sidecar becomes a dessert drink.
 
 That is why the IBA formula does not include a rim. If you want one, make it half a rim, use fine sugar rather than icing sugar, and dry the outside of the glass enough that the sugar sticks without running. Humid sugar clumps and leaves a sticky rim; sugar the glass at service, not in advance. If the base spirit and the orange liqueur are both on the sweet side, skip the rim entirely and let the lemon hold the structure.
 

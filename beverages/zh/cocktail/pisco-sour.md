@@ -43,7 +43,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单与酸酒分类背景；未复制原文。
     accessed: 2026-11-07
@@ -83,6 +83,15 @@ verification_scope: source-verified
 ![皮斯科酸 图像](/media/photos/cocktail-pisco-sour-b20f9ca1.jpg)
 
 图：皮斯科酸。图片：Dtarazona，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Pisco_sour_20100613b.JPG)）。
+
+> **先给结论**
+> **一句话：** 这页判断皮斯科酸该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂皮斯科酸的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 常见配方为皮斯科 60 毫升、青柠汁 30 毫升、糖浆 20 毫升、蛋清 1 个，另加安高天娜苦精 2 到 3 滴。
+>   - 点单时可以直接说“皮斯科酸”，并询问使用的是秘鲁还是智利皮斯科。
 
 ## 起源与命名
 

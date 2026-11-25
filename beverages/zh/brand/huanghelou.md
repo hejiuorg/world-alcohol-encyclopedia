@@ -104,7 +104,7 @@ verification_scope: source-verified
 
 黄鹤楼是武汉的白酒品牌，由[黄鹤楼酒业](ref:producer)持有。它的特殊之处在于：品牌名下既有以“南派大清香”为旗号的清香型产品，也有标注为浓香型的“更上层楼”，还有以年份命名的陈香系列。买一瓶黄鹤楼，首先要确认的不是企业背景，而是瓶标上的香型与系列。
 
-![黄鹤楼 栏目示意图](/media/photos/theme-asian.jpg)
+![黄鹤楼 栏目示意图](/media/figures/specific/brand-huanghelou.svg)
 
 图：黄鹤楼栏目示意图。项目自产或类别插图，用于中国酒文化语境，不是该对象的实拍。
 

@@ -25,8 +25,8 @@ tags:
 translation_of: region:tasmania
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1fc540c570a0de373b9c2708e521f6ac160003219376b8046f33039dbdceb03e
-source_sha256: 1fc540c570a0de373b9c2708e521f6ac160003219376b8046f33039dbdceb03e
+source_revision: sha256:9a7eff91b1b59c65f3342f8787408854c2b2b9307d3b8e3dc24122080334bb46
+source_sha256: 9a7eff91b1b59c65f3342f8787408854c2b2b9307d3b8e3dc24122080334bb46
 related:
   - relation: about
     target_id: region:australia
@@ -107,6 +107,15 @@ Tasmania is Australia's southernmost island state, between roughly 41° and 43°
 ![Tasmania](/media/photos/region-tasmania-98584b6c.jpg)
 
 Figure: Tasmania: Stefano Lubiana Wines Tasmania harvest panorama (Wikimedia Commons). Image: Mark Smith, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Stefano_Lubiana_Wines_Tasmania_harvest_panorama.jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Tasmania for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Tasmania with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Vines reached Tasmania early.
+>   - Serve by variety: sparkling at about 6–8°C, Chardonnay and Pinot Gris at about 10–12°C, Pinot Noir at about 14–16°C.
 
 ## Definition and boundaries
 

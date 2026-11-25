@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:beringer-vineyards
 source_lang: zh
-source_revision: sha256:145dc987c14156e83db6a035f32ae045e201751626fca9cf6dfc40a23228d0f9
-source_sha256: 145dc987c14156e83db6a035f32ae045e201751626fca9cf6dfc40a23228d0f9
+source_revision: sha256:74a7804076b238f1240565cfeac30430fa183b6d88eb4b3e8d1bdb919539e0eb
+source_sha256: 74a7804076b238f1240565cfeac30430fa183b6d88eb4b3e8d1bdb919539e0eb
 translation_status: reviewed
 subtype: winery-visitor
 address: 2000 Main Street, St. Helena, CA 94574, USA
@@ -115,6 +115,15 @@ Beringer Vineyards stands at the northern end of Main Street in St. Helena, Napa
 ![related photograph of Beringer Vineyards](/media/photos/place-beringer-vineyards-bf49ca60.jpg)
 
 Figure: Related photograph of Beringer Vineyards. Image: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rhine_House,_Beringer_Vineyards.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Beringer Vineyards deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Beringer Vineyards who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1876 Jacob and Frederick Beringer bought land in St.
+>   - Beringer recommends booking ahead: the official page advises reserving to secure a preferred experience and time, while same-day places may exist if checked at the Welcome Center.
 
 ## Place and history
 

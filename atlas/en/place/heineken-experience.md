@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:heineken-experience
 source_lang: zh
-source_revision: sha256:81ae4136b753270d470a47a49df1851ac602270ae6d9730adab19907841793be
-source_sha256: 81ae4136b753270d470a47a49df1851ac602270ae6d9730adab19907841793be
+source_revision: sha256:c1a502194fe5357c9c22f286c33097e26658e1d9e8bed1ccbb34afc06654d305
+source_sha256: c1a502194fe5357c9c22f286c33097e26658e1d9e8bed1ccbb34afc06654d305
 translation_status: reviewed
 subtype: museum
 address: Stadhouderskade 78, 1072 AE Amsterdam, Netherlands
@@ -91,6 +91,12 @@ verification_scope: source-verified
 # Heineken Experience: A Second Life for an Old Brewery
 
 South of central Amsterdam, along the Singelgracht to Stadhouderskade 78, a row of nineteenth-century industrial buildings carries the green Heineken sign. This is not a working brewery: it is the visitor attraction created in Heineken's oldest brewery after production left in 1988. Brand history, brewing and tasting fill one indoor route, useful for a quick grasp of Dutch lager, but no substitute for a production visit.
+
+> **Visit information**
+> - Address: Stadhouderskade 78, 1072 AE Amsterdam, Netherlands.
+> - Opening and booking: check the [official page](https://www.heinekenexperience.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
 
 ![Brick façade and rooftop sign of the Heineken Experience](/media/photos/place-heineken-experience-6ed3e1de.jpg)
 

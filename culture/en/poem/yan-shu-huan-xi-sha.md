@@ -84,7 +84,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against a public song text, a dynastic history and a standard modern edition; the quoted song is in the public domain. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry.
 verification_scope: source-verified
 ---
 
@@ -141,7 +141,7 @@ For the craft background of grain wine in the Song, see [Yellow Wine](ref:yellow
 
 ## Textual variants
 
-Huan Xi Sha is short, and differences in its transmission lie mainly in punctuation and in the wording of a few anthologies rather than in whole lines. This page follows the received text given by Gushiwen and checks it against Complete Song Ci. When quoting, one should remember that the tune name Huan Xi Sha is not the same as the title of this song: the first line, One new song, one cup of wine, is often used as a title, but strictly speaking it is only the first line.
+Huan Xi Sha is short, and differences in its transmission lie mainly in punctuation and in the wording of a few anthologies rather than in whole lines. This poem entry follows the received text given by Gushiwen and checks it against Complete Song Ci. When quoting, one should remember that the tune name Huan Xi Sha is not the same as the title of this song: the first line, One new song, one cup of wine, is often used as a title, but strictly speaking it is only the first line.
 
 ## Common misreadings
 

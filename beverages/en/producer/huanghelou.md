@@ -99,7 +99,7 @@ The registered name, the website's self-description and the brand name are not i
 
 In May 2016 Gujing Gongjiu acquired 51% of Wuhan Tianlong Huanghelou Distillery for RMB 816 million from Wuhan Tianlong Investment Group and the individual Yan Hongye, creating goodwill. Gujing Gongjiu is listed on the main board of the Shenzhen Stock Exchange under code 000596; Huanghelou Distillery is not separately listed, and its results are consolidated into Gujing Gongjiu's financial statements.
 
-On the public record, Gujing Gongjiu's controlling position has not changed. The remaining equity is held in a dispersed way by the original shareholder side, and public disclosure is incomplete, so this page does not guess the names or ratios. On 29 April 2026 Gujing Gongjiu published an announcement on a goodwill impairment provision, stating that goodwill from the acquisition had entered impairment testing and that a provision had been made. Control stability and operating stability are two different things.
+On the public record, Gujing Gongjiu's controlling position has not changed. The remaining equity is held in a dispersed way by the original shareholder side, and public disclosure is incomplete, so this producer does not guess the names or ratios. On 29 April 2026 Gujing Gongjiu published an announcement on a goodwill impairment provision, stating that goodwill from the acquisition had entered impairment testing and that a provision had been made. Control stability and operating stability are two different things.
 
 ## Reliable points in the history
 
@@ -129,7 +129,7 @@ On the capital market, Huanghelou Distillery has no separate ticker, so investor
 
 The company website provides sites, employees, history and products; exchange announcements provide equity and goodwill information. The two have different purposes. The website stresses "revival of a famous liquor", while the announcement discloses acquisition cost and impairment: the first is brand narrative, the second is accounting fact.
 
-Public material does not disclose full capacity, output by plant, base-liquor inventory or the minority shareholder list. When such figures appear, ask where they come from: business registration, a listed-company announcement, or a promotional article. This page does not fill in unverifiable ratios or capacity.
+Public material does not disclose full capacity, output by plant, base-liquor inventory or the minority shareholder list. When such figures appear, ask where they come from: business registration, a listed-company announcement, or a promotional article. This producer does not fill in unverifiable ratios or capacity.
 
 ## Division of labour with the brand page
 

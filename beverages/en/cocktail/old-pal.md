@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: cocktail:old-pal
 source_lang: zh
-source_revision: sha256:0b7b10e5840ccdb56ea897a63906d7ac1c435d817e95306588763bbef6bb6f61
-source_sha256: 0b7b10e5840ccdb56ea897a63906d7ac1c435d817e95306588763bbef6bb6f61
+source_revision: sha256:8a73cc4bb52ba5b1280258deb0151c36a5d0e150608dca99ccc5bfd923cd7a57
+source_sha256: 8a73cc4bb52ba5b1280258deb0151c36a5d0e150608dca99ccc5bfd923cd7a57
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -66,7 +66,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -93,7 +93,7 @@ Figure: An Old Pal in a rocks glass, with red-orange liquid, ice and a piece of 
 
 ## Definition and identity
 
-Common accounts link the Old Pal to the Paris bar scene of the 1920s, and its name relates to "old friend". Several origin stories exist; this page treats them as historical background and does not present one as settled fact.
+Common accounts link the Old Pal to the Paris bar scene of the 1920s, and its name relates to "old friend". Several origin stories exist; this cocktail treats them as historical background and does not present one as settled fact.
 
 ## Recipe (classic ratio)
 
@@ -147,7 +147,7 @@ For Old Pal, a common mistake is treating a variation as the original recipe. Af
 
 The Old Pal suits slow sipping before a meal, with nuts, olives or simple savoury snacks. It is relatively strong and distinctly bitter, so sip slowly and drink water; do not drink it quickly on an empty stomach. Do not drink when driving, taking medication or pregnant.
 
-This page records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. The finished strength depends on the whiskey's [alcohol by volume](ref:abv), the liqueur's sweetness and the ice dilution, not on the recipe numbers alone.
+This cocktail records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. The finished strength depends on the whiskey's [alcohol by volume](ref:abv), the liqueur's sweetness and the ice dilution, not on the recipe numbers alone.
 
 **Short definition:** A classic cocktail of equal parts rye whiskey, Campari and dry vermouth, stirred and strained into a chilled glass, usually garnished with lemon peel; bitter and dry in style.
 
@@ -167,7 +167,7 @@ Old Pal is a rye-based equal-parts cocktail with Campari and dry vermouth, disti
 
 **Sources and limits.** The key claims about Old Pal are checked against the following sources: Oxford University Press (Used to check the historical background and basic composition), David Wondrich / Perigee (Used to check background on 20th-century American cocktail development), International Bartenders Association (Used to confirm the drink is on the IBA official cocktail list) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Old Pal, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Old Pal, this cocktail was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

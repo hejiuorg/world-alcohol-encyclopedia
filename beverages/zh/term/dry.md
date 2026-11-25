@@ -83,9 +83,9 @@ verification_scope: source-verified
 
 干型（dry）是葡萄酒标签上表示残留糖分很低的用语。它回答的是“发酵结束后还剩多少糖”，而不是“这瓶酒有多浓”“多好”或“果味有多足”。把干型读成“没有果味”或“高级”，是读酒标时最常见的偏差之一。
 
-![干型（dry） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![干型（dry） 类型示意图](/media/figures/specific/term-dry.svg)
 
-图：干型（dry） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是干型（dry）的实拍。
+图：干型（dry） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

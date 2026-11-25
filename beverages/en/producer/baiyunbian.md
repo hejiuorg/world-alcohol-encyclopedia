@@ -112,13 +112,13 @@ It is common in baijiu for plant history to predate company registration. Compan
 
 The company's "development history" page records that in November 2005, under the provincial policy for county economies, Baiyunbian carried out a property-rights reform of "state-share exit, private ownership". After the reform, the new joint-stock company separated ownership from management and formed a clear equity structure.
 
-The company is therefore no longer solely or majority state-owned. Public material does not disclose the current shareholder list and ratios item by item, and this page does not state specific figures. What can be confirmed is that it is a private joint-stock company, with ownership and management rearranged after the reform; equity changes should be checked against business registration.
+The company is therefore no longer solely or majority state-owned. Public material does not disclose the current shareholder list and ratios item by item, and this producer does not state specific figures. What can be confirmed is that it is a private joint-stock company, with ownership and management rearranged after the reform; equity changes should be checked against business registration.
 
 ## From a Songzi distillery to a mixed-aroma representative
 
 After 1952 the plant long operated as a local state-owned distillery. It later developed a route combining strong and sauce aroma and named the brand "Baiyunbian", from Li Bai's line "borrow the moonlight from Dongting, and sail to buy wine where the clouds are white". The poem supplies a place and a wine image, not a process description.
 
-After reform and opening up, the company went through restructuring and expansion and became one of Hubei's representative baijiu businesses. Dates for renaming, expansion and restructuring differ between sources; this page uses only the checkable founding year, the 2005 reform and the 2007 registration.
+After reform and opening up, the company went through restructuring and expansion and became one of Hubei's representative baijiu businesses. Dates for renaming, expansion and restructuring differ between sources; this producer uses only the checkable founding year, the 2005 reform and the 2007 registration.
 
 ## Participation in the mixed-aroma standard
 
@@ -130,7 +130,7 @@ Taking part in drafting gives the company a voice in the category, but it does n
 
 The plant is in Songzi, on the south bank of the middle Yangtze, with a warm, humid subtropical monsoon climate and distinct seasons suited to multi-round [fermentation](ref:fermentation). [Hubei](ref:hubei)'s river system and grain supply provide the basics, with sorghum and wheat as main raw materials.
 
-Mixed-aroma production usually runs both strong- and sauce-aroma routes: the strong part uses mud pits, continued grain and mixed steaming; the sauce part uses high-temperature stacking, multiple fermentation rounds and repeated extraction. Base spirits from both are combined, stored and blended. The company does not publish verifiable plant-level capacity or base-liquor inventory, so this page does not fill them in.
+Mixed-aroma production usually runs both strong- and sauce-aroma routes: the strong part uses mud pits, continued grain and mixed steaming; the sauce part uses high-temperature stacking, multiple fermentation rounds and repeated extraction. Base spirits from both are combined, stored and blended. The company does not publish verifiable plant-level capacity or base-liquor inventory, so this producer does not fill them in.
 
 ## Product structure from the company's view
 
@@ -142,7 +142,7 @@ From the company's side, product structure is about capacity allocation, channel
 
 Baiyunbian's core market is Hubei, with Songzi and Jingzhou as the home market and Wuhan and the Jianghan Plain as priorities. Channels are mainly distributors, tobacco-and-liquor shops and banquet group purchases, with supermarkets and e-commerce as supplements. Its mixed-aroma difference gives it a stable local consumer base.
 
-Outside the province, the brand faces national names and local competitors. Public material does not disclose provincial sales shares, and this page does not speculate. The regional character remains clear, and mixed aroma is a niche nationally.
+Outside the province, the brand faces national names and local competitors. Public material does not disclose provincial sales shares, and this producer does not speculate. The regional character remains clear, and mixed aroma is a niche nationally.
 
 ## Capital market status
 
@@ -154,7 +154,7 @@ That does not mean there is no capital activity. Restructuring, capital increase
 
 The company website provides plant history, the reform and standard participation; the business registration system provides the entity and status; the national standard provides product requirements. They answer different questions and cannot replace one another.
 
-For Hubei Baiyunbian Distillery, public material does not disclose the full shareholder list, plant-level capacity, base-liquor inventory or related-party details. When such figures appear, ask whether they come from registration, a company announcement or a promotional article. This page does not fill in unverifiable ratios or capacity.
+For Hubei Baiyunbian Distillery, public material does not disclose the full shareholder list, plant-level capacity, base-liquor inventory or related-party details. When such figures appear, ask whether they come from registration, a company announcement or a promotional article. This producer does not fill in unverifiable ratios or capacity.
 
 ## Division of labour with the brand page
 

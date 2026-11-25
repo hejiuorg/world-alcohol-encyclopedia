@@ -11,8 +11,8 @@ revision: 2
 translation_of: brand:huanghelou
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:89369b6e2a77a20288d6bd1a965fc2540641da9439a65f8dbc223f7534f8d5e1
-source_sha256: 89369b6e2a77a20288d6bd1a965fc2540641da9439a65f8dbc223f7534f8d5e1
+source_revision: sha256:48953b5fc833eee4d9dfebdab2ee90ca28143742985656afa0065c7757ab15f7
+source_sha256: 48953b5fc833eee4d9dfebdab2ee90ca28143742985656afa0065c7757ab15f7
 producer_refs:
   - producer:huanghelou
 region_refs:
@@ -97,7 +97,7 @@ verification_scope: source-verified
 
 Huanghelou is a baijiu brand from Wuhan, held by [Huanghelou Distillery](ref:producer). What makes it unusual is that the brand covers light-aroma products under the "Southern School Great Light Aroma" banner, a strong-aroma product called "Gengshang Cenglou", and a Chenxiang series named after years. Buying a bottle of Huanghelou starts not with the company background but with the aroma type and series on the label.
 
-![Huanghelou category illustration](/media/photos/theme-asian.jpg)
+![Huanghelou category illustration](/media/figures/specific/brand-huanghelou.svg)
 
 Figure: Huanghelou. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
 
@@ -113,7 +113,7 @@ The checkable timeline begins in 1952 with the state-run Wuhan Distillery: 1979,
 
 ## Market position and price band
 
-Huanghelou's main price band sits in banquets and gifting, with the Lou series and Chenxiang year-labelled products carrying the image at the top, and Ecological Original Pulp and Gengshang Cenglou covering everyday gatherings below. Public material gives no single national recommended price; actual prices vary by region, channel and promotion, so this page does not quote a figure.
+Huanghelou's main price band sits in banquets and gifting, with the Lou series and Chenxiang year-labelled products carrying the image at the top, and Ecological Original Pulp and Gengshang Cenglou covering everyday gatherings below. Public material gives no single national recommended price; actual prices vary by region, channel and promotion, so this brand does not quote a figure.
 
 Compared with Daohuaxiang and Baiyunbian in the same province, Huanghelou's difference is the historical label of a "famous light-aroma liquor"; compared with northern light-aroma brands, it carries a clear Wuhan identity.
 

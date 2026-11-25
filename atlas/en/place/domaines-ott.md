@@ -130,7 +130,7 @@ Vintage variation is strong in Provence. Hot, dry years raise sugar quickly and 
 
 From Les Baux-de-Provence to Taradeau, the simplest route runs south on the A8 or D554 before turning onto the country roads around the D54, with vineyards and pine woods alternating along the way. Enter the address in the navigation system. Latitude and longitude have not been taken from an official page here, so coordinates should be confirmed through official channels; parking and the meeting point are best checked in the booking confirmation.
 
-Plan this stop for a weekday morning, because the cellar and tasting room are normally closed at weekends. To continue east to [Château Miraval](ref:mirav) in Correns, allow about an hour; the two stops fit into one day. Do not touch the cask racks or pipes, and do not drive after tasting. Provençal country roads are narrow and winding, so a designated driver or a hired car is safer than "just one glass". Opening hours, booking and prices are subject to official channels; this page was verified on 2026-11-09.
+Plan this stop for a weekday morning, because the cellar and tasting room are normally closed at weekends. To continue east to [Château Miraval](ref:mirav) in Correns, allow about an hour; the two stops fit into one day. Do not touch the cask racks or pipes, and do not drive after tasting. Provençal country roads are narrow and winding, so a designated driver or a hired car is safer than "just one glass". Opening hours, booking and prices are subject to official channels; this entry was verified on 2026-11-09.
 
 [Provence](ref:provence) and [Appellation](ref:appellation) answer different questions about Domaines Ott: address and space and operating status. Read them as a pair, not as alternatives.
 

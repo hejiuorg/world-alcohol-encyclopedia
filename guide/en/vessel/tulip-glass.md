@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: vessel:tulip-glass
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6c434cb4defff62a733f1788d5c4e8271bcd209679a611aafe7f9a2ea99e3118
-source_sha256: 6c434cb4defff62a733f1788d5c4e8271bcd209679a611aafe7f9a2ea99e3118
+source_revision: sha256:57bbaa8624120afa1be07d80ccd3199b411fe9469475be8a07681445b1aa1667
+source_sha256: 57bbaa8624120afa1be07d80ccd3199b411fe9469475be8a07681445b1aa1667
 materials:
   - Glass
   - Crystal glass
@@ -64,7 +64,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check serving practice for short and sparkling drinks; no source text is reproduced.
     accessed: 2026-11-07
@@ -82,7 +82,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this glass.
 verification_scope: source-verified
 ---
 
@@ -114,7 +114,7 @@ The narrowed rim has a practical effect as well: the drink flows towards a more 
 
 ## Capacity and suitable drinks
 
-There is no single capacity standard for a tulip glass, and bowl size, rim width and height vary widely. This page gives no fixed capacity figure; capacity depends on the specific product. Adjust the pour to your glass so that the drink is not so full that the aroma space is compressed.
+There is no single capacity standard for a tulip glass, and bowl size, rim width and height vary widely. This glass gives no fixed capacity figure; capacity depends on the specific product. Adjust the pour to your glass so that the drink is not so full that the aroma space is compressed.
 
 Drinks that suit a tulip include Champagne and [sparkling wine](ref:sparkling), especially when both aroma and bubbles matter, and [beer](ref:beer), since many beer glass shapes use a tulip outline to gather malt and hop aroma. Some aroma-first, ice-free short drinks also use a tulip glass; the specific choice depends on the recipe and bar practice.
 

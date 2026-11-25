@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:opus-one-winery
 source_lang: zh
-source_revision: sha256:118337f3f1489ec8f12c7f0344e6c861933671fb7f7c99ffee270b2d803483f8
-source_sha256: 118337f3f1489ec8f12c7f0344e6c861933671fb7f7c99ffee270b2d803483f8
+source_revision: sha256:b8d7b606b2ae65a169b0b35bfc150dc03d46512da12ef7a42c2e5db961be5a82
+source_sha256: b8d7b606b2ae65a169b0b35bfc150dc03d46512da12ef7a42c2e5db961be5a82
 translation_status: reviewed
 subtype: winery-visitor
 address: 7900 St. Helena Highway, Oakville, CA 94562, USA
@@ -109,6 +109,15 @@ Opus One Winery stands in Oakville, Napa Valley, across Highway 29 from Robert M
 ![Opus One Winery image](/media/photos/place-opus-one-winery-fc1d0ae3.jpg)
 
 Figure: Opus One Winery. Image: No machine-readable author provided. Cszmurlo assumed (based on copyright claims)., CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Opus-One-Szmurlo.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Opus One Winery deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Opus One Winery who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The collaboration is usually dated to 1978.
+>   - Opus One is appointment-only and does not accept walk-in visitors.
 
 ## Place and history
 

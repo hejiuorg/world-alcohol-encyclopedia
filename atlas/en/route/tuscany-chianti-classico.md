@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:tuscany-chianti-classico
 source_lang: zh
-source_revision: sha256:7444eb0f64d227e3cbbffc46acba8288a1e693b43af6616120ddb383ba91cabf
-source_sha256: 7444eb0f64d227e3cbbffc46acba8288a1e693b43af6616120ddb383ba91cabf
+source_revision: sha256:c9e0c86330259da5d82379b72e98d6b5325ef1b2fcc55efd24ca3abf6dae3b22
+source_sha256: c9e0c86330259da5d82379b72e98d6b5325ef1b2fcc55efd24ca3abf6dae3b22
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -102,6 +102,15 @@ Chianti Classico lies between Florence and Siena and is easily reduced to a chec
 
 Figure: Related photograph of Chianti Classico: from Florence to three estates. Image: FranzKafka2000, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chianti_Classico_example_bottle_-_Annata_type.jpg)).
 
+> **Quick verdict**
+> **In one line:** This route helps you plan Chianti Classico: from Florence to three estates, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Chianti Classico: from Florence to three estates into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Antinori nel Chianti Classico, Via Cassia per Siena 133, Loc.
+>   - Sangiovese is the axis of Chianti Classico, but not the only grape.
+
 ## Route overview
 
 - Stop one: [Antinori nel Chianti Classico](ref:antinori), Via Cassia per Siena 133, Loc. Bargino, 50026 San Casciano Val di Pesa (FI), inaugurated in October 2012.
@@ -167,4 +176,4 @@ The best windows are April–June and September–October: long days and moderat
 
 There is one safety rule: do not drink and drive. All three stops offer tastings and spittoons. Chianti roads are narrow, winding and steep, with poor lighting at night. A designated driver, a hired car or a transport-inclusive tour makes this route work. Smell before tasting, sip slowly and avoid strong perfume.
 
-To go deeper, continue with the venue pages for [Antinori](ref:antinori), [Brolio](ref:brolio) and [Fèlsina](ref:felsina). Opening hours, bookings and transport are subject to official channels; this page was verified on 2026-11-08.
+To go deeper, continue with the venue pages for [Antinori](ref:antinori), [Brolio](ref:brolio) and [Fèlsina](ref:felsina). Opening hours, bookings and transport are subject to official channels; this route was verified on 2026-11-08.

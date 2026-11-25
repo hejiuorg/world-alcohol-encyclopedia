@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: daiquiri
 title: Daiquiri recipe (IBA version)
-summary: 60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass with no garnish in the IBA version; this page explains each step of a very simple structure.
+summary: 60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass with no garnish in the IBA version; this recipe explains each step of a very simple structure.
 status: reviewed
 revision: 2
 translation_of: recipe:daiquiri
 source_lang: zh
-source_revision: sha256:2167fddbf2041c82013b3d5f4cefda8f3a118d9777482033f38fce4e3712511b
-source_sha256: 2167fddbf2041c82013b3d5f4cefda8f3a118d9777482033f38fce4e3712511b
+source_revision: sha256:08221b1c29f1bb8188f452fdc5a21ae9ed3add8dfcbd0f12333e3ea9cacac5bd
+source_sha256: 08221b1c29f1bb8188f452fdc5a21ae9ed3add8dfcbd0f12333e3ea9cacac5bd
 translation_status: reviewed
 product_id: cocktail:daiquiri
 source_version: IBA Official Cocktails (checked October 2026)
@@ -87,7 +87,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -101,18 +101,18 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 # Daiquiri recipe (IBA version)
 
-This is one [Daiquiri](ref:cocktail) recipe with a stated source. Its structure is extremely simple: rum, lime, sugar. Precisely because there are only three ingredients, any imbalance in acidity, dilution or temperature shows at once, with nothing else to cover it. This page records the public IBA version and explains the purpose of each step.![Daiquiri recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+This is one [Daiquiri](ref:cocktail) recipe with a stated source. Its structure is extremely simple: rum, lime, sugar. Precisely because there are only three ingredients, any imbalance in acidity, dilution or temperature shows at once, with nothing else to cover it. This recipe records the public IBA version and explains the purpose of each step.![Daiquiri recipe (IBA version) thematic illustration](/media/figures/specific/recipe-daiquiri.svg)
 
 Figure: thematic illustration for Daiquiri recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
 ## A recipe with a stated source
 
-The public IBA (International Bartenders Association) recipe uses 60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred first to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass, with no garnish in the official version. This page follows that version and explains the purpose of each step.
+The public IBA (International Bartenders Association) recipe uses 60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred first to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass, with no garnish in the official version. This recipe follows that version and explains the purpose of each step.
 
 The recipe version is recorded separately from the cocktail identity so that it stays traceable. Bars make Daiquiris differently: some use syrup, some shift the lime-to-sugar ratio, some add fruit and blend with ice, some use aged rum. These differences are not about who is "authentic"; they are different versions and should carry their own sources.
 
@@ -177,6 +177,6 @@ Replacing fine sugar with syrup changes dissolution and sweetness control; addin
 
 ## Limits
 
-This page records one source version only. It does not rank brands and does not present one ratio as the only correct answer. The strength of the drink depends on the [alcohol by volume](ref:abv) of the rum, the amount of sugar and the dilution from shaking, not on the recipe numbers alone. Drink in moderation, avoid drinking quickly on an empty stomach, and do not drink while driving, taking medication or pregnant; follow local law.
+This recipe records one source version only. It does not rank brands and does not present one ratio as the only correct answer. The strength of the drink depends on the [alcohol by volume](ref:abv) of the rum, the amount of sugar and the dilution from shaking, not on the recipe numbers alone. Drink in moderation, avoid drinking quickly on an empty stomach, and do not drink while driving, taking medication or pregnant; follow local law.
 
-**At a glance:** 60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass with no garnish in the IBA version; this page explains each step of a very simple structure.
+**At a glance:** 60 ml Cuban white rum, 20 ml fresh lime juice and two bar spoons of fine sugar, stirred to dissolve the sugar and then shaken with ice, strained into a chilled cocktail glass with no garnish in the IBA version; this recipe explains each step of a very simple structure.

@@ -152,7 +152,7 @@ Porter is a dark top-fermented beer from 18th-century London, built on brown mal
 
 **Sources and limits.** The key claims about Porter are checked against the following sources: Beer Judge Certification Program, Campaign for Real Ale (public statements on British dark beer and pub serving traditions; no original text is reproduced), Brewers Association (US craft industry discussion of porter and its variants; no original wording is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Porter, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Porter, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

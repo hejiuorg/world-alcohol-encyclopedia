@@ -84,7 +84,7 @@ Figure: Changyu Wine. Photograph: Guang Lu Di in Dabu. Built in 1908, former res
 
 Changyu is both a company name and a wine brand. It is not a wine region and not a grape variety. Understanding it as a [wine](ref:wine) brand is what allows "Changyu", "the Yantai region" and "the Cabernet Gernischt variety" to be kept at their proper levels.
 
-Changyu's business is not limited to wine and also includes brandy and other spirits; this page covers only the wine side. A long company history and a wide product range mean that price, process and style can differ greatly between series under one brand, so the brand name alone is not enough to place a bottle.
+Changyu's business is not limited to wine and also includes brandy and other spirits; this entry covers only the wine side. A long company history and a wide product range mean that price, process and style can differ greatly between series under one brand, so the brand name alone is not enough to place a bottle.
 
 ## Origin and environment
 

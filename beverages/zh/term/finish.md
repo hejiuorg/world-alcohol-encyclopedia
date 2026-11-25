@@ -75,9 +75,9 @@ verification_scope: source-verified
 
 余味（finish，亦称 length、aftertaste 或回味）指酒液被咽下或吐出之后，口腔与鼻腔中仍在延续的味觉、香气与触感。它不是吞咽瞬间的爆发，而是随后数秒到数十秒的衰减曲线。品鉴时，余味的长度、层次、干净度与方向共同构成判断，而不是一个孤立的秒数。
 
-![余味（finish） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![余味（finish） 类型示意图](/media/figures/specific/term-finish.svg)
 
-图：余味（finish） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是余味（finish）的实拍。
+图：余味（finish） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

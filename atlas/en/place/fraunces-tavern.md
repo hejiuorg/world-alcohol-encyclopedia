@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fraunces-tavern
 source_lang: zh
-source_revision: sha256:f276fd7a3b668d73fe1f5fdb44c82b274b3869ed7b148bd1d9a57509bd0c4cd6
-source_sha256: f276fd7a3b668d73fe1f5fdb44c82b274b3869ed7b148bd1d9a57509bd0c4cd6
+source_revision: sha256:5ec9e25475371ebf741b6e9ed7c65ae214de0486809674a961e1452faaeb42e3
+source_sha256: 5ec9e25475371ebf741b6e9ed7c65ae214de0486809674a961e1452faaeb42e3
 translation_status: reviewed
 subtype: pub
 address: 54 Pearl Street, New York, NY 10004, United States
@@ -92,6 +92,15 @@ Among the towers of Lower Manhattan's financial district, 54 Pearl Street is a b
 
 Figure: Fraunces Tavern. Image: Jim.henderson, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Frauncestavern.JPG)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Fraunces Tavern deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Fraunces Tavern who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The building was constructed in 1719 for the merchant Stephen Delancey as a substantial private residence.
+>   - The restaurant follows an American tavern menu: raw oysters, New England clam chowder, crab cakes, Scotch eggs, a signature burger, steak, fish and chips and chicken pot pie.
+
 ## Place and history
 
 The building was constructed in 1719 for the merchant Stephen Delancey as a substantial private residence. In 1762 Samuel Fraunces bought it and turned it into a tavern, which soon became one of the centres of Patriot activity in New York. Before the War of Independence, the New York Sons of Liberty met here; during the British occupation, Fraunces helped Patriots held on prison ships in the harbour while passing intelligence to the Continental Army. These details make "historic tavern" more than a decorative label: the building was a concrete political space.
@@ -122,7 +131,7 @@ The address is 54 Pearl Street, New York, NY 10004, near the corner of Pearl and
 
 The museum is open daily from 12:00 to 17:00. Admission is $10 for adults, $5 for seniors aged 65 and over, students with valid ID and children aged 6–17, and free for children aged 5 and under and for active US military personnel and veterans with ID; disabled visitors and one attendant pay $5. Tickets are sold only at the second-floor front desk, with no advance sales; large groups should contact the museum beforehand. Public tours run on Fridays at 13:00, Saturdays at 12:00 and 15:00 and Sundays at 14:00, free with admission but subject to last-minute cancellation. Restaurant hours differ from museum hours and usually run late; check the restaurant website and booking page.
 
-Allow 1–1.5 hours for the museum, or up to two hours if you read the panels and spend time in the Long Room; add 1–1.5 hours for lunch or dinner. Large bags can be left in the gift shop, but there are no lockers and valuables are left at your own risk. Personal non-commercial photography is allowed; flash, tripods and selfie sticks are prohibited, and commercial shoots require prior permission. This page was verified on 2026-11-08; hours, admission and menus are subject to official confirmation.
+Allow 1–1.5 hours for the museum, or up to two hours if you read the panels and spend time in the Long Room; add 1–1.5 hours for lunch or dinner. Large bags can be left in the gift shop, but there are no lockers and valuables are left at your own risk. Personal non-commercial photography is allowed; flash, tripods and selfie sticks are prohibited, and commercial shoots require prior permission. This entry was verified on 2026-11-08; hours, admission and menus are subject to official confirmation.
 
 ## Conduct and misunderstandings
 

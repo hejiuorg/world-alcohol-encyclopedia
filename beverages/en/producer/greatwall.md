@@ -11,8 +11,8 @@ revision: 3
 translation_of: producer:greatwall
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6dbdbdfd21b1d83faeaa3bc10ce8fd857974832429062baec7ed4fb4e0204667
-source_sha256: 6dbdbdfd21b1d83faeaa3bc10ce8fd857974832429062baec7ed4fb4e0204667
+source_revision: sha256:8e5583760ea9bab1e54c8c1162e42b035416b9aef69dce54bb1a09722dd84ec2
+source_sha256: 8e5583760ea9bab1e54c8c1162e42b035416b9aef69dce54bb1a09722dd84ec2
 region_refs:
   - region:china
 official_url: http://www.greatwallwine.com.cn/
@@ -92,11 +92,20 @@ COFCO Greatwall Wine Co., Ltd. is an unusual kind of producer in [wine](ref:wine
 
 Figure: COFCO Greatwall Wine Co., Ltd.. Photograph: File:Red and white wine in glass.jpg. Credit: André Karwath, CC BY-SA 2.5 ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This producer explains the craft behind COFCO Greatwall Wine Co., Ltd., and what a visit can show.
+>
+> - **Best for:** Anyone who wants the craft, products and visitor limits of COFCO Greatwall Wine Co., Ltd..
+> - **Not for:** If you want only want a buying link and do not care about craft or visitor rules.
+> - **Check first:**
+>   - Plants are distributed across the production areas and handle fermentation, storage, bottling and warehousing.
+>   - The official description is a domestic wine business platform managed by COFCO, with the "Greatwall Wine" brand as its core asset.
+
 ## Company identity and group affiliation
 
 The official description is a domestic wine business platform managed by COFCO, with the "Greatwall Wine" brand as its core asset. The platform handles brand management, regional planning, production organisation and sales coordination, while actual production is carried out by subsidiaries in different regions.
 
-"Managed by COFCO" and "wholly owned by COFCO" are not the same statement. The first describes business affiliation and management; the second concerns equity in a specific legal entity. This page uses only the management relationship stated on the official site and does not infer intermediate shareholdings; precise equity requires company registration information and group announcements.
+"Managed by COFCO" and "wholly owned by COFCO" are not the same statement. The first describes business affiliation and management; the second concerns equity in a specific legal entity. This producer uses only the management relationship stated on the official site and does not infer intermediate shareholdings; precise equity requires company registration information and group announcements.
 
 ## Position within COFCO
 
@@ -148,13 +157,13 @@ This is often overlooked. Discussing "Greatwall's market value" or "Greatwall's 
 
 ## Brand protection and disputes
 
-"Greatwall" is both a common phrase and a trademark. Similar names, counterfeit packaging and borderline products have long existed, and the brand owner must defend its rights through trademark registration, administrative complaints and litigation. Specific cases and judgments change over time, so this page does not list unverified case numbers or amounts.
+"Greatwall" is both a common phrase and a trademark. Similar names, counterfeit packaging and borderline products have long existed, and the brand owner must defend its rights through trademark registration, administrative complaints and litigation. Specific cases and judgments change over time, so this producer does not list unverified case numbers or amounts.
 
 Another area is licensing and contract manufacturing. Licensing can widen coverage but may dilute quality perception; whether a product comes from an own production area or a licensee requires the producer name on the label and official channel information. Using "is it Greatwall" to judge authenticity is not enough; producer and origin information is more reliable.
 
 ## Division of labour with the brand page
 
-This page handles the enterprise layer: affiliation, production areas, subsidiaries, assets, channels and capital markets. The brand page handles the product layer: positioning, series, price bands, packaging, marketing and consumer perception. The two share the name "Greatwall" but answer different questions. Putting company assets on the brand page, or advertising copy on the company page, destroys the hierarchy.
+This producer handles the enterprise layer: affiliation, production areas, subsidiaries, assets, channels and capital markets. The brand page handles the product layer: positioning, series, price bands, packaging, marketing and consumer perception. The two share the name "Greatwall" but answer different questions. Putting company assets on the brand page, or advertising copy on the company page, destroys the hierarchy.
 
 ## Common misconceptions
 

@@ -101,7 +101,7 @@ Figure: Related photograph of Mezcaloteca: A Tasting Archive in Central Oaxaca. 
 
 ## Reforma 506: A Tasting Room That Makes No Spirit
 
-From the zócalo it is about ten minutes on foot, on a dense shopping stretch where the entrance is easy to miss. The address is Reforma 506, Ruta Independencia, Centro, 68000 Oaxaca de Juárez; this page fixes no coordinates, so use official channels for the exact location. The telephone is +52 951 514 0082, and hours and sessions shift with holidays and private events, so confirm before setting out.
+From the zócalo it is about ten minutes on foot, on a dense shopping stretch where the entrance is easy to miss. The address is Reforma 506, Ruta Independencia, Centro, 68000 Oaxaca de Juárez; this entry fixes no coordinates, so use official channels for the exact location. The telephone is +52 951 514 0082, and hours and sessions shift with holidays and private events, so confirm before setting out.
 
 It does not work like a bar you drop into. Seating is mostly by reservation and session, so a small group can ask questions without noise. Bottle buyers can use the online shop, but the point is to sit, taste, listen and ask.
 

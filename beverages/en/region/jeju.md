@@ -158,7 +158,7 @@ The island also makes citrus liqueurs and herbal wines from local fruit.
 
 **Sources and limits.** The key claims about Jeju are checked against the following sources: Jeju Special Self-Governing Province (Jeju Special Self-Governing Province's volcanic-island geography, groundwater and local-industry background), Korea.net (Jeju's traditional drinks (omegisul/gosorisul), Hallasan soju and the volcanic-rock groundwater account), Jeju Economic Promotion Institute, Tokyo (Hallasan soju's 1950 founding, Jeju upland rice ingredient and oak-cask-aged product information) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Jeju, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Jeju, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 
@@ -167,4 +167,4 @@ Further reading: the key to Jeju is not the phrase “volcanic island” but the
 Jeju’s tourism narrative is strong, and the symbols—volcanic rock, citrus, haenyeo—can carry you away. Return to the label when buying: type, materials, ABV, producer and storage. Return to the glass when drinking: temperature, sweetness and food. Keeping symbols apart from products stops a plain diluted soju from being sold as volcanic terroir. For a distillery visit, confirm language, booking and transport; east and west Jeju do not fit one day, so stay central or split the trip. Buy the traditional distilled soju before the flavoured diluted one; it shows the local craft more clearly.
 
 - Related: [south-korea](ref:south-korea), [soju](ref:soju), [rice](ref:rice), [fermentation](ref:fermentation), [terroir](ref:terroir).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.

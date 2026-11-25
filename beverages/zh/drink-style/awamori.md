@@ -79,9 +79,9 @@ verification_scope: source-verified
 
 泡盛的配方短得惊人：米、黑曲、水，加酵母。它没有二次仕込み，没有连续蒸馏，也不靠低温慢慢磨香。可是这套简单的流程在冲绳的高温高湿里运行了几百年，还长出一条别的日本蒸馏酒少有的传统——把酒封进陶坛，等上三年、十年、三十年，变成“古酒”。
 
-![泡盛 类型示意图](/media/photos/theme-beer.jpg)
+![泡盛 类型示意图](/media/figures/specific/drink-style-awamori.svg)
 
-图：泡盛 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是泡盛的实拍。
+图：泡盛 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 先分清三个邻居
 

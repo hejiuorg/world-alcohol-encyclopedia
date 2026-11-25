@@ -159,4 +159,4 @@ Brasserie Lipp is best approached through the address, then the current opening 
 
 **Sources and limits.** The key claims about Brasserie Lipp are checked against the following sources: Brasserie Lipp (Used for the 151 boulevard Saint-Germain address and the daily 09:00–02:00 hours), Paris Convention and Visitors Bureau, Groupe Bertrand. For current products, addresses or opening status, use brasserielipp.fr. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Brasserie Lipp, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Brasserie Lipp, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

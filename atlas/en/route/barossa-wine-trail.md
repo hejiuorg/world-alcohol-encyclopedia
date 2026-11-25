@@ -147,4 +147,4 @@ Both stops need bookings, but the rhythm differs: Magill releases cellar door an
 
 ## References
 
-This page was checked against Penfolds' Magill Estate cellar door page, contact page and brand history, Henschke's contact page and family history, and Wine Australia's Barossa Valley material. Page verified 2026-11-09. Opening hours, experience prices, booking rules and wines change, so check each official channel.
+This route was checked against Penfolds' Magill Estate cellar door page, contact page and brand history, Henschke's contact page and family history, and Wine Australia's Barossa Valley material. Page verified 2026-11-09. Opening hours, experience prices, booking rules and wines change, so check each official channel.

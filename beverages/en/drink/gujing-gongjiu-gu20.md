@@ -136,7 +136,7 @@ Taste from a small cup: first check whether the pit aroma is clean and free of o
 
 Common public corporate milestones are: listing on the Shenzhen Stock Exchange in 1996, with A-share code 000596. "Nianfen Yuanjiang" is a recent product-series name and should not be projected backwards as an inherent property of ancient process.
 
-Gu20 has long sat in the brand's high-end band and is a common choice for banquets and gifting. Prices change with year, channel and supply and demand, and this page gives no figures. Treating "20" as age is the most common misreading of this product.
+Gu20 has long sat in the brand's high-end band and is a common choice for banquets and gifting. Prices change with year, channel and supply and demand, and this entry gives no figures. Treating "20" as age is the most common misreading of this product.
 
 ## Buying and storage
 

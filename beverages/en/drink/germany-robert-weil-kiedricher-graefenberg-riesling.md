@@ -106,7 +106,7 @@ The raw material is [grape](ref:grape), of the [Riesling](ref:riesling) variety.
 
 Picking is usually late, and higher grades require selecting whole bunches or individual berries. After pressing, yeast carries out [fermentation](ref:fermentation); some wines ferment in stainless steel to preserve aroma, others in large wooden barrels with lees contact to add texture and complexity.
 
-Whether fermentation finishes and whether residual sugar is kept decides if the wine is dry or sweet, and it also decides the alcohol. German Riesling grades are set by ripeness at harvest, not by chaptalisation or blending after fermentation. Specific parameters are estate information, and this page gives no universal figures.
+Whether fermentation finishes and whether residual sugar is kept decides if the wine is dry or sweet, and it also decides the alcohol. German Riesling grades are set by ripeness at harvest, not by chaptalisation or blending after fermentation. Specific parameters are estate information, and this entry gives no universal figures.
 
 ## Specification and label
 

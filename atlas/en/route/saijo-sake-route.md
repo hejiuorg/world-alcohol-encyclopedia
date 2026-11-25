@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:saijo-sake-route
 source_lang: zh
-source_revision: sha256:4edddb672572a55fffc3de309fc7a8269e1bbe7ee8a7ce8af834a6f87308314c
-source_sha256: 4edddb672572a55fffc3de309fc7a8269e1bbe7ee8a7ce8af834a6f87308314c
+source_revision: sha256:c3bf736796ed058bb4826239de41e3d79e9aa2534abbf610fb17fadaad0a0fb7
+source_sha256: c3bf736796ed058bb4826239de41e3d79e9aa2534abbf610fb17fadaad0a0fb7
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -96,6 +96,15 @@ The Saijo sake route is not a long cross-prefecture drive. It is a district walk
 ![Brewery courtyard in the Saijo sake district](/media/photos/route-saijo-sake-route-9c75d925.jpg)
 
 Figure: A brewery courtyard in the Saijo sake district, with a brick chimney beside white-walled storehouses. Image: Max Nossin, CC BY 3.0, via [source page](https://commons.wikimedia.org/wiki/File:Sake_factory_-_panoramio_(1).jpg).
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Saijo sake route: Kamotsuru to Kamoizumi on foot, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Saijo sake route: Kamotsuru to Kamoizumi on foot into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Kamotsuru, 9-7 Saijo Honmachi, the No.
+>   - Spring is the season of kurabiraki, the opening of the brewery.
 
 ## Route overview
 

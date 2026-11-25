@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:clos
 source_lang: zh
-source_revision: sha256:12a9c3c9c5f84b38c6014368c0e0832f1f4a4280314bad8867f1e45d61bf4dc9
-source_sha256: 12a9c3c9c5f84b38c6014368c0e0832f1f4a4280314bad8867f1e45d61bf4dc9
+source_revision: sha256:52932b284f9c7bc8683d4a0bc9f9dfcfe0ee8a38e714a2019d8aca06cfbe1c19
+source_sha256: 52932b284f9c7bc8683d4a0bc9f9dfcfe0ee8a38e714a2019d8aca06cfbe1c19
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -69,7 +69,7 @@ verification_scope: source-verified
 ---
 # Clos
 
-A clos is a French noun for a vineyard plot enclosed by a wall, fence, ditch or natural boundary. It answers "where is this site and where does it end", not "which quality tier does it belong to". In [Burgundy](ref:burgundy) a clos often appears together with a named climat; in the Loire, Alsace, Jura and Champagne it is likewise part of a place name. The key is to treat clos as a site identifier, not a quality badge.![Clos thematic illustration](/media/photos/theme-wine-spirits.jpg)
+A clos is a French noun for a vineyard plot enclosed by a wall, fence, ditch or natural boundary. It answers "where is this site and where does it end", not "which quality tier does it belong to". In [Burgundy](ref:burgundy) a clos often appears together with a named climat; in the Loire, Alsace, Jura and Champagne it is likewise part of a place name. The key is to treat clos as a site identifier, not a quality badge.![Clos thematic illustration](/media/figures/specific/term-clos.svg)
 
 Figure: thematic illustration for Clos. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

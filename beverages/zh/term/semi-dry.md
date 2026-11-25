@@ -72,9 +72,9 @@ verification_scope: source-verified
 
 半干（semi-dry，欧盟标签常写作 medium dry）是残糖档位中的中间一档：它高于干型，又低于半甜与甜型。这个“中间”没有全球统一的克数，因为静止酒、起泡酒与不同国家的法规各有自己的区间；同一句“半干”，在香槟和普通葡萄酒里可能指向完全不同的甜度。
 
-![半干（semi-dry） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![半干（semi-dry） 类型示意图](/media/figures/specific/term-semi-dry.svg)
 
-图：半干（semi-dry） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是半干（semi-dry）的实拍。
+图：半干（semi-dry） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

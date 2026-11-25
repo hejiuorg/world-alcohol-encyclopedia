@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: aperol-spritz
 title: Aperol Spritz recipe (IBA-approved version)
-summary: 90 ml Prosecco, 60 ml Aperol and 30 ml soda water built over ice in a large stemmed glass and garnished with an orange slice; this page covers the 1919 origin, the pouring order, what the soda actually does and the low-alcohol trap.
+summary: 90 ml Prosecco, 60 ml Aperol and 30 ml soda water built over ice in a large stemmed glass and garnished with an orange slice; this recipe covers the 1919 origin, the pouring order, what the soda actually does and the low-alcohol trap.
 status: reviewed
 revision: 1
 translation_of: recipe:aperol-spritz
 source_lang: zh
-source_revision: sha256:45d3d22bce435098d7350927efd2e4ba7362c373102f9ccdfb29e253bb44fedf
-source_sha256: 45d3d22bce435098d7350927efd2e4ba7362c373102f9ccdfb29e253bb44fedf
+source_revision: sha256:7189572d7b10b00c98acb08ae1902176969f0f58b71823462755b5a43d229422
+source_sha256: 7189572d7b10b00c98acb08ae1902176969f0f58b71823462755b5a43d229422
 translation_status: reviewed
 product_id: cocktail:aperol-spritz
 source_version: Aperol official recipe marked Approved by the IBA (checked 2026-11-07)
@@ -92,7 +92,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink sits on the public IBA list; the entry page could not be opened directly during this check, so quantities follow the list and the brand's IBA-approved version; no source text is reproduced.
     accessed: 2026-11-07
@@ -124,7 +124,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA list and the brand's IBA-approved version, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
@@ -132,15 +132,24 @@ verification_scope: source-verified
 
 This is a sourced version of the [Aperol Spritz](ref:cocktail): 90 ml of Prosecco, 60 ml of Aperol and 30 ml of soda water, built over ice in a large stemmed glass and finished with a slice of orange. The ratio is three parts to two to one, which is why the drink is usually just called 3-2-1. What follows sets out the numbers, the order of assembly and the job each step does, so that a drink which turns out too sweet, too thin or too flat can be diagnosed instead of guessed at.
 
-![Aperol Spritz recipe (IBA-approved version) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Aperol Spritz recipe (IBA-approved version) thematic illustration](/media/figures/specific/recipe-aperol-spritz.svg)
 
 Figure: thematic illustration for Aperol Spritz recipe (IBA-approved version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Aperol Spritz recipe (IBA-approved version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Aperol Spritz recipe (IBA-approved version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - In north-eastern Italy, especially the Veneto, the spritz is a habit rather than a single recipe: wine or a bitter liqueur lengthened with sparkling water into a low-strength glass.
+>   - 90 ml Prosecco, 60 ml Aperol, 30 ml soda water: 180 ml in total, before any ice melts.
 
 ## Pin the ratio down first
 
 90 ml Prosecco, 60 ml Aperol, 30 ml soda water: 180 ml in total, before any ice melts. The brand's own recipe page labels this build as approved by the IBA and writes it as three parts, two parts and one part. The IBA entry page could not be opened directly during this check, so the quantities here follow the public IBA list together with that approved version.
 
-There is an inconsistency inside the official material, and it is worth naming. The brand's Italian FAQ says a standard Aperol Spritz should contain 50 ml of Aperol under the IBA standard, while the recipe page in the same brand's other language versions says 60 ml and expresses the build as three to two to one. Both statements come from the producer. This page uses 60 ml because it matches the parts language and because it is what most bars actually pour. The 50 ml figure is not an error, only a different set of numbers.
+There is an inconsistency inside the official material, and it is worth naming. The brand's Italian FAQ says a standard Aperol Spritz should contain 50 ml of Aperol under the IBA standard, while the recipe page in the same brand's other language versions says 60 ml and expresses the build as three to two to one. Both statements come from the producer. This recipe uses 60 ml because it matches the parts language and because it is what most bars actually pour. The 50 ml figure is not an error, only a different set of numbers.
 
 The ratio is not law. Some bars pour 100 ml Prosecco against 70 ml Aperol; others lift the soda to 60 ml. The first is richer and sweeter, the second lighter and longer. What they share is the structure: sparkling wine takes the largest share, the bitter takes the second, and soda takes a small remainder. Break that order of magnitude and the glass stops being a spritz.
 
@@ -156,7 +165,7 @@ It is worth separating brand narrative from historical research. The year, the f
 
 In north-eastern Italy, especially the Veneto, the spritz is a habit rather than a single recipe: wine or a bitter liqueur lengthened with sparkling water into a low-strength glass that can be nursed before dinner. The function of the [aperitif](ref:aperitif) is concrete here. Bitterness stimulates saliva and appetite, bubbles and cold make the drink refreshing, and the low strength leaves room for the meal ahead.
 
-The most repeated origin story involves nineteenth-century Austro-Hungarian soldiers stationed in northern Italy who found the local wine too strong and diluted it with water or soda. It is quoted everywhere and documented almost nowhere, so this page treats it as legend. What can be said is that the spritz is a regional habit rather than a single invention: the Select version in Venice, the Aperol version in Padua and the white-wine versions elsewhere all belong to the same family of practice.
+The most repeated origin story involves nineteenth-century Austro-Hungarian soldiers stationed in northern Italy who found the local wine too strong and diluted it with water or soda. It is quoted everywhere and documented almost nowhere, so this recipe treats it as legend. What can be said is that the spritz is a regional habit rather than a single invention: the Select version in Venice, the Aperol version in Padua and the white-wine versions elsewhere all belong to the same family of practice.
 
 That distinction matters when ordering. Ask for a spritz and you may not get Aperol at all. Ask for an Aperol Spritz and you will. In the other direction, an Aperol Spritz is not the only legitimate spritz, merely the most famous branch.
 

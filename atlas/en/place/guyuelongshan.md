@@ -69,7 +69,7 @@ sources:
     title: Contact us — Zhejiang Guyuelongshan Shaoxing Wine Co.
     url: https://www.shaoxingwine.com.cn/home/contact/index.html
     publisher: Zhejiang Guyuelongshan Shaoxing Wine Co.
-    note: Used to check the company address and central-cellar contact details; the cellar address on this page differs from newer tourism material, and the body follows the Qiantao Road address published by the culture and tourism bureau; no source text is reproduced.
+    note: Used to check the company address and central-cellar contact details; the cellar address on this entry differs from newer tourism material, and the body follows the Qiantao Road address published by the culture and tourism bureau; no source text is reproduced.
     accessed: 2026-11-08
   - key: shaoxing-culture-warehouse
     title: This cup of Shaoxing yellow wine — Shaoxing Culture, Radio, Television and Tourism Bureau

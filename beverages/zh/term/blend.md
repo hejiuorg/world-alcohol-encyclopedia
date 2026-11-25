@@ -98,9 +98,9 @@ verification_scope: source-verified
 
 混酿（blend）指把不同品种、年份、地块或基酒组合成最终产品。它是酿酒中最常见的操作之一，不是“掺假”或“次品”的代名词。[葡萄酒](ref:wine)、[起泡酒](ref:sparkling)与[威士忌](ref:whisky)都有成熟的混酿传统，区别只在于组合的对象与目的。
 
-![混酿（blend） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![混酿（blend） 类型示意图](/media/figures/specific/term-blend.svg)
 
-图：混酿（blend） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是混酿（blend）的实拍。
+图：混酿（blend） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

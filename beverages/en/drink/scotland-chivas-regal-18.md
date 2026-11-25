@@ -5,7 +5,7 @@ type: drink
 lang: en
 slug: scotland-chivas-regal-18
 title: Chivas Regal 18 Year Old
-summary: An 18-year-old blended Scotch from Chivas Regal, launched in 1997 by Colin Scott and named Gold Signature in 2004; commonly 40% ABV, with Strathisla malt at its core and notes of dried fruit, dark chocolate and cinnamon.
+summary: An 18-year-old blended Scotch from Chivas Regal, launched in 1997 by Colin Scott and named Gold Signature in 2004; commonly 40% ABV, with Strathisla malt at heart and notes of dried fruit, dark chocolate and cinnamon.
 status: reviewed
 revision: 3
 translation_of: drink:scotland-chivas-regal-18
@@ -175,4 +175,4 @@ For Chivas Regal 18 Year Old, begin with the base and the stated strength. Then 
 
 [Whisky](ref:whisky) explains style; [Highlands](ref:highlands) adds region and vintage. Put Chivas Regal 18 Year Old between them before deciding what it is.
 
-**At a glance:** An 18-year-old blended Scotch from Chivas Regal, launched in 1997 by Colin Scott and named Gold Signature in 2004; commonly 40% ABV, with Strathisla malt at its core and notes of dried fruit, dark chocolate and cinnamon.
+**At a glance:** An 18-year-old blended Scotch from Chivas Regal, launched in 1997 by Colin Scott and named Gold Signature in 2004; commonly 40% ABV, with Strathisla malt at heart and notes of dried fruit, dark chocolate and cinnamon.

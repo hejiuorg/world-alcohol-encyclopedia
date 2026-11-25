@@ -60,7 +60,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对以橄榄、樱桃等装饰的经典配方；未复制原文。
     accessed: 2026-11-07
@@ -88,6 +88,15 @@ verification_scope: source-verified
 ![用金属酒签串起樱桃的威士忌酸](/media/photos/tool-cocktail-pick-642b86a7.jpg)
 
 图：一杯威士忌酸，杯口用金属酒签串起两颗酒渍樱桃，旁边还有一卷柠檬皮。图片：Ilikefood，CC BY-SA 4.0，来源：[原始页面](https://commons.wikimedia.org/wiki/File:Whiskey_sour_in_coupe_glass_with_garnishes.jpg)。
+
+> **先给结论**
+> **一句话：** 这页判断鸡尾酒签值不值得买，以及有没有替代方案。
+>
+> - **适合谁：** 想弄懂鸡尾酒签的用途、替代方案和使用边界的人。
+> - **不适合谁：** 只想要工具清单、不关心使用场景的人。
+> - **先看这两点：**
+>   - 签子的位置会改变杯口的空间。
+>   - 竹签便宜、轻、表面有细微纹理，摩擦力好，橄榄和樱桃不容易滑。
 
 ## 一根签要同时做三件事
 

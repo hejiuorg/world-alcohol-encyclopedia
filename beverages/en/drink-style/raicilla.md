@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:raicilla
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e80800c7e87e1ab4a0ebfb43dae60fda325967b557e1c4f0f4a29222faffd72d
-source_sha256: e80800c7e87e1ab4a0ebfb43dae60fda325967b557e1c4f0f4a29222faffd72d
+source_revision: sha256:f8927a36f8bc15b4f39025afb0aacd0d8fa89bccff9e45de239a8e2ead32d2d5
+source_sha256: f8927a36f8bc15b4f39025afb0aacd0d8fa89bccff9e45de239a8e2ead32d2d5
 related:
   - relation: about
     target_id: drink-style:mezcal
@@ -94,7 +94,7 @@ verification_scope: source-verified
 
 Raicilla is an agave spirit distilled in mountain villages and coastal settlements of western Jalisco, Mexico. It belongs to the same agave-spirit family as mezcal, but its wild agave varieties, village-level methods and flavour range are more dispersed. It received Mexican appellation-of-origin protection in 2019 and was added to the EU–Mexico spirit-drinks mutual-recognition list in 2020.
 
-![Raicilla](/media/photos/theme-wine-spirits.jpg)
+![Raicilla](/media/figures/specific/drink-style-raicilla.svg)
 
 Figure: Thematic illustration for Raicilla. Image: AI-assisted illustration (Doubao Seedream 5.0), project-owned; not a photograph of the subject, used as a thematic illustration only.
 

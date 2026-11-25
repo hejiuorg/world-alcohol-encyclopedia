@@ -99,7 +99,7 @@ Figure: Dr. Loosen. Image: Weingut Dr Loosen, CC BY-SA 4.0, via Wikimedia Common
 
 The name St. Johannishof comes from the nearby Bernkasteler Johannisbrünnchen spring, and the estate's older name is linked to it. The property stands inside Bernkastel-Kues, with the Mittelmosel's steep slopes behind it; it can be reached on foot from the centre, but the vineyards above are not a place for casual wandering. For a visitor the advantage is concentration: reception, tasting and cellar share one courtyard, with no hunt for house numbers across the village.
 
-The official contact page lists only St. Johannishof, 54470 Bernkastel/Mosel, a phone number and an email, with no fixed visiting hours; regional tourism material adds that visits need booking. This page therefore marks operating status as unknown: the estate is certainly working, but when and how a visitor may enter has not been confirmed officially, so an email must come before any itinerary is fixed.
+The official contact page lists only St. Johannishof, 54470 Bernkastel/Mosel, a phone number and an email, with no fixed visiting hours; regional tourism material adds that visits need booking. This entry therefore marks operating status as unknown: the estate is certainly working, but when and how a visitor may enter has not been confirmed officially, so an email must come before any itinerary is fixed.
 
 ## Two centuries of family and the turn after 1988
 

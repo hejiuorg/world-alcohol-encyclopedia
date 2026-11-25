@@ -147,7 +147,7 @@ Putting Franschhoek into an itinerary means separating the regional centre from 
 Franschhoek is about 45–60 minutes from Cape Town and close to Stellenbosch and Paarl. The valley is compact, but three estates plus lunch already fill a day. Book restaurants and tastings, allow 60–90 minutes per stop, and do not add a distant estate just because it looks close on the map.
 
 - Related: [south-africa](ref:south-africa), [cabernet-sauvignon](ref:cabernet), [pinotage](ref:pinotage), [red-wine](ref:red), [white-wine](ref:white).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 **Short definition:** A valley region in the Western Cape where French Huguenot settlers arrived in 1688; known for Cabernet Sauvignon, Pinotage, Chardonnay and restaurants, its narrow, scenic valley makes it one of the easiest Cape Winelands regions to drive.
 

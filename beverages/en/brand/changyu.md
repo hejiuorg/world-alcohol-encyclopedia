@@ -81,7 +81,7 @@ Figure: Changyu. Photograph: File:Red and white wine in glass.jpg. Credit: Andr√
 
 ## Brand definition
 
-A brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This page records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history and listing details.
+A brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This brand records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history and listing details.
 
 Changyu's brand structure is unusual: the company and the main brand share a name, and the main brand sits above several sub-brands and chateau series. A question such as "how good is Changyu wine" needs a specific product first, because a volume item such as Jiebaina and a chateau series such as AFIP or Castel differ greatly in positioning and price band.
 
@@ -89,7 +89,7 @@ Changyu's brand structure is unusual: the company and the main brand share a nam
 
 The brand's producer is [Yantai Changyu Pioneer Wine Co., Ltd.](ref:producer). The company was incorporated in 1997, listed B shares on the Shenzhen Stock Exchange in the same year, and issued A shares in 2000. The listed company holds the brand and main production assets, while individual products are made by the company and its chateaux.
 
-The producer entry records the founding date, the incorporation and the listing milestones. This page keeps only what relates directly to the brand, so corporate history and product history are not conflated.
+The producer entry records the founding date, the incorporation and the listing milestones. This brand keeps only what relates directly to the brand, so corporate history and product history are not conflated.
 
 ## Product line
 
@@ -99,7 +99,7 @@ The vintage, varieties, volume and packaging of a series change by batch, and on
 
 ## Positioning and price band
 
-The brand covers a band from everyday wine to high-end chateau wine: Domaine and Xiaopu serve everyday drinking, Jiebaina carries mass banquets and business, AFIP, Castel and Longyu reach higher, and Keya brandy forms a separate distilled line. Prices change with year, channel and promotions, so this page gives no specific retail price and does not treat one promotion as long-term positioning.
+The brand covers a band from everyday wine to high-end chateau wine: Domaine and Xiaopu serve everyday drinking, Jiebaina carries mass banquets and business, AFIP, Castel and Longyu reach higher, and Keya brandy forms a separate distilled line. Prices change with year, channel and promotions, so this brand gives no specific retail price and does not treat one promotion as long-term positioning.
 
 A price band is market positioning, not a quality grade. Judging a wine means looking at vintage, varieties, origin, winemaking and the label standard, not price or packaging alone.
 

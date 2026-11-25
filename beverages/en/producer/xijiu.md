@@ -84,7 +84,7 @@ Figure: Guizhou Xijiu Co., Ltd.. Photograph: File:Vertreter der vier Baijiu Kate
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company handles production, sales and disclosure, while the holding-group layer involves investment and industry layout. Public material assigns 1952 to state formation, 1998 to joining the Moutai group and 2022 to the whole-entity conversion; these three points cannot be merged into one founding year.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company handles production, sales and disclosure, while the holding-group layer involves investment and industry layout. Public material assigns 1952 to state formation, 1998 to joining the Moutai group and 2022 to the whole-entity conversion; these three points cannot be merged into one founding year.
 
 When discussing "Xijiu", first establish whether the subject is the joint-stock company, the holding group, the brand or a bottle. Registry entries, official profiles and SASAC pages do not use identical names or definitions, so establish the entity before checking a figure.
 
@@ -120,7 +120,7 @@ In 1952 local authorities acquired private workshops and formed a state enterpri
 
 ## Visiting
 
-The company is in Xijiu town, Xishui county. Opening arrangements for plant tours, drinks-culture displays and tasting events depend on the operator's current official notices. This page does not provide unverified booking numbers, ticket prices or travel guides and does not recommend following old guides to the site.
+The company is in Xijiu town, Xishui county. Opening arrangements for plant tours, drinks-culture displays and tasting events depend on the operator's current official notices. This producer does not provide unverified booking numbers, ticket prices or travel guides and does not recommend following old guides to the site.
 
 ## Common misconceptions
 

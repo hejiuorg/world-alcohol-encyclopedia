@@ -82,7 +82,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original text by the project, checked against the Glyptotek, reference works and art-historical sources; quotations are limited to short phrases. The project owner declared CC BY 4.0 for site content on 2026-10-29.
-  note: The painting is in the public domain; museum photography and catalogue text are not. This page uses a public-domain reproduction from Wikimedia Commons.
+  note: The painting is in the public domain; museum photography and catalogue text are not. This artwork entry uses a public-domain reproduction from Wikimedia Commons.
 verification_scope: source-verified
 ---
 

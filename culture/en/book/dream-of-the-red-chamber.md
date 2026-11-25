@@ -14,8 +14,8 @@ author_refs: []
 publication: Mid-18th century; the 120-chapter edition was printed by Cheng Weiyuan and Gao E in 1791
 translation_of: book:dream-of-the-red-chamber
 source_lang: zh
-source_revision: sha256:6d6c60eed8f6c20f9390d914238698b78f09435328ea6259ae78f19768ba83bb
-source_sha256: 6d6c60eed8f6c20f9390d914238698b78f09435328ea6259ae78f19768ba83bb
+source_revision: sha256:aae29bf852673fa3ccdf5e05494d8e3b2450c3f0c365ee4623044b04e0175884
+source_sha256: aae29bf852673fa3ccdf5e05494d8e3b2450c3f0c365ee4623044b04e0175884
 translation_status: reviewed
 aliases:
   - 石头记
@@ -56,7 +56,7 @@ sources:
   - key: hongloumeng-renmin
     title: Dream of the Red Chamber (红楼梦), annotated edition of the Institute of Redology, Chinese Academy of Arts
     publisher: People's Literature Publishing House
-    note: Used to check chapter titles, characters and drink names; this page quotes only short passages and does not reproduce long extracts.
+    note: Used to check chapter titles, characters and drink names; this book entry quotes only short passages and does not reproduce long extracts.
     accessed: 2026-11-04
   - key: ref
     title: Dream of the Red Chamber (红楼梦), annotated edition of the Institute of Redology, Chinese Academy of Arts; People's Literature Publishing House
@@ -72,7 +72,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against encyclopaedia entries and a standard annotated edition, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party annotations, translations, film and television adaptations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party annotations, translations, film and television adaptations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this book entry.
 verification_scope: source-verified
 ---
 
@@ -81,6 +81,15 @@ verification_scope: source-verified
 Dream of the Red Chamber is a chapter novel by Cao Xueqin. It circulated in manuscript form from the mid-18th century, and only in 1791 did a 120-chapter edition appear, prepared by Cheng Weiyuan and Gao E. Wine in this novel almost never appears alone: it has a name, a temperature, someone to pour it, and a rule about how much one should drink. Reading these passages means reading the daily order of the Jia household, and also reading where each character stands within that order.![Dream of the Red Chamber thematic illustration](/media/photos/theme-asian.jpg)
 
 Figure: thematic illustration for Dream of the Red Chamber. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This book entry helps you judge whether Dream of the Red Chamber is worth reading, and what question it answers.
+>
+> - **Best for:** Anyone who wants Dream of the Red Chamber in the history of drink culture and needs to judge whether it is worth reading.
+> - **Not for:** If you want want a one-line summary and will not read the book.
+> - **Check first:**
+>   - Wine appears in many ordinary scenes: birthdays, New Year, flower viewing, receiving guests, farewells and poetry gatherings.
+>   - Drinking games are an important part of banquets in the novel.
 
 ## What kind of novel this is
 

@@ -5,7 +5,7 @@ type: region
 lang: en
 slug: united-kingdom
 title: United Kingdom
-summary: An island country made up of England, Wales, Scotland and Northern Ireland; this page focuses on wine, gin, beer and cider in England, Wales and Northern Ireland, while Scotch whisky is covered on the Scotland page.
+summary: An island country made up of England, Wales, Scotland and Northern Ireland; this region focuses on wine, gin, beer and cider in England, Wales and Northern Ireland, while Scotch whisky is covered on the Scotland page.
 status: reviewed
 revision: 2
 translation_of: region:united-kingdom
@@ -91,7 +91,7 @@ verification_scope: source-verified
 ---
 # United Kingdom
 
-The United Kingdom is an island country made up of England, Wales, Scotland and Northern Ireland. Its drinks landscape is often overshadowed by Scotch whisky, yet English and Welsh sparkling wine, British gin, beer and cider all have clear traditions and markets. This page focuses on England, Wales and Northern Ireland; for Scotch whisky, see the [Scotland](ref:scotland) page.
+The United Kingdom is an island country made up of England, Wales, Scotland and Northern Ireland. Its drinks landscape is often overshadowed by Scotch whisky, yet English and Welsh sparkling wine, British gin, beer and cider all have clear traditions and markets. This region focuses on England, Wales and Northern Ireland; for Scotch whisky, see the [Scotland](ref:scotland) page.
 
 ![United Kingdom category image](/media/photos/route-london-gin-route-abe0a9c8.jpg)
 
@@ -170,7 +170,7 @@ Start with [Wine](ref:wine) for geographic boundary, then read [Gin](ref:gin) fo
 
 | Item | Detail |
 | --- | --- |
-| In one line | An island country made up of England, Wales, Scotland and Northern Ireland; this page focuses on wine, gin, beer and cider in England, Wales and Northern Ireland, while Scotch whisky is covered on the Scotland page. |
+| In one line | An island country made up of England, Wales, Scotland and Northern Ireland; this region focuses on wine, gin, beer and cider in England, Wales and Northern Ireland, while Scotch whisky is covered on the Scotland page. |
 | Level | country |
 | Country code | GB |
 

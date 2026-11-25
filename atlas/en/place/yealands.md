@@ -67,7 +67,7 @@ sources:
     title: Yealands — Official site
     url: https://www.yealands.co.nz/
     publisher: Yealands
-    note: Used to confirm the official site entry and brand information; the site presented an age gate during verification and its hours and booking rules could not be read, so this page does not state fixed times.
+    note: Used to confirm the official site entry and brand information; the site presented an age gate during verification and its hours and booking rules could not be read, so this entry does not state fixed times.
     accessed: 2026-11-09
   - key: nzw-marlborough
     title: Marlborough Wine Region — New Zealand Winegrowers
@@ -106,7 +106,7 @@ Seddon lies in Marlborough's Awatere Valley, which the official regional descrip
 
 8 August 2008 is the winery's opening date. Both the official account and the industry directory stress that Yealands was the first winery in the world to be Toitū carbonzero certified from inception. The emphasis is on "from inception": rather than producing first and offsetting later, building design, energy and waste handling counted from the start. For a visitor, that makes the plant part of the exhibit, not just the backdrop to a tasting room.
 
-A certification is not the same as a list of practices. It means the winery measures and offsets operational emissions; the practices include solar power, wind turbines, use of vine prunings and homemade compost. Production volume, energy mix and supply chains change the emissions ledger from year to year, and certification is reviewed periodically. This page does not turn one year's detail into a permanent fact; check Toitū and the estate's official pages for the current scope.
+A certification is not the same as a list of practices. It means the winery measures and offsets operational emissions; the practices include solar power, wind turbines, use of vine prunings and homemade compost. Production volume, energy mix and supply chains change the emissions ledger from year to year, and certification is reviewed periodically. This entry does not turn one year's detail into a permanent fact; check Toitū and the estate's official pages for the current scope.
 
 ## Sustainability is not a slogan: wind, sun, prunings and compost
 
@@ -122,7 +122,7 @@ With one hour, prioritise the tasting room and a short walk; with half a day, ad
 
 ## Three things to confirm before visiting
 
-First, opening hours. The Yealands official site presented an age gate during verification and its current cellar door hours could not be read; the industry entry confirms a tasting room but does not give a verifiable daily timetable. This page therefore marks operating status as unknown and does not state "open at these hours". Second, whether booking is required; rules may differ for small groups, weekends and high season, so confirm on the official site or by telephone. Third, whether the White Road and food service are open; wind, rain, harvest or maintenance can close parts of the site at short notice.
+First, opening hours. The Yealands official site presented an age gate during verification and its current cellar door hours could not be read; the industry entry confirms a tasting room but does not give a verifiable daily timetable. This entry therefore marks operating status as unknown and does not state "open at these hours". Second, whether booking is required; rules may differ for small groups, weekends and high season, so confirm on the official site or by telephone. Third, whether the White Road and food service are open; wind, rain, harvest or maintenance can close parts of the site at short notice.
 
 The address is 534 Seaview Road, Seddon, Marlborough 7285, New Zealand. It is about 40 minutes southeast of Blenheim; the coastal road is windy, so cycling needs care; there is no rail connection and ride-hailing is uncertain on the return. Coordinates should be taken from official channels; for navigation, use the address. To pair this stop with [Cloudy Bay](ref:cloudy-bay) in one day, confirm both timetables first and then plan the drive on the [Marlborough wine trail](ref:route).
 
@@ -136,4 +136,4 @@ Setting [Marlborough](ref:marlborough)'s address and space beside [White wine](r
 
 ## References
 
-This page was checked against New Zealand Winegrowers' Yealands entry, its Toitū certification entry and Marlborough region page, plus the Yealands official site entry. Page verified 2026-11-09. The official site was age-gated, so opening hours and booking rules should be confirmed on an accessible official page or on site; operating status is marked unknown and no verified_at is given.
+This entry was checked against New Zealand Winegrowers' Yealands entry, its Toitū certification entry and Marlborough region page, plus the Yealands official site entry. Page verified 2026-11-09. The official site was age-gated, so opening hours and booking rules should be confirmed on an accessible official page or on site; operating status is marked unknown and no verified_at is given.

@@ -140,7 +140,7 @@ To study Tannat, read botanical and viticultural sources first, then taste three
 Compare a Madiran Tannat with a Uruguayan Tannat at similar alcohol and vintage, then Tannat with Merlot and Syrah. Record maceration and oak; the comparison should show Tannat’s colour and tannin, not simply “a big red”.
 
 - Related: [merlot](ref:merlot), [red-wine](ref:red), [oak-ageing](ref:oak), [terroir](ref:terroir), [vintage](ref:vintage).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **In brief:** A red variety from Madiran in southwest France, known for high tannin, deep colour and long ageing; in Uruguay it became a national signature, often blended with Merlot or Cabernet Franc to soften structure.
 

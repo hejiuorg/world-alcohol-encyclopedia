@@ -50,7 +50,7 @@ sources:
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对滚酒在经典配方中的使用场景；未复制原文。
     accessed: 2026-11-07
@@ -90,9 +90,9 @@ verification_scope: source-verified
 
 滚酒（rolling）是把酒液在两个容器之间反复来回倾倒的混合技法。它既不是摇和，也不是搅拌，而是借助重力让液体在转移过程中混合、接触空气并适度冷却。滚酒在吧台并不算最常见的技法，但当配方明确要求时，它往往对应着特定的口感目标。
 
-![滚酒 类型示意图](/media/photos/theme-beer.jpg)
+![滚酒 类型示意图](/media/figures/specific/technique-rolling.svg)
 
-图：滚酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是滚酒的实拍。
+图：滚酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

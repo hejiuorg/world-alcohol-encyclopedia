@@ -156,7 +156,7 @@ For Red Star Erguotou Blue Bottle, taste in a small glass: smell the resting spi
 
 The brand narrative traces the craft to the 1680 reform at Yuanshenghao. After the factory was founded in 1949, the first Red Star Erguotou was presented as a gift for the founding of the People's Republic; in 2008 the traditional brewing craft of Beijing er-guotou liquor entered the national intangible cultural heritage list.
 
-The blue bottle has long sat in the core price band of open-bottle spirits and mass catering, building scale through wide distribution and a stable flavour. Prices move with channel, region and supply and demand, and this page gives no figures. Treating price as proof of quality, or "blue bottle" as a grade, are common misreadings.
+The blue bottle has long sat in the core price band of open-bottle spirits and mass catering, building scale through wide distribution and a stable flavour. Prices move with channel, region and supply and demand, and this entry gives no figures. Treating price as proof of quality, or "blue bottle" as a grade, are common misreadings.
 
 ## Buying and storage
 

@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: 1989-national-wine-evaluation
 title: "The 1989 fifth national wine evaluation: seventeen famous wines and the end of the system"
-summary: The fifth national wine evaluation, held in Hefei, Anhui, in January 1989 and organised by the China Food Industry Association, selected 17 national famous wines, all baijiu; national evaluations were discontinued afterwards. This page explains the list, the background and why the system ended.
+summary: The fifth national wine evaluation, held in Hefei, Anhui, in January 1989 and organised by the China Food Industry Association, selected 17 national famous wines, all baijiu; national evaluations were discontinued afterwards. This essay explains the list, the background and why the system ended.
 status: reviewed
 revision: 3
 translation_of: historical-event:1989-national-wine-evaluation
@@ -142,7 +142,7 @@ One: "The seventeen famous wines were seventeen new brands chosen in 1989." Most
 - [The 1984 fourth national wine evaluation](ref:evaluation-1984): the previous meeting.
 - [The 1988 liberalisation of famous-wine prices](ref:price-liberalization): the market turn behind the end of the evaluations.
 
-**At a glance:** The fifth national wine evaluation, held in Hefei, Anhui, in January 1989 and organised by the China Food Industry Association, selected 17 national famous wines, all baijiu; national evaluations were discontinued afterwards. This page explains the list, the background and why the system ended.
+**At a glance:** The fifth national wine evaluation, held in Hefei, Anhui, in January 1989 and organised by the China Food Industry Association, selected 17 national famous wines, all baijiu; national evaluations were discontinued afterwards. This essay explains the list, the background and why the system ended.
 
 **Key facts.**
 

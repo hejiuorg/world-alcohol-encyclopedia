@@ -131,7 +131,7 @@ Perry orchards are not dessert-pear orchards. Specialist varieties are small, hi
 ## Further reading and see also
 
 - Related: [cider](ref:cider), [liqueur](ref:liqueur), [fermentation](ref:fermentation), [terroir](ref:terroir), [france](ref:france).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This ingredient offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **In brief:** Pear is the fruit of the genus Pyrus, eaten fresh and also fermented; specialist perry pears have high tannin, acidity and aroma, and are made into perry in England and Normandy, lighter than apple cider but related in style. 
 
@@ -155,4 +155,4 @@ Perry is often compared with cider, but its best examples are drier and more aro
 
 **Sources and limits.** The key claims about Pear are checked against the following sources: FAO (crop, production-region and processing background), USDA (agricultural, botanical and nutritional material), CGIAR (crop germplasm and agricultural research frameworks) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Pear, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Pear, this ingredient was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

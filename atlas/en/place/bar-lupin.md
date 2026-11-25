@@ -60,7 +60,7 @@ sources:
     title: Bar Lupin Ginza — 公式サイト
     url: http://home.u06.itscom.net/lupin/
     publisher: Bar Lupin
-    note: Used for the name, Ginza address, 1928 founding, literary regulars, hours and positioning; the lupin.co.jp domain redirects to this page.
+    note: Used for the name, Ginza address, 1928 founding, literary regulars, hours and positioning; the lupin.co.jp domain redirects to this entry.
     accessed: 2026-11-21
   - key: deeptokyo
     title: Ginza Lupin — DEEPTOKYO magazine

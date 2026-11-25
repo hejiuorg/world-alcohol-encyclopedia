@@ -49,7 +49,7 @@ sources:
   - key: zheng-banqiao-ji
     title: Collected Works of Zheng Banqiao
     publisher: By Zheng Xie of the Qing; standard modern edition
-    note: Used to check poems, lyrics, family letters and inscriptions; this page quotes only short lines.
+    note: Used to check poems, lyrics, family letters and inscriptions; this profile quotes only short lines.
     accessed: 2026-11-07
   - key: qing-shi-gao
     title: Draft History of the Qing

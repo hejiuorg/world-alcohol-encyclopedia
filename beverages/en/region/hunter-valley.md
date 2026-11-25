@@ -152,7 +152,7 @@ Putting Hunter Valley into an itinerary means separating the regional centre fro
 Hunter Valley is about two hours from Sydney. Pokolbin and Lovedale are close together, but Broke and Upper Hunter add significant driving. Three cellar doors plus lunch is a full day; book tastings, avoid summer heat and check harvest closures before setting the route.
 
 - Related: [australia](ref:australia), [semillon](ref:semillon), [syrah](ref:syrah), [white-wine](ref:white), [red-wine](ref:red).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 **Short definition:** A historic wine region in New South Wales, Australia, about two hours north of Sydney; warm and humid, known for young Semillon and Hunter Shiraz, with GI status in the 1990s and one of Australia’s oldest commercial wine districts. 
 

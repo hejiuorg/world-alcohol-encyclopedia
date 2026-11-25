@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:la-rioja-alta
 source_lang: zh
-source_revision: sha256:366ea48f546dbd4415460253deec53936be91e8187edca88176931dec937b946
-source_sha256: 366ea48f546dbd4415460253deec53936be91e8187edca88176931dec937b946
+source_revision: sha256:97fa79b5f7a0b50fdb80995be1421ed0a93963f1110c1fb54931ac5f1d8dadca
+source_sha256: 97fa79b5f7a0b50fdb80995be1421ed0a93963f1110c1fb54931ac5f1d8dadca
 translation_status: reviewed
 subtype: winery-visitor
 address: Avenida de Vizcaya 8, 26200 Haro, La Rioja, Spain
@@ -93,6 +93,15 @@ Haro's Barrio de la Estación is a short street: railway on one side, a row of o
 
 Figure: La Rioja Alta, S.A.. Photograph: A Rioja Vineyard - panoramio. Credit: Art Anderson, CC BY-SA 3.0 ([source page](https://commons.wikimedia.org/w/index.php?curid=56546384)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether La Rioja Alta, S.A. deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to La Rioja Alta, S.A. who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1890 five Riojan and Basque families founded the Sociedad Vinícola de La Rioja Alta in Haro's station district.
+>   - The winery runs along the street with a modest entrance, opening into reception, tasting rooms and production.
+
 ## Place and history
 
 In 1890 five Riojan and Basque families founded the Sociedad Vinícola de La Rioja Alta in Haro's station district. The first president was Doña Saturnina García Cid y Gárate, a woman; the first winemaker was a Frenchman, Monsieur Vigier. The winery's own history treats the Reserva of 1890 as the ancestor of today's Gran Reserva 890, a name that points directly at the founding year. Two things are worth holding onto. First, modern Rioja was built from the start on cross-family and cross-regional capital, not on a single grower's shed. Second, the arrival of French winemakers was tied to the vine diseases that damaged French vineyards in the late nineteenth century, a moment that opened the French market to Rioja.
@@ -123,7 +132,7 @@ The address is Avenida de Vizcaya 8, 26200 Haro, La Rioja, Spain, in the station
 
 Book ahead through the Visit Us entry on the official site, or by phone or email, and confirm date, time, language, group size, whether a tasting is included and the price. The harvest closes or reduces visits, and Sundays and public holidays are usually unavailable. A visit usually lasts one to two hours depending on the package; cellars are cold and damp, so wear shoes with grip and a light jacket. Visitors with mobility needs should say so in advance, since thresholds and stairs in a historic building are not always suitable for wheelchairs.
 
-Opening hours, prices and wines change. This page was checked on 2026-11-08; confirm with the winery and the official site before travelling. If this is the second stop on the Haro station-district route, book late morning or early afternoon, leaving time for lunch and the next winery. Do not crowd three tastings together; palate fatigue turns the third visit into an exercise in not tasting the difference.
+Opening hours, prices and wines change. This entry was checked on 2026-11-08; confirm with the winery and the official site before travelling. If this is the second stop on the Haro station-district route, book late morning or early afternoon, leaving time for lunch and the next winery. Do not crowd three tastings together; palate fatigue turns the third visit into an exercise in not tasting the difference.
 
 ## Etiquette and around
 

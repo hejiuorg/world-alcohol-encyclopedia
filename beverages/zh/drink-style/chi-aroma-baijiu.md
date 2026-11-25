@@ -81,9 +81,9 @@ verification_scope: source-verified
 
 豉香型白酒是广东珠江三角洲一带的传统白酒香型，以大米为原料、小曲半固态发酵、蒸馏后再经肥肉酝浸而成。它的香气清甜，带有独特的脂香与轻微的豉香联想，风格在白酒中辨识度很高。
 
-![豉香型白酒 类型示意图](/media/photos/theme-asian.jpg)
+![豉香型白酒 类型示意图](/media/figures/specific/drink-style-chi-aroma-baijiu.svg)
 
-图：豉香型白酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是豉香型白酒的实拍。
+图：豉香型白酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与标准
 

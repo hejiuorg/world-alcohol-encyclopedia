@@ -73,7 +73,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against a public poem text, an encyclopaedia entry and a discussion of textual variants; the quoted poem is in the public domain. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry.
 verification_scope: source-verified
 ---
 # Bring in the Wine: Li Bai on drinking and time

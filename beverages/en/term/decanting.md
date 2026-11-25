@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:decanting
 source_lang: zh
-source_revision: sha256:5a8a81234213b0959a19cf92618cf06da55278ed885bcfc601da10519749731c
-source_sha256: 5a8a81234213b0959a19cf92618cf06da55278ed885bcfc601da10519749731c
+source_revision: sha256:5ce29371f35280ff347bf8260228c2f63771846b4d082b16715cfaa000427307
+source_sha256: 5ce29371f35280ff347bf8260228c2f63771846b4d082b16715cfaa000427307
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -71,7 +71,7 @@ verification_scope: source-verified
 ---
 # Decanting
 
-Decanting means pouring wine slowly from its bottle into another vessel, usually a wide-bottomed glass decanter. The action has two purposes: separating the wine from sediment at the bottom of the bottle, and letting the wine contact air. Their conditions differ, and treating them as one leads to the mistaken conclusion that every wine should be decanted.![Decanting thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Decanting means pouring wine slowly from its bottle into another vessel, usually a wide-bottomed glass decanter. The action has two purposes: separating the wine from sediment at the bottom of the bottle, and letting the wine contact air. Their conditions differ, and treating them as one leads to the mistaken conclusion that every wine should be decanted.![Decanting thematic illustration](/media/figures/specific/term-decanting.svg)
 
 Figure: thematic illustration for Decanting. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

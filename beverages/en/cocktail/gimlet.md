@@ -11,8 +11,8 @@ revision: 1
 translation_of: cocktail:gimlet
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f5d94e6b872571df2f18c120f855da90cf264a6ac5eb49bee04d0edf29d2b129
-source_sha256: f5d94e6b872571df2f18c120f855da90cf264a6ac5eb49bee04d0edf29d2b129
+source_revision: sha256:d48d06befdbe9a38aac88954767af00cc7b0a7a49a745e566d0d6aa3c359d962
+source_sha256: d48d06befdbe9a38aac88954767af00cc7b0a7a49a745e566d0d6aa3c359d962
 style: Classic cocktail
 ingredient_refs: []
 origin_place: Uncertain; often traced to the British Royal Navy (as a popular story)
@@ -48,9 +48,9 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
-    note: Used to check the scope of the current IBA official list; no Gimlet entry appears there, so this page does not call any formula an IBA official recipe.
+    note: Used to check the scope of the current IBA official list; no Gimlet entry appears there, so this cocktail does not call any formula an IBA official recipe.
     accessed: 2026-11-07
   - key: diffords
     title: Difford's Guide — cocktails and recipes
@@ -99,6 +99,15 @@ The Gimlet is a short drink built on gin and lime. It has two versions: one uses
 
 Figure: A Gimlet in a coupe, with pale yellow-green liquid and a lime wheel on the rim. Image: ccnull.de Bilddatenbank, CC BY 2.0, via [source page](https://www.flickr.com/photo.gne?id=53457787167).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Gimlet, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Gimlet.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - The cordial version has a very simple structure: gin plus lime cordial, usually somewhere between 2:1 and 3:1, for example 60 ml gin and 20–25 ml cordial.
+>   - The most popular origin story ties the drink to Thomas Gimlette, a surgeon in the British Royal Navy.
+
 ## Two formulas, two different drinks
 
 The cordial version has a very simple structure: gin plus lime cordial, usually somewhere between 2:1 and 3:1, for example 60 ml gin and 20–25 ml cordial. The result is clear and sweet, with a lime aroma that tastes preserved, a faint confectionery note and a touch of salinity. Acidity is low, the texture is round, and the body is thicker than the fresh version.
@@ -115,7 +124,7 @@ The timeline is also awkward. Citrus juice had been part of Royal Navy anti-scur
 
 There is also a plainer explanation. A gimlet was a small boring tool used at sea to pierce a barrel and draw off spirits; the drink's name may come from that tool or from the action of boring, not from a surgeon's surname. That idea is not settled either, but it is a useful reminder: the origin of a name and the origin of a recipe are two different questions, and a shared surname is not evidence.
 
-This page therefore treats the surgeon story as a popular story, not as history. It explains why the drink is associated with the navy, limes and scurvy prevention, but it does not identify an inventor.
+This cocktail therefore treats the surgeon story as a popular story, not as history. It explains why the drink is associated with the navy, limes and scurvy prevention, but it does not identify an inventor.
 
 ## Raymond Chandler and The Long Goodbye
 
@@ -127,7 +136,7 @@ The cultural effect was considerable: many people first heard of the drink throu
 
 ## The IBA and the historical formulas: 7:3 and 1:1
 
-First, the important point: there is no Gimlet entry in the IBA's current official cocktail list. Unlike the Sidecar or the Negroni, it does not have an IBA page that can be cited, so this page does not call any formula an "IBA official recipe".
+First, the important point: there is no Gimlet entry in the IBA's current official cocktail list. Unlike the Sidecar or the Negroni, it does not have an IBA page that can be cited, so this cocktail does not call any formula an "IBA official recipe".
 
 What can be checked are historical formulas. The Gimlet in the IBA's 1985 recipe manual is commonly retold as 7/10 gin and 3/10 lime cordial, about 2.3:1. That is much drier than Chandler's 1:1 and closer to modern bar practice. The earlier *The Savoy Cocktail Book* of 1930 gives half gin and half lime juice; note that it says lime juice, not lime cordial, so the same 1:1 is far more acidic and much closer to a gin sour.
 

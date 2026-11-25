@@ -153,7 +153,7 @@ Putting Clare Valley into an itinerary means separating the regional centre from
 Clare is about two hours north of Adelaide; Auburn is the southern gateway and Sevenhill and Polish Hill lie further north. A tasting takes 60–90 minutes, and three wineries make a full day. Book cellar doors, check harvest-time closures and turn map distance into driving time before planning the route.
 
 - Related: [australia](ref:australia), [riesling](ref:riesling), [syrah](ref:syrah), [white-wine](ref:white), [red-wine](ref:red).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 **Short definition:** A narrow valley in the mid-north of South Australia, known for Riesling and Shiraz; slate, limestone and red soils, a wide diurnal range and old vines make it the core of Australian Riesling, with GI status in the 1990s.
 

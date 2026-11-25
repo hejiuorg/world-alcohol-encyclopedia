@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:spanish-rioja
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:86bec2a985c480eb4720e1dcba020a7c37d1a918e205041856769485c5f69ed8
-source_sha256: 86bec2a985c480eb4720e1dcba020a7c37d1a918e205041856769485c5f69ed8
+source_revision: sha256:d81dff1877a98a34aed2f9d8bc0f4acfbfc87f87cef0bd46927bdc397f5a2a1d
+source_sha256: d81dff1877a98a34aed2f9d8bc0f4acfbfc87f87cef0bd46927bdc397f5a2a1d
 aliases:
   - Spanish cuisine and Rioja
 tags:
@@ -98,7 +98,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against wine reference works and public material, and no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
@@ -106,7 +106,7 @@ verification_scope: source-verified
 
 A Rioja label carries a line of time information beyond the producer and vintage: Crianza, Reserva or Gran Reserva. This is not a marketing grade but a legal minimum for total ageing and for time in oak. Understanding that timetable is more useful than remembering "Spanish red with ham", because Riojas of different ageing levels suit entirely different dishes.
 
-![Spanish cuisine with Rioja: ham, roast lamb and oak thematic illustration](/media/photos/theme-ingredients.jpg)
+![Spanish cuisine with Rioja: ham, roast lamb and oak thematic illustration](/media/figures/specific/pairing-spanish-rioja.svg)
 
 Figure: thematic illustration for Spanish cuisine with Rioja: ham, roast lamb and oak. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

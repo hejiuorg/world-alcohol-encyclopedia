@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: guide:tequila-mezcal-intro
 source_lang: zh
-source_revision: sha256:49c576072f318a2178e5127deca48bd3eefd76fc38691f623165446fbe2a2d7f
-source_sha256: 49c576072f318a2178e5127deca48bd3eefd76fc38691f623165446fbe2a2d7f
+source_revision: sha256:ca0cd4ed65160887965694fd6682c1114bd91002639e90f9fff548882a99316c
+source_sha256: ca0cd4ed65160887965694fd6682c1114bd91002639e90f9fff548882a99316c
 translation_status: reviewed
 aliases:
   - Tequila and mezcal basics
@@ -64,7 +64,7 @@ references:
 sources:
   - key: iba
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the framework of classic agave-based cocktails; no source text is reproduced.
     accessed: 2026-11-07
@@ -90,16 +90,23 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 # Tequila and Mezcal for Beginners: Two Agave Spirits
 
 Tequila and mezcal both come from agave, but they are two different spirits. Tequila has a clear geographical indication and raw-material framework; mezcal covers a wider range of regions, agave species and roasting methods. Treating them as the same drink makes it easy to miss the most important flavour clues of each.
 
-![Tequila and Mezcal for Beginners: Two Agave Spirits thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Tequila and Mezcal for Beginners: Two Agave Spirits thematic illustration](/media/figures/specific/guide-tequila-mezcal-intro.svg)
 
 Figure: thematic illustration for Tequila and Mezcal for Beginners: Two Agave Spirits. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Starting from zero:** Agave is a succulent plant that stores sugar in its heart.
+> - **Main types and differences:** Tequila's common types include Blanco, Reposado, Añejo and Extra Añejo.
+> - **Choosing a first bottle:** To understand tequila, start with a Blanco: clean flavour, with the agave's sweetness, pepper and citrus, and good for classics such as the Margarita.
 
 ## Starting from zero
 
@@ -165,3 +172,15 @@ Fourth, try an Espadín mezcal and confirm how much smoke you enjoy. Fifth, try 
 For Tequila and Mezcal for Beginners, begin with what it is. Then look at where it comes from, and finally ask how it is used. The answers point to different choices, not to a single score.
 
 [Tequila](ref:tequila) and [Agave](ref:agave) answer different questions about Tequila and Mezcal for Beginners: reader and route. Read them as a pair, not as alternatives.
+
+## Quick comparison: tequila and mezcal
+
+| Point | Tequila | Mezcal |
+| --- | --- | --- |
+| Base | Mostly blue Weber agave | Many agave species |
+| Cooking | Steam or autoclave | Earth-pit roasting, often smoky |
+| Flavour | Clean, vegetal, peppery | Smoke, earth, fruit |
+| Region | Mostly Jalisco | Oaxaca and beyond |
+| Label | 100% agave or mixto | Often species and village |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.

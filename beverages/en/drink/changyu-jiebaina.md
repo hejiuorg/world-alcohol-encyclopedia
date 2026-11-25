@@ -111,7 +111,7 @@ Company, brand and product are three levels: the brand answers "what is it calle
 
 Public material places the start of Jiebaina in 1931, in Yantai. It began as a Changyu dry red product name and later expanded into a series graded by level and vintage. Grade names and prices change with product batches, so the bottle label should be checked.
 
-There are different accounts of where the name comes from, and this page does not adopt a single version. What is certain: it is a product-series name and registered trademark, not on the same level as variety names such as Cabernet Sauvignon or Cabernet Gernischt. Whether other companies may use the name involves trademark issues, and this page makes no legal judgment.
+There are different accounts of where the name comes from, and this entry does not adopt a single version. What is certain: it is a product-series name and registered trademark, not on the same level as variety names such as Cabernet Sauvignon or Cabernet Gernischt. Whether other companies may use the name involves trademark issues, and this entry makes no legal judgment.
 
 ## Origin and varieties
 

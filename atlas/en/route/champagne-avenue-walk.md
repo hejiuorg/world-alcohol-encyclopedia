@@ -103,8 +103,8 @@ stop_ids:
     note: Walk to number 26 and check the booking page first; when a slot is available, see the Art Nouveau house and seven kilometres of cellars.
 mode: walk
 updated_at: 2026-11-08
-source_sha256: 81e1e6d548242387ad33573b4dfd5ae175be5f47377f7f0260611c2e9d7000fc
-source_revision: sha256:81e1e6d548242387ad33573b4dfd5ae175be5f47377f7f0260611c2e9d7000fc
+source_sha256: 3cbb9d6a7c4cf715ff04e71231cfc390e3624869bd6bf42a5dd6f5ea5e1b5868
+source_revision: sha256:3cbb9d6a7c4cf715ff04e71231cfc390e3624869bd6bf42a5dd6f5ea5e1b5868
 ---
 
 # Champagne: a walk along the Avenue de Champagne in Épernay
@@ -114,6 +114,15 @@ This route is one street, yet it needs half a day to a day. The Avenue de Champa
 !["Champagne: a walk along the Avenue de Champagne in Épernay" category image](/media/photos/region-champagne-acf0412f.jpg)
 
 Figure: "Champagne: a walk along the Avenue de Champagne in Épernay". Photograph: File:Glass of champagne.jpg. Credit: bgvjpe, CC BY 2.0 ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Champagne: a walk along the Avenue de Champagne in Épernay, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Champagne: a walk along the Avenue de Champagne in Épernay into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Avenue de Champagne, central Épernay, about 1.5 kilometres, inscribed in 2015 as part of “Champagne hillsides, houses and cellars”.
+>   - Champagne is often told as a celebration drink, but its spatial logic is closer to an industrial-agricultural complex.
 
 ## Route overview
 
@@ -175,7 +184,7 @@ First, separate “street” from “house”. The avenue is public and free to 
 
 Fourth, separate brand story from historical fact. Dom Pérignon was a seventeenth-century monk, but the Champagne brand is a modern marketing construction; the Belle Époque anemone dates from a 1902 design, not from the founding of the house; 1743 for Moët and 1811 for Perrier-Jouët are founding years, not the construction dates of the present buildings or cellars. Fifth, visits and dining at Perrier-Jouët require a booking, and whether a walk-in can be admitted depends on the day's operations; do not assume that buying wine on site is possible.
 
-For Champagne: a walk along the Avenue de Champagne in Épernay, this page does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
+For Champagne: a walk along the Avenue de Champagne in Épernay, this route does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 ## Alternatives and extensions
 
@@ -188,6 +197,6 @@ Northwards, Reims offers the cathedral and another group of houses; southwards, 
 - [Avenue de Champagne](ref:avenue): the spatial relationship between street, houses and cellar entrances.
 - [Moët & Chandon](ref:moet): 28 kilometres of galleries, blending and vintage Champagne.
 - [Perrier-Jouët](ref:perrier): Chardonnay, the anemone and visits and dining at the Maison Belle Époque.
-- For background, consult the Champagne region, sparkling wine and place-and-process entries in the content repository; this page does not register further references.
+- For background, consult the Champagne region, sparkling wine and place-and-process entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.

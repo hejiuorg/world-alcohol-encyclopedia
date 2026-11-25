@@ -86,8 +86,8 @@ verification_scope: source-verified
 translation_of: place:in-t-aepjen
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:13ae3cc041804e250e434af780411bf0284450fc9962fe7ebddc343ca2dfcbcf
-source_sha256: 13ae3cc041804e250e434af780411bf0284450fc9962fe7ebddc343ca2dfcbcf
+source_revision: sha256:d82b8967f003acfcfa861d82b2c780c7ccef113a9ad8d16fbe8c6b532e42f1fa
+source_sha256: d82b8967f003acfcfa861d82b2c780c7ccef113a9ad8d16fbe8c6b532e42f1fa
 ---
 
 # In ’t Aepjen
@@ -97,6 +97,15 @@ A few minutes south of Amsterdam Centraal, the Zeedijk narrows abruptly. A black
 ![The wooden facade of Zeedijk 1, home of In ’t Aepjen](/media/photos/place-in-t-aepjen-3a07b711.jpg)
 
 Figure: Historic photograph of the wooden facade at Zeedijk 1; the house dates from about 1550 and is now cared for by the Hendrick de Keyser Association. Image: Unknown author Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Historische_stadswoning_met_houten_gevel,_SFA022811075.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether In ’t Aepjen deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to In ’t Aepjen who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Three dates need separating: the building, the shopfront, and the bar.
+>   - In ’t Aepjen is a Dutch brown café at heart: beer, jenever and simple bar food.
 
 ## Location and history
 

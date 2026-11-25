@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:domaine-drouhin
 source_lang: zh
-source_revision: sha256:9c97df0d988f0240cd81dc412a154222638a5b22d939e6edff56e041c6ed7af4
-source_sha256: 9c97df0d988f0240cd81dc412a154222638a5b22d939e6edff56e041c6ed7af4
+source_revision: sha256:b81e23b9682d4cfb3c567df7f07a845c7fb35fc91f8b98ef40f81b5c6f7d9e5d
+source_sha256: b81e23b9682d4cfb3c567df7f07a845c7fb35fc91f8b98ef40f81b5c6f7d9e5d
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -111,6 +111,15 @@ Maison Joseph Drouhin stands at 7 Rue d'Enfer in the old centre of Beaune, where
 
 Figure: Maison Joseph Drouhin. Image: Tomas er, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Drouhin_Gevrey-Chambertin_in_glass.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Maison Joseph Drouhin deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Maison Joseph Drouhin who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1880 Joseph Drouhin founded a wine merchant business in Beaune.
+>   - The house offers daily cellar tours and tastings, booked by time slot through its official pages.
+
 ## Place and history
 
 In 1880 Joseph Drouhin founded a wine merchant business in Beaune. Burgundy already had a mature négociant system: merchants bought wine from growers and handled ageing, blending and sales. Drouhin quickly combined that role with vineyard ownership, gradually becoming a merchant, producer and landowner at once. The house today describes its vineyard as about 100 hectares spread across well-known Burgundy climats, from Chablis to the Mâconnais.
@@ -131,7 +140,7 @@ If you only want to buy wine and skip the tour, go to the Oenothèque Joseph Dro
 
 ## Practical information
 
-Address: headquarters, Maison Joseph Drouhin, 7 Rue d'Enfer, 21200 Beaune, France (tel. +33 3 80 24 68 88); retail shop, Oenothèque Joseph Drouhin, 1 Place du Général Leclerc, 21200 Beaune (tel. +33 3 80 24 84 05). The coordinates on this page, 47.02380, 4.83583, come from the GPS published on the house's official shop page and refer to the shop and reception point; the headquarters is in the same old-town block, a few minutes' walk away.
+Address: headquarters, Maison Joseph Drouhin, 7 Rue d'Enfer, 21200 Beaune, France (tel. +33 3 80 24 68 88); retail shop, Oenothèque Joseph Drouhin, 1 Place du Général Leclerc, 21200 Beaune (tel. +33 3 80 24 84 05). The coordinates on this entry, 47.02380, 4.83583, come from the GPS published on the house's official shop page and refer to the shop and reception point; the headquarters is in the same old-town block, a few minutes' walk away.
 
 Getting there: from Beaune railway station (Gare de Beaune), walk into the old town — about ten minutes to the shop area. By car, use a public car park on the edge of the old centre (for example Louis Véry) rather than trying to drive into narrow streets such as Rue d'Enfer. Old Beaune is made for walking, and the house, the Hôtel-Dieu, the Collégiale Notre-Dame and the market are all in the same district.
 

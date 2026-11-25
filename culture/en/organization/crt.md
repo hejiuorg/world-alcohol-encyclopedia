@@ -69,7 +69,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the regulator's official site and public material, with no third-party text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This organization uses no third-party images.
 verification_scope: source-verified
 ---
 # The Tequila Regulatory Council: industry self-governance for an appellation

@@ -71,7 +71,7 @@ Figure: Niulanshan. Image: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source 
 
 ## Brand definition
 
-Brand and producer are two entities. The brand answers "what is this bottle called and who is it for", while the producer answers "who owns the trademark, who organises production and who carries legal responsibility". This page records the brand layer: name, product lines, positioning and marks; company history and site are covered under the producer entry.
+Brand and producer are two entities. The brand answers "what is this bottle called and who is it for", while the producer answers "who owns the trademark, who organises production and who carries legal responsibility". This brand records the brand layer: name, product lines, positioning and marks; company history and site are covered under the producer entry.
 
 "Niulanshan" is both a place name and a brand name. The place refers to Niulanshan town in Shunyi district, Beijing, and the brand carries the local brewing tradition. Discussion should separate the "production-area place name" from the "registered trademark"; a place name is not a generic term that any company may use as a mark.
 
@@ -95,7 +95,7 @@ Niulanshan has long been known for the mass price band and wide distribution. It
 
 This positioning has two consequences: broad product coverage, and clearly different prices across channels. When discussing price, establish whether it is a guide price, a supermarket price or a catering price; one figure cannot describe the national market.
 
-Prices move with channel, region and supply and demand, and this page gives no figures. Treating sales volume as proof of quality, or a low price as low quality, are common misreadings; quality judgment should return to the label, the standard and the actual drink.
+Prices move with channel, region and supply and demand, and this brand gives no figures. Treating sales volume as proof of quality, or a low price as low quality, are common misreadings; quality judgment should return to the label, the standard and the actual drink.
 
 ## History
 
@@ -133,7 +133,7 @@ Niulanshan is known for er-guotou, a light-aroma baijiu distilled from sorghum a
 
 **Sources and limits.** The key claims about Niulanshan are checked against the following sources: Industry body (the founding date, time-honoured brand, well-known trademark and intangible heritage information; er-guotou craft and product positioning). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Niulanshan next to Beijing Shunxin Agriculture Niulanshan Distillery, Baijiu, Strong-aroma baijiu: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Niulanshan next to Beijing Shunxin Agriculture Niulanshan Distillery, Baijiu, Strong-aroma baijiu: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this brand first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

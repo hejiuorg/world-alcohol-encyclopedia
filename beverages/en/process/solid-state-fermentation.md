@@ -91,7 +91,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public national-standard information, public media reporting and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standard texts, trademarks and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standard texts, trademarks and quoted text are outside this licence; sources are cited for verification only. This process uses no third-party images.
 verification_scope: source-verified
 ---
 # Solid-state fermentation
@@ -146,11 +146,11 @@ Start with the inputs. From there, consider the sequence of steps, then what cha
 
 **At a glance:** Fermentation carried out on a low-moisture solid grain mash, the basis of solid-state baijiu; unlike semi-solid and liquid routes, vessels, qu and temperature management shape the flavour.
 
-**Read alongside.** Put Solid-state fermentation next to Baijiu, Qu making, Stacked fermentation: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Solid-state fermentation next to Baijiu, Qu making, Stacked fermentation: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this process first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Solid-state fermentation are checked against the following sources: State Administration for Market Regulation, Standardization Administration of China (the framework of fermented, distilled and compounded alcoholic beverages; no original text is reproduced), Xinhua, China Alcoholic Drinks Association and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Solid-state fermentation, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Solid-state fermentation, this process was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

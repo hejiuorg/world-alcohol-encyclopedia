@@ -103,6 +103,15 @@ verification_scope: source-verified
 
 图："达伦堡酒庄"所在的"麦克拉伦谷"风貌配图。图片：Rexness from Melbourne, Australia，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Trellised_vines,_Coriole_Vineyard,_McLaren_Vale_South_Australia_(6177503952).jpg)）。这张照片用于说明产区环境与访问语境，不标定"达伦堡酒庄"的门店、酒庄或活动现场。
 
+> **先给结论**
+> **一句话：** 这页判断达伦堡酒庄值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去达伦堡酒庄、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - d’Arenberg Cube 是 Chester 从 2004 年就开始构思的建筑，2017 年正式开放。
+>   - 魔方是酒庄的待客空间，不是游乐场。
+
 ## 1912 年：达伦堡酒庄的关键起点
 达伦堡位于南澳麦克拉伦谷，酒庄地址是 58 Osborn Road，距阿德莱德约四十五分钟车程。1912 年，Joseph Osborn 买下这片早已种有葡萄的土地；他本人是禁酒主义者，也是 Thomas Hardy and Sons 的董事，买葡萄园更像一笔资产配置，而不是为了自己喝酒。最初的葡萄卖给周边酒厂，酒窖在 1928 年建成，达伦堡的名字才开始随酒卖到英联邦各地。
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: poem:liu-yong-yu-lin-ling
 source_lang: zh
-source_revision: sha256:c0a6835954636cbda175e14dfbd8c4c7f2ecec37031dea656062da52a8fe084e
-source_sha256: c0a6835954636cbda175e14dfbd8c4c7f2ecec37031dea656062da52a8fe084e
+source_revision: sha256:2f31d70343f1aed66a33ad4451b4e110f671cff31428f9614e9ef1e043f43434
+source_sha256: 2f31d70343f1aed66a33ad4451b4e110f671cff31428f9614e9ef1e043f43434
 translation_status: reviewed
 author_name: Liu Yong
 source_title: Complete Song Ci
@@ -86,7 +86,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against a public song text, a record of the tune and a standard modern edition; the quoted song is in the public domain. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry.
 verification_scope: source-verified
 ---
 
@@ -98,11 +98,20 @@ Farewell songs often contain wine, but few make the wine as awkward as this one:
 
 Figure: thematic illustration for Yu Lin Ling: Liu Yong and a Farewell Cup He Could Not Drink. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
+> **Quick verdict**
+> **In one line:** This poem entry explains why Yu Lin Ling: Liu Yong and a Farewell Cup He Could Not Drink matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants Yu Lin Ling: Liu Yong and a Farewell Cup He Could Not Drink in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - Yu Lin Ling is the name of the tune, also written with a homophone character.
+>   - Cold cicadas chirp sadly, facing the long pavilion at evening, the sudden rain has just stopped.
+
 ## The tune and its background
 
 Yu Lin Ling is the name of the tune, also written with a homophone character. According to records such as Zheng Chuhui's Miscellaneous Records of Emperor Ming of the Tang, during the An Lushan rebellion Emperor Xuanzong fled to Shu and, on a mountain-plank road in the rain, heard bells and, missing Yang Guifei, made this tune. This is a legendary account: it explains the origin of the tune, not the date of Liu Yong's song. Liu Yong used an old tune to write about parting, and the exact year of composition is not recorded.
 
-Liu Yong (c. 987–c. 1053), originally named Sanbian, courtesy name Jingzhuang, later renamed Yong with the courtesy name Qiqing, was the seventh in his family and was known as Liu Qi. He came from Chong'an, in present-day Wuyishan, Fujian. In the first year of the Jingyou reign (1034) he passed the metropolitan examination and served as a vice director of the Grain Tax Bureau, hence the name Liu Tuntian. His dates and some details of his official career are variously given, and this page uses the usual approximate figures. Liu Yong spent long periods among city audiences and song houses and was skilled in the long slow-ci form; Yu Lin Ling is a representative example of how he expands a single farewell into two connected scenes.
+Liu Yong (c. 987–c. 1053), originally named Sanbian, courtesy name Jingzhuang, later renamed Yong with the courtesy name Qiqing, was the seventh in his family and was known as Liu Qi. He came from Chong'an, in present-day Wuyishan, Fujian. In the first year of the Jingyou reign (1034) he passed the metropolitan examination and served as a vice director of the Grain Tax Bureau, hence the name Liu Tuntian. His dates and some details of his official career are variously given, and this poem entry uses the usual approximate figures. Liu Yong spent long periods among city audiences and song houses and was skilled in the long slow-ci form; Yu Lin Ling is a representative example of how he expands a single farewell into two connected scenes.
 
 ## Text
 
@@ -155,7 +164,7 @@ The line lasts because it does not say directly that the poet is sad. It gives o
 
 ## Textual variants
 
-Yu Lin Ling has some variant readings and differences in punctuation in its transmission. One common case is that some anthologies give the line rendered here as cannot speak for sobbing with a near-synonym character for sobbing; another is the punctuation of Since ancient times the passionate grieve at parting, and how much more at the cold, desolate clear autumn season, which some editions run together without the comma. These differences do not affect the overall reading, but a quotation should state which edition it follows. This page follows the received text given by Gushiwen and checks it against Complete Song Ci.
+Yu Lin Ling has some variant readings and differences in punctuation in its transmission. One common case is that some anthologies give the line rendered here as cannot speak for sobbing with a near-synonym character for sobbing; another is the punctuation of Since ancient times the passionate grieve at parting, and how much more at the cold, desolate clear autumn season, which some editions run together without the comma. These differences do not affect the overall reading, but a quotation should state which edition it follows. This poem entry follows the received text given by Gushiwen and checks it against Complete Song Ci.
 
 ## Common misreadings
 

@@ -153,7 +153,7 @@ A common misreading treats Havana Club 7 as a drink style or a brand. The correc
 
 **Sources and limits.** The key claims about Havana Club 7 are checked against the following sources: Havana Club (product range, ageing and strength information), European Union (rum definitions and categories), Oxford University Press (Consulted for entries on Cuban rum and Havana Club). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Havana Club 7 next to Rum, Distillation, Oak ageing: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Havana Club 7 next to Rum, Distillation, Oak ageing: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

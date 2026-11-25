@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:compounded-liquor
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:81ad506dc39801bc5d654d8f699532b0e38222485066d9cb3ea78505fb37f1c6
-source_sha256: 81ad506dc39801bc5d654d8f699532b0e38222485066d9cb3ea78505fb37f1c6
+source_revision: sha256:672bffdf7c771b32b1fe9172511718418099d1dea4dab42872ea078e5f80908a
+source_sha256: 672bffdf7c771b32b1fe9172511718418099d1dea4dab42872ea078e5f80908a
 legacy_refs: []
 aliases:
   - Compounded liquor
@@ -71,12 +71,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against national standards and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Compounded liquor
 
-Compounded liquor is a beverage made by blending, mixing or reprocessing a base of fermented wine, distilled spirit or food-grade alcohol with edible materials or additives. Its scope is wide, from flavoured fruit drinks to herbal lujiu. GB/T 17204-2021, Terminology and classification of alcoholic beverages, sets its terminology and classification.![Compounded liquor thematic illustration](/media/photos/theme-beer.jpg)
+Compounded liquor is a beverage made by blending, mixing or reprocessing a base of fermented wine, distilled spirit or food-grade alcohol with edible materials or additives. Its scope is wide, from flavoured fruit drinks to herbal lujiu. GB/T 17204-2021, Terminology and classification of alcoholic beverages, sets its terminology and classification.![Compounded liquor thematic illustration](/media/figures/specific/drink-style-compounded-liquor.svg)
 
 Figure: thematic illustration for Compounded liquor. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -138,9 +138,9 @@ The entry on Compounded liquor draws on State Administration for Market Regulati
 
 **Sources and limits.** The key claims about Compounded liquor are checked against the following sources: State Administration for Market Regulation, Standardization Administration of China (Searchable by standard number in the National Standards Full-Text Public System; Used to check the scope, terminology and classification of GB/T 17204-2021; no text copied), General Administration of Quality Supervision, Inspection and Quarantine, Standardization Administration of China (Searchable by standard number in the National Standards Full-Text Public System), Oxford University Press (Consulted for entries on flavoured and fortified wines; no original text is reproduced; Migrated from the former reference list at the end of the article; access date not re-verified). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Compounded liquor next to Lujiu, Baijiu, Blending: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Compounded liquor next to Lujiu, Baijiu, Blending: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
-For Compounded liquor, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Compounded liquor, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

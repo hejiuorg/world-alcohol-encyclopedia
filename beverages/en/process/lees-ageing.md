@@ -89,7 +89,7 @@ Lees ageing sits after alcoholic [fermentation](ref:fermentation) and before cla
 
 ## Steps and parameters
 
-Still white wine often keeps fine lees after fermentation and rests at 10–15 °C for 4–12 months; bâtonnage is done once or twice a week, or adjusted to tasting results. Free sulfur dioxide is commonly held at 20–35 mg/L, enough to limit oxidation and unwanted microbes without suppressing autolysis. These ranges follow the common descriptions in the OIV material and wine reference work listed on this page. The traditional-method rule in Champagne is that non-vintage Champagne must age at least 15 months before release, including at least 12 months on lees, while vintage Champagne must age at least 36 months in total.
+Still white wine often keeps fine lees after fermentation and rests at 10–15 °C for 4–12 months; bâtonnage is done once or twice a week, or adjusted to tasting results. Free sulfur dioxide is commonly held at 20–35 mg/L, enough to limit oxidation and unwanted microbes without suppressing autolysis. These ranges follow the common descriptions in the OIV material and wine reference work listed on this process. The traditional-method rule in Champagne is that non-vintage Champagne must age at least 15 months before release, including at least 12 months on lees, while vintage Champagne must age at least 36 months in total.
 
 ## Mechanism: autolysis and reductive protection
 
@@ -138,4 +138,4 @@ It is tempting to treat Lees as ageing a brand. Its identity and use are separat
 
 **Sources and limits.** The key claims about Lees ageing are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check lees, sur lie and bâtonnage terminology), Oxford University Press (Used for reference on fine lees, bâtonnage and yeast autolysis), Comité Interprofessionnel du vin de Champagne (Used to check minimum ageing on lees and disgorging in Champagne) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Lees ageing, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Lees ageing, this process was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

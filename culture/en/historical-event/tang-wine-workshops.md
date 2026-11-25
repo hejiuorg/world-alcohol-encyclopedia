@@ -82,7 +82,7 @@ Figure: Tang Wine Workshops: Licensed Houses, State Workshops and State Shops. P
 
 ## Date and place
 
-This page focuses on the period from 764 to 846, where the records are densest, and on the cities and county seats of Chang'an, Luoyang and Yangzhou. The geographical variation is striking: in 782 the court ordered state brewing throughout the realm but singled out the capital as 'the king's city' and exempted it from the levy; in 846 it set up only eight circuits and prefectures, including Yangzhou, with a monopoly on qu and state shops. Capital and frontier, rich prefectures and ordinary counties, were governed by rules of very different intensity.
+This essay focuses on the period from 764 to 846, where the records are densest, and on the cities and county seats of Chang'an, Luoyang and Yangzhou. The geographical variation is striking: in 782 the court ordered state brewing throughout the realm but singled out the capital as 'the king's city' and exempted it from the levy; in 846 it set up only eight circuits and prefectures, including Yangzhou, with a monopoly on qu and state shops. Capital and frontier, rich prefectures and ordinary counties, were governed by rules of very different intensity.
 
 ## Background: from famine prohibition to fiscal excise
 
@@ -120,7 +120,7 @@ The third was private brewing. It never disappeared and was never legal. The 846
 
 ## Sources and disputes
 
-First, the price figure for 782 differs between editions. The Cefu Yuangui reads 'one hu valued at one thousand', while the Old Tang History reads 'one hu valued at three thousand; even if rice is cheap, it may not fall below two thousand'. Both readings can explain part of the evidence, but not both at once; this page therefore records only that a price per hu was set and does not convert it into a tax rate.
+First, the price figure for 782 differs between editions. The Cefu Yuangui reads 'one hu valued at one thousand', while the Old Tang History reads 'one hu valued at three thousand; even if rice is cheap, it may not fall below two thousand'. Both readings can explain part of the evidence, but not both at once; this essay therefore records only that a price per hu was set and does not convert it into a tax rate.
 
 Second, the nature of the 'wine household' is still debated. The 764 'fixing of wine-selling households' looks like a list of licensed operators, while the 811 phrase 'apart from the regular wine households' shows that regular households were distinct from ordinary taxpayers. How qualification was obtained, how many there were, and whether the status was hereditary are all poorly documented.
 

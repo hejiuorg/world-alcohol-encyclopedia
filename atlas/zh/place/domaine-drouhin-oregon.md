@@ -104,6 +104,15 @@ verification_scope: source-verified
 
 图：杜鲁安俄勒冈酒庄相关实景照片。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断杜鲁安俄勒冈酒庄值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去杜鲁安俄勒冈酒庄、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - DDO 的参观以预约制品鉴为主，酒庄位于山坡上，品鉴室与酒厂都能看到威拉米特谷的开阔视野。
+>   - 杜鲁安俄勒冈位于威拉米特谷 Dundee Hills 的坡顶，地址在 Dayton 的 Breyman Orchards Road 6750 号。
+
 ## 1987 年：杜鲁安俄勒冈酒庄的关键起点
 杜鲁安俄勒冈位于威拉米特谷 Dundee Hills 的坡顶，地址在 Dayton 的 Breyman Orchards Road 6750 号，距波特兰约 45 分钟到一小时车程。酒庄的母体是 1880 年在伯恩成立的 Maison Joseph Drouhin；到 Robert Drouhin 这一代，家族已经在勃艮第拥有从 Chablis 到 Grand Cru 的完整版图。1980 年代中期，一场盲品让 Robert 把目光转向俄勒冈：他发现这里的纬度、气候与坡向，和勃艮第有惊人的相似。
 

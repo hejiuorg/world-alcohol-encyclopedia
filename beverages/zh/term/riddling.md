@@ -69,9 +69,9 @@ verification_scope: source-verified
 
 转瓶（riddling，法语 remuage）是传统法[起泡酒](ref:sparkling-wine)在瓶中二次发酵结束之后、[除渣](ref:disgorgement)之前的一段工序：把瓶身反复旋转并逐步倾斜，使瓶内的酵母沉淀滑向瓶口，最终聚成一小团。它既不是调味，也不是陈年，而是一个以重力为基础的机械收集过程。
 
-![转瓶（riddling） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![转瓶（riddling） 类型示意图](/media/figures/specific/term-riddling.svg)
 
-图：转瓶（riddling） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是转瓶（riddling）的实拍。
+图：转瓶（riddling） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

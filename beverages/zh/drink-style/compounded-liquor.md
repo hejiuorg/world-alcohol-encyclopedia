@@ -74,9 +74,9 @@ verification_scope: source-verified
 
 配制酒是以发酵酒、蒸馏酒或食用酒精为酒基，加入可食用的原辅料或食品添加剂，经调配、混合或再加工制成的饮料酒。它的范围很宽，从加香加料的果酒到草本风味的露酒都属于这一类。GB/T 17204-2021《饮料酒术语和分类》对配制酒的术语与分类作出规定。
 
-![配制酒 类型示意图](/media/photos/theme-beer.jpg)
+![配制酒 类型示意图](/media/figures/specific/drink-style-compounded-liquor.svg)
 
-图：配制酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是配制酒的实拍。
+图：配制酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与标准
 

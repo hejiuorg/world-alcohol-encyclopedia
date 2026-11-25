@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:speyside-malt-trail
 source_lang: zh
-source_revision: sha256:9aeea993d61b39440329143e3c14779bbec6da50671a8d5019c259083c24ef07
-source_sha256: 9aeea993d61b39440329143e3c14779bbec6da50671a8d5019c259083c24ef07
+source_revision: sha256:7dad000a53cb146c8e535aaf2cac61e6caa785443dc67fa1215f675f1be9ed21
+source_sha256: 7dad000a53cb146c8e535aaf2cac61e6caa785443dc67fa1215f675f1be9ed21
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -106,6 +106,15 @@ Speyside has enough distilleries for five visits in a day. This route takes thre
 !["Speyside malt trail: Dufftown, Craigellachie and Ballindalloch" category image](/media/photos/place-glenfiddich-distillery-d6ab0496.jpg)
 
 Figure: "Speyside malt trail: Dufftown, Craigellachie and Ballindalloch". Photograph: File:Glenfiddich Distillery View.jpg. Credit: Coldupnorth, CC BY-SA 4.0 ([source page](https://commons.wikimedia.org/wiki/File:Glenfiddich_Distillery_View.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Speyside malt trail: Dufftown, Craigellachie and Ballindalloch, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Speyside malt trail: Dufftown, Craigellachie and Ballindalloch into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Glenfiddich Distillery, Dufftown, Keith AB55 4DH; building began in 1886, the first spirit ran on Christmas Day 1887.
+>   - Dufftown, Craigellachie and Ballindalloch form a central triangle.
 
 ## Route overview
 

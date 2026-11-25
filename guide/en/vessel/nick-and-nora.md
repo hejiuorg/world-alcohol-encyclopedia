@@ -11,8 +11,8 @@ revision: 1
 translation_of: vessel:nick-and-nora
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:744dde0cfe7b9a2cfd9f7423f3e07c09d7eb7603e19c15a407a2bb2a2329ff83
-source_sha256: 744dde0cfe7b9a2cfd9f7423f3e07c09d7eb7603e19c15a407a2bb2a2329ff83
+source_revision: sha256:bff8e2bbda6d3b10d4e65b4da464392bfbf7c21aeff833d6fa31205188a64a8c
+source_sha256: bff8e2bbda6d3b10d4e65b4da464392bfbf7c21aeff833d6fa31205188a64a8c
 materials:
   - Glass
   - Crystal glass
@@ -75,7 +75,7 @@ sources:
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to verify glass form and collection context; no source text is reproduced.
     accessed: 2026-11-07
@@ -94,6 +94,15 @@ The Nick and Nora is a small stemmed glass with a shallow bowl and a wide rim. I
 ![Vintage Nick and Nora glass](/media/photos/vessel-nick-and-nora-775b2313.jpg)
 
 Figure: A vintage Nick and Nora glass, about 120 ml, with an engraved wave pattern. Image: Mangomix, CC BY-SA 4.0, via [source page](https://commons.wikimedia.org/wiki/File:Nick_and_Nora_cocktail_glass.jpg).
+
+> **Quick verdict**
+> **In one line:** This glass explains why Nick and Nora glass changes aroma, and which drinks it suits.
+>
+> - **Best for:** Anyone who wants to understand why Nick and Nora glass changes aroma and texture.
+> - **Not for:** If you want want a “buy the most expensive glass” verdict without matching the drink.
+> - **Check first:**
+>   - The first job of the shallow bowl is to shorten the distance from liquid to nose.
+>   - A wide rim gives openness, not concentration.
 
 ## The name comes from a film
 

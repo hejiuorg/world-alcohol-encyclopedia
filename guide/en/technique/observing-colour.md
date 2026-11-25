@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:observing-colour
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:048dde7a5c5a8a8030adc03e181b368d09dc5824d5f29274521be49016ede4cf
-source_sha256: 048dde7a5c5a8a8030adc03e181b368d09dc5824d5f29274521be49016ede4cf
+source_revision: sha256:dee5798c3124044ebe5ef869ea682021169a5cb73a4b7557604aca128c547919
+source_sha256: dee5798c3124044ebe5ef869ea682021169a5cb73a4b7557604aca128c547919
 applies_to_refs:
   - drink-style:wine
   - drink-style:red-wine
@@ -91,7 +91,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 
@@ -99,7 +99,7 @@ verification_scope: source-verified
 
 Observing colour is the first step in tasting: after pouring and before nosing, use your eyes to judge clarity, hue and depth. It cannot tell you whether a drink tastes good, but it offers clues about age, variety, skin contact and cask ageing. Treating colour as a clue rather than a conclusion is the premise of this technique.
 
-![Observing colour thematic illustration](/media/photos/theme-beer.jpg)
+![Observing colour thematic illustration](/media/figures/specific/technique-observing-colour.svg)
 
 Figure: thematic illustration for Observing colour. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

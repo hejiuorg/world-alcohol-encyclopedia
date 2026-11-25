@@ -91,7 +91,7 @@ Malting sits between agricultural raw material and brewhouse, and is a separate 
 
 ## Steps and parameters
 
-Malting is divided into steeping, germination, kilning and de-rooting. Steeping usually lasts 40–48 hours, alternating wet and air rests to bring moisture to 42–46%; germination runs at 12–16 °C for 4–6 days, with turning and ventilation controlling bed temperature and moisture; kilning first dries at 50–65 °C and then cures base malt at 80–85 °C, while speciality malt may reach 100–220 °C; de-rooting removes rootlets, which are about 3–5% of finished malt mass. These ranges follow the common descriptions in the brewing reference works, encyclopaedia and association material listed on this page. The final steep is often treated with lime water or alkali to reduce surface mould, and the germination bed is turned every 4–6 hours to prevent local hot spots and uneven growth.
+Malting is divided into steeping, germination, kilning and de-rooting. Steeping usually lasts 40–48 hours, alternating wet and air rests to bring moisture to 42–46%; germination runs at 12–16 °C for 4–6 days, with turning and ventilation controlling bed temperature and moisture; kilning first dries at 50–65 °C and then cures base malt at 80–85 °C, while speciality malt may reach 100–220 °C; de-rooting removes rootlets, which are about 3–5% of finished malt mass. These ranges follow the common descriptions in the brewing reference works, encyclopaedia and association material listed on this process. The final steep is often treated with lime water or alkali to reduce surface mould, and the germination bed is turned every 4–6 hours to prevent local hot spots and uneven growth.
 
 ## Mechanism: enzyme formation and starch modification
 
@@ -140,6 +140,6 @@ Treating Malting as a brand mixes two different questions: identity and use. Sep
 
 **Sources and limits.** The key claims about Malting are checked against the following sources: Oxford University Press (Used for reference on steeping, germination, kilning and malt types), Encyclopaedia Britannica (Used for reference on malt preparation and germination), Brewers Association (Used to check industry descriptions of steeping moisture, germination temperature and kilning curves) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Malting next to Barley, Beer, Whisky: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Malting next to Barley, Beer, Whisky: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this process first, then return to those entries; the links become coordinates, not decoration.
 
-For Malting, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Malting, this process was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

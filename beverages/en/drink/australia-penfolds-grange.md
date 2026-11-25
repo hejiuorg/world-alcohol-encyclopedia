@@ -148,7 +148,7 @@ Treating Penfolds Grange as a drink style or a brand mixes two different questio
 
 **Sources and limits.** The key claims about Penfolds Grange are checked against the following sources: Penfolds (Grange history, varieties and winemaking), OIV (international technical definitions for wine), Oxford University Press (Consulted for entries on Penfolds, Grange and Australian Shiraz). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Penfolds Grange next to Wine, Oak ageing, Tannin: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Penfolds Grange next to Wine, Oak ageing, Tannin: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

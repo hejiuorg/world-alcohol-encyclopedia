@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:makers-mark-distillery
 source_lang: zh
-source_revision: sha256:fbb9310e47abb79b6ca7c13d1acc62fecb791f559d047be9873cdd935aecf88f
-source_sha256: fbb9310e47abb79b6ca7c13d1acc62fecb791f559d047be9873cdd935aecf88f
+source_revision: sha256:43114f6524f8c960b902aa0d5c6d1dfb9d967660eaf46646bdcc2f143ad5e10f
+source_sha256: 43114f6524f8c960b902aa0d5c6d1dfb9d967660eaf46646bdcc2f143ad5e10f
 translation_status: reviewed
 subtype: distillery-visitor
 address: 3350 Burks Spring Rd, Loretto, KY 40037, USA
@@ -122,6 +122,12 @@ verification_scope: source-verified
 # Maker's Mark Distillery
 
 Loretto sits in the rolling hills of central Kentucky, not far from Bardstown. Maker's Mark calls its site Star Hill Farm, and the name is not a later tourism addition: when the Samuels family chose the land in the 1950s, they wanted the limestone-filtered spring water and the watershed that came with it. What visitors see today is a working farm-distillery where sheep, wagyu cattle, solar-powered warehouses, hand-rotated barrels and red wax coexist. Its National Historic Landmark status has not stopped production.
+
+> **Visit information**
+> - Address: 3350 Burks Spring Rd, Loretto, KY 40037, USA.
+> - Opening and booking: check the [official page](https://www.makersmark.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
 
 ![Maker's Mark Distillery photograph](/media/photos/q2-place-makers-mark-distillery-c4b1844f.jpg)
 

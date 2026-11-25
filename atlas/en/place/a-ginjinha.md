@@ -85,12 +85,18 @@ founded_year: 1840
 translation_of: place:a-ginjinha
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b047fda2b82972681948a7879f3b0431f01c2c0dff7ba7b4eb20f847b2464e7b
-source_sha256: b047fda2b82972681948a7879f3b0431f01c2c0dff7ba7b4eb20f847b2464e7b
+source_revision: sha256:803dc96f9b75d2e0f4ee62d6e064a4ad69acfa796fb5e6f1ebffa6560e90201f
+source_sha256: 803dc96f9b75d2e0f4ee62d6e064a4ad69acfa796fb5e6f1ebffa6560e90201f
 ---
 # A Ginjinha
 
 On the north-west corner of Largo de São Domingos, a red neon sign, a narrow door, and a short marble counter are the entire shopfront. There are no tables and no invitation to linger. Customers crowd the bar, order a small glass of deep-red ginjinha, receive it, stand at the doorway to drink, return the empty glass, and make room for the next person. It is less a café than a street-corner kiosk for drinking.
+
+> **Visit information**
+> - Address: Largo de São Domingos 8, 1100-320 Lisbon, Portugal.
+> - Opening and booking: check the [official page](https://ginjinhaespinheira.com/en) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
 
 ![A Ginjinha red storefront](/media/photos/place-a-ginjinha-c9fe334e.jpg)
 

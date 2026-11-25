@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against publisher pages, the author page and a reference work, without reproducing text, recipes or the foreword. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, recipes and foreword are not covered by this licence; sources are cited for verification only. The image on this page is a modern colourised illustration of Jerry Thomas performing the Blue Blazer, not a historical photograph and not the book cover.
+  note: The original text, recipes and foreword are not covered by this licence; sources are cited for verification only. The image on this book entry is a modern colourised illustration of Jerry Thomas performing the Blue Blazer, not a historical photograph and not the book cover.
 verification_scope: source-verified
 source_sha256: a9cf4671ae715d68d6706809b990c42e699496ac8267fd07eb047b855bfc8945
 source_revision: sha256:a9cf4671ae715d68d6706809b990c42e699496ac8267fd07eb047b855bfc8945

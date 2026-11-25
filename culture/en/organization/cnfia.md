@@ -68,7 +68,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the association's official site, industry media and a company's public news release, with no third-party text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This organization uses no third-party images.
 verification_scope: source-verified
 ---
 # CNFIA: a food-industry body that also trains baijiu judges
@@ -109,7 +109,7 @@ The system descends from the 1984 corps: 34 judges, 11 specially invited judges 
 
 ## Members and standards
 
-Members are food-industry companies and related units, covering alcohol, beverages, dairy, grain and oil and other categories; the exact membership changes with the industry, so this page does not fix a number.
+Members are food-industry companies and related units, covering alcohol, beverages, dairy, grain and oil and other categories; the exact membership changes with the industry, so this organization does not fix a number.
 
 “Standards” here has two layers. Food safety standards are made and enforced by government; the association works on standards publicity, industry self-discipline and professional evaluation. Sensory evaluation by national baijiu judges is an industry professional activity and is neither an official quality certification nor a market access permit.
 

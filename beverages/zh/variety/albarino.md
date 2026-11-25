@@ -87,6 +87,15 @@ verification_scope: source-verified
 
 图：阿尔巴利诺。摄影：Albarino Vineyards。署名：chicadelatele，CC BY 2.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=4106753)）。
 
+> **先给结论**
+> **一句话：** 这页判断阿尔巴利诺适不适合你，以及怎么比较其他品种。
+>
+> - **适合谁：** 正在比较阿尔巴利诺与其他品种、想弄懂风味差异的人。
+> - **不适合谁：** 只想要单一名庄推荐、不关心品种本身的人。
+> - **先看这两点：**
+>   - 阿尔巴利诺属于欧洲葡萄 Vitis vinifera，是白葡萄品种。
+>   - 阿尔巴利诺原产于伊比利亚半岛西北部，也就是今天西班牙加利西亚与葡萄牙米尼奥一带。
+
 ## 定义与别名
 
 阿尔巴利诺属于欧洲葡萄 Vitis vinifera，是白葡萄品种。西班牙语写作 Albariño，葡萄牙语写作 Alvarinho，两者指向同一品种；中文“阿尔巴利诺”是西班牙语的音译。它常被误认为雷司令（Riesling），但 DNA 研究已经否定了这种亲缘关系，两者在香气类型、酸度结构与栽培需求上都不同。酒标上的“Albariño”是品种名，不是产区名；产区名是里亚斯·拜萨斯（Rías Baixas）或绿酒（Vinho Verde）。理解这一点，有助于避免把品种风格与产区风格混为一谈(ref:white-wine)。

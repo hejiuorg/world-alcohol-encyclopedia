@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:riddling
 source_lang: zh
-source_revision: sha256:0cddb0d22602ad773952ba639c262a9bbcf6ae37256df9ebebd842f395a0dc62
-source_sha256: 0cddb0d22602ad773952ba639c262a9bbcf6ae37256df9ebebd842f395a0dc62
+source_revision: sha256:8b3463fbbb34d89fe109d73fc418580111c80280a2c6a1768df98b238803ed43
+source_sha256: 8b3463fbbb34d89fe109d73fc418580111c80280a2c6a1768df98b238803ed43
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -70,7 +70,7 @@ verification_scope: source-verified
 ---
 # Riddling
 
-Riddling (French remuage) is the step in traditional-method [sparkling wine](ref:sparkling-wine) after the in-bottle second fermentation and before [disgorging](ref:disgorgement): the bottles are repeatedly turned and gradually tilted so that the yeast sediment slides towards the neck and gathers in a small plug. It is neither flavouring nor ageing, but a mechanical gathering process driven by gravity.![Riddling thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Riddling (French remuage) is the step in traditional-method [sparkling wine](ref:sparkling-wine) after the in-bottle second fermentation and before [disgorging](ref:disgorgement): the bottles are repeatedly turned and gradually tilted so that the yeast sediment slides towards the neck and gathers in a small plug. It is neither flavouring nor ageing, but a mechanical gathering process driven by gravity.![Riddling thematic illustration](/media/figures/specific/term-riddling.svg)
 
 Figure: thematic illustration for Riddling. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

@@ -77,7 +77,7 @@ verification_scope: source-verified
 
 保乐力加（Pernod Ricard）是 1975 年由保乐与力加两家法国茴香酒企业合并而成的跨国葡萄酒与烈酒集团，总部位于巴黎。旗下拥有绝对伏特加、芝华士、百龄坛、马爹利等品牌，业务覆盖生产、分销与品牌运营。
 
-![保乐力加 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![保乐力加 栏目示意图](/media/figures/specific/producer-pernod-ricard.svg)
 
 图：保乐力加栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

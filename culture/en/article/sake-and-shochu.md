@@ -5,7 +5,7 @@ type: article
 lang: en
 slug: sake-and-shochu
 title: "Sake and shochu: both Japanese, but different crafts"
-summary: Sake is a brewed drink and shochu is a distilled one, yet Chinese-language readers often treat them as the same. This article explains their raw materials, fermentation, distillation, categories and drinking styles, and decodes common label terms.
+summary: Sake is a brewed drink and shochu is a distilled one, yet Chinese-language readers often treat them as the same. This essay explains their raw materials, fermentation, distillation, categories and drinking styles, and decodes common label terms.
 status: reviewed
 revision: 2
 translation_of: culture-article:sake-and-shochu
@@ -81,7 +81,7 @@ sources:
     title: Encyclopaedia Britannica
     url: https://www.britannica.com/
     publisher: Encyclopaedia Britannica
-    note: General background reference for Japanese drinks and brewing history; no entry text is quoted on this page.
+    note: General background reference for Japanese drinks and brewing history; no entry text is quoted on this essay.
     accessed: 2026-11-07
 rights:
   status: allowed
@@ -126,9 +126,9 @@ First, sake is shochu. Sake is brewed and shochu is distilled; the craft and fla
 
 ## Controversies and limits
 
-The discussion has its own boundaries. One is naming and translation: Chinese “sake”, “shochu” and “nihonshu” do not map one-to-one onto Japanese concepts, and translation can lose tax and category information. Another is raw material and origin protection: shochu raw materials, distillation methods and geographical names are being protected, and the rules follow official Japanese texts. A third is the market: sake's domestic consumption and exports behave differently, while shochu has had different waves of popularity; these trends need data, and this page makes no estimates. A fourth is drinking advice: temperature, dilution ratio and food pairing vary by person and occasion, and there is no single answer.
+The discussion has its own boundaries. One is naming and translation: Chinese “sake”, “shochu” and “nihonshu” do not map one-to-one onto Japanese concepts, and translation can lose tax and category information. Another is raw material and origin protection: shochu raw materials, distillation methods and geographical names are being protected, and the rules follow official Japanese texts. A third is the market: sake's domestic consumption and exports behave differently, while shochu has had different waves of popularity; these trends need data, and this essay makes no estimates. A fourth is drinking advice: temperature, dilution ratio and food pairing vary by person and occasion, and there is no single answer.
 
-This page therefore does not prescribe “the right way” to drink either one, nor rank one category above another. For a specific product's category, alcohol content, raw materials and storage, follow the label and the producer; for tax and labelling rules, follow official Japanese publications.
+This essay therefore does not prescribe “the right way” to drink either one, nor rank one category above another. For a specific product's category, alcohol content, raw materials and storage, follow the label and the producer; for tax and labelling rules, follow official Japanese publications.
 
 ## How to use it
 

@@ -5,7 +5,7 @@ type: article
 lang: en
 slug: hops-and-bitterness
 title: "Hops and bitterness: what IBU can and cannot tell you"
-summary: Hops bring bitterness, aroma and keeping quality, and IBU is a measure of iso-alpha-acid concentration. This article explains how bitterness arises, how IBU is measured, and why “higher IBU means more bitter” is unreliable.
+summary: Hops bring bitterness, aroma and keeping quality, and IBU is a measure of iso-alpha-acid concentration. This essay explains how bitterness arises, how IBU is measured, and why “higher IBU means more bitter” is unreliable.
 status: reviewed
 revision: 2
 translation_of: culture-article:hops-and-bitterness
@@ -75,7 +75,7 @@ sources:
     title: Encyclopaedia Britannica
     url: https://www.britannica.com/
     publisher: Encyclopaedia Britannica
-    note: General background reference for hops, brewing and beer history; no entry text is quoted on this page.
+    note: General background reference for hops, brewing and beer history; no entry text is quoted on this essay.
     accessed: 2026-11-07
 rights:
   status: allowed
@@ -122,7 +122,7 @@ First, higher IBU means more bitter. IBU correlates with sensory bitterness, but
 
 Some disputes come from measurement: there is more than one IBU method, and sample handling and instrument conditions affect results; producer figures may also be calculated rather than measured. Others come from style: ranges in style guidelines are descriptive tools, not legal standards, and classifications differ between countries and organisations. Others come from agriculture: alpha-acid content varies with variety, year, origin and processing, so the same recipe can produce different bitterness between batches.
 
-This page therefore does not treat any IBU figure as a quality criterion, nor bitterness as the only measure of a style. A specific product's IBU, hop varieties and addition schedule should follow the producer's published information; style definitions and classifications should follow the organisation that publishes them.
+This essay therefore does not treat any IBU figure as a quality criterion, nor bitterness as the only measure of a style. A specific product's IBU, hop varieties and addition schedule should follow the producer's published information; style definitions and classifications should follow the organisation that publishes them.
 
 ## How to use it
 
@@ -136,7 +136,7 @@ Put [Beer](ref:beer)'s topic next to [Malting](ref:malting)'s evidence; the diff
 
 | Item | Detail |
 | --- | --- |
-| In one line | Hops bring bitterness, aroma and keeping quality, and IBU is a measure of iso-alpha-acid concentration. This article explains how bitterness arises, how IBU is measured, and why “higher IBU means more bitter” is unreliab… |
+| In one line | Hops bring bitterness, aroma and keeping quality, and IBU is a measure of iso-alpha-acid concentration. This essay explains how bitterness arises, how IBU is measured, and why “higher IBU means more bitter” is unreliab… |
 | Topics | beer、hops、bitterness、brewing |
 | Period | modern era |
 

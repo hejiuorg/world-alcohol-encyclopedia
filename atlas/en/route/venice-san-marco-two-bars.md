@@ -130,9 +130,9 @@ For timing, start in the late afternoon: sit on the square for a while, then mov
 
 ## Boundaries
 
-Opening hours, menus, prices, seating rules, dress requirements and temporary closures are set by the two venues' official channels; this page does not guarantee any particular day's opening. Historical visits and “the seat where so-and-so used to sit” are background narrative, not a statement about current quality.
+Opening hours, menus, prices, seating rules, dress requirements and temporary closures are set by the two venues' official channels; this route does not guarantee any particular day's opening. Historical visits and “the seat where so-and-so used to sit” are background narrative, not a statement about current quality.
 
-For Venice: two bars around Piazza San Marco, this page provides neither a map nor coordinates: the two venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map, only to describe the walking relationship in words. For precise navigation, use a live map service and follow on-site signage.
+For Venice: two bars around Piazza San Marco, this route provides neither a map nor coordinates: the two venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map, only to describe the walking relationship in words. For precise navigation, use a live map service and follow on-site signage.
 
 Further reading: [Reading a city through its bars](ref:c-extra-1), [A history of taverns: from wine shops and inns to bars](ref:c-extra-2), [Italy](ref:c-extra-3).
 

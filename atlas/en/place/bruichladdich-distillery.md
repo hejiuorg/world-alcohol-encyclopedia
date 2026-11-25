@@ -94,16 +94,31 @@ verification_scope: source-verified
 translation_of: place:bruichladdich-distillery
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ee4f55b38e70d17d548fa610c3a0db603286eae9ff964b7d8ae235b663aa20cc
-source_sha256: ee4f55b38e70d17d548fa610c3a0db603286eae9ff964b7d8ae235b663aa20cc
+source_revision: sha256:651cb7a8b8130756a82845fc888edce74c20be5b480720252192bed417b54df6
+source_sha256: 651cb7a8b8130756a82845fc888edce74c20be5b480720252192bed417b54df6
 ---
 # Bruichladdich Distillery
 
 Drive west from Bowmore and the road follows the south shore of Loch Indaal: grey-blue water on the left, low grass banks and white distillery buildings on the right. Bruichladdich has none of the grand gateways some distilleries build. It looks like a working Victorian factory—white walls, black window frames, a tall chimney, and the words “PROGRESSIVE HEBRIDEAN DISTILLERS / BRUICHLADDICH / SINCE 1881” painted across the wall. The wind is strong, the sea is close, and the smell of the distillery mixes with salt.
 
+> **Visit information**
+> - Address: Bruichladdich, Isle of Islay PA49 7UN, Scotland.
+> - Opening and booking: check the [official page](https://www.bruichladdich.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
+
 ![White-washed Bruichladdich distillery buildings](/media/photos/place-bruichladdich-distillery-549954a1.jpg)
 
 Figure: The white-washed distillery buildings and entrance at Bruichladdich, beside Loch Indaal. Image: Fumaro, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bruichladdich-Islay.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Bruichladdich Distillery deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Bruichladdich Distillery who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Bruichladdich was built in 1881 by the Harvey brothers William, John and Robert.
+>   - For a first visit, the 90-minute Guided Distillery Tour is the safest choice: production buildings, stills, warehouses and a few basic drams.
 
 ## Location and history
 

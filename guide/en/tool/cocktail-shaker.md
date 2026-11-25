@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:cocktail-shaker
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:689c3c395571926e94aa55d0da4395ba85a66f423269f3d4fec872b56ab9ef37
-source_sha256: 689c3c395571926e94aa55d0da4395ba85a66f423269f3d4fec872b56ab9ef37
+source_revision: sha256:f6fd490e074afcef53c6645462fe14ed5ea0613cc355e3b3d0fc79f69b2a4b7f
+source_sha256: f6fd490e074afcef53c6645462fe14ed5ea0613cc355e3b3d0fc79f69b2a4b7f
 materials:
   - stainless steel
   - glass
@@ -42,7 +42,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the method for shaken cocktails; no source text is reproduced.
     accessed: 2026-11-04

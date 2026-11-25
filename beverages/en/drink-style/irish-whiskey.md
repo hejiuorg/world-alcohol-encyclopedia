@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:irish-whiskey
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:975af0d1ed4c320ce247bc6708239c6133819d2279c396273e43fde1541feed8
-source_sha256: 975af0d1ed4c320ce247bc6708239c6133819d2279c396273e43fde1541feed8
+source_revision: sha256:0b9b701b73430dae7b9a6a1160ad59a26eb641adaa7072a5a1681e9ff876ea87
+source_sha256: 0b9b701b73430dae7b9a6a1160ad59a26eb641adaa7072a5a1681e9ff876ea87
 legacy_refs: []
 parent_style_id: drink-style:whisky
 aroma_family: cereal and fruit
@@ -75,7 +75,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English page verified against an Irish industry body, EU legislation and a reference work; no source text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 
@@ -86,6 +86,15 @@ Irish whiskey is one of Ireland's oldest distilled drinks. It is protected as a 
 ![Irish whiskey image](/media/photos/drink-style-irish-whiskey-60f1511e.jpg)
 
 Figure: Irish whiskey. Image: Hammersbach, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:GoodIrishWhiskeys.jpg)).
+
+> **Quick verdict**
+> **In one line:** This style places Irish whiskey on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Irish whiskey with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - Distilling in Ireland goes back to medieval monasteries.
+>   - Neat is the best way to judge the balance of cereal, fruit, spice and cask.
 
 ## Definition and legal rules
 
@@ -131,7 +140,7 @@ These are industrial landmarks, not flavour guarantees. One distillery can run s
 
 ## Examples
 
-Common examples include Jameson, Bushmills, Tullamore D.E.W., Powers, Redbreast, Green Spot, Kilbeggan and Connemara. They cover blended, single malt, single pot still and peated styles. The category, cask type and age of a particular bottle should be read from its label; this page does not rank brands or batches.
+Common examples include Jameson, Bushmills, Tullamore D.E.W., Powers, Redbreast, Green Spot, Kilbeggan and Connemara. They cover blended, single malt, single pot still and peated styles. The category, cask type and age of a particular bottle should be read from its label; this style does not rank brands or batches.
 
 When buying, read the category first, then whether the whiskey is from a single distillery, its raw-material structure and its distillation method, and finally its age, cask type and strength. Blended whiskey suits everyday drinking and mixing; single pot still rewards attention to cereal and spice; single malt is useful for comparing distillery styles; cask-strength versions benefit from a little water.
 

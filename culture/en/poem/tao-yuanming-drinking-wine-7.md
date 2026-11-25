@@ -76,7 +76,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; checked against a public classical text and the poet's work catalogue, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page. The translation on this page is the project's own rendering, not an authoritative translation.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry. The translation on this poem entry is the project's own rendering, not an authoritative translation.
 verification_scope: source-verified
 ---
 
@@ -99,7 +99,7 @@ The poem has ten lines. Only the key passages are given here, with a plain rende
 
 “Wet with dew” is literally “soaked in dew”; “pick” is to pluck; “petals” is the flower's bloom. The opening fixes time, action and colour: the autumn chrysanthemums are beautiful, and the poet picks the petals before the dew dries. “Float” can mean floating the petals on the wine or steeping the chrysanthemum in it; “the thing that forgets care” is an old name for wine. Later the poem says “one cup, though drunk alone, / the cup empties and the pot pours itself out”, then sunset and returning birds, and closes with “whistling proudly under the eastern gallery, / I have, for now, got this life”. Variants: “drunk alone” is sometimes “offered alone”, “returning birds” sometimes “flying birds”, “eastern gallery” sometimes “eastern window”. The received text is followed here.
 
-(The translation on this page is the project's own rendering, not an authoritative translation.)
+(The translation on this poem entry is the project's own rendering, not an authoritative translation.)
 
 ## The poet and background
 

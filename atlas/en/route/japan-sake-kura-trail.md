@@ -111,8 +111,8 @@ stop_ids:
     note: In Kurakake, Nishinomiya, see Hakushika's brewing spaces and vessel collection, and add the Nada transport background.
 mode: rail-walk
 updated_at: 2026-11-08
-source_sha256: 7a57cecbdf7d652ecd9d80974c4caacc3c86e31e693863640a657ca4550cb14d
-source_revision: sha256:7a57cecbdf7d652ecd9d80974c4caacc3c86e31e693863640a657ca4550cb14d
+source_sha256: 1b8cc4467d8b617f4bfc6419b15b588d7d91fb127dd2cb6547641c3da3eed6d7
+source_revision: sha256:1b8cc4467d8b617f4bfc6419b15b588d7d91fb127dd2cb6547641c3da3eed6d7
 ---
 
 # Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya
@@ -122,6 +122,15 @@ This route puts two fermented drinks side by side: malt whisky at Yamazaki and s
 !["Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya" category image](/media/photos/place-hakushika-sake-museum-47d034a5.jpg)
 
 Figure: "Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya". Photograph: File:Hakushika Memorial Museum02st3200.jpg. Credit: 663highland, CC BY 2.5 ([source page](https://commons.wikimedia.org/wiki/File:Hakushika_Memorial_Museum02st3200.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Yamazaki Distillery, 5-2-1 Yamazaki, Shimamoto-cho, Mishima-gun, Osaka 618-0001, founded in 1923 by Shinjiro Torii and Japan's first malt whisky distillery.
+>   - The comparison between sake and whisky is easily reduced to “sake is light, whisky is strong”.
 
 ## Route overview
 
@@ -187,7 +196,7 @@ First, a distillery and a kura are production or preservation sites, not bars. D
 
 Fourth, read the years and identities correctly. Yamazaki's 1923 is the founding year and 1924 the start of production; Gekkeikan's 1637 is the founding year, while the Okura building and the museum opening are different dates; Hakushika's 1662 is the founding year, and the museum display system came later. Fifth, distinguish sake, shochu and whisky: sake is brewed, shochu is distilled, and whisky is distilled and then matured in oak; do not apply one tasting vocabulary to all three.
 
-For Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya, this page does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
+For Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya, this route does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 ## Alternatives and extensions
 
@@ -200,6 +209,6 @@ Westwards the route reaches the Nada kura in Kobe; northwards, the kura of north
 - [Yamazaki Distillery](ref:yamazaki): the beginning of Japanese malt whisky, stills and maturation.
 - [Gekkeikan Okura Sake Museum](ref:gekkeikan): Fushimi's soft water, kura architecture and sake brewing.
 - [Hakushika Sake Museum](ref:hakushika): Nishinomiya and Nada brewing history, and the vessel collection.
-- For background, consult the Japan region, sake, whisky and sake-and-shochu entries in the content repository; this page does not register further references.
+- For background, consult the Japan region, sake, whisky and sake-and-shochu entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.

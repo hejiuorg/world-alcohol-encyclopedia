@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-vougeot
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2931c7ff92c89d6b347bcbfac5ace2f827077e41647f98096992d43149109dda
-source_sha256: 2931c7ff92c89d6b347bcbfac5ace2f827077e41647f98096992d43149109dda
+source_revision: sha256:73f12dc4639cda53e69e71bfe4c3f8f307146ec1365767c0ee7a6f9f090b170c
+source_sha256: 73f12dc4639cda53e69e71bfe4c3f8f307146ec1365767c0ee7a6f9f090b170c
 style_refs:
   - drink-style:red-wine
   - drink-style:white-wine
@@ -99,6 +99,15 @@ On the map, Vougeot is a small village with few inhabitants in the middle of the
 ![Vougeot image](/media/photos/drink-france-vougeot-66db79a6.jpg)
 
 Figure: Vougeot. Image: Wikimedia Commons contributor, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chateau_du_clos_de_Vougeot_2.JPG)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Vougeot suits you, and how to serve and pair it.
+>
+> - **Best for:** Anyone trying to understand what Vougeot is, how it is served and when it fits.
+> - **Not for:** If you want only want the cheapest buying link and do not care about flavour or context.
+> - **Check first:**
+>   - Village-level Vougeot is scarce and usually priced close to a neighbouring village's premier cru.
+>   - It helps to separate three levels: red wine and white wine are the categories, Pinot Noir and Chardonnay are the varieties, Vougeot is the appellation (AOC).
 
 ## A stone wall and a village out of step
 

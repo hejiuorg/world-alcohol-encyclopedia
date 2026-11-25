@@ -11,8 +11,8 @@ revision: 1
 translation_of: cocktail:french-75
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8d5232f6ee42b96197916c1de9ee5762287b96f047326c9cc2f5033c4dacdd3f
-source_sha256: 8d5232f6ee42b96197916c1de9ee5762287b96f047326c9cc2f5033c4dacdd3f
+source_revision: sha256:4229b52e3604418e21265766dac8fec68fb6ac3b97e1c283a7416146c1a97c7e
+source_sha256: 4229b52e3604418e21265766dac8fec68fb6ac3b97e1c283a7416146c1a97c7e
 style: Classic cocktail
 ingredient_refs: []
 origin_place: Paris, France (commonly traced to Harry's New York Bar, 1915)
@@ -53,7 +53,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official proportions, method and glassware; no source text is reproduced.
     accessed: 2026-11-07
@@ -101,11 +101,20 @@ The French 75 is a sparkling short drink made by shaking [gin](ref:gin), lemon j
 
 Figure: A French 75 in a flute, with golden liquid, fine bubbles and a lemon garnish. Image: Gary J Wood, CC BY-SA 2.0, via [source page](https://commons.wikimedia.org/wiki/File:French_75.jpg).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order French 75, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind French 75.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - The French 75 is roughly 14% to 16% ABV, close to a fortified wine, but the bubbles, acidity and low temperature hide the alcohol.
+>   - Order a "French 75" and confirm whether the base is gin or Cognac.
+
 ## A name borrowed from a field gun
 
 The name comes from the [French](ref:france) 75 mm field gun used by the French army before and during the First World War, officially the Canon de 75 modèle 1897. The gun was known for its rate of fire and mobility and became a symbol of French artillery. Naming a sparkling cocktail after it was a joke about a drink that goes down easily but arrives with a kick. The 75 in the name is neither a year nor an alcohol percentage; it is the calibre.
 
-The name settled into newspapers and cocktail books in the early 20th century. Accounts differ about the exact year and the person who first used it, so this page says "commonly traced to the First World War" rather than treating one date as the only answer. What is clear is that the name belongs to the public image of the gun, not to a French event in the year 75.
+The name settled into newspapers and cocktail books in the early 20th century. Accounts differ about the exact year and the person who first used it, so this cocktail says "commonly traced to the First World War" rather than treating one date as the only answer. What is clear is that the name belongs to the public image of the gun, not to a French event in the year 75.
 
 There are spelling variants as well. French sources may write Soixante-Quinze, English sources usually write French 75, and some menus close the space as French75. The same name can cover different recipes, so it is worth asking whether the base is gin or Cognac and whether syrup is included.
 

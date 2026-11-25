@@ -120,8 +120,8 @@ To read Filtration, start with where the term is used, then what it is contraste
 
 **At a glance:** Filtration passes wine through a medium that physically retains particles and microorganisms; depth and surface filtration differ in structure, and filtration affects clarity, stability and flavour but is not the same as fining.
 
-**Read alongside.** Put Filtration next to Fining, Lees, Cork taint: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Filtration next to Fining, Lees, Cork taint: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Filtration are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check the place of filtration in oenological terminology), Oxford University Press (Used for entries on filtration, sterile filtration and unfined/unfiltered wine), The Australian Wine Research Institute and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Filtration, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Filtration, this term was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

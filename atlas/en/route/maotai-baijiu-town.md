@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:maotai-baijiu-town
 source_lang: zh
-source_revision: sha256:561cd77d159cb39673b5e1c3efd8527e3170397220bbca7cf23baf378f56f718
-source_sha256: 561cd77d159cb39673b5e1c3efd8527e3170397220bbca7cf23baf378f56f718
+source_revision: sha256:134c8f4dcce6d032adeb4fd91dd8a745e5d970228bb58967368b799c2271a7fc
+source_sha256: 134c8f4dcce6d032adeb4fd91dd8a745e5d970228bb58967368b799c2271a7fc
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -111,6 +111,15 @@ Maotai Town is small, but visitors often stop at two extremes: the China Liquor 
 
 Figure: "Maotai Town baijiu route: from the Culture City to the distillery". Photograph: File:Huangguoshu Waterfall in October 2020, Picture12.jpg. Credit: Huangdan2060, CC BY 3.0 ([source page](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This route helps you plan Maotai Town baijiu route: from the Culture City to the distillery, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Maotai Town baijiu route: from the Culture City to the distillery into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: China Liquor Culture City, Maotai Town, Renhuai, Zunyi, Guizhou, inside the Maotai distillery compound.
+>   - Maotai Town sits in the Chishui River valley, with an average elevation given by the official profile as 423 metres.
+
 ## Route overview
 
 - Stop one: [China Liquor Culture City](ref:culture-city), Maotai Town, Renhuai, Zunyi, Guizhou, inside the Maotai distillery compound; built by Moutai Group between 1993 and 1997 and rated a national 4A scenic site.
@@ -161,7 +170,7 @@ Bookings fall into three categories: the Culture City ticket, bought through off
 
 Control the amount you taste. Sauce-aroma baijiu is usually 53% ABV; 10 millilitres of Flying Moutai or fifteen-year Moutai is enough to read the aroma and palate. Do not pressure others to drink or compete over quantities, and spit what you do not want. Do not drive after tasting: Maotai Town's roads are steep and winding, so a taxi or designated driver is safer.
 
-Buy through recognised channels. Moutai Group and Kweichow Moutai have repeatedly issued purchase notices telling consumers to use official channels; offline there are self-operated and specialist stores, online there are official channels. Do not buy "internal supply" or "employee wine" from people at the gate, and do not believe anyone who says they can get you into the plant. Prices vary by product, vintage and channel; this page gives no prices.
+Buy through recognised channels. Moutai Group and Kweichow Moutai have repeatedly issued purchase notices telling consumers to use official channels; offline there are self-operated and specialist stores, online there are official channels. Do not buy "internal supply" or "employee wine" from people at the gate, and do not believe anyone who says they can get you into the plant. Prices vary by product, vintage and channel; this route gives no prices.
 
 ## Etiquette, seasons and safety
 
@@ -169,6 +178,6 @@ The plant is a production site, not a theme park. Cooperate with security and st
 
 Spring and autumn are the most comfortable seasons. Summer in the valley is hot and humid, with a lot of walking, so bring water and a hat. Winter is damp and cold, and the temperature difference between cellars and exhibition halls is noticeable, so bring a light layer. Holidays and summer are busy, so book ahead; mountain roads are slippery in the rain.
 
-This page was verified on 2026-11-08; opening hours, tickets, tastings, sales channels, transport schedules and prices are subject to official channels, and no map is provided here. Placed in the context of the [China Liquor Culture City](ref:culture-city) and the [Maotai distillery](ref:maotai), the route shows how the Chishui valley binds climate, raw materials, craft and time: understand the process chain in the museum first, then read the production area and its boundaries in the valley.
+This route was verified on 2026-11-08; opening hours, tickets, tastings, sales channels, transport schedules and prices are subject to official channels, and no map is provided here. Placed in the context of the [China Liquor Culture City](ref:culture-city) and the [Maotai distillery](ref:maotai), the route shows how the Chishui valley binds climate, raw materials, craft and time: understand the process chain in the museum first, then read the production area and its boundaries in the valley.
 
 Further reading: [Guizhou](ref:c-extra-1).

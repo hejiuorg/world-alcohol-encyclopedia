@@ -124,7 +124,7 @@ Taste in a small cup: smell the resting aroma, then swirl and smell again. Let t
 
 Jiannanchun has several series and vintage products with different positioning and body design. The producer, aroma type, strength, standard and volume on the label are the basics for verifying identity. Counterfeits and similar names exist, so buy through official channels and check anti-counterfeit information.
 
-For Jiannanchun, terms such as "vintage" and "aged" must be read with company standards and labels. Bottle ageing and jar ageing change at different rates, and home storage cannot easily reproduce distillery conditions, so purchase year is not the same as quality. Price movements are market behaviour, and this page gives no collecting or investment advice.
+For Jiannanchun, terms such as "vintage" and "aged" must be read with company standards and labels. Bottle ageing and jar ageing change at different rates, and home storage cannot easily reproduce distillery conditions, so purchase year is not the same as quality. Price movements are market behaviour, and this entry gives no collecting or investment advice.
 
 ## Drinking and pairing
 

@@ -122,7 +122,7 @@ Fourth, it left room for the further localisation of shaojiu in the Qing. Raw ma
 
 ## Sources and disputes
 
-First, the extent of Ming shaojiu use is easily exaggerated. The surviving materials are mainly medical books, notebooks and novels, without output, tax or consumption statistics; to say that 'Ming shaojiu had already replaced huangjiu' is not supported. This page positions it only as 'huangjiu first, shaojiu second'.
+First, the extent of Ming shaojiu use is easily exaggerated. The surviving materials are mainly medical books, notebooks and novels, without output, tax or consumption statistics; to say that 'Ming shaojiu had already replaced huangjiu' is not supported. This essay positions it only as 'huangjiu first, shaojiu second'.
 
 Second, the regional character of the Jin Ping Mei needs explanation. The story is set in Qinghe, Shandong, under a borrowed name, and its material is mainly northern, yet the book lists Jinhua wine, Zhejiang wine, Magu wine and southern bean wine among many huangjiu; it can reflect the wine structure of a northern market town, but it is not a national sample.
 

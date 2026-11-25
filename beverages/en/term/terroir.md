@@ -127,7 +127,7 @@ In China, [baijiu](ref:baijiu) narratives also emphasise climate, water, microbi
 
 **Sources and limits.** The key claims about Terroir are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check the place of climate, soil, variety and local tradition in the definition of wine), Oxford University Press (Used for entries on terroir, appellations and tasting), INAO (Used to check the French appellation system and its administering body) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Terroir next to Wine, Baijiu, Burgundy: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Terroir next to Wine, Baijiu, Burgundy: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

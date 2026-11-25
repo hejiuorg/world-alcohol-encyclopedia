@@ -136,7 +136,7 @@ For Meng Zhi Lan M9, taste from a small cup: smell at rest, then gently swirl an
 
 Common public corporate milestones are: the group was founded in May 1997, the joint-stock company was established in December 2002, and it was listed in November 2009. Blue Classic represents the brand's move upmarket, and M9 has long sat in the high-end price band.
 
-Prices change with year, channel and supply and demand, and this page gives no figures. Treating a product code as a vintage, or treating gift packaging as a body upgrade, are common misreadings. Company history, brand age and product age should be read separately.
+Prices change with year, channel and supply and demand, and this entry gives no figures. Treating a product code as a vintage, or treating gift packaging as a body upgrade, are common misreadings. Company history, brand age and product age should be read separately.
 
 ## Buying and storage
 

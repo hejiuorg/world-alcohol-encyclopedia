@@ -127,8 +127,8 @@ The comparison with [Sweet](ref:sweet) and [Late harvest](ref:late-harvest) runs
 
 **Short definition:** Noble rot is infection of ripe grapes by Botrytis cinerea under humid nights and dry, sunny days, which shrinks the fruit and concentrates sugar, acid and flavour; it makes Sauternes and Tokaji-style sweet wines but differs from grey rot in persistently wet conditions.
 
-**Read alongside.** Put Noble rot next to Sweet, Aroma, Late harvest: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Noble rot next to Sweet, Aroma, Late harvest: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Noble rot are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check noble-rot and sweet-wine terminology), Oxford University Press (Used for entries on noble rot, Botrytis cinerea and botrytised wines), Sauternes Barsac AOC (Used to check the microclimate, variety shares and repeated selective picking in Sauternes and Barsac) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Noble rot, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Noble rot, this term was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

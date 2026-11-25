@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:bavaria-beer-trail
 source_lang: zh
-source_revision: sha256:48211787e9bf592a6ad6349fd0b7fc9981ce4afaad15000a2db0f408072be569
-source_sha256: 48211787e9bf592a6ad6349fd0b7fc9981ce4afaad15000a2db0f408072be569
+source_revision: sha256:b518bd55cba3f4998ece329f869007778daed9761a38d0d019f7363c460ed1e3
+source_sha256: b518bd55cba3f4998ece329f869007778daed9761a38d0d019f7363c460ed1e3
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -109,6 +109,15 @@ This route places three spaces of Bavarian beer culture side by side: the state-
 
 Figure: Bavaria beer trail: Munich to Bamberg. Photograph: File:Oaxaqa (41).jpg. Credit: Prsjl, CC BY-SA 4.0, via the site archive ([source](https://commons.wikimedia.org/wiki/File:Oaxaqa_(41).jpg)). Category photograph used to illustrate the subject; not an official product image.
 
+> **Quick verdict**
+> **In one line:** This route helps you plan Bavaria beer trail: Munich to Bamberg, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Bavaria beer trail: Munich to Bamberg into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Hofbräuhaus, Platzl 9, 80331 München, founded in 1589 by Duke Wilhelm V of Bavaria and opened to the public in 1828.
+>   - The Hofbräuhaus represents the beer hall.
+
 ## Route overview
 
 - Stop one: [Hofbräuhaus](ref:hofbrauhaus), Platzl 9, 80331 München, founded in 1589 by Duke Wilhelm V of Bavaria and opened to the public in 1828.
@@ -193,6 +202,6 @@ Fourth, ask before sharing a table. At a long table, ask “Ist hier frei?” an
 
 Fifth, read the historical dates correctly. The Hofbräuhaus's 1589 is the founding of the court brewery, and it opened to the public only in 1828; Augustiner's 1328 is the first documentary mention of monastic brewing, not the registration of a modern company; Schlenkerla's 1405 is the first documentary mention of the property and the pub, not “six centuries of continuous brewing”.
 
-Sixth, this page describes the structure of the route and verifiable facts only. It does not provide live opening status, trains or fares, a map or coordinates: the three venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation and trains, use live map and rail enquiry services and follow on-site signage.
+Sixth, this route describes the structure of the route and verifiable facts only. It does not provide live opening status, trains or fares, a map or coordinates: the three venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation and trains, use live map and rail enquiry services and follow on-site signage.
 
 Further reading: [Alsace Grand Cru trail: Kaysersberg and Riquewihr](ref:c-extra-1), [Armagnac trail: single estates of Bas-Armagnac](ref:c-extra-2).

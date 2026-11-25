@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:laobaigan-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:01538309a478664e0a63639f346527a8516934662968c4dbf47d676c4eb0dfd0
-source_sha256: 01538309a478664e0a63639f346527a8516934662968c4dbf47d676c4eb0dfd0
+source_revision: sha256:c0e6b9c1a00570ee61955964769bbe82cac639a145dd6a9b9bf31936d8d1fb06
+source_sha256: c0e6b9c1a00570ee61955964769bbe82cac639a145dd6a9b9bf31936d8d1fb06
 parent_style_id: drink-style:baijiu
 aroma_family: Laobaigan aroma
 legacy_refs: []
@@ -105,12 +105,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public national-standard information, company publications and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standard texts, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standard texts, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Laobaigan-aroma baijiu
 
-Laobaigan-aroma baijiu is one of the aroma styles within [baijiu](ref:baijiu), represented above all by Hengshui Laobaigan in Hebei. The national standard GB/T 10781.10-2024, Quality requirements for baijiu — Part 10: Laobaiganxiangxing baijiu, was published on 2024-11-28 and took effect on 2025-12-01, fully replacing GB/T 20825-2007. It uses [sorghum](ref:sorghum) as the main material, wheat-based clear-branch qu as the saccharifying starter, and is commonly described as using ground-jar fermentation and separate steaming of grain and mash.![Laobaigan-aroma baijiu thematic illustration](/media/photos/theme-asian.jpg)
+Laobaigan-aroma baijiu is one of the aroma styles within [baijiu](ref:baijiu), represented above all by Hengshui Laobaigan in Hebei. The national standard GB/T 10781.10-2024, Quality requirements for baijiu — Part 10: Laobaiganxiangxing baijiu, was published on 2024-11-28 and took effect on 2025-12-01, fully replacing GB/T 20825-2007. It uses [sorghum](ref:sorghum) as the main material, wheat-based clear-branch qu as the saccharifying starter, and is commonly described as using ground-jar fermentation and separate steaming of grain and mash.![Laobaigan-aroma baijiu thematic illustration](/media/figures/specific/drink-style-laobaigan-aroma-baijiu.svg)
 
 Figure: thematic illustration for Laobaigan-aroma baijiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

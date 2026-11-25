@@ -78,9 +78,9 @@ verification_scope: source-verified
 
 单宁（tannin，也称鞣质）是一类广泛存在于植物中的多酚化合物。它们能与蛋白质结合，因而带来“涩”或“干”的口感，也在制革、染色和墨水制造中有长期应用。在葡萄酒语境里，单宁主要来自葡萄果皮、种子和果梗，也可能来自橡木桶。
 
-![单宁（tannin） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![单宁（tannin） 类型示意图](/media/figures/specific/term-tannin.svg)
 
-图：单宁（tannin） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是单宁（tannin）的实拍。
+图：单宁（tannin） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 化学上是什么
 

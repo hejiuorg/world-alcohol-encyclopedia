@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against publisher pages, the author’s official site and wine-education material, without reproducing text, maps or charts. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, maps and charts are not covered by this licence; sources are cited for verification only. The image on this page shows a Napa Valley vineyard in autumn, not the book cover.
+  note: The original text, maps and charts are not covered by this licence; sources are cited for verification only. The image on this book entry shows a Napa Valley vineyard in autumn, not the book cover.
 verification_scope: source-verified
 source_sha256: fc4cdc5d4f460a4e80c9e6e548ffc4f0e6bdbade93907bec3747b37e3da2a8f4
 source_revision: sha256:fc4cdc5d4f460a4e80c9e6e548ffc4f0e6bdbade93907bec3747b37e3da2a8f4

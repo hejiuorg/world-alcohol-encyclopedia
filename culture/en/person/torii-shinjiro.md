@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:torii-shinjiro
 source_lang: zh
-source_revision: sha256:cf349ef6ddcb98adf94848232aecca4554e7b8993868a2d2ebfe0c8b70cdbe0c
-source_sha256: cf349ef6ddcb98adf94848232aecca4554e7b8993868a2d2ebfe0c8b70cdbe0c
+source_revision: sha256:b009350ea7af74b2b254c445144f3254a0bef8e47075ab6a4aa90aca79ab5331
+source_sha256: b009350ea7af74b2b254c445144f3254a0bef8e47075ab6a4aa90aca79ab5331
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1879
@@ -92,6 +92,15 @@ Shinjiro Torii (1879–1962) was a Japanese entrepreneur and the founder of Sunt
 ![Copper pot stills at Yamazaki Distillery](/media/photos/person-torii-shinjiro-58b2e069.jpg)
 
 Figure: Copper pot stills at Yamazaki Distillery. Image: Toukou Sousui, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Yamazaki_Distillery_%E5%B1%B1%E5%B4%8E%E8%92%B8%E7%95%99%E6%89%8017.jpg)).
+
+> **Quick verdict**
+> **In one line:** This profile explains why Shinjiro Torii is remembered, and which works to look at first.
+>
+> - **Best for:** Anyone trying to understand what Shinjiro Torii did and why the drink world remembers them.
+> - **Not for:** If you want only want anecdotes and do not care about historical position.
+> - **Check first:**
+>   - Torii was born in Osaka in 1879.
+>   - Torii hired Masataka Taketsuru at the Yamazaki build.
 
 ## From Osaka liquor shop to whisky pioneer
 

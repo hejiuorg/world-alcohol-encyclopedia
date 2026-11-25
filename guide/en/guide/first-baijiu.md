@@ -11,8 +11,8 @@ revision: 2
 translation_of: guide:first-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4d21da78d6e4796bcbd6b229cf27a8af15be34b76dc6d2f720b1b498c3abe821
-source_sha256: 4d21da78d6e4796bcbd6b229cf27a8af15be34b76dc6d2f720b1b498c3abe821
+source_revision: sha256:e5a234ebc4124a25d1b4cb59ec95d0501df7f0eb0ade2d45b2b8d67c023b6793
+source_sha256: e5a234ebc4124a25d1b4cb59ec95d0501df7f0eb0ade2d45b2b8d67c023b6793
 about_refs:
   - drink-style:baijiu
 audience: Readers buying baijiu for the first time, or trying to understand how to choose a bottle.
@@ -83,16 +83,43 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against national standards and reference works, and no promotional copy is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 # Choosing your first baijiu
 
 The most common mistake when buying baijiu is looking only at price or packaging. A more useful order is to fix the occasion first, then choose aroma type and strength, and finally check the label and channel. The table and steps below turn that into practical actions.
 
-![Choosing your first baijiu thematic illustration](/media/photos/theme-asian.jpg)
+![Choosing your first baijiu thematic illustration](/media/figures/specific/guide-first-baijiu.svg)
 
 Figure: thematic illustration for Choosing your first baijiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Topic guide: baijiu from first bottle to origin**
+> - [Choosing your first baijiu](https://hejiu.org/en/guides/first-baijiu/)
+> - [Baijiu](https://beverages.hejiu.org/en/styles/baijiu/)
+> - [Sauce-aroma baijiu](https://beverages.hejiu.org/en/styles/sauce-aroma-baijiu/)
+> - [Strong-aroma baijiu](https://beverages.hejiu.org/en/styles/strong-aroma-baijiu/)
+> - [Light-aroma baijiu](https://beverages.hejiu.org/en/styles/light-aroma-baijiu/)
+> - [Baijiu aroma systems](https://culture.hejiu.org/en/articles/baijiu-aroma-systems/)
+> - [Maotai distillery](https://atlas.hejiu.org/en/places/maotai-distillery/)
+> - [Hotpot with baijiu](https://hejiu.org/en/pairings/hotpot-baijiu/)
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Fix the occasion and budget first:** Ask three questions: is this for everyday drinking, a family meal, a gathering with friends, or a gift?
+> - **Learn the aroma types before the brands:** Baijiu is classified by aroma type, with strong aroma, light aroma, sauce aroma and rice aroma among the common ones.
+> - **Strength, volume and label:** Alcohol by volume is commonly 38%–53%.
+
+> **Topic guide: baijiu from first bottle to origin**
+> - [Choosing your first baijiu](https://hejiu.org/en/guides/first-baijiu/)
+> - [Baijiu](https://beverages.hejiu.org/en/styles/baijiu/)
+> - [Sauce-aroma baijiu](https://beverages.hejiu.org/en/styles/sauce-aroma-baijiu/)
+> - [Strong-aroma baijiu](https://beverages.hejiu.org/en/styles/strong-aroma-baijiu/)
+> - [Light-aroma baijiu](https://beverages.hejiu.org/en/styles/light-aroma-baijiu/)
+> - [Baijiu aroma systems](https://culture.hejiu.org/en/articles/baijiu-aroma-systems/)
+> - [Maotai distillery](https://atlas.hejiu.org/en/places/maotai-distillery/)
+> - [Hotpot with baijiu](https://hejiu.org/en/pairings/hotpot-baijiu/)
 
 ## Fix the occasion and budget first
 
@@ -161,7 +188,37 @@ Choosing your first baijiu is best approached through what it is, then where it 
 
 **Sources and limits.** The key claims about Choosing your first baijiu are checked against the following sources: State Administration for Market Regulation and Standardization Administration (terms for baijiu, aroma type, solid-state fermentation and distillation; beverage-alcohol categories and the place of baijiu within them), Oxford University Press (Consulted for entries on Chinese baijiu aroma types, drinking customs and the industry), Industry body (baijiu industry terminology, aroma classification and industry background). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Choosing your first baijiu, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Choosing your first baijiu, this guide was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Quick comparison: four common aroma types
+
+| Aroma | Aroma notes | Palate | Best setting |
+| --- | --- | --- | --- |
+| Sauce aroma | Soy sauce, toasted grain, long empty-cup aroma | Full, long finish | Gifting, slow sipping, rich dishes |
+| Strong aroma | Cellar, grain and sweet notes | Mellow, clean finish | Home meals, banquets, Sichuan food |
+| Light aroma | Clean grain, fresh | Crisp and direct | First baijiu, light dishes |
+| Rice aroma | Rice and honey | Soft, short finish | Low-ABV starter, sweeter taste |
+
+
+
+Quick comparison: the twelve baijiu aroma types
+
+| Aroma type | Aroma and palate | Examples | Best setting |
+| --- | --- | --- | --- |
+| Sauce | Soy sauce, toasted grain, long finish; full | Moutai, Langjiu | Gifting, slow sipping, rich food |
+| Strong | Cellar, grain, sweetness; clean finish | Wuliangye, Luzhou Laojiao | Banquets, Sichuan food, home meals |
+| Light | Clean grain; crisp and direct | Fenjiu, Erguotou | First baijiu, light dishes |
+| Rice | Rice and honey; soft | Guilin Sanhua | Low-ABV starter, sweeter taste |
+| Feng | Mellow, brisk; hay-like | Xifengjiu | Northwest food, noodles |
+| Chi | Bean-sauce and oily notes; rice-wine softness | YubingShao | Cantonese food, roast meats |
+| Sesame | Sesame and toasted notes; fine | Jingzhi | Rich food, slow sipping |
+| Te | Strong, light and sauce notes together | Sitejiu | Jiangxi food, mixed banquets |
+| Fu | Strong, light and sauce notes; layered | Jiugui | Mixed dishes, exploration |
+| Dong | Herbal and medicinal; distinctive | Dongjiu | Exploration, small glasses |
+| Mixed | Strong and sauce notes; balanced | Baiyunbian | Home meals, banquets |
+| Laobaigan | Mellow, clean, punchy | Hengshui Laobaigan | Northern food, savoury snacks |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.
 
 ## Further reading
 

@@ -109,7 +109,7 @@ Figure: Foursquare Rum Distillery. Image: Unknown author Unknown author, CC BY 2
 
 The address is Foursquare Rum Distillery, Four Roads, Saint Philip, Barbados, in the south-east of the island, some distance from Bridgetown and the south-coast resorts. The official visiting note is blunt: the easiest way to arrive is by taxi, about 13 km and 20 minutes from the Oistins area. Budget travellers can take a bus to Six Roads and walk about 1.6 km to Four Roads, but the country roads are narrow and the sun is strong, so this is not a walk for dusk or rain.
 
-This page fixes no coordinates; use official channels for the exact location. The distillery is open on weekdays but closed at weekends and on bank holidays. It is not an all-day attraction, and lunch breaks or production schedules can affect which areas are accessible, so check the official visiting page before setting out; if you only want to buy rum, the tasting room and shop are more flexible than the production floor.
+This entry fixes no coordinates; use official channels for the exact location. The distillery is open on weekdays but closed at weekends and on bank holidays. It is not an all-day attraction, and lunch breaks or production schedules can affect which areas are accessible, so check the official visiting page before setting out; if you only want to buy rum, the tasting room and shop are more flexible than the production floor.
 
 ## The 1996 Restart and the Seale Family
 

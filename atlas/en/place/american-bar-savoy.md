@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:american-bar-savoy
 source_lang: zh
-source_revision: sha256:e3d90172d0ad996abab09668df08d439dad77d43260111c7cdabc21408b77e40
-source_sha256: e3d90172d0ad996abab09668df08d439dad77d43260111c7cdabc21408b77e40
+source_revision: sha256:d5ade4a465b052f399569b13cfb428841f033da92c45bef0191a1e2f09475738
+source_sha256: d5ade4a465b052f399569b13cfb428841f033da92c45bef0191a1e2f09475738
 translation_status: reviewed
 subtype: pub
 address: The Savoy, Strand, London WC2R 0EZ, United Kingdom
@@ -102,6 +102,12 @@ Few bars in London treat continuity as a selling point the way the American Bar 
 
 Figure: American Bar at The Savoy. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 
+> **Visit information**
+> - Address: The Savoy, Strand, London WC2R 0EZ, United Kingdom.
+> - Opening and booking: check the [official page](https://thesavoylondon.com/restaurants-and-bars/american-bar/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ## Place and history
 
 The Savoy hotel opened in 1889, and the American Bar followed in 1893. That gap matters. The bar was not an afterthought attached to a lobby; it was part of the hotel's attempt to bring American-style cocktail culture into London society. In the early twentieth century, Ada Coleman became head bartender. Regulars called her "Coley," and she held the post for 23 years. One of her drinks was made for the actor Charles Hawtrey, who reportedly asked for something with more punch; Coleman combined gin, sweet vermouth and a few dashes of Fernet-Branca, and Hawtrey's alleged remark about "the real hanky-panky" gave the cocktail its name. The Hanky Panky is still served today, and the hotel's own account says it uses vintage gin, vintage sweet vermouth and vintage Fernet-Branca.
@@ -124,7 +130,7 @@ Do not order a long run of cocktails at once. The drinks are generous in alcohol
 
 The address is The Savoy, Strand, London WC2R 0EZ, United Kingdom. The bar is on the ground floor; enter through Savoy Court. The nearest Underground stations are Embankment (District, Circle and Northern lines) and Charing Cross (Northern and Bakerloo lines, plus National Rail), both about a five-minute walk; Temple is about seven minutes on foot. Savoy Court is one of the few private lanes in London where traffic is directed to drive on the right, so pedestrians should not stand in the roadway for photographs.
 
-The official page in November 2026 listed Monday to Saturday 12:00–24:00 and Sunday 12:00–22:00, with a minimum age of 16. The dress code is "elegant"; sportswear and football shirts are likely to be refused. Book through the hotel's official channel (the website links to SevenRooms), especially at peak times. Prices sit in the upper tier of London hotel bars, far above an ordinary pub, and service is added. The menu changes by season, and hours may be adjusted on holidays and event days, so check the day's official notice. Opening status, prices and bookings are subject to official confirmation. This page was verified on 2026-11-08.
+The official page in November 2026 listed Monday to Saturday 12:00–24:00 and Sunday 12:00–22:00, with a minimum age of 16. The dress code is "elegant"; sportswear and football shirts are likely to be refused. Book through the hotel's official channel (the website links to SevenRooms), especially at peak times. Prices sit in the upper tier of London hotel bars, far above an ordinary pub, and service is added. The menu changes by season, and hours may be adjusted on holidays and event days, so check the day's official notice. Opening status, prices and bookings are subject to official confirmation. This entry was verified on 2026-11-08.
 
 ## Etiquette and common mistakes
 

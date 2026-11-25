@@ -25,8 +25,8 @@ tags:
 translation_of: region:vouvray
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9cfed7c57dcfe7b8b17edf4db8f571f5b8e578f7041b070d4f69a4fbdf3a2b88
-source_sha256: 9cfed7c57dcfe7b8b17edf4db8f571f5b8e578f7041b070d4f69a4fbdf3a2b88
+source_revision: sha256:21273740ff122b8ef9593cf8ba72831b0c225fb272646c67cbde6ffd7d166116
+source_sha256: 21273740ff122b8ef9593cf8ba72831b0c225fb272646c67cbde6ffd7d166116
 related:
   - relation: about
     target_id: region:loire
@@ -107,6 +107,15 @@ Vouvray is a white-wine district east of Tours on the right bank of the Loire, w
 ![Vouvray](/media/photos/region-vouvray-2583a58f.jpg)
 
 Figure: Vouvray: Vouvray Vineyard after budbreak (Wikimedia Commons). Image: Peter Dutton, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vouvray_Vineyard_after_budbreak.jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Vouvray for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Vouvray with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Local legend dates vines here to 372, when the Marmoutier monastery was founded and Saint Martin brought vine varieties and pruning techniques to the area.
+>   - Serve by style: dry and sparkling at about 8–10°C, off-dry and sweet at about 10–12°C; sweet wine should not be over-chilled, or its honey and mineral notes close up.
 
 ## Definition and boundaries
 

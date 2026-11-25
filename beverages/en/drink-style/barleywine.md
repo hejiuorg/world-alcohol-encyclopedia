@@ -84,7 +84,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against style guidelines, brewery public information, reference works and industry association material; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Barleywine

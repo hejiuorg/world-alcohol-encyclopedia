@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:cafe-de-flore
 source_lang: zh
-source_revision: sha256:06672a51dd3304d3ea6f0c60235958e2ad058e690118b62af757f358715f4932
-source_sha256: 06672a51dd3304d3ea6f0c60235958e2ad058e690118b62af757f358715f4932
+source_revision: sha256:ff85826d44f50b0727a7aff19fc90df8590f72c1115f829aedde5768cd326460
+source_sha256: ff85826d44f50b0727a7aff19fc90df8590f72c1115f829aedde5768cd326460
 translation_status: reviewed
 subtype: pub
 address: 172 Boulevard Saint-Germain, 75006 Paris
@@ -90,6 +90,12 @@ verification_scope: source-verified
 Café de Flore (Huāshén Kāfēi Guǎn) occupies the corner of Boulevard Saint-Germain and Rue Saint-Benoît in the sixth arrondissement of Paris, at 172 Boulevard Saint-Germain. It opened in 1887, and its name comes from a small sculpture of Flora that stood across the boulevard. Like Les Deux Magots, it is often called a literary café. What sets Flore apart is its corner position, the stage-like effect of its red banquettes and mirrors, and a younger, more irreverent literary prize.![Café de Flore image](/media/photos/place-cafe-de-flore-11d5edba.jpg)
 
 Figure: Café de Flore. Image: Celette, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore,_172_boulevard_Saint-Germain,_Paris_6e.jpg)).
+
+> **Visit information**
+> - Address: 172 Boulevard Saint-Germain, 75006 Paris, France.
+> - Opening and booking: check the [official page](https://cafedeflore.fr/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
 
 ## Place and history
 

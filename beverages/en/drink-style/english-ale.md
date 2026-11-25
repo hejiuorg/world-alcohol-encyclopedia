@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:english-ale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ca6dfe31f58a77e8519bc719ea666b24a08175e1495d69484eb300d63412ff98
-source_sha256: ca6dfe31f58a77e8519bc719ea666b24a08175e1495d69484eb300d63412ff98
+source_revision: sha256:f713da6c8e3681b277569b242043b5a848cd376ee012e3e4f6749313908d7df0
+source_sha256: f713da6c8e3681b277569b242043b5a848cd376ee012e3e4f6749313908d7df0
 legacy_refs: []
 aliases:
   - English ale
@@ -80,7 +80,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public industry material, style guidelines and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 
@@ -88,7 +88,7 @@ verification_scope: source-verified
 
 English ale is a family, not a single beer. The bitter of everyday pub life, the paler pale ale, the historical English IPA, and the dark porter and stout families all sit under the name. They share top fermentation, a malt backbone, hops used for balance, and a pursuit of drinkability rather than extreme strength, while differing in colour, bitterness, strength and dispense.
 
-![English ale thematic illustration](/media/photos/theme-beer.jpg)
+![English ale thematic illustration](/media/figures/specific/drink-style-english-ale.svg)
 
 Figure: thematic illustration for English ale. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

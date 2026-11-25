@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:rolling
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f35dcf5cba19a394df1fd621f8e0ec51aa84b90c83106c76b995d790a06696f4
-source_sha256: f35dcf5cba19a394df1fd621f8e0ec51aa84b90c83106c76b995d790a06696f4
+source_revision: sha256:e920a4570597805c4330ad8b6da400c95a6b18d8e250b90579fac3c64ccaba77
+source_sha256: e920a4570597805c4330ad8b6da400c95a6b18d8e250b90579fac3c64ccaba77
 applies_to_refs: []
 about_refs:
   - tool:cocktail-shaker
@@ -55,7 +55,7 @@ sources:
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check where rolling appears in classic recipes; no source text is reproduced.
     accessed: 2026-11-07
@@ -88,7 +88,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 
@@ -96,7 +96,7 @@ verification_scope: source-verified
 
 Rolling is a mixing technique in which a drink is poured back and forth between two vessels. It is neither shaking nor stirring: gravity carries the liquid through a transfer that mixes it, exposes it to air and cools it moderately. Rolling is not the most common technique at the bar, but when a recipe calls for it, the method usually corresponds to a specific texture goal.
 
-![Rolling thematic illustration](/media/photos/theme-beer.jpg)
+![Rolling thematic illustration](/media/figures/specific/technique-rolling.svg)
 
 Figure: thematic illustration for Rolling. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

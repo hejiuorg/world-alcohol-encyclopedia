@@ -93,6 +93,12 @@ verification_scope: source-verified
 
 布什米尔斯（Bushmills）是北爱尔兰安特里姆郡北海岸的一个村庄，酒厂就在村内的布斯河（River Bush）边，距离巨人之路约两英里。它对外最响亮的身份是“世界最古老的持照威士忌酒厂”，依据是 1608 年的一张蒸馏执照；但今天你看到的厂房、游客中心与 1608 酒吧，是后来逐步建成和翻修的。把执照年代、建厂年代与现存建筑年代分开，是理解这个地方的起点，也能解释为什么它既像一处工业遗址，又仍是一个正常运转的生产单位。
 
+> **到访信息**
+> - 地址：2 Distillery Road, Bushmills, Co Antrim BT57 8XH, Northern Ireland。
+> - 开放与预约：以[官方页面](https://www.bushmills.eu/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-08。
+
 ![布什米尔斯酒厂相关实景照片](/media/photos/place-bushmills-distillery-53905a77.jpg)
 
 图：布什米尔斯酒厂相关实景照片。图片：Reading Tom，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bushmills_Whiskey_Distillery_02.jpg)）。

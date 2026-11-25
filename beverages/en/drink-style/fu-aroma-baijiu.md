@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:fu-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6235b6657b9ae6110669115712a190942d1b448f026711615a254c8e75be5e3b
-source_sha256: 6235b6657b9ae6110669115712a190942d1b448f026711615a254c8e75be5e3b
+source_revision: sha256:c15c5f52c6dda0c5d00839942634eeb5234fdf79d450c39576e4fb165b4a630f
+source_sha256: c15c5f52c6dda0c5d00839942634eeb5234fdf79d450c39576e4fb165b4a630f
 legacy_refs: []
 aliases:
   - Fuyu aroma baijiu
@@ -82,16 +82,25 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public national-standard information and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Fu-aroma baijiu
 
 Fu-aroma likes to introduce itself in six words: strong aroma first, light aroma mid-palate, sauce aroma last. That is not a random collage of three aroma types but a timeline in the mouth: the entry shows the fullness and pit aroma of strong aroma, the middle turns clean and crisp like light aroma, and the finish brings the scorch and age of sauce aroma. Achieving that timeline depends on using xiaoqu and daqu together, mud-pit fermentation and clean steaming with mixing.
 
-![Fu-aroma baijiu thematic illustration](/media/photos/theme-asian.jpg)
+![Fu-aroma baijiu thematic illustration](/media/figures/specific/drink-style-fu-aroma-baijiu.svg)
 
 Figure: thematic illustration for Fu-aroma baijiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This style places Fu-aroma baijiu on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Fu-aroma baijiu with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - "Strong first" means the entry has the thickness of strong-aroma baijiu, with clear pit and grain aroma.
+>   - The current national standard is GB/T 10781.11-2021, Quality requirements for baijiu — Part 11: Fuyuxiangxing baijiu, published on 9 March 2021 and implemented on 1 April 2022.
 
 ## How to read the three phases
 

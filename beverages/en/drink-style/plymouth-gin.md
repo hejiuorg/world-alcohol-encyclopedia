@@ -76,7 +76,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against Plymouth Gin, UK government GI guidance, EU spirit-drink law and local tourism material; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Plymouth Gin
@@ -131,6 +131,6 @@ Begin with the production rule, move on to the strength, and finish with the usu
 
 **Sources and limits.** The key claims about Plymouth Gin are checked against the following sources: Plymouth Gin (the history, buildings and production site of the Black Friars distillery), UK Government (the current UK framework for spirit-drink geographical indications), European Union (gin categories and the boundary with GI spirit drinks) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Plymouth Gin next to Gin, London dry gin, Genever: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Plymouth Gin next to Gin, London dry gin, Genever: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
-For Plymouth Gin, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Plymouth Gin, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

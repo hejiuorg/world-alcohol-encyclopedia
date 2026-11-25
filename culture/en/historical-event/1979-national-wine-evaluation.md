@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: 1979-national-wine-evaluation
 title: "The 1979 third national wine evaluation: blind judging and aroma groups"
-summary: The third national wine evaluation, held in Dalian, Liaoning, in 1979, introduced coded blind judging, examiner qualification and comparison by aroma type, saccharifying agent and alcohol strength, and selected 18 national famous wines. This page explains the methodological turning point and its effect on the famous-wine list.
+summary: The third national wine evaluation, held in Dalian, Liaoning, in 1979, introduced coded blind judging, examiner qualification and comparison by aroma type, saccharifying agent and alcohol strength, and selected 18 national famous wines. This essay explains the methodological turning point and its effect on the famous-wine list.
 status: reviewed
 revision: 3
 translation_of: historical-event:1979-national-wine-evaluation
@@ -160,7 +160,7 @@ One: "1979 was the first national wine evaluation." The first was held in 1952; 
 - [The 1963 second national wine evaluation](ref:evaluation-1963): the previous meeting.
 - [The 1952 national wine evaluation](ref:evaluation-1952): the origin of the system.
 
-**Short definition:** The third national wine evaluation, held in Dalian, Liaoning, in 1979, introduced coded blind judging, examiner qualification and comparison by aroma type, saccharifying agent and alcohol strength, and selected 18 national famous wines. This page explains the methodological turning point and its effect on the famous-wine list.
+**Short definition:** The third national wine evaluation, held in Dalian, Liaoning, in 1979, introduced coded blind judging, examiner qualification and comparison by aroma type, saccharifying agent and alcohol strength, and selected 18 national famous wines. This essay explains the methodological turning point and its effect on the famous-wine list.
 
 It is tempting to treat The as 1979 third national wine evaluation: blind judging and aroma groups a commemorative event. Its identity and use are separate questions.
 

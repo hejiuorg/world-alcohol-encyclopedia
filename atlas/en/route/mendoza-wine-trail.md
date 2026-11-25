@@ -149,4 +149,4 @@ Both stops need bookings: Catena through its official reservation system, Zuccar
 
 ## References
 
-This page was checked against Catena Zapata's contact and about pages, Zuccardi's official tourism page, Argentina's national tourism promotion pages for Zuccardi and the Malbec route, and Wines of Argentina's INV-based data. Page verified 2026-11-09. Opening hours, visit prices, booking rules and wines change, so check each official channel.
+This route was checked against Catena Zapata's contact and about pages, Zuccardi's official tourism page, Argentina's national tourism promotion pages for Zuccardi and the Malbec route, and Wines of Argentina's INV-based data. Page verified 2026-11-09. Opening hours, visit prices, booking rules and wines change, so check each official channel.

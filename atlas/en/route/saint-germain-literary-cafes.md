@@ -132,9 +132,9 @@ Half a day is enough: forty to sixty minutes at the first stop, a few minutes' w
 
 ## Boundaries
 
-Opening hours, menus, prices, seating rules and temporary closures are set by the two venues' official channels; this page describes the structure of the route and does not guarantee any particular day's opening. Literary visits are historical narrative, not a statement about current quality, and there is no guarantee of sitting in “the seat where so-and-so sat”.
+Opening hours, menus, prices, seating rules and temporary closures are set by the two venues' official channels; this route describes the structure of the route and does not guarantee any particular day's opening. Literary visits are historical narrative, not a statement about current quality, and there is no guarantee of sitting in “the seat where so-and-so sat”.
 
-For Saint-Germain-des-Prés literary cafés: a half-day walk, this page provides neither a map nor coordinates: the two venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map, only to describe the walking relationship in words. For precise navigation, use a live map service and follow on-site signage.
+For Saint-Germain-des-Prés literary cafés: a half-day walk, this route provides neither a map nor coordinates: the two venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map, only to describe the walking relationship in words. For precise navigation, use a live map service and follow on-site signage.
 
 Further reading: [Reading a city through its bars](ref:c-extra-1), [Beyond the bar: following a drink to where it is made](ref:c-extra-2), [France](ref:c-extra-3).
 

@@ -146,7 +146,7 @@ To study Malvasia, read botanical and viticultural sources first, then taste thr
 Compare a dry Malvasia from Bosa with a sweet Malvasia delle Lipari and a Madeira Malvasia. Fix grape type and alcohol where possible; the comparison should separate aroma, sweetness and oxidation rather than treating “Malvasia” as a single flavour.
 
 - Related: [white-wine](ref:white), [fortified-wine](ref:fortified), [terroir](ref:terroir), [fermentation](ref:fermentation), [chardonnay](ref:chardonnay).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 [White wine](ref:white) and [Terroir](ref:terroir) answer different questions about Malvasia: variety character and regional performance. Read them as a pair, not as alternatives.
 

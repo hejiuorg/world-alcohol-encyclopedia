@@ -150,7 +150,7 @@ Malbec originated in Cahors and the south-west of France, where it is still call
 
 **Sources and limits.** The key claims about Malbec are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check variety descriptions and the Vitis species framework), Oxford University Press (Used for reference on Malbec, Côt and Argentine planting; Migrated from the former reference list at the end of the article; access date not re-verified), Instituto Nacional de Vitivinicultura (INV) (Used to check Argentina's wine authority and Malbec growing background). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Malbec, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Malbec, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

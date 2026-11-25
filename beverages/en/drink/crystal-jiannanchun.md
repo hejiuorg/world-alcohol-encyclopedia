@@ -5,7 +5,7 @@ type: drink
 lang: en
 slug: crystal-jiannanchun
 title: Crystal Jiannanchun
-summary: The core strong-aroma product of Jiannanchun, commonly called Crystal Sword in the market; usually 52% ABV in 500 mL and made in Mianzhu, Sichuan. This page covers raw materials, process, specification and buying at product level.
+summary: The core strong-aroma product of Jiannanchun, commonly called Crystal Sword in the market; usually 52% ABV in 500 mL and made in Mianzhu, Sichuan. This entry covers raw materials, process, specification and buying at product level.
 status: reviewed
 revision: 2
 translation_of: drink:crystal-jiannanchun
@@ -158,7 +158,7 @@ Third, assuming higher strength means better quality. Strength is a specificatio
 Fourth, treating "old pit" as the age of every bottle. Pit age, base-spirit age and the product claim are different concepts.
 Fifth, using packaging or price instead of the label. Channel and anti-counterfeit information are more direct.
 
-**At a glance:** The core strong-aroma product of Jiannanchun, commonly called Crystal Sword in the market; usually 52% ABV in 500 mL and made in Mianzhu, Sichuan. This page covers raw materials, process, specification and buying at product level. 
+**At a glance:** The core strong-aroma product of Jiannanchun, commonly called Crystal Sword in the market; usually 52% ABV in 500 mL and made in Mianzhu, Sichuan. This entry covers raw materials, process, specification and buying at product level. 
 
 Start with the base and the stated strength. From there, consider the sweetness or bitterness, then how it is served. That is how a practical judgment about Crystal Jiannanchun is built.
 

@@ -80,16 +80,25 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against academic papers, museum material and bibliographic records, without reproducing text, illustrations or translations. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, illustrations and translations are not covered by this licence; sources are cited for verification only. The image on this page is a Jin Ping Mei illustration of a garden banquet, not an erotic scene and not a representation of the whole novel.
+  note: The original text, illustrations and translations are not covered by this licence; sources are cited for verification only. The image on this book entry is a Jin Ping Mei illustration of a garden banquet, not an erotic scene and not a representation of the whole novel.
 verification_scope: source-verified
-source_sha256: 1a1f83bfeadbb9337fecd6bfbf50cbf657bb333d8845cccc7bcc870f426ddd93
-source_revision: sha256:1a1f83bfeadbb9337fecd6bfbf50cbf657bb333d8845cccc7bcc870f426ddd93
+source_sha256: 24545079814a7cfa997b1007a8acb36946d399f0dd432622ac961d41684e3120
+source_revision: sha256:24545079814a7cfa997b1007a8acb36946d399f0dd432622ac961d41684e3120
 ---
 # Jin Ping Mei
 
 ![Garden banquet scene from an illustrated Jin Ping Mei](/media/photos/book-jinpingmei-85aa31b2.jpg)
 
 Figure: A garden banquet scene from an illustrated edition of Jin Ping Mei; it is not an erotic scene, not a representation of the whole novel, and not a modern book cover. Image: Unknown, 17. century painter from Suzhou (?), China, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jin_Ping_Mei-4.jpg)).
+
+> **Quick verdict**
+> **In one line:** This book entry helps you judge whether Jin Ping Mei: Wine Tables, Trade Routes and Ming Life in a Novel of Manners is worth reading, and what question it answers.
+>
+> - **Best for:** Anyone who wants Jin Ping Mei: Wine Tables, Trade Routes and Ming Life in a Novel of Manners in the history of drink culture and needs to judge whether it is worth reading.
+> - **Not for:** If you want want a one-line summary and will not read the book.
+> - **Check first:**
+>   - As historical evidence, the novel’s value is density and layering.
+>   - Jin Ping Mei is a long Ming dynasty novel of manners, attributed to the pen name Lanling Xiaoxiaosheng; the author’s real identity remains unresolved.
 
 ## Bibliographic note
 

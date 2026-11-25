@@ -136,7 +136,7 @@ U Fleků charges no entrance fee; you pay for what you order. The brewery museum
 
 Czech pubs refill quickly, so say "no more" clearly when done, and check the table card before paying. Tipping is optional, usually rounded up or 5%–10%. The cobbles are uneven, so walk slowly after two beers; take the metro or tram back rather than driving.
 
-This page covers route structure and verifiable facts only, with no live opening status, prices or performance schedules; check the two venues' official channels. Page verified on 2026-11-08.
+This route covers route structure and verifiable facts only, with no live opening status, prices or performance schedules; check the two venues' official channels. Page verified on 2026-11-08.
 
 Further reading: [Pilsner Urquell Brewery: Where the Golden Lager Was Born](ref:c-extra-1).
 

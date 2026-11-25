@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:tsingtao-beer-museum
 source_lang: zh
-source_revision: sha256:df72a98f5174dfee3d074c0acc433dec7212fe18b17e7069a40f38431eb1e96a
-source_sha256: df72a98f5174dfee3d074c0acc433dec7212fe18b17e7069a40f38431eb1e96a
+source_revision: sha256:833ce9137d0f8060621d181c79131cf168e50efa7579546108b74d8ad59f3dd3
+source_sha256: 833ce9137d0f8060621d181c79131cf168e50efa7579546108b74d8ad59f3dd3
 translation_status: reviewed
 subtype: museum
 address: 青岛市市北区登州路56号
@@ -119,9 +119,31 @@ verification_scope: source-verified
 
 The Tsingtao Beer Museum is at 56 Dengzhou Road in Shibei District, Qingdao. It opened on 15 August 2003, the day of Tsingtao Brewery's centenary, on the site of the 1903 German-funded brewery. The museum therefore combines company history, German-era industrial buildings, historic equipment and beer consumption in one place. It is both a national first-class museum and a visitor site inside a working brewery, and that double identity makes it very different from an ordinary exhibition hall.
 
+> **Visit information**
+> - Address: 56 Dengzhou Road, Shibei District, Qingdao, Shandong, China.
+> - Opening and booking: check the [official page](https://www.tsingtaomuseum.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![Tsingtao Beer Museum image](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
 
 Figure: Tsingtao Beer Museum. Image: M. Weitzel, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingdao_Brewery.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Tsingtao Beer Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Tsingtao Beer Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - A German-funded brewery was established in Qingdao in 1903 and later developed into Tsingtao Brewery.
+>   - The museum occupies a 1903 German-style industrial complex, with about 15,000 square metres of floor area.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Place and history:** A German-funded brewery was established in Qingdao in 1903 and later developed into Tsingtao Brewery.
+> - **Why Dengzhou Road:** Dengzhou Road lies in Shibei District's old town, next to the Taidong commercial area.
+> - **Exhibits and route:** The museum occupies a 1903 German-style industrial complex, with about 15,000 square metres of floor area.
 
 ## Place and history
 

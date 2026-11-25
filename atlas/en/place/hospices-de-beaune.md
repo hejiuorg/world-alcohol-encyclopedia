@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:hospices-de-beaune
 source_lang: zh
-source_revision: sha256:ce058b379fddd1173443813cf4b2e7a0c8bd5e5f8cae6510a3db6446c374e39a
-source_sha256: ce058b379fddd1173443813cf4b2e7a0c8bd5e5f8cae6510a3db6446c374e39a
+source_revision: sha256:ed52023a9d653cc30b324120a1eeeb499c58fcad63864eb8210d41556d284e97
+source_sha256: ed52023a9d653cc30b324120a1eeeb499c58fcad63864eb8210d41556d284e97
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -117,6 +117,15 @@ The Hôtel-Dieu des Hospices de Beaune stands in the old centre of Beaune at 2 R
 ![Hôtel-Dieu des Hospices de Beaune category image](/media/photos/q2-region-burgundy-8580e678.jpg)
 
 Figure: Hôtel-Dieu des Hospices de Beaune. Photograph: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0 ([source page](https://commons.wikimedia.org/w/index.php?curid=65061583)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Hôtel-Dieu des Hospices de Beaune deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Hôtel-Dieu des Hospices de Beaune who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1443 the Rolin couple funded the Hôtel-Dieu and placed it in the care of nursing sisters.
+>   - There are two ways in: self-guided visits and guided tours.
 
 ## Place and history
 

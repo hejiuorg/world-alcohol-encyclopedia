@@ -39,8 +39,8 @@ tags:
 translation_of: place:domaine-drouhin-oregon
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7e2bfb155c3c5d31d91916fe322e3f867b94224fdf4f1fbcea7dabd2ab30c7ec
-source_sha256: 7e2bfb155c3c5d31d91916fe322e3f867b94224fdf4f1fbcea7dabd2ab30c7ec
+source_revision: sha256:b338eff6d190b54bc6b2ec4b9518a2c611c2ce4fcbba3e1f47a689f08d1f8f49
+source_sha256: b338eff6d190b54bc6b2ec4b9518a2c611c2ce4fcbba3e1f47a689f08d1f8f49
 related:
   - relation: about
     target_id: region:willamette-valley
@@ -104,6 +104,15 @@ Domaine Drouhin Oregon is the Burgundian Drouhin family’s first American branc
 
 Figure: Related photograph of Domaine Drouhin Oregon. Image: Luke, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Domaine Drouhin Oregon deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Domaine Drouhin Oregon who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Domaine Drouhin Oregon sits near the top of Dundee Hills in the Willamette Valley, at 6750 Breyman Orchards Road in Dayton, about forty-five minutes to an hour from Portland.
+>   - Visits are mainly by booked tasting.
+
 ## Position and history
 
 Domaine Drouhin Oregon sits near the top of Dundee Hills in the Willamette Valley, at 6750 Breyman Orchards Road in Dayton, about forty-five minutes to an hour from Portland. Its parent house is Maison Joseph Drouhin, founded in Beaune in 1880; by Robert Drouhin’s generation the family held a complete Burgundian map from Chablis to grand cru. In the mid-1980s a blind tasting turned Robert’s attention to Oregon, where latitude, climate and slope looked strikingly similar to Burgundy.
@@ -163,5 +172,5 @@ The best way to understand DDO is not to buy many vintages at once but to compar
 ## Further reading and see also
 
 - Related entries: [willamette-valley](ref:willamette), [usa](ref:usa), [pinot-noir](ref:pinot), [red-wine](ref:red), [oak-ageing](ref:oak).
-- This page does not provide live prices, menus, tasting fees or opening status; check the estate website and Oregon Wine Board before visiting.
+- This entry does not provide live prices, menus, tasting fees or opening status; check the estate website and Oregon Wine Board before visiting.
 - To understand the gravity-flow winery, ask during a tour where fruit enters, where it ferments and where it is bottled, and which steps still require pumping.

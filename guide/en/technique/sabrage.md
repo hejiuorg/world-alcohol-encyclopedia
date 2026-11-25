@@ -171,4 +171,4 @@ Practice with an empty bottle first, and never point the neck at anyone.
 
 **Sources and limits.** The key claims about Sabrage are checked against the following sources: Oxford University Press (Used to check sabrage history and method), Encyclopaedia Britannica (Used to check Champagne production and bottle pressure), Comité Interprofessionnel du vin de Champagne (Used to check Champagne service and opening advice) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Sabrage, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Sabrage, this technique was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

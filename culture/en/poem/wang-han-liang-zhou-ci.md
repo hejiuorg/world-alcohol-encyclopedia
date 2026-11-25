@@ -74,7 +74,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against a public poem text and a dynastic history; the quoted poem is in the public domain. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry.
 verification_scope: source-verified
 ---
 # Liangzhou Ci: Wang Han Sets a Cup of Grape Wine Beside the Battlefield
@@ -124,7 +124,7 @@ It is also because of this final question that the grape wine before it is not m
 
 ## Textual variants
 
-The poem is short, and its variants concern individual characters. One common case is that grape is written with an alternative character in some editions, both being different ways of writing the same fruit; some anthologies also punctuate differently after the luminous cup, without changing the sense. This page follows the received text given by Gushiwen and checks it against Quan Tang Shi. A quotation should state which edition it follows and should not mix the wording of different anthologies.
+The poem is short, and its variants concern individual characters. One common case is that grape is written with an alternative character in some editions, both being different ways of writing the same fruit; some anthologies also punctuate differently after the luminous cup, without changing the sense. This poem entry follows the received text given by Gushiwen and checks it against Quan Tang Shi. A quotation should state which edition it follows and should not mix the wording of different anthologies.
 
 ## Common misreadings
 

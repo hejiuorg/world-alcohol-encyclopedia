@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:finish
 source_lang: zh
-source_revision: sha256:08c6c08e520a3716410f8fc6c613031678c25d303997b1803b7a406d4bb4d5c2
-source_sha256: 08c6c08e520a3716410f8fc6c613031678c25d303997b1803b7a406d4bb4d5c2
+source_revision: sha256:85cba2a400ed67c58a9df1f163ed175ed8cabc0a4e214d499f54ee50117ae8c2
+source_sha256: 85cba2a400ed67c58a9df1f163ed175ed8cabc0a4e214d499f54ee50117ae8c2
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 Finish (also called length, aftertaste or the tail) is the taste, aroma and mouthfeel that continue in the mouth and nose after a drink is swallowed or spat out. It is not the burst at the moment of swallowing but the fading curve over the following seconds to tens of seconds. In tasting, length, layers, cleanliness and direction together form the judgement, rather than an isolated number of seconds.
 
-![Finish thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Finish thematic illustration](/media/figures/specific/term-finish.svg)
 
 Figure: thematic illustration for Finish. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

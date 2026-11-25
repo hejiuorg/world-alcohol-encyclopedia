@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:hakushika-sake-museum
 source_lang: zh
-source_revision: sha256:dc3bafa4cbe77f2fe7d858599acc7645af8632d97773e76b55c43042d81d1b31
-source_sha256: dc3bafa4cbe77f2fe7d858599acc7645af8632d97773e76b55c43042d81d1b31
+source_revision: sha256:e0349c779b295c72aaf75de57c0dcb63578e421901ba6ee05407d970b3b0f566
+source_sha256: e0349c779b295c72aaf75de57c0dcb63578e421901ba6ee05407d970b3b0f566
 translation_status: reviewed
 subtype: museum
 address: 8-21 Kurakake-cho, Nishinomiya, Hyogo 662-0926, Japan
@@ -108,6 +108,15 @@ The Hakushika Memorial Museum of Sake is formally the Hakushika Kinen Shuzo Haku
 ![related photograph of Hakushika Memorial Museum of Sake](/media/photos/place-hakushika-sake-museum-47d034a5.jpg)
 
 Figure: Related photograph of Hakushika Memorial Museum of Sake. Image: 663highland, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hakushika_Memorial_Museum02st3200.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Hakushika Memorial Museum of Sake deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Hakushika Memorial Museum of Sake who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Tatsuuma-Honke dates its founding to 1662.
+>   - The museum is self-guided.
 
 ## Place and history
 

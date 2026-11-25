@@ -11,8 +11,8 @@ revision: 1
 translation_of: vessel:snifter
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fc65206d254897952cfc947166d7c8395733359869e4a4df8398454ca3772a19
-source_sha256: fc65206d254897952cfc947166d7c8395733359869e4a4df8398454ca3772a19
+source_revision: sha256:14fdbb6d320976ba2b870db2592df7094c9cd45de6bd11c4f2368de8dc37b4f1
+source_sha256: 14fdbb6d320976ba2b870db2592df7094c9cd45de6bd11c4f2368de8dc37b4f1
 materials:
   - Glass
   - Crystal glass
@@ -96,6 +96,15 @@ A snifter, also called a balloon glass, is a short-stemmed glass with a large bo
 ![Brandy snifter holding Cognac](/media/photos/vessel-snifter-0ad2733c.jpg)
 
 Figure: A brandy snifter (balloon glass) holding Cognac, against a black background. Image: Didier Descouens, CC BY-SA 3.0, via [source page](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg).
+
+> **Quick verdict**
+> **In one line:** This glass explains why Snifter changes aroma, and which drinks it suits.
+>
+> - **Best for:** Anyone who wants to understand why Snifter changes aroma and texture.
+> - **Not for:** If you want want a “buy the most expensive glass” verdict without matching the drink.
+> - **Check first:**
+>   - The snifter's image is so strong that many people treat it as the dedicated Cognac glass and assume that a bigger glass is more impressive and a fuller pour more generous.
+>   - Typical capacity runs from 300 to 800 ml, a very wide spread; some producers recommend a balloon of around 250 ml for concentrating aroma.
 
 ## A glass that is easy to misuse
 

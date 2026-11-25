@@ -97,7 +97,7 @@ Figure: Related photograph of Johnnie Walker. Image: Billy McCrorie, CC BY-SA 2.
 
 ## Brand definition
 
-A brand, a producer and a product are three different layers. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility"; the product answers "what are the exact recipe, age, strength and volume in this bottle". This page records the brand layer; see the [Diageo](ref:producer) entry for corporate history.
+A brand, a producer and a product are three different layers. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility"; the product answers "what are the exact recipe, age, strength and volume in this bottle". This brand records the brand layer; see the [Diageo](ref:producer) entry for corporate history.
 
 Johnnie Walker is neither a single distillery nor one fixed recipe. Blended Scotch whisky is made by combining malt and grain whiskies from several distilleries, and the brand's core work is selecting casks, blending them and keeping the flavour consistent. As a result, the same colour label may differ slightly between years and markets.
 
@@ -121,7 +121,7 @@ Buyers should verify the full product name, any age statement, strength, volume,
 
 ## Positioning and price band
 
-The brand spans a band from mass market to premium: Red Label covers entry-level drinking and mixing, Black Label is the workhorse of retail and restaurant channels, Green and Gold reach into the mid-to-high end, and Blue Label serves high-end gifting and collecting. Prices move with market, channel, tax, promotions and pack size, so this page gives no specific retail price.
+The brand spans a band from mass market to premium: Red Label covers entry-level drinking and mixing, Black Label is the workhorse of retail and restaurant channels, Green and Gold reach into the mid-to-high end, and Blue Label serves high-end gifting and collecting. Prices move with market, channel, tax, promotions and pack size, so this brand gives no specific retail price.
 
 A price band is market positioning, not a quality grade. The quality of a blended whisky depends on the whisky selection, maturation conditions and blending skill, and cannot be inferred from colour or price alone. Duty-free, gift-pack and standard retail versions may also differ, and the same colour is not priced identically in every market.
 

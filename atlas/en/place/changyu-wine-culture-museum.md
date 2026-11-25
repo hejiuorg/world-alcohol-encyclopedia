@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:changyu-wine-culture-museum
 source_lang: zh
-source_revision: sha256:b86f0e45f0d323289e644d9ae50e0f419dc9c9baf13ef50c934a58e2007ef040
-source_sha256: b86f0e45f0d323289e644d9ae50e0f419dc9c9baf13ef50c934a58e2007ef040
+source_revision: sha256:23bb2031aa5c2ab78a40b050184bff867876b9cde44827a424caaa44c88b6ffa
+source_sha256: 23bb2031aa5c2ab78a40b050184bff867876b9cde44827a424caaa44c88b6ffa
 translation_status: reviewed
 subtype: museum
 address: 山东省烟台市芝罘区大马路56号
@@ -101,9 +101,24 @@ verification_scope: source-verified
 
 The Changyu Wine Culture Museum stands at 56 Dama Road in Zhifu District, Yantai, on the old Changyu company site. Zhang Bishi founded Changyu in 1892, and the museum opened in 1992, the company's centenary year. Its own introduction calls it China's first specialist wine museum; it is also a national first-class museum, a 4A tourist attraction and one of the first national industrial-tourism demonstration bases. It is not a winery estate but a museum that connects company history, industrial heritage and wine consumption along a single timeline.
 
+> **Visit information**
+> - Address: 56 Dama Road, Zhifu District, Yantai, Shandong, China.
+> - Opening and booking: check the [official page](https://www.cymuseum.cn/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![Changyu Wine Culture Museum category illustration](/media/photos/theme-winery.jpg)
 
 Figure: Changyu Wine Culture Museum. Project-generated or category illustration used for winery and wine venue context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Changyu Wine Culture Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Changyu Wine Culture Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1892 Zhang Bishi invested three million taels of silver to establish the Changyu winemaking company on the Zhifu Bay waterfront.
+>   - The museum summarises its 4.0 displays in six sections: Century Radiance, the Long Scroll of Wine, Industry and Nation-building, the "Dare to Lead" surround-screen film.
 
 ## Place and history
 

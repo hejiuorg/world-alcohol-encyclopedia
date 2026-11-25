@@ -80,7 +80,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against the National Library of China Publishing House, library records and Zhonghua Book Company bibliographic information, without reproducing text, annotations or translations. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, annotations and translations are not covered by this licence; sources are cited for verification only. The image on this page is a detail of Along the River During the Qingming Festival, not a page from Dongjing Menghua Lu.
+  note: The original text, annotations and translations are not covered by this licence; sources are cited for verification only. The image on this book entry is a detail of Along the River During the Qingming Festival, not a page from Dongjing Menghua Lu.
 verification_scope: source-verified
 source_sha256: 22ee87f30ad4762e2ab6295919c8825a478e255aa7870401123dd306f9a7c83b
 source_revision: sha256:22ee87f30ad4762e2ab6295919c8825a478e255aa7870401123dd306f9a7c83b

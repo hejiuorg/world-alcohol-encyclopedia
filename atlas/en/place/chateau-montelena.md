@@ -135,7 +135,7 @@ Around Calistoga there are hot springs, Old Faithful Geyser, the Sharpsteen Muse
 
 - Comparisons: [napa-valley](ref:napa), [usa](ref:usa), [chardonnay](ref:chardonnay), [white-wine](ref:white), [oak-ageing](ref:oak).
 - Background: [napa-valley](ref:napa), [usa](ref:usa).
-- This page provides no map; visits, vintages and prices should be checked with official channels.
+- This entry provides no map; visits, vintages and prices should be checked with official channels.
 
 **Short definition:** A historic Napa Valley estate in Calistoga, founded in 1882 by Alfred L. Tubbs. Its 1973 Chardonnay placed first among whites at the 1976 Judgment of Paris; the property is known for its stone chateau, the Chinese garden and Jade Lake, and age-worthy Estate Cabernet Sauvignon, and has been owned by Michel Reybier since 2008.
 

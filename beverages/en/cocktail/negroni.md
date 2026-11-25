@@ -11,8 +11,8 @@ revision: 3
 translation_of: cocktail:negroni
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3d31170d3ef57f59a3826b3afcce5a77a4e91f24b781b66cb5a3732eff99f69c
-source_sha256: 3d31170d3ef57f59a3826b3afcce5a77a4e91f24b781b66cb5a3732eff99f69c
+source_revision: sha256:d6c237f3285db7cb0009d6208d206860c3fe9a65da87c3b5f1426279c6d067e2
+source_sha256: d6c237f3285db7cb0009d6208d206860c3fe9a65da87c3b5f1426279c6d067e2
 style: 经典鸡尾酒
 ingredient_refs: []
 origin_place: Florence, Italy (as the widely told story)
@@ -48,7 +48,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to verify the Negroni's place on the official cocktail list; no source text is reproduced.
     accessed: 2026-11-04
@@ -117,7 +117,7 @@ Balance changes with temperature and dilution. Freshly made, the body is tight a
 
 Replacing gin with bourbon usually gives the Boulevardier, sweeter and more woody. Replacing gin with soda water returns to the earlier Americano, lower in strength. Replacing part of the mix with sparkling wine gives a Sbagliato-type variation, lighter in texture.
 
-Variations are not "wrong versions" but branches with clear substitution logic. A variation should state which ingredient was replaced and how the ratio changed, or identical names will hide different methods. This page gives an overview only; executable recipes belong on the recipe page.
+Variations are not "wrong versions" but branches with clear substitution logic. A variation should state which ingredient was replaced and how the ratio changed, or identical names will hide different methods. This cocktail gives an overview only; executable recipes belong on the recipe page.
 
 ## Drinking and pairing
 

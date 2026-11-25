@@ -84,6 +84,15 @@ verification_scope: source-verified
 
 图：波特。图片：cezzie901，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:View_of_Nam_Harbor_from_Busan_Tower.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断波特的风味位置，以及怎么选、怎么喝。
+>
+> - **适合谁：** 正在比较波特与其他风格、准备购买或点单的人。
+> - **不适合谁：** 只想要“哪个最好”的排名、不接受口味差异的人。
+> - **先看这两点：**
+>   - Ruby 与 LBV 适合 16–18°C；Tawny 适合 12–16°C；White Port 适合 8–10°C；Vintage 适合 16–18°C。
+>   - 波特是受原产地命名保护的加强葡萄酒，法定产区在葡萄牙北部的杜罗河谷，名称“Porto”或“Vinho do Porto”由葡萄牙葡萄酒与葡萄园研究所（IVDP）监管。
+
 ## 定义与法规
 
 波特是受原产地命名保护的加强葡萄酒，法定产区在葡萄牙北部的杜罗河谷，名称“Porto”或“Vinho do Porto”由葡萄牙葡萄酒与葡萄园研究所（IVDP）监管。葡萄种植、酿造与加强必须在杜罗产区完成；陈年可以在杜罗河谷的酒窖，也可以在加亚新城（Vila Nova de Gaia）的传统酒窖进行。

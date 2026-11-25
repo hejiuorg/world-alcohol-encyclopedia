@@ -93,7 +93,7 @@ verification_scope: source-verified
 ---
 # Shaoxing
 
-Shaoxing is in northern Zhejiang, on the south shore of Hangzhou Bay at the northern foot of the Kuaiji Mountains, and is one of the most concentrated huangjiu regions in [China](ref:china). Shaoxing wine combines glutinous rice, wheat qu and Jian Lake water, and forms its style through the tanfan method, open-mash stirring and jar ageing. The general definition and classification of [huangjiu](ref:yellow-wine) are covered on the style page; this page focuses on the raw materials, process and product structure of the Shaoxing region.
+Shaoxing is in northern Zhejiang, on the south shore of Hangzhou Bay at the northern foot of the Kuaiji Mountains, and is one of the most concentrated huangjiu regions in [China](ref:china). Shaoxing wine combines glutinous rice, wheat qu and Jian Lake water, and forms its style through the tanfan method, open-mash stirring and jar ageing. The general definition and classification of [huangjiu](ref:yellow-wine) are covered on the style page; this region focuses on the raw materials, process and product structure of the Shaoxing region.
 
 ![Shaoxing image](/media/photos/region-shaoxing-e9a43f19.jpg)
 

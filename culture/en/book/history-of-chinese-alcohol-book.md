@@ -80,7 +80,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against a university research centre, an academic review and library bibliographic records, without reproducing text, charts or quotations. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, charts and quotations are not covered by this licence; sources are cited for verification only. The image on this page shows Shang bronze gu, jue and jia wine vessels, not the book cover.
+  note: The original text, charts and quotations are not covered by this licence; sources are cited for verification only. The image on this book entry shows Shang bronze gu, jue and jia wine vessels, not the book cover.
 verification_scope: source-verified
 source_sha256: 462f54e74322293da93a4b259ac591a73a44affc5e503dae2952aa40c672a296
 source_revision: sha256:462f54e74322293da93a4b259ac591a73a44affc5e503dae2952aa40c672a296

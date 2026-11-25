@@ -148,7 +148,7 @@ For Hengshui Laobaigan Gufa 20, taste in a small glass: smell the resting spirit
 
 1946 is the year the state-run distillery was formed, and 2002 is the year the listed company went public; they are not the same milestone. Company material traces the brewing tradition further back and uses the Gufa series to carry the "traditional craft" narrative; the fact that Gufa 20 has reached its sixth generation shows that the line keeps being updated.
 
-The Gufa series sits in the mid-to-high price band of a regional famous liquor. Prices move with vintage, channel and supply and demand, and this page gives no figures. Treating price as proof of quality, or the "20" as age, are common misreadings.
+The Gufa series sits in the mid-to-high price band of a regional famous liquor. Prices move with vintage, channel and supply and demand, and this entry gives no figures. Treating price as proof of quality, or the "20" as age, are common misreadings.
 
 ## Buying and storage
 

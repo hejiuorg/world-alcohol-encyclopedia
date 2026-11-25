@@ -5,7 +5,7 @@ type: custom
 lang: en
 slug: birthday-wine
 title: Birthday wine
-summary: Birthday wine is the honouring drink at birthday and milestone banquets, combining blessing, thanks and family gathering. This page covers timing, ritual sequence, documentary sources and modern change, with notes on urging drink and health.
+summary: Birthday wine is the honouring drink at birthday and milestone banquets, combining blessing, thanks and family gathering. This entry covers timing, ritual sequence, documentary sources and modern change, with notes on urging drink and health.
 status: reviewed
 revision: 3
 translation_of: custom:birthday-wine
@@ -77,7 +77,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against public-domain poetry, ritual texts and Song notes, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
@@ -152,4 +152,4 @@ Sixth, assuming peach buns are real peaches. Traditional ones are dough figures,
 - [Wine and festivals](ref:festivals): seasonal and life-rite drinking.
 - [Wine and ritual](ref:ritual): the ritual source of respect and seating.
 
-**In brief:** Birthday wine is the honouring drink at birthday and milestone banquets, combining blessing, thanks and family gathering. This page covers timing, ritual sequence, documentary sources and modern change, with notes on urging drink and health.
+**In brief:** Birthday wine is the honouring drink at birthday and milestone banquets, combining blessing, thanks and family gathering. This entry covers timing, ritual sequence, documentary sources and modern change, with notes on urging drink and health.

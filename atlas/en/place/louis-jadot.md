@@ -149,10 +149,10 @@ For half a day, do La Cuverie plus old Beaune. For a full day, add Meursault and
 
 - Regional comparisons: [Romanée-Conti](ref:drc), [Château de Meursault](ref:meursault), [Hospices de Beaune](ref:hospices), [Burgundy grands crus drive](ref:route).
 - Background: [Burgundy](ref:burgundy).
-- This page provides no map; visit and shop hours should be confirmed with official channels.
+- This entry provides no map; visit and shop hours should be confirmed with official channels.
 
 Start with [Domaine de la Romanée-Conti](ref:drc) for address and space, then read [Hôtel-Dieu des Hospices de Beaune](ref:hospices) for operating status. Seeing both keeps Maison Louis Jadot from being confused with a neighbouring idea.
 
-For Maison Louis Jadot, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Maison Louis Jadot, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 Frédéric Barnier became technical director in 2010.

@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:dry-shaking
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3db4d5b3a50ac7ff211b4dc49be7fdcc93636ccb3d24e90937f02f19edb3efd3
-source_sha256: 3db4d5b3a50ac7ff211b4dc49be7fdcc93636ccb3d24e90937f02f19edb3efd3
+source_revision: sha256:ef0f1a8c7237bd4229774a9dd69e638383e31a9cf0df861d77ed9c6b30ac2060
+source_sha256: ef0f1a8c7237bd4229774a9dd69e638383e31a9cf0df861d77ed9c6b30ac2060
 applies_to_refs:
   - cocktail:whiskey-sour
   - cocktail:pisco-sour
@@ -53,7 +53,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check recipes and methods for egg-white cocktails; no source text is reproduced.
     accessed: 2026-11-07
@@ -92,7 +92,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 
@@ -100,7 +100,7 @@ verification_scope: source-verified
 
 Dry shaking means shaking without ice first and then shaking with ice in a second stage. The word "dry" refers to the absence of ice in the shaker, not to the absence of liquid. It is mainly used for recipes containing egg white, cream or plant protein: the first stage lets the protein and air form a foam, and the second stage, with ice, chills and dilutes the drink.
 
-![Dry shaking thematic illustration](/media/photos/theme-beer.jpg)
+![Dry shaking thematic illustration](/media/figures/specific/technique-dry-shaking.svg)
 
 Figure: thematic illustration for Dry shaking. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

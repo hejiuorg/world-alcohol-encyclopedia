@@ -91,9 +91,9 @@ In modern times, Bozhou distilling has moved from workshops to larger enterprise
 
 ## Gujing Town and producers
 
-Gujing Town lies in Qiaocheng District and is the production base of [Gujing Gongjiu](ref:gujing). The brand is mainly strong aroma, stressing pit aroma, grain aroma and mellow sweetness. Specific product lines, strengths and process parameters are company information, and this page does not evaluate products.
+Gujing Town lies in Qiaocheng District and is the production base of [Gujing Gongjiu](ref:gujing). The brand is mainly strong aroma, stressing pit aroma, grain aroma and mellow sweetness. Specific product lines, strengths and process parameters are company information, and this region does not evaluate products.
 
-The Gujing Wine Culture Museum is documented separately as a place to visit, showing brewing history, tools and process. The museum page and the producer record are independent: one answers what to see, the other who produces. Visiting arrangements should follow the latest official notices; this page gives no opening hours, tickets or transport promises.
+The Gujing Wine Culture Museum is documented separately as a place to visit, showing brewing history, tools and process. The museum page and the producer record are independent: one answers what to see, the other who produces. Visiting arrangements should follow the latest official notices; this region gives no opening hours, tickets or transport promises.
 
 ## Industry and agriculture
 
@@ -143,7 +143,7 @@ Read Bozhou through the appellation and its permitted varieties, then the vintag
 
 **Sources and limits.** The key claims about Bozhou are checked against the following sources: Industry body (administrative divisions and public city information; public information on the museum and Gujing Town), Oxford University Press (Consulted for entries on Chinese beverage regions). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Bozhou next to Anhui, China, Gujing Gongjiu: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Bozhou next to Anhui, China, Gujing Gongjiu: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this region first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

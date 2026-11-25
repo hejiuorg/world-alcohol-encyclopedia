@@ -5,7 +5,7 @@ type: custom
 lang: en
 slug: double-ninth-chrysanthemum-wine
 title: Double Ninth chrysanthemum wine
-summary: Chrysanthemum wine at Double Ninth goes with climbing heights, wearing zhuyu and honouring elders. This page covers the two documented methods, regional variation, the layered history, and the limits of health claims and home brewing.
+summary: Chrysanthemum wine at Double Ninth goes with climbing heights, wearing zhuyu and honouring elders. This entry covers the two documented methods, regional variation, the layered history, and the limits of health claims and home brewing.
 status: reviewed
 revision: 3
 translation_of: custom:double-ninth-chrysanthemum-wine
@@ -85,7 +85,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against public-domain seasonal records and notes, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 

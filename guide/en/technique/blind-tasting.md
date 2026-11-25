@@ -181,4 +181,4 @@ The scoresheet should separate aroma, palate, structure and finish, and a second
 
 **Sources and limits.** The key claims about Blind Tasting are checked against the following sources: Oxford University Press (Used to check blind tasting and sensory assessment background), Encyclopaedia Britannica (Used to check wine sensory and regional background), Wine Folly (Used to check tasting glass and sensory training advice) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Blind Tasting, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Blind Tasting, this technique was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

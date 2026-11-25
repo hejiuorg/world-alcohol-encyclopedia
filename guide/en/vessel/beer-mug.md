@@ -167,4 +167,4 @@ A pint mug is the usual British measure; thick walls hold the cold and the handl
 
 **Sources and limits.** The key claims about Beer Mug are checked against the following sources: Oxford University Press (Used to check beer vessels and drinking culture), Encyclopaedia Britannica (Used to check beer styles, foam and service), Corning Museum of Glass (Used to check glass forms and craft background) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Beer Mug, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Beer Mug, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

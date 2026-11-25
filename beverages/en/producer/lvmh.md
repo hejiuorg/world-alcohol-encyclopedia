@@ -107,7 +107,7 @@ The headquarters are in Paris, but drinks production is spread across Champagne,
 
 In 1987 Moët Hennessy and Louis Vuitton merged to form LVMH. The aim was to combine drinks cash flow with leather-goods luxury; a series of acquisitions later extended the brand portfolio.
 
-On control, Bernard Arnault and his family hold a significant stake through holding companies and have long supplied the chairman and CEO. Public material uses different definitions for the family's combined shareholding and voting power, so this page does not state a specific percentage. Family control is a long-term feature of governance.
+On control, Bernard Arnault and his family hold a significant stake through holding companies and have long supplied the chairman and CEO. Public material uses different definitions for the family's combined shareholding and voting power, so this producer does not state a specific percentage. Family control is a long-term feature of governance.
 
 ## The drinks business within the group
 
@@ -155,11 +155,11 @@ On the capital market, the group trades on Euronext Paris under "MC". Investors 
 
 Controversy centres on three areas: slower drinks demand and the inventory cycle; tariffs and trade friction affecting cognac exports; and the balance between family control and minority shareholder rights. Holding companies and dual voting rights preserve control, limiting outside influence.
 
-Public material does not disclose the full basis for the family's combined shareholding and voting power, and this page does not fill it in. Specific equity and compensation matters should be checked against registration documents and shareholder meeting material.
+Public material does not disclose the full basis for the family's combined shareholding and voting power, and this producer does not fill it in. Specific equity and compensation matters should be checked against registration documents and shareholder meeting material.
 
 ## Division of labour with the brand page
 
-This page covers the group and drinks division: who owns, who operates, how revenue is structured and how ownership works. Brand positioning, product lines and flavour belong on brand pages. Turning the group page into a brand catalogue blurs the line between ownership and product choice.
+This producer covers the group and drinks division: who owns, who operates, how revenue is structured and how ownership works. Brand positioning, product lines and flavour belong on brand pages. Turning the group page into a brand catalogue blurs the line between ownership and product choice.
 
 Krug, for example, is a group brand, but its style, price and vintage performance cannot be inferred directly from group results. Reading the layers separately makes sense of both capital structure and the shelf.
 

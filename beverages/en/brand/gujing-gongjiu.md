@@ -84,7 +84,7 @@ Figure: Gujing Gongjiu. Image: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([sou
 
 Gujing Gongjiu is a brand name within the strong-aroma route of [baijiu](ref:baijiu). The brand is held by the producer, and the specific product is another level: the brand answers what it is called, the company answers who makes it, and the product answers what is in this bottle.
 
-"Gongjiu" (tribute wine) belongs to historical narrative and brand naming and should not be treated as verifiable historical fact. A common story links it to Cao Cao and Han-dynasty tribute, but details differ across sources; this page treats it as naming background, not as chronological evidence. Listing and business information can be checked on the producer page.
+"Gongjiu" (tribute wine) belongs to historical narrative and brand naming and should not be treated as verifiable historical fact. A common story links it to Cao Cao and Han-dynasty tribute, but details differ across sources; this brand treats it as naming background, not as chronological evidence. Listing and business information can be checked on the producer page.
 
 ## Origin and environment
 

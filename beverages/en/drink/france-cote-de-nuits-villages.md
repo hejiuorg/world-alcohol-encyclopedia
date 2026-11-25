@@ -112,7 +112,7 @@ Producer, appellation and product are three levels: the appellation answers for 
 
 ## Region and ingredients
 
-Côte de Nuits-Villages lies in the southern part of the Côte de Nuits in [Burgundy](ref:burgundy), [France](ref:france). Brochon borders Gevrey-Chambertin, Comblanchien and Corgoloin sit at the southern end of the Côte de Nuits, and Prémeaux-Prissey adjoins Nuits-Saint-Georges. Fixin has its own village appellation and should not be conflated with this page.
+Côte de Nuits-Villages lies in the southern part of the Côte de Nuits in [Burgundy](ref:burgundy), [France](ref:france). Brochon borders Gevrey-Chambertin, Comblanchien and Corgoloin sit at the southern end of the Côte de Nuits, and Prémeaux-Prissey adjoins Nuits-Saint-Georges. Fixin has its own village appellation and should not be conflated with this entry.
 
 The slopes here mostly face east or south-east, with lower altitude and gentler gradients than the famous villages of the northern Côte de Nuits; soils are mainly limestone and marl, and the Comblanchien area is known for hard limestone. The milder terrain and more southern position give relatively steady ripening, and the wines are usually less firm than Nuits-Saint-Georges.
 

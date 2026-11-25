@@ -111,7 +111,7 @@ First, definitions are not uniform. The label covers only producers who sign the
 
 Second, the history is told with a legendary tone. Chauvet's contribution is supported by technical writing, but "he invented natural wine alone" is an oversimplification; sulphur-free winemaking had local traditions in the south of France, the Jura and Italy. The Gang of Four was a nickname given by an importer, and the members themselves may not have used it.
 
-Third, dates vary. Lapierre took over the domaine in 1973, and the sulphur-free experiments are often dated to around 1980; the month of the association's founding and of the charter's recognition differ between industry articles, so this page gives only the years.
+Third, dates vary. Lapierre took over the domaine in 1973, and the sulphur-free experiments are often dated to around 1980; the month of the association's founding and of the charter's recognition differ between industry articles, so this essay gives only the years.
 
 Fourth, state recognition is not the same as a compulsory appellation-style standard. It is a regulated labelling term, compliance depends on voluntary membership and association review, and external sampling is limited; it is not an independent guarantee for every bottle.
 

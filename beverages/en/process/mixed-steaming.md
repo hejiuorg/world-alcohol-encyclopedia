@@ -11,8 +11,8 @@ revision: 3
 translation_of: process:mixed-steaming
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:36199a9dccbfe31ee34f2db0199efea9c4c0cc4ea610e5261e38d05be7c39775
-source_sha256: 36199a9dccbfe31ee34f2db0199efea9c4c0cc4ea610e5261e38d05be7c39775
+source_revision: sha256:ee76fb315fcb0682bf635ed4db30e81fdc910d1b245cbc87d7c444d49a8c9b3d
+source_sha256: ee76fb315fcb0682bf635ed4db30e81fdc910d1b245cbc87d7c444d49a8c9b3d
 legacy_refs: []
 aliases:
   - mixed steaming
@@ -87,12 +87,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public national-standard information, industry-association material and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standard texts, trademarks and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standard texts, trademarks and quoted text are outside this licence; sources are cited for verification only. This process uses no third-party images.
 verification_scope: source-verified
 ---
 # Mixed steaming and distillation
 
-Mixed steaming and distillation is how solid-state baijiu organises [distillation](ref:distillation): freshly mixed grain powder, filler and the mash waiting to be distilled are loaded into the same steamer, so grain cooking and spirit distillation happen in one pass and grain aromas enter the condenser with the spirit. It contrasts with separate steaming, where grain and mash are cooked and distilled apart. The two are not better or worse but routes suited to different aroma types and raw-material systems.![Mixed steaming and distillation thematic illustration](/media/photos/theme-beer.jpg)
+Mixed steaming and distillation is how solid-state baijiu organises [distillation](ref:distillation): freshly mixed grain powder, filler and the mash waiting to be distilled are loaded into the same steamer, so grain cooking and spirit distillation happen in one pass and grain aromas enter the condenser with the spirit. It contrasts with separate steaming, where grain and mash are cooked and distilled apart. The two are not better or worse but routes suited to different aroma types and raw-material systems.![Mixed steaming and distillation thematic illustration](/media/figures/specific/process-mixed-steaming.svg)
 
 Figure: thematic illustration for Mixed steaming and distillation. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -102,7 +102,7 @@ The term describes a combination of actions, not a single heating step. It usual
 
 ## Steps and parameters
 
-The typical order is pit unloading, ingredient mixing, blending, steamer loading, simultaneous distillation and grain cooking, spirit cutting, cooling, qu addition and pit loading. Strong-aroma practice often holds pit moisture at 53–58%, pit temperature at 18–22 °C and fermentation for 60–90 days; spirit flow temperature after loading is often kept at 25–30 °C, and fractions are collected by alcohol strength and aroma. These ranges follow the common descriptions in the national-standard and association material listed on this page, and plants adjust them to pit conditions and product goals. The share of fresh grain, the amount of rice husk and the evenness of mixing decide how well steam moves through the bed.
+The typical order is pit unloading, ingredient mixing, blending, steamer loading, simultaneous distillation and grain cooking, spirit cutting, cooling, qu addition and pit loading. Strong-aroma practice often holds pit moisture at 53–58%, pit temperature at 18–22 °C and fermentation for 60–90 days; spirit flow temperature after loading is often kept at 25–30 °C, and fractions are collected by alcohol strength and aroma. These ranges follow the common descriptions in the national-standard and association material listed on this process, and plants adjust them to pit conditions and product goals. The share of fresh grain, the amount of rice husk and the evenness of mixing decide how well steam moves through the bed.
 
 ## Mechanism: cooking, distillation and mash cycling
 
@@ -142,6 +142,6 @@ Read [Baijiu](ref:baijiu) for the purpose side of Mixed steaming and distillatio
 
 **Short definition:** A solid-state baijiu arrangement in which fresh grain and fermented mash are steamed in the same vessel and spirit is collected in one pass, as opposed to separate steaming; it usually works with continuous mash replenishment and shapes grain aroma, body and pit cycling.
 
-**Read alongside.** Put Mixed steaming and distillation next to Baijiu, Strong-aroma baijiu, Light aroma baijiu: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Mixed steaming and distillation next to Baijiu, Strong-aroma baijiu, Light aroma baijiu: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this process first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Mixed steaming and distillation are checked against the following sources: State Administration for Market Regulation, Standardization Administration of China (the terminology, process and quality framework for strong-aroma baijiu; no original text is reproduced), China Alcoholic Drinks Association, Oxford University Press (Migrated from the former reference list at the end of the article; access date not re-verified). Prices, batches and status change; the body is project-written and does not reproduce source text.

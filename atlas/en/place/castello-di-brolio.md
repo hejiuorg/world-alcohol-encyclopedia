@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:castello-di-brolio
 source_lang: zh
-source_revision: sha256:45db699fb484bfa8706c5c9c496894dc23e1da20ec16fd527b57062987f2838f
-source_sha256: 45db699fb484bfa8706c5c9c496894dc23e1da20ec16fd527b57062987f2838f
+source_revision: sha256:7dbdc677db5afdba9372091358d62a1778b43cb1956cb4b20e67b38c226dc8fe
+source_sha256: 7dbdc677db5afdba9372091358d62a1778b43cb1956cb4b20e67b38c226dc8fe
 translation_status: reviewed
 subtype: winery-visitor
 address: Località Brolio, 53013 Gaiole in Chianti (SI), Italy
@@ -111,6 +111,15 @@ South of Gaiole in Chianti, the road climbs between ridges and oak woods, and th
 
 Figure: Castello di Brolio. Image: Sailko, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Castello_di_brolio,_edificio_padronale_11.JPG)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Castello di Brolio deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Castello di Brolio who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The first stones date back to the Middle Ages.
+>   - The Brolio range can be read as castle, village, Riserva and flagship.
+
 ## A castle still telling a political story
 
 The first stones date back to the Middle Ages. The official account traces the Ricasoli family's acquisition to an exchange of lands, with records as early as 1141. Over the following centuries Brolio was attacked and destroyed repeatedly: Aragonese and Spanish assaults in the fifteenth century, disputes in the seventeenth century, and aerial bombing and artillery fire during the Second World War. What stands today is the result of repeated rebuilding, with medieval defences, Romanesque and neo-Gothic additions and nineteenth-century Tuscan details layered together.
@@ -153,7 +162,7 @@ The address is Località Brolio, 53013 Gaiole in Chianti (SI), Italy. The winery
 
 By car, allow about an hour from Florence, forty minutes from Siena and ten minutes from Gaiole in Chianti; the roads are winding, so follow on-site parking instructions. Public transport is infrequent; without a car, book a taxi or a trip that includes transport. The castle sits on a ridge, with slopes and steps; visitors with limited mobility should ask about the route in advance.
 
-On etiquette: this is private property and a working estate, so do not climb fences, enter vineyards or photograph private residential areas. Tastings at the wine shop should be booked, and groups should state numbers and language in advance. Do not drive after tasting; the Chianti roads are not suited to even mild impairment, and a designated driver or hired car is safer. Do not touch exhibits, furniture or documents, and respect no-flash rules. This page was verified on 2026-11-08; opening hours, tickets, tastings and restaurant service are subject to official channels, and no map is provided here.
+On etiquette: this is private property and a working estate, so do not climb fences, enter vineyards or photograph private residential areas. Tastings at the wine shop should be booked, and groups should state numbers and language in advance. Do not drive after tasting; the Chianti roads are not suited to even mild impairment, and a designated driver or hired car is safer. Do not touch exhibits, furniture or documents, and respect no-flash rules. This entry was verified on 2026-11-08; opening hours, tickets, tastings and restaurant service are subject to official channels, and no map is provided here.
 
 Placed in the context of [Tuscany](ref:tuscany) and [wine](ref:wine), Brolio is most rewarding as a study of how a castle became a wine estate and how a formula became an appellation; for the relationship between place and process, see [Place and process](ref:place-and-process).
 

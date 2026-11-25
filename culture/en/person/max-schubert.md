@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:max-schubert
 source_lang: zh
-source_revision: sha256:5fc289331f67426fda4dcf233f3f8e24c7d949fa4391d286acf29c4502b4a103
-source_sha256: 5fc289331f67426fda4dcf233f3f8e24c7d949fa4391d286acf29c4502b4a103
+source_revision: sha256:ed36b4fee893839e1fc44fcba95af07dc65b328e82bf16bc99cfc65ac87bb18f
+source_sha256: ed36b4fee893839e1fc44fcba95af07dc65b328e82bf16bc99cfc65ac87bb18f
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1915
@@ -96,6 +96,15 @@ Max Schubert (1915–1994) was an Australian winemaker, Penfolds' first chief wi
 ![A bottle of Penfolds Grange 1999 with a label dedicated to Max Schubert](/media/photos/person-max-schubert-c980c6af.jpg)
 
 Figure: A bottle of Penfolds Grange 1999, its label dedicated to Max Schubert. Image: CocktailSteward, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:PenfoldsGrange.jpg)).
+
+> **Quick verdict**
+> **In one line:** This profile explains why Max Schubert is remembered, and which works to look at first.
+>
+> - **Best for:** Anyone trying to understand what Max Schubert did and why the drink world remembers them.
+> - **Not for:** If you want only want anecdotes and do not care about historical position.
+> - **Check first:**
+>   - In Adelaide, Penfolds Magill Estate is the place to start.
+>   - Schubert was born on 9 February 1915 in Angaston, South Australia, into a German immigrant Lutheran family.
 
 ## From Nuriootpa to Magill
 

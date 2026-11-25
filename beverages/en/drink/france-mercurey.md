@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-mercurey
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2d14ed225c3470724ac51f6d2a9b8e561fdbb5d2601632aac457d43a49fd1a0f
-source_sha256: 2d14ed225c3470724ac51f6d2a9b8e561fdbb5d2601632aac457d43a49fd1a0f
+source_revision: sha256:30e877d5a77b90e58d609878ac5068a026585ca07f8ad265e63940322e491a91
+source_sha256: 30e877d5a77b90e58d609878ac5068a026585ca07f8ad265e63940322e491a91
 style_refs:
   - drink-style:red-wine
   - drink-style:white-wine
@@ -97,6 +97,15 @@ On restaurant wine lists, Mercurey is often placed in the entry-to-middle range 
 ![Mercurey image](/media/photos/drink-france-mercurey-e5d5a14d.jpg)
 
 Figure: Mercurey. Image: Mpmpmp, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:IMG_Vignoble_de_Mercurey_12.JPG)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Mercurey suits you, and how to serve and pair it.
+>
+> - **Best for:** Anyone trying to understand what Mercurey is, how it is served and when it fits.
+> - **Not for:** If you want only want the cheapest buying link and do not care about flavour or context.
+> - **Check first:**
+>   - Village-level Mercurey red usually sits in the entry-to-middle band of Burgundy reds, with premier cru one step up; whites usually cost less than reds at the same tier.
+>   - Mercurey lies in the northern Côte Chalonnaise of Burgundy, France, close to the plain of Chalon-sur-Saône to the east.
 
 ## The largest village appellation in the Côte Chalonnaise
 

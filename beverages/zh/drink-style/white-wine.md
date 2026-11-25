@@ -68,9 +68,9 @@ verification_scope: source-verified
 
 白葡萄酒是用白葡萄品种，或去皮后的深色葡萄品种酿造的葡萄酒。与红葡萄酒不同，白葡萄酒通常不让酒液长时间接触果皮，因此颜色较浅、单宁很少，酸度和香气成为主要的结构支柱。它的风格跨度很大：从清脆、干型、适合即饮的酒，到经过橡木桶和酒泥处理、质感浓厚的酒，再到作为起泡酒基酒的酒。
 
-![白葡萄酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![白葡萄酒 类型示意图](/media/figures/specific/drink-style-white-wine.svg)
 
-图：白葡萄酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是白葡萄酒的实拍。
+图：白葡萄酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 酿造的基本选择
 

@@ -74,9 +74,9 @@ verification_scope: source-verified
 
 下胶（fining）是向酒液中加入少量助剂，让助剂与悬浮或溶解的目标物质结合、聚成较大颗粒并沉降，从而改善澄清度与稳定性的工艺。它靠化学反应与吸附起作用，和靠物理截留的[过滤](ref:filtration)是两条不同的路径，但生产中常配合使用。
 
-![下胶（fining） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![下胶（fining） 类型示意图](/media/figures/specific/term-fining.svg)
 
-图：下胶（fining） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是下胶（fining）的实拍。
+图：下胶（fining） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

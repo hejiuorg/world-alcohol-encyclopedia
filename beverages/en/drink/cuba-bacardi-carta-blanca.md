@@ -143,7 +143,7 @@ Carta Blanca is the flagship white rum, charcoal-filtered and light enough for M
 
 **Sources and limits.** The key claims about Bacardí Carta Blanca are checked against the following sources: Bacardí (brand history, raw materials and product information), European Union (rum definitions and minimum strength), Oxford University Press (Consulted for entries on rum and Bacardi). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Bacardí Carta Blanca next to Rum, Distillation, Alcohol by volume (ABV): the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Bacardí Carta Blanca next to Rum, Distillation, Alcohol by volume (ABV): the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

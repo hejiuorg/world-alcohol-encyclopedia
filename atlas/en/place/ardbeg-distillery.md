@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:ardbeg-distillery
 source_lang: zh
-source_revision: sha256:c70f8351d56fbc2c67e8f2dd925e498375eb61507566fd3740e6e086baf9787b
-source_sha256: c70f8351d56fbc2c67e8f2dd925e498375eb61507566fd3740e6e086baf9787b
+source_revision: sha256:59328713cbfa8c7ca7a9b658401fa96e8a10013faa210c6dfcc36fa30bfe6f32
+source_sha256: 59328713cbfa8c7ca7a9b658401fa96e8a10013faa210c6dfcc36fa30bfe6f32
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -109,9 +109,24 @@ verification_scope: source-verified
 
 Ardbeg Distillery stands on the south coast of Islay at Port Ellen, Isle of Islay, Argyll, PA42 7EA. It is not in the centre of Port Ellen but on a side road toward the coast; turn off the main road and the first thing you see is a group of low buildings, warehouses and the visitor centre, with sea wind and grass beyond. Ardbeg is known for a heavily peated single malt with smoke, salt and maritime notes, but "the most heavily peated" is a brand and reviewer's phrase, not a regulation that can be measured in every bottle. What rewards attention during a visit is how malt, peat, distillation and maturation are combined into a consistent style.
 
+> **Visit information**
+> - Address: Ardbeg Distillery, Port Ellen, Isle of Islay, Argyll, PA42 7EA, Scotland.
+> - Opening and booking: check the [official page](https://www.ardbeg.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![related photograph of Ardbeg Distillery](/media/photos/place-ardbeg-distillery-1e249969.jpg)
 
 Figure: Related photograph of Ardbeg Distillery. Image: Rappilio, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ardbeg_whiskybrennerei_islay_schottland_16.06.2007.JPG)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Ardbeg Distillery deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Ardbeg Distillery who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1815 John MacDougall took out a licence and established Ardbeg as a legal commercial distillery; the official history treats that year as the foundation.
+>   - Visits are mainly by reservation, and the distillery advises booking tours or tastings online in advance, especially in high season.
 
 ## Place and history
 
@@ -137,7 +152,7 @@ The address is Ardbeg Distillery, Port Ellen, Isle of Islay, Argyll, PA42 7EA, S
 
 Visitor-centre hours change with the season: in 2026 it is open daily 09:30–17:00 from May to September; April, October and November to April 2027 are Monday to Friday 09:30–17:00. The silent season runs from 15 June to 12 July 2026, when classic tours pause but other tastings continue. The official additional closed dates include 31 May, 13 August and 15 August 2026; the distillery closes from 22 December 2026 to 4 January 2027 and reopens on 5 January, with the last tour on 18 December 2026. Schedules, silent periods and temporary closures change, so check the official site on the day.
 
-Tickets and booking: the Classic Distillery Experience in 2026 costs £22.50 per person, lasts about 1 hour 15 minutes and includes three 15ml core-range drams; booking is essential, and online bookings close 12 hours before the start. Higher-priced options include a limited-edition tour at about £40 and warehouse tastings at about £65, with the range roughly £22.50–£70. Under-18s may join the classic tour but cannot drink; non-drinkers can ask for drivers' drams to take away. The visitor centre itself is free to enter, with drams and DIY tastings. Islay weather changes quickly, with strong wind and rain, so a windproof and waterproof jacket and non-slip shoes are more useful than formal clothes; some old distillery buildings are not fully accessible, and visitors with limited mobility should ask when booking. Opening status, prices and bookings are subject to official confirmation. This page was verified on 2026-11-08.
+Tickets and booking: the Classic Distillery Experience in 2026 costs £22.50 per person, lasts about 1 hour 15 minutes and includes three 15ml core-range drams; booking is essential, and online bookings close 12 hours before the start. Higher-priced options include a limited-edition tour at about £40 and warehouse tastings at about £65, with the range roughly £22.50–£70. Under-18s may join the classic tour but cannot drink; non-drinkers can ask for drivers' drams to take away. The visitor centre itself is free to enter, with drams and DIY tastings. Islay weather changes quickly, with strong wind and rain, so a windproof and waterproof jacket and non-slip shoes are more useful than formal clothes; some old distillery buildings are not fully accessible, and visitors with limited mobility should ask when booking. Opening status, prices and bookings are subject to official confirmation. This entry was verified on 2026-11-08.
 
 ## Etiquette and common mistakes
 

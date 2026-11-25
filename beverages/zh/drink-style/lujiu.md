@@ -76,9 +76,9 @@ verification_scope: source-verified
 
 露酒是中国配制酒中的重要分支。按 GB/T 27588-2011《露酒》的定义，它以蒸馏酒、发酵酒或食用酒精为酒基，加入可食用或药食两用的辅料，经调配、混合或再加工制成，并且已经改变了原酒基的风格。它属于饮料酒，不属于药品。
 
-![露酒 类型示意图](/media/photos/theme-beer.jpg)
+![露酒 类型示意图](/media/figures/specific/drink-style-lujiu.svg)
 
-图：露酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是露酒的实拍。
+图：露酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与标准
 

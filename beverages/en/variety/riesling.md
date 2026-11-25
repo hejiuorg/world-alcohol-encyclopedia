@@ -148,7 +148,7 @@ Riesling is a late-ripening, high-acid grape that reflects site and vintage stro
 
 **Sources and limits.** The key claims about Riesling are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check varietal descriptors and the Vitis species framework), Oxford University Press (Used for reference on Riesling aroma, sweetness and regions; Migrated from the former reference list at the end of the article; access date not re-verified), European Union (Used to check the EU framework for wine labelling and sweetness categories). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Riesling, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Riesling, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

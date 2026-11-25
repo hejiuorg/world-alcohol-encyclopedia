@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:antico-caffe-greco
 source_lang: zh
-source_revision: sha256:c43eb7fa16041a671cf54600fd7c563537328d42bec92f56f3b736b0651a8149
-source_sha256: c43eb7fa16041a671cf54600fd7c563537328d42bec92f56f3b736b0651a8149
+source_revision: sha256:7e99b8fe6ee5327b8062f50707d2b8c208b15f1255133fc6cdb8ebd381dd76e9
+source_sha256: 7e99b8fe6ee5327b8062f50707d2b8c208b15f1255133fc6cdb8ebd381dd76e9
 translation_status: reviewed
 subtype: bar
 address: Via dei Condotti 86, 00187 Roma RM, Italy
@@ -85,7 +85,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on the café's official site, the Italian national tourist board and public reporting; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY 2.0 and is credited in the caption. Operating status is subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY 2.0 and is credited in the caption. Operating status is subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -96,6 +96,15 @@ Via dei Condotti is one of Rome's most shop-window-like streets: luxury stores l
 ![Storefront of Antico Caffè Greco on Via dei Condotti, Rome](/media/photos/place-antico-caffe-greco-632435ad.jpg)
 
 Figure: Antico Caffè Greco on Via dei Condotti, Rome. Image: Elisabetta Stringhi from Italia, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Antico_caff%C3%A9_greco_(14869700159).jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Antico Caffè Greco deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Antico Caffè Greco who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The name comes from its founder.
+>   - As of 20 November 2026, the café has not reopened.
 
 ## Setting and history
 

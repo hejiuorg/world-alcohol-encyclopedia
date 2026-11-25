@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:original-gravity
 source_lang: zh
-source_revision: sha256:2f53fd2487694f0e9c0b3791ce2cf76bacb061a7e37dc194c2c40af9582d054f
-source_sha256: 2f53fd2487694f0e9c0b3791ce2cf76bacb061a7e37dc194c2c40af9582d054f
+source_revision: sha256:1785626ef13537d868aa2cfe4b7e0131bd34f2b198a9383f91c2c1f8d1179dd3
+source_sha256: 1785626ef13537d868aa2cfe4b7e0131bd34f2b198a9383f91c2c1f8d1179dd3
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -83,7 +83,7 @@ verification_scope: source-verified
 ---
 # Original gravity
 
-Original gravity (OG) is the concentration of soluble solids, mainly sugars and other extract, in wort after mashing and before pitching yeast. It answers "how much extract can this grist provide", not "how much alcohol will the finished beer contain". Breweries use OG as the starting point for recipe and process control; Chinese beer labels often print "original gravity 10°P" or "11°P", which is easily misread as alcohol content.![Original gravity thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Original gravity (OG) is the concentration of soluble solids, mainly sugars and other extract, in wort after mashing and before pitching yeast. It answers "how much extract can this grist provide", not "how much alcohol will the finished beer contain". Breweries use OG as the starting point for recipe and process control; Chinese beer labels often print "original gravity 10°P" or "11°P", which is easily misread as alcohol content.![Original gravity thematic illustration](/media/figures/specific/term-original-gravity.svg)
 
 Figure: thematic illustration for Original gravity. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

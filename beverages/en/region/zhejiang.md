@@ -90,7 +90,7 @@ verification_scope: source-verified
 ---
 # Zhejiang Province
 
-Zhejiang lies on the south-east coast of China, on the southern wing of the Yangtze delta, with plains, hills and islands. In the map of alcoholic drinks it is the core yellow wine region: [Shaoxing](ref:shaoxing) on the Shaoxing plain brews with glutinous rice, wheat qu and Jian Lake water to make the Jiafan, Yuanhong, Shanniang and Xiangxue families, while Jinhua and Huzhou keep traditions of their own. This page describes the province-level region and its industry; process detail is left to the Shaoxing page.
+Zhejiang lies on the south-east coast of China, on the southern wing of the Yangtze delta, with plains, hills and islands. In the map of alcoholic drinks it is the core yellow wine region: [Shaoxing](ref:shaoxing) on the Shaoxing plain brews with glutinous rice, wheat qu and Jian Lake water to make the Jiafan, Yuanhong, Shanniang and Xiangxue families, while Jinhua and Huzhou keep traditions of their own. This region describes the province-level region and its industry; process detail is left to the Shaoxing page.
 
 ![Zhejiang Province image](/media/photos/region-zhejiang-44cfa641.jpg)
 

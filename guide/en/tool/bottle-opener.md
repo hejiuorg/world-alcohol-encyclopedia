@@ -172,4 +172,4 @@ Oxford University Press, Encyclopaedia Britannica, British Beer and Pub Associat
 
 **Sources and limits.** The key claims about Bottle Opener are checked against the following sources: Oxford University Press (Used to check beer service and opening tool background), Encyclopaedia Britannica (Used to check crown caps, foam and serving), British Beer and Pub Association (Used to check pub beer service and opening methods) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Bottle Opener, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Bottle Opener, this tool was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

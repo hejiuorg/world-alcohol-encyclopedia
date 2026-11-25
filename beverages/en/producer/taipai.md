@@ -82,7 +82,7 @@ verification_scope: source-verified
 ---
 # Zhejiang Taipai Shaoxing Rice Wine Co., Ltd.
 
-Zhejiang Taipai Shaoxing Rice Wine Co., Ltd. is a huangjiu producer in Shaoxing, and its products belong to the Shaoxing type of [huangjiu](ref:yellow-wine). The company trades under the [Taipai](ref:brand) brand, with a representative product in [Taipai Handmade Winter Brew](ref:drink). This page records the producer layer: company identity, production area, brand structure and craft features.
+Zhejiang Taipai Shaoxing Rice Wine Co., Ltd. is a huangjiu producer in Shaoxing, and its products belong to the Shaoxing type of [huangjiu](ref:yellow-wine). The company trades under the [Taipai](ref:brand) brand, with a representative product in [Taipai Handmade Winter Brew](ref:drink). This producer records the producer layer: company identity, production area, brand structure and craft features.
 
 ![Zhejiang Taipai Shaoxing Rice Wine Co., Ltd. category image](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
 
@@ -90,9 +90,9 @@ Figure: Zhejiang Taipai Shaoxing Rice Wine Co., Ltd.. Photograph: File:Shaoxing 
 
 ## Company identity
 
-This page records the producer layer: company name, location, organisational form and product structure. The company is the production and operating entity, holding the trademark and running production and sales. When discussing "Taipai", first separate the company, the brand and a single bottle.
+This producer records the producer layer: company name, location, organisational form and product structure. The company is the production and operating entity, holding the trademark and running production and sales. When discussing "Taipai", first separate the company, the brand and a single bottle.
 
-Taipai is one of the main Shaoxing huangjiu producers, and public material presents handmade winter brewing and export markets as its features. No verifiable founding year is given for the company on this page, so no specific founding date is entered; statements involving dates should follow official company material.
+Taipai is one of the main Shaoxing huangjiu producers, and public material presents handmade winter brewing and export markets as its features. No verifiable founding year is given for the company on this producer, so no specific founding date is entered; statements involving dates should follow official company material.
 
 ## Production area and site
 
@@ -120,13 +120,13 @@ Traditionally, Shaoxing wine is divided by recipe and sugar level into yuanhong,
 
 Public material presents export as an important market for Taipai. Shaoxing wine has steady demand in overseas Chinese markets and Asian restaurant channels, and export products usually need to meet destination-country rules on labelling, additives and strength declaration, so the same wine may carry different labels in different markets.
 
-Export volumes, market rankings and prices change over time, and this page gives no specific figures. When discussing market position, company statements, industry statistics and third-party reports should be distinguished.
+Export volumes, market rankings and prices change over time, and this producer gives no specific figures. When discussing market position, company statements, industry statistics and third-party reports should be distinguished.
 
 ## Industry position
 
 The Shaoxing huangjiu industry is characterised by many small and medium producers and strong seasonality, and the pace of production during winter brewing differs from the rest of the year. Taipai sits within this cluster and must maintain traditional craft while facing structural issues such as regionally concentrated consumption and limited cultivation of younger drinkers.
 
-Huangjiu spans a wide price range, from everyday products to gift and aged products. Prices vary by channel, region and supply, and this page gives no specific figures.
+Huangjiu spans a wide price range, from everyday products to gift and aged products. Prices vary by channel, region and supply, and this producer gives no specific figures.
 
 ## Common misconceptions
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:cafe-central
 source_lang: zh
-source_revision: sha256:9a327f5e23f7ef30f36abe92be7f222e941f225a0275d2d95e0aaadf2c7ed742
-source_sha256: 9a327f5e23f7ef30f36abe92be7f222e941f225a0275d2d95e0aaadf2c7ed742
+source_revision: sha256:97102c909569af9e4153b236377cda3851908513252e87343a9c38623199d247
+source_sha256: 97102c909569af9e4153b236377cda3851908513252e87343a9c38623199d247
 translation_status: reviewed
 subtype: pub
 address: Herrengasse 14 (Ecke Strauchgasse), 1010 Wien, Austria
@@ -82,6 +82,12 @@ verification_scope: source-verified
 ---
 
 # Café Central
+
+> **Visit information**
+> - Address: Herrengasse 14 (corner of Strauchgasse), 1010 Vienna, Austria.
+> - Opening and booking: check the [official page](https://www.cafecentral.wien/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Not verified; sources checked: 2026-11-08.
 
 ![Café Central image](/media/photos/place-cafe-central-2af7dbed.jpg)
 

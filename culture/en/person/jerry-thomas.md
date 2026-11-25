@@ -52,7 +52,7 @@ sources:
   - key: how-to-mix-drinks
     title: How to Mix Drinks; or, The Bon-Vivant's Companion
     publisher: Dick & Fitzgerald, New York, 1862
-    note: Thomas's own drinks book; this page uses only its bibliographic details and commonly described structure and reproduces no recipes.
+    note: Thomas's own drinks book; this profile uses only its bibliographic details and commonly described structure and reproduces no recipes.
     accessed: 2026-11-07
   - key: britannica-jerry-thomas
     title: Encyclopaedia Britannica
@@ -111,7 +111,7 @@ Figure: Jerry Thomas. Project-generated or category illustration used for bar an
 
 Most stories about Thomas can be traced to his own book, newspaper advertisements and obituaries, and rarely to independent evidence. He called himself the Professor and was happy to be written up as a character; nineteenth-century American bars were good at making characters. Any biography should keep "he said", "the papers said" and "the archive proves" in separate columns.
 
-His birth year is the first example. Common references give 30 October 1830, while other research using parish and genealogical material pushes it back to 1825. This page uses 1825 and keeps 1830 in the text rather than hiding the disagreement.
+His birth year is the first example. Common references give 30 October 1830, while other research using parish and genealogical material pushes it back to 1825. This profile uses 1825 and keeps 1830 in the text rather than hiding the disagreement.
 
 ## Life
 

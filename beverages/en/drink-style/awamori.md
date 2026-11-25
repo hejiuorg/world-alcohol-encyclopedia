@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:awamori
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:66e5cc50b7c82fe7b0e295ebb9db6b2d82fac8ea35ddff6bc9c90bc24a780c62
-source_sha256: 66e5cc50b7c82fe7b0e295ebb9db6b2d82fac8ea35ddff6bc9c90bc24a780c62
+source_revision: sha256:fd8d4cfce40f9a99d3e069914bc04ab954161cbaf0d77cb72cce441627c06384
+source_sha256: fd8d4cfce40f9a99d3e069914bc04ab954161cbaf0d77cb72cce441627c06384
 legacy_refs: []
 parent_style_id: drink-style:shochu
 aroma_family: rice and aged aroma
@@ -74,7 +74,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English page verified against the National Tax Agency of Japan, an industry association and a reference work; no source text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 
@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 The recipe for awamori is startlingly short: rice, black koji, water, yeast. There is no second mash addition, no continuous still, no cool slow fermentation to build perfume. Yet this simple sequence has run in Okinawa's heat and humidity for centuries, and it produced a tradition few other Japanese spirits share: sealing the spirit in clay jars and waiting three, ten or thirty years for it to become kusu, "old sake".
 
-![Awamori thematic illustration](/media/photos/theme-beer.jpg)
+![Awamori thematic illustration](/media/figures/specific/drink-style-awamori.svg)
 
 Figure: thematic illustration for Awamori. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

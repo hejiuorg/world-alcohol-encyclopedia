@@ -91,7 +91,7 @@ verification_scope: source-verified
 ---
 # Gaja Barbaresco
 
-Gaja's address in Barbaresco is clear: Via Torino 5, 12050 Barbaresco (CN). Its "visitability" is not clear. At the time of checking, the official pages that loaded gave only the address, the telephone +39 0173 635158 and the email info@gaja.com, with no public tour times, ticket prices or booking entry. This page therefore marks the operating status as unknown: the address and contact details are verified, but whether a visit or tasting can be arranged must be settled by an official reply. The common mistake here is to treat a famous name as a door that is always open.
+Gaja's address in Barbaresco is clear: Via Torino 5, 12050 Barbaresco (CN). Its "visitability" is not clear. At the time of checking, the official pages that loaded gave only the address, the telephone +39 0173 635158 and the email info@gaja.com, with no public tour times, ticket prices or booking entry. This entry therefore marks the operating status as unknown: the address and contact details are verified, but whether a visit or tasting can be arranged must be settled by an official reply. The common mistake here is to treat a famous name as a door that is always open.
 
 ![Gaja Barbaresco category image](/media/photos/q2-region-piedmont-86c6d640.jpg)
 
@@ -123,7 +123,7 @@ Yield enters the same argument. Lower yields can raise concentration but may cos
 
 ## The boundary of a visit: what is confirmed
 
-Confirmed: the winery is at Via Torino 5, the telephone and email are valid, and the official site publishes no public visiting hours. Not confirmed: whether individual visitors are received, whether a tasting is offered, whether there is a charge, and how far ahead one must book. Because that information is missing, this page gives no ticket price and does not suggest "just turn up". The correct approach is to email or telephone with the number of people, date and purpose, and wait for written confirmation.
+Confirmed: the winery is at Via Torino 5, the telephone and email are valid, and the official site publishes no public visiting hours. Not confirmed: whether individual visitors are received, whether a tasting is offered, whether there is a charge, and how far ahead one must book. Because that information is missing, this entry gives no ticket price and does not suggest "just turn up". The correct approach is to email or telephone with the number of people, date and purpose, and wait for written confirmation.
 
 If the aim is simply to understand Barbaresco, Gaja is not the only route. Other wineries, cooperatives and the appellation's visitor spaces in the village offer more predictable reception; using Gaja as a stop to see the outside, read the labels and taste elsewhere fits the present state of public information better. If a visit is confirmed, follow production-area rules: do not touch equipment, cross yellow lines or linger to film in the fermentation hall.
 
@@ -131,7 +131,7 @@ If the aim is simply to understand Barbaresco, Gaja is not the only route. Other
 
 Barbaresco has a tower, a church and a few small squares; an hour on foot is enough. Outside the village, vineyards alternate with hazel groves, and in autumn fog rises from the valley floor, giving the Langhe its characteristic light. Place Gaja in the morning or towards evening, avoiding harsh midday sun, for easier walking and photography. To compare with Barolo, continue south to Serralunga d'Alba and the storytelling village and cellars of [Fontanafredda](ref:fonta).
 
-From Alba, Barbaresco is about twenty minutes by car; from Turin, about an hour and a half. Regional buses exist but are infrequent, and the wineries are scattered on hillsides, so a car is more practical. Visiting policy, address and contact details are subject to official channels; this page was verified on 2026-11-09, and coordinates were not taken from an official page, so coordinates should be confirmed through official channels.
+From Alba, Barbaresco is about twenty minutes by car; from Turin, about an hour and a half. Regional buses exist but are infrequent, and the wineries are scattered on hillsides, so a car is more practical. Visiting policy, address and contact details are subject to official channels; this entry was verified on 2026-11-09, and coordinates were not taken from an official page, so coordinates should be confirmed through official channels.
 
 **Short definition:** A family winery at Via Torino 5 in Barbaresco whose official site publishes only an address, telephone and email. Public visiting and tasting arrangements are not confirmed, so ask through official channels instead of assuming the door is open.
 

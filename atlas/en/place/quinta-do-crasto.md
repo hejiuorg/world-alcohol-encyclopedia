@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:quinta-do-crasto
 source_lang: zh
-source_revision: sha256:b9984b4a7970cab5a61c72bbe3ff9c450ba6ee72a548096f74d2aea2698d2502
-source_sha256: b9984b4a7970cab5a61c72bbe3ff9c450ba6ee72a548096f74d2aea2698d2502
+source_revision: sha256:f27ac41204e0d8f8511606682be12d09e26499133246b63e7dda373e827583f3
+source_sha256: f27ac41204e0d8f8511606682be12d09e26499133246b63e7dda373e827583f3
 translation_status: reviewed
 subtype: winery-visitor
 address: Quinta do Crasto, Gouvinhas, 5060-063 Sabrosa, Portugal
@@ -107,6 +107,15 @@ Quinta do Crasto lies on the right bank of the Douro at Gouvinhas, in the munici
 ![Quinta do Crasto category image](/media/photos/region-douro-fd8dc772.jpg)
 
 Figure: Quinta do Crasto. Photograph: File:Rio Douro - Portugal (32615481975) (cropped).jpg. Credit: Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY-SA 2.0 ([source page](https://commons.wikimedia.org/wiki/File:Rio_Douro_-_Portugal_(32615481975)_(cropped).jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Quinta do Crasto deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Quinta do Crasto who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The history can be read through three dates.
+>   - All tastings and meals must be booked in advance.
 
 ## Place and history
 

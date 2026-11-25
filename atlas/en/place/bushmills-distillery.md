@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:bushmills-distillery
 source_lang: zh
-source_revision: sha256:ad193ca796f1c6e77450f0b4212938f8ef3f8ab21f970aea593b24407c471a17
-source_sha256: ad193ca796f1c6e77450f0b4212938f8ef3f8ab21f970aea593b24407c471a17
+source_revision: sha256:762b6abc994effa501bc0082088940345a61e4b703359492b282bc9d241fc77c
+source_sha256: 762b6abc994effa501bc0082088940345a61e4b703359492b282bc9d241fc77c
 translation_status: reviewed
 subtype: distillery-visitor
 address: 2 Distillery Road, Bushmills, Co Antrim BT57 8XH, Northern Ireland
@@ -91,6 +91,12 @@ verification_scope: source-verified
 # Bushmills Distillery
 
 Bushmills is a village on the north coast of County Antrim, Northern Ireland, and the distillery stands beside the River Bush, about two miles from the Giant's Causeway. Its loudest claim is to be "the world's oldest licensed whiskey distillery", based on a distillation licence dated 1608. The buildings you actually visit — the production halls, visitor centre and 1608 Bar — were built and rebuilt much later. Keeping the licence date, the distillery's own history and the standing buildings apart is the first step to reading the place.
+
+> **Visit information**
+> - Address: 2 Distillery Road, Bushmills, Co Antrim BT57 8XH, Northern Ireland.
+> - Opening and booking: check the [official page](https://www.bushmills.eu/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
 
 ![related photograph of Bushmills Distillery](/media/photos/place-bushmills-distillery-53905a77.jpg)
 

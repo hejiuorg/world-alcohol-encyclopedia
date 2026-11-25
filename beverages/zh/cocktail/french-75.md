@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方比例、方法与杯型；未复制原文。
     accessed: 2026-11-07
@@ -94,6 +94,15 @@ verification_scope: source-verified
 ![笛形杯中的金黄色法国 75](/media/photos/cocktail-french-75-230ca3d6.jpg)
 
 图：一杯法国 75，金黄色酒液与细密气泡，杯口饰有一片柠檬。图片：Gary J Wood，CC BY-SA 2.0，via [原图页面](https://commons.wikimedia.org/wiki/File:French_75.jpg)。
+
+> **先给结论**
+> **一句话：** 这页判断法国 75该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂法国 75的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 点单时可以直接说“法国 75”，并确认基酒是金酒还是干邑。
+>   - 法国 75 的名字来自法国军队在第一次世界大战前装备的 75 毫米野战炮，正式型号是 Canon de 75 modèle 1897。
 
 ## 名字来自一门炮
 

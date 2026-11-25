@@ -142,7 +142,7 @@ Airag shares a lactic-fermentation logic with yoghurt, kefir and cheese, not the
 To learn this family, build a "fresh–slightly sour–over-sour" sequence: taste a batch fermented the same day, then a chilled one-day product, then an over-fermented sample. After three steps the changes in acidity and carbonation become clear.
 
 - Related: [other](ref:other), [fermentation](ref:fermentation), [aroma](ref:aroma), [body](ref:body), [terroir](ref:terroir).
-- This page offers no brand ranking, prices or shopping channels; airag is a category of fermented milk drinks, not a quality grade.
+- This style offers no brand ranking, prices or shopping channels; airag is a category of fermented milk drinks, not a quality grade.
 
 **Short definition:** A low-alcohol drink of Mongolia and Central Asia made by naturally fermenting mare’s milk, tart and milky with light bubbles; usually 1–3% alcohol, part of nomadic food and festivals.
 

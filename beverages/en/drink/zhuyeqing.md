@@ -142,7 +142,7 @@ Unopened bottles should be stored upright, away from light, in a cool place, avo
 
 First, treating Zhuyeqing as plain baijiu. It is a blended spirit, and the base spirit is only one ingredient.
 
-Second, treating herbal aroma as a medicinal effect. Aroma and efficacy are different things, and this page makes no efficacy claims.
+Second, treating herbal aroma as a medicinal effect. Aroma and efficacy are different things, and this entry makes no efficacy claims.
 
 Third, assuming a lower ABV means less intoxication. Sweetness masks the alcohol and encourages faster drinking.
 

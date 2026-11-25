@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:california-common
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5afaff83087f4048615c678ded5e71418ffc52464ac0753d4a0fc70060778cee
-source_sha256: 5afaff83087f4048615c678ded5e71418ffc52464ac0753d4a0fc70060778cee
+source_revision: sha256:11720dc03d5e519dece3af3a33a77058d02a1f6b38f57dfabe5727e56307b0e5
+source_sha256: 11720dc03d5e519dece3af3a33a77058d02a1f6b38f57dfabe5727e56307b0e5
 related:
   - relation: about
     target_id: drink-style:beer
@@ -100,7 +100,7 @@ verification_scope: source-verified
 
 An amber beer from California fermented with lager yeast at warmer temperatures, with malt sweetness, woody notes and hop bitterness; Anchor Steam is the commercial benchmark for the “steam beer” name.
 
-![California Common](/media/photos/theme-beer.jpg)
+![California Common](/media/figures/specific/drink-style-california-common.svg)
 
 Figure: Thematic illustration for California Common. Image: AI-assisted illustration (Doubao Seedream 5.0), project-owned; not a photograph of the subject, used as a thematic illustration only.
 

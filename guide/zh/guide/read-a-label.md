@@ -74,9 +74,9 @@ verification_scope: source-verified
 
 酒标首先是法规文件，其次才是品牌叙事。先找可核对的信息，再读故事。酒标能告诉你这瓶酒“是什么、来自哪里、按什么规则生产”，但不能替你判断它好不好喝。
 
-![酒标很小，线索不少 类型示意图](/media/photos/theme-route.jpg)
+![酒标很小，线索不少 类型示意图](/media/figures/specific/guide-read-a-label.svg)
 
-图：酒标很小，线索不少 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是酒标很小，线索不少的实拍。
+图：酒标很小，线索不少 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 标签先是法规文件
 

@@ -135,13 +135,13 @@ Sauce-aroma products use sorghum as the raw material and wheat for high-temperat
 
 The public route for sauce-aroma baijiu is usually summarised as one production cycle a year, two rounds of grain addition, nine steamings, eight fermentations and seven spirit draws. Base spirit from each round differs in style, is stored separately and is then blended into the finished product. High-temperature qu, pile fermentation and multi-round drawing together build the composite aroma.
 
-[Qu making](ref:qu-making) sets qu aroma and fermentation power; during [distillation](ref:distillation) the run is cut by fraction, with head and tail separated and the middle run used as the main base. New spirit is stored by round and grade, and blending unifies aroma, body and finish. Blending is not simple addition, nor can dilution fix a structural problem. Round ratios, storage periods and the use of older spirit are company information, and this page describes only the public framework.
+[Qu making](ref:qu-making) sets qu aroma and fermentation power; during [distillation](ref:distillation) the run is cut by fraction, with head and tail separated and the middle run used as the main base. New spirit is stored by round and grade, and blending unifies aroma, body and finish. Blending is not simple addition, nor can dilution fix a structural problem. Round ratios, storage periods and the use of older spirit are company information, and this entry describes only the public framework.
 
 ## Specification and label
 
 The common specification is 53% ABV in 500 mL; gift boxes, full cases and different generations may vary in packaging and volume. Strength is shown as [alcohol by volume](ref:abv), where 53% ABV means 53 mL of ethanol in 100 mL of liquid at 20°C. The product standard for sauce-aroma baijiu is commonly GB/T 26760, and the bottle label governs.
 
-The producer, product name, aroma type, strength, volume, standard and batch on the label are the basics for identity. Fifth-generation products, commemorative editions and channel editions should be distinguished by label; "estate" and "cave-stored" describe production and storage systems, not the exact age of the liquid. Price information is highly time-sensitive, and this page gives no figures.
+The producer, product name, aroma type, strength, volume, standard and batch on the label are the basics for identity. Fifth-generation products, commemorative editions and channel editions should be distinguished by label; "estate" and "cave-stored" describe production and storage systems, not the exact age of the liquid. Price information is highly time-sensitive, and this entry gives no figures.
 
 ## Flavour and tasting
 
@@ -153,7 +153,7 @@ Taste from a small cup: smell at rest, then gently swirl and smell again. Let th
 
 The company's public chronology records 1957 as the resumption of production and notes that the brewing tradition around Erlangtan goes back further. Around 2017 Qinghualang was promoted as "one of China's two major sauce-aroma baijiu"; in 2021 the positioning was upgraded to "left bank of the Chishui River, estate sauce-aroma spirit", followed by promotion of the fifth generation. Positioning changes reflect corporate strategy, not a change in the product standard.
 
-Qinghualang has long sat in the high-end price band and is a common choice for business banquets and gifting. Prices change with year, channel and supply and demand, and this page gives no figures. Treating an advertising position as proof of quality, or a packaging generation as a body upgrade, are common misreadings; generational differences should be checked against company information and the label.
+Qinghualang has long sat in the high-end price band and is a common choice for business banquets and gifting. Prices change with year, channel and supply and demand, and this entry gives no figures. Treating an advertising position as proof of quality, or a packaging generation as a body upgrade, are common misreadings; generational differences should be checked against company information and the label.
 
 ## Buying and storage
 

@@ -139,7 +139,7 @@ Maytag revived the Anchor Brewing Company in 1965 and helped spark the American 
 
 **Sources and limits.** The key claims about Fritz Maytag are checked against the following sources: Smithsonian Institution, Smithsonian National Museum of American History, Gastronomica and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Fritz Maytag, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Fritz Maytag, this profile was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 Maytag's brewing career began against the backdrop of 1960s San Francisco.
 

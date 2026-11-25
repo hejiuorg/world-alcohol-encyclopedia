@@ -89,9 +89,9 @@ verification_scope: source-verified
 
 混蒸混烧是固态法白酒[蒸馏](ref:distillation)的组织方式：新拌入的粮粉、填充料与待蒸馏的酒醅同甑装填，蒸粮与蒸酒在同一次蒸馏中完成，酒气与粮香一并进入冷凝系统。它与“清蒸清烧”相对，后者把粮与酒分开蒸煮、分开蒸馏。两者不是优劣之分，而是不同香型与原料体系下的路线选择。
 
-![混蒸混烧 类型示意图](/media/photos/theme-beer.jpg)
+![混蒸混烧 类型示意图](/media/figures/specific/process-mixed-steaming.svg)
 
-图：混蒸混烧 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是混蒸混烧的实拍。
+图：混蒸混烧 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 工序定位
 

@@ -131,7 +131,7 @@ Watch bottle and closure as well: older Huet bottles appear in different shapes 
 
 ## Visiting and confirming a booking
 
-The address is 11 rue de la Croix Buisée, 37210 Vouvray, France; the official site is mostly about the estate and sales, with no fixed visiting hours, and the legal notice gives only the address, phone and email. This page therefore marks operating status as unknown: the estate is working, but whether and when a visitor can taste must be confirmed by email or phone.
+The address is 11 rue de la Croix Buisée, 37210 Vouvray, France; the official site is mostly about the estate and sales, with no fixed visiting hours, and the legal notice gives only the address, phone and email. This entry therefore marks operating status as unknown: the estate is working, but whether and when a visitor can taste must be confirmed by email or phone.
 
 If received, ask whether there is a fee, whether the three parcels are included and whether children may come; drivers should spit. Vouvray is about twenty minutes from Tours, and village parking is limited, so park outside and walk in. Avoid the evening rush, as the riverside roads have poor visibility at dusk.
 

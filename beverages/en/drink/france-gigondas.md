@@ -124,7 +124,7 @@ Figure: Gigondas. Photograph: File:Red and white wine in glass.jpg. Credit: Andr
 
 ## A single village under a limestone ridge
 
-The appellation's natural boundaries are unusually clear. To the east rises the limestone spine of the Dentelles de Montmirail; to the west runs the Ouvèze; to the north, the Trignon torrent. The village sits at about 282 metres, the vineyards climb from roughly 100 metres on the terraces to 500 metres on the hillside, and the ridge tops out at 732 metres. That vertical span is the starting point for everything that distinguishes Gigondas from its neighbours, and it is why this page keeps returning to geography rather than to a generic "Southern Rhône" formula.
+The appellation's natural boundaries are unusually clear. To the east rises the limestone spine of the Dentelles de Montmirail; to the west runs the Ouvèze; to the north, the Trignon torrent. The village sits at about 282 metres, the vineyards climb from roughly 100 metres on the terraces to 500 metres on the hillside, and the ridge tops out at 732 metres. That vertical span is the starting point for everything that distinguishes Gigondas from its neighbours, and it is why this entry keeps returning to geography rather than to a generic "Southern Rhône" formula.
 
 ## Before and after the 1971 promotion
 
@@ -164,6 +164,6 @@ First, "Gigondas is just a stronger Côtes du Rhône Villages". It has been an i
 
 ## Sources, prices and verification
 
-The figures on this page come from Inter Rhône's appellation page, the cahier des charges approved on 10 December 2024, the syndicate's 2020 press dossier, and the official material of Domaine des Bosquets and Château de Saint-Cosme. Retail prices come only from a Vinatis sample and are not presented as an appellation average. All sources were opened and checked on 8 November 2026.
+The figures on this entry come from Inter Rhône's appellation page, the cahier des charges approved on 10 December 2024, the syndicate's 2020 press dossier, and the official material of Domaine des Bosquets and Château de Saint-Cosme. Retail prices come only from a Vinatis sample and are not presented as an appellation average. All sources were opened and checked on 8 November 2026.
 
 **Short definition:** A red wine appellation in the Southern Rhône Valley, France, whose AOC covers the single village of Gigondas at the foot of the Dentelles de Montmirail; based on Grenache with Syrah, Mourvèdre and Cinsault, with vines from about 100 to 500 metres, a limestone-driven style, and white wine permitted from the 2023 vintage, commonly 750 mL at about 13%–15% vol.

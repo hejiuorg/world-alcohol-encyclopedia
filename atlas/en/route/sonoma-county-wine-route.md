@@ -77,7 +77,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project text, checked against regional associations, winery websites and tourism bodies for routes, stops and booking information; no source text was copied. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, labels, maps and quoted text are excluded; roads, hours, booking rules and prices change, so check official channels. This page does not draw a map.
+  note: Third-party trademarks, labels, maps and quoted text are excluded; roads, hours, booking rules and prices change, so check official channels. This route does not draw a map.
 verification_scope: source-verified
 stop_ids:
   - place_id: place:jordan-vineyard
@@ -140,7 +140,7 @@ Allow about ninety minutes from San Francisco to Healdsburg, fifteen minutes fro
 
 Book Jordan’s château tour, estate tour and restaurant; Williams Selyem accepts appointments only and has few places. Neither handles large walk-in groups well; for more than six people, email ahead. Spit into the spit bucket and keep driving tastings to one or two; Jordan has stone steps and Williams Selyem a small room, so wear proper shoes and leave large luggage behind.
 
-This page does not draw a map or provide live prices; roads, hours and booking rules change, so check both estate websites and Sonoma County wine associations before leaving. If an estate closes unexpectedly, do not force it — keep a backup winery or Healdsburg in the plan and the day still works.
+This route does not draw a map or provide live prices; roads, hours and booking rules change, so check both estate websites and Sonoma County wine associations before leaving. If an estate closes unexpectedly, do not force it — keep a backup winery or Healdsburg in the plan and the day still works.
 
 ## Further reading and see also
 

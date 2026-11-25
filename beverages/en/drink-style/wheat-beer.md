@@ -84,7 +84,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against style guidelines, industry association material and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Wheat beer
@@ -151,7 +151,7 @@ Wheat beer is a top-fermented beer with a large wheat share; German versions sho
 
 **Sources and limits.** The key claims about Wheat beer are checked against the following sources: Beer Judge Certification Program, Deutscher Brauer-Bund, Brewers Association (public US craft industry statements on wheat ale and its variants; no original wording is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Wheat beer, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Wheat beer, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

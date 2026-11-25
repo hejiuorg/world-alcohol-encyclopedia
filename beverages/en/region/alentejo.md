@@ -24,8 +24,8 @@ tags:
 translation_of: region:alentejo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9f2267987321dfa1c36d96876686c9ede792451585bcfcac0c292b04bfee409a
-source_sha256: 9f2267987321dfa1c36d96876686c9ede792451585bcfcac0c292b04bfee409a
+source_revision: sha256:a2bbd2833ddfd8dd291f266e7f5d84014b9f54b5a2c06bcb47df29a5921a24df
+source_sha256: a2bbd2833ddfd8dd291f266e7f5d84014b9f54b5a2c06bcb47df29a5921a24df
 related:
   - relation: about
     target_id: region:portugal
@@ -124,6 +124,15 @@ A large region in south-central Portugal with a hot, dry climate and soils from 
 ![Alentejo](/media/photos/region-alentejo-c0c92600.jpg)
 
 Figure: Alentejo: Alentejo September 2013-1 (Wikimedia Commons). Image: Alvesgaspar, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Alentejo_September_2013-1.jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Alentejo for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Alentejo with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Archaeological evidence shows wine was part of daily life here before the Romans reached southern Portugal.
+>   - Alentejo reds are full-bodied with rounded tannins, pairing well with local roast lamb, stews, sausages and hard cheeses.
 
 ## Definition and boundaries
 

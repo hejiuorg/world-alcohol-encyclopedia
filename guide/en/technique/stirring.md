@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: technique:stirring
 source_lang: zh
-source_revision: sha256:9aedfd9a0872f1ebfa9f521de575ad30fd80345c8414db5dc6d3d44ae743b009
-source_sha256: 9aedfd9a0872f1ebfa9f521de575ad30fd80345c8414db5dc6d3d44ae743b009
+source_revision: sha256:aa0fa800033ddd89cef6dbc1f3aa4bc9d017fadf5774039510335ef2d3205ffa
+source_sha256: aa0fa800033ddd89cef6dbc1f3aa4bc9d017fadf5774039510335ef2d3205ffa
 translation_status: reviewed
 legacy_refs: []
 applies_to_refs:
@@ -76,7 +76,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -90,12 +90,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; based on the public IBA recipe and drink reference works, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 # Stirring
 
-Stirring is the technique of putting ingredients and ice into a mixing glass and moving them steadily with a bar spoon. It does three things: chills, dilutes moderately and mixes. Compared with [shaking](ref:shaking), stirring brings in less air and fewer ice shards, so the drink stays clearer and the aroma finer, which suits short drinks built mainly on spirits.![Stirring thematic illustration](/media/photos/theme-beer.jpg)
+Stirring is the technique of putting ingredients and ice into a mixing glass and moving them steadily with a bar spoon. It does three things: chills, dilutes moderately and mixes. Compared with [shaking](ref:shaking), stirring brings in less air and fewer ice shards, so the drink stays clearer and the aroma finer, which suits short drinks built mainly on spirits.![Stirring thematic illustration](/media/figures/specific/technique-stirring.svg)
 
 Figure: thematic illustration for Stirring. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

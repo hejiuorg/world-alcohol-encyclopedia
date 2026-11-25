@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: cocktail:sazerac
 source_lang: zh
-source_revision: sha256:8c480ac58be9f2f006fc42281702f9f84c97c7d9d256f9f23f8ee781e05a4606
-source_sha256: 8c480ac58be9f2f006fc42281702f9f84c97c7d9d256f9f23f8ee781e05a4606
+source_revision: sha256:93cfd74c3ece3c78c00ed3c5b65795ebc9610b5e088c4712f0bcf6e69e6363e0
+source_sha256: 93cfd74c3ece3c78c00ed3c5b65795ebc9610b5e088c4712f0bcf6e69e6363e0
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -69,7 +69,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -94,7 +94,7 @@ Figure: Sazerac. Image: Gtandersson, CC BY 4.0, via Wikimedia Commons ([source p
 
 ## Definition and identity
 
-The Sazerac is often called New Orleans' signature cocktail, and its history involves local bars, a bitters brand and French-influenced culture. Several accounts of its origin and early method exist, and this page treats them as historical background rather than a settled conclusion.
+The Sazerac is often called New Orleans' signature cocktail, and its history involves local bars, a bitters brand and French-influenced culture. Several accounts of its origin and early method exist, and this cocktail treats them as historical background rather than a settled conclusion.
 
 ## Recipe (IBA version)
 
@@ -148,7 +148,7 @@ For Sazerac, a common mistake is treating a variation as the same recipe. After 
 
 A Sazerac suits slow pre-dinner drinking with nuts, cheese or New Orleans-style snacks. It is relatively strong, so sip slowly and drink water; do not drink quickly on an empty stomach. Do not drink if driving, taking medication or pregnant.
 
-This page records one sourced version and does not rate specific brands or present one ratio as the only correct answer. The final strength depends on the base spirit's [alcohol by volume](ref:abv), the amount of sugar and ice dilution, not on the recipe numbers alone.
+This cocktail records one sourced version and does not rate specific brands or present one ratio as the only correct answer. The final strength depends on the base spirit's [alcohol by volume](ref:abv), the amount of sugar and ice dilution, not on the recipe numbers alone.
 
 **Short definition:** A classic cocktail originating in New Orleans, made with cognac, a sugar cube and Peychaud's bitters in the IBA version, with an absinthe rinse; the rye whiskey version is the post-Civil War substitution tradition.
 

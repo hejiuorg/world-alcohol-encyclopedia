@@ -105,7 +105,7 @@ place_refs:
   - place:chateau-de-meursault
 organizer_refs: []
 official_url: https://www.chateau-meursault.com/
-event_status: upcoming
+event_status: past
 ---
 # 默尔索葡萄酒宴“Paulée de Meursault”2026
 
@@ -114,6 +114,15 @@ event_status: upcoming
 ![默尔索葡萄酒宴“Paulée de Meursault”2026所在产区配图](/media/photos/q2-region-burgundy-8580e678.jpg)
 
 图：默尔索葡萄酒宴“Paulée de Meursault”2026所在的勃艮第风貌配图。摄影：Burgundy vineyards near Beaune, France。署名：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=65061583)）。这张照片用于说明产区环境与访问语境，不标定默尔索葡萄酒宴“Paulée de Meursault”2026的门店、酒庄或活动现场。
+
+> **先给结论**
+> **一句话：** 这页判断：默尔索葡萄酒宴“Paulée de Meursault”2026，现在是什么状态，以及现场怎么参与。
+>
+> - **适合谁：** 想了解默尔索葡萄酒宴“Paulée de Meursault”2026的现场、机制和当届状态的人。
+> - **不适合谁：** 只查当届票务或实时安排、不看活动边界的人。
+> - **先看这两点：**
+>   - Paulée 不向公众自由售票。
+>   - Paulée 的字面意思是“丰收后的饭菜”。
 
 ## 活动是什么
 

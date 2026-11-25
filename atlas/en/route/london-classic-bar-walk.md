@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:london-classic-bar-walk
 source_lang: zh
-source_revision: sha256:9dc378767ac3ae35c085f51e5e2691642042f4eb99f313bce94ba0b0369c2226
-source_sha256: 9dc378767ac3ae35c085f51e5e2691642042f4eb99f313bce94ba0b0369c2226
+source_revision: sha256:592ea0bd2789e6bb654f60c73bb5f91924676f14cbc5de746844c444baf72f77
+source_sha256: 592ea0bd2789e6bb654f60c73bb5f91924676f14cbc5de746844c444baf72f77
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -112,6 +112,40 @@ This route puts four London drinking places into one late-afternoon-to-night seq
 
 Figure: London classic bar walk: three hotel bars and a Fleet Street pub. Photograph: Royal Opera House - Bow Street, London - statue (6446853425). Credit: Elliott Brown from Birmingham, United Kingdom, CC BY 2.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=22459244)).
 
+> **Quick verdict**
+> **In one line:** This route helps you plan London classic bar walk: three hotel bars and a Fleet Street pub, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning London classic bar walk: three hotel bars and a Fleet Street pub into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: American Bar at The Savoy, The Savoy, Strand, London WC2R 0EZ, opened in 1893, in the hotel basement.
+>   - The difference between the three hotel bars is not price but where each puts the ritual.
+
+> **Topic guide: London bars and a classic cocktail**
+> - [London classic bar walk](https://atlas.hejiu.org/en/routes/london-classic-bar-walk/)
+> - [American Bar at the Savoy](https://atlas.hejiu.org/en/places/american-bar-savoy/)
+> - [The Savoy Cocktail Book](https://culture.hejiu.org/en/books/savoy-cocktail-book/)
+> - [London dry gin](https://beverages.hejiu.org/en/styles/london-dry-gin/)
+> - [London gin route](https://atlas.hejiu.org/en/routes/london-gin-route/)
+> - [Cocktail basics](https://hejiu.org/en/guides/cocktail-basics/)
+> - [Dry Martini recipe](https://hejiu.org/en/recipes/dry-martini/)
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Route overview:** Stop one: American Bar at The Savoy, The Savoy, Strand, London WC2R 0EZ, opened in 1893, in the hotel basement.
+> - **Why these stops:** The difference between the three hotel bars is not price but where each puts the ritual.
+> - **Stop one: American Bar at The Savoy:** Why go: this is the stop with the heaviest historical narrative.
+
+> **Topic guide: London bars and a classic cocktail**
+> - [London classic bar walk](https://atlas.hejiu.org/en/routes/london-classic-bar-walk/)
+> - [American Bar at the Savoy](https://atlas.hejiu.org/en/places/american-bar-savoy/)
+> - [The Savoy Cocktail Book](https://culture.hejiu.org/en/books/savoy-cocktail-book/)
+> - [London dry gin](https://beverages.hejiu.org/en/styles/london-dry-gin/)
+> - [London gin route](https://atlas.hejiu.org/en/routes/london-gin-route/)
+> - [Cocktail basics](https://hejiu.org/en/guides/cocktail-basics/)
+> - [Dry Martini recipe](https://hejiu.org/en/recipes/dry-martini/)
+
 ## Route overview
 
 - Stop one: [American Bar at The Savoy](ref:american-bar), The Savoy, Strand, London WC2R 0EZ, opened in 1893, in the hotel basement.
@@ -209,6 +243,6 @@ Fourth, check the service charge. London hotel bars often add service to the bil
 
 Fifth, treat the famous names as background, not a promise. The literary and cocktail history at the American Bar, the Bond legend at DUKES and the writers' list at Cheshire Cheese explain why these places are known; they say nothing about today's service and do not guarantee “the seat where so-and-so sat”.
 
-Sixth, this page describes the structure of the route and verifiable facts only. It does not provide live opening status, a map or coordinates: the four venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
+Sixth, this route describes the structure of the route and verifiable facts only. It does not provide live opening status, a map or coordinates: the four venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 Further reading: [Alsace Grand Cru trail: Kaysersberg and Riquewihr](ref:c-extra-1).

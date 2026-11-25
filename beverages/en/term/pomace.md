@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:pomace
 source_lang: zh
-source_revision: sha256:5b29fb3928d89d7da92d92ea8923cc04d7fd4c862ce9e0ad945043e8369450f8
-source_sha256: 5b29fb3928d89d7da92d92ea8923cc04d7fd4c862ce9e0ad945043e8369450f8
+source_revision: sha256:d9689b5f2ffe3041822e5c9dafbabec9cf0b4c686864f38459d9c55e3eef97aa
+source_sha256: d9689b5f2ffe3041822e5c9dafbabec9cf0b4c686864f38459d9c55e3eef97aa
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -72,7 +72,7 @@ verification_scope: source-verified
 
 Pomace (French marc) is the solid part left after grapes are pressed: skins, pulp residue, seeds and sometimes stems. It is a by-product of winemaking, but not waste; in Italy, France, Spain and the Balkans it is fermented and distilled into spirits with local identities. To understand pomace, look at its composition, moisture, microbial risk and legal identity together.
 
-![Pomace thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Pomace thematic illustration](/media/figures/specific/term-pomace.svg)
 
 Figure: thematic illustration for Pomace. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

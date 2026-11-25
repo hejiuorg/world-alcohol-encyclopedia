@@ -136,7 +136,7 @@ After mashing, [fermentation](ref:fermentation) begins: abbey ales mostly use co
 
 Belgian beer labels usually state ABV, net content, ingredients, producer and batch, and some name the style (dubbel, tripel and so on). The Trappist certification mark must be distinguished from terms such as "abbey beer": the former belongs to a certification system, while the latter is often a commercial style description.
 
-Terms such as "spontaneous fermentation" and "aged lambic" also lack a single mandatory definition, and breweries often explain them through their own ranges. When reading a label, separate the certification mark, the style name and the product name; this page treats no single mark as a quality guarantee.
+Terms such as "spontaneous fermentation" and "aged lambic" also lack a single mandatory definition, and breweries often explain them through their own ranges. When reading a label, separate the certification mark, the style name and the product name; this region treats no single mark as a quality guarantee.
 
 ## Representative beers and producers
 

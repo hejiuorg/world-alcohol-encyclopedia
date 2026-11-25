@@ -143,7 +143,7 @@ But the poem is not in the Collected Works of Fanzhou. It appears in later compe
 
 ## Reputation and Disputes
 
-The sharpest dispute is over "Qingming". It is not in the Collected Works, it is not securely recorded in Five Dynasties or Northern Song sources, yet it spread widely through later primers and anthologies. Calling it a Du Mu masterpiece is a fact about reception; calling it certainly his is not supported by the textual record. This page treats it as the former while flagging the latter.
+The sharpest dispute is over "Qingming". It is not in the Collected Works, it is not securely recorded in Five Dynasties or Northern Song sources, yet it spread widely through later primers and anthologies. Calling it a Du Mu masterpiece is a fact about reception; calling it certainly his is not supported by the textual record. This profile treats it as the former while flagging the latter.
 
 A second dispute comes from Ming dynasty criticism. Yang Shen, in his Remarks on Poetry from the Ascendant Hut, objected to "Spring in Jiangnan": "A thousand li of orioles, who could hear them? A thousand li of green against red, who could see it?" He proposed "ten li" instead. Later writers often rejected the objection, arguing that "a thousand li" is a general view of spring in Jiangnan rather than a measured distance. The critique is still useful: it shows how easily a demand for literal plausibility can flatten a poem's scale.
 

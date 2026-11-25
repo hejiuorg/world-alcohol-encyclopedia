@@ -5,7 +5,7 @@ type: custom
 lang: en
 slug: dragon-boat-realgar-wine
 title: Dragon Boat realgar wine
-summary: Drinking realgar wine, sprinkling realgar water and painting a character on children’s foreheads are documented Han festival customs. Realgar contains arsenic and heating produces an even more toxic compound; this page separates origins and symbolism from the safety boundary and offers safer substitutes.
+summary: Drinking realgar wine, sprinkling realgar water and painting a character on children’s foreheads are documented Han festival customs. Realgar contains arsenic and heating produces an even more toxic compound; this entry separates origins and symbolism from the safety boundary and offers safer substitutes.
 status: reviewed
 revision: 3
 translation_of: custom:dragon-boat-realgar-wine
@@ -81,7 +81,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against public-domain seasonal records, materia medica, WHO material and heritage listings, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 # Dragon Boat realgar wine

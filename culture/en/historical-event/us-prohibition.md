@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:us-prohibition
 source_lang: zh
-source_revision: sha256:25cd32a6b31d68f8fbcbfe53a63ffdf325dad860a486adf9fd0622892799f037
-source_sha256: 25cd32a6b31d68f8fbcbfe53a63ffdf325dad860a486adf9fd0622892799f037
+source_revision: sha256:87cdac91bfc34b12003772230ede161dc667d69039a71e9805fbd0838c9000f6
+source_sha256: 87cdac91bfc34b12003772230ede161dc667d69039a71e9805fbd0838c9000f6
 translation_status: reviewed
 aliases:
   - 禁酒时期
@@ -89,6 +89,15 @@ American Prohibition is often reduced to “the country banned drinking”. More
 ![Prohibition-era disposal of liquor barrels](/media/photos/historical-event-us-prohibition-3cc2932a.jpg)
 
 Figure: During Prohibition in the United States, officials pour barrels of liquor into a sewer. Image: Unknown author, Public domain, via [source page](https://commons.wikimedia.org/wiki/File:5_Prohibition_Disposal(9).jpg).
+
+> **Quick verdict**
+> **In one line:** This essay explains the causes and consequences of US Prohibition: The Experiment and Repeal of 1920 to 1933, and what it left behind.
+>
+> - **Best for:** Anyone trying to understand the causes, consequences and disputes around US Prohibition: The Experiment and Repeal of 1920 to 1933.
+> - **Not for:** If you want only want one date and not the causes or consequences.
+> - **Check first:**
+>   - Prohibition had a long prehistory in the United States.
+>   - The Eighteenth Amendment was promoted by Wayne Wheeler of the Anti-Saloon League and others.
 
 ## Prohibition did not appear suddenly
 

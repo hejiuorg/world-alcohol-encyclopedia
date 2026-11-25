@@ -141,4 +141,4 @@ Read Imperial Stout through the production rule, then the strength, and finally 
 
 **Sources and limits.** The key claims about Imperial Stout are checked against the following sources: Beer Judge Certification Program, Brewers Association, Oxford University Press and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Imperial Stout next to Stout, Porter, Beer: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Imperial Stout next to Stout, Porter, Beer: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.

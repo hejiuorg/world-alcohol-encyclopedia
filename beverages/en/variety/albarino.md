@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:albarino
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fb2c2841093b3fb0009f871d511afdab675bb1ea002981e3c14be20ed061d4e7
-source_sha256: fb2c2841093b3fb0009f871d511afdab675bb1ea002981e3c14be20ed061d4e7
+source_revision: sha256:cdf46d91c2c8c5ae905d72b4258ff861d5136fdf3b1f49b24c14d4691a93b0c9
+source_sha256: cdf46d91c2c8c5ae905d72b4258ff861d5136fdf3b1f49b24c14d4691a93b0c9
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -90,6 +90,15 @@ Albariño is the white grape of Spain's Atlantic northwest and the same variety 
 ![Albariño photograph](/media/photos/q2-variety-albarino-978c9e47.jpg)
 
 Figure: Albariño. Photograph: Albarino Vineyards. Credit: chicadelatele, CC BY 2.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=4106753)).
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Albariño suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Albariño with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - Albariño belongs to the European grape Vitis vinifera and is a white variety.
+>   - Albariño is native to the northwest of the Iberian Peninsula, in what is now Galicia in Spain and the Minho region of Portugal.
 
 ## Definition and synonyms
 

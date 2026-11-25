@@ -84,9 +84,9 @@ verification_scope: source-verified
 
 董香型白酒又称药香型白酒，是白酒香型分类中的一种，以贵州董酒为代表。它的辨识度来自制曲时加入多种草本原料，以及大曲与小曲并用、双醅串蒸的工艺组合。贵州省地方标准 DB52/T 550-2013《董香型白酒》对该香型的产地、原料、工艺与质量指标作出规定。
 
-![董香型白酒 类型示意图](/media/photos/theme-asian.jpg)
+![董香型白酒 类型示意图](/media/figures/specific/drink-style-dong-aroma-baijiu.svg)
 
-图：董香型白酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是董香型白酒的实拍。
+图：董香型白酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与标准
 

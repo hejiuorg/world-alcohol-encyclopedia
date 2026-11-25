@@ -128,7 +128,7 @@ Putting Allegrini and [Bisol](ref:bisol) on the same Veneto itinerary makes the 
 
 The address is Via Giare 5, 37022 Fumane (VR), telephone +39 045 6832011. Verona is about half an hour by car and the southern shore of Lake Garda about forty minutes; public transport reaches Verona or Fumane, then a walk or taxi, but the estate is on a slope and services are infrequent. Spring and autumn are the most comfortable; September and October bring harvest and drying preparation, the busiest period, so book early.
 
-Fumane has a church, a square and a few local restaurants, enough for lunch. Continue north to Lake Garda or east back to Verona. Do not schedule Amarone right after a heavy midday meal; alcohol and tannin are high, so nose before sipping and spit what you do not finish. Opening hours, experience prices and bookings are subject to official channels; this page was verified on 2026-11-09, and coordinates should be confirmed through official channels.
+Fumane has a church, a square and a few local restaurants, enough for lunch. Continue north to Lake Garda or east back to Verona. Do not schedule Amarone right after a heavy midday meal; alcohol and tannin are high, so nose before sipping and spit what you do not finish. Opening hours, experience prices and bookings are subject to official channels; this entry was verified on 2026-11-09, and coordinates should be confirmed through official channels.
 
 **At a glance:** A Valpolicella family winery in Fumane whose history reaches back to the sixteenth century; Corvina, dried grapes and Amarone are the core, and visits range from a 45-minute tasting to a 3-hour vineyard experience, all by appointment.
 

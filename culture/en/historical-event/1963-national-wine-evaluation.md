@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: 1963-national-wine-evaluation
 title: The 1963 second national wine evaluation
-summary: The second national wine evaluation, held in Beijing in October 1963 and organised jointly by the Ministry of Light Industry and the Ministry of Commerce, selected 18 national famous wines and created a separate national quality award for the first time. This page explains the method, the changes in the list and what the meeting meant institutionally.
+summary: The second national wine evaluation, held in Beijing in October 1963 and organised jointly by the Ministry of Light Industry and the Ministry of Commerce, selected 18 national famous wines and created a separate national quality award for the first time. This essay explains the method, the changes in the list and what the meeting meant institutionally.
 status: reviewed
 revision: 3
 translation_of: historical-event:1963-national-wine-evaluation
@@ -149,7 +149,7 @@ One: "Only eight famous wines were selected in 1963." The eight were the baijiu 
 - [Luzhou Laojiao Group](ref:luzhou): a representative strong-aroma enterprise.
 - [The 1952 national wine evaluation](ref:evaluation-1952): the previous meeting and the origin of the eight famous wines.
 
-**At a glance:** The second national wine evaluation, held in Beijing in October 1963 and organised jointly by the Ministry of Light Industry and the Ministry of Commerce, selected 18 national famous wines and created a separate national quality award for the first time. This page explains the method, the changes in the list and what the meeting meant institutionally. 
+**At a glance:** The second national wine evaluation, held in Beijing in October 1963 and organised jointly by the Ministry of Light Industry and the Ministry of Commerce, selected 18 national famous wines and created a separate national quality award for the first time. This essay explains the method, the changes in the list and what the meeting meant institutionally. 
 
 Begin with the date and setting, move on to the documented consequences, and finish with how later accounts treat it. That order keeps the reading of The 1963 second national wine evaluation practical.
 

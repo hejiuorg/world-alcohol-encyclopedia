@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:speed-pourer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:17bc050f6d4fe666115ba64e766838eef74c20bdced8af31f2000e23d654a664
-source_sha256: 17bc050f6d4fe666115ba64e766838eef74c20bdced8af31f2000e23d654a664
+source_revision: sha256:e4d58e781c951eda59e34f7ec425b634b29325ef7be5ed926993ec05f35b9f2a
+source_sha256: e4d58e781c951eda59e34f7ec425b634b29325ef7be5ed926993ec05f35b9f2a
 materials:
   - Stainless steel
   - Food-grade plastic
@@ -65,7 +65,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check classic recipes that depend on measured pouring; no source text is reproduced.
     accessed: 2026-11-07
@@ -83,7 +83,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English page; background checked against public sources, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this tool.
 verification_scope: source-verified
 ---
 
@@ -91,9 +91,18 @@ verification_scope: source-verified
 
 A speed pourer is a small spout pushed into the neck of a spirit bottle. It narrows the wide mouth into a fine outlet, so that liquid leaves at a steadier rate and the last drop does not run down the bottle. For a bar working continuously, it is close to standard equipment; describing it as a measuring device is where the confusion starts.
 
-![Speed pourer thematic illustration](/media/photos/theme-beer.jpg)
+![Speed pourer thematic illustration](/media/figures/specific/tool-speed-pourer.svg)
 
 Figure: thematic illustration for Speed pourer. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This tool helps you decide whether Speed pourer is worth buying, and whether a substitute works.
+>
+> - **Best for:** Anyone who wants the purpose, substitutes and limits of Speed pourer.
+> - **Not for:** If you want want a gear list without the use case.
+> - **Check first:**
+>   - The core benefit is that one hand can pour in a controlled way.
+>   - The most common type is free-flow: no restrictor inside, just a narrowed outlet.
 
 ## It buys speed, not accuracy
 

@@ -71,9 +71,25 @@ verification_scope: source-verified
 
 清酒的标签像一张技术参数表：纯米、吟酿、大吟酿、精米步合、日本酒度。第一次买，不必全部读懂，只要先分清“原料与精米”两个维度，再按温度与场景选择，就能找到适合自己的那一瓶。
 
-![清酒入门 类型示意图](/media/photos/theme-asian.jpg)
+![清酒入门 类型示意图](/media/figures/specific/guide-sake-intro.svg)
 
-图：清酒入门 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是清酒入门的实拍。
+图：清酒入门 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **决策清单**
+> 买之前、去之前，按这三步过一遍。
+>
+> - **温度与喝法：** 清酒的温度带很宽：冷酒约 5–10°C，常温约 15–20°C，温酒约 40–55°C。
+> - **第一瓶怎么选：** 定类型：纯米或本酿造，先选一个方向。
+> - **清酒是什么：** 清酒是以米、水、麹和酵母为原料，经糖化与发酵酿成的酒，不是蒸馏酒。
+
+> **专题导航：清酒从级别到餐桌**
+> - [清酒入门](https://hejiu.org/guides/sake-intro/)
+> - [清酒](https://beverages.hejiu.org/styles/sake/)
+> - [纯米酒](https://beverages.hejiu.org/styles/junmai-sake/)
+> - [吟酿](https://beverages.hejiu.org/styles/ginjo-sake/)
+> - [大吟酿](https://beverages.hejiu.org/styles/daiginjo-sake/)
+> - [日料配清酒](https://hejiu.org/pairings/japanese-sake/)
+> - [清酒与烧酎](https://culture.hejiu.org/articles/sake-and-shochu/)
 
 ## 清酒是什么
 
@@ -151,7 +167,19 @@ verification_scope: source-verified
 
 **适用边界。** 对「清酒入门」而言，建议面向特定读者与场景；预算、口味与经验不同，路线也会不同。
 
-## 资料来源
+## 快速对比：清酒的主要级别
+
+| 级别 | 精米步合 | 风味 | 适合 |
+| --- | --- | --- | --- |
+| 纯米酒 | 不添加酿造酒精 | 米香、厚实 | 温饮、配日料 |
+| 本酿造 | 可少量添加 | 干净、轻快 | 日常饮用 |
+| 吟酿 | 60% 以下 | 果香、花香 | 冷饮、清淡菜 |
+| 大吟酿 | 50% 以下 | 细腻、香气高 | 庆祝、纯饮 |
+| 纯米大吟酿 | 50% 以下，纯米 | 饱满、圆润 | 配鲜味强的菜 |
+
+
+
+资料来源
 
 - 日本酒造組合中央会 — 清酒の基礎知識，https://www.jss.or.jp/（日本酒造組合中央会）
 - 国税庁 — 清酒の製法品質表示基準，https://www.nta.go.jp/（国税庁）

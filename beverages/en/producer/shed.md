@@ -81,9 +81,9 @@ Figure: Shede Spirits Co., Ltd.. Photograph: File:Vertreter der vier Baijiu Kate
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottle. When discussing "Shede", first establish whether the subject is the company, the brand or a bottle.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottle. When discussing "Shede", first establish whether the subject is the company, the brand or a bottle.
 
-Public material uses different starting points for "origin": the corporate history goes back to the 1940 Tai'an workshop, the state-run distillery dates from 1952, the joint-stock company was registered in 1993 and the listing followed in 1996. This page uses 1993 for the founding year and lists the other points in the history section.
+Public material uses different starting points for "origin": the corporate history goes back to the 1940 Tai'an workshop, the state-run distillery dates from 1952, the joint-stock company was registered in 1993 and the listing followed in 1996. This producer uses 1993 for the founding year and lists the other points in the history section.
 
 ## Site and region
 

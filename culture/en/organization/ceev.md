@@ -77,7 +77,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the CEEV website, the EU regulation, OIV and INAO material, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party association copy, reports, logos, trademarks and images are not covered by this licence; the founding year, member list and policy positions follow the latest official documents. No third-party images are used on this page.
+  note: Third-party association copy, reports, logos, trademarks and images are not covered by this licence; the founding year, member list and policy positions follow the latest official documents. No third-party images are used on this organization.
 verification_scope: source-verified
 ---
 
@@ -97,7 +97,7 @@ That positioning means it is neither a standard-setter nor an enforcement body. 
 
 ## Founding and membership
 
-Publicly verifiable material on CEEV's founding year is not sufficient, so this page does not give a specific year and follows official material instead. What is clear is that it is a long-active industry body in Brussels, with members including wine companies and national wine trade associations. The exact member list, categories and conditions of membership change, and the official website should be consulted.
+Publicly verifiable material on CEEV's founding year is not sufficient, so this organization does not give a specific year and follows official material instead. What is clear is that it is a long-active industry body in Brussels, with members including wine companies and national wine trade associations. The exact member list, categories and conditions of membership change, and the official website should be consulted.
 
 The membership structure explains how it works: company members supply first-hand production and market experience, while national associations supply networks and policy channels. Together they let CEEV bridge technical detail and political communication. Member states differ in the scale and structure of their wine industries, so positions also have to be coordinated internally, which shapes how the organisation speaks externally.
 
@@ -111,7 +111,7 @@ In governance, trade bodies of this kind usually centre on a general assembly, a
 
 CEEV's main work revolves around EU wine policy. The EU wine market regulation provides a framework for production, labelling, geographical indications, promotion and trade, and industry bodies give input when the rules are drafted and revised. Labelling and geographical indications are frequent topics: how origin, variety, vintage and production method are stated directly affects consumer understanding and producer costs. Promotion and trade are also central: access to the internal market and third-country markets, tariffs and advertising rules all affect wine businesses.
 
-Sustainability and packaging rules have become more important in recent years. Emissions, water use, packaging materials and recycling requirements all change cost structures across production and supply chains. CEEV's specific positions on these issues shift with the policy process, and this page does not turn a position at one moment into a permanent conclusion. To know its current views, read the official position papers and news releases.
+Sustainability and packaging rules have become more important in recent years. Emissions, water use, packaging materials and recycling requirements all change cost structures across production and supply chains. CEEV's specific positions on these issues shift with the policy process, and this organization does not turn a position at one moment into a permanent conclusion. To know its current views, read the official position papers and news releases.
 
 ## Influence
 
@@ -123,7 +123,7 @@ For member states, CEEV is also a coordination platform. Trade associations and 
 
 As an industry representative, CEEV necessarily sits inside controversy. First, the tension between industry interests and public health: alcohol marketing, health warnings and consumption guidance are frequent points of disagreement between trade bodies and public-health groups. Second, representation between large companies and small producers: firms of different sizes bear rule costs differently, and how the organisation balances these interests shapes its external positions. Third, environmental and packaging rules: stricter sustainability requirements may raise costs while also creating market opportunities, and members do not always agree. Fourth, trade openness versus industry protection: negotiations on tariffs, geographical indications and market access often involve both offensive and defensive interests.
 
-How these disputes play out changes with the policy issue. This page describes the structure of the controversy without turning either side's position into a verdict. For specific rules, position papers and voting records, follow EU institutions and CEEV's official publications.
+How these disputes play out changes with the policy issue. This organization describes the structure of the controversy without turning either side's position into a verdict. For specific rules, position papers and voting records, follow EU institutions and CEEV's official publications.
 
 ## Common misunderstandings
 

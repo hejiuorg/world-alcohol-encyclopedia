@@ -23,8 +23,8 @@ tags:
 translation_of: region:martinborough
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:59abe7c175fc0940dc025a03e56c76c4ed622fb03e44d8a07c6eb124f084c11e
-source_sha256: 59abe7c175fc0940dc025a03e56c76c4ed622fb03e44d8a07c6eb124f084c11e
+source_revision: sha256:0ac902f28d279dbe05c0bbeb72392a54ac1ab4530b819db60ccec3f450454448
+source_sha256: 0ac902f28d279dbe05c0bbeb72392a54ac1ab4530b819db60ccec3f450454448
 related:
   - relation: about
     target_id: region:new-zealand
@@ -88,6 +88,15 @@ Martinborough is a small, precise wine district at the southern end of the Waira
 
 Figure: Martinborough: IMG9408 Martinborough vineyards, New Zealand (Wikimedia Commons). Image: jonathanischoice, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:IMG9408_Martinborough_vineyards,_New_Zealand.jpg)).
 
+> **Quick verdict**
+> **In one line:** This region helps you judge Martinborough for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Martinborough with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Modern viticulture here has a clear origin point.
+>   - Pinot Noir is best served slightly cool, around 14–16°C.
+
 ## Definition and boundaries
 
 Martinborough lies about an hour’s drive northeast of Wellington, at the southern end of the Wairarapa Valley. It is not a large planting belt but a compact district around the village: the terrace, the surrounding blocks and the newer plantings east along Te Muna Road together make up today’s vineyard map. For a visitor, the defining feature is smallness; for a grower, it is the combination of exceptionally free-draining gravel, the rain shadow of the Tararua Range and a long, dry autumn.
@@ -147,5 +156,5 @@ Driving is the main way around; public transport between the village and surroun
 ## Further reading and see also
 
 - Related entries: [new-zealand](ref:new-zealand), [pinot-noir](ref:pinot), [chardonnay](ref:chardonnay), [red-wine](ref:red), [white-wine](ref:white).
-- This page does not provide maps, live opening hours or prices; check the regional association and winery websites before travelling.
+- This region does not provide maps, live opening hours or prices; check the regional association and winery websites before travelling.
 - To understand the difference between the terrace and Te Muna, the most efficient exercise is to visit one estate in each area on the same trip, taste the same variety from the same vintage, and record aroma, acidity and tannin side by side.

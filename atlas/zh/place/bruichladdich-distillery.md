@@ -101,9 +101,24 @@ verification_scope: source-verified
 
 从 Bowmore 往西，路沿着 Loch Indaal 的南岸走，左手是灰蓝色的海，右手是低矮的草坡与白墙厂房。布赫拉迪没有酒厂大门上常见的那种“宏伟入口”，它更像一座仍在运转的维多利亚式工厂：白墙、黑窗框、高高的烟囱，墙面上刷着 “PROGRESSIVE HEBRIDEAN DISTILLERS / BRUICHLADDICH / SINCE 1881”。风很大，海很近，酒厂的气味与海盐混在一起。
 
+> **到访信息**
+> - 地址：Bruichladdich, Isle of Islay PA49 7UN, Scotland。
+> - 开放与预约：以[官方页面](https://www.bruichladdich.com/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-21。
+
 ![布赫拉迪酒厂白墙厂房](/media/photos/place-bruichladdich-distillery-549954a1.jpg)
 
 图：布赫拉迪酒厂临 Loch Indaal 的白墙厂房与入口。图片：Fumaro，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bruichladdich-Islay.jpg)）。
+
+> **先给结论**
+> **一句话：** 这页判断布赫拉迪酒厂值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去布赫拉迪酒厂、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 第一次来，选 90 分钟的 Guided Distillery Tour 最稳：从厂房、蒸馏器走到仓库，最后有几杯基础酒款。
+>   - 第一，不要把“艾雷岛威士忌”一律当成重泥煤。
 
 ## 1881 年：布赫拉迪酒厂的关键起点
 布赫拉迪由 Harvey 家族的 William、John、Robert 三兄弟建于 1881 年。他们来自 Glasgow 的威士忌世家，却在艾雷岛建了一座“当时最先进”的酒厂：选址靠近海湾，便于运煤、运大麦与运酒；厂房顺着缓坡布置，利用重力把麦芽与液体往下送；蒸馏室做成教堂式的高空间，容纳三对异常高、窄颈的蒸馏器。官方把这种设计称为“革命性”，并说高窄蒸馏器让酒体更优雅。

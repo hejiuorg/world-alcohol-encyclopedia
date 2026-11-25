@@ -83,7 +83,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the council's official site, the regional promotion site, French legal notices and wine reference works, with no third-party text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are used for verification only. This organization uses no third-party images.
 verification_scope: source-verified
 ---
 # The Bordeaux wine trade council: growers and merchants at one table
@@ -114,7 +114,7 @@ Members are not individual estates but Bordeaux's grower and merchant organisati
 
 The presidency alternates between growers and merchants, with a three-year term. This arrangement is not ceremonial but a balancing device: if one side held the chair for long, the other would suspect the body of speaking only for its rival. Rotation lets each camp preside in turn and forces every team to answer the other side's core concerns.
 
-Day-to-day work is carried out by a permanent staff, while major direction is set by the assembly and council. Public material describes the internal committees in different ways, so this page gives no fixed number; the current statutes and official notices are the place to look.
+Day-to-day work is carried out by a permanent staff, while major direction is set by the assembly and council. Public material describes the internal committees in different ways, so this organization gives no fixed number; the current statutes and official notices are the place to look.
 
 ## Promotion, data and technical output
 

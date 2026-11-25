@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:bodegas-lustau
 source_lang: zh
-source_revision: sha256:f732681f8f961645e0b712b22b640164bb254406e68c8a8022b15e1096dd01fe
-source_sha256: f732681f8f961645e0b712b22b640164bb254406e68c8a8022b15e1096dd01fe
+source_revision: sha256:f40b3e1ce9f63419096a4fa98cd7d26f127cc73f1c62f62a0c342d78ee967ca1
+source_sha256: f40b3e1ce9f63419096a4fa98cd7d26f127cc73f1c62f62a0c342d78ee967ca1
 translation_status: reviewed
 subtype: winery-visitor
 address: Calle Arcos 53, 11402 Jerez de la Frontera, Cádiz, Spain
@@ -99,15 +99,30 @@ verification_scope: source-verified
 
 Bodegas Lustau stands at Calle Arcos 53 in central Jerez de la Frontera. It is one of the few Sherry houses that ages wine in all three cities of the Sherry triangle: Jerez de la Frontera, El Puerto de Santa María and Sanlúcar de Barrameda. Its history is often reduced to "founded in 1896", but the more accurate story is that it began as an almacenista, a stock-holding house that supplied larger merchants, spent half a century behind the scenes, and then turned old reserve wines into a brand of its own. What visitors enter today is not a new visitor centre but six 19th-century cellars built on a cathedral scale.
 
+> **Visit information**
+> - Address: Calle Arcos 53, 11402 Jerez de la Frontera, Cádiz, Spain.
+> - Opening and booking: check the [official page](https://www.lustau.es/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![related photograph of Bodegas Lustau](/media/photos/place-bodegas-lustau-076c5ebe.jpg)
 
 Figure: Related photograph of Bodegas Lustau. Image: El Pantera, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Lustau-DSC07720.JPG)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Bodegas Lustau deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Bodegas Lustau who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - All visits are by reservation, booked through the visit page at lustau.es, by email at visitas@lustau.es or by telephone on 956 341 597.
+>   - Address: Calle Arcos 53, 11402 Jerez de la Frontera, Cádiz, Spain.
 
 ## Calle Arcos 53: a winery inside the city
 
 The entrance is at number 53, postcode 11402, on the edge of the old town, close to Plaza del Arenal and the Santiago district. This is not a country estate with vineyards around it. The cellars sit inside a city block: limewashed walls, very high roofs and side windows placed near the ridge so that air enters without direct sun falling on the casks. The floors are packed albero sand, soft underfoot, holding moisture and keeping temperature and humidity relatively stable.
 
-The railway station is about a 15-minute walk away and Jerez airport about 15 minutes by car; Sevilla is roughly 90 km and Cádiz about 35 km. This page gives no coordinates; use official channels for the exact location. The gate, meeting point and luggage arrangements come with the booking confirmation. The house is trading, but trading does not mean walk-in access: visits still have to be reserved.
+The railway station is about a 15-minute walk away and Jerez airport about 15 minutes by car; Sevilla is roughly 90 km and Cádiz about 35 km. This entry gives no coordinates; use official channels for the exact location. The gate, meeting point and luggage arrangements come with the booking confirmation. The house is trading, but trading does not mean walk-in access: visits still have to be reserved.
 
 ## From almacenista to own brands
 
@@ -143,7 +158,7 @@ All three include tasting; the difference is the level of wine and the length, n
 
 ## Practical notes and visitor etiquette
 
-**Address**: Calle Arcos 53, 11402 Jerez de la Frontera, Cádiz, Spain. Coordinates are not fixed in this page; use official channels for the exact location.
+**Address**: Calle Arcos 53, 11402 Jerez de la Frontera, Cádiz, Spain. Coordinates are not fixed in this entry; use official channels for the exact location.
 
 **Getting there**: about 15 minutes on foot from Jerez station, about 15 minutes by car from the airport, roughly 90 km from Sevilla and 35 km from Cádiz. Old-town streets are narrow, so allow time to park.
 

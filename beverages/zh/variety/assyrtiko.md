@@ -79,6 +79,15 @@ verification_scope: source-verified
 
 图：阿斯蒂科的产区风貌。图片：Klearchos Kapoutsis，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:White_wine_grape_pressing_in_Santorini.jpg)）。这张照片用于说明阿斯蒂科的主要种植环境，不是阿斯蒂科的品种标本照。
 
+> **先给结论**
+> **一句话：** 这页判断阿斯蒂科适不适合你，以及怎么比较其他品种。
+>
+> - **适合谁：** 正在比较阿斯蒂科与其他品种、想弄懂风味差异的人。
+> - **不适合谁：** 只想要单一名庄推荐、不关心品种本身的人。
+> - **先看这两点：**
+>   - 阿斯蒂科的高酸与咸感适合海鲜：生蚝、海胆、烤鱼、炸小鱼、柠檬橄榄油调的菜式，也能配羊乳奶酪与番茄类前菜。
+>   - 品种学名为 Assyrtiko，中文常音译为阿斯蒂科，也有阿西尔提可、阿西提科等写法。
+
 ## 定义与别名
 
 品种学名为 Assyrtiko，中文常音译为阿斯蒂科，也有阿西尔提可、阿西提科等写法。它属于欧洲葡萄 Vitis vinifera，是希腊本土白品种。圣托里尼当地还保留若干生物型（biotype），果粒大小与成熟节奏略有差异，但品种身份相同。酒标上通常直接写 Assyrtiko；"Santorini" 是产区名，"Nykteri" 是传统风格名，"Vinsanto" 是甜酒名，三者都不是品种名。把阿斯蒂科与同岛的 Athiri、Aidani 混为一谈也不准确，后两者酸度更低、香气更柔，在混酿中主要提供果味与体积。它的酒几乎都归入白葡萄酒大类（ref:white-wine），但也可以酿成带皮浸渍的橙酒。

@@ -92,6 +92,15 @@ verification_scope: source-verified
 
 图：马德里刀匠街 17 号的博廷餐厅正立面，棕色遮阳篷上写着“Restaurante Sobrino de Botín”和“Horno de Asar”。图片：Ank Kumar，CC BY-SA 4.0，via [原图页面](https://commons.wikimedia.org/wiki/File:2014_-_Sobrino_de_Bot%C3%ADn_%28Casa_Bot%C3%ADn%29_Restaurant%2C_Madrid%2C_Spain_%28_Ank_Kumar_%29_01.jpg)。
 
+> **先给结论**
+> **一句话：** 这页判断博廷餐厅值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去博廷餐厅、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 地址是 Calle de Cuchilleros 17, 28005 Madrid，紧邻市长广场（Plaza Mayor）西南侧。
+>   - “最古老”这个头衔需要拆开看。
+
 ## 为什么是这家
 
 “最古老”这个头衔需要拆开看。博廷的官方店史把起点定在 1725 年：法国厨师让·博廷（Jean Botín）带着阿斯图里亚出身的妻子来到马德里，想为宫廷贵族做事；1725 年，博廷妻子的侄子坎迪多·雷米斯（Cándido Remis）在刀匠街开了一间小客栈，并改造了建筑一层。吉尼斯世界纪录的条目则常写作“由法国厨师 Jean Botín 及其妻子于 1725 年开设”。两种说法在家族关系上略有差别，但都把 1725 年作为连续经营的起点。

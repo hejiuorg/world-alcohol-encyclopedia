@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:shaoxing-yellow-wine-trail
 source_lang: zh
-source_revision: sha256:eee3dc52f63f8cb7a5e09f0cb64e2dbadc9ff19b2c194a1dca716a8619ec254f
-source_sha256: eee3dc52f63f8cb7a5e09f0cb64e2dbadc9ff19b2c194a1dca716a8619ec254f
+source_revision: sha256:5243a4c3cbb841cefc99596fd445091558cb06255b3ec28438f6af004639737c
+source_sha256: 5243a4c3cbb841cefc99596fd445091558cb06255b3ec28438f6af004639737c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -99,6 +99,15 @@ Shaoxing yellow wine is not just a drink. It has a technical chain and a thick l
 !["Shaoxing Yellow Wine Trail: museum, Xianheng and the central cellar" category image](/media/photos/region-shaoxing-e9a43f19.jpg)
 
 Figure: "Shaoxing Yellow Wine Trail: museum, Xianheng and the central cellar". Photograph: File:Shaoxing Bazi Qiao 2017.12.09 16-16-06.jpg. Credit: Zhangzhugang, CC BY-SA 4.0 ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Shaoxing Yellow Wine Trail: museum, Xianheng and the central cellar, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Shaoxing Yellow Wine Trail: museum, Xianheng and the central cellar into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop 1: the China Yellow Wine Museum, 557 Xia Da Road, Yuecheng District, beside Guangxiang Bridge; open 09:00–17:00; allow 1.5–2.5 hours.
+>   - The museum stands in the north of the old city, beside Guangxiang Bridge, at 557 Xia Da Road.
 
 ## Route at a glance
 

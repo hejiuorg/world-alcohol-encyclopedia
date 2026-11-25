@@ -134,7 +134,7 @@ Around Rutherford are the [Napa Valley](ref:napa) Rutherford Bench, St. Helena a
 
 - Comparisons: [napa-valley](ref:napa), [usa](ref:usa), [cabernet-sauvignon](ref:cabernet), [red-wine](ref:red), [oak-ageing](ref:oak).
 - Background: [napa-valley](ref:napa), [usa](ref:usa).
-- This page provides no map; visits, vintages and prices should be checked with official channels.
+- This entry provides no map; visits, vintages and prices should be checked with official channels.
 
 Begin with the address, move on to the current opening status, and finish with what the place is known for. That order keeps the reading of Inglenook practical.
 

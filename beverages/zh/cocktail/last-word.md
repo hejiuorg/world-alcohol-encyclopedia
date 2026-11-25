@@ -47,7 +47,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单与等份配方；未复制原文。
     accessed: 2026-11-07
@@ -93,6 +93,15 @@ verification_scope: source-verified
 ![最后一语实景照片](/media/photos/q2-cocktail-last-word-6f808b57.jpg)
 
 图：最后一语。摄影：The Last Word cocktail raised。署名：Don LaVange，CC BY-SA 2.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=18593444)）。
+
+> **先给结论**
+> **一句话：** 这页判断最后一语该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂最后一语的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 最著名的变体之一是 Final Ward，以黑麦威士忌替代金酒、以柠檬汁替代青柠汁，保留绿查特与黑樱桃利口酒。
+>   - 这款酒的起源常被追溯到 1915 至 1916 年的底特律运动俱乐部（Detroit Athletic Club），时间在禁酒令生效之前。
 
 ## 名字与底特律运动俱乐部
 

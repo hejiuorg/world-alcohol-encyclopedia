@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:perry
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1db81575e8de0a9d13d17a0bdf7c302a3ba97ce8447b83101db4dab583b152fb
-source_sha256: 1db81575e8de0a9d13d17a0bdf7c302a3ba97ce8447b83101db4dab583b152fb
+source_revision: sha256:b3bae36d861eb55ea2fdde8032a231cc9af3e534cbdf7c958551829aec0737b4
+source_sha256: b3bae36d861eb55ea2fdde8032a231cc9af3e534cbdf7c958551829aec0737b4
 legacy_refs: []
 parent_style_id: drink-style:cider
 aroma_family: pear, blossom and tannin
@@ -73,7 +73,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-written; verified against a British agricultural society, producers and EU geographical-indication material, with no source text reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are not covered; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered; sources are cited for verification only. No third-party images are used on this style.
 verification_scope: source-verified
 ---
 
@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 Perry is a low-alcohol drink made by fermenting pear juice, most characteristically in Herefordshire, Gloucestershire and Worcestershire in the English West Midlands. It uses purpose-grown, high-tannin pears and ranges from dry to medium-sweet, usually between 4% and 8% ABV. The crucial difference from "pear cider" lies in the raw material: true perry is built on pear juice, while apple cider is built on apple juice, and the two follow different aromatic and tannic paths.
 
-![Perry thematic illustration](/media/photos/theme-beer.jpg)
+![Perry thematic illustration](/media/figures/specific/drink-style-perry.svg)
 
 Figure: thematic illustration for Perry. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

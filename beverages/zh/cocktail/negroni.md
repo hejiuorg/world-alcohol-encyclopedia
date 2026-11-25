@@ -44,7 +44,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对内格罗尼在官方鸡尾酒名单中的位置；未复制原文。
     accessed: 2026-11-04

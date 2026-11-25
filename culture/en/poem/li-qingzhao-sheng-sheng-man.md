@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; checked against a public lyric text and a complete Song anthology, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page. The translation on this page is the project's own rendering, not an authoritative translation.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry. The translation on this poem entry is the project's own rendering, not an authoritative translation.
 verification_scope: source-verified
 ---
 # Sheng Sheng Man: Three Cups and Two Cups of Thin Wine against the Evening Wind
@@ -116,7 +116,7 @@ The ending turns to rain and sorrow:
 
 “Sudden warmth and returning cold” is weather that turns warm and cold by turns; “keep well” is to rest and recover. “Three cups and two cups” is a very small quantity; “thin wine” means a light, low-alcohol wine, not a poor one. “Withstand” is to hold off. Variants: “evening wind” is sometimes “morning wind”; the punctuation of “guarding the window, alone, how to get through to dark” differs slightly between editions. The received text is followed here.
 
-(The translation on this page is the project's own rendering, not an authoritative translation.)
+(The translation on this poem entry is the project's own rendering, not an authoritative translation.)
 
 ## The poet and background
 

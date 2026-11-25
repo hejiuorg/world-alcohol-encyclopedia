@@ -124,7 +124,7 @@ For food, high-acid wines suit sour or fried dishes, high-tannin reds suit dishe
 
 ## Boundary
 
-This page describes categories and basic methods, not specific estates, vintages or prices. Check the label, producer information and professional reviews for grape proportions, residual sugar, strength, ageing potential and drinking window. Definitions and categories can be checked against the OIV and GB/T 17204-2021, but a specific product's compliance also depends on the rules of its market.
+This style describes categories and basic methods, not specific estates, vintages or prices. Check the label, producer information and professional reviews for grape proportions, residual sugar, strength, ageing potential and drinking window. Definitions and categories can be checked against the OIV and GB/T 17204-2021, but a specific product's compliance also depends on the rules of its market.
 
 **Short definition:** An alcoholic drink made by fermenting fresh grapes or grape must; colour, sweetness, bubbles and regional rules define its categories, while terroir and vintage are only some of the variables.
 
@@ -132,11 +132,11 @@ For Wine, begin with the production rule, then the strength, and finish with the
 
 Wine is fermented grape juice; the category covers still, sparkling and fortified wines, and the label's origin and method matter more than the colour.
 
-**Read alongside.** Put Wine next to Red wine, White wine, Sparkling wine: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Wine next to Red wine, White wine, Sparkling wine: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Wine are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check definitions and thresholds for wine, special wines, sparkling wine and liqueur wine), European Union (Used to check EU wine categories, geographical indications and labelling rules), State Administration for Market Regulation; Standardization Administration of China and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Wine, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Wine, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

@@ -103,7 +103,7 @@ Water quality matters for lager. Moderate minerals help saccharification and yea
 
 The typical flow is: milling, mashing, lautering, boiling, cooling, pitching yeast, primary fermentation, secondary fermentation and cold conditioning. Lager uses bottom yeast at lower temperatures and longer conditioning to achieve a clean, stable body.
 
-Pure Draft beer often uses membrane filtration and less heat treatment to retain more aroma, while regular beer is pasteurised for a longer shelf life. Different processes suit different packages and sales radii. Specific process details are company information; this page describes the public general route.
+Pure Draft beer often uses membrane filtration and less heat treatment to retain more aroma, while regular beer is pasteurised for a longer shelf life. Different processes suit different packages and sales radii. Specific process details are company information; this entry describes the public general route.
 
 ## Flavour and tasting
 

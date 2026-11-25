@@ -10,13 +10,13 @@ status: reviewed
 revision: 3
 translation_of: guide:food-pairing
 source_lang: zh
-source_revision: sha256:49f5d8b29da7a877447fcf72f2ce32e985b6f55c332d3705a315cd87e968d651
-source_sha256: 49f5d8b29da7a877447fcf72f2ce32e985b6f55c332d3705a315cd87e968d651
+source_revision: sha256:e2ee98049497172a372128f92a20da5bc975c060470738b768e1382dc2a05eb0
+source_sha256: e2ee98049497172a372128f92a20da5bc975c060470738b768e1382dc2a05eb0
 translation_status: reviewed
 about_refs:
   - drink-style:wine
   - drink-style:yellow-wine
-audience: readers who want pairing principles rather than a list of rules
+audience: if you want want pairing principles rather than a list of rules
 difficulty: beginner
 legacy_refs: []
 aliases: []
@@ -75,17 +75,16 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; based on public pairing principles and food reference works, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 
-# Look at the plate before the glass
-
-Pairing is not the formula "red wine with red meat". Look at the plate first: the weight, fat, acidity, sweetness, savouriness and heat of the food often matter more than the colour of the drink. Then look at the glass: the weight, acidity, sweetness, tannin, bubbles and temperature of the drink determine whether it can carry that bite.
-
-![Look at the plate before the glass thematic illustration](/media/photos/theme-route.jpg)
-
-Figure: thematic illustration for Look at the plate before the glass. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Look at the plate first:** The same sentence, "goes with red meat", produces completely different results for stewed beef and charcoal-grilled steak.
+> - **Match weight to weight:** The first practical pairing principle is weight to weight.
+> - **Acidity and fat:** High-acid wine cuts through fat and refreshes the palate.
 
 ## Look at the plate first
 
@@ -168,4 +167,16 @@ Fifth, ignoring temperature. The same drink can move from "suitable" to "unsuita
 
 ## Boundary
 
-Personal preference comes before rules. The aim is a more enjoyable meal, not one "correct" drink for every dish. To record your impressions more systematically, see [How to take a first taste](ref:tasting). This page evaluates no specific restaurant or brand and does not present any pairing as the only answer.
+Personal preference comes before rules. The aim is a more enjoyable meal, not one "correct" drink for every dish. To record your impressions more systematically, see [How to take a first taste](ref:tasting). This guide evaluates no specific restaurant or brand and does not present any pairing as the only answer.
+
+## Quick comparison: five pairing principles
+
+| Principle | How to use it | Example |
+| --- | --- | --- |
+| Acid cuts fat | High-acid wine with rich food | Riesling with fried food |
+| Sweetness tames heat | Sweeter wine with spicy food | Off-dry white with Sichuan food |
+| Umami meets umami | Umami-rich drink with umami-rich food | Sake with Japanese food |
+| Bitterness meets fat | Bitter drink with fat | IPA with grilled meat |
+| Bubbles cleanse | Sparkling wine with fried food | Champagne with tempura |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.

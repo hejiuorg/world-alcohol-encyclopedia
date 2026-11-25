@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:port
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:272736d7de6c84d3dae3e491ca1d117e96c3b4404892a74fda10aeeeafbd440a
-source_sha256: 272736d7de6c84d3dae3e491ca1d117e96c3b4404892a74fda10aeeeafbd440a
+source_revision: sha256:1cb52069032174ab5fca896206978c4cc11a1005d65eb997449d4d18f6b097e6
+source_sha256: 1cb52069032174ab5fca896206978c4cc11a1005d65eb997449d4d18f6b097e6
 legacy_refs: []
 parent_style_id: drink-style:fortified-wine
 aroma_family: Fruit / sweet
@@ -76,7 +76,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against EU regulation, appellation bodies and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Port
@@ -86,6 +86,15 @@ Port is a sweet fortified wine from Portugal's Douro Valley. Grape spirit is add
 ![Port image](/media/photos/drink-style-port-a4535e5c.jpg)
 
 Figure: Port. Image: cezzie901, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:View_of_Nam_Harbor_from_Busan_Tower.jpg)).
+
+> **Quick verdict**
+> **In one line:** This style places Port on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Port with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - The name comes from the port city of Porto.
+>   - Serve Ruby and LBV at 16–18°C, Tawny at 12–16°C, White Port at 8–10°C and Vintage at 16–18°C after decanting; a young Vintage may need an hour or more.
 
 ## Definition and regulation
 

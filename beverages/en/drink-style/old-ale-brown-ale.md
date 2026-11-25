@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:old-ale-brown-ale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b65bc70d81c8b32b705baa23991d1d63f4a03c761ed4e39ea337e8995a194c5b
-source_sha256: b65bc70d81c8b32b705baa23991d1d63f4a03c761ed4e39ea337e8995a194c5b
+source_revision: sha256:771efc5b309d3267ae344f2e1e836afd67f84012e5ef49825dd4849dc47ef349
+source_sha256: 771efc5b309d3267ae344f2e1e836afd67f84012e5ef49825dd4849dc47ef349
 related:
   - relation: about
     target_id: drink-style:english-ale
@@ -101,7 +101,7 @@ verification_scope: source-verified
 
 Old Ale and Brown Ale are two adjacent directions within traditional British ale: Old Ale is a stronger, malt-sweet, cellared or bottle-aged strong ale, while Brown Ale is a medium-strength everyday British ale built on malt toast and caramel. Both share British malt, traditional ale yeast and low hop bitterness as their base.
 
-![Old Ale / Brown Ale](/media/photos/theme-beer.jpg)
+![Old Ale / Brown Ale](/media/figures/specific/drink-style-old-ale-brown-ale.svg)
 
 Figure: Thematic illustration for Old Ale / Brown Ale. Image: AI-assisted illustration (Doubao Seedream 5.0), project-owned; not a photograph of the subject, used as a thematic illustration only.
 

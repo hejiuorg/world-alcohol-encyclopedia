@@ -72,9 +72,9 @@ verification_scope: source-verified
 ---
 # 还原（reduction）
 
-![还原（reduction） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![还原（reduction） 类型示意图](/media/figures/specific/term-reduction.svg)
 
-图：还原（reduction） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是还原（reduction）的实拍。
+图：还原（reduction） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

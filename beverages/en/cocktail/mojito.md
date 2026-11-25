@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: cocktail:mojito
 source_lang: zh
-source_revision: sha256:0420945cc69987073a603ab2bf4fd9050a63f0f2bef912fab955d1762daa2890
-source_sha256: 0420945cc69987073a603ab2bf4fd9050a63f0f2bef912fab955d1762daa2890
+source_revision: sha256:0e51364579f5f1f4b0a25ddf022cd1445b08e5b63fb6ba1bd96fd49d04970880
+source_sha256: 0e51364579f5f1f4b0a25ddf022cd1445b08e5b63fb6ba1bd96fd49d04970880
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -64,7 +64,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -91,7 +91,7 @@ Figure: Mojito. Image: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons ([so
 
 ## Definition and identity
 
-The Mojito is often traced to Cuba, but several accounts involve different periods, places and people. This page does not present one narrative as settled; it treats the drink as part of Cuban and Caribbean drinking culture. Name and recipe are separate things, and the same name with a different method should be explained.
+The Mojito is often traced to Cuba, but several accounts involve different periods, places and people. This cocktail does not present one narrative as settled; it treats the drink as part of Cuban and Caribbean drinking culture. Name and recipe are separate things, and the same name with a different method should be explained.
 
 ## Recipe (IBA version)
 
@@ -157,7 +157,7 @@ Fifth, assuming more mint is better. Too much mint turns grassy and can block th
 
 A Mojito is a long drink; its strength depends on the rum and the dilution, not on the recipe numbers alone. It suits hot weather and casual occasions; sip slowly and drink water, and do not drink quickly on an empty stomach. Do not drink when driving, taking medication or pregnant.
 
-This page records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. Strength is also affected by ice and soda dilution; see [Alcohol by volume](ref:abv).
+This cocktail records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. Strength is also affected by ice and soda dilution; see [Alcohol by volume](ref:abv).
 
 Read Mojito through the base and the ratio, then the dilution and the ice, and finally the garnish and the glass. The sequence matters.
 

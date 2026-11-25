@@ -142,7 +142,7 @@ Start with the base and the stated strength. From there, consider the sweetness 
 
 **Sources and limits.** The key claims about Campari are checked against the following sources: Campari (brand history, products and ABV information), IBA (Campari's role in the Negroni and the official ratio), Oxford University Press (Consulted for entries on bitter liqueurs, aperitifs and Campari) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Campari next to Aperitif, Liqueur, Negroni: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Campari next to Aperitif, Liqueur, Negroni: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

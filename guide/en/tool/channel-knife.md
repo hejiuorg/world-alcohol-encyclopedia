@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:channel-knife
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:168f3cd82eb01eb5d7a47b6450679e2eff11fcf0baf9a2ad7bd69ea49990b768
-source_sha256: 168f3cd82eb01eb5d7a47b6450679e2eff11fcf0baf9a2ad7bd69ea49990b768
+source_revision: sha256:1a1cfd6680ea98ac3d38eb6a85c4e81437663abfe62fdf8aa6c7509f79316e84
+source_sha256: 1a1cfd6680ea98ac3d38eb6a85c4e81437663abfe62fdf8aa6c7509f79316e84
 materials:
   - Stainless steel
   - Plastic handle
@@ -83,15 +83,24 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English page; background checked against public sources, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this tool.
 verification_scope: source-verified
 ---
 
 # Channel knife
 
-A channel knife is a small bar tool with a single narrow V- or U-shaped notch at the tip instead of a full cutting edge. Drawn along a citrus peel, the notch lifts a long, even ribbon — the twist that hangs from the rim of a Martini or coils over the surface of an Old Fashioned.![Channel knife thematic illustration](/media/photos/theme-beer.jpg)
+A channel knife is a small bar tool with a single narrow V- or U-shaped notch at the tip instead of a full cutting edge. Drawn along a citrus peel, the notch lifts a long, even ribbon — the twist that hangs from the rim of a Martini or coils over the surface of an Old Fashioned.![Channel knife thematic illustration](/media/figures/specific/tool-channel-knife.svg)
 
 Figure: thematic illustration for Channel knife. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This tool helps you decide whether Channel knife is worth buying, and whether a substitute works.
+>
+> - **Best for:** Anyone who wants the purpose, substitutes and limits of Channel knife.
+> - **Not for:** If you want want a gear list without the use case.
+> - **Check first:**
+>   - Width controls two things at once: how much oil can be expressed and whether the garnish will hold its shape.
+>   - The geometry explains the motion.
 
 ## A strip is pulled, not sliced
 

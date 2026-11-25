@@ -101,7 +101,7 @@ Huaibei and Suzhou form another baijiu cluster, where Kouzijiao and other produc
 
 Gujing Gongjiu is mainly strong aroma, stressing pit aroma, grain aroma and mellow sweetness. Kouzijiao is known for mixed aroma, combining some features of strong and sauce aroma. Yingjia Gongjiu emphasises an ecological-origin story, while Jinzhongzi and others cover mass price bands. Differences among brands come from both process and positioning.
 
-When reading a brand page, separate company, brand and specific product. One brand may have several series with different raw materials, strengths, storage and blending. This page provides regional organisation and overview only and does not rank individual products.
+When reading a brand page, separate company, brand and specific product. One brand may have several series with different raw materials, strengths, storage and blending. This region provides regional organisation and overview only and does not rank individual products.
 
 ## Raw materials and agriculture
 

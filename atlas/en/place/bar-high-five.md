@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:bar-high-five
 source_lang: zh
-source_revision: sha256:d91816757f07a5a39e7b82d49413e42c4f2004b60099fd449bb8b03b6fa2d8e6
-source_sha256: d91816757f07a5a39e7b82d49413e42c4f2004b60099fd449bb8b03b6fa2d8e6
+source_revision: sha256:447d65449d07755a54707023703a884db834ef43b9d6c904a85bffde400b37cb
+source_sha256: 447d65449d07755a54707023703a884db834ef43b9d6c904a85bffde400b37cb
 translation_status: reviewed
 subtype: bar
 address: Efflore Ginza 5 Bldg. B1F, 5-4-15 Ginza, Chuo-ku, Tokyo 104-0061
@@ -99,6 +99,15 @@ verification_scope: source-verified
 ![Bar High Five category illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: Bar High Five. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Bar High Five deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Bar High Five who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Bar High Five occupies the basement of a building in Ginza 5-chome, Tokyo, with an entrance that is easy to miss and best found by address.
+>   - Before you go, decide on two or three preferences: gin, whisky or rum; short or long; whether sweet, sour or bitter matters most.
 
 ## Setting and history
 

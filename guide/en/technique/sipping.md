@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:sipping
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c6ab92d73d480df62adf0be804244fd2c0034e162da232a922e5b30282a2e858
-source_sha256: c6ab92d73d480df62adf0be804244fd2c0034e162da232a922e5b30282a2e858
+source_revision: sha256:af3927668d6783aa69dcd29c57fff6daaa57de44dd1345994598dd65e9f94476
+source_sha256: af3927668d6783aa69dcd29c57fff6daaa57de44dd1345994598dd65e9f94476
 applies_to_refs:
   - drink-style:wine
   - drink-style:baijiu
@@ -95,7 +95,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 
@@ -103,7 +103,7 @@ verification_scope: source-verified
 
 Sipping is the central act of tasting: take a small amount of liquid, spread it through the mouth and spend a few seconds judging sweetness, acidity, body, tannin, alcohol and finish. It differs from an everyday gulp because the aim is not thirst but comparable sensory information.
 
-![Sipping thematic illustration](/media/photos/theme-beer.jpg)
+![Sipping thematic illustration](/media/figures/specific/technique-sipping.svg)
 
 Figure: thematic illustration for Sipping. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

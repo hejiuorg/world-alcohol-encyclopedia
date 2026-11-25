@@ -88,7 +88,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text verified against public-domain ci collections and official history; quoted lines stay within the necessary minimum. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and images are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party editions, annotations, trademarks and images are not covered by this licence; sources are used for verification only. This profile uses no third-party images.
 verification_scope: source-verified
 ---
 # Li Qingzhao
@@ -139,7 +139,7 @@ The second "Like a Dream" begins: "Last night the rain was sparse and the wind s
 
 ## Reputation and Disputes
 
-The first dispute concerns a second marriage. Song dynasty sources, including Wang Zhuo's Remarks from the Green Rooster Studio and Hu Zi's Collected Remarks from the Tiaoxi Fishing Retreat, record that after Zhao Mingcheng's death Li Qingzhao remarried a man named Zhang Ruzhou and sued for divorce after ill treatment. Her own letter to the Hanlin scholar Qi Chongli contains a phrase describing herself, late in life, as matched to a base horse-dealer. Qing scholars such as Yu Zhengxie, in A Chronology of Yi'an Jushi, argued vigorously that the story was a slander by Song writers. Each side has evidence. This page treats the Song record as existing and the Qing rebuttal as serious, neither as settled fact nor as impossible.
+The first dispute concerns a second marriage. Song dynasty sources, including Wang Zhuo's Remarks from the Green Rooster Studio and Hu Zi's Collected Remarks from the Tiaoxi Fishing Retreat, record that after Zhao Mingcheng's death Li Qingzhao remarried a man named Zhang Ruzhou and sued for divorce after ill treatment. Her own letter to the Hanlin scholar Qi Chongli contains a phrase describing herself, late in life, as matched to a base horse-dealer. Qing scholars such as Yu Zhengxie, in A Chronology of Yi'an Jushi, argued vigorously that the story was a slander by Song writers. Each side has evidence. This profile treats the Song record as existing and the Qing rebuttal as serious, neither as settled fact nor as impossible.
 
 The second dispute is her poetics. In "Discourse on Ci" she argues that ci is "a different family" from poetry, criticises Liu Yong for vulgar diction, and says that Yan Shu, Ouyang Xiu and Su Shi wrote "lines that are not even good prose, and often do not fit the music". It is one of the sharpest statements in Song poetics, and it drew return fire: some said she bound the lyric too tightly to music, others that she was too sure of her own practice. Either way, the essay shows an author with a theory, not merely a writer of sorrow.
 

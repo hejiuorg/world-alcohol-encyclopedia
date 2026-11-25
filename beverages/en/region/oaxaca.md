@@ -73,7 +73,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against Mexico's Ministry of Economy, the official gazette, the regulatory council and reference works; no source text is copied. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, gazette texts, trademarks and images are outside this licence; sources are cited for verification only. This page uses no third-party images. Regulatory detail follows the current official standard.
+  note: Third-party standards, gazette texts, trademarks and images are outside this licence; sources are cited for verification only. This region uses no third-party images. Regulatory detail follows the current official standard.
 verification_scope: source-verified
 ---
 

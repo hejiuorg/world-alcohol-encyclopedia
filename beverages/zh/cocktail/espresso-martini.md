@@ -43,7 +43,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单与现代经典分类背景；未复制原文。
     accessed: 2026-11-07
@@ -82,6 +82,15 @@ verification_scope: source-verified
 ![浓缩咖啡马天尼 图像](/media/photos/cocktail-espresso-martini-7f0ca0a2.jpg)
 
 图：浓缩咖啡马天尼。图片：Ewan Munro from London, UK，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bistrot_Bruno_Loubet,_Clerkenwell,_London_(4574785649).jpg)）。
+
+> **先给结论**
+> **一句话：** 这页判断浓缩咖啡马天尼该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂浓缩咖啡马天尼的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 常见配方为伏特加 50 毫升、咖啡利口酒 20 毫升、浓缩咖啡 30 毫升、糖浆 10 毫升。
+>   - 点单时可以说“浓缩咖啡马天尼，少糖浆、咖啡浓一点”，或询问店家使用哪种咖啡利口酒。
 
 ## 起源与命名
 

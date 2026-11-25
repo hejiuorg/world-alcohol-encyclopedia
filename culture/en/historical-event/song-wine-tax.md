@@ -121,7 +121,7 @@ Fourth, it supplied institutional vocabulary for later dynasties. 'Office', 'yar
 
 First, the figures are not on a single basis. Copper cash, iron cash and qu money were counted separately, and conversions between strings and shi or dou varied with region and prices; adding figures from different years and currencies produces a false precision.
 
-Second, Zhang Fangping's '4.28 million to 17.1 million strings' needs to be checked against his original table. Li Huarui's summary establishes the trend but does not set out the circuit-level distribution or the statistical scope; this page treats it only as a trend, not as evidence of per capita consumption.
+Second, Zhang Fangping's '4.28 million to 17.1 million strings' needs to be checked against his original table. Li Huarui's summary establishes the trend but does not set out the circuit-level distribution or the statistical scope; this essay treats it only as a trend, not as evidence of per capita consumption.
 
 Third, whether 'allowing the people to brew against a fixed annual quota' equals the later contracting system is still debated. The Song History does not use the term maipu, and although researchers use that concept to describe quota contracting, the material on eligibility, term and profit-and-loss arrangements is incomplete.
 

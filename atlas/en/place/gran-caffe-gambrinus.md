@@ -140,7 +140,7 @@ Outside Gambrinus, Piazza del Plebiscito and the Royal Palace are directly oppos
 - The Visit Naples entry: <https://www.visitnaples.eu/en/where-to-eat/bakeries-in-naples/gran-caffe-gambrinus> for the address and guest list.
 - Compare `place:antico-caffe-greco` and `place:caffe-san-carlo-torino` for other Italian historic café interiors.
 - For Viennese café seating etiquette, see `route:vienna-coffee-house-evening`.
-- This page sets the two explanations of the 1938 closure side by side rather than declaring one cause final; hours and prices should be checked with the official venue on the day.
+- This entry sets the two explanations of the 1938 closure side by side rather than declaring one cause final; hours and prices should be checked with the official venue on the day.
 - Related entries: [Antico Caffè Greco](ref:greco)、[Caffè Florian](ref:florian)、[Camparino in Galleria](ref:camparino)、[Caffè San Carlo](ref:san-carlo)、[A Vienna coffee-house evening](ref:vienna)
 
 **Short definition:** Naples' Gran Caffè Gambrinus, on Via Chiaia, opened in 1860 and was rebuilt under the Gambrinus name in 1890; its Liberty stuccoes, mirrors and literary salons made it the city's drawing room after Italian unification.

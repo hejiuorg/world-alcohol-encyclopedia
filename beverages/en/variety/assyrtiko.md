@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:assyrtiko
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0d5957c65ade90dbd86a56fc4c8af78dd88b9ca3f3c6acf0dcdf0c55d3f627dd
-source_sha256: 0d5957c65ade90dbd86a56fc4c8af78dd88b9ca3f3c6acf0dcdf0c55d3f627dd
+source_revision: sha256:1bcef2d27ce4fd83175bfe130762b0de6a7e16df41905cafa1c68328d1441a45
+source_sha256: 1bcef2d27ce4fd83175bfe130762b0de6a7e16df41905cafa1c68328d1441a45
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -83,6 +83,15 @@ Assyrtiko is the signature white grape of Santorini, and one of the few varietie
 ![Assyrtiko category image](/media/photos/process-pressing-dd288ecb.jpg)
 
 Figure: Assyrtiko. Photograph: File:White wine grape pressing in Santorini.jpg. Credit: Klearchos Kapoutsis, CC BY 2.0 ([source page](https://commons.wikimedia.org/wiki/File:White_wine_grape_pressing_in_Santorini.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Assyrtiko suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Assyrtiko with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - The variety is Assyrtiko.
+>   - The parents of Assyrtiko have not been established.
 
 ## Definition and synonyms
 

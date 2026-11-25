@@ -68,9 +68,9 @@ verification_scope: source-verified
 
 葡萄渣（pomace，法语 marc）是葡萄压榨后剩下的固体部分：果皮、果肉残渣、种子，有时还有果梗。它是葡萄酒生产的副产物，但并不是“垃圾”；在意大利、法国、西班牙与巴尔干半岛，它被发酵、蒸馏成具有地方身份的烈酒。理解葡萄渣，要同时看它的成分、含水率、微生物风险与法规身份。
 
-![葡萄渣（pomace） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![葡萄渣（pomace） 类型示意图](/media/figures/specific/term-pomace.svg)
 
-图：葡萄渣（pomace） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是葡萄渣（pomace）的实拍。
+图：葡萄渣（pomace） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

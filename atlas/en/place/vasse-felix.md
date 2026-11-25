@@ -37,8 +37,8 @@ tags:
 translation_of: place:vasse-felix
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7a35c2073752b0641fdf90780dc1edcdd048e55f77d3ea5589fdc2aad6d387cd
-source_sha256: 7a35c2073752b0641fdf90780dc1edcdd048e55f77d3ea5589fdc2aad6d387cd
+source_revision: sha256:7acdfffca09de6f8a37d4633464e5e403ffe65abf7e5bd923bec964a4ed574b6
+source_sha256: 7acdfffca09de6f8a37d4633464e5e403ffe65abf7e5bd923bec964a4ed574b6
 related:
   - relation: about
     target_id: region:margaret-river
@@ -102,6 +102,15 @@ Vasse Felix is Margaret River’s founding wine estate, planted by Tom Cullity a
 
 Figure: Vasse Felix: Vasse Felix Winery (Wikimedia Commons). Image: Mark Pegrum, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vasse_Felix_Winery.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Vasse Felix deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Vasse Felix who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Vasse Felix lies in Wilyabrup, in the northern part of the Margaret River region of Western Australia.
+>   - The visit centres on the cellar door, restaurant, art gallery and The Vault wine museum.
+
 ## Position and history
 
 Vasse Felix lies in Wilyabrup, in the northern part of the Margaret River region of Western Australia, about four kilometres from the Indian Ocean and fifteen minutes from the town of Margaret River. Its address is on Bussell Highway at Cowaramup; visitors turn off Caves Road onto Tom Cullity Drive, named after the founder. Vineyards, fermentation rooms, cellars, restaurant and gallery sit on the same slope, so the visit follows a short but complete chain from grape to table.
@@ -114,7 +123,7 @@ This history is often reduced to “founded in 1967”, but three decisions shap
 
 ## Vineyards and terroir
 
-Vasse Felix works around three specially selected vineyards, with the Home Vineyard planted in 1967 at its core. The site sits on a slope at Wilyabrup, about four kilometres from the sea; ocean breezes lengthen the ripening season, while lean, well-drained gravel loam forces roots deep. The oldest Cabernet Sauvignon and Malbec blocks, known as Tom’s Plots, supply the flagship TOM CULLITY and represent the estate’s most valuable vine material.
+Vasse Felix works around three specially selected vineyards, with the Home Vineyard planted in 1967 at heart. The site sits on a slope at Wilyabrup, about four kilometres from the sea; ocean breezes lengthen the ripening season, while lean, well-drained gravel loam forces roots deep. The oldest Cabernet Sauvignon and Malbec blocks, known as Tom’s Plots, supply the flagship TOM CULLITY and represent the estate’s most valuable vine material.
 
 The Adams Road Vineyard, planted in 1998 in the warmer Carbunup area, covers about 147 hectares with deep red and sandy loam, gravel and patches of clay. Its role is not to copy the tension of the Home Vineyard but to provide riper, rounder fruit for Filius and the Classic Collection. The contrast between the two sites is a useful reminder that Margaret River is not one uniform region: distance from the sea, aspect and soil can give the same variety two different personalities.
 
@@ -163,5 +172,5 @@ To understand the region rather than just the brand, see Vasse Felix for history
 ## Further reading and see also
 
 - Related entries: [margaret-river](ref:margaret-river), [australia](ref:australia), [chardonnay](ref:chardonnay), [cabernet-sauvignon](ref:cabernet), [oak-ageing](ref:oak).
-- This page does not provide live prices, menus or opening status; check the estate website and regional association before visiting.
+- This entry does not provide live prices, menus or opening status; check the estate website and regional association before visiting.
 - To compare Vasse Felix tiers, taste one Filius, one Premier and one TOM CULLITY in the same visit and record fruit, acidity, tannin and oak.

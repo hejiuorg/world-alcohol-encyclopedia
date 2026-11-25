@@ -89,7 +89,7 @@ Figure: Diageo. Photograph: Diageo distillery, Leven - geograph.org.uk - 6463659
 
 ## Company identity
 
-This page records the producer level: company name, location, historical starting point and organisational form. The group is the entity for production, distribution and brand management; when discussing "Diageo", first separate the group, its subsidiaries and an individual brand.
+This producer records the producer level: company name, location, historical starting point and organisational form. The group is the entity for production, distribution and brand management; when discussing "Diageo", first separate the group, its subsidiaries and an individual brand.
 
 The group is listed on the London Stock Exchange and the New York Stock Exchange, covering owned distilleries, agency brands and a global distribution network. The merged structure means the production and sale of one brand may sit with subsidiaries in different countries.
 
@@ -164,7 +164,7 @@ Its portfolio also includes ready-to-drink products and local joint ventures, wh
 
 **Sources and limits.** The key claims about Diageo are checked against the following sources: Diageo plc (Used to check the 1997 merger, headquarters and brand portfolio; Used to check the group's investor and annual report information channels), Diageo China (Used to check the China market footprint and the joint-venture relationship), Encyclopaedia Britannica (the entry's background, terminology and regulatory context). For current products, addresses or opening status, use diageo.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Diageo, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Diageo, this producer was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:robert-mondavi
 source_lang: zh
-source_revision: sha256:4365c4516184b24ffdc19971db7cbcba23149a04bf60beed48b674ef2e3b11b4
-source_sha256: 4365c4516184b24ffdc19971db7cbcba23149a04bf60beed48b674ef2e3b11b4
+source_revision: sha256:9f8509c48a476d9f1790b793b1dfc089632d5bc0fc1003215b469fee940adb1d
+source_sha256: 9f8509c48a476d9f1790b793b1dfc089632d5bc0fc1003215b469fee940adb1d
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1913
@@ -95,6 +95,15 @@ Robert Mondavi (1913–2008) was an American winemaker, winery owner and promote
 ![Wine bottles on the tasting table at Robert Mondavi Winery](/media/photos/person-robert-mondavi-9944e955.jpg)
 
 Figure: Wine bottles on the tasting table at Robert Mondavi Winery. Image: U.S. Embassy and Consulates in Canada, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Robert_Mondavi_Winery_(40781401945).jpg)).
+
+> **Quick verdict**
+> **In one line:** This profile explains why Robert Mondavi is remembered, and which works to look at first.
+>
+> - **Best for:** Anyone trying to understand what Robert Mondavi did and why the drink world remembers them.
+> - **Not for:** If you want only want anecdotes and do not care about historical position.
+> - **Check first:**
+>   - Mondavi's parents emigrated from Sassoferrato in the Marche region of Italy.
+>   - The site was not chosen by accident.
 
 ## From Lodi to Oakville
 

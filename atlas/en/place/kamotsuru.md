@@ -90,7 +90,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored place profile checked against the brewery's official pages, the Saijo Sake Brewers Association, the Hiroshima Tourism Association and the Japan Sake and Shochu Makers Association (verified 2026-11-09); no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; hours, tasting menus and tour dates change, so check official channels. No map is drawn on this page.
+  note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; hours, tasting menus and tour dates change, so check official channels. No map is drawn on this entry.
 verification_scope: source-verified
 ---
 
@@ -134,7 +134,7 @@ The other event is kurabiraki, the opening of the brewery. Kamotsuru announced i
 
 ## Visiting notes and the neighbourhood
 
-Keep the two addresses apart: the visitor entrance and No. 1 Brewery are at 9-7 Saijo Honmachi; the main brewery and some events are at 4-31 Saijo Honmachi. Navigate to the first, not the second. The No. 1 Brewery opens 10:00–18:00 with last entry at 17:45, and may close temporarily around Obon, the New Year holidays and before the sake festival. Admission is free and the tasting bar takes cash only. Take coordinates from official channels; this page gives none.
+Keep the two addresses apart: the visitor entrance and No. 1 Brewery are at 9-7 Saijo Honmachi; the main brewery and some events are at 4-31 Saijo Honmachi. Navigate to the first, not the second. The No. 1 Brewery opens 10:00–18:00 with last entry at 17:45, and may close temporarily around Obon, the New Year holidays and before the sake festival. Admission is free and the tasting bar takes cash only. Take coordinates from official channels; this entry gives none.
 
 The site is about twenty minutes by car from Hiroshima Airport and three minutes on foot from JR Saijo Station. There is municipal parking near the station, while large coaches must use the municipal coach lot. To set a brewery visit against a working plant, the [Gekkeikan Okura Sake Museum](ref:gekkeikan) in Fushimi, Kyoto, makes a useful contrast: one is a district still producing sake, the other a museum-led experience with a different route and story. Saijo also has permanent tasting stops such as Kamoizumi's Shusenkan, so half a day to a full day both work.
 

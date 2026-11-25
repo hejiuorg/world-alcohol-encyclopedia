@@ -98,8 +98,8 @@ verification_scope: source-verified
 translation_of: place:darroze
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:839260ddb6e5a4e114bdda87909ca1f1104daaec51bb1051b7e67636d262188c
-source_sha256: 839260ddb6e5a4e114bdda87909ca1f1104daaec51bb1051b7e67636d262188c
+source_revision: sha256:0f75277c0d4435f3b333f327e7621d0f4bf07e5d2104a4b2e50078aa2ec8b4da
+source_sha256: 0f75277c0d4435f3b333f327e7621d0f4bf07e5d2104a4b2e50078aa2ec8b4da
 ---
 
 # Darroze
@@ -109,6 +109,15 @@ Roquefort is a small town in the eastern Landes, its main road lined with low ho
 ![A street in Roquefort](/media/photos/place-darroze-fb96506a.jpg)
 
 Figure: A street in central Roquefort; Darroze’s cellars and reception are at 277 avenue de l’Armagnac. Image: Jibi44, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Roquefort_(Landes)_vue_rue.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Darroze deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Darroze who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The Darroze story begins in a restaurant.
+>   - The standard visit has three stages: a short slide presentation on the family and Armagnac, a walk through the cellar, and a guided tasting.
 
 ## Location and history
 

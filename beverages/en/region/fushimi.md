@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:fushimi
 source_lang: zh
-source_revision: sha256:6d8ccbdd418bfae0edf6b091e2f2a9cb21b5f8beb2f72132c3ec00324d86062d
-source_sha256: 6d8ccbdd418bfae0edf6b091e2f2a9cb21b5f8beb2f72132c3ec00324d86062d
+source_revision: sha256:cb8831fcd58df895df267d5692d69d97c30d3fc49be28523352c5dd80a0a2624
+source_sha256: cb8831fcd58df895df267d5692d69d97c30d3fc49be28523352c5dd80a0a2624
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -106,6 +106,15 @@ Fushimi is a sake region in the southern part of Kyoto City, centred on the brew
 ![Fushimi photograph](/media/photos/q2-region-fushimi-7e5de78d.jpg)
 
 Figure: Fushimi. Photograph: Fushimi Inari-taisha, Kyoto. Credit: Dimitry B, CC BY 2.0, via Flickr / Openverse ([source](https://www.flickr.com/photos/61533954@N00/33775913145)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Fushimi for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Fushimi with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Fushimi's brewery cluster mixes large companies with small and mid-sized producers.
+>   - A visit can follow a water-canal-brewery-museum sequence: first Gokonomiya Shrine and the Horikawa, then the Jikkokubune route for the brewery exteriors.
 
 ## Definition and scope
 

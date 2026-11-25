@@ -82,9 +82,9 @@ Figure: Tsingtao Brewery Company Limited. Image: N509FZ, CC BY-SA 4.0, via Wikim
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottled or canned beer.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottled or canned beer.
 
-Public material uses two starting points for "founding". The company website treats 1903 as the start of Tsingtao beer, while the annual report takes the registration of the joint-stock company in June 1993 as the legal starting point. This page uses 1993 for the founding year and lists 1903 separately as the founding of the predecessor brewery.
+Public material uses two starting points for "founding". The company website treats 1903 as the start of Tsingtao beer, while the annual report takes the registration of the joint-stock company in June 1993 as the legal starting point. This producer uses 1993 for the founding year and lists 1903 separately as the founding of the predecessor brewery.
 
 When asking "which company owns Tsingtao Beer", separate the joint-stock company, the group, the brand and a specific product. The group layer involves investment and assets, the joint-stock company handles operations and disclosure, and the brand and product are determined by the trademark and the label.
 
@@ -108,7 +108,7 @@ The brand-to-product relation is one-to-many: one brand has several series, volu
 
 The main products follow a lager route: milling, mashing, lautering, boiling, cooling, pitching bottom-fermenting yeast, main fermentation, secondary fermentation and cold maturation. Bottom yeast works at lower temperatures and matures for longer, giving a cleaner, more stable beer that suits scale production and a longer shelf life.
 
-Pure draft products usually use membrane filtration and other methods to reduce heat treatment and retain more aroma, while standard beer is pasteurised to extend shelf life. The two routes suit different packaging and sales radii. Specific strains, temperature curves and filtration precision are company process details; this page describes only the public general route.
+Pure draft products usually use membrane filtration and other methods to reduce heat treatment and retain more aroma, while standard beer is pasteurised to extend shelf life. The two routes suit different packaging and sales radii. Specific strains, temperature curves and filtration precision are company process details; this producer describes only the public general route.
 
 A process route states a style direction and cannot replace a judgement about a specific product. Products at different prices and in different series within the same company may differ in ingredient ratios, original gravity and freshness.
 
@@ -132,7 +132,7 @@ These figures are disclosed operating data: they describe scale and market posit
 
 ## Visiting
 
-The head office and main plants are in Qingdao. Opening hours, booking arrangements, ticket prices and guided tours at beer-culture facilities such as the Tsingtao Beer Museum depend on the operator's current notices. This page gives no unverified booking numbers, tour prices or "must-visit" lists and does not recommend following old guides to the site.
+The head office and main plants are in Qingdao. Opening hours, booking arrangements, ticket prices and guided tours at beer-culture facilities such as the Tsingtao Beer Museum depend on the operator's current notices. This producer gives no unverified booking numbers, tour prices or "must-visit" lists and does not recommend following old guides to the site.
 
 Visitors should distinguish production areas from public areas: museum displays and working production lines are different things, and historical equipment in a display is not the line in use today.
 

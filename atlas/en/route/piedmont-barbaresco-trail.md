@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:piedmont-barbaresco-trail
 source_lang: zh
-source_revision: sha256:585a6c8273101a76e1cb97d416044b6378a3bd4bc0d0e7099eefd56424a16e79
-source_sha256: 585a6c8273101a76e1cb97d416044b6378a3bd4bc0d0e7099eefd56424a16e79
+source_revision: sha256:41d989725010cb821fe8c6361a21d7e5dd7474f15f0ed5b31608da5e63b671d7
+source_sha256: 41d989725010cb821fe8c6361a21d7e5dd7474f15f0ed5b31608da5e63b671d7
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -98,6 +98,15 @@ This route joins two villages: Barbaresco and Serralunga d'Alba. Both are in the
 
 Figure: "Piedmont Barbaresco trail: Barbaresco to Serralunga". Photograph: Piedmont vineyard in autumn. Credit: Giorgio Montersino, CC BY-SA 2.0 ([source page](https://commons.wikimedia.org/w/index.php?curid=5816942)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This route helps you plan Piedmont Barbaresco trail: Barbaresco to Serralunga, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Piedmont Barbaresco trail: Barbaresco to Serralunga into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - Fontanafredda in Serralunga d'Alba was founded in 1858 by the first king of Italy, and its 120 hectares of vineyard are all certified organic.
+>   - Gaja must be contacted first; Fontanafredda is booked through Villaggio Narrante, and a week ahead is safer in high season.
+
 ## From Barbaresco to Serralunga
 
 The simplest drive from Barbaresco to Serralunga d'Alba goes through Alba, taking about thirty to forty minutes; the straight-line distance is short, but the road bends and the real time depends on traffic. Gaja is inside the village at Via Torino 5, with limited parking; Fontanafredda is at Via Alba 15, a larger complex with reception and cellars in separate places. For a one-day route, put Barbaresco in the morning, have lunch in Alba and reach Serralunga in the afternoon.
@@ -144,7 +153,7 @@ Set the two side by side and the contrast is clear: one is a family estate known
 
 Gaja must be contacted first; Fontanafredda is booked through Villaggio Narrante, and a week ahead is safer in high season. In harvest, tractors and transport vehicles share the hill roads, so allow extra time. Alba is the midpoint for food and parking, with more options than the villages; do not turn around at a winery gate or park on the road.
 
-September and October are the busiest weeks for picking and winemaking, and cellar visits may be restricted; spring and early summer are more comfortable but still busy around holidays. Winter is quiet, with some experience products reduced. Anyone driving should not drink at all; Langhe roads are poorly lit at night and visibility drops in fog, so a designated driver or hired car is safer. Opening hours, bookings and prices are subject to official channels; this page was verified on 2026-11-09, and coordinates should be confirmed through official channels.
+September and October are the busiest weeks for picking and winemaking, and cellar visits may be restricted; spring and early summer are more comfortable but still busy around holidays. Winter is quiet, with some experience products reduced. Anyone driving should not drink at all; Langhe roads are poorly lit at night and visibility drops in fog, so a designated driver or hired car is safer. Opening hours, bookings and prices are subject to official channels; this route was verified on 2026-11-09, and coordinates should be confirmed through official channels.
 
 ## References
 

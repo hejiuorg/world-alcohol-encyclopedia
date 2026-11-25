@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against an EU GI decision, EU spirit-drink law and a reference work; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Genever
@@ -134,8 +134,8 @@ To read Genever, start with the production rule, then the strength, then the usu
 
 **Short definition:** A grain spirit flavoured with juniper from the Netherlands, Belgium and the northern French border, protected as an EU geographical indication in 2008; oude and jonge describe recipe styles rather than age, and its malt-wine body contrasts sharply with dry English gin.
 
-**Read alongside.** Put Genever next to Gin, London dry gin, Old Tom Gin: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Genever next to Gin, London dry gin, Old Tom Gin: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Genever are checked against the following sources: European Union (the names, member states and jonge/oude sub-names of the Genièvre/Jenever/Genever GI; spirit-drink categories, GI protection and gin-related definitions), Oxford University Press (Consulted for entries on genever history, malt wine and Dutch-Belgian distilling), BJCP (the entry's background, terminology and regulatory context). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Genever, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Genever, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

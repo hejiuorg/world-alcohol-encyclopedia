@@ -96,7 +96,7 @@ verification_scope: source-verified
 
 美国加州以拉格酵母在较高温度发酵的琥珀色啤酒，带麦芽甜、木质与酒花苦味；Anchor Steam 是唯一沿用"Steam Beer"商业名称的代表。
 
-![California Common](/media/photos/theme-beer.jpg)
+![California Common](/media/figures/specific/drink-style-california-common.svg)
 
 图：California Common主题示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有）；不是加州蒸汽啤酒的实拍，仅作主题示意。
 

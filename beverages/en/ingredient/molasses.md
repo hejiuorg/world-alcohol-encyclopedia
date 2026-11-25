@@ -156,4 +156,4 @@ Molasses is the main sugar source for rum and a common yeast medium; its grade a
 
 **Sources and limits.** The key claims about Molasses are checked against the following sources: Oxford University Press (Used for entries on molasses, molasses rum and high-ester fermentation), Food and Agriculture Organization of the United Nations (FAO) (Used to check the sugar-making process and the place of molasses as a by-product), U.S. Department of Agriculture (Used to check the sugar, moisture and mineral profile of molasses) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Molasses, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Molasses, this ingredient was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

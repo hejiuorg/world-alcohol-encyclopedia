@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: cocktail:mint-julep
 source_lang: zh
-source_revision: sha256:af18c9b81c04fecf64c14d0a2d582bdf32170223adeb25cd408e437a65d79008
-source_sha256: af18c9b81c04fecf64c14d0a2d582bdf32170223adeb25cd408e437a65d79008
+source_revision: sha256:6f5386868ace33695120f7e443696855671ad7919e57abd694f6bcb8da6e30d0
+source_sha256: 6f5386868ace33695120f7e443696855671ad7919e57abd694f6bcb8da6e30d0
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -69,7 +69,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -94,7 +94,7 @@ Figure: Mint Julep. Image: Cocktailmarler, CC BY-SA 3.0, via Wikimedia Commons (
 
 ## Definition and identity
 
-The Mint Julep is often tied to horse-racing events in the American South, and historical accounts go back to the 19th century. Its name relates to mint, and several origin stories exist; this page treats them as historical background and does not present one as settled fact.
+The Mint Julep is often tied to horse-racing events in the American South, and historical accounts go back to the 19th century. Its name relates to mint, and several origin stories exist; this cocktail treats them as historical background and does not present one as settled fact.
 
 ## Recipe (IBA version)
 
@@ -148,7 +148,7 @@ For Mint Julep, a common mistake is treating a variation as the original recipe.
 
 The Mint Julep suits summer drinking, with nuts, savoury snacks or Southern-style dishes. It is relatively strong, so sip slowly and drink water; do not drink it quickly on an empty stomach. Do not drink when driving, taking medication or pregnant.
 
-This page records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. The finished strength depends on the whiskey's [alcohol by volume](ref:abv), the sugar, the amount of crushed ice and how fast it melts, not on the recipe numbers alone.
+This cocktail records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. The finished strength depends on the whiskey's [alcohol by volume](ref:abv), the sugar, the amount of crushed ice and how fast it melts, not on the recipe numbers alone.
 
 A Mint Julep is not simply whiskey with mint in it. The sugar is first lightly pressed with mint to release aroma, the glass is packed with crushed ice, and stirring chills the drink while adding controlled dilution. Bourbon supplies corn sweetness and barrel notes; mint supplies the cooling top note. If the mint is only used as a garnish and never expressed, the drink tends to feel flat and overly sweet.
 
@@ -168,7 +168,7 @@ The classic ratio is 2 oz bourbon to 0.5 oz syrup, with crushed ice and a mint s
 
 **Sources and limits.** The key claims about Mint Julep are checked against the following sources: International Bartenders Association (Used to check the official recipe, method and garnish; Used to confirm the drink is on the IBA official cocktail list), Oxford University Press (Used to check the historical background and basic composition), David Wondrich / Perigee (Used to check background on 19th-century American cocktail development) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Mint Julep next to Bourbon Whiskey, Whisky, Alcohol by volume (ABV): the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Mint Julep next to Bourbon Whiskey, Whisky, Alcohol by volume (ABV): the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this cocktail first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

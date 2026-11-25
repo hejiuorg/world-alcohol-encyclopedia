@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:fining
 source_lang: zh
-source_revision: sha256:3fbf1a88d88bf81cac266dc72b9acab9808e51e9f3f2ddf6f9cf9af37974b188
-source_sha256: 3fbf1a88d88bf81cac266dc72b9acab9808e51e9f3f2ddf6f9cf9af37974b188
+source_revision: sha256:a783e182dcb6957b8d0b4a99f137a2a57aba8f1054163c081f62e79015c65411
+source_sha256: a783e182dcb6957b8d0b4a99f137a2a57aba8f1054163c081f62e79015c65411
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -76,7 +76,7 @@ verification_scope: source-verified
 ---
 # Fining
 
-Fining is the addition of a small amount of an agent to wine so that it binds suspended or dissolved target substances, forms larger particles and settles, improving clarity and stability. It works through chemical reaction and adsorption; [filtration](ref:filtration) works through physical retention. They are different routes, though production often uses them together.![Fining thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Fining is the addition of a small amount of an agent to wine so that it binds suspended or dissolved target substances, forms larger particles and settles, improving clarity and stability. It works through chemical reaction and adsorption; [filtration](ref:filtration) works through physical retention. They are different routes, though production often uses them together.![Fining thematic illustration](/media/figures/specific/term-fining.svg)
 
 Figure: thematic illustration for Fining. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -137,8 +137,8 @@ Start with [Tannin](ref:tannin) for definition, then read [Filtration](ref:filtr
 
 **Short definition:** Fining adds bentonite, egg white, gelatin or synthetic polymers to wine so that they adsorb suspended or dissolved targets and settle out, removing protein, tannin, colour or off-flavours; it is a clarification and stabilisation step, not filtration, and raises vegan and allergen questions.
 
-**Read alongside.** Put Fining next to Tannin, Lees, Filtration: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Fining next to Tannin, Lees, Filtration: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Fining are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check the place of fining in winemaking terminology), Oxford University Press (Used for entries on fining, clarifying agents and protein stability), European Union (Used to check the EU regulatory framework for authorised winemaking practices and fining agents; Used to check the allergen labelling requirement when egg white, dairy products or similar agents are used) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Fining, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Fining, this term was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

@@ -74,7 +74,7 @@ Figure: Beijing Shunxin Agriculture Niulanshan Distillery. Image: N509FZ, CC BY-
 
 ## Company identity
 
-This page records the producer layer: company name, site, founding date and organisational form. The distillery is a branch of Shunxin Agriculture responsible for production and product operations; the listed company is the capital and disclosure entity. When discussing "Niulanshan", first establish whether the subject is the listed company, the distillery, the brand or a bottle.
+This producer records the producer layer: company name, site, founding date and organisational form. The distillery is a branch of Shunxin Agriculture responsible for production and product operations; the listed company is the capital and disclosure entity. When discussing "Niulanshan", first establish whether the subject is the listed company, the distillery, the brand or a bottle.
 
 Public material places the founding in October 1952. Company narrative treats the post-1949 joint preparation of local old distilleries such as Gongli, Fushuncheng, Yixin and Kuisheng as the prehistory. Those old workshops are the source of craft and place tradition, not the registration date of the modern company.
 
@@ -98,7 +98,7 @@ The state-run Niulanshan distillery was founded in 1952 and gradually built a pr
 
 Company material stresses the "time-honoured Chinese brand", "well-known Chinese trademark" and the national intangible heritage status of er-guotou craft. These designations concern the brand, trademark and craft, not a quality rating for a particular bottle.
 
-Niulanshan has long been known for the mass price band and wide distribution, covering open-bottle spirits, banquet products and gifts. Prices move with channel and supply and demand, and this page gives no figures. Treating sales volume as proof of quality, or "chenniang" as age, are common misreadings.
+Niulanshan has long been known for the mass price band and wide distribution, covering open-bottle spirits, banquet products and gifts. Prices move with channel and supply and demand, and this producer gives no figures. Treating sales volume as proof of quality, or "chenniang" as age, are common misreadings.
 
 ## Buying and storage
 

@@ -76,7 +76,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against encyclopaedia entries, public-domain materia medica and industry association material, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party translations, images and database content are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party translations, images and database content are not covered by this licence; sources are cited for verification only. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 # The spread of distillation: from alchemy to global spirits

@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: organization:korea-alcohol-industry-association
 source_lang: zh
-source_revision: sha256:2ad7224dc8f91e3e4289615ceafefbdc70755d7f209ce3b32f93a61e9094c775
-source_sha256: 2ad7224dc8f91e3e4289615ceafefbdc70755d7f209ce3b32f93a61e9094c775
+source_revision: sha256:69af7a77446972eafbdbe3128ddb44fd9deaeae12edd155a5ee65f0f207c2728
+source_sha256: 69af7a77446972eafbdbe3128ddb44fd9deaeae12edd155a5ee65f0f207c2728
 translation_status: reviewed
 region_refs:
   - region:south-korea
@@ -67,7 +67,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the association website, the Encyclopedia of Korean Culture and a KOTRA directory; no third-party text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, trademarks and logos are not covered by this licence; sources are cited for verification only. No third-party images are used on this organization.
 verification_scope: source-verified
 ---
 # Korea Alcohol Industry Association: The Trade Body for Soju and Other Drinks
@@ -77,6 +77,15 @@ Soju is the largest category in the Korean drinks market, but drinks companies d
 ![Korea Alcohol Industry Association: The Trade Body for Soju and Other Drinks thematic illustration](/media/photos/theme-asian.jpg)
 
 Figure: thematic illustration for Korea Alcohol Industry Association: The Trade Body for Soju and Other Drinks. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This organization explains the industry role of Korea Alcohol Industry Association: The Trade Body for Soju and Other Drinks, and what it has done.
+>
+> - **Best for:** Anyone who wants the industry role and history of Korea Alcohol Industry Association: The Trade Body for Soju and Other Drinks.
+> - **Not for:** If you want only want industry gossip and not the organisation’s function.
+> - **Check first:**
+>   - Korean drinks are often reduced to "soju", but there are at least three different production lines.
+>   - When reading an association statistic or trade report, check four dimensions first: the measurement basis, shipment or retail; the unit, value or volume; the coverage.
 
 ## What kind of organisation it is
 

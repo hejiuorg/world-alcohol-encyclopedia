@@ -43,7 +43,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单与现代经典分类背景；未复制原文。
     accessed: 2026-11-07
@@ -83,6 +83,15 @@ verification_scope: source-verified
 ![盘尼西林实景照片](/media/photos/q2-cocktail-penicillin-29d90106.jpg)
 
 图：盘尼西林。摄影：File:Penicillin Cocktail.png。署名：Matthias Friedlein (www.augustine-bar.de)，CC BY-SA 4.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=41778882)）。
+
+> **先给结论**
+> **一句话：** 这页判断盘尼西林该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂盘尼西林的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 常见配方为调和苏格兰威士忌 60 毫升、柠檬汁 22.5 毫升、蜂蜜糖浆 22.5 毫升、姜糖浆 7.5 毫升，摇和后滤入装有冰块的古典杯。
+>   - 点单时可以直接说“盘尼西林”，并询问浮层使用哪一款艾雷岛威士忌。
 
 ## 起源与命名
 

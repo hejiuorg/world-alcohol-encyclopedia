@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against publisher and author pages, without reproducing maps, distillery entries, tasting notes or translations. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original maps, charts, tasting notes and translations are not covered by this licence; sources are cited for verification only. The image on this page shows a bottle of Lagavulin 16-year-old single malt, not the book cover.
+  note: The original maps, charts, tasting notes and translations are not covered by this licence; sources are cited for verification only. The image on this book entry shows a bottle of Lagavulin 16-year-old single malt, not the book cover.
 verification_scope: source-verified
 source_sha256: 4d824593cfb700d1d106a9295395676f3ebce208e5c39317ffe8ee55c6792fbb
 source_revision: sha256:4d824593cfb700d1d106a9295395676f3ebce208e5c39317ffe8ee55c6792fbb

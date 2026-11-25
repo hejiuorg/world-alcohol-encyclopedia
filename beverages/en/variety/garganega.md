@@ -147,7 +147,7 @@ To study Garganega, read botanical and viticultural sources first, then taste th
 Compare a plain Soave with a Classico and a Superiore, then a dry Soave with a Recioto from the same producer. Fix vintage and sweetness; the almond finish and acidity should remain recognisable across the dry and sweet versions.
 
 - Related: [veneto](ref:veneto), [white-wine](ref:white), [sparkling-wine](ref:sparkling), [terroir](ref:terroir), [oak-ageing](ref:oak).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **Short definition:** A white grape of Soave in Veneto, Italy, late-ripening and high-yielding, with lemon, almond, white flowers and mineral; it makes dry Soave, sweet Recioto di Soave and sparkling wine.
 

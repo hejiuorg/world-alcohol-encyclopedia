@@ -124,7 +124,7 @@ Buyers should verify the full product name, age statement, strength, volume, pro
 
 ## Positioning and price band
 
-The brand spans a mid-to-high price band: the 12-year covers everyday drinking and restaurants, the 18-year reaches into business dinners and gifting, and the 25-year and special editions target high-end collecting. Prices move with market, channel, tax, promotions and pack size, so this page gives no specific retail price.
+The brand spans a mid-to-high price band: the 12-year covers everyday drinking and restaurants, the 18-year reaches into business dinners and gifting, and the 25-year and special editions target high-end collecting. Prices move with market, channel, tax, promotions and pack size, so this brand gives no specific retail price.
 
 A price band is market positioning, not a quality grade. The quality of a blended whisky depends on the whisky selection, [oak maturation](ref:oak) conditions and blending skill, and cannot be inferred from the age number or the price alone. Duty-free, gift-pack and standard retail versions may also differ.
 
@@ -140,7 +140,7 @@ The grocery origin, the premium blended positioning and the move into a large gr
 
 ## Name and marks
 
-"芝华士" is a Chinese transliteration of Chivas Regal, in which Chivas is the family surname and Regal means royal or regal. The Chinese name carries no age or grade information; slightly different renderings may exist in different regions, but they refer to the same brand.
+"Zhi Hua Shi" is a Chinese transliteration of Chivas Regal, in which Chivas is the family surname and Regal means royal or regal. The Chinese name carries no age or grade information; slightly different renderings may exist in different regions, but they refer to the same brand.
 
 The brand's marks include the bottle crest, the shield device, the typeface and the colour scheme. The age numbers 12, 18 and 25 are the central identifiers on the label and represent minimum maturation; no-age-statement versions are separated by series name and flavour positioning. The crest and the "Regal" wording belong to brand visual tradition and are not a statutory origin or official certification.
 

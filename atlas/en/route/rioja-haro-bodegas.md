@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:rioja-haro-bodegas
 source_lang: zh
-source_revision: sha256:9f0d625c3f9339e65be8fb32c9f7b4f1db72a7b4a2595f0ca9c49a80dd790fbe
-source_sha256: 9f0d625c3f9339e65be8fb32c9f7b4f1db72a7b4a2595f0ca9c49a80dd790fbe
+source_revision: sha256:7654f23ee8a26bba40d3be65efa873a9f8fa17b20e047a1eece2867c9b2b882a
+source_sha256: 7654f23ee8a26bba40d3be65efa873a9f8fa17b20e047a1eece2867c9b2b882a
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -100,6 +100,15 @@ Haro's Barrio de la Estación is easy to underestimate. Step off the platform an
 ![related photograph of Rioja: three century-old bodegas by Haro station](/media/photos/route-rioja-haro-bodegas-fef0d4a7.jpg)
 
 Figure: Related photograph of Rioja: three century-old bodegas by Haro station. Image: Schumi4ever, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:N-340a_Rioja.jpg)).
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Rioja: three century-old bodegas by Haro station, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Rioja: three century-old bodegas by Haro station into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Bodegas López de Heredia, Avenida de Vizcaya 3, 26200 Haro; founded in 1877 by Rafael López de Heredia, known for underground cellars.
+>   - The station district was a spatial reorganisation of Rioja wine in the second half of the nineteenth century.
 
 ## Route overview
 

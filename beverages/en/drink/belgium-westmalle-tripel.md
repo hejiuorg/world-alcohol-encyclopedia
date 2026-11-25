@@ -104,13 +104,13 @@ Abbey, brewery and product are three levels: the abbey answers supervision and w
 
 The product comes from Flanders in [Belgium](ref:belgium). The two main Belgian traditions are abbey ale and lambic spontaneous fermentation, and Westmalle belongs to the former: controlled yeast, fermentation in relatively closed equipment, and a repeatable house style.
 
-The ingredients are [barley](ref:barley), [wheat](ref:wheat) and [water](ref:water), plus hops and sugar. Barley supplies starch and enzymes for mashing, wheat adds softness, and sugar raises the fermentable content in some stronger products. The exact recipe and proportions are undisclosed, so this page does not treat a single ingredient as the whole explanation of style.
+The ingredients are [barley](ref:barley), [wheat](ref:wheat) and [water](ref:water), plus hops and sugar. Barley supplies starch and enzymes for mashing, wheat adds softness, and sugar raises the fermentable content in some stronger products. The exact recipe and proportions are undisclosed, so this entry does not treat a single ingredient as the whole explanation of style.
 
 ## Production
 
 Malted grain is mashed into wort, fermented with yeast ([fermentation](ref:fermentation)), then matured and blended before bottling. Tripels usually use pale malt and sugar, giving a lighter body at a higher strength; warmer fermentation brings banana and spice aromas.
 
-A small amount of sugar and yeast is added at bottling so the bottle continues to produce carbon dioxide and aroma, creating a second fermentation. The sediment at the bottom is normal yeast and protein deposition and can be left behind when pouring. Specific process parameters belong to abbey brewery information and are only partly public, so this page gives no single set of figures.
+A small amount of sugar and yeast is added at bottling so the bottle continues to produce carbon dioxide and aroma, creating a second fermentation. The sediment at the bottom is normal yeast and protein deposition and can be left behind when pouring. Specific process parameters belong to abbey brewery information and are only partly public, so this entry gives no single set of figures.
 
 ## Specification and label
 
@@ -132,7 +132,7 @@ The high ABV calls for controlling portion and pace. Carbonation fades after ope
 
 ## Buying and storage
 
-Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number, and confirm the bottle mark and product name. Prices move with market and channel, so this page gives no figures; the brewery's dubbel should be checked separately rather than generalised from the tripel.
+Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number, and confirm the bottle mark and product name. Prices move with market and channel, so this entry gives no figures; the brewery's dubbel should be checked separately rather than generalised from the tripel.
 
 Keep unopened bottles in a dark, cool place, standing upright to limit sediment disturbance; deep freezing is unnecessary, but heat and sharp temperature swings should be avoided. Bottle conditioning means the liquid keeps changing slowly, so the drinking window should follow abbey advice and the label.
 

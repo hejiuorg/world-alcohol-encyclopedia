@@ -99,6 +99,12 @@ verification_scope: source-verified
 
 从蒙塔希诺镇往东北，路在柏树与橄榄林之间上升，最后进入 Greppo 的院子。这里的房子不高，墙上有爬藤，酒窖还是 19 世纪的样子。比昂迪-桑蒂不是一座“城堡酒庄”，它更像一个把时间藏在地下的家族农庄：1888 年，Ferruccio Biondi Santi 在这里产出首批正式标为 Brunello di Montalcino 的酒；今天，酒庄仍以 100% Sangiovese Grosso、老藤与大型斯拉沃尼亚橡木桶陈年为核心。
 
+> **到访信息**
+> - 地址：Località Greppo 183, 53024 Montalcino, Siena, Italy。
+> - 开放与预约：以[官方页面](https://www.biondisanti.it/en/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-21。
+
 ![Greppo 藤蔓覆盖宅邸](/media/photos/place-biondi-santi-21bceb80.jpg)
 
 图：比昂迪-桑蒂 Greppo 的藤蔓覆盖宅邸。图片：Megan Cole from Vancouver, Canada，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Brunello_di_Montalcino,_Italy_(5874133867).jpg)）。

@@ -10,8 +10,8 @@ summary: "Vincent van Gogh's September 1888 canvas, now at the Yale University A
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:d921d97fad6401161b850796f9168bbe0af48dbb5f74a8d37ec24152ff60722b
-source_sha256: d921d97fad6401161b850796f9168bbe0af48dbb5f74a8d37ec24152ff60722b
+source_revision: sha256:76bfda8b423567a596e57bcb8cbda76b34ab1e0b244b22a649f47e1fdeb0d3da
+source_sha256: 76bfda8b423567a596e57bcb8cbda76b34ab1e0b244b22a649f47e1fdeb0d3da
 source_lang: zh
 translation_status: reviewed
 creator_refs: []
@@ -83,12 +83,21 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original text by the project, checked against the Yale University Art Gallery, Yale News, reference works and art-historical sources; quotations are limited to short phrases. The project owner declared CC BY 4.0 for site content on 2026-10-29.
-  note: The painting is in the public domain; Yale University Art Gallery photography and catalogue text are not. This page uses a public-domain reproduction from Wikimedia Commons.
+  note: The painting is in the public domain; Yale University Art Gallery photography and catalogue text are not. This artwork entry uses a public-domain reproduction from Wikimedia Commons.
 verification_scope: source-verified
 ---
 ![Reproduction of Van Gogh's The Night Café, 1888, Yale University Art Gallery; not a photograph of the Arles café.](/media/photos/artwork-van-gogh-night-cafe-2ea3619d.jpg)
 
 Figure: Reproduction of Van Gogh's The Night Café, 1888, Yale University Art Gallery; not a photograph of the Arles café.. Image: Vincent van Gogh, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_The_Night_Caf%C3%A9_(1888).jpg)).
+
+> **Quick verdict**
+> **In one line:** This artwork entry helps you look at The Night Café: Van Gogh Paints a Gaslit Room as an All-Night Fever, and place it in the history of drinking imagery.
+>
+> - **Best for:** Anyone who wants The Night Café: Van Gogh Paints a Gaslit Room as an All-Night Fever in the history of drinking imagery, not as a standalone picture.
+> - **Not for:** If you want want a single image without the period or drinking context.
+> - **Check first:**
+>   - There is wine and beer in the picture, but none of it is centre stage.
+>   - Start with the lamps.
 
 ## A room that will not go to sleep
 

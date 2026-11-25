@@ -84,6 +84,15 @@ verification_scope: source-verified
 
 图：艾格尼科。图片：Alexis Kreyder，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aglianico_Viala_Vermorel.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断艾格尼科适不适合你，以及怎么比较其他品种。
+>
+> - **适合谁：** 正在比较艾格尼科与其他品种、想弄懂风味差异的人。
+> - **不适合谁：** 只想要单一名庄推荐、不关心品种本身的人。
+> - **先看这两点：**
+>   - 高单宁与高酸需要油脂与蛋白质来平衡：炖牛肉、烤羊腿、野味、番茄慢炖的肉酱、硬质奶酪都合适。
+>   - 品种名 Aglianico，中文音译艾格尼科，也有阿利亚尼科、阿格丽安尼科等写法。
+
 ## 定义与别名
 
 品种名 Aglianico，中文音译艾格尼科，也有阿利亚尼科、阿格丽安尼科等写法。它属于 Vitis vinifera，是意大利本土红品种。常见别名与产区名容易混淆：Aglianico del Vulture 是巴斯利卡塔的法定产区（DOCG），Taurasi 是坎帕尼亚的同品种 DOCG，两者都是酒名而不是不同品种。历史上还有 Aglianica、Uva Aglianica 等写法。酒标上只写 Aglianico 时，可能来自多个南部产区；写 Taurasi 或 Aglianico del Vulture 时，则有具体的产地、品种比例与陈年规定。它在酒类归属上属于红葡萄酒（ref:red-wine），而不是加强酒或甜酒。

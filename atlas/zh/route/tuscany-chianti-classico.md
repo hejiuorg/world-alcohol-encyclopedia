@@ -97,6 +97,15 @@ updated_at: 2026-11-08
 
 图：经典基安蒂路线：从佛罗伦萨到三座酒庄相关实景照片。图片：FranzKafka2000，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chianti_Classico_example_bottle_-_Annata_type.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断经典基安蒂路线：从佛罗伦萨到三座酒庄怎么排、走多久、哪些点不能省。
+>
+> - **适合谁：** 想把经典基安蒂路线：从佛罗伦萨到三座酒庄排成一日或两日行程、需要知道顺序与停留重点的人。
+> - **不适合谁：** 只想看单个地点、不打算按路线走的人。
+> - **先看这两点：**
+>   - - 第一站：安东尼世家经典基安蒂酒庄，Via Cassia per Siena 133, Loc. Bargino。
+>   - 预约要分三件事确认：参观类型、语言与集合地点。
+
 ## 路线概览
 
 - 第一站：[安东尼世家经典基安蒂酒庄](ref:antinori)，Via Cassia per Siena 133, Loc. Bargino, 50026 San Casciano Val di Pesa (FI)，2012 年 10 月启用。

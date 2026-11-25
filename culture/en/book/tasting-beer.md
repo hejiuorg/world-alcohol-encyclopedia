@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against publisher, author and beer-judging sources, without reproducing text, charts or tasting sheets. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, charts and tasting sheets are not covered by this licence; sources are cited for verification only. The image on this page shows a glass of cloudy unfiltered beer, not the book cover.
+  note: The original text, charts and tasting sheets are not covered by this licence; sources are cited for verification only. The image on this book entry shows a glass of cloudy unfiltered beer, not the book cover.
 verification_scope: source-verified
 source_sha256: 8f53a587c660d1e3c1f309e67b37ddb138ca9802d99bcbf89e68d2b6e8f85529
 source_revision: sha256:8f53a587c660d1e3c1f309e67b37ddb138ca9802d99bcbf89e68d2b6e8f85529

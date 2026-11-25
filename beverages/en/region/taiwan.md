@@ -165,4 +165,4 @@ Awards amplify Taiwan whisky’s reputation, but a prize reflects one batch in o
 Check whether a bottle is single malt, single cask or blended before comparing; those are different categories.
 
 - Related: [china](ref:china), [whisky](ref:whisky), [barley](ref:barley), [distillation](ref:distillation), [terroir](ref:terroir).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.

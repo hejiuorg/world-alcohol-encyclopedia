@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: shang-zhou-wine-ritual
 title: "Shang and Zhou Wine Ritual: Bronze Vessels, the Wine Officer and the Jiugao"
-summary: Drinking in the Shang and Zhou periods was embedded in sacrifice, banqueting and hierarchy. Bronze wine-vessel sets, the duties of Zhou officials such as the wine officer, and the limits on drinking in the Book of Documents' Jiugao together make up what 'wine ritual' meant. This page sets out what each line of evidence can prove, and why the Rites of Zhou and the Jiugao need to be read with caution.
+summary: Drinking in the Shang and Zhou periods was embedded in sacrifice, banqueting and hierarchy. Bronze wine-vessel sets, the duties of Zhou officials such as the wine officer, and the limits on drinking in the Book of Documents' Jiugao together make up what 'wine ritual' meant. This essay sets out what each line of evidence can prove, and why the Rites of Zhou and the Jiugao need to be read with caution.
 status: reviewed
 revision: 2
 translation_of: historical-event:shang-zhou-wine-ritual
@@ -137,7 +137,7 @@ Fourth, bronze wine vessels cannot directly prove the extent of social drinking.
 
 [China](ref:china) and [A history of drinking vessels: how the cup changed the drink](ref:vessels) are the nearest useful comparisons: one clarifies date, the other tests place.
 
-**Short definition:** Drinking in the Shang and Zhou periods was embedded in sacrifice, banqueting and hierarchy. Bronze wine-vessel sets, the duties of Zhou officials such as the wine officer, and the limits on drinking in the Book of Documents' Jiugao together make up what 'wine ritual' meant. This page sets out what each line of evidence can prove, and why the Rites of Zhou and the Jiugao need to be read with caution.
+**Short definition:** Drinking in the Shang and Zhou periods was embedded in sacrifice, banqueting and hierarchy. Bronze wine-vessel sets, the duties of Zhou officials such as the wine officer, and the limits on drinking in the Book of Documents' Jiugao together make up what 'wine ritual' meant. This essay sets out what each line of evidence can prove, and why the Rites of Zhou and the Jiugao need to be read with caution.
 
 ## Further reading
 

@@ -152,7 +152,7 @@ Start with the base and the stated strength. From there, consider the sweetness 
 
 **Sources and limits.** The key claims about Xifengjiu are checked against the following sources: Industry body (origin, ingredients and product lines; phoenix-aroma baijiu and wine-sea storage terms), Oxford University Press (Consulted for entries on Chinese baijiu aroma types and storage vessels). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Xifengjiu next to Baijiu, Strong-aroma baijiu, Qu making: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Xifengjiu next to Baijiu, Strong-aroma baijiu, Qu making: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

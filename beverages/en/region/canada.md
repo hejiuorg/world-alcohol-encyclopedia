@@ -165,4 +165,4 @@ Further reading: it helps to taste Canadian whisky along three lines—corn-led,
 Another practical split is softness versus sweetness: softness comes from body and blending, sweetness from corn and wood; anyone who dislikes sweet should look for high rye, longer age or higher proof rather than a famous brand. Age statements are less common than in Scotland, so cask age and ABV are the practical clues. If you want a reference point, compare a high-rye Lot No. 40 with a corn-led Crown Royal; that single pair explains more than a shelf of brands.
 
 - Related: [niagara](ref:niagara), [whisky](ref:whisky), [barley](ref:barley), [distillation](ref:distillation), [oak-ageing](ref:oak).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.

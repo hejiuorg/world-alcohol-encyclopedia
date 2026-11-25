@@ -11,8 +11,8 @@ revision: 1
 translation_of: vessel:goblet
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:368f7c2fa7d049115a9a1840a5d6c7e7f775c56dcb6eb3c91cee2085fed14e5a
-source_sha256: 368f7c2fa7d049115a9a1840a5d6c7e7f775c56dcb6eb3c91cee2085fed14e5a
+source_revision: sha256:903a83286f012819e3a716f30bec0b274d022a36aa089fbe3a54fbb8ecf0e4d9
+source_sha256: 903a83286f012819e3a716f30bec0b274d022a36aa089fbe3a54fbb8ecf0e4d9
 materials:
   - Glass
   - Crystal glass
@@ -95,6 +95,15 @@ A goblet is a stemmed glass with a wide bowl and an open rim. It looks like a wi
 ![Goblet image](/media/photos/vessel-goblet-453a5796.jpg)
 
 Figure: Goblet. Image: Anonymous ( Germany ) Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:German_-_Chalice_with_Saints_and_Scenes_from_the_Life_of_Christ_-_Walters_44116.jpg)).
+
+> **Quick verdict**
+> **In one line:** This glass explains why Goblet changes aroma, and which drinks it suits.
+>
+> - **Best for:** Anyone who wants to understand why Goblet changes aroma and texture.
+> - **Not for:** If you want want a “buy the most expensive glass” verdict without matching the drink.
+> - **Check first:**
+>   - Belgian abbey beers and the strong ales associated with Trappist breweries are often served in goblet or chalice shapes.
+>   - Aroma molecules leave the liquid surface and enter the headspace above it.
 
 ## A wide bowl on a short stem
 

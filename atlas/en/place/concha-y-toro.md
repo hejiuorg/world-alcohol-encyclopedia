@@ -140,7 +140,7 @@ Around Pirque, link other Maipo Valley estates, the Puente Alto vineyards and ol
 
 - Comparisons: [maipo](ref:maipo), [chile](ref:chile), [cabernet-sauvignon](ref:cabernet), [carmenere](ref:carmenere), [red-wine](ref:red), [oak-ageing](ref:oak).
 - Background: [maipo](ref:maipo), [chile](ref:chile).
-- This page provides no map; visits, vintages and prices should be checked with official channels.
+- This entry provides no map; visits, vintages and prices should be checked with official channels.
 
 **At a glance:** A historic Chilean winery in Pirque, Maipo Valley, founded in 1883 by Melchor Concha y Toro and one of the country’s best-known wine names abroad. Its core labels include Casillero del Diablo, Marques de Casa Concha and Don Melchor; the Centro del Vino opened for the 140th anniversary, with a 22-hectare century-old park, Bodega 1883 and the Casillero del Diablo experience.
 
@@ -158,4 +158,4 @@ Viña Concha y Toro is best approached through the address, then the current ope
 
 **Sources and limits.** The key claims about Viña Concha y Toro are checked against the following sources: Concha y Toro, Centro del Vino Concha y Toro, Viña Concha y Toro. For current products, addresses or opening status, use conchaytoro.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Viña Concha y Toro, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Viña Concha y Toro, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

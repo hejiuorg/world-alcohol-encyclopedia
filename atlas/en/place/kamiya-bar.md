@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kamiya-bar
 source_lang: zh
-source_revision: sha256:202fd9ec386374242ce3afabeaf024dec5fc3db9ff8846aa59cffc3ba26939ba
-source_sha256: 202fd9ec386374242ce3afabeaf024dec5fc3db9ff8846aa59cffc3ba26939ba
+source_revision: sha256:56f02b104201ab4e37e88320de6a368ca850cd056ee84012d79e7f46b340d19e
+source_sha256: 56f02b104201ab4e37e88320de6a368ca850cd056ee84012d79e7f46b340d19e
 translation_status: reviewed
 subtype: pub
 address: 1-1-1 Asakusa, Taito-ku, Tokyo 111-0032, Japan
@@ -85,7 +85,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on the bar's official site, Oenon and Tokyo cultural-property material; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY-SA 3.0 and is credited in the caption. Opening hours, prices and closed days are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY-SA 3.0 and is credited in the caption. Opening hours, prices and closed days are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -96,6 +96,15 @@ On Kaminarimon-dori in Asakusa stands an old building with a red-brick facade an
 ![Exterior of Kamiya Bar in Asakusa, Tokyo](/media/photos/place-kamiya-bar-80e491ca.jpg)
 
 Figure: Kamiya Bar in Asakusa, Tokyo. Image: Kakidai, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kamiya_bar_at_Asakusa_Tokyo.JPG)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Kamiya Bar deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Kamiya Bar who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The founder was Denbei Kamiya.
+>   - The Kamiya Building has three floors with distinct functions.
 
 ## Setting and history
 

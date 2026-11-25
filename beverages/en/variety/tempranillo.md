@@ -143,7 +143,7 @@ Tempranillo is called Tinto Fino in Ribera del Duero and Ull de Llebre in Catalo
 
 **Sources and limits.** The key claims about Tempranillo are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check varietal descriptors and the Vitis species framework), Oxford University Press (Used for reference on Tempranillo origin, regions and winemaking; Migrated from the former reference list at the end of the article; access date not re-verified), European Union (Used to check the EU framework for wine regions and labelling). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Tempranillo, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Tempranillo, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

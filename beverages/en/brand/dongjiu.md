@@ -81,7 +81,7 @@ Figure: Dongjiu. Image: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source pag
 
 ## Brand definition
 
-For Dongjiu, a brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This page records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history and ownership.
+For Dongjiu, a brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This brand records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history and ownership.
 
 A brand is also not a single product. One brand can have several series, strengths, volumes and price bands, so a question such as "what does Dongjiu taste like" needs a specific product first, because the base-liquor makeup of the Guomi series and the Baicaoxiang series differs.
 
@@ -89,19 +89,19 @@ A brand is also not a single product. One brand can have several series, strengt
 
 The brand's producer is [Guizhou Dongjiu Co., Ltd.](ref:producer), located in Donggongsi, Huichuan district, Zunyi. The company was registered as a joint-stock company in 1994, was later restructured, and from 2007 pushed forward with recovery of production and the brand.
 
-The producer entry records registration details, plant location and the local standard. This page keeps only what relates directly to the brand, so corporate history and product history are not conflated.
+The producer entry records registration details, plant location and the local standard. This brand keeps only what relates directly to the brand, so corporate history and product history are not conflated.
 
 ## Product line
 
 Public product material lists Guomi Dongjiu, Teji Guomi, Guomi Baicaoxiang and Micang Jingdian Dong. The Guomi series carries distribution and gifting, Teji Guomi sits higher, Baicaoxiang became an important product in the brand's market recovery after its 2018 launch, and the Micang series emphasises storage and collecting.
 
-The product pages describe the process as follows: herbs are added when making the qu, two qu types and two cellars are used, fermentation is long, and base liquors of different vintages are blended. Some statements, such as the formula and process being state-secret technology, are public company claims; this page reports the brand claim but does not treat marketing language as an independently verifiable technical conclusion.
+The product pages describe the process as follows: herbs are added when making the qu, two qu types and two cellars are used, fermentation is long, and base liquors of different vintages are blended. Some statements, such as the formula and process being state-secret technology, are public company claims; this brand reports the brand claim but does not treat marketing language as an independently verifiable technical conclusion.
 
 Strength, volume, packaging and standards change by year. Buyers should check the producer, strength, net content and standard on the label rather than the series name alone.
 
 ## Positioning and price band
 
-The brand covers a band from mid-market to high-end: Micang and the regular Guomi series serve banquets and everyday gifting, while Teji Guomi and Baicaoxiang reach high-end gifting and collecting. Prices change with year, channel and promotions, so this page gives no specific retail price and does not treat one promotion as long-term positioning.
+The brand covers a band from mid-market to high-end: Micang and the regular Guomi series serve banquets and everyday gifting, while Teji Guomi and Baicaoxiang reach high-end gifting and collecting. Prices change with year, channel and promotions, so this brand gives no specific retail price and does not treat one promotion as long-term positioning.
 
 A price band is market positioning, not a quality grade. Judging the liquid means looking at raw materials, qu making, fermentation, storage and the label standard, not price or packaging alone.
 

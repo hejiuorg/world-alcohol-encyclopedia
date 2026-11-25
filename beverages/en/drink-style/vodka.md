@@ -125,11 +125,11 @@ For Vodka, begin with the production rule. Then look at the strength, and finall
 
 **At a glance:** A neutral spirit distilled from grain, potato, molasses or other agricultural materials, with more flavour variation than the "colourless and tasteless" stereotype suggests.
 
-**Read alongside.** Put Vodka next to Distillation, Gin, Water: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Vodka next to Distillation, Gin, Water: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Vodka are checked against the following sources: European Union (the vodka definition, permitted raw materials and minimum strength), U.S. Alcohol and Tobacco Tax and Trade Bureau (the US category and labelling requirements for vodka), Oxford University Press (Consulted for entries on vodka raw materials, distillation and regional styles) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Vodka, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Vodka, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

@@ -5,7 +5,7 @@ type: event
 lang: en
 slug: feis-ile-2026
 title: "Fèis Ìle 2026: The Islay Festival's 40th Edition"
-summary: The 40th Fèis Ìle ran from 22 to 31 May 2026 on Islay, Scotland, expanded to ten full days for the first time; Lagavulin, Laphroaig and Ardbeg held their open days on 23, 26 and 30 May respectively. The festival has ended; this page records that edition's programme, venues and rules.
+summary: The 40th Fèis Ìle ran from 22 to 31 May 2026 on Islay, Scotland, expanded to ten full days for the first time; Lagavulin, Laphroaig and Ardbeg held their open days on 23, 26 and 30 May respectively. The festival has ended; this event records that edition's programme, venues and rules.
 status: reviewed
 revision: 2
 translation_of: event:feis-ile-2026
@@ -117,17 +117,26 @@ place_refs:
 organizer_refs: []
 official_url: https://feisile.co.uk/feis-ile-2026/
 event_status: past
-source_sha256: 0eb9f0cf11cb07b0d9ce47bb1dcceb0519235d268f8144a7a3a05ad64585936a
-source_revision: sha256:0eb9f0cf11cb07b0d9ce47bb1dcceb0519235d268f8144a7a3a05ad64585936a
+source_sha256: 1dca91ea46859d0ff6870c158a3a9b190d06e705e2aab11cbdeda2fd3e57872d
+source_revision: sha256:1dca91ea46859d0ff6870c158a3a9b190d06e705e2aab11cbdeda2fd3e57872d
 ---
 
 # Fèis Ìle 2026: The Islay Festival's 40th Edition
 
-From 22 to 31 May 2026, the 40th Fèis Ìle was held on the Scottish island of Islay. It is the most concentrated and least improvised week in the whisky calendar: the island's distilleries take turns to open, while music, Gaelic events, walks, fishing and community dinners fill the gaps. The festival has ended; this page records that edition's dates, venues, open-day arrangements and rules of participation.
+From 22 to 31 May 2026, the 40th Fèis Ìle was held on the Scottish island of Islay. It is the most concentrated and least improvised week in the whisky calendar: the island's distilleries take turns to open, while music, Gaelic events, walks, fishing and community dinners fill the gaps. The festival has ended; this event records that edition's dates, venues, open-day arrangements and rules of participation.
 
 !["Fèis Ìle 2026: The Islay Festival's 40th Edition" category image](/media/photos/place-lagavulin-distillery-c79279a4.jpg)
 
 Figure: "Fèis Ìle 2026: The Islay Festival's 40th Edition". Photograph: File:2019-05-05 Lagavulin Distillery.jpg. Credit: Charlie Marshall, CC BY 2.0 ([source page](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This event explains the current status of Fèis Ìle 2026: The Islay Festival's 40th Edition, and how to take part.
+>
+> - **Best for:** Anyone who wants the scene, mechanics and current status of Fèis Ìle 2026: The Islay Festival's 40th Edition.
+> - **Not for:** If you want only want live ticketing or real-time logistics.
+> - **Check first:**
+>   - Fèis Ìle began in 1985.
+>   - Fèis Ìle is often shortened to “the Islay whisky festival”, but it began as an island cultural festival.
 
 ## What the event is
 

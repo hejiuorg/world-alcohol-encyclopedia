@@ -92,6 +92,15 @@ verification_scope: source-verified
 
 图：特维尔林荫道 26A 的巴洛克式宅邸立面，Café Pushkin 自 1999 年起设于其中。图片：Shakko，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Moscow,_Tverskoy_blrd_26a_-_Cafee_Pushkin_(2014)_by_shakko_01.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断Café Pushkin值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去Café Pushkin、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - Café Pushkin 的节奏更像“坐下来吃一顿”，而不是“喝一杯就走”。
+>   - 第一，不要把这里当成“普希金时代的百年老店”。
+
 ## 1999 年：Café Pushkin的关键起点
 官方历史页把一个关键事实讲得很清楚：法国歌手 Gilbert Bécaud 在 1964 年的歌曲《Nathalie》里，让主人公在莫斯科走进一家叫“Café Pouchkine”的咖啡馆，喝热巧克力、看窗外下雪。那只是歌词里的虚构地点，却让不少法国游客到了莫斯科就去找它。Andrei Dellos 被这个“不存在的咖啡馆”激发，决定在特维尔林荫道的一栋巴洛克式宅邸里把它造出来。1999 年 6 月 4 日，Café Pushkin 开业，Bécaud 本人在开业式上唱了《Nathalie》。
 

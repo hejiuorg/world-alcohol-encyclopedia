@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:citrus-press
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7fbbdd47e03a8121d8fa6ed658ad84e0e7eeecfb740cd6955fe73a96dc5754b3
-source_sha256: 7fbbdd47e03a8121d8fa6ed658ad84e0e7eeecfb740cd6955fe73a96dc5754b3
+source_revision: sha256:c9de1dddddf01bfcb148daaf33c4de7aa83eb0c843786711bbf3913fba975b00
+source_sha256: c9de1dddddf01bfcb148daaf33c4de7aa83eb0c843786711bbf3913fba975b00
 materials:
   - Stainless steel
   - Coated cast aluminium
@@ -50,7 +50,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check classic recipes built on fresh citrus juice; no source text is reproduced.
     accessed: 2026-11-07

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:maotai-distillery
 source_lang: zh
-source_revision: sha256:1671f999b213f25e6a50f18ac0ddd87baf3fc0ba65736b6f7b4e53b4bb55ecb9
-source_sha256: 1671f999b213f25e6a50f18ac0ddd87baf3fc0ba65736b6f7b4e53b4bb55ecb9
+source_revision: sha256:e6d0e2153f91bff867a892e41ba17f5df1dd32eff745f3ee927a8336f67fd580
+source_sha256: e6d0e2153f91bff867a892e41ba17f5df1dd32eff745f3ee927a8336f67fd580
 translation_status: reviewed
 subtype: distillery-visitor
 address: Maotai Town, Renhuai, Zunyi, Guizhou, China
@@ -114,9 +114,31 @@ verification_scope: source-verified
 
 Driving down to Maotai Town, the road follows the Chishui River. The distillery is here, at Maotai Town, Renhuai, Zunyi, Guizhou. The core production area is tightly managed, and the reliable public visit is the China Liquor Culture City inside the plant plus a few designated stops. Separating "Maotai Town", "the distillery" and "the Culture City" is the first step.
 
+> **Visit information**
+> - Address: Maotai Town, Renhuai, Zunyi, Guizhou, China.
+> - Opening and booking: check the [official page](https://www.moutaichina.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![related photograph of Maotai Distillery (Kweichow Moutai)](/media/photos/place-maotai-distillery-da9a56fc.jpg)
 
 Figure: Related photograph of Maotai Distillery (Kweichow Moutai). Image: Jula2812, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Maotai_-_Kweichow_Moutai_Distillery_China,_Flasche_Etikett_Detail_(2).jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Maotai Distillery (Kweichow Moutai) deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Maotai Distillery (Kweichow Moutai) who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Individual tourists cannot enter the core production area on their own.
+>   - Moutai is a 53% ABV sauce-aroma baijiu.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **A distillery in the Chishui valley:** Moutai Group's headquarters stand at Maotai Town on the Chishui River; the official profile gives an average elevation of 423 metres and more than 40,000 employees.
+> - **From three distilleries to a modern company:** Moutai Group's predecessor was the three century-old Maotai Town distilleries — Chengyi, Ronghe and Hengxing.
+> - **Sauce-aroma craft: one year, one cycle:** Moutai's process is often summarised as "12987": one production cycle a year, two rounds of grain feeding, nine steamings, eight fermentations and seven rounds of distillation.
 
 ## A distillery in the Chishui valley
 
@@ -166,6 +188,6 @@ By rail, reach Zunyi or Zunyi high-speed railway station and transfer by bus, ta
 
 On etiquette: the plant is a production site, so cooperate with security, do not climb fences, enter closed areas, smoke in no-smoking zones or use open flames; drones, tripods and commercial photography usually need permission. Do not touch exhibits, vessels or jars in the museum, and check on-site rules before photographing; some galleries ban flash. Taste in small quantities, spit what you do not want, and do not pressure others to drink.
 
-This page was verified on 2026-11-08; visiting policy, bookings, tastings, sales channels, transport schedules and prices are subject to official channels, and no map is provided here. Placed in the context of [baijiu](ref:baijiu) and [Guizhou](ref:guizhou), the distillery shows how the Chishui valley binds climate, raw materials, craft and time together; for the wider history of Chinese alcohol, see [Chinese wine history](ref:chinese-wine-history), and to start with the museum, see the [China Liquor Culture City](ref:culture-city).
+This entry was verified on 2026-11-08; visiting policy, bookings, tastings, sales channels, transport schedules and prices are subject to official channels, and no map is provided here. Placed in the context of [baijiu](ref:baijiu) and [Guizhou](ref:guizhou), the distillery shows how the Chishui valley binds climate, raw materials, craft and time together; for the wider history of Chinese alcohol, see [Chinese wine history](ref:chinese-wine-history), and to start with the museum, see the [China Liquor Culture City](ref:culture-city).
 
 Further reading: [China](ref:c-extra-1).

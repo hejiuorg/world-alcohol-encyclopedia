@@ -81,7 +81,7 @@ Figure: Tsingtao Beer. Image: Lennartbj, CC BY-SA 4.0, via Wikimedia Commons ([s
 
 ## Brand definition
 
-A brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This page records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history and listing information.
+A brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This brand records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history and listing information.
 
 A brand is also not a single product. One brand has several series, strengths, volumes and channel versions, so a question such as "what does Tsingtao Beer taste like" or "how much does Tsingtao Beer cost" needs a specific product first.
 
@@ -89,7 +89,7 @@ A brand is also not a single product. One brand has several series, strengths, v
 
 The brand's producer is [Tsingtao Brewery Company Limited](ref:producer). Its predecessor, the Germania Brewery Company Qingdao, was founded by German and British merchants in 1903; the joint-stock company was registered in 1993, and its H shares and A shares were listed the same year. Ownership of the brand and trademark, the organisation of production and disclosure rest with that company and its subsidiaries.
 
-The producer entry records the registration date, listing points and business scale. This page keeps only what relates directly to the brand, so corporate history and product history are not conflated.
+The producer entry records the registration date, listing points and business scale. This brand keeps only what relates directly to the brand, so corporate history and product history are not conflated.
 
 ## Product line
 
@@ -103,7 +103,7 @@ Buyers should check the product name, strength, original gravity, ingredients, p
 
 The brand covers a band from mass market to mid-to-high end: the Classic series serves everyday drinking and restaurants, pure draft and white beer target consumers who care about freshness and flavour, and series such as Augerta reach into mid-to-high-end gifting and gatherings.
 
-Prices change with year, channel, promotions and pack size, so this page gives no specific retail price and does not treat one promotion as long-term positioning. A price band is market positioning, not a quality grade; judging the liquid means looking at raw materials, process, freshness and label information.
+Prices change with year, channel, promotions and pack size, so this brand gives no specific retail price and does not treat one promotion as long-term positioning. A price band is market positioning, not a quality grade; judging the liquid means looking at raw materials, process, freshness and label information.
 
 ## History
 

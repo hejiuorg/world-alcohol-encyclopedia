@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <radialGradient id="bg" cx="78%" cy="16%" r="105%">
+      <stop offset="0%" stop-color="#c9b795" stop-opacity="0.28"/>
+      <stop offset="38%" stop-color="#37434a" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#100d0c"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9b795" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c9b795" stop-opacity="0.05"/>
+    </linearGradient>
+    <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#ffffff" opacity="0.09"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#grain)" opacity="0.6"/>
+  <path d="M0 520 C260 470 390 610 610 560 C820 512 1010 590 1200 520 L1200 675 L0 675 Z" fill="#37434a" opacity="0.18"/>
+  <g opacity="0.9"><circle cx="1053" cy="210" r="123" fill="none" stroke="#c9b795" stroke-width="2" opacity="0.1"/><circle cx="1027" cy="228" r="165" fill="none" stroke="#c9b795" stroke-width="1" opacity="0.125"/><circle cx="1049" cy="210" r="207" fill="none" stroke="#c9b795" stroke-width="1" opacity="0.15000000000000002"/><circle cx="1021" cy="228" r="249" fill="none" stroke="#c9b795" stroke-width="1" opacity="0.17500000000000002"/><circle cx="1030" cy="210" r="291" fill="none" stroke="#c9b795" stroke-width="1" opacity="0.2"/><path d="M941 165 L1021 165 L1051 195 L1051 280 L941 280 Z M1021 165 L1021 195 L1051 195 M966 225 L1021 225 M966 250 L1011 250" fill="none" stroke="#c9b795" stroke-width="4"/></g>
+  <rect x="0" y="0" width="8" height="675" fill="#c9b795"/>
+  <text x="82" y="72" font-family="'Inter',sans-serif" font-size="14" fill="#c9b795" letter-spacing="4">HEJIU / 识酒</text>
+  <text x="1118" y="72" text-anchor="end" font-family="'Inter',sans-serif" font-size="13" fill="#c9b9a5" letter-spacing="2">TERM / 术语 · NO.113</text>
+  <line x1="82" y1="100" x2="720" y2="100" stroke="url(#line)" stroke-width="1"/>
+  <text x="82" y="198" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC',serif" font-size="58" font-weight="600" fill="#f6efe4" letter-spacing="1">残糖（residual</text><text x="82" y="266" font-family="'Noto Serif SC','Source Han Serif SC','Songti SC',serif" font-size="58" font-weight="600" fill="#f6efe4" letter-spacing="1">sugar）</text>
+  <text x="84" y="364" font-family="'Inter','Helvetica Neue',sans-serif" font-size="22" fill="#cbbca9" letter-spacing="0.4">Residual sugar</text>
+  <g><g transform="translate(82 448)">
+      <text x="0" y="0" font-family="'Inter',sans-serif" font-size="15" fill="#c9b795" letter-spacing="3">01</text>
+      <line x1="0" y1="18" x2="58" y2="18" stroke="#c9b795" stroke-width="1" opacity="0.7"/>
+      <text x="0" y="52" font-family="'Noto Serif SC','Songti SC',serif" font-size="23" fill="#f0e6d8">定义与边界</text>
+      <text x="0" y="105" font-family="'Inter',sans-serif" font-size="15" fill="#b9aa98">Definition and boundaries</text>
+      <line x1="0" y1="164" x2="300" y2="164" stroke="#f0e6d8" stroke-width="0.8" opacity="0.25"/>
+    </g><g transform="translate(448 448)">
+      <text x="0" y="0" font-family="'Inter',sans-serif" font-size="15" fill="#c9b795" letter-spacing="3">02</text>
+      <line x1="0" y1="18" x2="58" y2="18" stroke="#c9b795" stroke-width="1" opacity="0.7"/>
+      <text x="0" y="52" font-family="'Noto Serif SC','Songti SC',serif" font-size="23" fill="#f0e6d8">糖为什么留了下来：发酵中止与加甜</text>
+      <text x="0" y="105" font-family="'Inter',sans-serif" font-size="15" fill="#b9aa98">Origin of the term and</text><text x="0" y="127" font-family="'Inter',sans-serif" font-size="15" fill="#b9aa98">its abbreviation</text>
+      <line x1="0" y1="164" x2="300" y2="164" stroke="#f0e6d8" stroke-width="0.8" opacity="0.25"/>
+    </g><g transform="translate(814 448)">
+      <text x="0" y="0" font-family="'Inter',sans-serif" font-size="15" fill="#c9b795" letter-spacing="3">03</text>
+      <line x1="0" y1="18" x2="58" y2="18" stroke="#c9b795" stroke-width="1" opacity="0.7"/>
+      <text x="0" y="52" font-family="'Noto Serif SC','Songti SC',serif" font-size="23" fill="#f0e6d8">测量与检测口径</text>
+      <text x="0" y="105" font-family="'Inter',sans-serif" font-size="15" fill="#b9aa98">How sugar remains: arrest</text><text x="0" y="127" font-family="'Inter',sans-serif" font-size="15" fill="#b9aa98">and additions</text>
+      <line x1="0" y1="164" x2="300" y2="164" stroke="#f0e6d8" stroke-width="0.8" opacity="0.25"/>
+    </g></g>
+  <text x="82" y="642" font-family="'Inter',sans-serif" font-size="12" fill="#a99987" letter-spacing="3">HEJIU.ORG · KNOW YOUR DRINK</text>
+  <text x="1118" y="642" text-anchor="end" font-family="'Inter',sans-serif" font-size="11" fill="#8f8275" letter-spacing="1">EDITORIAL VISUAL CARD / 2026</text>
+</svg>

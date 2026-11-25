@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: old-fashioned
 title: Old Fashioned recipe (IBA version)
-summary: 45 ml bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with orange peel or a slice and a cocktail cherry; this page explains the ratio, the method and the limits of substitution.
+summary: 45 ml bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with orange peel or a slice and a cocktail cherry; this recipe explains the ratio, the method and the limits of substitution.
 status: reviewed
 revision: 2
 translation_of: recipe:old-fashioned
 source_lang: zh
-source_revision: sha256:31ccd5d03a5409520483ef4600d12663a2644378438d2561ee52f0c1530544c2
-source_sha256: 31ccd5d03a5409520483ef4600d12663a2644378438d2561ee52f0c1530544c2
+source_revision: sha256:0f77d830b9ad9c831bcec45221def63fd5ebda006281115cadc624d8d8216840
+source_sha256: 0f77d830b9ad9c831bcec45221def63fd5ebda006281115cadc624d8d8216840
 translation_status: reviewed
 product_id: cocktail:old-fashioned
 source_version: IBA Official Cocktails (checked October 2026)
@@ -96,7 +96,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -110,19 +110,19 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
 # Old Fashioned recipe (IBA version)
 
-This is one [Old Fashioned](ref:cocktail) recipe with a stated source. The Old Fashioned is one of the few classic cocktails built entirely in the glass: sugar, bitters, water and whisky go into the same glass in order and are stirred there, with no shaking and no straining. This page records that version's ratio and sequence and does not mix other practices into it.![Old Fashioned recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+This is one [Old Fashioned](ref:cocktail) recipe with a stated source. The Old Fashioned is one of the few classic cocktails built entirely in the glass: sugar, bitters, water and whisky go into the same glass in order and are stirred there, with no shaking and no straining. This recipe records that version's ratio and sequence and does not mix other practices into it.![Old Fashioned recipe (IBA version) thematic illustration](/media/figures/specific/recipe-old-fashioned.svg)
 
 Figure: thematic illustration for Old Fashioned recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
 ## A recipe with a stated source
 
-The public IBA (International Bartenders Association) recipe uses 45 ml of bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with an orange slice or peel. This page follows that version and explains the purpose of each step so that a problem at home can be traced to a specific stage.
+The public IBA (International Bartenders Association) recipe uses 45 ml of bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with an orange slice or peel. This recipe follows that version and explains the purpose of each step so that a problem at home can be traced to a specific stage.
 
 The recipe version is recorded separately from the cocktail identity so that it stays traceable. The Old Fashioned has been made differently in different decades and different bars: some use syrup and some a sugar cube; some add soda water and some only a few drops of water; some garnish with orange peel and some with a cherry. These differences are not about who is "authentic"; they are different versions and should carry their own sources.
 
@@ -137,7 +137,7 @@ The recipe version is recorded separately from the cocktail identity so that it 
 
 This version has no fruit juice, no carbonated drink and no syrup. Its whole structure is "spirit plus a little sugar, a little water and bitters". The ratio looks loose, yet each element changes the direction of the drink: sugar sets sweetness and body, water sets the starting point of dilution, and bitters set the breadth of aroma.
 
-Quantities are a starting point, not a law. Glass size, the amount of ice and the strength of the whisky all change the result. Make the first drink to the numbers on this page, then adjust one variable at a time; otherwise you cannot tell where a change came from.
+Quantities are a starting point, not a law. Glass size, the amount of ice and the strength of the whisky all change the result. Make the first drink to the numbers on this recipe, then adjust one variable at a time; otherwise you cannot tell where a change came from.
 
 ## What each ingredient does
 
@@ -145,7 +145,7 @@ Quantities are a starting point, not a law. Glass size, the amount of ice and th
 
 The sugar cube supplies sweetness and, once dissolved, a little volume. Too little sugar leaves the drink hard and the bitters dominant; too much covers the detail of the whisky. The sugar must be mostly dissolved before the ice goes in, or the sweetness will concentrate in the last few sips.
 
-Bitters supply aroma and a bitter edge. The quantity is tiny, yet it lifts the sweetness of the whisky and keeps the drink from being flat. Bitter brands differ in recipe and aromatic direction; this page uses Angostura only as the reference for this version and does not rank other brands.
+Bitters supply aroma and a bitter edge. The quantity is tiny, yet it lifts the sweetness of the whisky and keeps the drink from being flat. Bitter brands differ in recipe and aromatic direction; this recipe uses Angostura only as the reference for this version and does not rank other brands.
 
 The role of water is often underestimated. A few drops open up a high-strength whisky and make the aroma clearer; too much water thins the body. The amount should follow the strength of the whisky, not a fixed number.
 
@@ -193,6 +193,6 @@ Replacing the cube with syrup dissolves faster and makes sweetness easier to con
 
 ## Limits
 
-This page records one source version only. It does not rank brands and does not present one sugar, bitters or garnish as the only correct choice. A recipe is a starting point, not a law; any change should be labelled as a difference. Drink in moderation, avoid drinking quickly on an empty stomach, and do not drink while driving, taking medication or pregnant; follow local law.
+This recipe records one source version only. It does not rank brands and does not present one sugar, bitters or garnish as the only correct choice. A recipe is a starting point, not a law; any change should be labelled as a difference. Drink in moderation, avoid drinking quickly on an empty stomach, and do not drink while driving, taking medication or pregnant; follow local law.
 
-**Short definition:** 45 ml bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with orange peel or a slice and a cocktail cherry; this page explains the ratio, the method and the limits of substitution.
+**Short definition:** 45 ml bourbon or rye whisky, one sugar cube, a couple of dashes of Angostura bitters and a little water, built in a rocks glass and garnished with orange peel or a slice and a cocktail cherry; this recipe explains the ratio, the method and the limits of substitution.

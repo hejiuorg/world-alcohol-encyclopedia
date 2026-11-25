@@ -80,6 +80,15 @@ verification_scope: source-verified
 
 图：宾三得利相关实景照片。图片：Richard Sutcliffe，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Beam_Suntory_Linlithgow_Warehouses_-_geograph.org.uk_-_7431635.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断宾三得利的工艺特点，以及参观能看到什么。
+>
+> - **适合谁：** 想了解宾三得利的工艺、产品和参观边界的人。
+> - **不适合谁：** 只想要购买链接、不关心工艺和参观规则的人。
+> - **先看这两点：**
+>   - 宾三得利是企业实体，不是单一品牌。
+>   - 关键节点可以串成一条线：2011 年 Fortune Brands 拆分，烈酒业务成为 Beam Inc。
+
 ## 定义与定位
 
 宾三得利是企业实体，不是单一品牌。它隶属于三得利控股，负责烈酒业务的全球运营；运营总部设在美国芝加哥，同时在东京与大阪与控股公司协同。2024 年前后，集团对外名称调整为 Suntory Global Spirits，但中文市场仍普遍使用“宾三得利”。

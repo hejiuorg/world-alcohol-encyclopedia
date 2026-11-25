@@ -72,9 +72,9 @@ verification_scope: source-verified
 
 整串发酵（whole bunch，北美常写 whole cluster）指把未经破碎的整串葡萄，连同果梗一起装入发酵容器。它可以是全部原料，也可以只占一部分，其余葡萄除梗破碎后混入。这个选择改变的不是“是否发酵”，而是发酵的环境、提取的方向与氧化的节奏。
 
-![整串发酵（whole bunch） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![整串发酵（whole bunch） 类型示意图](/media/figures/specific/term-whole-bunch.svg)
 
-图：整串发酵（whole bunch） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是整串发酵（whole bunch）的实拍。
+图：整串发酵（whole bunch） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

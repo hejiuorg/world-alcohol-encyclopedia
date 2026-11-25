@@ -138,7 +138,7 @@ For Guojiao 1573, taste from a small cup: smell at rest, then gently swirl and s
 
 For Guojiao 1573, public information shows that the pit group begun in 1573 was listed as a Major Historical and Cultural Site Protected at the National Level in 1996; the listed company was listed in 1994, and the group was founded in 2000. These milestones have heritage and public registration support and can be checked.
 
-Guojiao 1573 represents the brand's move upmarket and has long sat in the high-end price band. Prices change with year, channel and supply and demand, and this page gives no figures. Treating "1573" as age is the most common misreading of this product.
+Guojiao 1573 represents the brand's move upmarket and has long sat in the high-end price band. Prices change with year, channel and supply and demand, and this entry gives no figures. Treating "1573" as age is the most common misreading of this product.
 
 ## Buying and storage
 

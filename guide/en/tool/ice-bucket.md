@@ -164,4 +164,4 @@ Salt speeds the melt and the chill, but it also corrodes metal if left in the bu
 
 **Sources and limits.** The key claims about Ice Bucket are checked against the following sources: Oxford University Press (Used to check ice buckets and drinks service background), Encyclopaedia Britannica (Used to check wine service temperature and methods), Corning Museum of Glass (Used to check glass and metal vessel craft background) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Ice Bucket, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Ice Bucket, this tool was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

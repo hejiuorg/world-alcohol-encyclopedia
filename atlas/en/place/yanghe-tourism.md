@@ -89,17 +89,32 @@ verification_scope: source-verified
 translation_of: place:yanghe-tourism
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e5fd6290ea9cfb9a619487e2afc46ef7a986a505a0493d3cc30d2951e0f8ad7d
-source_sha256: e5fd6290ea9cfb9a619487e2afc46ef7a986a505a0493d3cc30d2951e0f8ad7d
+source_revision: sha256:bc126bf78f3082564ad0f2dc2213d8bb1962316de45f52180d614b293bc2e4b7
+source_sha256: bc126bf78f3082564ad0f2dc2213d8bb1962316de45f52180d614b293bc2e4b7
 ---
 
 # Yanghe Distillery Cultural Tourism Area
 
 Driving from Suqian city toward Yanghe Town, the smell of distillers’ grain arrives before the gate. This is not a “museum built by sealing off a distillery”: it is the working production site of Yanghe Distillery, where trucks, pits, pottery storage, packaging lines and visitor routes overlap. What visitors see is an unusually large sample of China’s industrial baijiu production, and a record that runs from a 2006 “industrial tourism demonstration site” to a national 4A scenic area, national industrial heritage and a national key cultural relic.
 
+> **Visit information**
+> - Address: 118 Zhongda Street, Yanghe Town, Sucheng District, Suqian, Jiangsu, China.
+> - Opening and booking: check the [official page](https://ly.chinayanghe.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
+
 ![Illustrative image of fermenting baijiu mash](/media/photos/place-yanghe-tourism-953fcea1.jpg)
 
 Figure: Fermenting baijiu mash at Luzhou Laojiao, used as an illustrative image of solid-state fermentation; not the Yanghe site. Image: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Baijiu_Produktion_Luzhou_Laojiao.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Yanghe Distillery Cultural Tourism Area deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Yanghe Distillery Cultural Tourism Area who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The official introduction gives a clear timeline: in 2006 the site was named a national industrial tourism demonstration site; in 2015 it became a national 4A scenic area.
+>   - A full route usually starts at the corporate exhibition hall for Yanghe’s history, brands and production area, then enters the packaging and logistics centre.
 
 ## Location and history
 

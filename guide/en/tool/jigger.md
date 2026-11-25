@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:jigger
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:55ba5d933d35585742a62d97f62529c913505ada887c4cb59a2e6f2ad03659eb
-source_sha256: 55ba5d933d35585742a62d97f62529c913505ada887c4cb59a2e6f2ad03659eb
+source_revision: sha256:a6863e461ee7a9affcee41a38f0340239918f8c5b086e16cb4ef961ae44d34d3
+source_sha256: a6863e461ee7a9affcee41a38f0340239918f8c5b086e16cb4ef961ae44d34d3
 materials:
   - Stainless steel
   - Glass
@@ -42,7 +42,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check classic cocktail measures; no source text is reproduced.
     accessed: 2026-11-04

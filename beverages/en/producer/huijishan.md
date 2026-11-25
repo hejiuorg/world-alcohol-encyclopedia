@@ -83,7 +83,7 @@ verification_scope: source-verified
 ---
 # Kuaijishan Shaoxing Rice Wine Co., Ltd.
 
-Kuaijishan Shaoxing Rice Wine Co., Ltd. is a huangjiu producer in Shaoxing, Zhejiang, and its products belong to the Shaoxing type of [huangjiu](ref:yellow-wine). The company trades under the [Kuaijishan](ref:brand) brand, with a representative product in [Kuaijishan Chunzheng 5](ref:chunzheng). This page records the producer layer: company identity, site, brand structure and craft tradition.
+Kuaijishan Shaoxing Rice Wine Co., Ltd. is a huangjiu producer in Shaoxing, Zhejiang, and its products belong to the Shaoxing type of [huangjiu](ref:yellow-wine). The company trades under the [Kuaijishan](ref:brand) brand, with a representative product in [Kuaijishan Chunzheng 5](ref:chunzheng). This producer records the producer layer: company identity, site, brand structure and craft tradition.
 
 ![Kuaijishan Shaoxing Rice Wine Co., Ltd. category image](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
 
@@ -91,7 +91,7 @@ Figure: Kuaijishan Shaoxing Rice Wine Co., Ltd.. Photograph: File:Shaoxing wine 
 
 ## Company identity
 
-This page records the producer layer: company name, location, historical starting point and organisational form. The company is the production and operating entity, holding the trademark and running production and sales. When discussing "Kuaijishan", first separate the company, the brand and a single bottle.
+This producer records the producer layer: company name, location, historical starting point and organisational form. The company is the production and operating entity, holding the trademark and running production and sales. When discussing "Kuaijishan", first separate the company, the brand and a single bottle.
 
 Kuaijishan is a listed public company, listed on the Shanghai Stock Exchange in 2014. Public material places the historical starting point in 1743, with the Yunji winery in Shaoxing as the predecessor. That year belongs to the company narrative as a workshop origin and is not the founding date of the modern joint-stock company.
 
@@ -129,7 +129,7 @@ In 2014 the company listed on the Shanghai Stock Exchange and entered the capita
 
 The Shaoxing huangjiu industry is characterised by many small and medium producers and strong seasonality, and the pace of production during winter brewing differs from the rest of the year. Kuaijishan sits within this cluster and must maintain traditional craft while facing structural issues such as regionally concentrated consumption and limited cultivation of younger drinkers.
 
-Huangjiu spans a wide price range, from everyday cooking and table wine to gift and aged products. Price discussions should state whether the figure is the official guide price, supermarket retail or restaurant pricing, and no single number describes the national market. This page gives no specific prices.
+Huangjiu spans a wide price range, from everyday cooking and table wine to gift and aged products. Price discussions should state whether the figure is the official guide price, supermarket retail or restaurant pricing, and no single number describes the national market. This producer gives no specific prices.
 
 ## Common misconceptions
 

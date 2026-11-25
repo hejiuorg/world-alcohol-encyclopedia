@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: term:residual-sugar
 source_lang: zh
-source_revision: sha256:92790c546abf190f18ce82debf7fde69e3c9265c18c8bed978f41553194a9bb1
-source_sha256: 92790c546abf190f18ce82debf7fde69e3c9265c18c8bed978f41553194a9bb1
+source_revision: sha256:ce914f0fc46ed99a409cf05926c446bffc02c610d10269e81059c262547d134a
+source_sha256: ce914f0fc46ed99a409cf05926c446bffc02c610d10269e81059c262547d134a
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 Residual sugar, usually abbreviated RS, is the sugar still present in a drink after fermentation. Yeast turns sugar into alcohol and carbon dioxide, but fermentation does not always exhaust the sugar: it may stop early, or sugar may be deliberately retained. RS is normally expressed in grams per litre and is central to sweetness, labelling and pairing.
 
-![Residual sugar thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Residual sugar thematic illustration](/media/figures/specific/term-residual-sugar.svg)
 
 Figure: thematic illustration for Residual sugar. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

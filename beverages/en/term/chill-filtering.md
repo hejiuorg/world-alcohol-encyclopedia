@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: term:chill-filtering
 source_lang: zh
-source_revision: sha256:b79601d5cfc36dbfb23e5c531481f7e9bdbf423d6291a61d7bfbddd84192dda8
-source_sha256: b79601d5cfc36dbfb23e5c531481f7e9bdbf423d6291a61d7bfbddd84192dda8
+source_revision: sha256:236b9023782baf07655378c83856d87223fdf6413fe4d51e3e58ed45a0dfd609
+source_sha256: 236b9023782baf07655378c83856d87223fdf6413fe4d51e3e58ed45a0dfd609
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -93,6 +93,15 @@ Chill filtration is an optional step before bottling whisky: the liquid is coole
 ![Filter press in a beer museum](/media/photos/term-chill-filtering-f4649763.jpg)
 
 Figure: A plate-and-frame filter press at the European Beer Museum; a historical example of filtration equipment, not a whisky chill-filtration line and not the process described here. Image: AlfvanBeem, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Filter_press_at_the_Mus%C3%A9e_Europ%C3%A9en_de_la_Bi%C3%A8re.JPG)).
+
+> **Quick verdict**
+> **In one line:** This term explains Chill filtration in one line: definition, boundary and usage.
+>
+> - **Best for:** Anyone who has met Chill filtration and needs a precise definition, boundary and usage.
+> - **Not for:** If you want need the full legal text or legal/medical advice.
+> - **Check first:**
+>   - The most reliable way to know whether a whisky was chill filtered is the distillery website, product page or back label, not ABV alone.
+>   - When buying, place “chill filtered” in the process information, not in a quality hierarchy.
 
 ## Definition and purpose
 

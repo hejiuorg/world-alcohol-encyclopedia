@@ -108,6 +108,15 @@ verification_scope: source-verified
 
 图：木桐酒庄。图片：Jack ma，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jardin_de_Ch%C3%A2teau_de_Mouton-Rothschild,_Pauillac._2012.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断木桐酒庄值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去木桐酒庄、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 木桐只接受预约参观，官方明确要求至少提前两个月预订，且视名额而定；采收期参观会暂停。
+>   - 第一个误区是把“1855 年二级庄”与“今天的一级庄”混为一谈。
+
 ## 1853 年：木桐酒庄的关键起点
 1853 年，纳塔涅·德·罗思柴尔德男爵（Baron Nathaniel de Rothschild）在拍卖中买下当时的 Château Brane-Mouton，目的是让自己宴客时有酒可上。酒庄从此改姓罗思柴尔德，成为今天的 Château Mouton Rothschild。1855 年巴黎世博会配套的波尔多分级把木桐列为二级庄（Deuxième Cru），此后的一个多世纪里，酒庄的市场声誉常被拿来与一级庄比较，但等级始终差一档。
 

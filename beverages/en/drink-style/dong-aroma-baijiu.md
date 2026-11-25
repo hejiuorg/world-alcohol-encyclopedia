@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:dong-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:108d48bd230befbbbaa8fe38e08cc94e5646ec944e58ff57bffa7be48db04a70
-source_sha256: 108d48bd230befbbbaa8fe38e08cc94e5646ec944e58ff57bffa7be48db04a70
+source_revision: sha256:1b950cfe571b973ee5b7fed55b64860dc8d672e1b16ac5fd2d012c1ec3943bac
+source_sha256: 1b950cfe571b973ee5b7fed55b64860dc8d672e1b16ac5fd2d012c1ec3943bac
 legacy_refs: []
 aliases:
   - Dong aroma baijiu
@@ -77,14 +77,14 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against a local standard and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Dong aroma baijiu
 
 Dong aroma baijiu, also called medicinal aroma baijiu, is one of the aroma styles in baijiu classification, represented by Dongjiu from Guizhou. Its identity comes from adding a range of herb materials to qu making, plus a process that uses both large qu and small qu and co-distils two mashes. Guizhou local standard DB52/T 550-2013, Dong aroma baijiu, sets the origin, raw materials, process and quality indices for this style.
 
-![Dong aroma baijiu thematic illustration](/media/photos/theme-asian.jpg)
+![Dong aroma baijiu thematic illustration](/media/figures/specific/drink-style-dong-aroma-baijiu.svg)
 
 Figure: thematic illustration for Dong aroma baijiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

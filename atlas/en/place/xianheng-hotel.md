@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:xianheng-hotel
 source_lang: zh
-source_revision: sha256:6ada8a64c701e1c86d75ac5ffc0a9e5ae54883b37d3c0838d85e22eb1b055340
-source_sha256: 6ada8a64c701e1c86d75ac5ffc0a9e5ae54883b37d3c0838d85e22eb1b055340
+source_revision: sha256:97f5add81a364180e5360a9adec8274470f82788673a86a643396be96c50d3a5
+source_sha256: 97f5add81a364180e5360a9adec8274470f82788673a86a643396be96c50d3a5
 translation_status: reviewed
 subtype: pub
 address: 179 Lu Xun Middle Road, Yuecheng District, Shaoxing, Zhejiang, China
@@ -101,6 +101,15 @@ At 179 Lu Xun Middle Road in Shaoxing, a white board with black characters readi
 
 Figure: Xianheng Hotel. Image: Jiong Sheng, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Xianheng Hotel deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Xianheng Hotel who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The first glass is usually yellow wine.
+>   - Xianheng Hotel makes more sense as part of a walk through Lu Xun's hometown than as a standalone meal.
+
 ## Who drank here
 
 The story begins in 1894. In the twentieth year of the Guangxu reign, Lu Xun's uncle Zhou Zhongxiang and others opened a small hotel at Duchangfang in Shaoxing. The owner took the two characters "Xianheng" from the Commentary on the Kun Hexagram in the I Ching — "containing the vast and bright, all things prosper" — to wish the business good fortune and smooth success. The naming places a classical text, a commercial hope and street life on one plaque.
@@ -131,7 +140,7 @@ Xianheng Hotel itself charges no admission; meals, drinks and rooms are paid for
 
 The address is 179 Lu Xun Middle Road, Yuecheng District, Shaoxing, Zhejiang. From Shaoxing North high-speed railway station, a taxi to the old town takes about half an hour; Shaoxing station is closer. Metro Line 1 stops at Lu Xun Hometown station, about a six-minute walk away; local buses also serve the Lu Xun Hometown area. The old streets are narrow, so use a public car park. The hotel's site gives about 40 minutes by car from Hangzhou Xiaoshan International Airport, an hour from West Lake and 1.5 hours from Ningbo.
 
-Keep tickets and prices separate: Xianheng Hotel has no admission ticket, but yellow wine, dishes, rooms and banquets all have prices; nearby venues such as the China Yellow Wine Museum charge admission or require free reservations. This page was verified on 2026-11-08; opening hours, menus, room rates and reservation policies are subject to official confirmation.
+Keep tickets and prices separate: Xianheng Hotel has no admission ticket, but yellow wine, dishes, rooms and banquets all have prices; nearby venues such as the China Yellow Wine Museum charge admission or require free reservations. This entry was verified on 2026-11-08; opening hours, menus, room rates and reservation policies are subject to official confirmation.
 
 ## Etiquette and misconceptions
 

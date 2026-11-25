@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-chateau-mouton-rothschild
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a9bacc1c78aa2b3cdadf6df763877a64884c4e3b04c8b176bcfe318cd18afc2d
-source_sha256: a9bacc1c78aa2b3cdadf6df763877a64884c4e3b04c8b176bcfe318cd18afc2d
+source_revision: sha256:188df1998791a00617a7b15f9848951e9358ceb6c548b6cd2dc5b484f94f2c4b
+source_sha256: 188df1998791a00617a7b15f9848951e9358ceb6c548b6cd2dc5b484f94f2c4b
 style_refs:
   - drink-style:red-wine
 variety_refs:
@@ -124,6 +124,15 @@ verification_scope: source-verified
 Château Mouton Rothschild lies at the northern edge of [Pauillac](ref:pauillac), in [Bordeaux](ref:bordeaux), [France](ref:france), separated from Lafite by a narrow track. Its artist labels are what most people remember, but what makes the estate unusual is the 1973 promotion: the only time the 1855 list raised a second growth to first. It is a still [red wine](ref:red-wine) in the ordinary [wine](ref:wine) sense.![Château Mouton Rothschild image](/media/photos/drink-france-chateau-mouton-rothschild-6c75d53a.jpg)
 
 Figure: Château Mouton Rothschild. Image: Jack ma, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jardin_de_Ch%C3%A2teau_de_Mouton-Rothschild,_Pauillac._2012.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Château Mouton Rothschild suits you, and how to serve and pair it.
+>
+> - **Best for:** Anyone trying to understand what Château Mouton Rothschild is, how it is served and when it fits.
+> - **Not for:** If you want only want the cheapest buying link and do not care about flavour or context.
+> - **Check first:**
+>   - Wine-Searcher showed an average retail price of about US$794 per 750 mL for the grand vin in November 2026; actual prices run from roughly US$400 to US$1,200 depending on vintage.
+>   - In 1853 Baron Nathaniel de Rothschild bought Brane-Mouton at auction so that he could serve his own wine to his guests.
 
 ## Brane-Mouton sold at auction in 1853
 

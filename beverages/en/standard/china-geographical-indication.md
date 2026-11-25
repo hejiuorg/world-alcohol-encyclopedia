@@ -14,8 +14,8 @@ status: reviewed
 revision: 1
 translation_of: standard:china-geographical-indication
 source_lang: zh
-source_revision: sha256:452b0fce96fb499652be541d13c48055e48fd66dee7d05202fadf501ed31d499
-source_sha256: 452b0fce96fb499652be541d13c48055e48fd66dee7d05202fadf501ed31d499
+source_revision: sha256:03ecc0cfa10c16ff9e9bf270f32bb1d80b93a89009fbc4265090b529b322d7ec
+source_sha256: 03ecc0cfa10c16ff9e9bf270f32bb1d80b93a89009fbc4265090b529b322d7ec
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -97,6 +97,15 @@ Geographical indication protection in China cannot be summed up by one law, one 
 ![Jars of Shaoxing wine in a supermarket](/media/photos/standard-china-geographical-indication-feb4ff5a.jpg)
 
 Figure: Jars of Shaoxing wine in a Beijing supermarket; Shaoxing wine is an example of a GI product, but the image is not the official mark and does not prove that this jar is licensed to use it. Image: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jarred_Shaoxing_wine_at_a_supermarket_in_Beijing_(20241109164501).jpg)).
+
+> **Quick verdict**
+> **In one line:** This standard explains the scope, limits and common misreadings of China's geographical indication protection.
+>
+> - **Best for:** Anyone who needs the scope and limits of China's geographical indication protection quickly.
+> - **Not for:** If you want need the full standard text or a compliance ruling.
+> - **Check first:**
+>   - Alcoholic drinks are an active category in Chinese GIs.
+>   - For consumers, a GI is a traceable clue about origin and rules, not a “certificate of quality”.
 
 ## Definition and four characteristics
 

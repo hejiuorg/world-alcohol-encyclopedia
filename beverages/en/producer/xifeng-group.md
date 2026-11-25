@@ -84,9 +84,9 @@ Figure: Shaanxi Xifeng Liquor Group Co., Ltd.. Photograph: File:Vertreter der vi
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company handles production, sales and disclosure, while the group layer involves investment and supporting industries. When discussing "Xifeng", first establish whether the subject is the joint-stock company, the group, the brand or a bottle.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company handles production, sales and disclosure, while the group layer involves investment and supporting industries. When discussing "Xifeng", first establish whether the subject is the joint-stock company, the group, the brand or a bottle.
 
-Public material uses different starting points for "founding year": counting from the restructured joint-stock company gives 1999, while counting from the predecessor state-run distillery goes back to 1956. This page uses 1999 for the founding year and lists the predecessor separately in the history section, so the two conventions are not mixed.
+Public material uses different starting points for "founding year": counting from the restructured joint-stock company gives 1999, while counting from the predecessor state-run distillery goes back to 1956. This producer uses 1999 for the founding year and lists the predecessor separately in the history section, so the two conventions are not mixed.
 
 ## Site and region
 
@@ -123,7 +123,7 @@ In 1956 the state-run Shaanxi Xifeng Distillery was founded, moving Xifengjiu fr
 
 ## Visiting
 
-The company is in Fengxiang District, Baoji. Opening arrangements for plant tours, drinks-culture displays and tasting events depend on the operator's current official notices. This page does not provide unverified booking numbers, ticket prices or travel guides and does not recommend following old guides to the site. To learn about the process, prefer officially open industrial-tourism or drinks-culture programmes.
+The company is in Fengxiang District, Baoji. Opening arrangements for plant tours, drinks-culture displays and tasting events depend on the operator's current official notices. This producer does not provide unverified booking numbers, ticket prices or travel guides and does not recommend following old guides to the site. To learn about the process, prefer officially open industrial-tourism or drinks-culture programmes.
 
 ## Common misconceptions
 

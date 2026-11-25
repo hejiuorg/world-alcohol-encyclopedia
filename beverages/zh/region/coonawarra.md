@@ -102,6 +102,15 @@ verification_scope: source-verified
 
 图：Coonawarra：Winter vineyard in Coonawarra（Wikimedia Commons）。图片：ScottDavis，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Winter_vineyard_in_Coonawarra.JPG)）。
 
+> **先给结论**
+> **一句话：** 这页判断库纳瓦拉的风味与旅行价值，以及怎么安排。
+>
+> - **适合谁：** 正在比较库纳瓦拉与其他产区、准备买酒或安排旅行的人。
+> - **不适合谁：** 只想要“哪个产区最贵”的结论、不关心风格和年份的人。
+> - **先看这两点：**
+>   - 读酒标先确认 Coonawarra GI，再看生产者、年份与酒款级别。
+>   - 产区中心是 Coonawarra 小镇，邻近 Penola；酒庄沿 Riddoch Highway 与 V&A Lane 两侧展开，彼此车程多在十几分钟内。
+
 ## 先划清「库纳瓦拉」的边界
 库纳瓦拉在南澳东南角的石灰岩海岸，隶属 [澳大利亚](ref:australia) 葡萄酒产区框架，距阿德莱德东南约 380 公里、距南大洋约 60 公里。GI 区域面积 398 平方公里，葡萄园 5,784 公顷，海拔介于 51–127 米，地处南纬 37.47°。产区地势平坦，核心是一条纵贯南北的红土脊，周边则是砂质与灰黑壤土地块。
 

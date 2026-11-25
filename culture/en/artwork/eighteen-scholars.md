@@ -10,8 +10,8 @@ summary: A set of four hanging scrolls in Taipei, formerly labelled Song but now
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:1df6be29e85c410f89a4847a2c44f4b6765315043dd6f706565fc7ec4e164c9b
-source_sha256: 1df6be29e85c410f89a4847a2c44f4b6765315043dd6f706565fc7ec4e164c9b
+source_revision: sha256:55c323845d481260623b3d84b7289e5b3c02de94377b07880da09736e3ce53b8
+source_sha256: 55c323845d481260623b3d84b7289e5b3c02de94377b07880da09736e3ce53b8
 source_lang: zh
 translation_status: reviewed
 creator_refs: []
@@ -83,12 +83,21 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original text by the project, checked against the National Palace Museum database, reference works and art-historical sources; quotations are limited to short phrases. The project owner declared CC BY 4.0 for site content on 2026-10-29.
-  note: The painting is in the public domain; National Palace Museum photography and catalogue text are not. This page uses a public-domain reproduction from Wikimedia Commons.
+  note: The painting is in the public domain; National Palace Museum photography and catalogue text are not. This artwork entry uses a public-domain reproduction from Wikimedia Commons.
 verification_scope: source-verified
 ---
 ![One hanging scroll from the set traditionally titled The Eighteen Scholars, National Palace Museum, Taipei; not a life portrait of Taizong's eighteen scholars.](/media/photos/artwork-eighteen-scholars-47eceea4.jpg)
 
 Figure: One hanging scroll from the set traditionally titled The Eighteen Scholars, National Palace Museum, Taipei; not a life portrait of Taizong's eighteen scholars.. Image: Unknown author Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E4%BA%BA%E5%8D%81%E5%85%AB%E5%AD%A6%E5%A3%AB%E5%9B%BE%E8%BD%B4.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg)).
+
+> **Quick verdict**
+> **In one line:** This artwork entry helps you look at The Eighteen Scholars: A Tang Political Portrait Turned into Four Scenes of Literati Life, and place it in the history of drinking imagery.
+>
+> - **Best for:** Anyone who wants The Eighteen Scholars: A Tang Political Portrait Turned into Four Scenes of Literati Life in the history of drinking imagery, not as a standalone picture.
+> - **Not for:** If you want want a single image without the period or drinking context.
+> - **Check first:**
+>   - Start with the centre of each scroll: qin, chess, calligraphy and painting each has a visual focus.
+>   - The National Palace Museum's Eighteen Scholars is not one painting.
 
 ## Four paintings, four kinds of literati life
 

@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:grilled-meat-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5efedd847b16164fd4cd666ac999505083d76ca6ad08186c82a0df3a054a9777
-source_sha256: 5efedd847b16164fd4cd666ac999505083d76ca6ad08186c82a0df3a054a9777
+source_revision: sha256:45b414a4feae14530f6c2ea8f83f7d1da5010faf4adef8b33d066d6275c39a75
+source_sha256: 45b414a4feae14530f6c2ea8f83f7d1da5010faf4adef8b33d066d6275c39a75
 aliases:
   - Barbecue and beer
 tags:
@@ -70,7 +70,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
@@ -78,9 +78,16 @@ verification_scope: source-verified
 
 The default combination at a barbecue stall is often a handful of skewers and a crate of beer. It works not because of a secret formula but because beer supplies bubbles, bitterness, low temperature and low alcohol at once: bubbles wash fat, bitterness cuts greasiness, low temperature reduces burning, and low alcohol lets people drink for longer. But "drinking for longer" also means drinking too much, so the pairing still needs judgement.
 
-![Grilled Meat and Beer: Balance in the Smoke thematic illustration](/media/photos/theme-beer.jpg)
+![Grilled Meat and Beer: Balance in the Smoke thematic illustration](/media/figures/specific/pairing-grilled-meat-beer.svg)
 
 Figure: thematic illustration for Grilled Meat and Beer: Balance in the Smoke. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Look at the fire first, then the glass:** The first variable in barbecue is heat and seasoning.
+> - **The flavour structure of barbecue:** Barbecue flavour has four layers: the ingredient, the marinade, the finishing seasoning and the fire.
+> - **What beer can offer:** Beer is a fermented drink made mainly from malt and water, with hops added, fermented by yeast, containing carbon dioxide, effervescent and low in alcohol.
 
 ## Look at the fire first, then the glass
 

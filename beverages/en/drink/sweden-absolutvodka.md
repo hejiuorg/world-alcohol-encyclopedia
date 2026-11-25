@@ -142,7 +142,7 @@ Absolut is made in Åhus, Sweden, from winter wheat and continuous distillation.
 
 **Sources and limits.** The key claims about Absolut Vodka are checked against the following sources: Absolut (raw material, origin, continuous distillation and product information), European Union (the vodka definition, raw materials and minimum bottling strength), Oxford University Press (Consulted for entries on vodka, continuous distillation and Swedish distilling traditions) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Absolut Vodka next to Vodka, Distillation, Wheat: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Absolut Vodka next to Vodka, Distillation, Wheat: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

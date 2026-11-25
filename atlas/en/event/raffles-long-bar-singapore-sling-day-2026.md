@@ -5,13 +5,13 @@ type: event
 lang: en
 slug: raffles-long-bar-singapore-sling-day-2026
 title: Singapore Sling Day 2026 at Raffles Long Bar
-summary: "On 27 June 2026 Raffles Hotel Singapore's Long Bar held its annual Singapore Sling Day, coinciding with International Pineapple Day: the first 100 guests bringing a whole pineapple could exchange it for a complimentary Singapore Sling, and the alcohol-free Singapore Sling Zero was launched the same day. The event has ended; this page records that edition's arrangements and rules."
+summary: "On 27 June 2026 Raffles Hotel Singapore's Long Bar held its annual Singapore Sling Day, coinciding with International Pineapple Day: the first 100 guests bringing a whole pineapple could exchange it for a complimentary Singapore Sling, and the alcohol-free Singapore Sling Zero was launched the same day. The event has ended; this event records that edition's arrangements and rules."
 status: reviewed
 revision: 2
 translation_of: event:raffles-long-bar-singapore-sling-day-2026
 source_lang: zh
-source_revision: sha256:e3a838e87a1e77bc30d45d2c86754e44cc1d3a31cdd1b1a72dcd996862beb25f
-source_sha256: e3a838e87a1e77bc30d45d2c86754e44cc1d3a31cdd1b1a72dcd996862beb25f
+source_revision: sha256:fefcdc442777e691dc0fe23a9bdbf0ea21e1fe2a541cc3b26decfce2a92bacca
+source_sha256: fefcdc442777e691dc0fe23a9bdbf0ea21e1fe2a541cc3b26decfce2a92bacca
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -79,11 +79,20 @@ event_status: past
 
 # Singapore Sling Day 2026 at Raffles Long Bar
 
-On 27 June 2026 Raffles Hotel Singapore's Long Bar held its annual Singapore Sling Day. The date coincides with International Pineapple Day, and the bar made the pineapple its festive symbol: the first 100 guests who brought a whole pineapple could exchange it for a complimentary Singapore Sling. The alcohol-free Singapore Sling Zero also became available on the same day. The event has ended, and this page records the 2026 edition's arrangements and rules.
+On 27 June 2026 Raffles Hotel Singapore's Long Bar held its annual Singapore Sling Day. The date coincides with International Pineapple Day, and the bar made the pineapple its festive symbol: the first 100 guests who brought a whole pineapple could exchange it for a complimentary Singapore Sling. The alcohol-free Singapore Sling Zero also became available on the same day. The event has ended, and this event records the 2026 edition's arrangements and rules.
 
 ![Singapore Sling Day 2026 at Raffles Long Bar category illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: Singapore Sling Day 2026 at Raffles Long Bar. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This event explains the current status of Singapore Sling Day 2026 at Raffles Long Bar, and how to take part.
+>
+> - **Best for:** Anyone who wants the scene, mechanics and current status of Singapore Sling Day 2026 at Raffles Long Bar.
+> - **Not for:** If you want only want live ticketing or real-time logistics.
+> - **Check first:**
+>   - The first rule on Sling Day is the queue.
+>   - The Singapore Sling was created at Long Bar in 1915.
 
 ## Background
 
@@ -99,15 +108,15 @@ Long Bar is not a quiet hotel lounge but one of Raffles' most heavily visited se
 - Place: [Raffles Long Bar](ref:long-bar), level 2 of Raffles Arcade, entered from the North Bridge Road side.
 - Address: #02-01 Raffles Arcade, 328 North Bridge Road, Singapore 188719.
 - Timezone: Asia/Singapore.
-- This page's `start` is 11:00 and `end` is 23:30 (last seating) on the day, matching the bar's Thursday-to-Saturday hours; 27 June 2026 was a Saturday.
+- This event's `start` is 11:00 and `end` is 23:30 (last seating) on the day, matching the bar's Thursday-to-Saturday hours; 27 June 2026 was a Saturday.
 
-The official opening hours are 11:00–22:30 from Sunday to Wednesday (last seating) and 11:00–23:30 from Thursday to Saturday (last seating). The official page does not publish a minute-by-minute schedule for Sling Day, nor a stated time when the pineapple exchange ends. This page therefore makes no promise about “the exchange starts at this hour” or “it finishes at that minute”. For a similar future event, the hotel's notice on the day and the arrangements on site should govern.
+The official opening hours are 11:00–22:30 from Sunday to Wednesday (last seating) and 11:00–23:30 from Thursday to Saturday (last seating). The official page does not publish a minute-by-minute schedule for Sling Day, nor a stated time when the pineapple exchange ends. This event therefore makes no promise about “the exchange starts at this hour” or “it finishes at that minute”. For a similar future event, the hotel's notice on the day and the arrangements on site should govern.
 
 ## Taking part and tickets
 
 Long Bar is open to walk-ins only and does not take reservations. There was no separate ticket for Singapore Sling Day: participation meant joining the queue, ordering from the normal menu, and taking part in the exchange on site. The official page offers no fast track or guaranteed seat, so claims from third parties about queue-jumping or “inside allocations” should not be trusted.
 
-The official pineapple rule is that the first 100 guests bringing a whole pineapple may exchange it for one complimentary Singapore Sling. The key words are “whole” and “first 100”: the fruit must be complete, not sliced or canned, and the quota is counted by arrival order and lasts while it lasts. The English page does not state a per-guest limit on the number of drinks exchanged, and the Chinese page gives only the first-100 threshold, so this page adds no “one per guest” restriction. Actual handling is at the staff's discretion.
+The official pineapple rule is that the first 100 guests bringing a whole pineapple may exchange it for one complimentary Singapore Sling. The key words are “whole” and “first 100”: the fruit must be complete, not sliced or canned, and the quota is counted by arrival order and lasts while it lasts. The English page does not state a per-guest limit on the number of drinks exchanged, and the Chinese page gives only the first-100 threshold, so this event adds no “one per guest” restriction. Actual handling is at the staff's discretion.
 
 The alcohol-free Singapore Sling Zero became available at Long Bar from 27 June 2026. The official recipe uses Tanqueray 0.0% Alcohol Free Spirit, Raffles' signature grenadine, fresh pineapple and lime juices, Singapore Sling tea, a 48-hour spice tincture, orange peel and cherry. It keeps the original's pineapple, citrus and warm-spice profile without alcohol; for companions who do not drink or want to limit alcohol, it is the more practical choice on the day.
 
@@ -129,13 +138,13 @@ On photography, the official page imposes no ban, but the bar is a working busin
 
 The three core facts come from Raffles' official pages: Singapore Sling Day falls on 27 June, coincides with International Pineapple Day, and the first 100 guests bringing a whole pineapple may exchange it for a complimentary Sling; the Singapore Sling Zero page states that it was available at Long Bar from 27 June 2026; the Long Bar page gives the address, walk-in-only policy, hours and smart-casual suggestion. All three are hotel channels, and the dates and rules corroborate one another.
 
-The boundaries also need stating. First, this page records the edition of 27 June 2026, which has ended; the 2027 date, quota and continuation had not been published on these pages when checked. Second, the official page gives the standing “first 100” rule but no complete 2026 programme, guest list or exact number of drinks available; this page therefore does not write “111 guests” or “111 drinks”, even though 111 years is arithmetically correct, because anniversary arithmetic cannot replace an official quota. Third, hours and exchange handling can be affected by crowds, weather and hotel arrangements, and no “guaranteed exchange” claim is valid.
+The boundaries also need stating. First, this event records the edition of 27 June 2026, which has ended; the 2027 date, quota and continuation had not been published on these pages when checked. Second, the official page gives the standing “first 100” rule but no complete 2026 programme, guest list or exact number of drinks available; this event therefore does not write “111 guests” or “111 drinks”, even though 111 years is arithmetically correct, because anniversary arithmetic cannot replace an official quota. Third, hours and exchange handling can be affected by crowds, weather and hotel arrangements, and no “guaranteed exchange” claim is valid.
 
 Photographs are credited in the figure captions; no map is drawn. Long Bar is on level 2 of Raffles Arcade; entering from North Bridge Road is more direct than going around the hotel's main entrance. Directions should follow the navigation of the day and on-site signs. The bar is a fixed indoor venue with no route coordinates, so no schematic map is needed.
 
 ## See also
 
 - [Raffles Long Bar](ref:long-bar): the 1915 origin of the Singapore Sling, the two-storey space, the peanut-shell tradition, opening hours and the walk-in queue.
-- Raffles Hotel Singapore's official pages are the first source for the facts here; third-party press, social posts and resale prices are not the verification basis for this page.
+- Raffles Hotel Singapore's official pages are the first source for the facts here; third-party press, social posts and resale prices are not the verification basis for this event.
 
 Further reading: [Wine and festivals: the calendar inside seasonal drinks](ref:c-extra-1), [Singapore Sling](ref:c-extra-2), [Gin](ref:c-extra-3).

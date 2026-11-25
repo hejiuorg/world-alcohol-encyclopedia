@@ -11,8 +11,8 @@ revision: 2
 translation_of: guide:first-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d2091962d20b587efce57188962fc6b2cb27e3679e887b44dc49a0526f23f388
-source_sha256: d2091962d20b587efce57188962fc6b2cb27e3679e887b44dc49a0526f23f388
+source_revision: sha256:aafcb71581de2b0b8669ee90e5326da136ff7d749f3a84688307f3dd7ee4a402
+source_sha256: aafcb71581de2b0b8669ee90e5326da136ff7d749f3a84688307f3dd7ee4a402
 about_refs:
   - drink-style:wine
 audience: Readers buying wine for the first time and unsure where to start on a shelf.
@@ -88,14 +88,21 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against an industry body, an education body, a national standard and reference works, and no promotional copy is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 # Choosing your first wine
 
-The difficulty of a wine shelf is not that there are too many wines, but that the label carries too much information. For a first purchase you do not need every term. Filter by occasion, colour, sweetness, strength and budget, then use the label to confirm identity, and most pitfalls disappear.![Choosing your first wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+The difficulty of a wine shelf is not that there are too many wines, but that the label carries too much information. For a first purchase you do not need every term. Filter by occasion, colour, sweetness, strength and budget, then use the label to confirm identity, and most pitfalls disappear.![Choosing your first wine thematic illustration](/media/figures/specific/guide-first-wine.svg)
 
 Figure: thematic illustration for Choosing your first wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Fix the occasion first:** Everyday drinking, food pairing, a party and a gift call for different choices.
+> - **Colour and type:** Wine is commonly divided into red wine, white wine, sparkling wine and fortified wine.
+> - **Sweetness, strength and volume:** Sweetness is not a scale of quality.
 
 ## Fix the occasion first
 
@@ -168,9 +175,21 @@ Read Choosing your first wine through what it is, then where it comes from, and 
 
 **Sources and limits.** The key claims about Choosing your first wine are checked against the following sources: OIV (wine categories, labelling and international technical definitions), WSET (the basic framework for tasting, temperature and label reading), State Administration for Market Regulation and Standardization Administration (the basic Chinese wine standard) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Choosing your first wine, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Choosing your first wine, this guide was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
-## Further reading
+## Quick comparison: five wine styles for beginners
+
+| Style | Body | Acidity | Beginner fit |
+| --- | --- | --- | --- |
+| Dry white | Light to medium | Medium to high | High; seafood and light dishes |
+| Aromatic white | Light | Medium to high | High; obvious aroma |
+| Light red | Light | Medium | High; low tannin |
+| Structured red | Medium to full | Medium | Medium; best with red meat |
+| Sparkling | Light to medium | High | High; starters and celebrations |
+
+
+
+Further reading
 
 - [Wine](ref:wine): the wider category and basic classification.
 - [Red wine](ref:red-wine): red-wine production and structure.

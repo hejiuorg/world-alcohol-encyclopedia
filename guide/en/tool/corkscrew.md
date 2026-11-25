@@ -170,4 +170,4 @@ Clean the helix and wax the tip lightly; a dusty screw can crumble an old cork.
 
 **Sources and limits.** The key claims about Corkscrew are checked against the following sources: Oxford University Press (Used to check opening tools and wine service background), Encyclopaedia Britannica (Used to check cork and wine bottle history), Corning Museum of Glass (Used to check bottle and glass craft background) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Corkscrew, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Corkscrew, this tool was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:korean-soju
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4fd585e83aa73109e49b4932c34e2d79da9a78d4e5406b8945448bc38fbd89d8
-source_sha256: 4fd585e83aa73109e49b4932c34e2d79da9a78d4e5406b8945448bc38fbd89d8
+source_revision: sha256:c02d4b43d1776d60a053333a0230bb48161e17404de657e67715f674e89cae17
+source_sha256: c02d4b43d1776d60a053333a0230bb48161e17404de657e67715f674e89cae17
 aliases:
   - Korean cuisine and soju
 tags:
@@ -93,13 +93,13 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; information was checked against industry bodies, reference works and public material, and no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence. Sources are used for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 
 # Korean cuisine with soju: grilled meat, kimchi and the small-cup rhythm
 
-In a [Seoul](ref:south-korea) barbecue restaurant, every table has a charcoal grill in the middle, kimchi, pickled radish, lettuce and dipping sauces around the edge, and a green glass bottle standing at the corner. [Soju](ref:soju) is poured into very small cups, one mouthful at a time, and refilled only after the cup is empty. That scene explains the pairing: this is not the Western logic of one dish with one wine, but a whole rhythm of eating — grill, wrap, dip, drink, grill again.![Korean cuisine with soju: grilled meat, kimchi and the small-cup rhythm thematic illustration](/media/photos/theme-asian.jpg)
+In a [Seoul](ref:south-korea) barbecue restaurant, every table has a charcoal grill in the middle, kimchi, pickled radish, lettuce and dipping sauces around the edge, and a green glass bottle standing at the corner. [Soju](ref:soju) is poured into very small cups, one mouthful at a time, and refilled only after the cup is empty. That scene explains the pairing: this is not the Western logic of one dish with one wine, but a whole rhythm of eating — grill, wrap, dip, drink, grill again.![Korean cuisine with soju: grilled meat, kimchi and the small-cup rhythm thematic illustration](/media/figures/specific/pairing-korean-soju.svg)
 
 Figure: thematic illustration for Korean cuisine with soju: grilled meat, kimchi and the small-cup rhythm. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

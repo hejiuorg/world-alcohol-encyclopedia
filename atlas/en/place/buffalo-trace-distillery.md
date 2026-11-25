@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:buffalo-trace-distillery
 source_lang: zh
-source_revision: sha256:7716da562acec745fd50648cc9091a341438e516b3cba6210b7c0b1576ee86ba
-source_sha256: 7716da562acec745fd50648cc9091a341438e516b3cba6210b7c0b1576ee86ba
+source_revision: sha256:2eb88d6c2d10afa3f1ec8293fdc4bbb8848cd2f3a5dfeeeed234a28e2f46f94d
+source_sha256: 2eb88d6c2d10afa3f1ec8293fdc4bbb8848cd2f3a5dfeeeed234a28e2f46f94d
 translation_status: reviewed
 subtype: distillery-visitor
 address: 113 Great Buffalo Trace, Frankfort, KY 40601, USA
@@ -122,6 +122,12 @@ verification_scope: source-verified
 # Buffalo Trace Distillery
 
 On the Kentucky River north of Frankfort, Buffalo Trace Distillery occupies a site that is still producing: stone warehouses, brick still houses, a bottling line and a visitor centre share the same ground, with no glass case separating "history" from work. It is both a National Historic Landmark and a factory that fills barrels every day, and that living status is the key to understanding what a visit actually shows.
+
+> **Visit information**
+> - Address: 113 Great Buffalo Trace, Frankfort, KY 40601, USA.
+> - Opening and booking: check the [official page](https://www.buffalotracedistillery.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
 
 ![Buffalo Trace Distillery image](/media/photos/place-buffalo-trace-distillery-34f70545.jpg)
 

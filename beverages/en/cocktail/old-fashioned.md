@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: cocktail:old-fashioned
 source_lang: zh
-source_revision: sha256:1d63f29f0cfb7f9967b6f0f483541ce74d7a76c8a6ce5042b71f5fd34344a968
-source_sha256: 1d63f29f0cfb7f9967b6f0f483541ce74d7a76c8a6ce5042b71f5fd34344a968
+source_revision: sha256:5817ed33a92150e806e8b52153a29bbf45113ff9e9d2106f02e60b5b42f766dc
+source_sha256: 5817ed33a92150e806e8b52153a29bbf45113ff9e9d2106f02e60b5b42f766dc
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -66,7 +66,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -93,7 +93,7 @@ Figure: Related photograph of Old Fashioned. Image: Capvideo, CC BY 4.0, via Wik
 
 ## Definition and identity
 
-The name points to a way of making a drink: in the late 19th century, when more elaborate cocktails became fashionable, some customers asked for the "old-fashioned" combination of spirit, sugar, water and bitters. The exact origin and naming process have several accounts; this page treats them as historical background and does not present one account as settled fact.
+The name points to a way of making a drink: in the late 19th century, when more elaborate cocktails became fashionable, some customers asked for the "old-fashioned" combination of spirit, sugar, water and bitters. The exact origin and naming process have several accounts; this cocktail treats them as historical background and does not present one account as settled fact.
 
 ## Recipe (IBA version)
 
@@ -155,7 +155,7 @@ For Old Fashioned, a common mistake is treating a variation as the original reci
 
 The Old Fashioned suits slow sipping before or after a meal, with nuts, cheese or simple savoury snacks. It is relatively strong, so sip slowly and drink water; do not drink it quickly on an empty stomach. Do not drink when driving, taking medication or pregnant.
 
-This page records one sourced version, evaluates no specific brand and does not present one whiskey or ratio as the only correct answer. The strength of the finished drink depends on the whiskey's [alcohol by volume](ref:abv), the sugar and the ice dilution, not on the recipe numbers alone.
+This cocktail records one sourced version, evaluates no specific brand and does not present one whiskey or ratio as the only correct answer. The strength of the finished drink depends on the whiskey's [alcohol by volume](ref:abv), the sugar and the ice dilution, not on the recipe numbers alone.
 
 Put [Whisky](ref:whisky)'s base liquor next to [A cocktail is another way in](ref:cocktails-guide)'s technique and ratio; the difference marks the boundary.
 

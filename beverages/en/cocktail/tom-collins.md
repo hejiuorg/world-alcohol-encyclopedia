@@ -121,7 +121,7 @@ In 1874 New York ran a prank: someone told you that a man named Tom Collins was 
 
 ## Limmer's Hotel and the John Collins Story
 
-The other line runs through London. The common account: John Collins, head waiter at Limmer's Hotel, made a drink of gin, lemon, sugar and soda that became the John Collins; when the base changed to the sweeter Old Tom gin, the name became Tom Collins. No single document nails the story down, but it explains two things: why the IBA entry is called John Collins, and why "Tom" is tied to Old Tom gin. The Atlantic has two origin stories; this page does not declare a winner.
+The other line runs through London. The common account: John Collins, head waiter at Limmer's Hotel, made a drink of gin, lemon, sugar and soda that became the John Collins; when the base changed to the sweeter Old Tom gin, the name became Tom Collins. No single document nails the story down, but it explains two things: why the IBA entry is called John Collins, and why "Tom" is tied to Old Tom gin. The Atlantic has two origin stories; this cocktail does not declare a winner.
 
 ## Why Old Tom Gin Tastes Sweeter
 
@@ -161,7 +161,7 @@ Swap gin for rum, tequila or whiskey and you get a Rum, Tequila or Whiskey Colli
 
 The Tom Collins is a classic long drink: large, medium in strength and full of bubbles, at home in the afternoon, at a barbecue or at brunch. It is easy to drink and easy to drink quickly; two glasses of 150 ml each come close to a meal's worth of alcohol. Sip slowly, drink water and eat something salty. Do not drink if driving, taking medication or pregnant. Final strength depends on the gin's [alcohol by volume](ref:abv) and the melt from the ice, not on the recipe numbers alone.
 
-The recipe and dates on this page come from public sources; the origin story has separate British and American versions, marked as such above.
+The recipe and dates on this cocktail come from public sources; the origin story has separate British and American versions, marked as such above.
 
 ## Further Reading
 

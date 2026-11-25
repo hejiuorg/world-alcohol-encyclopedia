@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:chateau-mouton-rothschild
 source_lang: zh
-source_revision: sha256:2e8499a17e44b6a7d33a74452f4c5725508dceadf7255e6fee48402204cf8a01
-source_sha256: 2e8499a17e44b6a7d33a74452f4c5725508dceadf7255e6fee48402204cf8a01
+source_revision: sha256:cf036b126e3575c3de1a98cb191e6ce98ee429311865429be6f783ff94d1f04a
+source_sha256: cf036b126e3575c3de1a98cb191e6ce98ee429311865429be6f783ff94d1f04a
 translation_status: reviewed
 subtype: winery-visitor
 address: Château Mouton Rothschild, 33250 Pauillac, France
@@ -114,6 +114,15 @@ Château Mouton Rothschild stands in Pauillac, in the heart of the Médoc on Bor
 
 Figure: Château Mouton Rothschild. Image: Jack ma, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jardin_de_Ch%C3%A2teau_de_Mouton-Rothschild,_Pauillac._2012.jpg)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Château Mouton Rothschild deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Château Mouton Rothschild who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - In 1853 Baron Nathaniel de Rothschild bought Château Brane-Mouton at auction so that he could serve his own wine to his guests.
+>   - Mouton is open by appointment only.
+
 ## Place and history
 
 In 1853 Baron Nathaniel de Rothschild bought Château Brane-Mouton at auction so that he could serve his own wine to his guests. The estate took his name and became Château Mouton Rothschild. The Bordeaux classification prepared for the 1855 Paris Exposition placed Mouton among the second growths (deuxième cru). For more than a century its commercial reputation was often compared with the first growths, but the official rank remained one step below.
@@ -148,7 +157,7 @@ Transport: Mouton is north of Pauillac, roughly an hour by car from Bordeaux alo
 
 Opening hours and booking: there are no fixed public opening hours; everything runs by appointment, and the official contact page requires booking at least two months ahead, subject to availability. Visits are suspended during the harvest, usually September to October. Winter and spring are easier to book, while summer and the weeks before harvest are the busiest. Requests go through the booking facility on the official contact page or by email; arrive at the allotted time, as late arrival may shorten or cancel the visit.
 
-Tickets and cost: the official site publishes no fixed ticket price. The cost varies with the format — whether tasting is included, which wines are poured, the length and the language — and is confirmed in the booking email; this page gives no figure so that a changing quote is not mistaken for a fixed rate. Tours are normally in French and English, with other languages to be requested when booking, and a grand-vin tasting should never be assumed unless confirmed.
+Tickets and cost: the official site publishes no fixed ticket price. The cost varies with the format — whether tasting is included, which wines are poured, the length and the language — and is confirmed in the booking email; this entry gives no figure so that a changing quote is not mistaken for a fixed rate. Tours are normally in French and English, with other languages to be requested when booking, and a grand-vin tasting should never be assumed unless confirmed.
 
 There is no strict dress code, but cellars are cool and floors are stone or gravel, so comfortable flat shoes are more practical than heels. The vat room and cellars have steps and narrow passages; visitors with limited mobility should say so when booking so the estate can adapt. Avoid strong perfume before a tasting, and do not touch barrels, bottles or exhibits.
 

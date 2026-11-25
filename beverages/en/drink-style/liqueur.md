@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:liqueur
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:97b2bfa7dc8028aaa470dc31f025b25e27ba00934357a7757791663fd3da984f
-source_sha256: 97b2bfa7dc8028aaa470dc31f025b25e27ba00934357a7757791663fd3da984f
+source_revision: sha256:33a14a7ff44ff92e63c10e5a38804734ed6d9b70b211a17a4c1620f21efd3f35
+source_sha256: 33a14a7ff44ff92e63c10e5a38804734ed6d9b70b211a17a4c1620f21efd3f35
 legacy_refs: []
 aliases:
   - Liqueur
@@ -62,12 +62,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this style.
 verification_scope: source-verified
 ---
 # Liqueur
 
-Liqueur is a sweetened spirit made by adding sugar and flavouring materials such as fruit, herbs, nuts or cream to a base spirit. Its structure can be summarised as "base spirit plus flavour extraction plus sweetening", and differences in those three stages decide whether the product is a clear citrus cordial, a thick cream liqueur or a bittersweet herbal drink.![Liqueur thematic illustration](/media/photos/theme-beer.jpg)
+Liqueur is a sweetened spirit made by adding sugar and flavouring materials such as fruit, herbs, nuts or cream to a base spirit. Its structure can be summarised as "base spirit plus flavour extraction plus sweetening", and differences in those three stages decide whether the product is a clear citrus cordial, a thick cream liqueur or a bittersweet herbal drink.![Liqueur thematic illustration](/media/figures/specific/drink-style-liqueur.svg)
 
 Figure: thematic illustration for Liqueur. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

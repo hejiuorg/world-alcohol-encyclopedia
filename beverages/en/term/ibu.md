@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:ibu
 source_lang: zh
-source_revision: sha256:78b644147ac495bfbbcbe8bd2fb6624ec5b261092354622c4290528ab63a7f93
-source_sha256: 78b644147ac495bfbbcbe8bd2fb6624ec5b261092354622c4290528ab63a7f93
+source_revision: sha256:2d6c155a01c13d4920a09d886f98ae6f83a165c223ad9a5ef98f391599c7c6b6
+source_sha256: 2d6c155a01c13d4920a09d886f98ae6f83a165c223ad9a5ef98f391599c7c6b6
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -76,7 +76,7 @@ verification_scope: source-verified
 
 IBU (International Bitterness Units) is the unit the beer industry uses to quantify bitterness. 1 IBU is roughly 1 milligram of iso-alpha acids per litre of beer, or 1 ppm. It describes the concentration of hop-derived bitter compounds, not the bitterness intensity felt on the tongue at the moment of drinking. Beers at the same IBU can taste completely different because of malt sweetness, carbonation and temperature.
 
-![IBU (International Bitterness Units) thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![IBU (International Bitterness Units) thematic illustration](/media/figures/specific/term-ibu.svg)
 
 Figure: thematic illustration for IBU (International Bitterness Units). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -125,6 +125,6 @@ Start with where the term is used. From there, consider what it is contrasted wi
 
 **Short definition:** IBU is the unit for beer bitterness, with 1 IBU roughly equal to 1 milligram of iso-alpha acids per litre; it measures hop-derived bitterness, not the bitterness felt on the palate, and not hop aroma.
 
-**Read alongside.** Put IBU (International Bitterness Units) next to Beer, Pilsner Urquell, Guinness Draught: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put IBU (International Bitterness Units) next to Beer, Pilsner Urquell, Guinness Draught: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about IBU (International Bitterness Units) are checked against the following sources: Beer Judge Certification Program (Used to check typical IBU ranges for beer styles), ASBC (Used to check the measurement basis for IBU and iso-alpha acids; no method text is reproduced), Brewers Association (Used for notes on bitterness and style parameters) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.

@@ -12,8 +12,8 @@ status: reviewed
 revision: 1
 translation_of: standard:japan-liquor-tax-law
 source_lang: zh
-source_revision: sha256:04f601d5dd791470bee5e7ee0894da965437b4f3465c3b15f83b91dc57e403b1
-source_sha256: 04f601d5dd791470bee5e7ee0894da965437b4f3465c3b15f83b91dc57e403b1
+source_revision: sha256:329ef467488147d8c9759fb0f26126cea7e8eef6750824976c5f1dc4cb0320f6
+source_sha256: 329ef467488147d8c9759fb0f26126cea7e8eef6750824976c5f1dc4cb0320f6
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -94,6 +94,15 @@ Japan's Liquor Tax Law (酒税法, Law No. 6 of 1953) is a statute enacted by th
 ![Sake bottles on display](/media/photos/standard-japan-liquor-tax-law-ba5ec189.jpg)
 
 Figure: Sake bottles on display at the Japan Sake and Shochu Information Center; an example of the drinks subject to liquor tax, not a rate table, tax stamp or tax document. Image: Yusuke Kawasaki, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sake_bottles_on_display_at_Japan_Sake_and_Shochu_Information_Center_-_Jan_18,_2007.jpg)).
+
+> **Quick verdict**
+> **In one line:** This standard explains the scope, limits and common misreadings of Japan's Liquor Tax Law.
+>
+> - **Best for:** Anyone who needs the scope and limits of Japan's Liquor Tax Law quickly.
+> - **Not for:** If you want need the full standard text or a compliance ruling.
+> - **Check first:**
+>   - The basic method is a specific duty: tax is calculated by volume (kilolitre, kl) and alcohol content, not as a percentage of sales value.
+>   - The law was promulgated on 1953-02-28 and has been amended many times.
 
 ## Legal framework and scope
 

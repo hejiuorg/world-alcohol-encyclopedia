@@ -64,9 +64,9 @@ verification_scope: source-verified
 
 利口酒（liqueur）是以烈酒为基底，加入糖与水果、草本、坚果、奶油等风味原料制成的甜味酒。它的结构可以概括为“基酒 + 风味提取 + 甜化”，三个环节的差别决定了成品是清澈的柑橘甜酒、浓稠的奶油酒，还是苦甜交织的草本酒。
 
-![利口酒 类型示意图](/media/photos/theme-beer.jpg)
+![利口酒 类型示意图](/media/figures/specific/drink-style-liqueur.svg)
 
-图：利口酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是利口酒的实拍。
+图：利口酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与法规
 

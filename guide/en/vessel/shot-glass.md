@@ -7,8 +7,8 @@ slug: shot-glass
 title: Shot Glass
 translation_of: vessel:shot-glass
 source_lang: zh
-source_revision: sha256:cfac4c868ca7bd987dd8bae49c183792739443eb2dd2592ec36ffefdb0efffdb
-source_sha256: cfac4c868ca7bd987dd8bae49c183792739443eb2dd2592ec36ffefdb0efffdb
+source_revision: sha256:7271e8853aa460f655df1e006760e8daeebfebea22569128888b9e297e7a3453
+source_sha256: 7271e8853aa460f655df1e006760e8daeebfebea22569128888b9e297e7a3453
 translation_status: reviewed
 summary: A small, thick-walled glass used for one-swallow servings of spirits, for measuring and for layered cocktails. It is built for convenience and intensity, not aroma.
 status: reviewed
@@ -57,7 +57,7 @@ sources:
     accessed: 2026-11-20
   - key: iba
     title: IBA Official Cocktails — cocktail list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check cocktail structure and layering practice; no source text is reproduced.
     accessed: 2026-11-20
@@ -168,4 +168,4 @@ Oxford University Press, International Bartenders Association, CocktailDB, Corni
 
 **Sources and limits.** The key claims about Shot Glass are checked against the following sources: Oxford University Press (Used to check shot glasses and bar measuring culture), International Bartenders Association (Used to check cocktail structure and layering practice), CocktailDB (Used to cross-check layered cocktails and glass usage) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Shot Glass, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Shot Glass, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

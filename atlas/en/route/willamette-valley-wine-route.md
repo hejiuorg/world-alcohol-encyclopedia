@@ -77,7 +77,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project text, checked against regional associations, winery websites and tourism bodies for routes, stops and booking information; no source text was copied. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, labels, maps and quoted text are excluded; roads, hours, booking rules and prices change, so check official channels. This page does not draw a map.
+  note: Third-party trademarks, labels, maps and quoted text are excluded; roads, hours, booking rules and prices change, so check official channels. This route does not draw a map.
 verification_scope: source-verified
 stop_ids:
   - place_id: place:domaine-drouhin-oregon
@@ -141,7 +141,7 @@ Allow about forty-five minutes from Portland to Drouhin, twenty-five minutes fro
 
 Book tastings at both estates, especially weekends and peak season; neither handles large walk-in groups well, so email ahead for more than six people. Spit into the spit bucket and keep driving tastings to one or two; Eyrie’s tasting room is small, so leave large luggage and strollers behind, and Drouhin’s outdoor steps and slopes call for proper shoes.
 
-This page does not draw a map or provide live prices; roads, hours and booking rules change, so check both estate websites and the Oregon Wine Board before leaving. If an estate closes unexpectedly, do not force it — put old-town McMinnville or Carlton in the plan and the day still works.
+This route does not draw a map or provide live prices; roads, hours and booking rules change, so check both estate websites and the Oregon Wine Board before leaving. If an estate closes unexpectedly, do not force it — put old-town McMinnville or Carlton in the plan and the day still works.
 
 ## Further reading and see also
 

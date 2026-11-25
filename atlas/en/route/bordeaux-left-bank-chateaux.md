@@ -103,8 +103,8 @@ stop_ids:
     note: Enter the vat room, cellar and label gallery by reservation and connect classification with art.
 mode: walk-tram-rail
 updated_at: 2026-11-08
-source_sha256: 8a3a7e60b1907cd3e02da03bdef17ab82728c28e688fd6d54f2e77d2bd37d62a
-source_revision: sha256:8a3a7e60b1907cd3e02da03bdef17ab82728c28e688fd6d54f2e77d2bd37d62a
+source_sha256: 388a6212a31d991df2dfaed7462164154ae34efbd4c2bc6ea31384c918ee1f64
+source_revision: sha256:388a6212a31d991df2dfaed7462164154ae34efbd4c2bc6ea31384c918ee1f64
 ---
 
 # Bordeaux left bank: from La Cité du Vin to two Pauillac first growths
@@ -114,6 +114,38 @@ This route puts three scales on one line: a city museum that explains the civili
 ![Bordeaux left bank: from La Cité du Vin to two Pauillac first growths photograph](/media/photos/q2-route-bordeaux-left-bank-chateaux-3b197628.jpg)
 
 Figure: Bordeaux left bank: from La Cité du Vin to two Pauillac first growths. Photograph: The CBS Wine team at the 2012 Left Bank Bordeaux Cup. Credit: Netapp Inc, CC BY-SA 3.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=21313721)).
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Bordeaux left bank: from La Cité du Vin to two Pauillac first growths, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Bordeaux left bank: from La Cité du Vin to two Pauillac first growths into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: La Cité du Vin, 134 Quai de Bacalan, 33300 Bordeaux, opened in 2016, with a permanent exhibition of about 3,000 square metres.
+>   - The left bank is easily reduced to a handful of estate names.
+
+> **Topic guide: Bordeaux from the Left Bank to the châteaux**
+> - [Bordeaux Left Bank route](https://atlas.hejiu.org/en/routes/bordeaux-left-bank-chateaux/)
+> - [Bordeaux](https://beverages.hejiu.org/en/regions/bordeaux/)
+> - [Cité du Vin](https://atlas.hejiu.org/en/places/cite-du-vin/)
+> - [The 1855 Bordeaux classification](https://culture.hejiu.org/en/history/1855-bordeaux-classification/)
+> - [Choosing your first wine](https://hejiu.org/en/guides/first-wine/)
+> - [Wine storage](https://hejiu.org/en/guides/wine-storage/)
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Route overview:** Stop one: La Cité du Vin, 134 Quai de Bacalan, 33300 Bordeaux, opened in 2016, with a permanent exhibition of about 3,000 square metres.
+> - **Why this route:** The left bank is easily reduced to a handful of estate names.
+> - **Stop one: La Cité du Vin:** Why go: it turns Bordeaux from a region into an entrance.
+
+> **Topic guide: Bordeaux from the Left Bank to the châteaux**
+> - [Bordeaux Left Bank route](https://atlas.hejiu.org/en/routes/bordeaux-left-bank-chateaux/)
+> - [Bordeaux](https://beverages.hejiu.org/en/regions/bordeaux/)
+> - [Cité du Vin](https://atlas.hejiu.org/en/places/cite-du-vin/)
+> - [The 1855 Bordeaux classification](https://culture.hejiu.org/en/history/1855-bordeaux-classification/)
+> - [Choosing your first wine](https://hejiu.org/en/guides/first-wine/)
+> - [Wine storage](https://hejiu.org/en/guides/wine-storage/)
 
 ## Route overview
 
@@ -175,7 +207,7 @@ First, separate “estate” from “sight”. The famous houses of Pauillac are
 
 Fourth, read the dates correctly. 1855 is the classification, not the founding year; Lafite's 1868 is the family purchase; Mouton's 1853 is the renaming, and 1973 is the promotion. Fifth, distinguish grand vin, second wine and merchant brand. Carruades de Lafite, Le Petit Mouton and Mouton Cadet are not the same tier, and the names should not be used interchangeably. Sixth, do not ask staff to sell you a bottle of the grand vin at the gate; Bordeaux's top wines move mainly through en primeur and the merchant network, and the estate is not a shop.
 
-For Bordeaux left bank: from La Cité du Vin to two Pauillac first growths, this page does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
+For Bordeaux left bank: from La Cité du Vin to two Pauillac first growths, this route does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 ## Alternatives and extensions
 
@@ -188,6 +220,19 @@ Northwards the route reaches Saint-Estèphe, southwards Saint-Julien and Margaux
 - [La Cité du Vin](ref:cite): the framing stop, best placed at the start of the trip.
 - [Château Lafite Rothschild](ref:lafite): classification, parcels and the renovation notice.
 - [Château Mouton Rothschild](ref:mouton): the 1973 promotion, artist labels and booking rules.
-- For background, consult the Bordeaux region, wine-grading and place-and-process entries in the content repository; this page does not register further references.
+- For background, consult the Bordeaux region, wine-grading and place-and-process entries in the content repository; this route does not register further references.
 
 Opening status, bookings and transport are subject to official channels; page verified on 2026-11-08.
+
+## Quick comparison: planning a winery visit
+
+| Item | Common practice | Watch out |
+| --- | --- | --- |
+| Booking | Official site or email, 1–7 days ahead | Harvest and weekends fill up |
+| Duration | 60–120 minutes | Tour and tasting may be priced separately |
+| Transport | Car or private driver | Little public transport between villages |
+| Cost | Depends on estate and tasting tier | Check the estate’s official page |
+| Dress | Comfortable shoes, warm layer | Cellar floors can be slippery |
+| Children | Often allowed on tours, not tastings | Ask about age limits first |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.

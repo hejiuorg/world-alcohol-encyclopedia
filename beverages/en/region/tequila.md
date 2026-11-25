@@ -69,7 +69,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against Mexican official standards and industry material; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images. Regulatory detail follows the current text of NOM-006-SCFI-2012.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images. Regulatory detail follows the current text of NOM-006-SCFI-2012.
 verification_scope: source-verified
 ---
 # Tequila region
@@ -146,7 +146,7 @@ The tequila region is centred on Jalisco and includes parts of four other states
 
 **Sources and limits.** The key claims about Tequila region are checked against the following sources: Consejo Regulador del Tequila (the protected region, raw materials and production requirements; no original text is reproduced), Secretaría de Economía, Mexico (the tequila standard and regulatory framework; no standard text is reproduced), Oxford University Press (Consulted for entries on agave, the tequila region and distillation; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Tequila region, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Tequila region, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

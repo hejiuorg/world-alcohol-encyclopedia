@@ -113,7 +113,7 @@ Figure: Montepulciano: Montepulciano grapes growing in Abruzzi (Wikimedia Common
 
 ## Definition and naming
 
-Montepulciano is a Vitis vinifera red grape, and the name is shared by both an Abruzzo variety and a Tuscan hill town. The two must be read separately: the Tuscan Vino Nobile di Montepulciano is made mainly from Sangiovese (locally Prugnolo Gentile) and does not require Montepulciano grapes in the blend. This page covers the red variety grown in Abruzzo and across the centre and south ([sangiovese](ref:sangiovese)).
+Montepulciano is a Vitis vinifera red grape, and the name is shared by both an Abruzzo variety and a Tuscan hill town. The two must be read separately: the Tuscan Vino Nobile di Montepulciano is made mainly from Sangiovese (locally Prugnolo Gentile) and does not require Montepulciano grapes in the blend. This variety covers the red variety grown in Abruzzo and across the centre and south ([sangiovese](ref:sangiovese)).
 
 The variety's parentage has not been established by genetic research, and existing records do not place it in a known crossing. A Montepulciano d'Abruzzo label is a regional wine name, not a single-variety guarantee; regulations allow other red grapes such as Sangiovese to be blended in within set proportions.
 

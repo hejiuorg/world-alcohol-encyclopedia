@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:muddling
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5b751e146c4c10f139705e2daf4f29570716908daa6155c7bb3f7c82c2a53a1b
-source_sha256: 5b751e146c4c10f139705e2daf4f29570716908daa6155c7bb3f7c82c2a53a1b
+source_revision: sha256:7ff840398315fcdc77dba9535d5420c8f1caf0576d1455d333814d1e4871682b
+source_sha256: 7ff840398315fcdc77dba9535d5420c8f1caf0576d1455d333814d1e4871682b
 applies_to_refs:
   - cocktail:mojito
   - cocktail:mint-julep
@@ -53,7 +53,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check classic recipes built with fresh herbs and citrus; no source text is reproduced.
     accessed: 2026-11-07
@@ -83,7 +83,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 
@@ -91,7 +91,7 @@ verification_scope: source-verified
 
 Muddling is the bartending technique of gently pressing herbs, fruit or sugar cubes in a glass with a muddler so that aroma and juice are released. It is part of building a drink in the glass and appears most often in recipes such as the Mojito and the Mint Julep, where fresh plant aroma is the point. It looks simple, yet the wrong force, order or tool can ruin a drink quickly.
 
-![Muddling thematic illustration](/media/photos/theme-beer.jpg)
+![Muddling thematic illustration](/media/figures/specific/technique-muddling.svg)
 
 Figure: thematic illustration for Muddling. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

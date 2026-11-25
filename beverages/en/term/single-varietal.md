@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:single-varietal
 source_lang: zh
-source_revision: sha256:63e04a1d474ea0dedcd9fb7172d7dbf0fee91b2e80dd4065f6baa83c85ce0c94
-source_sha256: 63e04a1d474ea0dedcd9fb7172d7dbf0fee91b2e80dd4065f6baa83c85ce0c94
+source_revision: sha256:ad93ed535bd9cda52f7502d2a1cb3d71553033c1f7e6a9fba61e448a32d734d8
+source_sha256: ad93ed535bd9cda52f7502d2a1cb3d71553033c1f7e6a9fba61e448a32d734d8
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -99,7 +99,7 @@ verification_scope: source-verified
 ---
 # Single varietal
 
-A single varietal wine is made mainly from one grape variety. It emphasises varietal identity rather than origin, producer or technique. A label saying “Cabernet Sauvignon” or “Chardonnay” usually means the wine's flavour is shaped mainly by that variety, but “mainly” has a specific legal proportion and is far from “100%”.![Single varietal thematic illustration](/media/photos/theme-wine-spirits.jpg)
+A single varietal wine is made mainly from one grape variety. It emphasises varietal identity rather than origin, producer or technique. A label saying “Cabernet Sauvignon” or “Chardonnay” usually means the wine's flavour is shaped mainly by that variety, but “mainly” has a specific legal proportion and is far from “100%”.![Single varietal thematic illustration](/media/figures/specific/term-single-varietal.svg)
 
 Figure: thematic illustration for Single varietal. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

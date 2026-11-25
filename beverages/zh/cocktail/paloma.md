@@ -43,7 +43,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单与龙舌兰类鸡尾酒的分类背景；未复制原文。
     accessed: 2026-11-07
@@ -83,6 +83,15 @@ verification_scope: source-verified
 ![帕洛玛相关实景照片](/media/photos/cocktail-paloma-744739c0.jpg)
 
 图：帕洛玛相关实景照片。图片：Andy Li，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Paloma_Spritz_-_Purezza_2024-12-17.jpg)）。
+
+> **先给结论**
+> **一句话：** 这页判断帕洛玛该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂帕洛玛的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 点单时可以直接说“帕洛玛”，并询问使用的是西柚汽水还是鲜榨西柚汁。
+>   - 帕洛玛的起源没有单一档案。
 
 ## 起源与命名
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: term:dry
 source_lang: zh
-source_revision: sha256:ec76ddf2d6e806b4ad0cadac8d7bbd146a220be82d226fd1c3eff049f4b1dde8
-source_sha256: ec76ddf2d6e806b4ad0cadac8d7bbd146a220be82d226fd1c3eff049f4b1dde8
+source_revision: sha256:73cfde1d20d4a25ad74ec4504a2c41c11814d2a056d1b7bb3c4edf1a6ed1b5ae
+source_sha256: 73cfde1d20d4a25ad74ec4504a2c41c11814d2a056d1b7bb3c4edf1a6ed1b5ae
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -88,7 +88,7 @@ verification_scope: source-verified
 
 Dry is the word wine labels use for a very low level of sugar left after fermentation. It answers a narrow question: how much sugar remains? It does not say how intense, good or fruity the wine is. Reading dry as "no fruit" or "top quality" is one of the most common mistakes made at the shelf.
 
-![Dry thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Dry thematic illustration](/media/figures/specific/term-dry.svg)
 
 Figure: thematic illustration for Dry. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

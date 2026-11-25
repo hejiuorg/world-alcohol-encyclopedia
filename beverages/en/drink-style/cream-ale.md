@@ -150,7 +150,7 @@ To study Cream Ale, build a raw material–process–taste table, then compare o
 For Cream Ale, to learn a style, build a “benchmark–variant–extreme” sequence: taste the standard version, then a variant with changed material or process, then an extreme version. After three steps, the boundary becomes clear.
 
 - Related: [beer](ref:beer), [barley](ref:barley), [fermentation](ref:fermentation), [usa](ref:usa), [hop](ref:hop).
-- This page offers no brand ranking, prices or shopping channels; style is a classification tool, not a quality grade.
+- This style offers no brand ranking, prices or shopping channels; style is a classification tool, not a quality grade.
 
 The comparison with [Beer](ref:beer) and [Fermentation](ref:fermentation) runs through legal definition and materials and process. Each answers a different question.
 

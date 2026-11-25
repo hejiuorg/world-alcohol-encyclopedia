@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: famous-wine-price-liberalization-1988
 title: The 1988 liberalisation of famous-wine prices
-summary: In July 1988 the state liberalised the prices of famous cigarettes and famous wines, moving famous wines from planned pricing to market pricing. This page explains the scope, the background, the price surge and the channel changes, and the long-term effect on the identity of famous wines.
+summary: In July 1988 the state liberalised the prices of famous cigarettes and famous wines, moving famous wines from planned pricing to market pricing. This essay explains the scope, the background, the price surge and the channel changes, and the long-term effect on the identity of famous wines.
 status: reviewed
 revision: 3
 translation_of: historical-event:famous-wine-price-liberalization-1988
@@ -148,7 +148,7 @@ First, 1988 did not liberalise all alcohol prices. It covered thirteen famous wi
 - [Luzhou Laojiao Group](ref:luzhou): one of the famous-wine enterprises.
 - [The 1989 fifth national wine evaluation](ref:evaluation-1989): the institutional node around the end of evaluations.
 
-**Short definition:** In July 1988 the state liberalised the prices of famous cigarettes and famous wines, moving famous wines from planned pricing to market pricing. This page explains the scope, the background, the price surge and the channel changes, and the long-term effect on the identity of famous wines.
+**Short definition:** In July 1988 the state liberalised the prices of famous cigarettes and famous wines, moving famous wines from planned pricing to market pricing. This essay explains the scope, the background, the price surge and the channel changes, and the long-term effect on the identity of famous wines.
 
 For The 1988 liberalisation of famous-wine prices, begin with the date and setting. Then look at the documented consequences, and finally ask how later accounts treat it. The answers point to different choices, not to a single score.
 
@@ -158,7 +158,7 @@ Read [China](ref:china) for the date side of The 1988 liberalisation of famous-w
 
 | Item | Detail |
 | --- | --- |
-| In one line | In July 1988 the state liberalised the prices of famous cigarettes and famous wines, moving famous wines from planned pricing to market pricing. This page explains the scope, the background, the price surge and the chann… |
+| In one line | In July 1988 the state liberalised the prices of famous cigarettes and famous wines, moving famous wines from planned pricing to market pricing. This essay explains the scope, the background, the price surge and the chann… |
 | Date | July 1988 |
 | Place | China |
 | Calendar | Gregorian |

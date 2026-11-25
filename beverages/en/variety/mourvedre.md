@@ -155,7 +155,7 @@ Mourvèdre needs heat to ripen and is usually blended with Grenache and Syrah in
 
 **Sources and limits.** The key claims about Mourvèdre are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check variety descriptions and the Vitis species framework), Oxford University Press (Used for reference on Mourvèdre, Monastrell and Mediterranean planting; Migrated from the former reference list at the end of the article; access date not re-verified), Maison des Vins de Bandol (Used to check the Bandol appellation and the role of Mourvèdre in its blends). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Mourvèdre, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Mourvèdre, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

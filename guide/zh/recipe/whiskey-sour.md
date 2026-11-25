@@ -98,7 +98,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该配方所属的官方鸡尾酒名单与类别；未复制原文。
     accessed: 2026-11-07
@@ -131,9 +131,18 @@ verification_scope: source-verified
 
 威士忌酸的来历并不出自某一家酒吧的招牌，而是从 19 世纪美国东岸港口的一类“酸酒”里长出来的：水手把烈酒、柠檬与糖混在一起，用手边现成的材料对抗单调的口粮与坏血病。谁先把它写成配方、蛋清又是哪一年被加进去，至今没有定论。本页不判这段公案，只把 IBA 公布的这一版当成可核对的坐标：45 毫升波本、25 毫升鲜榨柠檬汁、20 毫升糖浆，蛋清可选。
 
-![威士忌酸配方（IBA 版本） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![威士忌酸配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-whiskey-sour.svg)
 
-图：威士忌酸配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是威士忌酸配方（IBA 版本）的实拍。
+图：威士忌酸配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页判断威士忌酸配方（IBA 版本）怎么做、容易失败在哪一步。
+>
+> - **适合谁：** 想按步骤做出威士忌酸配方（IBA 版本）、并知道失败点在哪的人。
+> - **不适合谁：** 不准备称量、也不接受步骤顺序影响结果的人。
+> - **先看这两点：**
+>   - 蛋清在这杯酒里不是装饰性的奶盖，而是一层结构。
+>   - 三个数字给出的是一个可以复现的骨架：基酒 45、酸 25、甜 20。
 
 ## 蛋清：干摇与湿摇的分界
 

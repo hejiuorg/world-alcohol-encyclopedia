@@ -64,9 +64,9 @@ verification_scope: source-verified
 
 红葡萄酒是用深色葡萄品种酿造的葡萄酒。它的颜色来自葡萄皮中的花青素，单宁来自果皮、种子和果梗。与白葡萄酒最大的区别，不是原料颜色本身，而是发酵时是否让酒液与果皮充分接触：红葡萄酒通常带皮发酵，在浸渍过程中同时提取颜色、单宁和香气。
 
-![红葡萄酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![红葡萄酒 类型示意图](/media/figures/specific/drink-style-red-wine.svg)
 
-图：红葡萄酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是红葡萄酒的实拍。
+图：红葡萄酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 从葡萄到酒
 

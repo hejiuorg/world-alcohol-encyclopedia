@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:espresso-martini
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:19f8a2d1db4ac59debd5ef436a1c1f90fbaee839aeaaa1ed1d5f998f05b8976f
-source_sha256: 19f8a2d1db4ac59debd5ef436a1c1f90fbaee839aeaaa1ed1d5f998f05b8976f
+source_revision: sha256:47c223000b5175a2758e3c7c355a2149da74335fc908c213a00cf408d25b2166
+source_sha256: 47c223000b5175a2758e3c7c355a2149da74335fc908c213a00cf408d25b2166
 style: 现代经典鸡尾酒
 ingredient_refs: []
 origin_place: London, United Kingdom (as the widely told story)
@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and modern-classic context; no source text is reproduced.
     accessed: 2026-11-07
@@ -89,9 +89,18 @@ The Espresso Martini is a cocktail of vodka, coffee liqueur, espresso and syrup,
 
 Figure: Espresso Martini. Image: Ewan Munro from London, UK, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bistrot_Bruno_Loubet,_Clerkenwell,_London_(4574785649).jpg)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Espresso Martini, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Espresso Martini.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - For Espresso Martini, begin with the base and the ratio.
+>   - The most widely told account places the drink in London in the 1980s and links it to a bartender in Soho and a late-night request from a customer who wanted something to wake her u.
+
 ## Origin and naming
 
-The most widely told account places the drink in London in the 1980s and links it to a bartender in Soho and a late-night request from a customer who wanted something to wake her up. The bartender is said to have combined coffee with the Martini format that was already popular. The exact year, the name of the bar and the details of the conversation differ between retellings, so this page treats the story as widely told rather than documented. No single date should be presented as an archive fact.
+The most widely told account places the drink in London in the 1980s and links it to a bartender in Soho and a late-night request from a customer who wanted something to wake her up. The bartender is said to have combined coffee with the Martini format that was already popular. The exact year, the name of the bar and the details of the conversation differ between retellings, so this cocktail treats the story as widely told rather than documented. No single date should be presented as an archive fact.
 
 The "Martini" in the name is a borrowed form, not a statement of recipe lineage. It borrows the Martini glass and the association of a short, cold, clear drink, but replaces gin and vermouth with coffee liqueur and espresso. Placing it inside the Martini family can suggest that it should be stirred and extremely dry, while in practice it must be shaken hard to build foam and bring the coffee and alcohol together.
 

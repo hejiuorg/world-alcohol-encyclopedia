@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: term:tannin
 source_lang: zh
-source_revision: sha256:fcdbb4133cdad1a8f13e012740d4a0a12e8318f3ec7f67b8b0ecf154a96ad4fb
-source_sha256: fcdbb4133cdad1a8f13e012740d4a0a12e8318f3ec7f67b8b0ecf154a96ad4fb
+source_revision: sha256:923d85ea25c9d25981b86d27f647f982076384320511bef50bd28b482459e645
+source_sha256: 923d85ea25c9d25981b86d27f647f982076384320511bef50bd28b482459e645
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 Tannins are a group of polyphenolic compounds found widely in plants. They bind proteins and therefore produce a “dry” or astringent sensation, and they have long been used in leather tanning, dyeing and ink making. In wine, tannins come mainly from grape skins, seeds and stems, and may also come from oak barrels.
 
-![Tannin thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Tannin thematic illustration](/media/figures/specific/term-tannin.svg)
 
 Figure: thematic illustration for Tannin. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

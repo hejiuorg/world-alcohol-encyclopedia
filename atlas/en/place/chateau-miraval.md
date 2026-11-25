@@ -130,7 +130,7 @@ If the trip is mainly about visiting cellars, replace this stop with one that ge
 
 From Les Baux-de-Provence or Aix, Correns is a little over an hour by car; from Taradeau it is about an hour. It works as a stop for understanding the rosé market rather than for entering a production site. Pairing Miraval with Ott in one day sets two Provençal paths side by side: one is a three-estate group that receives visitors and runs cellar experiences; the other is a private estate that stays closed and reaches consumers through brand and channel.
 
-For anyone new to [rosé](ref:rose), that contrast is more useful than one more fermentation tank. In the same region, with the same pale style, the ownership, land organisation and sales model are completely different. Opening policy, tasting channels and address are subject to official channels; this page was verified on 2026-11-09.
+For anyone new to [rosé](ref:rose), that contrast is more useful than one more fermentation tank. In the same region, with the same pale style, the ownership, land organisation and sales model are completely different. Opening policy, tasting channels and address are subject to official channels; this entry was verified on 2026-11-09.
 
 Begin with the address, move on to the current opening status, and finish with what the place is known for. That order keeps the reading of Château Miraval practical.
 

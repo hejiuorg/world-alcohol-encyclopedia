@@ -54,7 +54,7 @@ sources:
     accessed: 2026-11-20
   - key: iba
     title: IBA Official Cocktails — Mint Julep
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对薄荷朱利普的配方与做法；未复制原文。
     accessed: 2026-11-20

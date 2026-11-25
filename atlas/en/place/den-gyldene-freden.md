@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:den-gyldene-freden
 source_lang: zh
-source_revision: sha256:4a96875c4c9b9cea3337f1098c252b61929415e1d25175767cdc44786913a8af
-source_sha256: 4a96875c4c9b9cea3337f1098c252b61929415e1d25175767cdc44786913a8af
+source_revision: sha256:37098d9818c1bcd96e5f92e468aa25781e2c713508488615ac30717511c028fe
+source_sha256: 37098d9818c1bcd96e5f92e468aa25781e2c713508488615ac30717511c028fe
 translation_status: reviewed
 subtype: pub
 address: Österlånggatan 51, 111 31 Stockholm, Sweden
@@ -84,7 +84,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on the restaurant's official site, Visit Sweden and public historical sources; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY-SA 3.0 and is credited in the caption. Opening hours, prices and menus are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY-SA 3.0 and is credited in the caption. Opening hours, prices and menus are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -95,6 +95,15 @@ verification_scope: source-verified
 ![Frontage of Den Gyldene Freden in Stockholm's Old Town](/media/photos/place-den-gyldene-freden-ee676e50.jpg)
 
 Figure: Den Gyldene Freden in Stockholm's Old Town. Image: Holger.Ellgaard, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Den_Gyldene_Freden_2013a.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Den Gyldene Freden deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Den Gyldene Freden who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The official history starts early.
+>   - Lunch and dinner both operate, but the menus differ: lunch is shorter, dinner has the full and seasonal menu.
 
 ## Setting and history
 

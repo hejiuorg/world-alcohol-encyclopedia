@@ -160,7 +160,7 @@ Begin with the base and the stated strength, move on to the sweetness or bittern
 
 **Sources and limits.** The key claims about Krug are checked against the following sources: Comité Interprofessionnel du vin de Champagne (basic statements on the Champagne region, process and labelling), European Union (EU wine categories, geographical indications and labelling rules), International Organisation of Vine and Wine (OIV) (basic definitions and labelling of sparkling wine) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Krug, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Krug, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

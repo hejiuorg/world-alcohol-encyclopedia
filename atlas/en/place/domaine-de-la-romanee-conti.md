@@ -156,4 +156,4 @@ For a half day, look at Romanée-Conti and La Tâche, stop at the outside of Ch�
 
 - Regional comparisons: [Louis Jadot](ref:jadot), [Château de Meursault](ref:meursault), [Hospices de Beaune](ref:hospices), [Burgundy grands crus drive](ref:route).
 - Background: [Burgundy](ref:burgundy).
-- For the wider method of how land enters wine, see the project’s place-and-process entry. This page provides no map and does not encourage unauthorised filming inside the estate.
+- For the wider method of how land enters wine, see the project’s place-and-process entry. This entry provides no map and does not encourage unauthorised filming inside the estate.

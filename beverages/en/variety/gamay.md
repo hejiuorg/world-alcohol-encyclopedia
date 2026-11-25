@@ -146,7 +146,7 @@ Gamay is the base of Beaujolais, where granite soils and whole-cluster fermentat
 
 **Sources and limits.** The key claims about Gamay are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check variety descriptions and the Vitis species framework), Oxford University Press (Consulted for entries on Gamay parentage, Beaujolais and winemaking; Migrated from the former reference list at the end of the article; access date not re-verified), INAO (Used to check the relationship between Gamay and its appellations in the French system). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Gamay, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Gamay, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

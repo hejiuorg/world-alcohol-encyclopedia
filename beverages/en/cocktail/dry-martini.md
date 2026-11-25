@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: cocktail:dry-martini
 source_lang: zh
-source_revision: sha256:779283bc76618e02c78e50a4d7c3efc01994121eb626853338803ec457d60401
-source_sha256: 779283bc76618e02c78e50a4d7c3efc01994121eb626853338803ec457d60401
+source_revision: sha256:f4eed7b20d82995b31497d809c3fef74f0d03e4fcd7c6ecbbca7b72d6a548e2e
+source_sha256: f4eed7b20d82995b31497d809c3fef74f0d03e4fcd7c6ecbbca7b72d6a548e2e
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -66,7 +66,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -93,7 +93,7 @@ Figure: Dry Martini. Image: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons
 
 ## Definition and identity
 
-The name "Martini" has been connected with several drinks and brands in history, and the exact origin is disputed. This page treats it as background from late-19th-century American cocktail development and does not present one account as settled. Name and recipe are separate things; readers should not assume the same method because the name matches.
+The name "Martini" has been connected with several drinks and brands in history, and the exact origin is disputed. This cocktail treats it as background from late-19th-century American cocktail development and does not present one account as settled. Name and recipe are separate things; readers should not assume the same method because the name matches.
 
 ## Recipe (IBA version)
 
@@ -137,7 +137,7 @@ Lemon peel and olives are not interchangeable. For a fresh, bright aroma choose 
 
 Vodka instead of gin makes a Vodka Martini; olive brine makes a Dirty Martini; a pearl onion makes a Gibson; less vermouth makes a drier version; more vermouth makes a "wet" version. Each variation changes the structure or the aroma direction.
 
-Variations are not mistakes but branches with a clear substitution logic. When recording one, state what was replaced and how the ratio changed; otherwise the same name covers different methods and causes confusion. This page only outlines them; the recipe page remains the executable reference.
+Variations are not mistakes but branches with a clear substitution logic. When recording one, state what was replaced and how the ratio changed; otherwise the same name covers different methods and causes confusion. This cocktail only outlines them; the recipe page remains the executable reference.
 
 ## Common misconceptions
 
@@ -153,7 +153,7 @@ Fifth, piling on garnish. Too much garnish covers the main aroma, especially the
 
 ## Boundary
 
-The Martini is relatively strong; sip slowly and drink water, and do not drink it quickly on an empty stomach. Do not drink when driving, taking medication or pregnant. This page records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer.
+The Martini is relatively strong; sip slowly and drink water, and do not drink it quickly on an empty stomach. Do not drink when driving, taking medication or pregnant. This cocktail records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer.
 
 The finished strength depends on the gin's [alcohol by volume](ref:abv), the vermouth ratio and the ice dilution, not on the recipe numbers alone. Keep name, ratio and method separate so that preference is not mistaken for standard.
 

@@ -38,8 +38,8 @@ tags:
 translation_of: place:darenberg
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:973f18be51e5a6987ffd715b130aec78dbb62c2e89b41cd9ea2345599807eee5
-source_sha256: 973f18be51e5a6987ffd715b130aec78dbb62c2e89b41cd9ea2345599807eee5
+source_revision: sha256:06f5c4f75e9001f8db00294f863513b5fa227b71bab2c6bd7673a20f44740133
+source_sha256: 06f5c4f75e9001f8db00294f863513b5fa227b71bab2c6bd7673a20f44740133
 related:
   - relation: about
     target_id: region:mclaren-vale
@@ -103,6 +103,15 @@ D’Arenberg is McLaren Vale’s least conventional century-old family winery: J
 
 Figure: d’Arenberg. Photograph: File:Trellised vines, Coriole Vineyard, McLaren Vale South Australia (6177503952).jpg. Credit: Rexness from Melbourne, Australia, CC BY-SA 2.0 ([source page](https://commons.wikimedia.org/wiki/File:Trellised_vines,_Coriole_Vineyard,_McLaren_Vale_South_Australia_(6177503952).jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether d’Arenberg deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to d’Arenberg who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - D’Arenberg is in McLaren Vale, South Australia, at 58 Osborn Road, about forty-five minutes from Adelaide.
+>   - The d’Arenberg Cube is a building Chester began imagining in 2004 and opened in 2017.
+
 ## Position and history
 
 D’Arenberg is in McLaren Vale, South Australia, at 58 Osborn Road, about forty-five minutes from Adelaide. In 1912 Joseph Osborn bought land that already had vines; he was a teetotaller and a director of Thomas Hardy and Sons, and the purchase was more an investment than a personal drinking project. The early grapes went to neighbouring wineries, the cellars were built in 1928, and the d’Arenberg name began travelling across the British Empire.
@@ -164,5 +173,5 @@ With half a day, choose d’Arenberg plus McLaren Vale town and skip the coast; 
 ## Further reading and see also
 
 - Related entries: [mclaren-vale](ref:mclaren-vale), [australia](ref:australia), [shiraz](ref:shiraz), [red-wine](ref:red), [oak-ageing](ref:oak).
-- This page does not provide live tickets, restaurant availability or opening status; check the estate website before visiting.
+- This entry does not provide live tickets, restaurant availability or opening status; check the estate website before visiting.
 - To understand d’Arenberg, compare Dead Arm with an ordinary McLaren Vale Shiraz, then compare Ironstone Pressings with a Rhône GSM to see what old-vine concentration and multi-variety blending each contribute.

@@ -11,8 +11,8 @@ revision: 3
 translation_of: producer:luzhou-laojiao-group
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b9a2676eb2d51ff958af4a371a30dae20b91d7e39fe523ac1c9f554f98a27304
-source_sha256: b9a2676eb2d51ff958af4a371a30dae20b91d7e39fe523ac1c9f554f98a27304
+source_revision: sha256:714e616693dfa79561f38941e1e40e80bf58b006898b821cf7be27f412edb26e
+source_sha256: 714e616693dfa79561f38941e1e40e80bf58b006898b821cf7be27f412edb26e
 region_refs:
   - region:china
 official_url: https://www.lzlj.com/
@@ -87,11 +87,20 @@ Luzhou Laojiao Group Co., Ltd. is a textbook example of the two-tier "group plus
 
 Figure: Luzhou Laojiao Group Co., Ltd.. Photograph: File:Vertreter der vier Baijiu Kategorien.jpg. Credit: Xiaomage de, CC BY-SA 4.0 ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This producer explains the craft behind Luzhou Laojiao Group Co., Ltd., and what a visit can show.
+>
+> - **Best for:** Anyone who wants the craft, products and visitor limits of Luzhou Laojiao Group Co., Ltd..
+> - **Not for:** If you want only want a buying link and do not care about craft or visitor rules.
+> - **Check first:**
+>   - Baijiu capacity is set jointly by the number of pits, brewing workshops, qu-making capacity and packaging lines, while storage depends on clay-jar warehouses.
+>   - The group is registered and mainly operates in Luzhou, Sichuan, and its enterprise type is a wholly state-owned company.
+
 ## Group identity
 
 The group is registered and mainly operates in Luzhou, Sichuan, and its enterprise type is a wholly state-owned company. The group leans towards resource integration, industrial investment and support businesses; the listed company handles baijiu production, sales and disclosure. The group is not the distillery, and the listed company is not the whole of the group's assets.
 
-This page records producer identity. It does not evaluate flavour and does not reproduce promotional copy. Corporate history, ownership, capacity and disputes are checkable information; brand stories and tasting notes belong to another language, and mixing them lets narrative pass as fact.
+This producer records producer identity. It does not evaluate flavour and does not reproduce promotional copy. Corporate history, ownership, capacity and disputes are checkable information; brand stories and tasting notes belong to another language, and mixing them lets narrative pass as fact.
 
 ## Ownership and ultimate controller
 
@@ -155,7 +164,7 @@ These risks are not a verdict on the company; they are checkpoints when reading 
 
 ## Division of labour with the product page
 
-This page handles the group and listed company: who holds shares, who controls, where the business boundary lies and which scope a figure belongs to. The product page handles a specific bottle: aroma type, strength, volume, process and flavour. Both say "Luzhou Laojiao", but one answers who owns and who operates, the other what is in this bottle. Putting equity structure on the product page, or tasting language on the group page, makes readers look in the wrong place.
+This producer handles the group and listed company: who holds shares, who controls, where the business boundary lies and which scope a figure belongs to. The product page handles a specific bottle: aroma type, strength, volume, process and flavour. Both say "Luzhou Laojiao", but one answers who owns and who operates, the other what is in this bottle. Putting equity structure on the product page, or tasting language on the group page, makes readers look in the wrong place.
 
 ## Common misconceptions
 

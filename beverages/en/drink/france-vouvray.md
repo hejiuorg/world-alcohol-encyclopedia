@@ -110,7 +110,7 @@ Tuffeau is the local building and cellar material, and many estates carve cellar
 
 Dry Vouvray usually completes [fermentation](ref:fermentation) in stainless steel or old oak to keep acidity and fruit; some estates use [oak ageing](ref:oak-ageing) for texture and nutty notes. Off-dry and sweet styles keep residual sugar, either by stopping fermentation or by picking riper fruit, and the level depends on ripeness and where fermentation stops.
 
-Sparkling Vouvray is made by the traditional method, with a second fermentation in bottle, giving fine bubbles and high acidity, in styles from crisp to full. Specific parameters are estate information, and this page gives no universal figures; the estate's own material and the label govern.
+Sparkling Vouvray is made by the traditional method, with a second fermentation in bottle, giving fine bubbles and high acidity, in styles from crisp to full. Specific parameters are estate information, and this entry gives no universal figures; the estate's own material and the label govern.
 
 ## Specification and label
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: tool:hydrometer
 source_lang: zh
-source_revision: sha256:e6a03a3451771b4df5fab330077e5d565aaca5925180417c54ef8db65edf44a4
-source_sha256: e6a03a3451771b4df5fab330077e5d565aaca5925180417c54ef8db65edf44a4
+source_revision: sha256:10a1fa8ee227daf8bf944223d6e371d1bd88ef2dca1b8f68aed5af9d9fba65ef
+source_sha256: 10a1fa8ee227daf8bf944223d6e371d1bd88ef2dca1b8f68aed5af9d9fba65ef
 translation_status: reviewed
 legacy_refs: []
 materials:
@@ -98,6 +98,15 @@ A hydrometer looks simple but rewards care: a weighted bulb at the bottom, a nar
 ![Laboratory hydrometer test](/media/photos/tool-hydrometer-e1585c77.jpg)
 
 Figure: A hydrometer test in a laboratory; a glass hydrometer reading in a cylinder, not an alcoholometer or saccharometer. Image: Maame1Yaa, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Laboratory_Hydrometer_test.jpg)).
+
+> **Quick verdict**
+> **In one line:** This tool helps you decide whether Hydrometer is worth buying, and whether a substitute works.
+>
+> - **Best for:** Anyone who wants the purpose, substitutes and limits of Hydrometer.
+> - **Not for:** If you want want a gear list without the use case.
+> - **Check first:**
+>   - First, prepare the sample: the liquid must be uniform, bubble-free and at a stable temperature.
+>   - In beer and wine making, a hydrometer tracks fermentation: read the wort or juice before fermentation for original gravity or Brix, then read final gravity at the end.
 
 ## Definition and principle
 

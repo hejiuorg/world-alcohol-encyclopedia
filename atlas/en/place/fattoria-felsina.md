@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fattoria-felsina
 source_lang: zh
-source_revision: sha256:92999c6d7e317d564953f256c8eaeb21cd1ac6d6486cd63140f342d9540737df
-source_sha256: 92999c6d7e317d564953f256c8eaeb21cd1ac6d6486cd63140f342d9540737df
+source_revision: sha256:18ada035ada23bd2bf5f4f524119d12e809eb2ee20c889d65ac8c4fc4ca00cb6
+source_sha256: 18ada035ada23bd2bf5f4f524119d12e809eb2ee20c889d65ac8c4fc4ca00cb6
 translation_status: reviewed
 subtype: winery-visitor
 address: Via del Chianti 101, 53019 Castelnuovo Berardenga (SI), Italy
@@ -99,6 +99,15 @@ East of Siena, the hills gradually shift from the Black Rooster country of Chian
 
 Figure: Fattoria Fèlsina. Photograph: Tuscany vineyard. Credit: cova69, CC BY 2.0 ([source page](https://commons.wikimedia.org/w/index.php?curid=1393578)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Fattoria Fèlsina deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Fattoria Fèlsina who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The address is Via del Chianti 101, 53019 Castelnuovo Berardenga (SI), Italy; the official coordinates are 43.349499, 11.501247.
+>   - The estate is a working agricultural and production site, not a park.
+
 ## An estate on a boundary
 
 The official description places Fèlsina on the "land border between Chianti and the Crete Senesi". This is not a figure of speech. To the north lie the vineyards and oak woods of Chianti Classico; to the south, the clay and exposed hills of the Crete. The vineyards are spread across historic farms, including Rancia, Rancino, Arcidosso, Arcidossino/Santa Letizia, Casale di Fèlsina, Fèlsina, Casalino, Santa Maria, San Giuseppe, Ruzzatoio, Molino d'Ombrone, Valli, Molinuzzo and Terra Rossa. Those names still appear in plot management and in the wines' stories.
@@ -137,7 +146,7 @@ The address is Via del Chianti 101, 53019 Castelnuovo Berardenga (SI), Italy; th
 
 The usual hours for visits and the wine shop are Monday to Sunday 10:00–18:00; the estate is closed on Sundays in January and February and on 25–26 December and 1 January. Tours and tastings should be booked in advance by email at welcome@felsina.it or by phone on +39 0577 1523789; you can also ask at the Bottega whether a place is available that day. Visits usually include the vineyards and cellars, with tastings at different levels; prices, duration and language are confirmed by the winery.
 
-The Bottega serves light meals and sells wine and olive oil, making it convenient before or after a visit. If you are combining Brolio Castle and Antinori in one day, Fèlsina works better in the afternoon: it is closer to Siena, and the return to Siena or Florence is straightforward after the visit. This page was verified on 2026-11-08; opening hours, bookings, tastings and prices are subject to official channels, and no map is provided here.
+The Bottega serves light meals and sells wine and olive oil, making it convenient before or after a visit. If you are combining Brolio Castle and Antinori in one day, Fèlsina works better in the afternoon: it is closer to Siena, and the return to Siena or Florence is straightforward after the visit. This entry was verified on 2026-11-08; opening hours, bookings, tastings and prices are subject to official channels, and no map is provided here.
 
 ## Etiquette, surroundings and the route
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:star-bar-ginza
 source_lang: zh
-source_revision: sha256:191791f0c866c54ce4caa46632de945d9eb537ef537c4502247c004a3d4529f2
-source_sha256: 191791f0c866c54ce4caa46632de945d9eb537ef537c4502247c004a3d4529f2
+source_revision: sha256:b6d0f5302c459dd1eb49184b090091ba85d11f41dc9649f3b6568288659ad5d4
+source_sha256: b6d0f5302c459dd1eb49184b090091ba85d11f41dc9649f3b6568288659ad5d4
 translation_status: reviewed
 subtype: bar
 address: Ginza, Chuo-ku, Tokyo
@@ -105,11 +105,20 @@ Star Bar Ginza stands in a basement in Ginza 1-chome, Tokyo, near Namiki-dori, a
 
 Figure: Star Bar Ginza. Photograph: File:YamazakiDistillery 01.jpg. Credit: Ujigis, CC BY-SA 4.0, via the site archive ([source](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)). Category photograph used to illustrate the subject; not an official product image.
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Star Bar Ginza deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Star Bar Ginza who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - This entry marks the operating status as unknown: the official site is still there, but there is no verifiable information that the bar is open on any given day.
+>   - You turn off Namiki-dori into an ordinary commercial building, press the button for the basement, and only then find the bar.
+
 ## Ginza 1-chome, by Namiki-dori
 
 You turn off Namiki-dori into an ordinary commercial building, press the button for the basement, and only then find the bar. Time Out Tokyo describes it as a quiet basement spot, with an amber counter and leather stools; the official page calls this the origin of Star Bar, with hand-cut clear ice and a clear ice it names Ninja Ice. The whole bar is non-smoking, which the official page states plainly.
 
-The room is small, mainly counter seating with a few tables. One person, or two or three sitting side by side, fits best; a large group looks out of place and is hard to look after at once. The entrance is not at street level, so finding the building by address is more reliable than looking for a "bar street" atmosphere. This page gives the address only at the level of "Ginza, Chuo-ku, Tokyo": door numbers and hours belong to official channels, and older media listings may differ from the current site, so check again before setting out.
+The room is small, mainly counter seating with a few tables. One person, or two or three sitting side by side, fits best; a large group looks out of place and is hard to look after at once. The entrance is not at street level, so finding the building by address is more reliable than looking for a "bar street" atmosphere. This entry gives the address only at the level of "Ginza, Chuo-ku, Tokyo": door numbers and hours belong to official channels, and older media listings may differ from the current site, so check again before setting out.
 
 The charging structure matters more than the menu. The official site states a cover charge of 1100 yen per person, with drinks on top; whether other service charges or tax apply is a matter for the bill and the house. Specialist Ginza bars generally charge this way, and the budget of an ordinary neighbourhood bar does not apply.
 
@@ -119,7 +128,7 @@ Kishi won an international bartending championship in 1996, at the age of 31, ac
 
 That is the key to reading Star Bar: it is at once a working bar and the front of a teaching system. The house standard, the manner of service and the training of apprentices are three sides of one thing, not something a chain could separate and copy.
 
-There is no verifiable official founding year. The official About Us page says only that the book about the bar was published more than twenty years ago, and that NHK's documentary series Professional: Shigoto no Ryugi filmed there; that proves long existence but not a precise year. This page therefore gives no founding year and does not sell "old" as a virtue. Age is background, not a reason for the drink to be good.
+There is no verifiable official founding year. The official About Us page says only that the book about the bar was published more than twenty years ago, and that NHK's documentary series Professional: Shigoto no Ryugi filmed there; that proves long existence but not a precise year. This entry therefore gives no founding year and does not sell "old" as a virtue. Age is background, not a reason for the drink to be good.
 
 ## The "original" and the "originality" of classic cocktails
 
@@ -153,7 +162,7 @@ Hidetsugu Ueno also worked at Star Bar before opening [High Five](ref:highfive) 
 
 ## Boundaries to confirm before visiting
 
-This page marks the operating status as unknown: the official site is still there, but there is no verifiable information that the bar is open on any given day. Fixed closing days, last orders, whether reservations are taken, buy-outs and temporary closures belong to official channels; this page gives no door number and no timetable.
+This entry marks the operating status as unknown: the official site is still there, but there is no verifiable information that the bar is open on any given day. Fixed closing days, last orders, whether reservations are taken, buy-outs and temporary closures belong to official channels; this entry gives no door number and no timetable.
 
 Coordinates are left empty and no map is drawn. Ginza's blocks are dense and building entrances inconspicuous, so use a live map and on-site signs for precise navigation. History, titles and rankings describe a career, not tonight's glass; to test a bar, two of its plainest classics tell you more than one drink with the longest name.
 

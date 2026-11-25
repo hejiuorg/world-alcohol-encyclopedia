@@ -5,7 +5,7 @@ type: brand
 lang: en
 slug: fenjiu
 title: Fenjiu
-summary: A light-aroma baijiu brand within the Shanxi Xinghuacun Fenjiu Group system, with series including Qinghua, Laobaifen and Bofen. This page covers brand structure, not the product page's flavour detail.
+summary: A light-aroma baijiu brand within the Shanxi Xinghuacun Fenjiu Group system, with series including Qinghua, Laobaifen and Bofen. This brand covers brand structure, not the product page's flavour detail.
 status: reviewed
 revision: 2
 translation_of: brand:fenjiu
@@ -143,7 +143,7 @@ Third, treating a series name as a grade. Qinghua, Laobaifen and Bofen are posit
 Fourth, treating Zhuyeqing as one strength of Fenjiu. It is an independent product line.
 Fifth, judging authenticity from packaging or price. Anti-counterfeit checks, channels and labels are more reliable.
 
-**In brief:** A light-aroma baijiu brand within the Shanxi Xinghuacun Fenjiu Group system, with series including Qinghua, Laobaifen and Bofen. This page covers brand structure, not the product page's flavour detail.
+**In brief:** A light-aroma baijiu brand within the Shanxi Xinghuacun Fenjiu Group system, with series including Qinghua, Laobaifen and Bofen. This brand covers brand structure, not the product page's flavour detail.
 
 Begin with the product line, move on to the producer named on the label, and finish with the market it is sold in. That order keeps the reading of Fenjiu practical.
 
@@ -153,7 +153,7 @@ Begin with the product line, move on to the producer named on the label, and fin
 
 | Item | Detail |
 | --- | --- |
-| In one line | A light-aroma baijiu brand within the Shanxi Xinghuacun Fenjiu Group system, with series including Qinghua, Laobaifen and Bofen. This page covers brand structure, not the product page's flavour detail. |
+| In one line | A light-aroma baijiu brand within the Shanxi Xinghuacun Fenjiu Group system, with series including Qinghua, Laobaifen and Bofen. This brand covers brand structure, not the product page's flavour detail. |
 | Owner | Shanxi Xinghuacun Fenjiu Group Co., Ltd. |
 | Region | China |
 | Official site | fenjiu.com.cn |

@@ -146,7 +146,7 @@ To study Godello, read botanical and viticultural sources first, then taste thre
 The most efficient way to learn a variety is a triangle comparison: same vintage, alcohol and sweetness, changing only variety or region. Change one variable at a time so the palate memory stays clear.
 
 - Related: [white-wine](ref:white), [oak-ageing](ref:oak), [terroir](ref:terroir), [fermentation](ref:fermentation), [chardonnay](ref:chardonnay).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 Read [White wine](ref:white) for the variety character side of Godello, and [Terroir](ref:terroir) for the regional performance side. Together they locate it.
 

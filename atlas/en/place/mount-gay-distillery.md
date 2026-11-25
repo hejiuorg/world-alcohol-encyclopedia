@@ -113,7 +113,7 @@ Figure: Related photograph of Mount Gay Distillery. Image: Aneil Lutchman, CC BY
 
 The address is Mount Gay, Saint Lucy, Barbados, with no street number, so do not set the navigation to "Mount Gay Visitor Centre". That centre lies at Brandons in Saint Michael, close to Bridgetown, with short drives and frequent slots; the distillery is in the north, roughly an hour by car from Bridgetown, past cane fields, villages and narrow country roads. The official tour page states that transport is not included and recommends a taxi or a private driver with a fixed return time.
 
-This page fixes no coordinates; use official channels for the exact location. The gate and meeting point follow the booking confirmation. Food is not available on site, so eat before arrival; anyone who cannot walk far or stand for long should choose the southern visitor centre instead.
+This entry fixes no coordinates; use official channels for the exact location. The gate and meeting point follow the booking confirmation. Food is not available on site, so eat before arrival; anyone who cannot walk far or stand for long should choose the southern visitor centre instead.
 
 ## The 1703 Deed and the Limits of "Oldest"
 

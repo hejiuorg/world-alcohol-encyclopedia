@@ -88,13 +88,19 @@ verification_scope: source-verified
 translation_of: place:appleton-estate
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:71ab830da8675ab9d00ec277b1d4f6006045bd8f9712b1e48561d877336d1c4a
-source_sha256: 71ab830da8675ab9d00ec277b1d4f6006045bd8f9712b1e48561d877336d1c4a
+source_revision: sha256:5f392186d9359184422c60961ffcd24fabd61f95381a06032072b0b3c4b4dac2
+source_sha256: 5f392186d9359184422c60961ffcd24fabd61f95381a06032072b0b3c4b4dac2
 ---
 
 # Appleton Estate
 
 Drive inland from Santa Cruz on Jamaica’s south coast and the road narrows: cane fields, limestone hills and the occasional herd of cattle replace the sea. Appleton Estate sits in the Nassau Valley—a modest factory site, rows of barrel houses, a visitor centre and a large “Appleton Estate Jamaica Rum” arch. It is not a beach-bar rum attraction but a working cane estate and distillery, and Jamaica’s oldest continuously operating rum distillery.
+
+> **Visit information**
+> - Address: Nassau Valley, St. Elizabeth, Jamaica.
+> - Opening and booking: check the [official page](https://www.appletonestate.com/en-us/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
 
 ![The Appleton Estate works in Jamaica](/media/photos/place-appleton-estate-b81db790.jpg)
 

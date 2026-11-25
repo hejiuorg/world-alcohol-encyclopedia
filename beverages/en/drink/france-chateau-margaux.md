@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-chateau-margaux
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cc198fa1db161e07b9553dc66b8592371958972a4c864b052614494003c765e0
-source_sha256: cc198fa1db161e07b9553dc66b8592371958972a4c864b052614494003c765e0
+source_revision: sha256:2c396ff4878067859f4ba7ec71d9b5a7f7f9f3bf8247f9b2c9c69fffdd07c7a9
+source_sha256: 2c396ff4878067859f4ba7ec71d9b5a7f7f9f3bf8247f9b2c9c69fffdd07c7a9
 style_refs:
   - drink-style:red-wine
 variety_refs:
@@ -125,6 +125,15 @@ Château Margaux sits just north of the village of [Margaux](ref:margaux-village
 ![Château Margaux image](/media/photos/drink-france-chateau-margaux-fffabf29.jpg)
 
 Figure: Château Margaux. Image: BillBl, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Margaux_exterior.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Château Margaux suits you, and how to serve and pair it.
+>
+> - **Best for:** Anyone trying to understand what Château Margaux is, how it is served and when it fits.
+> - **Not for:** If you want only want the cheapest buying link and do not care about flavour or context.
+> - **Check first:**
+>   - Decanter's 2016 UK reference put the grand vin at about £150–700 per bottle, depending on vintage.
+>   - The grand vin suits roast lamb, duck breast, beef and truffle dishes.
 
 ## From La Mothe to a neo-Palladian château
 

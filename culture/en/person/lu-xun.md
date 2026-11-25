@@ -53,7 +53,7 @@ sources:
   - key: lu-xun-quanji
     title: Complete Works of Lu Xun
     publisher: People's Literature Publishing House
-    note: Used to check the texts and titles of Kong Yiji, Upstairs in the Wine Shop and the Wei-Jin lecture; this page quotes only short phrases.
+    note: Used to check the texts and titles of Kong Yiji, Upstairs in the Wine Shop and the Wei-Jin lecture; this profile quotes only short phrases.
     accessed: 2026-11-07
   - key: lu-xun-diary
     title: Diaries of Lu Xun
@@ -76,7 +76,7 @@ sources:
     title: China Writers Network, feature on the Wei-Jin lecture
     url: https://www.chinawriter.com.cn/n1/2021/0908/c440988-32221539.html
     publisher: China Writers Association
-    note: Used to check the closing passage of the lecture; this page quotes only short phrases and reproduces no full text.
+    note: Used to check the closing passage of the lecture; this profile quotes only short phrases and reproduces no full text.
     accessed: 2026-11-07
   - key: r16-luxun-museum
     title: 北京鲁迅博物馆（北京新文化运动纪念馆）简介
@@ -96,7 +96,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the author's complete works, diaries and an encyclopaedia, quoting only what is necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, trademarks and images are not covered by this licence; sources are used for verification only. This page uses no third-party images.
+  note: Third-party editions, annotations, trademarks and images are not covered by this licence; sources are used for verification only. This profile uses no third-party images.
 verification_scope: source-verified
 ---
 

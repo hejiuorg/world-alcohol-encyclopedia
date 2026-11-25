@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against publisher, author and review sources, without reproducing text, charts or experimental data. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, charts and data are not covered by this licence; sources are cited for verification only. The image on this page shows laboratory distillation glassware, not the book cover.
+  note: The original text, charts and data are not covered by this licence; sources are cited for verification only. The image on this book entry shows laboratory distillation glassware, not the book cover.
 verification_scope: source-verified
 source_sha256: bdee0a651233e5059a2ad8c4b8aee0195c7e5aa978c3775c1f1a437d813a2dc1
 source_revision: sha256:bdee0a651233e5059a2ad8c4b8aee0195c7e5aa978c3775c1f1a437d813a2dc1

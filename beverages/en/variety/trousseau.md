@@ -141,7 +141,7 @@ To study Trousseau, read botanical and viticultural sources first, then taste th
 Compare Trousseau with Poulsard and Pinot Noir from the Jura, then a Jura Trousseau with a Portuguese Bastardo blend. Fix vintage and maceration length; colour and tannin will show why Trousseau is a light-red variety rather than a failed Pinot Noir.
 
 - Related: [jura](ref:jura), [red-wine](ref:red), [rose-wine](ref:rose), [sparkling-wine](ref:sparkling), [terroir](ref:terroir).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **Short definition:** A red grape of the Jura, France, pale in colour, high in acidity and low in tannin, with red cherry, spice and earth; it makes light reds, rosés and sparkling wine and is central to the Jura’s light-body tradition. 
 

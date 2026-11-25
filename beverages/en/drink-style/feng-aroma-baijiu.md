@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:feng-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ace0b6a46164d6d7c5d16910a1886d61086382a82e5bfd004b6dfccb18808f05
-source_sha256: ace0b6a46164d6d7c5d16910a1886d61086382a82e5bfd004b6dfccb18808f05
+source_revision: sha256:e5677d5737c4354330cde69256461913905f7e9d0e516c0aaac2674a79e7e7e9
+source_sha256: e5677d5737c4354330cde69256461913905f7e9d0e516c0aaac2674a79e7e7e9
 legacy_refs: []
 aliases:
   - Fengxiangxing baijiu
@@ -88,7 +88,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public national-standard information, company material and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 
@@ -96,9 +96,18 @@ verification_scope: source-verified
 
 Feng-aroma is often placed between light aroma and strong aroma: it has the cleanliness of light aroma and the pit character of strong aroma without belonging to either. That middle position is not blended; it comes from a very specific process - sorghum, barley, peas and wheat, daqu, loess mud pits, mixed steaming and distillation, and jiuhai storage. Take those elements apart and the boundary becomes clear.
 
-![Feng-aroma baijiu thematic illustration](/media/photos/theme-asian.jpg)
+![Feng-aroma baijiu thematic illustration](/media/figures/specific/drink-style-feng-aroma-baijiu.svg)
 
 Figure: thematic illustration for Feng-aroma baijiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This style places Feng-aroma baijiu on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Feng-aroma baijiu with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - The old standard was GB/T 14867-2007.
+>   - Feng-aroma uses mixed steaming and distillation: grain and fermented mash are mixed in proportion and steamed and distilled together.
 
 ## Between light and strong aroma
 

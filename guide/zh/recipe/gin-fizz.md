@@ -94,7 +94,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该配方所属的官方鸡尾酒名单与类别；未复制原文。
     accessed: 2026-11-07
@@ -127,9 +127,18 @@ verification_scope: source-verified
 
 在金菲士里，苏打水不是配料表末尾的补充，而是决定这杯酒性格的一步。吧台上最常见的争论不是用哪种金酒，而是苏打水什么时候倒、倒多少、倒完之后要不要搅。IBA 的答案很干脆：先把金酒、柠檬与糖浆摇好滤入高杯，再补少量苏打水，杯中不加冰。45:30:10 这组数字因此更像一份操作顺序表，而不是单纯的配比。
 
-![金菲士配方（IBA 版本） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![金菲士配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-gin-fizz.svg)
 
-图：金菲士配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是金菲士配方（IBA 版本）的实拍。
+图：金菲士配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页判断金菲士配方（IBA 版本）怎么做、容易失败在哪一步。
+>
+> - **适合谁：** 想按步骤做出金菲士配方（IBA 版本）、并知道失败点在哪的人。
+> - **不适合谁：** 不准备称量、也不接受步骤顺序影响结果的人。
+> - **先看这两点：**
+>   - “菲士”这个词指的就是气泡。
+>   - 金酒 45、柠檬汁 30、糖浆 10，这个比例比许多“酸甜等量”的酸酒更偏酸。
 
 ## 苏打水永远是最后一步
 

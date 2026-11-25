@@ -182,6 +182,6 @@ Sixth, treating village classification as a wine rating. Grand cru and premier c
 
 ## Scope note
 
-This page describes the area, sub-regions, varieties, process and labelling rules of Champagne and does not assess individual estates or vintages. The parent region is [France](ref:france); Champagne wine pages record specific producers and products, separate from the region level covered here.
+This region describes the area, sub-regions, varieties, process and labelling rules of Champagne and does not assess individual estates or vintages. The parent region is [France](ref:france); Champagne wine pages record specific producers and products, separate from the region level covered here.
 
 **In brief:** A sparkling wine appellation in northern France, centred on Reims and Épernay, with vineyards in the Montagne de Reims, the Vallée de la Marne, the Côte des Blancs and the Côte des Bar to the south. It is made from Chardonnay, Pinot Noir and Pinot Meunier by the traditional method of in-bottle second fermentation, aged on the lees and labelled by sweetness level.

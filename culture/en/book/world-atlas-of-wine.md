@@ -75,7 +75,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against the publisher page and an intergovernmental organisation, without reproducing maps or text. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Maps, charts and translations from the book are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Maps, charts and translations from the book are not covered by this licence; sources are cited for verification only. No third-party images are used on this book entry.
 verification_scope: source-verified
 ---
 # The World Atlas of Wine

@@ -60,7 +60,7 @@ sources:
     accessed: 2026-11-07
   - key: ibu
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对短饮与气泡类饮品的出品方式；未复制原文。
     accessed: 2026-11-07

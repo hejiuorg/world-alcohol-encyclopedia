@@ -100,7 +100,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该配方所属的官方鸡尾酒名单与类别；未复制原文。
     accessed: 2026-11-07
@@ -133,9 +133,18 @@ verification_scope: source-verified
 
 迈泰是提基时代留给后世的一张名片，但它并不是 1960 年代才出现的：1944 年，Trader Vic 在加州奥克兰的店里调出这杯酒，用一个据说源自大溪地的词给它命名。真正把它推成全球符号的，是战后美国对南太平洋的想象、堆成小山的碎冰与菠萝装饰，以及 1950 至 1960 年代遍地开花的提基酒吧。围绕它的争议也不少：配方被简化成“果汁加朗姆”，杏仁糖浆被换成糖水，两种朗姆被合并成一种。本页回到 IBA 的当代经典版本，以 30+30 毫升的两种朗姆、15 毫升橙皮库拉索、15 毫升杏仁糖浆、30 毫升青柠汁与 7.5 毫升糖浆为坐标。
 
-![迈泰配方（IBA 版本） 类型示意图](/media/photos/theme-ingredients.jpg)
+![迈泰配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-mai-tai.svg)
 
-图：迈泰配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是迈泰配方（IBA 版本）的实拍。
+图：迈泰配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页判断迈泰配方（IBA 版本）怎么做、容易失败在哪一步。
+>
+> - **适合谁：** 想按步骤做出迈泰配方（IBA 版本）、并知道失败点在哪的人。
+> - **不适合谁：** 不准备称量、也不接受步骤顺序影响结果的人。
+> - **先看这两点：**
+>   - IBA 版本用两种朗姆，而不是一种。
+>   - 橙皮库拉索提供橙香、甜度与一部分酒精度。
 
 ## 两种朗姆的分工
 

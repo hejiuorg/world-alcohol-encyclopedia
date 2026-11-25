@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:zur-letzten-instanz
 source_lang: zh
-source_revision: sha256:4a892c9a5700bcf0188f6d5849ffed40748480b3512f6bfac5b7367e51ba66fd
-source_sha256: 4a892c9a5700bcf0188f6d5849ffed40748480b3512f6bfac5b7367e51ba66fd
+source_revision: sha256:cb22d408f7d9a5aca9ab1f7b1439fcbacfeba92dc7b9db171047313bd0f930b7
+source_sha256: cb22d408f7d9a5aca9ab1f7b1439fcbacfeba92dc7b9db171047313bd0f930b7
 translation_status: reviewed
 subtype: pub
 address: Waisenstraße 14–16, 10179 Berlin, Germany
@@ -84,7 +84,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on the restaurant's official site and public dining sources; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC0 and is credited in the caption. Opening hours, prices and menus are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC0 and is credited in the caption. Opening hours, prices and menus are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -95,6 +95,15 @@ Waisenstraße in Berlin-Mitte is short: the old city wall runs along one side, l
 ![Street façade of Zur letzten Instanz in Berlin](/media/photos/place-zur-letzten-instanz-79c166c4.jpg)
 
 Figure: Zur letzten Instanz in Berlin. Image: Julia Roessing, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zur_letzten_Instanz_Restaurant_Berlin_2026-09-29.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Zur letzten Instanz deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Zur letzten Instanz who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The restaurant's official history separates three dates.
+>   - Lunch and dinner differ: Friday and Saturday have a midday service from 12:00 to 15:00, while Monday to Thursday only open after 17:30; Sunday is closed.
 
 ## Setting and history
 

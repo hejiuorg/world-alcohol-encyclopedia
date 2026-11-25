@@ -103,7 +103,7 @@ Figure: Ningxia. Image: zengsx, CC BY-SA 3.0, via Wikimedia Commons ([source pag
 
 The Helan Mountain Eastern Foothills wine production area is the geographical indication product protection area recognised by the state, a definition written into Article 3 of the regional protection regulation. The area covers the eastern foothills in northern Ningxia, running nearly 200 km north to south; local industry material records the contiguous planting belt as 195 km. Vineyards cluster at about 1100 m on alluvial fans, Yellow River flood plains and slopes at the mountain front, across counties and districts in Shizuishan, Yinchuan and Wuzhong.
 
-This page is a province-level node under [China](ref:china). Ningxia wine belongs to the broader category of [wine](ref:wine), mainly [red wine](ref:red-wine) but also [white wine](ref:white-wine). The production area is not the same as an administrative boundary: “Helan Mountain Eastern Foothills” on a label must fall within the geographical indication protection area, and not every vineyard in Ningxia can use the name.
+This region is a province-level node under [China](ref:china). Ningxia wine belongs to the broader category of [wine](ref:wine), mainly [red wine](ref:red-wine) but also [white wine](ref:white-wine). The production area is not the same as an administrative boundary: “Helan Mountain Eastern Foothills” on a label must fall within the geographical indication protection area, and not every vineyard in Ningxia can use the name.
 
 ## A boundary drawn by regulation
 

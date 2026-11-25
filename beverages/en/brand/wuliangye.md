@@ -5,7 +5,7 @@ type: brand
 lang: en
 slug: wuliangye
 title: Wuliangye
-summary: A strong-aroma baijiu brand under Sichuan Yibin Wuliangye Group, named for five grains such as sorghum, rice, glutinous rice, wheat and corn. This page covers brand structure, not the product page's flavour detail.
+summary: A strong-aroma baijiu brand under Sichuan Yibin Wuliangye Group, named for five grains such as sorghum, rice, glutinous rice, wheat and corn. This brand covers brand structure, not the product page's flavour detail.
 status: reviewed
 revision: 2
 translation_of: brand:wuliangye
@@ -90,7 +90,7 @@ Figure: Wuliangye. Image: 东京村子, CC BY-SA 3.0, via Wikimedia Commons ([so
 
 Wuliangye is first a brand name and only then a particular bottle. It belongs to the strong-aroma route of [baijiu](ref:baijiu) and comes from Yibin, Sichuan. Calling every strong-aroma spirit from Yibin "Wuliangye" is a common misreading; origin, aroma type and brand are three different dimensions.
 
-This page covers brand structure and how to check identity, while the [product page](ref:drink) covers basic flavour and process. The two overlap, but their purposes differ: the brand page answers what the name covers and how to verify it, while the product page answers what a bottle roughly tastes like.
+This brand covers brand structure and how to check identity, while the [product page](ref:drink) covers basic flavour and process. The two overlap, but their purposes differ: the brand page answers what the name covers and how to verify it, while the product page answers what a bottle roughly tastes like.
 
 ## Relationship with the producer
 
@@ -142,7 +142,7 @@ Third, assuming "five grains" is necessarily better. Multi-grain is a style rout
 Fourth, treating "old pit" as product age. Pit age and liquid age are different things.
 Fifth, judging authenticity from packaging or price. Anti-counterfeit checks, channels and labels are more reliable.
 
-**In brief:** A strong-aroma baijiu brand under Sichuan Yibin Wuliangye Group, named for five grains such as sorghum, rice, glutinous rice, wheat and corn. This page covers brand structure, not the product page's flavour detail.
+**In brief:** A strong-aroma baijiu brand under Sichuan Yibin Wuliangye Group, named for five grains such as sorghum, rice, glutinous rice, wheat and corn. This brand covers brand structure, not the product page's flavour detail.
 
 Put [Sichuan Yibin Wuliangye Group Co., Ltd.](ref:producer)'s owning company next to [Baijiu](ref:baijiu)'s product lines; the difference marks the boundary.
 
@@ -150,7 +150,7 @@ Put [Sichuan Yibin Wuliangye Group Co., Ltd.](ref:producer)'s owning company nex
 
 | Item | Detail |
 | --- | --- |
-| In one line | A strong-aroma baijiu brand under Sichuan Yibin Wuliangye Group, named for five grains such as sorghum, rice, glutinous rice, wheat and corn. This page covers brand structure, not the product page's flavour detail. |
+| In one line | A strong-aroma baijiu brand under Sichuan Yibin Wuliangye Group, named for five grains such as sorghum, rice, glutinous rice, wheat and corn. This brand covers brand structure, not the product page's flavour detail. |
 | Owner | Sichuan Yibin Wuliangye Group Co., Ltd. |
 | Region | China |
 | Official site | wuliangye.com.cn |

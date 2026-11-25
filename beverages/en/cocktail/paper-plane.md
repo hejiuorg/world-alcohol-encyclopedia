@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:paper-plane
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:339b340613f7de81c6236f64ace9180f3003680952a038d0f6b619c811902a17
-source_sha256: 339b340613f7de81c6236f64ace9180f3003680952a038d0f6b619c811902a17
+source_revision: sha256:4902e0f7a6860cd37bbb0024a84cd12301aa3e7f1a12933352a5fef65f1528ed
+source_sha256: 4902e0f7a6860cd37bbb0024a84cd12301aa3e7f1a12933352a5fef65f1528ed
 style: 现代经典鸡尾酒
 ingredient_refs: []
 origin_place: New York, United States (as the widely told story)
@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and modern-classic context; no source text is reproduced.
     accessed: 2026-11-07
@@ -86,9 +86,18 @@ The Paper Plane is a cocktail of equal parts bourbon, Aperol, amaro and lemon ju
 
 Figure: Paper Plane. Image: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Papierflieger_--_2021_--_7215.jpg)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Paper Plane, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Paper Plane.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - For Paper Plane, begin with the base and the ratio.
+>   - The widely told story places the drink in New York in the late 2000s and links it to a local bar and a bartender.
+
 ## Origin and naming
 
-The widely told story places the drink in New York in the late 2000s and links it to a local bar and a bartender. The exact year, the first bar and the details of the recipe differ between accounts, so this page treats the story as widely told rather than documented. What is clearer is that it belongs to the group of drinks that appeared early in the "modern classic" discussions after the 2000s and then travelled through bars around the world.
+The widely told story places the drink in New York in the late 2000s and links it to a local bar and a bartender. The exact year, the first bar and the details of the recipe differ between accounts, so this cocktail treats the story as widely told rather than documented. What is clearer is that it belongs to the group of drinks that appeared early in the "modern classic" discussions after the 2000s and then travelled through bars around the world.
 
 The name is often said to come from a song of the same title, and the paper-plane image is sometimes used to explain the drink's lightness and its angular, square visual associations. That connection is naming lore, not a verifiable recipe record. The name does not describe the ingredients or imply a fixed ratio; it is a memory hook that ties a pink-orange, bittersweet short drink to a specific cultural reference.
 

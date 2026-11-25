@@ -101,13 +101,13 @@ Estate, brand and product are three different levels: the estate answers for sit
 
 The wine comes from the Saar valley in the Mosel region of [Germany](ref:germany). The climate here is cool and the ripening season long; slate soils drain well and hold heat, helping the grapes ripen in a cool setting. Steep slopes require manual work and yields are tightly controlled.
 
-The raw material is [grape](ref:grape), of the [Riesling](ref:riesling) variety. Riesling is a late-ripening variety with high acidity and aromas of citrus, green apple and mineral notes, well suited to cool regions. Site boundaries and soil types follow the region's official materials; this page does not treat "slate" as a single explanation for every Mosel wine.
+The raw material is [grape](ref:grape), of the [Riesling](ref:riesling) variety. Riesling is a late-ripening variety with high acidity and aromas of citrus, green apple and mineral notes, well suited to cool regions. Site boundaries and soil types follow the region's official materials; this entry does not treat "slate" as a single explanation for every Mosel wine.
 
 ## Winemaking
 
 After harvest the grapes are pressed and the juice is fermented by yeast. The estate generally ferments slowly at low temperature to preserve varietal aroma and acidity; some lots ferment in large wooden barrels or stay on the lees to add texture and complexity.
 
-The grade of a German Riesling is set by ripeness at harvest rather than by sugaring or blending after fermentation. Whether malolactic fermentation is allowed and whether residual sugar remains will both change the final style; these are estate choices, and this page gives no universal parameters, so the estate's materials and the bottle label govern.
+The grade of a German Riesling is set by ripeness at harvest rather than by sugaring or blending after fermentation. Whether malolactic fermentation is allowed and whether residual sugar remains will both change the final style; these are estate choices, and this entry gives no universal parameters, so the estate's materials and the bottle label govern.
 
 ## Specification and label
 

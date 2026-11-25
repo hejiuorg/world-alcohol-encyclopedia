@@ -60,7 +60,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对需要按量倒酒的经典配方；未复制原文。
     accessed: 2026-11-07
@@ -85,9 +85,18 @@ verification_scope: source-verified
 
 倒酒嘴（speed pourer）是插在烈酒瓶口的小配件。它把宽大的瓶口收成一个细嘴，让酒液以更稳定的速度流出，也把“最后一滴顺着瓶身流下来”的问题挡在瓶外。对需要连续出品的吧台，它几乎是标配；但它常被误解成“计量工具”，这是两回事。
 
-![倒酒嘴 类型示意图](/media/photos/theme-beer.jpg)
+![倒酒嘴 类型示意图](/media/figures/specific/tool-speed-pourer.svg)
 
-图：倒酒嘴 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是倒酒嘴的实拍。
+图：倒酒嘴 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **先给结论**
+> **一句话：** 这页判断倒酒嘴值不值得买，以及有没有替代方案。
+>
+> - **适合谁：** 想弄懂倒酒嘴的用途、替代方案和使用边界的人。
+> - **不适合谁：** 只想要工具清单、不关心使用场景的人。
+> - **先看这两点：**
+>   - 装上倒酒嘴后，酒液进入摇酒壶或搅拌杯的速度变快，这会改变操作节奏，也会改变配方里“倒几秒”的换算。
+>   - 倒酒嘴的核心作用是让单手倒酒变得可控。
 
 ## 它解决的是速度，不是精度
 

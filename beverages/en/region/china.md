@@ -111,7 +111,7 @@ verification_scope: source-verified
 ---
 # China
 
-This page is the country node in the region hierarchy, used to organise production areas, producers and places. Chinese drinks include grain-based [baijiu](ref:baijiu) and [huangjiu](ref:yellow-wine), alongside large-scale [wine](ref:wine), [beer](ref:beer) and imported spirits.
+This region is the country node in the region hierarchy, used to organise production areas, producers and places. Chinese drinks include grain-based [baijiu](ref:baijiu) and [huangjiu](ref:yellow-wine), alongside large-scale [wine](ref:wine), [beer](ref:beer) and imported spirits.
 
 ![China category image](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
 

@@ -80,7 +80,7 @@ Figure: Anhui Yingjia Distillery Co., Ltd.. Photograph: File:Vertreter der vier 
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottle. When discussing "Yingjia Gongjiu", first establish whether the subject is the company, the brand or a bottle.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottle. When discussing "Yingjia Gongjiu", first establish whether the subject is the company, the brand or a bottle.
 
 "Yingjia" in the company name comes from local legend and place narrative, and "gongjiu" points to the tradition of tribute liquor. Such names are cultural and brand resources and cannot replace checking the production entity and the product label.
 

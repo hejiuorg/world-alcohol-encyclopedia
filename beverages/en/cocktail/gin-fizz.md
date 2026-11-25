@@ -186,7 +186,7 @@ Compared with the [Whiskey Sour](ref:whiskey-sour), the Gin Fizz adds the soda t
 
 A Gin Fizz suits a pre-dinner or afternoon slot, or hot weather, with nuts, olives or simple savoury snacks. It is small and goes down quickly, so sip slowly and keep water nearby. Do not drink if driving, taking medication or pregnant.
 
-This page records sourced versions and does not present any one ratio as the only answer. Final strength depends on the gin's strength, the syrup, the shake dilution and the amount of soda.
+This cocktail records sourced versions and does not present any one ratio as the only answer. Final strength depends on the gin's strength, the syrup, the shake dilution and the amount of soda.
 
 ## Further Reading
 

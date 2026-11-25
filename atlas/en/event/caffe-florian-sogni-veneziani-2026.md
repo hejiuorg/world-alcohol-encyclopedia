@@ -5,13 +5,13 @@ type: event
 lang: en
 slug: caffe-florian-sogni-veneziani-2026
 title: "Sogni Veneziani: a glass exhibition at Caffè Florian in 2026"
-summary: From 12 September to 18 October 2026 Caffè Florian's historic rooms hosted Pierpaolo Seguso's glass sculpture exhibition “Sogni Veneziani”, free and without reservation, open with the café daily from 9:00 to 23:00. The event has ended; this page records that edition's arrangements and rules.
+summary: From 12 September to 18 October 2026 Caffè Florian's historic rooms hosted Pierpaolo Seguso's glass sculpture exhibition “Sogni Veneziani”, free and without reservation, open with the café daily from 9:00 to 23:00. The event has ended; this event records that edition's arrangements and rules.
 status: reviewed
 revision: 2
 translation_of: event:caffe-florian-sogni-veneziani-2026
 source_lang: zh
-source_revision: sha256:316142e48e40dbd99b0871c717a36d93515b9d22b8f33c7c781e2c1cbd9a6bd0
-source_sha256: 316142e48e40dbd99b0871c717a36d93515b9d22b8f33c7c781e2c1cbd9a6bd0
+source_revision: sha256:5c8f4f74f0a2656c62054cab28146c31ee17420a709589bf8b54083539ae6e7a
+source_sha256: 5c8f4f74f0a2656c62054cab28146c31ee17420a709589bf8b54083539ae6e7a
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -85,11 +85,20 @@ event_status: past
 
 # Sogni Veneziani: a glass exhibition at Caffè Florian in 2026
 
-From 12 September to 18 October 2026, Caffè Florian's historic rooms hosted “Sogni Veneziani”, a glass sculpture exhibition by Pierpaolo Seguso. It was one of the city events in the tenth edition of The Venice Glass Week, though the exhibition outlasted the festival itself: the festival ran from 12 to 20 September, while the display continued to 18 October. Admission was free and no reservation was required, with opening following the café's daily hours, 9:00–23:00. The event has ended, and this page records the 2026 edition's arrangements and rules.
+From 12 September to 18 October 2026, Caffè Florian's historic rooms hosted “Sogni Veneziani”, a glass sculpture exhibition by Pierpaolo Seguso. It was one of the city events in the tenth edition of The Venice Glass Week, though the exhibition outlasted the festival itself: the festival ran from 12 to 20 September, while the display continued to 18 October. Admission was free and no reservation was required, with opening following the café's daily hours, 9:00–23:00. The event has ended, and this event records the 2026 edition's arrangements and rules.
 
 ![Sogni Veneziani: a glass exhibition at Caffè Florian in 2026 category illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: Sogni Veneziani: a glass exhibition at Caffè Florian in 2026. Project-generated or category illustration used for bar and dining context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This event explains the current status of Sogni Veneziani: a glass exhibition at Caffè Florian in 2026, and how to take part.
+>
+> - **Best for:** Anyone who wants the scene, mechanics and current status of Sogni Veneziani: a glass exhibition at Caffè Florian in 2026.
+> - **Not for:** If you want only want live ticketing or real-time logistics.
+> - **Check first:**
+>   - The display is inside the historic rooms, and the works are glass sculptures.
+>   - The Venice Glass Week placed the exhibition in Caffè Florian's historic rooms rather than a white-cube gallery: Murano glass pieces share the space with mirrors, frescoes.
 
 ## Background
 
@@ -107,7 +116,7 @@ For Caffè Florian, the show continues its practice of making art inside working
 - Opening hours: daily 9:00–23:00, following Caffè Florian's hours.
 - Place: [Caffè Florian (Venice)](ref:florian), Piazza San Marco 57, in the Historic Rooms.
 - Timezone: Europe/Rome.
-- This page's `start` uses 9:00 on the first day and `end` uses 23:00 on the last day, matching the daily hours on the official event page.
+- This event's `start` uses 9:00 on the first day and `end` uses 23:00 on the last day, matching the daily hours on the official event page.
 
 Two time layers need separating. The first is The Venice Glass Week: 12 to 20 September, when exhibitions, installations and events concentrate across the city. The second is Florian's exhibition: 12 September to 18 October, almost a month longer than the festival. Anyone travelling specifically for the show does not have to squeeze the visit into the first week, though St Mark's Square and Murano are busier during the festival week, and transport and bookings are tighter.
 
@@ -135,7 +144,7 @@ The exhibition was free, but café food and drink are charged separately. Floria
 
 ## Glass art inside a historic room
 
-The Venice Glass Week placed the exhibition in Caffè Florian's historic rooms rather than a white-cube gallery: Murano glass pieces share the space with mirrors, frescoes, wood panelling and chandeliers, and viewing distance, background and light are set by an 18th-century building. Pierpaolo Seguso took part, and the theme circles around “Venetian dreams”, bringing Murano glassmaking into a working café on St Mark's Square. The number, size and exact placement of the works follow the official pages and the on-site display; this page does not list them one by one.
+The Venice Glass Week placed the exhibition in Caffè Florian's historic rooms rather than a white-cube gallery: Murano glass pieces share the space with mirrors, frescoes, wood panelling and chandeliers, and viewing distance, background and light are set by an 18th-century building. Pierpaolo Seguso took part, and the theme circles around “Venetian dreams”, bringing Murano glassmaking into a working café on St Mark's Square. The number, size and exact placement of the works follow the official pages and the on-site display; this event does not list them one by one.
 
 ## From Florian to the square: a checkable walk
 
@@ -143,11 +152,11 @@ Caffè Florian sits under the arcade on St Mark's Square, the exhibition is in t
 
 ## Verification and boundaries
 
-The dates and hours come from two official pages: Florian's article gives 12 September to 18 October and places the display in the historic rooms; The Venice Glass Week event page gives 12 September to 18 October 2026, daily 9:00–23:00, free admission, no reservation and accessible entry. The festival's home page adds that the tenth edition ran from 12 to 20 September, confirming that Florian's show was longer than the city festival. The three sources agree on dates and place, so this page does not invent an “extended until” date.
+The dates and hours come from two official pages: Florian's article gives 12 September to 18 October and places the display in the historic rooms; The Venice Glass Week event page gives 12 September to 18 October 2026, daily 9:00–23:00, free admission, no reservation and accessible entry. The festival's home page adds that the tenth edition ran from 12 to 20 September, confirming that Florian's show was longer than the city festival. The three sources agree on dates and place, so this event does not invent an “extended until” date.
 
-There are three boundaries. First, this page records the 2026 exhibition, which has ended; the 2027 festival dates, Florian's participation, the artist and the run should follow the current official pages. Second, free admission and no reservation are the rules on the official event page at the time of checking, not a guarantee that every day in the run was open; the historic rooms may close temporarily for private events, maintenance or filming, and only the on-site notice can confirm that. Third, opening follows the café's hours; 9:00–23:00 is the regular window on the official event page, and holidays or special events may change it, so this page does not promise that it was always open until 23:00.
+There are three boundaries. First, this event records the 2026 exhibition, which has ended; the 2027 festival dates, Florian's participation, the artist and the run should follow the current official pages. Second, free admission and no reservation are the rules on the official event page at the time of checking, not a guarantee that every day in the run was open; the historic rooms may close temporarily for private events, maintenance or filming, and only the on-site notice can confirm that. Third, opening follows the café's hours; 9:00–23:00 is the regular window on the official event page, and holidays or special events may change it, so this event does not promise that it was always open until 23:00.
 
-Photographs are credited in the figure captions; no map is drawn. Photographs of the works, the artist's portrait and posters are outside this page's licence. Caffè Florian is on St Mark's Square, the exhibition is inside a fixed building, and no route coordinates are involved, so no schematic map is needed. Visitors can find the entrance by its position under the square's arcade, and the specific entrance and accessible route follow on-site signs.
+Photographs are credited in the figure captions; no map is drawn. Photographs of the works, the artist's portrait and posters are outside this event's licence. Caffè Florian is on St Mark's Square, the exhibition is inside a fixed building, and no route coordinates are involved, so no schematic map is needed. Visitors can find the entrance by its position under the square's arcade, and the specific entrance and accessible route follow on-site signs.
 
 ## See also
 
@@ -155,4 +164,4 @@ Photographs are credited in the figure captions; no map is drawn. Photographs of
 - [San Marco two-bar route](ref:venice-san-marco-two-bars): a walk that pairs a historic café with a classic bar.
 - [Harry's Bar (Venice)](ref:harrys-bar-venice): another historic bar within walking distance of St Mark's Square.
 - [Wine and festivals](ref:wine-and-festivals): how exhibitions, festivals and drinking occasions relate.
-- For The Venice Glass Week's full programme, other venues and schedule changes, use the festival's official site; this page only covers “Sogni Veneziani” at Caffè Florian in 2026.
+- For The Venice Glass Week's full programme, other venues and schedule changes, use the festival's official site; this event only covers “Sogni Veneziani” at Caffè Florian in 2026.

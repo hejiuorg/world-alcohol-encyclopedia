@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:chi-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ae206268cf40390a80671bf8d86cfe73d964ac31b69adef4eeab92f5f3d12dfc
-source_sha256: ae206268cf40390a80671bf8d86cfe73d964ac31b69adef4eeab92f5f3d12dfc
+source_revision: sha256:f9f0ba53c49d00104060d338b9ddf9e1a7690ee026a2f14c63d092cd9b2ed41f
+source_sha256: f9f0ba53c49d00104060d338b9ddf9e1a7690ee026a2f14c63d092cd9b2ed41f
 legacy_refs: []
 aliases:
   - Chi aroma baijiu
@@ -74,12 +74,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against national standards and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Chi aroma baijiu
 
-Chi aroma baijiu is a traditional baijiu aroma style from the Pearl River Delta in Guangdong, made from rice through xiaoqu semi-solid fermentation, distillation and then immersion with pork fat. Its aroma is clean and sweet with a distinct fatty note and a faint savoury suggestion, giving it a highly recognisable place among baijiu styles.![Chi aroma baijiu thematic illustration](/media/photos/theme-asian.jpg)
+Chi aroma baijiu is a traditional baijiu aroma style from the Pearl River Delta in Guangdong, made from rice through xiaoqu semi-solid fermentation, distillation and then immersion with pork fat. Its aroma is clean and sweet with a distinct fatty note and a faint savoury suggestion, giving it a highly recognisable place among baijiu styles.![Chi aroma baijiu thematic illustration](/media/figures/specific/drink-style-chi-aroma-baijiu.svg)
 
 Figure: thematic illustration for Chi aroma baijiu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

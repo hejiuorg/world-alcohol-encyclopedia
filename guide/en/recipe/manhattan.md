@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: manhattan
 title: Manhattan recipe (IBA version)
-summary: 50 ml rye whiskey, 20 ml sweet vermouth and 1 dash of Angostura bitters, stirred and strained into a chilled cocktail glass; this page covers the 5:2 frame, what a single dash does, why the drink is stirred and how dilution and vermouth freshness decide the result.
+summary: 50 ml rye whiskey, 20 ml sweet vermouth and 1 dash of Angostura bitters, stirred and strained into a chilled cocktail glass; this recipe covers the 5:2 frame, what a single dash does, why the drink is stirred and how dilution and vermouth freshness decide the result.
 status: reviewed
 revision: 3
 translation_of: recipe:manhattan
 source_lang: zh
-source_revision: sha256:5e14234dba51108ac2fecc9bd12d3ac26a17e0ec08486a3e8b7e2affea55b4ad
-source_sha256: 5e14234dba51108ac2fecc9bd12d3ac26a17e0ec08486a3e8b7e2affea55b4ad
+source_revision: sha256:266579ea41b8683d40b49dce29c2e39f9660dc3968f9fa5bbcb780fe53a75682
+source_sha256: 266579ea41b8683d40b49dce29c2e39f9660dc3968f9fa5bbcb780fe53a75682
 translation_status: reviewed
 product_id: cocktail:manhattan
 source_version: IBA Official Cocktails (checked 2026-11-07)
@@ -97,7 +97,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the official list and category of this cocktail; no source text is reproduced.
     accessed: 2026-11-07
@@ -122,17 +122,26 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
 # Manhattan recipe (IBA version)
 
-The Manhattan entered print earlier than most cocktails: American manuals and newspapers of the late nineteenth century already carried the name, though the formulas disagreed — some said whiskey and vermouth, some used cherry brandy instead of sugar, and some wrote the ratio vaguely as "one part to one". What those old texts leave is not a standard but a traceable line: the drink took shape between New York clubs and bars, stitching "strong" and "soft" together with rye whiskey and sweet vermouth. This page uses the IBA Unforgettable version: 50 ml rye whiskey, 20 ml sweet vermouth, 1 dash of Angostura bitters, stirred and strained into a chilled cocktail glass.
+The Manhattan entered print earlier than most cocktails: American manuals and newspapers of the late nineteenth century already carried the name, though the formulas disagreed — some said whiskey and vermouth, some used cherry brandy instead of sugar, and some wrote the ratio vaguely as "one part to one". What those old texts leave is not a standard but a traceable line: the drink took shape between New York clubs and bars, stitching "strong" and "soft" together with rye whiskey and sweet vermouth. This recipe uses the IBA Unforgettable version: 50 ml rye whiskey, 20 ml sweet vermouth, 1 dash of Angostura bitters, stirred and strained into a chilled cocktail glass.
 
-![Manhattan recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Manhattan recipe (IBA version) thematic illustration](/media/figures/specific/recipe-manhattan.svg)
 
 Figure: thematic illustration for Manhattan recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Manhattan recipe (IBA version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Manhattan recipe (IBA version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - Fifty millilitres of rye and twenty of sweet vermouth come to roughly 5:2.
+>   - One dash of bitters barely changes the volume of 70 ml of liquid and does not noticeably change sweetness, but it changes the shape of the aroma.
 
 ## Rye and sweet vermouth at 5:2
 
@@ -152,7 +161,7 @@ Bitters also give sweetness a boundary. The Manhattan's sugar comes from vermout
 
 ## Stir, do not shake
 
-This page uses [stirring](ref:stirring). The Manhattan is mostly spirit and vermouth, with no juice, egg white or dairy; stirring chills gently, controls dilution and keeps the drink clear. Shaking adds air and ice shards, clouds the drink and lets the vermouth's aroma fade faster.
+This recipe uses [stirring](ref:stirring). The Manhattan is mostly spirit and vermouth, with no juice, egg white or dairy; stirring chills gently, controls dilution and keeps the drink clear. Shaking adds air and ice shards, clouds the drink and lets the vermouth's aroma fade faster.
 
 The aim is temperature and dilution, not a vortex. The bar spoon should reach the bottom and push steadily along the wall so ice and liquid stay in contact; moving too fast only makes noise and shards while cooling less efficiently. The ideal rhythm is continuous, even and without obvious pauses.
 
@@ -196,8 +205,8 @@ Replacing rye with bourbon makes the drink sweeter and rounder; Canadian whisky 
 
 The "Perfect Manhattan" uses both sweet and dry vermouth, usually in equal parts, for a drier, clearer, more herbal drink; it is not a wrong version but a branch with a stated replacement logic. Cutting the vermouth moves towards a "Dry Manhattan", with the whiskey more prominent.
 
-Another branch adds cherry juice or a little syrup for a sweeter, redder drink; that changes the source of sweetness and should be labelled. When recording a variation, say which ingredient changed and how the ratio moved, or the same name will describe very different drinks. This page records only the IBA version; other approaches should carry their own sources.
+Another branch adds cherry juice or a little syrup for a sweeter, redder drink; that changes the source of sweetness and should be labelled. When recording a variation, say which ingredient changed and how the ratio moved, or the same name will describe very different drinks. This recipe records only the IBA version; other approaches should carry their own sources.
 
 ## See also
 
-For the general structure and balance of a cocktail, read [cocktail basics](ref:cocktails-guide); for the action and rhythm of stirring, read [stirring](ref:stirring); for rye and whiskey styles, read [whisky](ref:whisky); for the role of sweet vermouth, read [vermouth](ref:vermouth); for the American background, read [USA](ref:usa). For the drink itself, see [Manhattan](ref:cocktail); for the glass, see [martini glass](ref:vessel). This page records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.
+For the general structure and balance of a cocktail, read [cocktail basics](ref:cocktails-guide); for the action and rhythm of stirring, read [stirring](ref:stirring); for rye and whiskey styles, read [whisky](ref:whisky); for the role of sweet vermouth, read [vermouth](ref:vermouth); for the American background, read [USA](ref:usa). For the drink itself, see [Manhattan](ref:cocktail); for the glass, see [martini glass](ref:vessel). This recipe records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.

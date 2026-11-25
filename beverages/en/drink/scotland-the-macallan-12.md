@@ -177,4 +177,4 @@ Fourth, darker colour is not proof of older age or higher quality. Colour depend
 - [Oak ageing](ref:oak-ageing): cask type and flavour direction.
 - [The Macallan 18](ref:macallan): another age from the same brand.
 
-This page offers no price ranking, investment advice or shopping links. Version, cask and batch are the useful variables; a single tasting note is not a specification.
+This entry offers no price ranking, investment advice or shopping links. Version, cask and batch are the useful variables; a single tasting note is not a specification.

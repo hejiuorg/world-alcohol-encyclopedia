@@ -85,12 +85,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public provincial information and national standards; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
 # Shandong Province
 
-Shandong lies on China's east coast along the lower Yellow River. In the map of alcoholic drinks it is both a major baijiu producer and one of the leading northern yellow wine regions: Jimo laojiu uses broomcorn millet, wheat qu for saccharification and fermentation, and a scorched-mash step. This page focuses on yellow wine and mentions baijiu only where necessary.![Shandong Province image](/media/photos/region-shandong-1f89a703.jpg)
+Shandong lies on China's east coast along the lower Yellow River. In the map of alcoholic drinks it is both a major baijiu producer and one of the leading northern yellow wine regions: Jimo laojiu uses broomcorn millet, wheat qu for saccharification and fermentation, and a scorched-mash step. This region focuses on yellow wine and mentions baijiu only where necessary.![Shandong Province image](/media/photos/region-shandong-1f89a703.jpg)
 
 Figure: Shandong Province. Image: Chrishcn, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:PenglaiPavilion.jpg)).
 

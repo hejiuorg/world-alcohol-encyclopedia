@@ -180,7 +180,7 @@ Valais is best read by starting with the appellation and its permitted varieties
 
 **Sources and limits.** The key claims about Valais are checked against the following sources: Swiss Wine Promotion, Canton du Valais (the 4,564 hectares of Valais vineyard and the red and white variety shares), OIV (the entry's background, terminology and regulatory context) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Valais, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Valais, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

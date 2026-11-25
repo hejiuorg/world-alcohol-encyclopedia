@@ -89,8 +89,8 @@ verification_scope: source-verified
 translation_of: place:kiku-masamune-museum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d03cfd0677fadf8031d2036b44f7700b6c816681becb79ae2b0c30aae4aa6a62
-source_sha256: d03cfd0677fadf8031d2036b44f7700b6c816681becb79ae2b0c30aae4aa6a62
+source_revision: sha256:3a90dec3da625a0445fc27fea3865e73234b9ee4bb9217bb443b3508f8051f7f
+source_sha256: 3a90dec3da625a0445fc27fea3865e73234b9ee4bb9217bb443b3508f8051f7f
 ---
 # Kiku-Masamune Sake Brewery Museum
 
@@ -99,6 +99,15 @@ From Hanshin Uozaki Station, follow the Sumiyoshi River promenade south and the 
 ![The Kiku-Masamune Sake Brewery Museum in Kobe](/media/photos/place-kiku-masamune-museum-bf70596a.jpg)
 
 Figure: The main building of the Kiku-Masamune Sake Brewery Museum; the brewery building from the 1659 Mikage Kanaya residence was moved here in 1960. Image: Oilstreet, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kikumasamune_Kobe_Japan01-r.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Kiku-Masamune Sake Brewery Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Kiku-Masamune Sake Brewery Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The official “about” page tells the story clearly: the predecessor was a brewery built in 1659 (Manji 2) inside the Hon-Kano family residence in Mikage, Kobe.
+>   - The museum itself is free.
 
 ## Location and history
 

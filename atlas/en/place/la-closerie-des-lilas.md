@@ -141,7 +141,7 @@ A few minutes east of the Closerie are La Coupole and Brasserie Lipp; west are M
 - Ville de Paris's Hemingway walk: <https://paris-recette.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062> for the 1925 writing and The Sun Also Rises.
 - Nearby `place:la-coupole` and `place:brasserie-lipp` compare other Montparnasse and Saint-Germain literary café types.
 - For the full Left Bank route, see `route:saint-germain-literary-cafes`.
-- This page treats the Dada quarrel as a key conflict rather than a single cause; literary history and the café's own storytelling differ in detail.
+- This entry treats the Dada quarrel as a key conflict rather than a single cause; literary history and the café's own storytelling differ in detail.
 - Related entries: [Brasserie Lipp](ref:lipp)、[La Coupole](ref:coupole)、[Café de la Paix](ref:paix)、[Saint-Germain literary cafés route](ref:saint-germain)、[Hemingway Bar at the Ritz, Paris](ref:hemingway)
 
 **Short definition:** At 171 Boulevard du Montparnasse, La Closerie des Lilas was already a dance-hall and inn site in 1847 and took its present name in 1883; Paul Fort's Tuesday salons, Hemingway's 1925 writing and the 1922 Dada quarrel made it a coordinate of Left Bank literary history.

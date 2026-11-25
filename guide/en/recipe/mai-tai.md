@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: mai-tai
 title: Mai Tai recipe (IBA version)
-summary: 30 ml amber Jamaican rum plus 30 ml Martinique molasses rum, with 15 ml orange curaçao, 15 ml orgeat, 30 ml lime juice and 7.5 ml sugar syrup; this page covers the two-rum division of labour, the tiki background and the pour-with-ice method.
+summary: 30 ml amber Jamaican rum plus 30 ml Martinique molasses rum, with 15 ml orange curaçao, 15 ml orgeat, 30 ml lime juice and 7.5 ml sugar syrup; this recipe covers the two-rum division of labour, the tiki background and the pour-with-ice method.
 status: reviewed
 revision: 3
 translation_of: recipe:mai-tai
 source_lang: zh
-source_revision: sha256:2733a726247cd4e8ed2e4c923ff2af4a993f6ae3c9d780da5ea504c4e4524ec4
-source_sha256: 2733a726247cd4e8ed2e4c923ff2af4a993f6ae3c9d780da5ea504c4e4524ec4
+source_revision: sha256:8b352957ae0dac0c7868353fdea23e73ddcf4f7eede73bc9724b17a19b37cf82
+source_sha256: 8b352957ae0dac0c7868353fdea23e73ddcf4f7eede73bc9724b17a19b37cf82
 translation_status: reviewed
 product_id: cocktail:mai-tai
 source_version: IBA Official Cocktails (checked 2026-11-07)
@@ -105,7 +105,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the official list and category of this cocktail; no source text is reproduced.
     accessed: 2026-11-07
@@ -130,17 +130,26 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
 # Mai Tai recipe (IBA version)
 
-The Mai Tai is a calling card left by the tiki age, but it did not appear in the 1960s: in 1944, Trader Vic mixed it at his Oakland bar and named it with a word said to come from Tahiti. What turned it into a global symbol was the postwar American imagination of the South Pacific, the crushed ice and pineapple piled into a small mountain, and the tiki bars that opened everywhere in the 1950s and 1960s. Disputes followed: the recipe was simplified into "juice with rum", orgeat was replaced with sugar water, and the two rums were merged into one. This page returns to the IBA Contemporary Classic version, with 30 + 30 ml of two rums, 15 ml orange curaçao, 15 ml orgeat, 30 ml lime juice and 7.5 ml sugar syrup as its coordinates.
+The Mai Tai is a calling card left by the tiki age, but it did not appear in the 1960s: in 1944, Trader Vic mixed it at his Oakland bar and named it with a word said to come from Tahiti. What turned it into a global symbol was the postwar American imagination of the South Pacific, the crushed ice and pineapple piled into a small mountain, and the tiki bars that opened everywhere in the 1950s and 1960s. Disputes followed: the recipe was simplified into "juice with rum", orgeat was replaced with sugar water, and the two rums were merged into one. This recipe returns to the IBA Contemporary Classic version, with 30 + 30 ml of two rums, 15 ml orange curaçao, 15 ml orgeat, 30 ml lime juice and 7.5 ml sugar syrup as its coordinates.
 
-![Mai Tai recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Mai Tai recipe (IBA version) thematic illustration](/media/figures/specific/recipe-mai-tai.svg)
 
 Figure: thematic illustration for Mai Tai recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Mai Tai recipe (IBA version), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Mai Tai recipe (IBA version) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - The IBA version uses two rums, not one.
+>   - Orange curaçao provides orange aroma, sweetness and part of the alcohol.
 
 ## The division of labour between two rums
 
@@ -148,7 +157,7 @@ The IBA version uses two rums, not one. Amber Jamaican rum usually carries molas
 
 The pairing is not showing off; it is building layers. Even a very good single rum tends to concentrate its aroma in one register, while two styles overlap and the flavour moves from the front of the sip to the back. Merge them into one rum and the drink still works, but that movement is gone, so the substitution should be recorded as a variation.
 
-The IBA page adds a note: the Martinique molasses rum Trader Vic used was not an agricole rhum but a molasses-based, "rummy" style. That helps explain the original flavour, but this page does not use it to infer particular brands; the choice of bottling still follows the official IBA version and what is available locally.
+The IBA page adds a note: the Martinique molasses rum Trader Vic used was not an agricole rhum but a molasses-based, "rummy" style. That helps explain the original flavour, but this recipe does not use it to infer particular brands; the choice of bottling still follows the official IBA version and what is available locally.
 
 ## Orange curaçao and orgeat
 
@@ -168,7 +177,7 @@ The point of knowing the tiki background is not to reproduce the whole decoratio
 
 ## Shaking, crushed ice and pouring with the ice
 
-This page uses [shaking](ref:shaking). Four of the six ingredients carry sugar or juice, and shaking chills fast, mixes thoroughly and dissolves the sugars. Stirring cannot fully combine viscous orgeat with juice and does not suit a drink that needs fast chilling.
+This recipe uses [shaking](ref:shaking). Four of the six ingredients carry sugar or juice, and shaking chills fast, mixes thoroughly and dissolves the sugars. Stirring cannot fully combine viscous orgeat with juice and does not suit a drink that needs fast chilling.
 
 The IBA method pours the shaken drink with its ice into the glass rather than straining it. The ice stays in the cup, keeps chilling and dilutes slowly, so the drink opens up as it is consumed. Straining gives a clearer, shorter drink, but both the temperature curve and the dilution rate change, so it should be recorded as a variation rather than as another way of writing the same step.
 
@@ -206,8 +215,8 @@ Replacing the two rums with a single rum changes the layers and the body; that i
 
 Straining or adding ice is another branch. Straining gives a clearer, shorter version; extra crushed ice in the glass gives a colder, faster-diluting one. Both can be called a Mai Tai, but their temperature and dilution curves differ and should be recorded separately.
 
-The "original" argument mostly circles around the type of rum and whether orgeat belongs. Differences between historical recipes and modern bar practice are usually not copying errors but changes in what is available and what people prefer. This page records only the IBA version and does not rank one as more authentic; a reader comparing them should state each source and each substitution.
+The "original" argument mostly circles around the type of rum and whether orgeat belongs. Differences between historical recipes and modern bar practice are usually not copying errors but changes in what is available and what people prefer. This recipe records only the IBA version and does not rank one as more authentic; a reader comparing them should state each source and each substitution.
 
 ## See also
 
-For the general structure of a cocktail, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of shaking, read [shaking](ref:shaking). For rum styles, see [rum](ref:rum); for the Jamaican background, see [Jamaica](ref:jamaica); for the drink itself, see [Mai Tai](ref:cocktail); for the glass, see [rocks glass](ref:vessel). This page records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.
+For the general structure of a cocktail, read [cocktail basics](ref:cocktails-guide); for ice shape, temperature and dilution, read [ice and temperature](ref:ice); for the action and rhythm of shaking, read [shaking](ref:shaking). For rum styles, see [rum](ref:rum); for the Jamaican background, see [Jamaica](ref:jamaica); for the drink itself, see [Mai Tai](ref:cocktail); for the glass, see [rocks glass](ref:vessel). This recipe records one sourced version and evaluates no specific brand. Drink in moderation and follow local law and safety requirements.

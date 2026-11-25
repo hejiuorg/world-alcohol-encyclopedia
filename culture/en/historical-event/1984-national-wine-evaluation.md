@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: 1984-national-wine-evaluation
 title: "The 1984 fourth national wine evaluation: the thirteen famous wines"
-summary: The fourth national wine evaluation, held in Taiyuan, Shanxi, in 1984 and organised by the China Food Industry Association, selected 26 national famous wines, 13 of them baijiu, later known as the thirteen famous wines. This page explains the background, the expansion of the list and the disputes.
+summary: The fourth national wine evaluation, held in Taiyuan, Shanxi, in 1984 and organised by the China Food Industry Association, selected 26 national famous wines, 13 of them baijiu, later known as the thirteen famous wines. This essay explains the background, the expansion of the list and the disputes.
 status: reviewed
 revision: 3
 translation_of: historical-event:1984-national-wine-evaluation
@@ -152,7 +152,7 @@ One: "The thirteen famous wines were all the national famous wines of 1984." The
 - [Luzhou Laojiao Group](ref:luzhou): a strong-aroma enterprise repeatedly included.
 - [The 1979 third national wine evaluation](ref:evaluation-1979): the previous meeting, which established blind judging and aroma groups.
 
-**Short definition:** The fourth national wine evaluation, held in Taiyuan, Shanxi, in 1984 and organised by the China Food Industry Association, selected 26 national famous wines, 13 of them baijiu, later known as the thirteen famous wines. This page explains the background, the expansion of the list and the disputes.
+**Short definition:** The fourth national wine evaluation, held in Taiyuan, Shanxi, in 1984 and organised by the China Food Industry Association, selected 26 national famous wines, 13 of them baijiu, later known as the thirteen famous wines. This essay explains the background, the expansion of the list and the disputes.
 
 Start with the date and setting. From there, consider the documented consequences, then how later accounts treat it. That is how a practical judgment about The 1984 fourth national wine evaluation is built.
 

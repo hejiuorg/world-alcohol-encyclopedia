@@ -134,7 +134,7 @@ Cherry choice also follows use: fresh markets value size, firmness, sugar-acid b
 ## Further reading and see also
 
 - Related: [brandy](ref:brandy), [liqueur](ref:liqueur), [distillation](ref:distillation), [terroir](ref:terroir), [france](ref:france).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This ingredient offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 Start with the form and provenance. From there, consider the preparation, then how it behaves in the drink. That is how a practical judgment about Cherry is built.
 
@@ -154,4 +154,4 @@ Cherry flavours in drinks come from fruit, kernels or oak; maraschino is a cherr
 
 **Sources and limits.** The key claims about Cherry are checked against the following sources: FAO (crop, production-region and processing background), USDA (agricultural, botanical and nutritional material), CGIAR (crop germplasm and agricultural research frameworks) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Cherry, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Cherry, this ingredient was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

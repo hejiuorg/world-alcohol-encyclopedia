@@ -109,7 +109,7 @@ Figure: Yunnan. Image: xiquinhosilva, CC BY 2.0, via Wikimedia Commons ([source 
 
 Yunnan's wine country is not one continuous, uniform tract. Diqing Prefecture uses the Shangri-La region as its brand core, with Deqin County holding the densest concentration of vineyards and wineries; Mile lies in south-east Yunnan and follows a separate low-altitude path. Diqing sits in the Three Parallel Rivers area, and official material describes the quality planting belt as 27 degrees north latitude at 1800–2800 m. Deqin's vineyard bases are spread across the dry valleys of the Jinsha and Mekong, and high plots reach 2400–2800 m.
 
-This page is a province-level node under [China](ref:china). Yunnan wine belongs to the broader category of [wine](ref:wine), mainly [red wine](ref:red-wine) but also [white wine](ref:white-wine). A region name and an administrative boundary are not the same thing: Shangri-La is a regional brand, Deqin is the core county, and Mile is a separate route.
+This region is a province-level node under [China](ref:china). Yunnan wine belongs to the broader category of [wine](ref:wine), mainly [red wine](ref:red-wine) but also [white wine](ref:white-wine). A region name and an administrative boundary are not the same thing: Shangri-La is a regional brand, Deqin is the core county, and Mile is a separate route.
 
 ## High-altitude terroir: ultraviolet, temperature range and valleys
 

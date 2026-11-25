@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:shochu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:57f8f6038ac8b025a767a1d2011ec24b8922b45b4b5f50f69adbf6266a8a3015
-source_sha256: 57f8f6038ac8b025a767a1d2011ec24b8922b45b4b5f50f69adbf6266a8a3015
+source_revision: sha256:004efe0e440b6184e95a7d4f556ba8b510e6e41a540c92d940d7398ff777e15f
+source_sha256: 004efe0e440b6184e95a7d4f556ba8b510e6e41a540c92d940d7398ff777e15f
 legacy_refs: []
 aliases:
   - Shochu
@@ -96,6 +96,15 @@ Japanese shochu is not one drink but a branch of distilled spirits under Japan's
 ![Bottled Amami kokuto shochu](/media/photos/drink-style-shochu-f0b3c090.jpg)
 
 Figure: Bottled examples of Amami kokuto shochu, a regional type of Japanese shochu. Image: Hhaithait, CC BY-SA 4.0, via [source page](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg).
+
+> **Quick verdict**
+> **In one line:** This style places Japanese shochu on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Japanese shochu with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - Most honkaku shochu stresses freshness and is stored only briefly before bottling so that the sharpness of new spirit softens.
+>   - Neat serving suits judging material aroma and distillate cleanliness.
 
 ## The legal boundary
 

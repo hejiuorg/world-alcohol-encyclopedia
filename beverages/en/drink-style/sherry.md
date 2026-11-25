@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:sherry
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a1261ed0f0bb2dd7ca1dd5b21d9185082d5c23c378ae1d3bc23d191ab2d1cf3e
-source_sha256: a1261ed0f0bb2dd7ca1dd5b21d9185082d5c23c378ae1d3bc23d191ab2d1cf3e
+source_revision: sha256:1ac038857455fb3bd50d35c0764d332ffda6b2922ae28a574ecbe17a4cd47127
+source_sha256: 1ac038857455fb3bd50d35c0764d332ffda6b2922ae28a574ecbe17a4cd47127
 legacy_refs: []
 parent_style_id: drink-style:fortified-wine
 aroma_family: Oxidative / nutty / yeast
@@ -91,6 +91,15 @@ Sherry is a fortified wine from the Jerez region of southern Spain. Its distingu
 ![Sherry casks and arcades inside the Lustau bodega](/media/photos/drink-style-sherry-876c72cd.jpg)
 
 Figure: Sherry casks under the arcades of the Lustau bodega in Jerez. Image: Anual, CC BY-SA 4.0, via [source page](https://commons.wikimedia.org/wiki/File:Lustau_003An2019.jpg).
+
+> **Quick verdict**
+> **In one line:** This style places Sherry on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Sherry with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - Viticulture around Jerez goes back to the Phoenicians and Romans.
+>   - Serve Fino and Manzanilla well chilled at 6–8°C and drink them soon after opening, before oxygen takes hold.
 
 ## Definition and regulation
 

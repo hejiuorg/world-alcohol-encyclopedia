@@ -87,6 +87,15 @@ verification_scope: source-verified
 
 图：麝香。图片：Tristan，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Al_Alam_Palace.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断麝香适不适合你，以及怎么比较其他品种。
+>
+> - **适合谁：** 正在比较麝香与其他品种、想弄懂风味差异的人。
+> - **不适合谁：** 只想要单一名庄推荐、不关心品种本身的人。
+> - **先看这两点：**
+>   - “麝香”是中文对 Muscat 家族的统称。
+>   - 麝香家族的起源通常追溯到地中海东部与小亚细亚，古希腊与古罗马文献中已有甜味麝香酒的记载，罗马人把它带到高卢、伊比利亚与多瑙河流域。
+
 ## 定义与别名
 
 “麝香”是中文对 Muscat 家族的统称。家族中最重要的是小粒麝香（Muscat Blanc à Petits Grains），意大利称 Moscato bianco，法语中也叫 Muscat de Frontignan；其次是亚历山大麝香（Muscat of Alexandria），在西西里潘泰莱里亚岛称 Zibibbo；再次是奥托内麝香（Muscat Ottonel），成熟较早、香气较淡，常见于阿尔萨斯与中东欧。中文里的“莫斯卡托”通常指意大利的麝香酒，尤其是皮埃蒙特的 Moscato d'Asti，而不是一个独立于麝香的物种。酒标上的 Muscat、Moscato、Muskateller、Moscatel 往往是同一家族在不同语言中的名字。

@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:triple-sec
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ced311ba1c2fbc20c1355711b51d364a98d1bcc0b46a79003ca224f53531e484
-source_sha256: ced311ba1c2fbc20c1355711b51d364a98d1bcc0b46a79003ca224f53531e484
+source_revision: sha256:32d672be2bb72dc7662e01dfbd302feaf9dcad9394f164e15ddc08f9a4e19715
+source_sha256: 32d672be2bb72dc7662e01dfbd302feaf9dcad9394f164e15ddc08f9a4e19715
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: citrus and orange peel
@@ -73,13 +73,13 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-written; verified against EU regulation, brand history pages and bartender-association material, with no source text reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are not covered; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered; sources are cited for verification only. No third-party images are used on this style.
 verification_scope: source-verified
 ---
 
 # Triple Sec
 
-Triple sec is a clear orange liqueur made by steeping sweet and bitter orange peels in neutral spirit, distilling the infusion and adding sugar. It is neither a protected trademark nor a single brand, but a style that took shape in nineteenth-century France and later became a fixture of cocktail culture. Whether a bottle is a triple sec depends less on its name than on three things: orange peel as the main source of aroma, a colourless or nearly colourless liqueur structure, and a strength and sweetness within the expected range.![Triple Sec thematic illustration](/media/photos/theme-beer.jpg)
+Triple sec is a clear orange liqueur made by steeping sweet and bitter orange peels in neutral spirit, distilling the infusion and adding sugar. It is neither a protected trademark nor a single brand, but a style that took shape in nineteenth-century France and later became a fixture of cocktail culture. Whether a bottle is a triple sec depends less on its name than on three things: orange peel as the main source of aroma, a colourless or nearly colourless liqueur structure, and a strength and sweetness within the expected range.![Triple Sec thematic illustration](/media/figures/specific/drink-style-triple-sec.svg)
 
 Figure: thematic illustration for Triple Sec. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

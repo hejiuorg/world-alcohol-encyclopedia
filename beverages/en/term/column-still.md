@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:column-still
 source_lang: zh
-source_revision: sha256:6e47c1bf4b7f88afc65549312ec6a1129682abcbaba29c38b662b0e676181586
-source_sha256: 6e47c1bf4b7f88afc65549312ec6a1129682abcbaba29c38b662b0e676181586
+source_revision: sha256:1f24ec14ab63f136ef886cb04026d6c111497033265eeed9e4fccd1bc6ebf52b
+source_sha256: 1f24ec14ab63f136ef886cb04026d6c111497033265eeed9e4fccd1bc6ebf52b
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -76,7 +76,7 @@ verification_scope: source-verified
 
 # Column still
 
-![Column still thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Column still thematic illustration](/media/figures/specific/term-column-still.svg)
 
 Figure: thematic illustration for Column still. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

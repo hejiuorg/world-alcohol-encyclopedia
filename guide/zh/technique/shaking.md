@@ -49,7 +49,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对鸡尾酒调制方法的通用分类；未复制原文。
     accessed: 2026-11-04
@@ -80,9 +80,9 @@ verification_scope: source-verified
 
 摇酒（shaking，也称摇和）是把原料与冰块放入摇酒壶中快速摇晃的调酒技法。它同时完成三件事：冷却、稀释与混合。与搅拌相比，摇和的速度更快、充气更多、稀释也更明显，因此适合含果汁、奶油、蛋清或糖浆的配方，而不适合所有鸡尾酒。
 
-![摇酒 类型示意图](/media/photos/theme-beer.jpg)
+![摇酒 类型示意图](/media/figures/specific/technique-shaking.svg)
 
-图：摇酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是摇酒的实拍。
+图：摇酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与目的
 

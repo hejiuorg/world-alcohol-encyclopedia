@@ -165,4 +165,4 @@ A wide bowl and narrowed rim release and gather aroma; fill to the widest point,
 
 **Sources and limits.** The key claims about Red Wine Glass are checked against the following sources: Oxford University Press (Used to check glass shapes, aroma and tasting background), Encyclopaedia Britannica (Used to check general wine tasting and service background), Corning Museum of Glass (Used to check glass forms and craft background) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Red Wine Glass, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Red Wine Glass, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

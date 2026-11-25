@@ -84,7 +84,7 @@ In lager brewing, primary fermentation converts wort sugar into ethanol and carb
 
 ## Steps and parameters
 
-A typical schedule runs primary fermentation at 8–12 °C for about 7–14 days, a rise to 12–18 °C for 1–3 days of diacetyl reduction, known as a diacetyl rest, then cooling to −1 to 4 °C for 2–6 weeks of lagering. High-gravity or dark products may extend this to 8–12 weeks. These ranges follow the common descriptions in the brewing reference works and association material listed on this page; individual breweries still adjust them to yeast strain and tank heat transfer. A vessel pressure of 0.8–1.2 bar keeps carbon dioxide in solution, and dissolved oxygen during transfer should ideally stay below 50 μg/L. pH at this stage normally falls between 4.0 and 4.6, with ethanol at 4–6% by volume.
+A typical schedule runs primary fermentation at 8–12 °C for about 7–14 days, a rise to 12–18 °C for 1–3 days of diacetyl reduction, known as a diacetyl rest, then cooling to −1 to 4 °C for 2–6 weeks of lagering. High-gravity or dark products may extend this to 8–12 weeks. These ranges follow the common descriptions in the brewing reference works and association material listed on this process; individual breweries still adjust them to yeast strain and tank heat transfer. A vessel pressure of 0.8–1.2 bar keeps carbon dioxide in solution, and dissolved oxygen during transfer should ideally stay below 50 μg/L. pH at this stage normally falls between 4.0 and 4.6, with ethanol at 4–6% by volume.
 
 ## Mechanism: yeast uptake and settling
 

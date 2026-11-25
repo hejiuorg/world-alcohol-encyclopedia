@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against publisher pages, the hotel’s official page and a reference work, without reproducing recipes, illustrations or translations. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original recipes, illustrations and the 2014 introduction are not covered by this licence; sources are cited for verification only. The image on this page shows the Savoy Hotel entrance, not the book cover.
+  note: The original recipes, illustrations and the 2014 introduction are not covered by this licence; sources are cited for verification only. The image on this book entry shows the Savoy Hotel entrance, not the book cover.
 verification_scope: source-verified
 source_sha256: 317f2dc66a111de9cb3a9c4dd0944963ae4a0997dd7dd21dba13a512dd487b7e
 source_revision: sha256:317f2dc66a111de9cb3a9c4dd0944963ae4a0997dd7dd21dba13a512dd487b7e

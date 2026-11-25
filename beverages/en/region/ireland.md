@@ -71,7 +71,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against brewery publications, industry bodies and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
 # Ireland
@@ -116,7 +116,7 @@ For Ireland, begin with the appellation and its permitted varieties. Then look a
 
 Production and sale of Irish beer fall under food safety, licensing and advertising rules. Alcohol content, volume and origin labelling must follow the relevant provisions, and the current texts govern in detail.
 
-At the level of specific rules, the Public Health (Alcohol) Act 2018 is an important marker in Irish alcohol regulation: it introduced restrictions on alcohol advertising, separation of alcohol displays in shops, health warnings and a minimum unit pricing mechanism, and set requirements for strength, volume and allergen labelling. The minimum unit price is calculated per gram of pure alcohol rather than per bottle or per litre. Alcohol sales must also follow opening-hours and licensing rules, with pubs, shops and online channels under different licence categories. Producers and importers should check the current text; this page does not restate provisions clause by clause.
+At the level of specific rules, the Public Health (Alcohol) Act 2018 is an important marker in Irish alcohol regulation: it introduced restrictions on alcohol advertising, separation of alcohol displays in shops, health warnings and a minimum unit pricing mechanism, and set requirements for strength, volume and allergen labelling. The minimum unit price is calculated per gram of pure alcohol rather than per bottle or per litre. Alcohol sales must also follow opening-hours and licensing rules, with pubs, shops and online channels under different licence categories. Producers and importers should check the current text; this region does not restate provisions clause by clause.
 
 Irish beer serves both the domestic market and exports, with pub culture as a major channel. The craft market has grown in recent years, but large breweries still hold most of the share, and consumer interest in local materials and independent breweries is rising.
 

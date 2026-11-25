@@ -5,7 +5,7 @@ type: custom
 lang: en
 slug: harvest-wine
 title: Harvest wine and grape-harvest customs
-summary: Harvest wine is the drink of thanksgiving, new-taste tasting and village meals after the autumn harvest; in European vineyard regions the same impulse continues as the grape harvest festival. This page compares Chinese and European forms of harvest drinking, their timing, vessels, food and modern tourist packaging.
+summary: Harvest wine is the drink of thanksgiving, new-taste tasting and village meals after the autumn harvest; in European vineyard regions the same impulse continues as the grape harvest festival. This entry compares Chinese and European forms of harvest drinking, their timing, vessels, food and modern tourist packaging.
 status: reviewed
 revision: 2
 translation_of: custom:harvest-wine
@@ -83,7 +83,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; checked against public-domain poetry, seasonal notes, a general history of customs and general encyclopaedia background, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this entry.
 verification_scope: source-verified
 ---
 # Harvest wine and grape-harvest customs

@@ -100,6 +100,15 @@ verification_scope: source-verified
 
 图：费尔西纳庄园所在的托斯卡纳风貌配图。摄影：Tuscany vineyard。署名：cova69，CC BY 2.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=1393578)）。这张照片用于说明产区环境与访问语境，不标定费尔西纳庄园的门店、酒庄或活动现场。
 
+> **先给结论**
+> **一句话：** 这页判断费尔西纳庄园值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去费尔西纳庄园、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 地址是 Via del Chianti 101, 53019 Castelnuovo Berardenga (SI), Italy。
+>   - 酒庄是农业与生产场所，不是公园。
+
 ## 边界地带的庄园
 
 官方把费尔西纳的位置描述为“经典基安蒂与 Crete Senesi 之间的土地边界”。这句话不是修辞：往北是经典基安蒂的葡萄园与橡树林，往南是 Crete 的黏土与裸露丘陵，温差、土壤与排水条件在同一片庄园里发生变化。酒庄的葡萄园分布在多个历史农庄上，包括 Rancia、Rancino、Arcidosso、Arcidossino/Santa Letizia、Casale di Fèlsina、Fèlsina、Casalino、Santa Maria、San Giuseppe、Ruzzatoio、Molino d'Ombrone、Valli、Molinuzzo 与 Terra Rossa；这些名字今天仍出现在地块管理与酒款叙事里。

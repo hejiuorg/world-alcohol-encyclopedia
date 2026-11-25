@@ -107,8 +107,8 @@ stop_ids:
     note: In St Helena, see the 1876 winery and Rhine House and put “modern” back into a longer history.
 mode: car
 updated_at: 2026-11-08
-source_sha256: 02a3d35d30156255c842de850b4a5ba6338db3dcf4c0ae88a9504d597b3afaa3
-source_revision: sha256:02a3d35d30156255c842de850b4a5ba6338db3dcf4c0ae88a9504d597b3afaa3
+source_sha256: 19dd2e10faa934c5f76e0dfb8b2bd0ccea33f259f0f47c46d2caedabae289516
+source_revision: sha256:19dd2e10faa934c5f76e0dfb8b2bd0ccea33f259f0f47c46d2caedabae289516
 ---
 
 # Napa Valley: the modern winery belt after the 1976 Judgment of Paris
@@ -119,9 +119,18 @@ A Napa itinerary easily becomes “five wineries in a day”. This route keeps t
 
 Figure: Related photograph of Napa Valley: the modern winery belt after the 1976 Judgment of Paris. Image: GIANTPAPAYA, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Napa_Valley,_Late_Afternoon.jpg)).
 
+> **Quick verdict**
+> **In one line:** This route helps you plan Napa Valley: the modern winery belt after the 1976 Judgment of Paris, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Napa Valley: the modern winery belt after the 1976 Judgment of Paris into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Robert Mondavi Winery, 7801 St Helena Highway, Oakville, CA 94562, founded in 1966, with the To Kalon vineyard at heart.
+>   - The 1976 Judgment of Paris was a blind tasting: the British merchant Steven Spurrier organised French judges to compare California and French whites and reds.
+
 ## Route overview
 
-- Stop one: [Robert Mondavi Winery](ref:mondavi), 7801 St Helena Highway, Oakville, CA 94562, founded in 1966, with the To Kalon vineyard at its core.
+- Stop one: [Robert Mondavi Winery](ref:mondavi), 7801 St Helena Highway, Oakville, CA 94562, founded in 1966, with the To Kalon vineyard at heart.
 - Stop two: [Opus One Winery](ref:opus), 7900 St Helena Highway, Oakville, CA 94562, a 1979 joint venture between Robert Mondavi and Baron Philippe de Rothschild, with 1979 as its first vintage.
 - Stop three: [Beringer Vineyards](ref:beringer), 2000 Main Street, St Helena, CA 94574, founded in 1876 by Jacob and Frederick Beringer, with the Rhine House built in 1884.
 - Mode: car is the practical base; VINE buses serve Napa Valley, but transfers between wineries are awkward, and no one should drive after tasting.
@@ -179,7 +188,7 @@ First, a winery is an agricultural and production site, not a theme park. Do not
 
 Fourth, read the history correctly. The 1976 Judgment of Paris was a blind tasting, not the creation of the Napa AVA; Mondavi's 1966 is the winery's founding year, not the first planting of To Kalon; Opus One's 1979 is the first vintage, 1984 the release and 1991 the completion of the winery; Beringer's 1876 is the founding year and 1884 the Rhine House. Fifth, distinguish “winery”, “brand” and “vineyard”: To Kalon is a vineyard name, Opus One a winery and brand, and Beringer's ownership and wine series have changed repeatedly; do not merge the three.
 
-For Napa Valley: the modern winery belt after the 1976 Judgment of Paris, this page does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map.
+For Napa Valley: the modern winery belt after the 1976 Judgment of Paris, this route does not provide a map; addresses and opening status were checked against official pages on 2026-11-08, but hours and booking rules can still change, so confirm with official channels. Latitude and longitude for the three venues are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map.
 
 ## Alternatives and extensions
 
@@ -192,6 +201,6 @@ Northwards the route reaches Calistoga and Knights Valley, southwards Yountville
 - [Robert Mondavi Winery](ref:mondavi): 1966, To Kalon and the start of modern Napa.
 - [Opus One Winery](ref:opus): the 1979 joint venture, Bordeaux blending and Napa fruit.
 - [Beringer Vineyards](ref:beringer): 1876, the Rhine House and Napa before and after Prohibition.
-- For background, consult the Napa Valley region, wine and place-and-process entries in the content repository; this page does not register further references.
+- For background, consult the Napa Valley region, wine and place-and-process entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.

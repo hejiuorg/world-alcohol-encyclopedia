@@ -80,7 +80,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article, checked against academic papers, newspaper articles and bibliographic records, without reproducing text, illustrations or translations. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, illustrations and translations are not covered by this licence; sources are cited for verification only. The image on this page is a Kuniyoshi Woodblock print from the Suikoden series, not an illustration from a Ming edition of Water Margin.
+  note: The original text, illustrations and translations are not covered by this licence; sources are cited for verification only. The image on this book entry is a Kuniyoshi Woodblock print from the Suikoden series, not an illustration from a Ming edition of Water Margin.
 verification_scope: source-verified
 source_sha256: 6c009f809785182d9bb3c365ba9b5b66b37d40be258dd405c6550c65c8a86fc7
 source_revision: sha256:6c009f809785182d9bb3c365ba9b5b66b37d40be258dd405c6550c65c8a86fc7

@@ -47,7 +47,7 @@ sources:
   - key: yuanyuantang
     title: Random Notes from Yuanyuan Hall
     publisher: By Feng Zikai; first published by Kaiming Book Company, with later modern editions
-    note: Used to check the subjects of the essays and the writing on drinks and guests; this page summarises and quotes nothing at length.
+    note: Used to check the subjects of the essays and the writing on drinks and guests; this profile summarises and quotes nothing at length.
     accessed: 2026-11-07
   - key: feng-zikai-wenji
     title: Collected Works of Feng Zikai

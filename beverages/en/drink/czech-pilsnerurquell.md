@@ -103,7 +103,7 @@ Water quality affects mash pH and mineral balance. Soft water makes hop bitterne
 
 The typical flow is: milling, mashing, lautering, boiling, cooling, pitching yeast, primary fermentation, secondary fermentation and cold conditioning. Pilsner Urquell traditionally uses triple decoction, removing part of the mash, boiling it and returning it, to improve saccharification and shape flavour.
 
-Primary fermentation uses open vessels, making it easier to observe foam and remove impurities; cold conditioning follows, settling yeast and stabilising flavour. Filtration and pasteurisation affect shelf life and freshness. Specific plant details are producer information; this page describes the public traditional route only.
+Primary fermentation uses open vessels, making it easier to observe foam and remove impurities; cold conditioning follows, settling yeast and stabilising flavour. Filtration and pasteurisation affect shelf life and freshness. Specific plant details are producer information; this entry describes the public traditional route only.
 
 Saaz aroma needs appropriate bitterness behind it. Hops are usually added in stages: early additions give bitterness, later additions preserve aroma. The "clean" bitterness of Czech Pilsner is linked to soft water, pale malt and low mineral content rather than simply using more hops.
 
@@ -151,7 +151,7 @@ The comparison with [Beer](ref:beer) and [Terroir](ref:terroir) runs through sty
 
 **Sources and limits.** The key claims about Pilsner Urquell are checked against the following sources: Plzeňský Prazdroj (brand history, raw materials and brewing information), Beer Judge Certification Program (the style description of Czech pale lager), Oxford University Press (Consulted for entries on Pilsner, Czech beer and decoction). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Pilsner Urquell next to Beer, GB/T 17204-2021 Terminology and classification of alcoholic beverages, Terroir: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Pilsner Urquell next to Beer, GB/T 17204-2021 Terminology and classification of alcoholic beverages, Terroir: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

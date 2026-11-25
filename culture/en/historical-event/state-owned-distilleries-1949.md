@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: state-owned-distilleries-1949
 title: State-owned distilleries and the alcohol monopoly after 1949
-summary: After 1949 private distilleries were taken over, merged and gradually converted into state-owned or joint state-private plants, while alcohol was brought under a monopoly system. This page explains the timing, the institutional arrangements and the effect on the structure of the industry.
+summary: After 1949 private distilleries were taken over, merged and gradually converted into state-owned or joint state-private plants, while alcohol was brought under a monopoly system. This essay explains the timing, the institutional arrangements and the effect on the structure of the industry.
 status: reviewed
 revision: 3
 translation_of: historical-event:state-owned-distilleries-1949
@@ -144,13 +144,13 @@ First, it is inaccurate to say that all distilleries were nationalised overnight
 
 The comparison with [China](ref:china) and [Yellow wine](ref:yellow-wine) runs through date and place. Each answers a different question.
 
-**At a glance:** After 1949 private distilleries were taken over, merged and gradually converted into state-owned or joint state-private plants, while alcohol was brought under a monopoly system. This page explains the timing, the institutional arrangements and the effect on the structure of the industry.
+**At a glance:** After 1949 private distilleries were taken over, merged and gradually converted into state-owned or joint state-private plants, while alcohol was brought under a monopoly system. This essay explains the timing, the institutional arrangements and the effect on the structure of the industry.
 
 **Key facts.**
 
 | Item | Detail |
 | --- | --- |
-| In one line | After 1949 private distilleries were taken over, merged and gradually converted into state-owned or joint state-private plants, while alcohol was brought under a monopoly system. This page explains the timing, the instit… |
+| In one line | After 1949 private distilleries were taken over, merged and gradually converted into state-owned or joint state-private plants, while alcohol was brought under a monopoly system. This essay explains the timing, the instit… |
 | Date | 1949 to 1956 |
 | Place | China |
 | Calendar | Gregorian |

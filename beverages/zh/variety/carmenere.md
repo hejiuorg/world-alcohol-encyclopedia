@@ -81,6 +81,15 @@ verification_scope: source-verified
 
 图：佳美娜。图片：Lebowskyclone，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:CarmenereW.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断佳美娜适不适合你，以及怎么比较其他品种。
+>
+> - **适合谁：** 正在比较佳美娜与其他品种、想弄懂风味差异的人。
+> - **不适合谁：** 只想要单一名庄推荐、不关心品种本身的人。
+> - **先看这两点：**
+>   - 佳美娜属于欧洲葡萄 Vitis vinifera，是红葡萄品种。
+>   - 佳美娜原产法国波尔多，18 世纪已见于梅多克一带，曾与赤霞珠、品丽珠、梅洛一起参与混酿。
+
 ## 定义与别名
 
 佳美娜属于欧洲葡萄 Vitis vinifera，是红葡萄品种。英文常写作 Carmenère 或 Carmenere，中文也有卡曼尼等音译。历史上它还有一个波尔多别名 Grande Vidure，但这个名字也曾被用来指称其他品种，容易造成混淆。最重要的区分是：佳美娜不是梅洛，也不是梅洛的克隆；两者亲缘相近，但品种特征、成熟节奏与酒风都不同(ref:red-wine)。智利酒标上的“Carmenère”是官方认可的品种名称，而不是产区名。

@@ -145,7 +145,7 @@ Sangiovese has many clones, and the difference between Chianti's brighter style 
 
 **Sources and limits.** The key claims about Sangiovese are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check varietal descriptors and the Vitis species framework), Oxford University Press (Used for reference on Sangiovese clones, regions and style; Migrated from the former reference list at the end of the article; access date not re-verified), European Union (Used to check the EU framework for wine regions and labelling). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Sangiovese, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Sangiovese, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

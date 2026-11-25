@@ -39,8 +39,8 @@ tags:
 translation_of: place:antinori-nel-chianti-classico
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:05df549e8653123e63cdd89ce61301e429b4eb24e4914b6bd5aaee99c5b36db8
-source_sha256: 05df549e8653123e63cdd89ce61301e429b4eb24e4914b6bd5aaee99c5b36db8
+source_revision: sha256:2ba61458cc2f38dd521c3db89d0447232934de9315e6a4f2629742f83d13dbff
+source_sha256: 2ba61458cc2f38dd521c3db89d0447232934de9315e6a4f2629742f83d13dbff
 related:
   - relation: about
     target_id: place:biondi-santi
@@ -106,6 +106,12 @@ verification_scope: source-verified
 
 South of Florence, the SS2 enters the hills of San Casciano Val di Pesa. Around Bargino, two long horizontal cuts appear between vineyards. They are not retaining walls but the visible part of Antinori nel Chianti Classico: most of the building is sunk into the slope. Visitors enter through the cuts, descend a spiral staircase and pass through fermentation, ageing and tasting spaces. It is both a working winery and the Antinori family’s reception centre in Chianti Classico.
 
+> **Visit information**
+> - Address: Via Cassia per Siena 133, Loc. Bargino, 50026 San Casciano Val di Pesa, Firenze, Italy.
+> - Opening and booking: check the [official page](https://www.antinori.it/en/tenuta/estates-antinori/antinori-nel-chianti-classico-estate/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
+
 ![Spiral staircase at Antinori nel Chianti Classico](/media/photos/place-antinori-nel-chianti-classico-78daa3d3.jpg)
 
 Figure: The spiral staircase and geometric spaces inside Antinori nel Chianti Classico. Image: Repuli, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Angoli_e_geometrie.jpg)).
@@ -160,6 +166,6 @@ To compare a “building-driven” and a “traditional” Tuscan winery, add [B
 
 - Tuscan comparisons: [Biondi-Santi](ref:biondi), [Castello di Brolio](ref:brolio), [Fattoria Felsina](ref:felsina), [Chianti Classico route](ref:route).
 - Background: [Tuscany](ref:tuscany).
-- This page provides no map; opening hours, tours and restaurant information should be checked with official channels.
+- This entry provides no map; opening hours, tours and restaurant information should be checked with official channels.
 
 For Antinori nel Chianti Classico, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.

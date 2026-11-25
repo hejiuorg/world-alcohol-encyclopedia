@@ -84,7 +84,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored article; checked against public-domain materia medica, library catalogues and WHO material, quoting only short necessary passages. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and book images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and book images are not covered by this licence; sources are cited for verification only. No third-party images are used on this book entry.
 verification_scope: source-verified
 ---
 # Bencao Gangmu (wine sections)
@@ -141,7 +141,7 @@ Fifth, editions differ in wording and in the number of formulas, so a specific c
 
 Researchers can treat volume 25 as primary material, reading it against a punctuated edition and a facsimile and noting the sources of each entry. Readers interested in wine history might begin with the shaojiu and grape-wine entries and then return to the properties and indications, to see how drinking and medicine share one vocabulary.
 
-Those interested in traditional medicinal wine should treat the book as a historical document, not a formula manual, and consult professionals before using anything containing alcohol or drugs. Readers who simply want to know how Ming people drank can set it beside Suiyuan Shidan.
+Those interested in traditional medicinal wine should treat the book as a historical document, not a formula manual, and consult professionals before using anything containing alcohol or drugs. If you want simply want to know how Ming people drank can set it beside Suiyuan Shidan.
 
 ## See also
 

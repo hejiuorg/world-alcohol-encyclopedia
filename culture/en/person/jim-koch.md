@@ -136,7 +136,7 @@ The comparison with [Lager](ref:lager) and [Craft beer](ref:craft) runs through 
 
 **Sources and limits.** The key claims about Jim Koch are checked against the following sources: The Boston Beer Company (Used to check Boston Lager's 1984 origin, the 2024 fortieth anniversary and brand awards; no text copied), U.S. Securities and Exchange Commission, Flatiron Books (Used to check Koch's startup, sales strategy and Boston Beer management philosophy; no text copied). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Jim Koch, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Jim Koch, this profile was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

@@ -125,6 +125,12 @@ verification_scope: source-verified
 
 洛雷托（Loretto）在肯塔基中部的丘陵里，离巴兹敦不远。美格（Maker's Mark）把厂区叫作 Star Hill Farm，这不是后来追加的观光名字：1950 年代选址时，Samuels 家看中的就是这片由石灰岩过滤的泉水和自有的集水区。今天参观者看到的是一处仍在运作的农场型酒厂，羊群、和牛、太阳能仓库、手工转桶与红蜡封瓶共存，国家历史地标的身份并没有让它停止生产。它也不是一座被玻璃罩起来的“故居”：游客脚下的路、远处的仓库与发酵间的气味，都是日常生产的一部分。
 
+> **到访信息**
+> - 地址：3350 Burks Spring Rd, Loretto, KY 40037, USA。
+> - 开放与预约：以[官方页面](https://www.makersmark.com/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-08。
+
 ![美格酒厂实景照片](/media/photos/q2-place-makers-mark-distillery-c4b1844f.jpg)
 
 图：美格酒厂。摄影：Toll Booth at Maker's Mark Distillery。署名：SeeMidTN.com (aka Brent)，CC BY 2.0，来自 Flickr / Openverse（[来源](https://www.flickr.com/photos/94502827@N00/272886546)）。

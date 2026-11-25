@@ -45,7 +45,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对经典鸡尾酒的层次与装饰做法；未复制原文。
     accessed: 2026-11-07
@@ -82,9 +82,9 @@ verification_scope: source-verified
 
 分层（layering）是让不同原料在杯中保持可见层次的调酒技法。它依靠液体之间的密度差异，以及缓慢、贴壁的倾倒动作，使较重的液体沉在下方、较轻的液体浮在上方。分层常用于小型烈酒杯、甜点型鸡尾酒与需要视觉表达的场合，也用于在成品上“漂浮”一层香气或颜色。
 
-![分层 类型示意图](/media/photos/theme-beer.jpg)
+![分层 类型示意图](/media/figures/specific/technique-layering.svg)
 
-图：分层 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是分层的实拍。
+图：分层 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:niigata
 source_lang: zh
-source_revision: sha256:8b934ea642dda24d793d38856f18e445251a0db124a4da09e39774c6c0dc2acf
-source_sha256: 8b934ea642dda24d793d38856f18e445251a0db124a4da09e39774c6c0dc2acf
+source_revision: sha256:3937bbb1fcdb4928d3a7e3661e9a842867e326a3633d9e3b942dacd854923146
+source_sha256: 3937bbb1fcdb4928d3a7e3661e9a842867e326a3633d9e3b942dacd854923146
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -106,6 +106,15 @@ Niigata is a major [sake](ref:sake) prefecture on the Sea of [Japan](ref:japan) 
 ![Niigata category image](/media/photos/place-hakushika-sake-museum-47d034a5.jpg)
 
 Figure: Niigata. Photograph: File:Hakushika Memorial Museum02st3200.jpg. Credit: 663highland, CC BY 2.5 ([source page](https://commons.wikimedia.org/wiki/File:Hakushika_Memorial_Museum02st3200.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Niigata for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Niigata with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Niigata sake labels follow the same logic as other regions: check the special designation and polishing ratio first, then the starter, yeast, unpasteurised status.
+>   - Niigata Prefecture lies in the north-central part of Honshu, facing the Sea of Japan and cold and snowy in winter.
 
 ## Definition and scope
 

@@ -80,7 +80,7 @@ Figure: Jiangsu Yanghe Group Co., Ltd.. Photograph: File:Vertreter der vier Baij
 
 ## Company identity
 
-This page records producer identity: name, registered place, founding time, organisational form and public entry point. The group leans towards asset operation and industrial management, while the joint-stock company handles production, sales and disclosure. The names are similar, but the legal entities and financial scope differ and must not be mixed.
+This producer records producer identity: name, registered place, founding time, organisational form and public entry point. The group leans towards asset operation and industrial management, while the joint-stock company handles production, sales and disclosure. The names are similar, but the legal entities and financial scope differ and must not be mixed.
 
 In public material, "Yanghe Group" usually means the parent group described here; "Jiangsu Yanghe Distillery Co., Ltd." is the listed entity, and the official site also uses "Sujiu Group" as a brand-style name. When checking information, first establish whether the subject is the group, the joint-stock company or a product series.
 
@@ -108,11 +108,11 @@ Under the Yanghe brand there are series such as Yanghe Daqu and Blue Classic, an
 
 ## History
 
-Checkable modern milestones are: consolidation of the state-run distillery system in the later 20th century, establishment of the joint-stock company in December 2002, and listing in November 2009. Company material traces the distilling tradition further back, but earlier dates mostly belong to local gazetteers and brand narrative and need archival support; this page does not force details from different sources into one story.
+Checkable modern milestones are: consolidation of the state-run distillery system in the later 20th century, establishment of the joint-stock company in December 2002, and listing in November 2009. Company material traces the distilling tradition further back, but earlier dates mostly belong to local gazetteers and brand narrative and need archival support; this producer does not force details from different sources into one story.
 
 ## Limits of public information
 
-This page does not expand revenue, profit, capacity or market share. These need full context and change over time; taken out of the reporting year they mislead. Titles such as "China Time-honoured Brand" or "famous liquor" should be checked against the issuing body and year, not judged from packaging.
+This producer does not expand revenue, profit, capacity or market share. These need full context and change over time; taken out of the reporting year they mislead. Titles such as "China Time-honoured Brand" or "famous liquor" should be checked against the issuing body and year, not judged from packaging.
 
 ## Common misconceptions
 

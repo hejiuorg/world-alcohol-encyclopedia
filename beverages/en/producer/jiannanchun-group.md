@@ -98,9 +98,9 @@ Figure: Sichuan Jiannanchun (Group) Co., Ltd.. Photograph: File:Vertreter der vi
 
 ## Company identity
 
-This page records the producer layer: group name, registered place, founding date and organisational form. The group is the holding platform for the brand and assets, while production, sales and product specifications are handled by subsidiary companies. When discussing "Jiannanchun", first establish whether the subject is the group, the brand or a bottle; the names are the same, but their legal identities and duties differ.
+This producer records the producer layer: group name, registered place, founding date and organisational form. The group is the holding platform for the brand and assets, while production, sales and product specifications are handled by subsidiary companies. When discussing "Jiannanchun", first establish whether the subject is the group, the brand or a bottle; the names are the same, but their legal identities and duties differ.
 
-Public registry information gives the registered address as Chunyi Street, Mianzhu, Sichuan, and the registration date as 17 September 1996. Registered capital and similar figures change with later registrations, so this page does not treat them as permanent facts.
+Public registry information gives the registered address as Chunyi Street, Mianzhu, Sichuan, and the registration date as 17 September 1996. Registered capital and similar figures change with later registrations, so this producer does not treat them as permanent facts.
 
 ## Site and region
 
@@ -124,7 +124,7 @@ A process description only states the style route; it cannot replace a judgement
 
 In September 1996 the company was registered on the basis of the former Mianzhu Jiannanchun Distillery. In 2003, under provincial and local requirements for an orderly withdrawal of state capital, the enterprise was restructured: trademarks and other intangible assets remained with the government, the remaining state capital withdrew, and a structure of management control with employee shareholding was formed. The holding and exit arrangements for employee shares later produced several disputes, and in 2012 employee shareholders stopped work.
 
-In 2025 financial media reported that state capital had taken a stake again. Ownership changes with transactions, so specific percentages should be checked against the latest registry and company announcements; this page does not treat any single point in time as final.
+In 2025 financial media reported that state capital had taken a stake again. Ownership changes with transactions, so specific percentages should be checked against the latest registry and company announcements; this producer does not treat any single point in time as final.
 
 ## Timeline
 
@@ -135,7 +135,7 @@ In 2025 financial media reported that state capital had taken a stake again. Own
 
 ## Visiting
 
-The company is located in Mianzhu. Tours of the plant and the historic distillery site, booking arrangements and whether individual visitors are received all depend on the operator's current official notices. This page does not provide unverified telephone numbers or ticket prices and does not recommend following old guides to the site. To learn about the process, prefer officially open industrial-tourism or drinks-culture displays.
+The company is located in Mianzhu. Tours of the plant and the historic distillery site, booking arrangements and whether individual visitors are received all depend on the operator's current official notices. This producer does not provide unverified telephone numbers or ticket prices and does not recommend following old guides to the site. To learn about the process, prefer officially open industrial-tourism or drinks-culture displays.
 
 ## Common misconceptions
 
@@ -164,6 +164,6 @@ Start with the range it makes. From there, consider the site and the owner, then
 
 - [China](ref:china): the broad context of baijiu regions.
 - [Baijiu](ref:baijiu): the category and aroma-type system.
-- [Strong-aroma baijiu](ref:strong-aroma): the main style route of the products on this page.
+- [Strong-aroma baijiu](ref:strong-aroma): the main style route of the products on this producer.
 - [Qu making](ref:qu-making): the starting step of strong-aroma production.
 - [Jiannanchun](ref:jiannanchun) and [Crystal Jiannanchun](ref:crystal-jiannanchun): product entries.

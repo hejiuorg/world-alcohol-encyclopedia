@@ -148,7 +148,7 @@ Never taste before driving; the Haro–Logroño road is busy and country roads a
 
 - Rioja comparisons: [Riscal](ref:riscal), [López de Heredia](ref:lopez), [CVNE](ref:cvne), [Haro station bodegas route](ref:route).
 - Background: [Rioja](ref:rioja).
-- This page provides no map; tour prices, times and rules should be checked with official channels.
+- This entry provides no map; tour prices, times and rules should be checked with official channels.
 
 **Short definition:** A family winery in Haro’s station district, founded in 1932 by Isaac Muga and Aurora Caño. It keeps a 200-year-old house, large oak vats and its own cooperage, and works with egg-white fining, gravity racking and long oak ageing; its wines include Reserva, Prado Enea, Torre Muga and Aro.
 

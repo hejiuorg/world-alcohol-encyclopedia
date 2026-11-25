@@ -149,7 +149,7 @@ From Bilbao, Guggenheim and Riscal can be one long day; from Logroño it is easi
 
 - Rioja comparisons: [Muga](ref:muga), [López de Heredia](ref:lopez), [CVNE](ref:cvne), [Haro station bodegas route](ref:route).
 - Background: [Rioja](ref:rioja).
-- This page provides no map; hotel, visit and restaurant information should be checked with official channels.
+- This entry provides no map; hotel, visit and restaurant information should be checked with official channels.
 
 **Short definition:** A historic Rioja Alavesa estate in Elciego, founded in 1858 by Guillermo Hurtado de Amézaga and among the first to bottle Rioja, in 1862. Frank Gehry’s hotel opened in 2006 and the City of Wine was named World’s Best Vineyard in 2024; the range includes Reserva, Gran Reserva and Barón de Chirel.
 

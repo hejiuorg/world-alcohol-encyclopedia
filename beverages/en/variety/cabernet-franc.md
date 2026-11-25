@@ -101,7 +101,7 @@ Thinner skins make it more sensitive to grey rot and leave a shorter picking win
 
 Core regions include Bordeaux's Right Bank (Saint-Émilion and Pomerol) and the Loire Valley (Chinon, Bourgueil, Saumur-Champigny) in [France](ref:france). In Bordeaux it is often blended with Merlot, adding aroma and structure; in the Loire it is often a varietal wine, fresher and more herbal and mineral.
 
-Italy, Hungary, the United States and South America also plant it, mostly for blends or locally styled varietal wines. Styles vary widely: cool regions give more herbal, higher-acid wines, while warm regions give more fruit and body. Region pages describe geography and rules; this page describes the variety's potential only.
+Italy, Hungary, the United States and South America also plant it, mostly for blends or locally styled varietal wines. Styles vary widely: cool regions give more herbal, higher-acid wines, while warm regions give more fruit and body. Region pages describe geography and rules; this variety describes the variety's potential only.
 
 ## Typical flavours
 
@@ -113,13 +113,13 @@ Compared with Cabernet Sauvignon, Cabernet Franc is usually lighter, more aromat
 
 [Cheval Blanc](ref:cheval-blanc) is one of the best-known expressions of Cabernet Franc, a blend built on Cabernet Franc and Merlot that shows the variety's depth and ageing potential on the Right Bank. Chinon and Bourgueil in the Loire are known for varietal wines with a high share of Cabernet Franc and a fresher style.
 
-The same variety differs clearly between Bordeaux and the Loire: the former relies on clay and blending for structure and suppleness, the latter on a cool climate and varietal wine to highlight aroma and acidity. This page describes potential; wine pages record the blending ratios and winemaking of individual estates.
+The same variety differs clearly between Bordeaux and the Loire: the former relies on clay and blending for structure and suppleness, the latter on a cool climate and varietal wine to highlight aroma and acidity. This variety describes potential; wine pages record the blending ratios and winemaking of individual estates.
 
 ## Viticulture
 
 The difficulty with Cabernet Franc is ripeness control and disease management. It ripens early and suits cool regions, but thin skins make it more sensitive to grey rot; in wet years the picking window can be short, requiring a trade-off between sugar, acidity and fruit health.
 
-High yields dilute aroma and increase green pepper; yield control and canopy management improve ripeness. Specific parameters vary by region and estate, and this page gives no universal figures; appellation rules and estate information govern.
+High yields dilute aroma and increase green pepper; yield control and canopy management improve ripeness. Specific parameters vary by region and estate, and this variety gives no universal figures; appellation rules and estate information govern.
 
 ## Common misconceptions
 

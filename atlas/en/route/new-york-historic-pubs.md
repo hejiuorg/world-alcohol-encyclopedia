@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:new-york-historic-pubs
 source_lang: zh
-source_revision: sha256:59337b953f98f73ffdc1e4538452c68319a5a7ca2d5905e0a953a81cef034d8e
-source_sha256: 59337b953f98f73ffdc1e4538452c68319a5a7ca2d5905e0a953a81cef034d8e
+source_revision: sha256:6483d1a8da59251a41c8d78ff750f6d604d3a798da1de079e8df7ab1cff4cf72
+source_sha256: 6483d1a8da59251a41c8d78ff750f6d604d3a798da1de079e8df7ab1cff4cf72
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -109,6 +109,15 @@ This route links three old pubs in lower Manhattan: McSorley's Old Ale House in 
 
 Figure: Related photograph of New York historic pubs: East Village to Gramercy. Image: Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:86_Bedford_Street_door_to_Chumley%27s.jpg)).
 
+> **Quick verdict**
+> **In one line:** This route helps you plan New York historic pubs: East Village to Gramercy, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning New York historic pubs: East Village to Gramercy into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: McSorley's Old Ale House, 15 E 7th St, New York, NY 10003, opened in 1854 by the Irish immigrant John McSorley.
+>   - Why go: this is the most single-minded stop on the route.
+
 ## Route overview
 
 - Stop one: [McSorley's Old Ale House](ref:mcsorleys), 15 E 7th St, New York, NY 10003, opened in 1854 by the Irish immigrant John McSorley.
@@ -193,8 +202,8 @@ Fourth, treat the famous names as background, not a promise. Dylan Thomas's “l
 
 Fifth, keep the different claims of “oldest” apart. McSorley's calls itself the longest continuously operating pub in New York, the White Horse calls itself the second-oldest bar in New York, and Pete's calls itself the longest continuously operating restaurant and bar; each uses a different measure, so do not treat one as the only conclusion.
 
-Sixth, this page describes the structure of the route and verifiable facts only. It does not provide live opening status, a map or coordinates: the three venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
+Sixth, this route describes the structure of the route and verifiable facts only. It does not provide live opening status, a map or coordinates: the three venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 Further reading: [Alsace Grand Cru trail: Kaysersberg and Riquewihr](ref:c-extra-1), [Armagnac trail: single estates of Bas-Armagnac](ref:c-extra-2).
 
-Checked on 2026-11-08. This page describes route structure and verifiable facts only; it does not provide live opening status, a map or coordinates. The three venues' latitude and longitude remain empty in the content repository because no verifiable coordinate source was found, so the project rule is not to draw a schematic map. The East Village to Gramercy order is a reading order; use a live map and on-site signs for navigation.
+Checked on 2026-11-08. This route describes route structure and verifiable facts only; it does not provide live opening status, a map or coordinates. The three venues' latitude and longitude remain empty in the content repository because no verifiable coordinate source was found, so the project rule is not to draw a schematic map. The East Village to Gramercy order is a reading order; use a live map and on-site signs for navigation.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:wuliangye-wine-museum
 source_lang: zh
-source_revision: sha256:a0ce1356cbf620e400db7ca7cc4aa3b6e5feb1d3e99fd30910eb9022738ccbb7
-source_sha256: a0ce1356cbf620e400db7ca7cc4aa3b6e5feb1d3e99fd30910eb9022738ccbb7
+source_revision: sha256:4ba4a2cd4c93aebf5871ba63b833a1f179e69f980a3e76012a8520a020573f6d
+source_sha256: 4ba4a2cd4c93aebf5871ba63b833a1f179e69f980a3e76012a8520a020573f6d
 translation_status: reviewed
 subtype: museum
 address: 150 Minjiang West Road, Cuiping District, Yibin, Sichuan, China
@@ -93,9 +93,24 @@ verification_scope: source-verified
 
 The Wuliangye Wine Museum stands inside the Wuliangye plant at 150 Minjiang West Road in Cuiping District, Yibin, Sichuan. Its official name is the Wuliangye Wine Culture Exhibition Hall. It was founded in March 1988, covers about 2,400 square metres, and both the company and the municipal government describe it as China's earliest liquor-culture museum. After a upgrade in July 2022 it was reorganised into five galleries — brand, craft, history, development and planning — and now serves as the first stop on the industrial-tourism route through the "ten-li liquor city".
 
+> **Visit information**
+> - Address: 150 Minjiang West Road, Cuiping District, Yibin, Sichuan, China.
+> - Opening and booking: check the [official page](http://nb.ncha.gov.cn/museumdetail.html?msg=695e97ba55204e019622a4a0c22255c5&nianfen=2025) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
+
 ![Wuliangye Wine Museum category illustration](/media/photos/theme-asian.jpg)
 
 Figure: Wuliangye Wine Museum. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Wuliangye Wine Museum deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Wuliangye Wine Museum who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The exhibition hall was established on 3 March 1988.
+>   - Allow one to one and a half hours for the museum and two to three hours for the wider site.
 
 ## Place and history
 
@@ -133,7 +148,7 @@ Page verified 2026-11-08; opening status, prices and reservations are subject to
 
 ## Etiquette and common mistakes
 
-The first mistake is to think the "Wuliangye Wine Museum" and the "Wuliangye Wine Culture Exhibition Hall" are two places. They are two names for the same institution; the official name is the exhibition hall, and this page uses "museum" in the title while keeping the official name in the aliases. Second, Wuliangye is a strong-aroma baijiu, not a sauce-aroma spirit; do not confuse its process with Moutai's. Third, free admission does not mean no booking; the plant still has security and production rules.
+The first mistake is to think the "Wuliangye Wine Museum" and the "Wuliangye Wine Culture Exhibition Hall" are two places. They are two names for the same institution; the official name is the exhibition hall, and this entry uses "museum" in the title while keeping the official name in the aliases. Second, Wuliangye is a strong-aroma baijiu, not a sauce-aroma spirit; do not confuse its process with Moutai's. Third, free admission does not mean no booking; the plant still has security and production rules.
 
 The fourth mistake is to treat the ancient pits as merely old buildings. Their value lies in the microbial community in the pit mud and the continuity of use; older pits have a more stable ecology. Do not touch the mud or throw anything into a pit. Fifth, baijiu is usually around 52% alcohol; taste in small sips, do not drink on an empty stomach, and never drive afterwards.
 

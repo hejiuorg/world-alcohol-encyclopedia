@@ -104,6 +104,15 @@ verification_scope: source-verified
 
 图：威廉姆斯-塞莱姆酒庄。摄影：File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg。署名：Sarah Stierch，CC BY 4.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=44884501)）。
 
+> **先给结论**
+> **一句话：** 这页判断威廉姆斯-塞莱姆酒庄值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去威廉姆斯-塞莱姆酒庄、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 威廉姆斯-塞莱姆的参观必须预约，而且名额很少；常见形式是坐下来的品鉴，由酒庄团队带你喝当前 release 的几款酒，偶尔有 library 年份。
+>   - 威廉姆斯-塞莱姆是小型生产者的品鉴室，不是大型酒庄的游客中心。
+
 ## 1979–2025：威廉姆斯-塞莱姆酒庄的历史节点
 威廉姆斯-塞莱姆位于索诺马县俄罗斯河谷，酒庄在 7227 Westside Road，希尔兹堡以西。Burt Williams 白天在《旧金山纪事报》做印刷工，Ed Selyem 在 Speer’s Market 做葡萄酒采购与会计；两人都爱勃艮第，却买不起太多好酒，于是决定自己试。1979 年，他们用 Martinelli 家族 Jackass Hill 的仙粉黛在 Burt 家的车库里开酿，把一个改装过的奶罐当发酵槽，酒庄最初叫 Hacienda del Rio。
 

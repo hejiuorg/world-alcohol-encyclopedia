@@ -65,7 +65,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this process.
 verification_scope: source-verified
 applies_to_refs:
   - drink-style:wine

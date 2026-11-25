@@ -100,9 +100,9 @@ verification_scope: source-verified
 
 入口（sipping）是品鉴的核心动作：取少量酒液，让它在口腔内铺开，用几秒钟判断甜度、酸度、酒体、单宁、酒精与余味。它与日常“喝一口”不同，重点不在解渴，而在收集可比较的感官信息。
 
-![入口 类型示意图](/media/photos/theme-beer.jpg)
+![入口 类型示意图](/media/figures/specific/technique-sipping.svg)
 
-图：入口 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是入口的实拍。
+图：入口 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

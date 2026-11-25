@@ -93,6 +93,15 @@ verification_scope: source-verified
 
 图：高脚广口杯。图片：Anonymous ( Germany ) Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:German_-_Chalice_with_Saints_and_Scenes_from_the_Life_of_Christ_-_Walters_44116.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断高脚广口杯为什么影响香气，以及该配什么酒。
+>
+> - **适合谁：** 想弄懂高脚广口杯为什么影响香气与口感的人。
+> - **不适合谁：** 只想要“买最贵杯子”的结论、不关心酒款匹配的人。
+> - **先看这两点：**
+>   - 香气分子从液面挥发后，会进入杯腹上方的空腔。
+>   - goblet 的结构可以拆成三部分：杯腹、杯梗、杯脚。
+
 ## 杯腹宽、杯口开，它到底适合什么
 
 goblet 的结构可以拆成三部分：杯腹、杯梗、杯脚。杯腹通常呈半球形或 U 形，最宽处接近杯口；杯口直径大，多数款式不做明显内收；杯梗较短，杯脚直径与杯腹大致匹配。杯壁往往比精致葡萄酒杯厚，杯口边缘也偏圆润。

@@ -15,8 +15,8 @@ legacy_refs: []
 translation_of: region:martinique
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5157e6f02ef32318a0423dbb17fdeb51cf188cd0f92edfaa8ee0013483fa8055
-source_sha256: 5157e6f02ef32318a0423dbb17fdeb51cf188cd0f92edfaa8ee0013483fa8055
+source_revision: sha256:7bc236e7ba90ad3ed5820ac8507b2961c9ddd3eb15140badea600874ffaaea48
+source_sha256: 7bc236e7ba90ad3ed5820ac8507b2961c9ddd3eb15140badea600874ffaaea48
 aliases:
   - Martinique
   - Martinique rhum agricole
@@ -81,7 +81,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against French INAO, the 1996 AOC decree, EU spirit-drink regulations and reference works; no source text is copied. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. This page uses no third-party images. AOC detail follows the current INAO text.
+  note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. This region uses no third-party images. AOC detail follows the current INAO text.
 verification_scope: source-verified
 ---
 
@@ -92,6 +92,15 @@ Martinique is a French island in the Lesser Antilles, between Dominica and Saint
 ![Martinique image](/media/photos/region-martinique-d34850a0.jpg)
 
 Figure: Martinique. Image: ESA/NASA, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Martinique-de-haut_(cropped).jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Martinique for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Martinique with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Cane arrived in Martinique around 1640, and the island long depended on sugar; distilling was first a way of using molasses and sugar-factory by-products.
+>   - Martinique is an overseas department of France with the code MQ, treated here as a province-level region under France.
 
 ## Island and geography
 

@@ -86,7 +86,7 @@ Figure: Guizhou Dongjiu Co., Ltd.. Photograph: File:Vertreter der vier Baijiu Ka
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. Registry information gives the registered address as Yangfan Road, Donggongsi town, Huichuan District, Zunyi, and the registration date as 10 October 1994. Name, shareholders and registered capital change with restructuring, so this page does not treat any single point in time as final.
+This producer records the producer layer: company name, registered place, founding date and organisational form. Registry information gives the registered address as Yangfan Road, Donggongsi town, Huichuan District, Zunyi, and the registration date as 10 October 1994. Name, shareholders and registered capital change with restructuring, so this producer does not treat any single point in time as final.
 
 When discussing "Dongjiu", first establish whether the subject is the joint-stock company, the distillery, the brand or a bottle. In company history, "resuming production", "winning at a liquor evaluation" and "restructuring" are events of different kinds and cannot be merged into one founding year.
 
@@ -124,7 +124,7 @@ At the third, fourth and fifth national liquor evaluations in 1979, 1984 and 198
 
 ## Visiting
 
-The company is in Donggongsi town, Huichuan District, Zunyi. Opening arrangements for plant tours and drinks-culture displays depend on the operator's current official notices. This page does not provide unverified booking numbers, ticket prices or travel guides and does not recommend following old guides to the site.
+The company is in Donggongsi town, Huichuan District, Zunyi. Opening arrangements for plant tours and drinks-culture displays depend on the operator's current official notices. This producer does not provide unverified booking numbers, ticket prices or travel guides and does not recommend following old guides to the site.
 
 ## Common misconceptions
 

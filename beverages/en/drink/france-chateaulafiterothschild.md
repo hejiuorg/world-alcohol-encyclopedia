@@ -120,7 +120,7 @@ Store away from sharp temperature swings, strong light and vibration; a constant
 
 ## Common misconceptions
 
-First, treating every "Lafite" as the grand vin. Only the wine labelled Château Lafite Rothschild is the subject of this page; the second wine and other portfolio wines are different.
+First, treating every "Lafite" as the grand vin. Only the wine labelled Château Lafite Rothschild is the subject of this entry; the second wine and other portfolio wines are different.
 Second, treating the 1855 classification as a permanent quality guarantee. It is a historical classification, and a given vintage still depends on climate and winemaking.
 Third, assuming more new oak means a better wine. Oak serves balance and is not a standalone quality marker.
 Fourth, generalising the estate from one vintage. Lafite spans centuries, and vintages vary enormously.

@@ -120,7 +120,7 @@ Fourth, wine policy remained entangled with ritual language. The classical autho
 
 First, the Book of Han is extremely brief. The annals of Emperor Wu give only 'first que wine monopoly', without saying who ran it, how prices were set or how state workshops were organised; the record alone cannot reconstruct the system.
 
-Second, whether 'abolishing the monopoly officials' meant ending the monopoly entirely is disputed. Some stress that 'permission to declare for tax by law' shows a shift to taxation; others hold that state trading continued in places. The sources lack the detail for a verdict, and this page does not take sides.
+Second, whether 'abolishing the monopoly officials' meant ending the monopoly entirely is disputed. Some stress that 'permission to declare for tax by law' shows a shift to taxation; others hold that state trading continued in places. The sources lack the detail for a verdict, and this essay does not take sides.
 
 Third, the annotations of Ying Shao and Wei Zhao are Han-Wei interpretations, not contemporaneous archives. Ying Shao's 'not contending for profit with the realm' carries a moral judgement, and Wei Zhao's 'wooden bridge across water' is a word gloss; neither is the text of the policy.
 

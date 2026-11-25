@@ -154,7 +154,7 @@ Read [China](ref:china) for the geographic boundary side of Jimo, and [Jimo Laoj
 
 **Sources and limits.** The key claims about Jimo are checked against the following sources: State Administration for Market Regulation; Standardization Administration of China (classification, sugar types and technical requirements for huangjiu; no standard text is reproduced), Jimo District People's Government of Qingdao (administrative divisions and public local profile), China Alcoholic Drinks Association (Used to check industry terms and regional descriptions; no association text is reproduced) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Jimo, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Jimo, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

@@ -7,8 +7,8 @@ slug: hurricane-glass
 title: Hurricane Glass
 translation_of: vessel:hurricane-glass
 source_lang: zh
-source_revision: sha256:8faccd144056ecda57e88fd2df7bdaf4b074ed07aa9b4b509a7e267cc860f609
-source_sha256: 8faccd144056ecda57e88fd2df7bdaf4b074ed07aa9b4b509a7e267cc860f609
+source_revision: sha256:605a308f66bac4eaf0ee1c4b68bb60617b7277a5e534d85909b404f7b4909fb4
+source_sha256: 605a308f66bac4eaf0ee1c4b68bb60617b7277a5e534d85909b404f7b4909fb4
 translation_status: reviewed
 summary: A tall glass with a slender body, a bulging middle and a flared rim, shaped like an old hurricane lamp. It is used for tropical cocktails and crushed-ice drinks.
 status: reviewed
@@ -60,7 +60,7 @@ sources:
     accessed: 2026-11-20
   - key: iba
     title: IBA Official Cocktails — cocktail list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check tropical cocktail formulas and glass usage; no source text is reproduced.
     accessed: 2026-11-20
@@ -169,4 +169,4 @@ The shape holds crushed ice and fruit; it is standard for tropical cocktails and
 
 **Sources and limits.** The key claims about Hurricane Glass are checked against the following sources: Oxford University Press (Used to check hurricane glass and tropical cocktail history), International Bartenders Association (Used to check tropical cocktail formulas and glass usage), CocktailDB (Used to cross-check hurricane glass usage and capacity) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Hurricane Glass, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Hurricane Glass, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

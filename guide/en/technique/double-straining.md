@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:double-straining
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b73128fe1c724ce96c70256155276c21315fa7b8728aba7d8ff6f85cfa97cb23
-source_sha256: b73128fe1c724ce96c70256155276c21315fa7b8728aba7d8ff6f85cfa97cb23
+source_revision: sha256:6edc9c459a9624d556b3d22d9fa5b116e178087a0e4ce18d79f4adcbde450f1e
+source_sha256: 6edc9c459a9624d556b3d22d9fa5b116e178087a0e4ce18d79f4adcbde450f1e
 applies_to_refs:
   - cocktail:cosmopolitan
   - cocktail:paper-plane
@@ -51,7 +51,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check shaken cocktails and straining practice; no source text is reproduced.
     accessed: 2026-11-07
@@ -80,12 +80,12 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 # Double straining
 
-Double straining means passing a drink through two strainers in sequence. The first is usually the shaker's built-in strainer or a conical strainer, which holds back ice, large pieces of fruit and herb fragments; the second is a fine mesh, which catches smaller particles, fruit fibre and ice shards. It does not change the recipe, but it clearly changes texture and appearance.![Double straining thematic illustration](/media/photos/theme-beer.jpg)
+Double straining means passing a drink through two strainers in sequence. The first is usually the shaker's built-in strainer or a conical strainer, which holds back ice, large pieces of fruit and herb fragments; the second is a fine mesh, which catches smaller particles, fruit fibre and ice shards. It does not change the recipe, but it clearly changes texture and appearance.![Double straining thematic illustration](/media/figures/specific/technique-double-straining.svg)
 
 Figure: thematic illustration for Double straining. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

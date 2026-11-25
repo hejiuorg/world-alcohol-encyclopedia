@@ -94,9 +94,9 @@ verification_scope: source-verified
 
 开瓶是把软木塞从瓶口完整取出、同时避免碎屑落入酒液的动作。它看起来只是力气活，实际上考验的是工具选择、螺旋位置与提拉节奏。开瓶失败最常见的结果不是“打不开”，而是塞子断裂、碎屑落入酒中，或瓶身被晃动后沉淀扬起。
 
-![开瓶（软木塞） 类型示意图](/media/photos/theme-beer.jpg)
+![开瓶（软木塞） 类型示意图](/media/figures/specific/technique-opening-cork.svg)
 
-图：开瓶（软木塞） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是开瓶（软木塞）的实拍。
+图：开瓶（软木塞） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

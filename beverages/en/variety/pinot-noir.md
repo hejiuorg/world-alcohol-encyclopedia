@@ -144,7 +144,7 @@ A frequent error is to treat Pinot Noir as the name of a wine. Establish what it
 
 **Sources and limits.** The key claims about Pinot Noir are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check varietal descriptors and the Vitis species framework), Oxford University Press (Used for reference on Pinot Noir viticulture, regions and Champagne blending; Migrated from the former reference list at the end of the article; access date not re-verified), INAO (Used to check how varieties correspond to regions under the French appellation system). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Pinot Noir, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Pinot Noir, this variety was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

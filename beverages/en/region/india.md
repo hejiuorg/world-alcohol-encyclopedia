@@ -152,7 +152,7 @@ Indian whisky is a broad category that includes molasses-based spirit, grain whi
 
 **Sources and limits.** The key claims about India are checked against the following sources: Food Safety and Standards Authority of India (India's alcohol-beverage regulations on whisky categories, labelling and alcohol strength), Amrut Distilleries (Amrut's single-malt products, ingredients and tropical-ageing account in Bangalore), John Distilleries (Paul John's single-malt products, ingredients and no-additives/non-chill-filtered description in Goa) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For India, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For India, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 
@@ -163,4 +163,4 @@ One more point is often missed: Indian “single malt” does not automatically 
 A bottle can be mass-market and still well made; judge the liquid and the label together, not the price band alone.
 
 - Related: [scotland](ref:scotland), [whisky](ref:whisky), [barley](ref:barley), [distillation](ref:distillation), [terroir](ref:terroir).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.

@@ -5,7 +5,7 @@ type: article
 lang: en
 slug: baijiu-aroma-systems
 title: "Baijiu aroma systems: how to read strong, light, sauce and rice aromas"
-summary: Aroma type is the baijiu trade's vocabulary for describing a style of aroma and a tradition of craft, not a ranking of quality. This article explains where the idea came from, which processes and compounds shape it, and what to read on a label.
+summary: Aroma type is the baijiu trade's vocabulary for describing a style of aroma and a tradition of craft, not a ranking of quality. This essay explains where the idea came from, which processes and compounds shape it, and what to read on a label.
 status: reviewed
 revision: 2
 translation_of: culture-article:baijiu-aroma-systems
@@ -75,7 +75,7 @@ sources:
     title: Encyclopaedia Britannica
     url: https://www.britannica.com/
     publisher: Encyclopaedia Britannica
-    note: General background reference for distilled spirits and fermented drinks; no entry text is quoted on this page.
+    note: General background reference for distilled spirits and fermented drinks; no entry text is quoted on this essay.
     accessed: 2026-11-07
   - key: sac
     title: 国家标准化管理委员会
@@ -87,7 +87,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the national standards portal, the China Alcoholic Drinks Association and public encyclopaedia material, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standard texts, corporate trademarks, product images and advertising copy are not covered by this licence; aroma categories and labelling requirements follow official standards and the product label. No third-party images are used on this page.
+  note: Third-party standard texts, corporate trademarks, product images and advertising copy are not covered by this licence; aroma categories and labelling requirements follow official standards and the product label. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 
@@ -133,7 +133,7 @@ First, treating an aroma type as a quality grade. It describes style and craft t
 
 The aroma system has three main areas of dispute. The first is scientific boundary: flavour chemistry can measure differences in compounds, but it is hard to quantify “style” completely, and cross-type or mixed-aroma products blur the lines further. The second is history and the market: industry judging, local brands and consumer memory together made certain aroma types famous, and fame is not universal relevance. The third is standards and labels: different standards set different requirements for terms, measures and declarations, and the specific clauses should follow the official text.
 
-This page therefore offers a framework for understanding, not an absolute rule about what a given aroma type “must” be. Questions of quality, vintage, grade and execution standard for a specific product belong to the label and the official standard. If you use aroma type as a buying guide, consider it together with region, process, alcohol content and your own taste.
+This essay therefore offers a framework for understanding, not an absolute rule about what a given aroma type “must” be. Questions of quality, vintage, grade and execution standard for a specific product belong to the label and the official standard. If you use aroma type as a buying guide, consider it together with region, process, alcohol content and your own taste.
 
 ## How to use it
 

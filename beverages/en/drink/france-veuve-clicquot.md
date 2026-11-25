@@ -5,7 +5,7 @@ type: drink
 lang: en
 slug: france-veuve-clicquot
 title: Veuve Clicquot
-summary: A Champagne house founded in Reims in 1772, taken over in 1805 by the twenty-seven-year-old widow Barbe-Nicole Ponsardin and known for perfecting the riddling table in 1816; this page explains the Yellow Label blend, La Grande Dame and the house's Pinot Noir frame.
+summary: A Champagne house founded in Reims in 1772, taken over in 1805 by the twenty-seven-year-old widow Barbe-Nicole Ponsardin and known for perfecting the riddling table in 1816; this entry explains the Yellow Label blend, La Grande Dame and the house's Pinot Noir frame.
 status: reviewed
 revision: 3
 translation_of: drink:france-veuve-clicquot
@@ -180,13 +180,13 @@ Chill to 8–10°C and use a tulip-shaped or white-wine glass. Yellow Label work
 - [Alcohol by volume](ref:abv): the roughly 12% figure.
 - [Moët](ref:moet): the most direct stylistic reference within the same group.
 
-**In brief:** A Champagne house founded in Reims in 1772, taken over in 1805 by the twenty-seven-year-old widow Barbe-Nicole Ponsardin and known for perfecting the riddling table in 1816; this page explains the Yellow Label blend, La Grande Dame and the house's Pinot Noir frame.
+**In brief:** A Champagne house founded in Reims in 1772, taken over in 1805 by the twenty-seven-year-old widow Barbe-Nicole Ponsardin and known for perfecting the riddling table in 1816; this entry explains the Yellow Label blend, La Grande Dame and the house's Pinot Noir frame.
 
 **Key facts.**
 
 | Item | Detail |
 | --- | --- |
-| In one line | A Champagne house founded in Reims in 1772, taken over in 1805 by the twenty-seven-year-old widow Barbe-Nicole Ponsardin and known for perfecting the riddling table in 1816; this page explains the Yellow Label blend, La … |
+| In one line | A Champagne house founded in Reims in 1772, taken over in 1805 by the twenty-seven-year-old widow Barbe-Nicole Ponsardin and known for perfecting the riddling table in 1816; this entry explains the Yellow Label blend, La … |
 | Style | Sparkling wine |
 | Region | France、Champagne |
 | Producer or brand | LVMH |

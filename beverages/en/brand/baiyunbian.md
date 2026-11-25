@@ -110,7 +110,7 @@ Baiyunbian is a [mixed-aroma baijiu](ref:mixed-aroma) brand from Songzi, Hubei, 
 
 ![Baiyunbian photograph](/media/photos/q2-brand-baiyunbian-7a023cf2.jpg)
 
-Figure: Baiyunbian. Photograph: 一款白云边酒. Credit: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=196443757)).
+Figure: Baiyunbian. Photograph: a bottle of Baiyunbian. Credit: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=196443757)).
 
 ## The brand name: a product of a Tang poem
 
@@ -158,7 +158,7 @@ Packaging also creates misjudgement: a bigger box or more gold does not mean a b
 
 The core market is Hubei, with Songzi and Jingzhou as the home market and Wuhan and the Jianghan Plain as priorities. Channels are mainly distributors, tobacco-and-liquor shops and banquet group purchases, with supermarkets and e-commerce as supplements. The brand is highly visible in local banquet markets.
 
-Outside the province, Baiyunbian enters through its mixed-aroma difference but faces national names and local brands. Public material does not disclose provincial sales shares, and this page does not speculate.
+Outside the province, Baiyunbian enters through its mixed-aroma difference but faces national names and local brands. Public material does not disclose provincial sales shares, and this brand does not speculate.
 
 ## Honours and reputation
 

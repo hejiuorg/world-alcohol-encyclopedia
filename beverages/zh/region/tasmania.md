@@ -103,6 +103,15 @@ verification_scope: source-verified
 
 图：Tasmania：Stefano Lubiana Wines Tasmania harvest panorama（Wikimedia Commons）。图片：Mark Smith，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Stefano_Lubiana_Wines_Tasmania_harvest_panorama.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断塔斯马尼亚的风味与旅行价值，以及怎么安排。
+>
+> - **适合谁：** 正在比较塔斯马尼亚与其他产区、准备买酒或安排旅行的人。
+> - **不适合谁：** 只想要“哪个产区最贵”的结论、不关心风格和年份的人。
+> - **先看这两点：**
+>   - 酒标上的“Tasmania”是 GI；塔玛谷、皮珀斯河、东海岸这类片区名属于行业习惯划分，不是独立 AOC；再往下是单一园与酒款系列。
+>   - 朗塞斯顿是塔玛谷与皮珀斯河方向的门户，霍巴特是德文特谷、煤炭河谷与胡恩海峡方向的门户，两城车程约两到三小时。
+
 ## 先划清「塔斯马尼亚」的边界
 塔斯马尼亚本身是一个完整地理标志（GI），面积约 68,582 平方公里，注册葡萄园约 2,084 公顷，海拔从海岸线到 1,264 米。酒标上的“Tasmania”指岛屿整体；七个种植片区是行业习惯划分，不是独立法定次产区。买酒时先分清“岛产”与“片区”两层，比把产区名当成风味标签更可靠。
 

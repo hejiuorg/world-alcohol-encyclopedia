@@ -84,7 +84,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA 官方鸡尾酒名单
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 官方鸡尾酒名单；未复制原文。
     accessed: 2026-11-07
@@ -106,9 +106,9 @@ verification_scope: source-verified
 
 这是[玛格丽特](ref:cocktail)的一个有明确出处的配方版本。玛格丽特的结构是“烈酒 + 橙皮酒 + 鲜榨酸”，酸甜比例决定它是否成立；盐边不是装饰口号，而是风味结构的一部分。本页记录 IBA 的公开版本，并把酸甜、摇和与盐边讲清楚。
 
-![玛格丽特配方（IBA 版本） 类型示意图](/media/photos/theme-ingredients.jpg)
+![玛格丽特配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-margarita.svg)
 
-图：玛格丽特配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是玛格丽特配方（IBA 版本）的实拍。
+图：玛格丽特配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 这是一份有出处的配方
 

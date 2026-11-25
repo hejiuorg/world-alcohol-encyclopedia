@@ -131,7 +131,7 @@ Raw-material handling shapes potato vodka more than the word “potato”. High-
 ## Further reading and see also
 
 - Related: [vodka](ref:vodka), [distillation](ref:distillation), [barley](ref:barley), [terroir](ref:terroir), [fermentation](ref:fermentation).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This ingredient offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **Short definition:** Potato is a tuber of the nightshade family, rich in starch and water, and the core material for potato vodka in Poland, Germany, Sweden and Eastern Europe; it is usually rounder and slightly sweeter than grain vodka and naturally gluten-free. 
 
@@ -155,4 +155,4 @@ Potato vodka is typically rounder and slightly sweeter than grain vodka, and it 
 
 **Sources and limits.** The key claims about Potato are checked against the following sources: FAO (crop, production-region and processing background), USDA (agricultural, botanical and nutritional material), CGIAR (crop germplasm and agricultural research frameworks) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Potato, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Potato, this ingredient was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

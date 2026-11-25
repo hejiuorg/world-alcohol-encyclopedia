@@ -120,7 +120,7 @@ The address is Glenfiddich Distillery, Dufftown, Keith AB55 4DH, Scotland. By ca
 
 Tours should be booked in advance through the official site, especially from May to September and at weekends; off-season walk-ins may be possible but are not guaranteed. Confirm the session time, length, whether a tasting is included, the age policy and the meeting point. Different packages cover different areas: some stay around the warehouse and tasting room, others go through the full production line. Floors are wet and stairs are common, so wear grippy shoes and bring a layer for the cold buildings. Visitors with mobility needs or children should ask about the route and age rules first.
 
-Opening hours, prices and schedules change with the season. This page was checked on 2026-11-08; confirm on the official site before travelling. There is parking and a shop on site, and Dufftown has small restaurants and guesthouses that fill up in high season. If this is the first stop on a Speyside route, book a morning session and leave room for Craigellachie and Ballindalloch in the afternoon.
+Opening hours, prices and schedules change with the season. This entry was checked on 2026-11-08; confirm on the official site before travelling. There is parking and a shop on site, and Dufftown has small restaurants and guesthouses that fill up in high season. If this is the first stop on a Speyside route, book a morning session and leave room for Craigellachie and Ballindalloch in the afternoon.
 
 ## Etiquette and around
 

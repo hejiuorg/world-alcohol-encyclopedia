@@ -82,7 +82,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against style guidelines, industry association material, brewery public information and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Pilsner
@@ -155,7 +155,7 @@ Pilsner is a pale lager from Plzeň, Czechia, with soft water, noble hops and a 
 
 **Sources and limits.** The key claims about Pilsner are checked against the following sources: Beer Judge Certification Program (the strength, bitterness and colour ranges of Czech Premium Pale Lager; no original text is reproduced), Brewers Association (public industry statements on pale lager and style naming; no original wording is reproduced), Plzeňský Prazdroj (public information on the 1842 origin, Plzeň water and hops; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Pilsner, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Pilsner, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

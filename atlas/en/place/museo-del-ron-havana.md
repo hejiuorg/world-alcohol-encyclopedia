@@ -103,7 +103,7 @@ Figure: Related photograph of Museo del Ron Havana Club. Image: Antonio Bermudez
 
 The museum stands on the harbour-side avenue in the north of Old Havana, a short walk from the Plaza de San Francisco area. The building is a classic colonial mansion: thick walls, tall windows, a courtyard and arcades, with a yellow façade that is easy to spot from the street. Exhibits are spread across several rooms, so the visit moves constantly between interior galleries and open spaces; that rhythm is part of the exhibit, since this is not a new hall filled with bottles but an old house telling an old industry's story.
 
-This page fixes no coordinates; use official channels for the exact location. Sources give the address as both 262 and 162; this page follows Havana Club's official site and the 2026 Agencia Cubana de Noticias report, which give 262. Check the door number and an official map on arrival. The museum sits in a walkable part of the old city, so wear comfortable shoes and do not overfill the day.
+This entry fixes no coordinates; use official channels for the exact location. Sources give the address as both 262 and 162; this entry follows Havana Club's official site and the 2026 Agencia Cubana de Noticias report, which give 262. Check the door number and an official map on arrival. The museum sits in a walkable part of the old city, so wear comfortable shoes and do not overfill the day.
 
 ## Opening in 2000 and the Role of Havana Club
 

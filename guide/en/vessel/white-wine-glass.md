@@ -169,4 +169,4 @@ A smaller bowl than a red-wine glass keeps the wine cool and concentrates the ar
 
 **Sources and limits.** The key claims about White Wine Glass are checked against the following sources: Oxford University Press (Used to check glass shapes, aroma and tasting background), Encyclopaedia Britannica (Used to check general wine tasting and service background), Corning Museum of Glass (Used to check glass forms and craft background) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For White Wine Glass, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For White Wine Glass, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

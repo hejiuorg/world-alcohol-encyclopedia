@@ -11,8 +11,8 @@ revision: 1
 translation_of: cocktail:bees-knees
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:33159400585c897ccb6e91ed036dda1c75003d87167caf08ded8a62eba9045de
-source_sha256: 33159400585c897ccb6e91ed036dda1c75003d87167caf08ded8a62eba9045de
+source_revision: sha256:7b3c0e53b84008c4276c51f2b8c5eaece53d589d20714a0103bc7ee5565a430a
+source_sha256: 7b3c0e53b84008c4276c51f2b8c5eaece53d589d20714a0103bc7ee5565a430a
 style: Classic cocktail
 ingredient_refs: []
 origin_place: Prohibition-era United States (as the setting); often traced to Frank Meier at the Ritz in Paris
@@ -96,6 +96,15 @@ The Bee's Knees is a classic cocktail of gin, lemon juice and honey syrup. It be
 
 Figure: Bee's Knees. Image: Will Shenton, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bee%27s_Knees.jpg)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Bee's Knees, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Bee's Knees.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - Order a Bee's Knees with gin, and ask for the honey syrup not to be too sweet.
+>   - The drink is usually placed in the context of American Prohibition, which ran from 1920 to 1933.
+
 ## A "good thing" from the Prohibition years
 
 The drink is usually placed in the context of American Prohibition, which ran from 1920 to 1933. During those years the legal supply of spirits was uneven and homemade gin was often rough and harsh; honey and lemon did more than taste good, they covered the edges of poor liquor. That explanation is widely repeated and sounds plausible, but it should be handled carefully: it is a later rationalisation, not a recipe note left by the people who drank it. Honey had been used in drinks before Prohibition; what Prohibition did was make the combination of sweet, citrus and spirit more popular.
@@ -112,7 +121,7 @@ That style of naming also suited Prohibition: it sounded harmless, funny and a l
 
 The most common attribution credits Frank Meier. He was an Austrian-born bartender who served as head bartender at the Ritz in Paris in the 1920s and later wrote his own recipe book. Supporters of the story say that Meier created the Bee's Knees in Paris and that it travelled back to the United States; others argue that it was an American Prohibition-era drink to which a famous bartender's name was later attached.
 
-The problem is that no uncontested 1920s recipe book records a "Frank Meier original Bee's Knees". Meier did work at the Ritz and did record a great many cocktails, but "he invented this drink" and "this drink was served in his bar" are different claims. This page therefore says "often traced to", does not treat the Ritz as the single birthplace and does not fix a specific year.
+The problem is that no uncontested 1920s recipe book records a "Frank Meier original Bee's Knees". Meier did work at the Ritz and did record a great many cocktails, but "he invented this drink" and "this drink was served in his bar" are different claims. This cocktail therefore says "often traced to", does not treat the Ritz as the single birthplace and does not fix a specific year.
 
 The distinction has practical value. A Bee's Knees ordered in Paris may be made in a drier European style; one ordered in New York may be sweeter and more honey-forward. The same name carrying different versions in different cities is not a mistake but a normal result of transmission.
 

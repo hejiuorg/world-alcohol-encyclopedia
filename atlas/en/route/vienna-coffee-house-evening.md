@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:vienna-coffee-house-evening
 source_lang: zh
-source_revision: sha256:7bbbd74db5efa1fcad83c1d75a4eba14a511b03815601b58ba584acda24b1614
-source_sha256: 7bbbd74db5efa1fcad83c1d75a4eba14a511b03815601b58ba584acda24b1614
+source_revision: sha256:c304541dcf870b110034d3f9791868c2764db6d34238408d7241435a26e3d722
+source_sha256: c304541dcf870b110034d3f9791868c2764db6d34238408d7241435a26e3d722
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -100,6 +100,15 @@ This route has only two stops, yet it sets two kinds of Viennese coffee house si
 
 Figure: The vaulted hall of Café Central in Vienna, with chandeliers and seating beneath the marble columns. Image: Andreas Praefcke, CC BY 3.0, via [source page](https://commons.wikimedia.org/wiki/File:Wien_Cafe_Central_2004.jpg).
 
+> **Quick verdict**
+> **In one line:** This route helps you plan Vienna coffee-house evening: Café Central to Café Sperl, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Vienna coffee-house evening: Café Central to Café Sperl into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Café Central, Herrengasse 14, 1010 Wien, opened in 1876, on the ground floor of the Palais Ferstel.
+>   - Café Central represents the arcade hall.
+
 ## Route overview
 
 - Stop one: [Café Central](ref:central), Herrengasse 14, 1010 Wien, opened in 1876, on the ground floor of the Palais Ferstel; as checked on 8 November 2026 it was closed for a comprehensive renovation, with reopening scheduled for autumn 2026 but no confirmed date.
@@ -175,6 +184,6 @@ Third, separate history from original fabric. Café Central closed in the mid-20
 
 Fourth, treat the famous names as background. Café Central's Trotsky, Freud and writers belong to historical narrative, and “the chair where someone always sat” is mostly later legend. Sperl's Secession connection is art history too, not a statement about today's service.
 
-Fifth, this page describes the structure of the route and verifiable facts only: as checked on 8 November 2026 Café Central was still under renovation with no confirmed reopening date, and Café Sperl's hours follow its official page. The two venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
+Fifth, this route describes the structure of the route and verifiable facts only: as checked on 8 November 2026 Café Central was still under renovation with no confirmed reopening date, and Café Sperl's hours follow its official page. The two venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 Further reading: [Reading a city through its bars](ref:c-extra-1), [Time in a cup](ref:c-extra-2), [A history of drinking vessels: how the cup changed the drink](ref:c-extra-3).

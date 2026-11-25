@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对含蛋清类鸡尾酒的配方与调制方法；未复制原文。
     accessed: 2026-11-07
@@ -94,9 +94,9 @@ verification_scope: source-verified
 
 干摇（dry shake）是先不加冰摇和、再加冰进行湿摇的两段式技法。名字里的“干”指的是壶中没有冰，而不是没有液体。它主要用于含蛋清、奶油或植物蛋白的配方：先让蛋白质与空气形成泡沫，再通过加冰摇和完成冷却与稀释。
 
-![干摇 类型示意图](/media/photos/theme-beer.jpg)
+![干摇 类型示意图](/media/figures/specific/technique-dry-shaking.svg)
 
-图：干摇 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是干摇的实拍。
+图：干摇 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

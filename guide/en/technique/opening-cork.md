@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: technique:opening-cork
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0741d48b0d9a394d658882f7d0f2c0bd899d6049eed20edae32c5f15387136ef
-source_sha256: 0741d48b0d9a394d658882f7d0f2c0bd899d6049eed20edae32c5f15387136ef
+source_revision: sha256:98bd10eff976b5d0cc8479b93998e0315f0604b2f878e571c1cb870473ac79ef
+source_sha256: 98bd10eff976b5d0cc8479b93998e0315f0604b2f878e571c1cb870473ac79ef
 applies_to_refs:
   - drink-style:wine
   - drink-style:red-wine
@@ -89,7 +89,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this technique.
 verification_scope: source-verified
 ---
 
@@ -97,7 +97,7 @@ verification_scope: source-verified
 
 Opening a bottle means removing the cork intact while keeping crumbs out of the liquid. It looks like a matter of force, but it is really about tool choice, auger placement and the rhythm of the pull. The common failure is not "cannot open it" but a broken cork, crumbs in the wine, or sediment stirred up by a shaken bottle.
 
-![Opening a cork-sealed bottle thematic illustration](/media/photos/theme-beer.jpg)
+![Opening a cork-sealed bottle thematic illustration](/media/figures/specific/technique-opening-cork.svg)
 
 Figure: thematic illustration for Opening a cork-sealed bottle. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

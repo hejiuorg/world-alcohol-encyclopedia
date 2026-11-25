@@ -120,7 +120,7 @@ Buyers should verify the grade letters, strength, volume, origin, producer and b
 
 ## Positioning and price band
 
-The brand spans a mainstream-to-premium price band: VS is often used for mixing and entry-level drinking, VSOP is the mainstay of retail and restaurant channels, XO serves high-end banquets and gifting, and series such as Paradis sit at the top for collecting. Prices vary with market, channel, tax, promotions and pack size, so this page gives no specific retail price.
+The brand spans a mainstream-to-premium price band: VS is often used for mixing and entry-level drinking, VSOP is the mainstay of retail and restaurant channels, XO serves high-end banquets and gifting, and series such as Paradis sit at the top for collecting. Prices vary with market, channel, tax, promotions and pack size, so this brand gives no specific retail price.
 
 A price band is market positioning, not a quality grade. Cognac quality depends on grape sources, [distillation](ref:distillation), [oak maturation](ref:oak) conditions and blending skill, and cannot be inferred from grade letters or price alone. Gift-pack, duty-free and standard retail versions may also differ.
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: cocktail:bloody-mary
 source_lang: zh
-source_revision: sha256:eec22008a85415b00d5105d9b271fbdbbb034d18e4edfaf016100d308793ed5b
-source_sha256: eec22008a85415b00d5105d9b271fbdbbb034d18e4edfaf016100d308793ed5b
+source_revision: sha256:a4a8ed06a53774323bf298075496e23e1f2f15d89877e1b93ff55c45649ad26c
+source_sha256: a4a8ed06a53774323bf298075496e23e1f2f15d89877e1b93ff55c45649ad26c
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -77,7 +77,7 @@ sources:
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-08

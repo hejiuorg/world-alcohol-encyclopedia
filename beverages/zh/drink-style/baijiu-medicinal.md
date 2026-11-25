@@ -66,9 +66,9 @@ verification_scope: source-verified
 
 保健酒通常指以蒸馏酒或[黄酒](ref:yellow-wine)为基酒，加入药食同源原料、可食用中药材或提取物制成的配制酒。它属于食品或保健食品范畴，不是药品。在中国，宣称保健功能需要符合保健食品的注册或备案要求，普通配制酒不得声称疾病治疗作用。
 
-![保健酒 类型示意图](/media/photos/theme-beer.jpg)
+![保健酒 类型示意图](/media/figures/specific/drink-style-baijiu-medicinal.svg)
 
-图：保健酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是保健酒的实拍。
+图：保健酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与法规边界
 

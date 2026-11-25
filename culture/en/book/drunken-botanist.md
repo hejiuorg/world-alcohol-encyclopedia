@@ -79,7 +79,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; checked against the book, the publisher's site and a library catalogue, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: The original text, illustrations, recipes and translations are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: The original text, illustrations, recipes and translations are not covered by this licence; sources are cited for verification only. No third-party images are used on this book entry.
 verification_scope: source-verified
 ---
 # The Drunken Botanist

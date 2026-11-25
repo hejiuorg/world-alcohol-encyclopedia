@@ -141,7 +141,7 @@ To study Parellada, read botanical and viticultural sources first, then taste th
 Compare Parellada, Macabeo and Xarel·lo in the same Cava blend, then a still Parellada beside a still Macabeo. Fix dosage, vintage and lees ageing so the variety’s acidity and lightness are not confused with dosage or cellar work.
 
 - Related: [xarel-lo](ref:xarello), [macabeo](ref:macabeo), [sparkling-wine](ref:sparkling), [white-wine](ref:white), [fermentation](ref:fermentation).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **At a glance:** A white grape of Penedès, Catalonia, one of Cava’s three main varieties; high in acidity, light in body, with green apple, citrus and white flowers, often blended with Xarel·lo and Macabeo for freshness.
 

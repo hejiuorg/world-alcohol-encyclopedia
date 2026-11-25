@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:jack-daniels-distillery
 source_lang: zh
-source_revision: sha256:5743df2a5da8ea09ab4949a42d6d95fc164ec0fec08a845855597dd02a0abfa3
-source_sha256: 5743df2a5da8ea09ab4949a42d6d95fc164ec0fec08a845855597dd02a0abfa3
+source_revision: sha256:aaeeb606a8465983d38435c7e2a428a788a24a7681f9dbcda3aabc230d8b2180
+source_sha256: aaeeb606a8465983d38435c7e2a428a788a24a7681f9dbcda3aabc230d8b2180
 translation_status: reviewed
 subtype: distillery-visitor
 address: 280 Lynchburg Hwy, Lynchburg, TN 37352, USA
@@ -102,6 +102,12 @@ verification_scope: source-verified
 # Jack Daniel's Distillery
 
 Jack Daniel's sits in the small town of Lynchburg, Tennessee, in Moore County. It is often treated as a synonym for American whiskey, but strictly it makes [Tennessee whiskey](ref:tnwhiskey): the grain and barrel rules are close to [bourbon](ref:bourbon), with an extra sugar-maple charcoal filtration and a requirement that the whiskey be made in Tennessee. The tour runs through the spring, charcoal area, stills and barrel houses before a tasting.
+
+> **Visit information**
+> - Address: 280 Lynchburg Hwy, Lynchburg, TN 37352, USA.
+> - Opening and booking: check the [official page](https://www.jackdaniels.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
 
 ![Jack Daniel's Distillery image](/media/photos/place-jack-daniels-distillery-1ab6c621.jpg)
 

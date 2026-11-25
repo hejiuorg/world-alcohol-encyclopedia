@@ -50,7 +50,7 @@ sources:
   - key: wang-zengqi-wuwei
     title: Food essays, including “Five Flavours”
     publisher: Included in the Complete Works of Wang Zengqi; Beijing Normal University Press
-    note: Used to check the subjects and method of the food essays; this page summarises only and does not reproduce the text.
+    note: Used to check the subjects and method of the food essays; this profile summarises only and does not reproduce the text.
     accessed: 2026-11-04
   - key: wikisource
     title: Wikisource — public-domain literary texts

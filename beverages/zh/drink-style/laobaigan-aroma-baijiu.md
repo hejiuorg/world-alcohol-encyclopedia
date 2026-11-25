@@ -107,9 +107,9 @@ verification_scope: source-verified
 
 老白干香型白酒是[白酒](ref:baijiu)香型分类中的一种，以河北衡水一带的衡水老白干为代表。国家标准 GB/T 10781.10-2024《白酒质量要求 第10部分：老白干香型白酒》于 2024-11-28 发布、2025-12-01 实施，全部代替此前的 GB/T 20825-2007。它以[高粱](ref:sorghum)为主料，常用小麦踩制的清茬曲作糖化发酵剂，并以地缸发酵与清蒸清烧为常见工艺表述。
 
-![老白干香型白酒 类型示意图](/media/photos/theme-asian.jpg)
+![老白干香型白酒 类型示意图](/media/figures/specific/drink-style-laobaigan-aroma-baijiu.svg)
 
-图：老白干香型白酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是老白干香型白酒的实拍。
+图：老白干香型白酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与标准
 

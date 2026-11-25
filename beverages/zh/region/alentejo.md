@@ -120,6 +120,15 @@ verification_scope: source-verified
 
 图：Alentejo：Alentejo September 2013-1（Wikimedia Commons）。图片：Alvesgaspar，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Alentejo_September_2013-1.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断阿连特茹的风味与旅行价值，以及怎么安排。
+>
+> - **适合谁：** 正在比较阿连特茹与其他产区、准备买酒或安排旅行的人。
+> - **不适合谁：** 只想要“哪个产区最贵”的结论、不关心风格和年份的人。
+> - **先看这两点：**
+>   - 读标先分辨 PDO 子产区名与 Alentejano PGI，再看品种、年份与生产者；Reserva 等陈酿等级在葡萄牙有法定要求。
+>   - Rota dos Vinhos do Alentejo 串联各酒庄村；经典路线从世界遗产古城埃武拉，经雷根古什-德莫萨拉斯到维迪盖拉；山城蒙萨拉斯俯瞰阿尔克瓦水库。
+
 ## 先划清「阿连特茹」的边界
 阿连特茹位于[葡萄牙](ref:portugal)中南部，北接贝拉大区，东邻西班牙，南抵阿尔加维，约占国土三分之一，辖贝雅、埃武拉、波塔莱格雷三个行政区，是葡萄牙面积最大的葡萄酒产区之一。产区酒分两级：八个 PDO（DOC）子产区——波塔莱格雷、博尔巴、雷东多、雷根古什、埃武拉、维迪盖拉、格兰雅-阿马雷莱雅、莫拉——以及覆盖全境的 Alentejano PGI（旧称 Vinho Regional Alentejano）。
 

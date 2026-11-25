@@ -99,7 +99,7 @@ Daohuaxiang is a baijiu brand from Yichang, its name taken from Xin Qiji's line 
 
 ![Daohuaxiang photograph](/media/photos/q2-brand-daohuaxiang-90a37ed6.jpg)
 
-Figure: Daohuaxiang. Photograph: 经典装稻花香酒. Credit: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=196443823)).
+Figure: Daohuaxiang. Photograph: a bottle of Daohuaxiang. Credit: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=196443823)).
 
 ## The brand name: from Song poetry to the shelf
 

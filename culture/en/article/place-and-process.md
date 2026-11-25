@@ -67,7 +67,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against OIV, the Scotch Whisky Association and the national standard, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence; standard texts and regional rules are updated, so the issuing bodies are authoritative. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence; standard texts and regional rules are updated, so the issuing bodies are authoritative. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 
@@ -135,4 +135,4 @@ So a sensible reading of a geographical indication is: first confirm what it pro
 
 ## Boundaries
 
-Terroir is a clue to understanding origin, not a guarantee of quality. Making “a taste of place” the only cause ignores craft and human choices. This page does not evaluate specific brands or provide regional rankings; for standards and regulations, the issuing body's current text is authoritative.
+Terroir is a clue to understanding origin, not a guarantee of quality. Making “a taste of place” the only cause ignores craft and human choices. This essay does not evaluate specific brands or provide regional rankings; for standards and regulations, the issuing body's current text is authoritative.

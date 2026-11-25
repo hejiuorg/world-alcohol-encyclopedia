@@ -101,9 +101,9 @@ verification_scope: source-verified
 
 闻香（nosing）是在入口之前，用鼻子判断酒的状态、香气层次与强度的技法。它比观色提供更多信息，也比入口更安全：少量挥发的香气分子就能形成判断，而不必吞下酒液。闻香的关键不是“闻得久”，而是有顺序、有记录、能复现。
 
-![闻香 类型示意图](/media/photos/theme-beer.jpg)
+![闻香 类型示意图](/media/figures/specific/technique-nosing.svg)
 
-图：闻香 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是闻香的实拍。
+图：闻香 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

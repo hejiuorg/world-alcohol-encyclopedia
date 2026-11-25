@@ -39,8 +39,8 @@ tags:
 translation_of: place:jordan-vineyard
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:45ea69a65628ee87c2c342ca686b8d7fb53a3c6dfc99ffd54a1286a819ad5c59
-source_sha256: 45ea69a65628ee87c2c342ca686b8d7fb53a3c6dfc99ffd54a1286a819ad5c59
+source_revision: sha256:6dfd643f292469432383b35802469614af4054317e534277bb0de8e460f092f6
+source_sha256: 6dfd643f292469432383b35802469614af4054317e534277bb0de8e460f092f6
 related:
   - relation: about
     target_id: region:sonoma
@@ -103,6 +103,15 @@ Jordan is one of the most Bordeaux-like estates in Alexander Valley: founded in 
 ![Jordan Vineyard & Winery category image](/media/photos/region-sonoma-a79b1e60.jpg)
 
 Figure: Jordan Vineyard & Winery. Photograph: File:Sonoma City Hall (cropped).jpg. Credit: Cullen328, CC BY-SA 3.0 ([source page](https://commons.wikimedia.org/wiki/File:Sonoma_City_Hall_(cropped).jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Jordan Vineyard & Winery deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Jordan Vineyard & Winery who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Jordan is in Sonoma County’s Alexander Valley, with the winery at 1474 Alexander Valley Road north of Healdsburg.
+>   - Visits are mainly by appointment and include château tours, estate tours, terrace food-and-wine pairings and library tastings.
 
 ## Position and history
 
@@ -173,5 +182,5 @@ With half a day, choose Jordan plus Healdsburg and skip a third winery; the tour
 ## Further reading and see also
 
 - Related entries: [sonoma](ref:sonoma), [usa](ref:usa), [cabernet-sauvignon](ref:cabernet), [chardonnay](ref:chardonnay), [oak-ageing](ref:oak).
-- This page does not provide live prices, package availability or opening status; check the estate website and Alexander Valley Winegrowers before visiting.
+- This entry does not provide live prices, package availability or opening status; check the estate website and Alexander Valley Winegrowers before visiting.
 - To understand Jordan, compare its Cabernet and Chardonnay on one trip, then add one other Alexander Valley and one Russian River Valley wine to see how valley heat and coastal fog change ripeness and acidity.

@@ -102,6 +102,15 @@ Fetească Neagră 是罗马尼亚与摩尔多瓦一带的古老原生红葡萄�
 
 图：Fetească Neagră：Feteasca Neagra（Wikimedia Commons）。图片：Jules Troncy，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Feteasca_Neagra.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断黑姑娘适不适合你，以及怎么比较其他品种。
+>
+> - **适合谁：** 正在比较黑姑娘与其他品种、想弄懂风味差异的人。
+> - **不适合谁：** 只想要单一名庄推荐、不关心品种本身的人。
+> - **先看这两点：**
+>   - 黑姑娘干红建议在 15–18 °C 饮用：年轻、果香为主的酒款放在 15–16 °C，结构扎实、经过橡木陈酿的酒款可以到 17–18 °C。
+>   - 最常见的误区是把“Fetească”当成同一个品种：白姑娘、皇姑娘是白葡萄，黑姑娘才是红葡萄，三者在酒标上不能互相替代。
+
 ## 定义与命名
 
 黑姑娘学名为 Vitis vinifera，名称由罗马尼亚语 fetească（少女、姑娘）与 neagră（黑色）组合而成。各地登记的同义词包括德语 Schwarze Mädchentraube、匈牙利语 Fekete Leányka、俄语 Chornaya Fetyaska，以及罗马尼亚本土名 Păsărească neagră、Poama fetei neagră、Coada rândunicii；酒标上出现这些名字时，指向的通常都是同一品种。

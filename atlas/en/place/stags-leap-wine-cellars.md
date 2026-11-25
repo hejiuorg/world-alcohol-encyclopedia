@@ -134,7 +134,7 @@ The Stags Leap District sits on Napa’s east side, with Yountville and Oakville
 
 - Comparisons: [napa-valley](ref:napa), [usa](ref:usa), [cabernet-sauvignon](ref:cabernet), [red-wine](ref:red), [oak-ageing](ref:oak).
 - Background: [napa-valley](ref:napa), [usa](ref:usa).
-- This page provides no map; visits, vintages and prices should be checked with official channels.
+- This entry provides no map; visits, vintages and prices should be checked with official channels.
 
 For Stag's Leap Wine Cellars, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
 
@@ -154,4 +154,4 @@ For Stag's Leap Wine Cellars, begin with the address. Then look at the current o
 
 **Sources and limits.** The key claims about Stag's Leap Wine Cellars are checked against the following sources: Stag’s Leap Wine Cellars (5766 Silverado Trail, Napa CA 94558, telephone 707.261.6410 and booked tastings), Stags Leap District Winegrowers Association. For current products, addresses or opening status, use stagsleapwinecellars.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Stag's Leap Wine Cellars, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Stag's Leap Wine Cellars, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

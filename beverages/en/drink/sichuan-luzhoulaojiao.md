@@ -121,7 +121,7 @@ Another often ignored variable is temperature. Strong-aroma spirit smells differ
 
 Luzhou Laojiao has product lines such as Guojiao 1573 and Tequ, with different positioning and body design. "1573" refers to the construction year of the Ming-dynasty pits and is part of the brand story; the vintage, batch and body of a specific product still depend on the label and company information.
 
-The producer, aroma type, strength, standard and volume on the label are the basics for verifying identity. Counterfeits and similar names exist, so buy through official channels and check anti-counterfeit marks. Price movements are market behaviour, and this page gives no collecting or investment advice.
+The producer, aroma type, strength, standard and volume on the label are the basics for verifying identity. Counterfeits and similar names exist, so buy through official channels and check anti-counterfeit marks. Price movements are market behaviour, and this entry gives no collecting or investment advice.
 
 ## Drinking and pairing
 

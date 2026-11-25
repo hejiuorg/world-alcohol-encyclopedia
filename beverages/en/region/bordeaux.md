@@ -155,6 +155,6 @@ The Bordeaux en primeur system lets buyers purchase before bottling, with prices
 
 ## Scope note
 
-This page describes the geography, varieties and institutional framework of Bordeaux and does not assess specific estates or vintages. For the parent region, see [France](ref:france).
+This region describes the geography, varieties and institutional framework of Bordeaux and does not assess specific estates or vintages. For the parent region, see [France](ref:france).
 
 Further reading: [Aconcagua Valley](ref:c-extra-1).

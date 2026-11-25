@@ -11,8 +11,8 @@ revision: 1
 translation_of: poem:su-shi-linjiang-xian-ye-yin-dongpo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1ca4349aaf49e584d0b0ddec57182ec37e4f1d69edf96e375ba05ec2869e7070
-source_sha256: 1ca4349aaf49e584d0b0ddec57182ec37e4f1d69edf96e375ba05ec2869e7070
+source_revision: sha256:1b8b54ccf556fd374c86f798640911a359323e43df1bc09aa6db1bea3ebfce2d
+source_sha256: 1b8b54ccf556fd374c86f798640911a359323e43df1bc09aa6db1bea3ebfce2d
 author_name: Su Shi
 source_title: Dongpo Yuefu
 dynasty: Northern Song
@@ -94,6 +94,15 @@ The song has a small dramatic scene. Su Shi drank all night at Dongpo, woke and 
 ![Tomita Keisen, portrait of Su Dongpo](/media/photos/poem-su-shi-linjiang-xian-ye-yin-dongpo-5d30fd01.jpg)
 
 Figure: A portrait of Su Dongpo by the Japanese painter Tomita Keisen. This is not a view of Su Shi drinking at Dongpo or a manuscript of the lyric. Image: Tomita Keisen, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%27Su_Dongpo%27_by_Tomita_Keisen,_Honolulu_Museum_of_Art_13215.1.JPG)).
+
+> **Quick verdict**
+> **In one line:** This poem entry explains why Linjiang Xian: A Door That Would Not Open, a River That Could Be Heard matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants Linjiang Xian: A Door That Would Not Open, a River That Could Be Heard in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - Linjiang Xian is a ci tune, originally a Tang court piece and later a common lyric form.
+>   - Drinking at night at Dongpo, waking and drunk again, I returned, and it seemed already the third watch.
 
 ## Title and text
 

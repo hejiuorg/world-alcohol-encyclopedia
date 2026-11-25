@@ -132,8 +132,8 @@ The comparison with [Sake](ref:sake) and [Saccharification](ref:saccharification
 
 **Short definition:** The polishing ratio is the percentage of sake rice remaining after milling, so 50% means half has been removed and half remains; it is tied to daiginjo, ginjo and honjozo grades but is not a direct quality score.
 
-**Read alongside.** Put Polishing ratio next to Sake, Rice, Saccharification: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Polishing ratio next to Sake, Rice, Saccharification: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this term first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Polishing ratio are checked against the following sources: Japan Sake and Shochu Makers Association (Used to check polishing ratios and special-designation sake definitions; Used to check polishing ratio thresholds for junmai and ginjo designations), National Tax Agency of Japan (Used to check legal requirements for sake labels, polishing ratios and special-designation sake), Oxford University Press (Used for entries on sake, rice polishing and brewing) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Polishing ratio, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Polishing ratio, this term was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

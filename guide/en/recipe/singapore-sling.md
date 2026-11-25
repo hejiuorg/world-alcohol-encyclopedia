@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: recipe:singapore-sling
 source_lang: zh
-source_revision: sha256:b37599130331f574ffd49ffed69f12c5ea998c6ccb007be1553740781e471d50
-source_sha256: b37599130331f574ffd49ffed69f12c5ea998c6ccb007be1553740781e471d50
+source_revision: sha256:f834babfc84b17ffb4db6989f6ae58a8338ceba897a8ad9fa841171f9e032037
+source_sha256: f834babfc84b17ffb4db6989f6ae58a8338ceba897a8ad9fa841171f9e032037
 translation_status: reviewed
 product_id: cocktail:singapore-sling
 source_version: IBA Official Cocktails proportions (checked November 2026); technique follows the built version
@@ -139,7 +139,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; proportions follow the public IBA recipe, historical background was checked against public sources, and technique and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 
@@ -147,9 +147,18 @@ verification_scope: source-verified
 
 This recipe takes the eight-ingredient proportions of the [Singapore Sling](ref:cocktail) from the public IBA entry: 30 ml gin, 15 ml cherry brandy, 7.5 ml Cointreau, 7.5 ml Bénédictine, 120 ml pineapple juice, 15 ml lime juice, 10 ml grenadine and 1 dash of Angostura bitters. The ingredients follow the IBA record exactly; the technique is built in the glass rather than shaken and strained into a second vessel.
 
-![Singapore Sling recipe (IBA proportions, built) thematic illustration](/media/photos/theme-ingredients.jpg)
+![Singapore Sling recipe (IBA proportions, built) thematic illustration](/media/figures/specific/recipe-singapore-sling.svg)
 
 Figure: thematic illustration for Singapore Sling recipe (IBA proportions, built). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This recipe helps you make Singapore Sling recipe (IBA proportions, built), and shows where the method usually fails.
+>
+> - **Best for:** Anyone who wants to make Singapore Sling recipe (IBA proportions, built) step by step and knows where it usually goes wrong.
+> - **Not for:** If you want will not measure ingredients or follow the order of steps.
+> - **Check first:**
+>   - The liquid is about 205 ml, and with ice and melt the drink is best somewhere between 4 and 8 degrees Celsius at the lips.
+>   - The public IBA page lists the drink among the contemporary classics, with gin, cherry liqueur (written as Cherry Sangue Morlacco), Cointreau, DOM Bénédictine, fresh pineapple juice.
 
 ## Eight ingredients and where this version comes from
 
@@ -163,7 +172,7 @@ The ratio itself is clear. The four spirits total 60 ml, while juice and syrup t
 
 The official Raffles account dates the drink to 1915, at the [Long Bar](ref:raffles) in Singapore, and credits the Hainanese bartender Ngiam Tong Boon. The hotel's version is that he made a drink that looked like fruit juice but contained gin and liqueurs, so that women, who could not comfortably drink in public at the time, could order something that looked like a soft drink.
 
-That story travels widely, but the details are not settled. Some accounts place the drink's ancestor before 1915; others treat the "fruit juice in disguise" story as later embellishment, with 1915 coming from later menus and hotel records. Whether Cointreau and Bénédictine were in the recipe in 1915 is also disputed, with some accounts treating them as later additions. This page therefore writes "commonly traced to" and "some accounts hold", not archival fact.
+That story travels widely, but the details are not settled. Some accounts place the drink's ancestor before 1915; others treat the "fruit juice in disguise" story as later embellishment, with 1915 coming from later menus and hotel records. Whether Cointreau and Bénédictine were in the recipe in 1915 is also disputed, with some accounts treating them as later additions. This recipe therefore writes "commonly traced to" and "some accounts hold", not archival fact.
 
 What is solid is the bond between the drink and the Long Bar, which has lasted more than a century and made the drink a symbol of Singapore. The bar still serves it, and today's recipe is not identical to the 1915 version. The history and the current recipe are two lines that a reader does not need to force into alignment.
 
@@ -217,7 +226,7 @@ For the shaken version, double-strain out the ice shards, pour into a chilled hi
 
 ## Sling glass, hurricane glass, highball
 
-The IBA writes hurricane glass, and the drink is traditionally served in a sling glass. The vessel reference on this page is the [highball](ref:highball), because the capacities are close, a highball is easy to find, and its straight sides make a built drink easy to stir.
+The IBA writes hurricane glass, and the drink is traditionally served in a sling glass. The vessel reference on this recipe is the [highball](ref:highball), because the capacities are close, a highball is easy to find, and its straight sides make a built drink easy to stir.
 
 Glass shape affects aroma and temperature, not authenticity. A highball has a moderate opening that holds aroma and takes large cubes well; a hurricane narrows at the waist and flares at the rim, which looks more tropical but is harder to clean and stir; a sling glass sits between them. A capacity of 300 to 400 ml is comfortable: smaller will not hold 205 ml plus ice, larger lets the aroma escape.
 
@@ -252,7 +261,7 @@ The identity of the [Singapore Sling](ref:cocktail) and this recipe are two sepa
 
 The kit is short: a jigger with an accurate 7.5 ml mark, a bar spoon, a highball glass, and a strainer if you make the shaken version. The built version needs no shaker, but it does need a long spoon to reach the bottom of the glass and lift the syrup.
 
-This page uses millilitres and does not convert to ounces; 1 dash is about 1 ml and varies with the bottle. Make the recipe once as written, note the ice size, the number of lifts and the serving temperature, and only then adjust. Fix the variables first, or you cannot tell whether you changed the recipe or the execution.
+This recipe uses millilitres and does not convert to ounces; 1 dash is about 1 ml and varies with the bottle. Make the recipe once as written, note the ice size, the number of lifts and the serving temperature, and only then adjust. Fix the variables first, or you cannot tell whether you changed the recipe or the execution.
 
 ## See also
 

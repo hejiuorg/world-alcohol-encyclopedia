@@ -73,7 +73,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against Mexico's Secretaría de Cultura/CDI, a peer-reviewed Frontiers article and UNAM material; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Pulque
@@ -128,8 +128,8 @@ Start with the production rule. From there, consider the strength, then the usua
 
 [Tequila](ref:tequila) and [Agave](ref:agave) are the two useful reference points for Pulque. [Tequila](ref:tequila) sets out legal definition; [Agave](ref:agave) brings in materials and process. Read them together.
 
-**Read alongside.** Put Pulque next to Tequila, Mezcal, Agave: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Pulque next to Tequila, Mezcal, Agave: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 **Sources and limits.** The key claims about Pulque are checked against the following sources: Secretaría de Cultura — CDI (the pre-Hispanic tradition, maguey raw material and drinking culture of pulque), Frontiers in Microbiology (aguamiel fermentation, the microbial process, alcohol content and pulque types), Universidad Nacional Autónoma de México (the etymology, maguey manso and historical background of pulque) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Pulque, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Pulque, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

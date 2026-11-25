@@ -43,7 +43,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对现行 IBA 官方名单的收录范围；该名单中未见 Gimlet 条目，因此本页不称其为 IBA 官方配方。
     accessed: 2026-11-07
@@ -88,6 +88,15 @@ verification_scope: source-verified
 ![碟形杯中的吉姆雷特，杯口挂青柠](/media/photos/cocktail-gimlet-0fdbf661.jpg)
 
 图：一杯吉姆雷特，淡黄绿色酒液盛于碟形杯，杯口挂着一片青柠。图片：ccnull.de Bilddatenbank，CC BY 2.0，via [原图页面](https://www.flickr.com/photo.gne?id=53457787167)。
+
+> **先给结论**
+> **一句话：** 这页判断吉姆雷特该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂吉姆雷特的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 青柠糖浆版的结构非常简单：金酒加青柠糖浆，比例常见在 2:1 到 3:1 之间，例如金酒 60 毫升、青柠糖浆 20–25 毫升。
+>   - 先说要紧的：在 IBA 现行的官方鸡尾酒名单中，找不到 Gimlet 条目。
 
 ## 两种配方，两种酒
 

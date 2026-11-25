@@ -67,9 +67,9 @@ verification_scope: source-verified
 
 氧化（oxidation）是酒液中的成分与氧气发生化学反应的过程。它不是一个单一反应，而是一串连锁变化：乙醇可以被氧化成乙醛，酚类可以氧化成醌，色素与[单宁](ref:tannin)随之聚合或褐变。氧化在酿酒中既是工具，也是风险，区别在于是否受控。
 
-![氧化（oxidation） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![氧化（oxidation） 类型示意图](/media/figures/specific/term-oxidation.svg)
 
-图：氧化（oxidation） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是氧化（oxidation）的实拍。
+图：氧化（oxidation） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

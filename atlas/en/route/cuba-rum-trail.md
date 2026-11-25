@@ -136,7 +136,7 @@ The Havana museum occupies an 18th-century mansion at Avenida del Puerto 262, on
 
 The museum tells the Havana Club story within the Cuban frame. A brand museum is not a neutral archive; its chosen years, people and products are the narrative. The basic tour runs about 45 minutes with a tasting; longer options add three-rum comparisons, cocktails or cigars, priced and scheduled on the museum's booking page.
 
-Published addresses appear as both 262 and 162; this page follows the official site's 262.
+Published addresses appear as both 262 and 162; this route follows the official site's 262.
 
 ## 1862 and the local claim of a light-rum cradle
 

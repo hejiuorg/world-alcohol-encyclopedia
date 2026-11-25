@@ -97,7 +97,7 @@ Speyside is known for a softer profile with fruit, flowers and malt, but a regio
 
 Single malt Scotch whisky is made from malted barley through mashing, fermentation and pot still distillation. Glenfiddich uses its own malt and spring water; the wort goes into fermentation vessels, where yeast converts sugar into alcohol and aroma precursors.
 
-Raw materials and water shape the new-make backbone, but the final style is driven more by distillation cuts and oak casks. Barley variety, peat use and fermentation time are company process details that public sources may not fully disclose; this page does not treat one raw-material factor as the whole explanation.
+Raw materials and water shape the new-make backbone, but the final style is driven more by distillation cuts and oak casks. Barley variety, peat use and fermentation time are company process details that public sources may not fully disclose; this entry does not treat one raw-material factor as the whole explanation.
 
 ## Ageing and marrying
 
@@ -152,9 +152,9 @@ To read Glenfiddich 18 Year Old, start with the base and the stated strength, th
 
 **Sources and limits.** The key claims about Glenfiddich 18 Year Old are checked against the following sources: Glenfiddich (the 18-year maturation, sherry and bourbon cask combination, small-batch marrying and 43% ABV in the US market), William Grant & Sons (the distillery's founding and Speyside origin), Scotch Whisky Association (the legal definition of Scotch whisky and age-statement rules) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Glenfiddich 18 Year Old next to Whisky, Scotland, Oak ageing: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Glenfiddich 18 Year Old next to Whisky, Scotland, Oak ageing: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
-For Glenfiddich 18 Year Old, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Glenfiddich 18 Year Old, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

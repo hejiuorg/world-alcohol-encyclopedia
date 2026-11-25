@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: guide:ice-and-temperature
 source_lang: zh
-source_revision: sha256:7ad62a14cbe5ef46185aebed8d11db64bcdfe14ba5fa0432e054e7251e7174d2
-source_sha256: 7ad62a14cbe5ef46185aebed8d11db64bcdfe14ba5fa0432e054e7251e7174d2
+source_revision: sha256:375e702db196655bf24a5253d1dc05927b5e96a64a924d3f4ad152ce5d1a0ce1
+source_sha256: 375e702db196655bf24a5253d1dc05927b5e96a64a924d3f4ad152ce5d1a0ce1
 translation_status: reviewed
 about_refs:
   - drink-style:whisky
@@ -77,14 +77,14 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; based on bartending and drink reference works, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 # Ice is a choice, not a test
 
 Adding ice is not a test of how well you drink. Ice does three things at once: it chills, dilutes and changes aroma release. Decide what you want to preserve before choosing how to add it. To keep aroma, do not let the ice melt too quickly; to reduce the burn, bring both temperature and dilution into place; to drink slowly, use large ice that melts slowly.
 
-![Ice is a choice, not a test thematic illustration](/media/photos/theme-route.jpg)
+![Ice is a choice, not a test thematic illustration](/media/figures/specific/guide-ice-and-temperature.svg)
 
 Figure: thematic illustration for Ice is a choice, not a test. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -150,7 +150,7 @@ Fifth, ignoring warming. A drink with ice keeps changing; the last few sips can 
 
 ## Boundary
 
-Whether to add ice is a personal choice, not a proficiency test. Temperature, ice shape and dilution all affect the experience, and recording the conditions is more meaningful than arguing about whether ice is "right". This page recommends no brands and gives no advice that encourages drinking to excess; drink in moderation and follow local law and safety requirements.
+Whether to add ice is a personal choice, not a proficiency test. Temperature, ice shape and dilution all affect the experience, and recording the conditions is more meaningful than arguing about whether ice is "right". This guide recommends no brands and gives no advice that encourages drinking to excess; drink in moderation and follow local law and safety requirements.
 
 **In brief:** Ice cools, dilutes and changes aroma release; decide what you want to preserve before choosing whether to add it, what ice and how much.
 

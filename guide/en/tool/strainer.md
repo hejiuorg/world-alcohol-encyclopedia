@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: tool:strainer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3c754d0172396eba50b1eac03528ed7d6ee41dad6a60dab1314c5ed764e196df
-source_sha256: 3c754d0172396eba50b1eac03528ed7d6ee41dad6a60dab1314c5ed764e196df
+source_revision: sha256:f3dc8e6a89de99637d9288ad8e9a0773613186a24d959bbe5219eab7bf9a67e6
+source_sha256: f3dc8e6a89de99637d9288ad8e9a0773613186a24d959bbe5219eab7bf9a67e6
 materials:
   - Stainless steel
 purpose: To filter out ice, crushed ice and solid residue so texture and clarity stay under control
@@ -45,7 +45,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check methods and straining for cocktails; no source text is reproduced.
     accessed: 2026-11-04

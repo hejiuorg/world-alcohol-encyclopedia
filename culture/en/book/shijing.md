@@ -13,8 +13,8 @@ author_refs: []
 publication: Pre-Qin; the received text is the Mao recension in 305 poems
 translation_of: book:shijing
 source_lang: zh
-source_revision: sha256:4a8add2c1feeb6d901a21bf6f99c3b6a26016bfa7eeabd7ee8d2a293b3ee6946
-source_sha256: 4a8add2c1feeb6d901a21bf6f99c3b6a26016bfa7eeabd7ee8d2a293b3ee6946
+source_revision: sha256:75973434c9a82e54ccba6d8224b6123fa6d4c616c983083bbf41d954a88abe4b
+source_sha256: 75973434c9a82e54ccba6d8224b6123fa6d4c616c983083bbf41d954a88abe4b
 translation_status: reviewed
 aliases:
   - 诗三百
@@ -44,7 +44,7 @@ sources:
     title: "Shijing: Chinese Text Project"
     url: https://ctext.org/shijing
     publisher: Chinese Text Project
-    note: Used to check the divisions, text and wording; this page quotes only short passages and does not reproduce the full text.
+    note: Used to check the divisions, text and wording; this book entry quotes only short passages and does not reproduce the full text.
     accessed: 2026-11-04
   - key: britannica-chinese-literature
     title: "Encyclopaedia Britannica: Chinese literature"
@@ -82,6 +82,15 @@ The Shijing is the oldest surviving anthology of Chinese poetry. The received te
 ![Classic of Poetry (Shijing) image](/media/photos/book-shijing-a76397fe.jpg)
 
 Figure: Classic of Poetry (Shijing). Image: Wikimedia Commons contributor, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shi_Jing.jpg)).
+
+> **Quick verdict**
+> **In one line:** This book entry helps you judge whether Classic of Poetry (Shijing) is worth reading, and what question it answers.
+>
+> - **Best for:** Anyone who wants Classic of Poetry (Shijing) in the history of drink culture and needs to judge whether it is worth reading.
+> - **Not for:** If you want want a one-line summary and will not read the book.
+> - **Check first:**
+>   - What the Shijing gave later culture was not only wine lines but a language for placing wine inside a scene.
+>   - Begin with the feng, choosing short poems with clear repetition, and notice where the wine line sits in the whole poem.
 
 ## What kind of anthology this is
 

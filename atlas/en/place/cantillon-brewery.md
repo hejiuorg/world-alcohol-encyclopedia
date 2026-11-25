@@ -133,7 +133,7 @@ For drinkers, "Oude" usually signals longer ageing and a sharper profile, while 
 
 **Address:** Rue Gheude 56, 1070 Bruxelles, Belgium (Anderlecht). **Getting there:** Metro lines 2 or 6 to Clemenceau, about five minutes on foot; about ten minutes from Brussels Midi; trams 81 and 82 nearby. **Hours:** Monday, Tuesday, Thursday, Friday and Saturday 10:00–16:00, shop until 17:00; closed Wednesday, Sunday and holidays. **Prices:** weekday self-guided 9 EUR, reduced 8 EUR; Saturday tour 13 EUR; free under 16.
 
-**Notes:** the cellars are cold, so bring a layer; floors are wet, so wear shoes with grip; do not touch barrels. Drivers or cyclists can buy bottles instead of tasting. Food nearby is limited. This page does not list coordinates; use official channels for those.
+**Notes:** the cellars are cold, so bring a layer; floors are wet, so wear shoes with grip; do not touch barrels. Drivers or cyclists can buy bottles instead of tasting. Food nearby is limited. This entry does not list coordinates; use official channels for those.
 
 **In brief:** A spontaneous-fermentation lambic brewery in Anderlecht, Brussels, founded in 1900 and home to the Brussels Gueuze Museum; weekdays allow self-guided visits, while Saturdays are tour-only and must be booked online.
 

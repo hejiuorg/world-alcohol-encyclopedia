@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cafe-slavia
 source_lang: zh
-source_revision: sha256:915838d2f15351c5379db72a442bac7c108eedfbe237f88c981b9541f4c3a3f7
-source_sha256: 915838d2f15351c5379db72a442bac7c108eedfbe237f88c981b9541f4c3a3f7
+source_revision: sha256:b4782b89f3ced7fa3c25611c08ae0992100038373cfd345342893f6857be13da
+source_sha256: b4782b89f3ced7fa3c25611c08ae0992100038373cfd345342893f6857be13da
 translation_status: reviewed
 subtype: bar
 address: Národní 1012/1, 110 00 Praha 1, Czechia
@@ -85,7 +85,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English text based on the café's official site and public historical sources; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this page is CC BY 2.0 and is credited in the caption. Opening hours and prices are subject to official channels.
+  note: Third-party trademarks, images and quoted texts are not covered by this licence; the image on this entry is CC BY 2.0 and is credited in the caption. Opening hours and prices are subject to official channels.
 verification_scope: source-verified
 ---
 
@@ -96,6 +96,15 @@ Walk along Národní in Prague until you reach the National Theatre, and look ac
 ![The Art Deco interior of Café Slavia, Prague](/media/photos/place-cafe-slavia-ae96d5d5.jpg)
 
 Figure: The Art Deco interior of Café Slavia. Image: Fred Romero from Paris, France, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Praha_-_Kav%C3%A1rna_Slavia.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Café Slavia deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Café Slavia who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The history has three layers.
+>   - Find a table yourself; window seats fill first.
 
 ## Setting and history
 

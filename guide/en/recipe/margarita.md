@@ -5,13 +5,13 @@ type: recipe
 lang: en
 slug: margarita
 title: Margarita recipe (IBA version)
-summary: 50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken and strained into a chilled glass with an optional half salt rim; this page explains how the sweet-sour balance, the salt rim and dilution decide the drink.
+summary: 50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken and strained into a chilled glass with an optional half salt rim; this recipe explains how the sweet-sour balance, the salt rim and dilution decide the drink.
 status: reviewed
 revision: 2
 translation_of: recipe:margarita
 source_lang: zh
-source_revision: sha256:4da02d2db2751e5dab953f45850216657ffa6335904c5ae74428781436e47048
-source_sha256: 4da02d2db2751e5dab953f45850216657ffa6335904c5ae74428781436e47048
+source_revision: sha256:d7214b8efe501afa0dcd0624c377fcc618a5d74138a70392e558c07b6a01b5f2
+source_sha256: d7214b8efe501afa0dcd0624c377fcc618a5d74138a70392e558c07b6a01b5f2
 translation_status: reviewed
 product_id: cocktail:margarita
 source_version: IBA Official Cocktails (checked October 2026)
@@ -89,7 +89,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -103,18 +103,18 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored recipe notes; quantities and serving follow the public IBA recipe, while steps and explanations are project wording, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. No third-party images are used on this recipe.
 verification_scope: source-verified
 ---
 # Margarita recipe (IBA version)
 
-This is one [Margarita](ref:cocktail) recipe with a stated source. Its structure is "spirit plus orange liqueur plus fresh sour", and the sweet-sour ratio decides whether it works; the salt rim is not a decorative slogan but part of the flavour structure. This page records the public IBA version and explains the balance, the shaking and the salt rim.![Margarita recipe (IBA version) thematic illustration](/media/photos/theme-ingredients.jpg)
+This is one [Margarita](ref:cocktail) recipe with a stated source. Its structure is "spirit plus orange liqueur plus fresh sour", and the sweet-sour ratio decides whether it works; the salt rim is not a decorative slogan but part of the flavour structure. This recipe records the public IBA version and explains the balance, the shaking and the salt rim.![Margarita recipe (IBA version) thematic illustration](/media/figures/specific/recipe-margarita.svg)
 
 Figure: thematic illustration for Margarita recipe (IBA version). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
 ## A recipe with a stated source
 
-The public IBA (International Bartenders Association) recipe uses 50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken over ice and strained into a chilled glass, with an optional half salt rim. This page follows that version and explains the purpose of each step so that a problem at home can be traced to a specific stage.
+The public IBA (International Bartenders Association) recipe uses 50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken over ice and strained into a chilled glass, with an optional half salt rim. This recipe follows that version and explains the purpose of each step so that a problem at home can be traced to a specific stage.
 
 The recipe version is recorded separately from the cocktail identity so that it stays traceable. Margaritas are made very differently in different regions: some add syrup for sweetness, some use agave syrup; some add juice and blend with ice; some salt the whole rim, some none at all. These differences are not about who is "authentic"; they are different versions.
 
@@ -182,6 +182,6 @@ Using a different orange liqueur changes sweetness and citrus direction; adding 
 
 ## Limits
 
-This page records one source version only. It does not rank brands and does not present one style of salt rim as the only correct choice. A recipe is a starting point, not a law; any change should be labelled as a difference. Drink in moderation, avoid drinking quickly on an empty stomach, and do not drink while driving, taking medication or pregnant; follow local law.
+This recipe records one source version only. It does not rank brands and does not present one style of salt rim as the only correct choice. A recipe is a starting point, not a law; any change should be labelled as a difference. Drink in moderation, avoid drinking quickly on an empty stomach, and do not drink while driving, taking medication or pregnant; follow local law.
 
-**Short definition:** 50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken and strained into a chilled glass with an optional half salt rim; this page explains how the sweet-sour balance, the salt rim and dilution decide the drink.
+**Short definition:** 50 ml 100% agave tequila, 20 ml orange liqueur and 15 ml fresh lime juice, shaken and strained into a chilled glass with an optional half salt rim; this recipe explains how the sweet-sour balance, the salt rim and dilution decide the drink.

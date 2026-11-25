@@ -85,7 +85,7 @@ Figure: Beijing Red Star Co., Ltd.. Image: N509FZ, CC BY-SA 4.0, via Wikimedia C
 
 ## Company identity
 
-This page records the producer layer: company name, site, founding date and organisational form. Red Star is the production and operating entity, holding the trademark, running production and selling into the market. When discussing "Red Star", first separate the company, the brand and a single bottle.
+This producer records the producer layer: company name, site, founding date and organisational form. Red Star is the production and operating entity, holding the trademark, running production and selling into the market. When discussing "Red Star", first separate the company, the brand and a single bottle.
 
 Public material places the direct starting point in May 1949. Before that, er-guotou brewing in Beijing was largely carried out by private distilleries. After the factory was set up in 1949, the company absorbed twelve old distilleries including Yuanshenghao, concentrating scattered workshop craft in a state-run plant. This absorption process is the key to understanding where Red Star's craft comes from.
 
@@ -123,7 +123,7 @@ In 2008 the traditional craft entered the national intangible heritage list, and
 
 ## Visiting information
 
-The Beijing Erguotou Liquor Museum is at 1 Hongxing Road, Huairou district, Beijing. Built by the company, it presents the traditional er-guotou craft and is listed in public material as a national AAA scenic area. Opening hours, booking and tickets follow the operator's current notice; this page gives no unverified phone number or tour price.
+The Beijing Erguotou Liquor Museum is at 1 Hongxing Road, Huairou district, Beijing. Built by the company, it presents the traditional er-guotou craft and is listed in public material as a national AAA scenic area. Opening hours, booking and tickets follow the operator's current notice; this producer gives no unverified phone number or tour price.
 
 ## Common misconceptions
 

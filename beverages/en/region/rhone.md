@@ -153,7 +153,7 @@ Fifth, confusing regional Côtes du Rhône with separate appellations such as Ch
 
 ## Scope note
 
-This page describes the framework, varieties and rules of the northern and southern Rhône and does not assess individual estates or vintages. The parent region is [France](ref:france); specific wine pages record producers and products, separate from the region level covered here.
+This region describes the framework, varieties and rules of the northern and southern Rhône and does not assess individual estates or vintages. The parent region is [France](ref:france); specific wine pages record producers and products, separate from the region level covered here.
 
 **Short definition:** A wine region along the Rhône in south-eastern France, running from Vienne to Avignon; the north is a narrow band of steep slopes where reds are made from Syrah alone, the south is a broad valley where reds are Grenache-led blends, and the mistral blows through the whole region.
 

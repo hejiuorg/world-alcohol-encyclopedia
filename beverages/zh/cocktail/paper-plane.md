@@ -43,7 +43,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单与现代经典分类背景；未复制原文。
     accessed: 2026-11-07
@@ -83,6 +83,15 @@ verification_scope: source-verified
 ![纸飞机 图像](/media/photos/cocktail-paper-plane-7beba200.jpg)
 
 图：纸飞机。图片：Dietmar Rabich，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Papierflieger_--_2021_--_7215.jpg)）。
+
+> **先给结论**
+> **一句话：** 这页判断纸飞机该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂纸飞机的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 常见配方为波本威士忌 30 毫升、阿佩罗 30 毫升、阿玛罗 30 毫升、柠檬汁 30 毫升，四者等量。
+>   - 点单时可以直接说“纸飞机”，并询问使用哪一种阿玛罗。
 
 ## 起源与命名
 

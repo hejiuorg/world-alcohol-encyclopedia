@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: guide:wine-storage
 source_lang: zh
-source_revision: sha256:cabf28a12d4241b8cb572e01d9c70de978c5976e3a6aad01ad20bf715beb62f0
-source_sha256: cabf28a12d4241b8cb572e01d9c70de978c5976e3a6aad01ad20bf715beb62f0
+source_revision: sha256:ccae7394803243b5783c93e08845ee49f18a2cdc4dd417502e5f39ee3a01da39
+source_sha256: ccae7394803243b5783c93e08845ee49f18a2cdc4dd417502e5f39ee3a01da39
 translation_status: reviewed
 aliases:
   - Wine storage
@@ -28,7 +28,7 @@ about_refs:
   - term:oxidation
   - term:cork-taint
   - guide:ice-and-temperature
-audience: readers who have just bought a few bottles and want to know how to keep them from spoiling
+audience: if you want have just bought a few bottles and want to know how to keep them from spoiling
 difficulty: beginner
 related:
   - relation: about
@@ -89,7 +89,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 
@@ -97,9 +97,16 @@ verification_scope: source-verified
 
 Wine storage is not simply "put it in the fridge" or "leave it in a cupboard". Temperature, humidity, light, vibration and air all change a wine's condition, and short-term keeping and long-term ageing have different goals. First decide whether the bottle is for drinking soon or for keeping a few years, then decide where and how to store it.
 
-![Wine Storage: Temperature, Humidity, Light and Vibration thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Wine Storage: Temperature, Humidity, Light and Vibration thematic illustration](/media/figures/specific/guide-wine-storage.svg)
 
 Figure: thematic illustration for Wine Storage: Temperature, Humidity, Light and Vibration. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Decision checklist**
+> Run these three checks before you buy or go.
+>
+> - **Starting from zero:** The goal of storage is to keep the wine as stable as possible.
+> - **Main types and differences:** Red wine usually tolerates short-term temperature swings better than white wine, but long storage still hates heat and light.
+> - **Choosing a first bottle:** Here, "first bottle" can mean the first bottle you plan to store.
 
 ## Starting from zero
 
@@ -165,3 +172,16 @@ Fourth, learn to read labels and bottle condition, and distinguish "drink soon" 
 - [How to choose a glass](ref:glass): glassware and aroma gathering.
 
 **In brief:** The core of wine storage is stability; temperature, humidity, light, vibration and air all change a wine's condition, and short-term keeping, opened-bottle storage and long-term ageing should be handled differently by wine type and intention.
+
+## Quick comparison: storage conditions
+
+| Factor | Target | Avoid |
+| --- | --- | --- |
+| Temperature | 10–15°C, as stable as possible | Frequent swings, hot kitchens |
+| Humidity | 50–70% | Too dry; corks shrink |
+| Light | Dark | Sunlight, spotlights |
+| Vibration | Leave it still | Constant handling, fridge motors |
+| Position | Cork-down for cork closures | Long-term upright storage |
+| After opening | Refrigerate, drink within 3–5 days | Leaving it out overnight |
+
+How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.

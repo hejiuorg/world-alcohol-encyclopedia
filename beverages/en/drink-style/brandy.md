@@ -138,7 +138,7 @@ Brandy is best read by starting with the production rule, moving to the strength
 
 **Sources and limits.** The key claims about Brandy are checked against the following sources: BNIC (Cognac's area, grape varieties, double distillation and ageing requirements), BNIA (Armagnac's area, distillation methods and vintage labelling rules), European Union (category definitions and minimum requirements for grape brandy, pomace brandy and fruit brandy) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Brandy next to Distillation, Oak ageing, Fruit wine: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Brandy next to Distillation, Oak ageing, Fruit wine: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

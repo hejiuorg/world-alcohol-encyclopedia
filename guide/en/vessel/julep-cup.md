@@ -7,8 +7,8 @@ slug: julep-cup
 title: Julep Cup
 translation_of: vessel:julep-cup
 source_lang: zh
-source_revision: sha256:e71dbae608c02b4daa429928ae9c2e96275ffbe93b88576cfe27d4578cee3fce
-source_sha256: e71dbae608c02b4daa429928ae9c2e96275ffbe93b88576cfe27d4578cee3fce
+source_revision: sha256:f1b52bffa25f8d9a45140af2547dfae429fd3f6de0751ba813ee93ab97a54b80
+source_sha256: f1b52bffa25f8d9a45140af2547dfae429fd3f6de0751ba813ee93ab97a54b80
 translation_status: reviewed
 summary: A small metal cup, usually silver or pewter, used for the mint julep. Metal conducts cold quickly, frosts the wall and keeps the drink icy with crushed ice and mint.
 status: reviewed
@@ -58,7 +58,7 @@ sources:
     accessed: 2026-11-20
   - key: iba
     title: IBA Official Cocktails — Mint Julep
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the mint julep formula and method; no source text is reproduced.
     accessed: 2026-11-20
@@ -169,4 +169,4 @@ Keep the cup in the freezer before use and hold it by the rim to preserve the fr
 
 **Sources and limits.** The key claims about Julep Cup are checked against the following sources: Oxford University Press (Used to check mint julep and metal cup history), International Bartenders Association (Used to check the mint julep formula and method), Encyclopaedia Britannica (Used to check the cultural background of the mint julep) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Julep Cup, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Julep Cup, this glass was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

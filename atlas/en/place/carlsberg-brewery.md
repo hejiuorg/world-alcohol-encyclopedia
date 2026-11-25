@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:carlsberg-brewery
 source_lang: zh
-source_revision: sha256:5802d0495bb5251d2b1a2d59bdd6d7ba54957cd7ca4b9b5578de5154a03d11c2
-source_sha256: 5802d0495bb5251d2b1a2d59bdd6d7ba54957cd7ca4b9b5578de5154a03d11c2
+source_revision: sha256:ab7aea3fe64213e3cd19fead500abfe83c8cd41cf4ea7c54b4c8e8717cb71cd7
+source_sha256: ab7aea3fe64213e3cd19fead500abfe83c8cd41cf4ea7c54b4c8e8717cb71cd7
 translation_status: reviewed
 subtype: brewery-visitor
 address: Gamle Carlsberg Vej 11, 1799 København V, Denmark
@@ -95,6 +95,12 @@ verification_scope: source-verified
 # Carlsberg: Beer, a Laboratory and a Garden
 
 In Valby, south-west of central Copenhagen, an old industrial district rises gently around the Carlsberg brewery. The address is Gamle Carlsberg Vej 11, and the site now opens as Home of Carlsberg; the former Visit Carlsberg name and old links lead here. It is not an empty shell: exhibition, cellars, stables, garden and bar are in use, although mass production moved elsewhere long ago. Beer and laboratory belong together: much of Carlsberg's influence came from the latter.
+
+> **Visit information**
+> - Address: Gamle Carlsberg Vej 11, 1799 Copenhagen V, Denmark.
+> - Opening and booking: check the [official page](https://www.homeofcarlsberg.com/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
 
 ![Carlsberg: Beer, a Laboratory and a Garden photograph](/media/photos/q2-place-carlsberg-brewery-b547a277.jpg)
 

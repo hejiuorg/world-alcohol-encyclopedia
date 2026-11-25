@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: producer:pernod-ricard
 source_lang: zh
-source_revision: sha256:3fa1ea656c81f6ebae21f43b96aa3c0a4e3f57baf728eb65e30321ed7aec650b
-source_sha256: 3fa1ea656c81f6ebae21f43b96aa3c0a4e3f57baf728eb65e30321ed7aec650b
+source_revision: sha256:f54903889de03e8bfbfe5ff102dd27cd663b416a9f8a41758858e5f7c389bdac
+source_sha256: f54903889de03e8bfbfe5ff102dd27cd663b416a9f8a41758858e5f7c389bdac
 translation_status: reviewed
 region_refs:
   - region:france
@@ -79,13 +79,13 @@ verification_scope: source-verified
 ---
 # Pernod Ricard
 
-Pernod Ricard is a multinational wine and spirits group formed in 1975 by the merger of two French anise-flavoured spirits houses, Pernod and Ricard, and headquartered in Paris. It owns brands including Absolut, Chivas Regal, Ballantine's and Martell, covering production, distribution and brand management.![Pernod Ricard category illustration](/media/photos/theme-wine-spirits.jpg)
+Pernod Ricard is a multinational wine and spirits group formed in 1975 by the merger of two French anise-flavoured spirits houses, Pernod and Ricard, and headquartered in Paris. It owns brands including Absolut, Chivas Regal, Ballantine's and Martell, covering production, distribution and brand management.![Pernod Ricard category illustration](/media/figures/specific/producer-pernod-ricard.svg)
 
 Figure: Pernod Ricard. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 
 ## Company identity
 
-This page records the producer level: company name, location, historical starting point and organisational form. The group is the entity for production, distribution and brand management; when discussing "Pernod Ricard", first separate the group, its subsidiaries and an individual brand.
+This producer records the producer level: company name, location, historical starting point and organisational form. The group is the entity for production, distribution and brand management; when discussing "Pernod Ricard", first separate the group, its subsidiaries and an individual brand.
 
 The group is listed on Euronext Paris and operates in wine and spirits, covering owned distilleries, agency brands and a global distribution network. The merged structure means the production and sale of one brand may sit with subsidiaries in different countries.
 
@@ -158,7 +158,7 @@ Its brand portfolio is managed by regional affiliates, so the bottler and import
 
 **Sources and limits.** The key claims about Pernod Ricard are checked against the following sources: Pernod Ricard (Used to check the 1975 merger, headquarters and brand portfolio; Used to check the group's investor and annual report information channels), Pernod Ricard China (Used to check the China market footprint and product lines), Encyclopaedia Britannica (the entry's background, terminology and regulatory context). For current products, addresses or opening status, use pernod-ricard.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Pernod Ricard, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Pernod Ricard, this producer was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

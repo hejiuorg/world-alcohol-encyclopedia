@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:speak-low
 source_lang: zh
-source_revision: sha256:c12d6d650f3689f7c247d6ea52cad0a694b56414f4ce37a122601dbd06a168dc
-source_sha256: c12d6d650f3689f7c247d6ea52cad0a694b56414f4ce37a122601dbd06a168dc
+source_revision: sha256:8d04dd2f2cd3e0630b2f33b0d09e358c8c887211408ba300bcb06ed9bdbed522
+source_sha256: 8d04dd2f2cd3e0630b2f33b0d09e358c8c887211408ba300bcb06ed9bdbed522
 translation_status: reviewed
 subtype: bar
 address: 579 Fuxing Middle Road, Huangpu District, Shanghai 200041
@@ -105,6 +105,15 @@ verification_scope: source-verified
 ![Speak Low category illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: Speak Low. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Speak Low deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Speak Low who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Speak Low is at 579 Fuxing Middle Road in Shanghai's former French Concession, near Ruijin Second Road.
+>   - Find OCHO at 579 Fuxing Middle Road and go in; do not stop at the shelves.
 
 ## Setting and history
 

@@ -58,7 +58,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-cocktails
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方鸡尾酒名单的分组与用途；本页不复制配方比例。
     accessed: 2026-11-07

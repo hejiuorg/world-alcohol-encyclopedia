@@ -24,8 +24,8 @@ tags:
 translation_of: region:coonawarra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ef4ae0348ccb0353fc3a4e83234d2a99082cadb6c9658921efc088e387d8d528
-source_sha256: ef4ae0348ccb0353fc3a4e83234d2a99082cadb6c9658921efc088e387d8d528
+source_revision: sha256:82806f470d97f792f0c0cc6cf42628d22b83865b2f08e2464c7fb021a0e551eb
+source_sha256: 82806f470d97f792f0c0cc6cf42628d22b83865b2f08e2464c7fb021a0e551eb
 related:
   - relation: about
     target_id: region:australia
@@ -106,6 +106,15 @@ Coonawarra sits on the Limestone Coast of South Australia and is one of Australi
 ![Coonawarra](/media/photos/region-coonawarra-afbdda85.jpg)
 
 Figure: Coonawarra: Winter vineyard in Coonawarra (Wikimedia Commons). Image: ScottDavis, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Winter_vineyard_in_Coonawarra.JPG)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Coonawarra for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Coonawarra with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Before European settlement, the land was the traditional country of the Pinechunga and Boandik peoples.
+>   - Cabernet Sauvignon is served around 16–18°C; young, tight examples can be decanted briefly, in a medium to large-bowl red glass.
 
 ## Definition and boundaries
 

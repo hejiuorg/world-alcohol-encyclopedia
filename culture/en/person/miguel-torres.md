@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:miguel-torres
 source_lang: zh
-source_revision: sha256:d4ff29b4a49e334d8c41f8b3cb74290e26ffc56d5d06e7eb137f5554c773b446
-source_sha256: d4ff29b4a49e334d8c41f8b3cb74290e26ffc56d5d06e7eb137f5554c773b446
+source_revision: sha256:ee463d55a3d615411dfc9f2f084c5879dcb5aaf3470afa7920fcfe43555c8ead
+source_sha256: ee463d55a3d615411dfc9f2f084c5879dcb5aaf3470afa7920fcfe43555c8ead
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1941
@@ -97,6 +97,15 @@ Miguel A. Torres (born 1941) is a Spanish winemaker, family-business president a
 ![A Penedès vineyard at sunset, with the Torres family estate in the distance](/media/photos/person-miguel-torres-50019c82.jpg)
 
 Figure: Familia Torres vineyard in Penedès. Image: Bodega torres, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Familia_torres_bodega_vinedo.jpg)).
+
+> **Quick verdict**
+> **In one line:** This profile explains why Miguel A. Torres is remembered, and which works to look at first.
+>
+> - **Best for:** Anyone trying to understand what Miguel A. Torres did and why the drink world remembers them.
+> - **Not for:** If you want only want anecdotes and do not care about historical position.
+> - **Check first:**
+>   - Mas La Plana is a site in Penedès where the family planted Cabernet Sauvignon in 1966.
+>   - In Penedès, start at the family winery in Vilafranca del Penedès, where the 1870 buildings, modern tasting room and cellars sit together.
 
 ## The fourth generation in Penedès
 

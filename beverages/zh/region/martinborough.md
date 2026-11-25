@@ -83,6 +83,15 @@ verification_scope: source-verified
 
 图：Martinborough：IMG9408 Martinborough vineyards, New Zealand（Wikimedia Commons）。图片：jonathanischoice，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:IMG9408_Martinborough_vineyards,_New_Zealand.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断马丁堡的风味与旅行价值，以及怎么安排。
+>
+> - **适合谁：** 正在比较马丁堡与其他产区、准备买酒或安排旅行的人。
+> - **不适合谁：** 只想要“哪个产区最贵”的结论、不关心风格和年份的人。
+> - **先看这两点：**
+>   - 看马丁堡酒标，先分清“Martinborough”与“Wairarapa”：前者是更小的地理标志，后者覆盖整个怀拉拉帕谷地，包括 Gladstone 与 Opaki。
+>   - 马丁堡村很小，多数品鉴室可以步行或短车程到达，适合把一天排成“两到三个预约 + 午餐”，而不是赶场。
+
 ## 先划清「马丁堡」的边界
 马丁堡位于惠灵顿东北约一小时车程的怀拉拉帕谷地南端，行政上属于南怀拉拉帕。它不是一个巨大的葡萄种植带，而是围绕马丁堡村展开的一小片产区：台地、村边地块与向东延伸的 Te Muna 一带共同构成今日的种植版图。对外行来说，最容易记住的是“小”；对种植者来说，真正重要的是这片小地方同时拥有排水极快的砾石台地、挡雨的 Tararua 山脉和足够长的秋季。
 

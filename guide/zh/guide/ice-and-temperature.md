@@ -80,9 +80,9 @@ verification_scope: source-verified
 
 加冰不是“会不会喝”的考试。冰同时做三件事：降温、稀释、改变香气释放。先想清楚你想保留什么，再决定怎么加。想保留香气，就别让冰太快融化；想降低刺激，就让温度和稀释都到位；想喝得久一点，就用大冰、慢融。
 
-![加冰这件事，没有标准答案 类型示意图](/media/photos/theme-route.jpg)
+![加冰这件事，没有标准答案 类型示意图](/media/figures/specific/guide-ice-and-temperature.svg)
 
-图：加冰这件事，没有标准答案 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是加冰这件事，没有标准答案的实拍。
+图：加冰这件事，没有标准答案 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 冰同时做三件事
 

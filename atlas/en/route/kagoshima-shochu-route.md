@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:kagoshima-shochu-route
 source_lang: zh
-source_revision: sha256:85556af52a68298909fc8eb9f065e3251f9bd12fe56ee607c16271094d7fa1ed
-source_sha256: 85556af52a68298909fc8eb9f065e3251f9bd12fe56ee607c16271094d7fa1ed
+source_revision: sha256:8adb56cb08e3a65b951fe408f09d19a9360d7d3630954647797c54d08a3dcf05
+source_sha256: 8adb56cb08e3a65b951fe408f09d19a9360d7d3630954647797c54d08a3dcf05
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -99,6 +99,15 @@ This Kagoshima shochu route puts two different kinds of shochu site into one dri
 ![Meijigura storehouse of the Hanatogawa distillery, Makurazaki](/media/photos/route-kagoshima-shochu-route-7e84cf52.jpg)
 
 Figure: The Meijigura storehouse of the Hanatogawa distillery in Makurazaki, with its sign and ceramic storage jars in the courtyard. Image: Sakaori, CC BY 3.0, via [source page](https://commons.wikimedia.org/wiki/File:Satsuma_Shuzo's_Kedogawa_Shochu_factory_and_museum,_Meijigura.JPG).
+
+> **Quick verdict**
+> **In one line:** This route helps you plan Kagoshima shochu route: Makurazaki to Miyakonojo, including the order, timing and stops that matter.
+>
+> - **Best for:** Anyone turning Kagoshima shochu route: Makurazaki to Miyakonojo into a one- or two-day route and needs the order and the stops that matter.
+> - **Not for:** If you want only want one stop and do not intend to follow a route.
+> - **Check first:**
+>   - - Stop one: Meijigura, 26 Tategamihonmachi, Makurazaki; 9:00–16:00, free admission, closed 30 December to 3 January.
+>   - Japan's liquor tax on shochu uses 20 degrees as the base: 200,000 yen per kilolitre, plus 10,000 yen for each degree above 20.
 
 ## Route overview
 

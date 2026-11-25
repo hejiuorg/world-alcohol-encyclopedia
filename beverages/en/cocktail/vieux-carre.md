@@ -11,8 +11,8 @@ revision: 1
 translation_of: cocktail:vieux-carre
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:98a7c79dd092efb30c9a562bac5b50497a129b8424d452725581f4122b71efb9
-source_sha256: 98a7c79dd092efb30c9a562bac5b50497a129b8424d452725581f4122b71efb9
+source_revision: sha256:307a0757dc112551e7983666014b6da50532cac41666150b5bc659111371f488
+source_sha256: 307a0757dc112551e7983666014b6da50532cac41666150b5bc659111371f488
 style: Classic cocktail
 ingredient_refs: []
 origin_place: New Orleans, United States (Hotel Monteleone, Walter Bergeron, 1938)
@@ -52,7 +52,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official recipe and classification; no source text is reproduced.
     accessed: 2026-11-07
@@ -100,13 +100,22 @@ The Vieux Carré is a short drink of [rye whiskey](ref:whisky), [Cognac](ref:bra
 
 Figure: A Vieux Carré over ice in an Old Fashioned glass; the orange peel and cherry garnish are not visible in this photograph. Image: ChodHound, CC BY-SA 2.0, via [source page](https://www.flickr.com/photo.gne?id=8609713590).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Vieux Carré, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Vieux Carré.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - The Vieux Carré and the Sazerac are often discussed together because both come from New Orleans and both use rye and Peychaud's.
+>   - Bourbon instead of rye gives a sweeter, rounder version.
+
 ## The French Quarter and the name
 
 Vieux Carré is French for "old square", and it refers to the French Quarter of New Orleans. The neighbourhood was laid out by French colonists in the 18th century, then passed through Spanish rule, American acquisition and several fires and rebuildings, producing the mixed French, Spanish and Caribbean texture of the modern district. Naming a drink after the old square is a way of putting a whole neighbourhood into a glass.
 
 The name is not decorative. The recipe contains French Cognac, French sweet vermouth and a French monastic liqueur, alongside American rye whiskey and New Orleans's own Peychaud's bitters. That combination of French ingredients and American spirit mirrors the city's layered culture. This is not a single-base cocktail; it is a drink that puts materials from several traditions into one glass and lets them explain each other.
 
-The streets and architecture of the French Quarter are often used as a visual reference for the drink, but this page does not turn that into tourist copy. The link between the name and the district is clear. Whether the recipe was deliberately designed to map the city's history is a later interpretation, not an archival fact.
+The streets and architecture of the French Quarter are often used as a visual reference for the drink, but this cocktail does not turn that into tourist copy. The link between the name and the district is clear. Whether the recipe was deliberately designed to map the city's history is a later interpretation, not an archival fact.
 
 ## 1938, Hotel Monteleone and Walter Bergeron
 

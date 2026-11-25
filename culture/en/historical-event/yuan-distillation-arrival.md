@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:yuan-distillation-arrival
 source_lang: zh
-source_revision: sha256:b4cca6428cc0618348137981a2401ebc512fb38d3567f180582a252a32c2fc95
-source_sha256: b4cca6428cc0618348137981a2401ebc512fb38d3567f180582a252a32c2fc95
+source_revision: sha256:62467dcb87c8fc13fa146aef2a13992c681c7298f4d285e1f1bdd77c0d603fe4
+source_sha256: 62467dcb87c8fc13fa146aef2a13992c681c7298f4d285e1f1bdd77c0d603fe4
 translation_status: reviewed
 aliases:
   - 阿剌吉
@@ -86,6 +86,15 @@ The Yuan period (1271–1368) marks a key technical turn in Chinese wine history
 
 Figure: "The Yuan Arrival of Distilled Liquor: Araq and Shaojiu". Photograph: File:ShaoxingXianheng.jpg. Credit: Jiong Sheng, CC BY-SA 2.0 ([source page](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)). Category image; not a claim that it shows the exact product, site or event.
 
+> **Quick verdict**
+> **In one line:** This essay explains the causes and consequences of The Yuan Arrival of Distilled Liquor: Araq and Shaojiu, and what it left behind.
+>
+> - **Best for:** Anyone trying to understand the causes, consequences and disputes around The Yuan Arrival of Distilled Liquor: Araq and Shaojiu.
+> - **Not for:** If you want only want one date and not the causes or consequences.
+> - **Check first:**
+>   - The records of the arrival cluster in the Yuan, especially in the 14th century.
+>   - Before distillation, the main body of Chinese wine was fermented wine of the huangjiu type.
+
 ## Date and place
 
 The records of the arrival cluster in the Yuan, especially in the 14th century. Hu Sihui's Yinshan Zhengyao, completed in 1330, says 'steam good wine and collect the dew to make araq'. Xu Youren's Zhizheng Ji says: 'In the world people use a water-fire cauldron to refine wine and collect the dew; the vapour is fierce and clear, and the autumn sky's evening mist is no better. Its method comes from the Western Regions; from the imperial household it reached noble families, and now it has spread across the world.' Ye Ziqi, writing at the turn of the Yuan and Ming, recalled: 'For method-wine, one uses a vessel to take the essence of the wine by burning, and it is called halaqi. The wine is extremely strong, clear as water, and is indeed wine dew... these are all method-wines of the Yuan dynasty, which did not exist in ancient times.'
@@ -110,7 +119,7 @@ Early drinkers did not respond only with praise. The Yinshan Zhengyao calls it '
 
 'Araq' is the core of a family of transcriptions: halaqi, zhalai ji, aliqi and alangqi are the same foreign word recorded differently in different texts. Sun Ji takes it as a transcription of Arabic 'araq. Two things need separating: the foreignness of the name shows that the word came from the Western Regions, but it cannot by itself prove that the technique too could only have come from there; the spread of techniques and the spread of words are not always in step.
 
-Another common misunderstanding equates araq directly with today's baijiu. In the Yuan and Ming, shaojiu, huijiu and araq jiu were general terms for distilled liquor, and the raw material could be glutinous rice, japonica rice, millet, sorghum or barley; modern baijiu is classified by aroma type, a concept formed later. This page therefore treats shaojiu as a technical category, not as the origin story of one aroma type.
+Another common misunderstanding equates araq directly with today's baijiu. In the Yuan and Ming, shaojiu, huijiu and araq jiu were general terms for distilled liquor, and the raw material could be glutinous rice, japonica rice, millet, sorghum or barley; modern baijiu is classified by aroma type, a concept formed later. This essay therefore treats shaojiu as a technical category, not as the origin story of one aroma type.
 
 ## Technique: from mash to wine dew
 
@@ -132,7 +141,7 @@ Fourth, it left a set of cross-language technical terms. Araq, halaqi, shaojiu a
 
 First, the documentary chain for the Yuan view is strong, but it is not an archaeological verdict. Sun Ji lists five sources, the Yinshan Zhengyao, Zhizheng Ji, Caomuzi, Bencao Gangmu and Wuli Xiaoshi, and notes that their authors were writing about their own or recent times, with one voice, so their authority cannot be ignored. But documentary agreement is not the same as proof that no still existed before.
 
-Second, the date of earlier objects is disputed. A set of bronze distillation vessels was unearthed at Xishanzui in Qinglong county, Chengde, Hebei. Some scholars dated it to the Jin and argued that distilled liquor already existed in the Song and Jin; Sun Ji notes that an accompanying drip tile with floral scrollwork resembles tiles from the Yuan residential site at Houyingfang alley inside Xizhimen, Beijing, and therefore dates the still to the Yuan as well. This page follows Sun Ji's dating but does not present the dispute as closed.
+Second, the date of earlier objects is disputed. A set of bronze distillation vessels was unearthed at Xishanzui in Qinglong county, Chengde, Hebei. Some scholars dated it to the Jin and argued that distilled liquor already existed in the Song and Jin; Sun Ji notes that an accompanying drip tile with floral scrollwork resembles tiles from the Yuan residential site at Houyingfang alley inside Xizhimen, Beijing, and therefore dates the still to the Yuan as well. This essay follows Sun Ji's dating but does not present the dispute as closed.
 
 Third, modern brand narratives often trace their origins back to the Han and Tang. Sun Ji says bluntly that 'distilled liquor did not yet exist then, so there is nowhere to claim kinship'. Such claims are commercial storytelling, not historical sources, and are not used here.
 

@@ -10,13 +10,13 @@ status: reviewed
 revision: 3
 translation_of: guide:read-a-label
 source_lang: zh
-source_revision: sha256:33cb253feb80d5cc82d49f9d4402191b9aee98f6722b3acd32e27536a9149742
-source_sha256: 33cb253feb80d5cc82d49f9d4402191b9aee98f6722b3acd32e27536a9149742
+source_revision: sha256:6e5732dd126c70d122819a35bff0391768e9c19d8ddb3ac6b5032458d0c6fe68
+source_sha256: 6e5732dd126c70d122819a35bff0391768e9c19d8ddb3ac6b5032458d0c6fe68
 translation_status: reviewed
 about_refs:
   - drink-style:whisky
   - drink-style:wine
-audience: readers who want useful information from a label
+audience: if you want want useful information from a label
 difficulty: beginner
 legacy_refs: []
 aliases: []
@@ -72,7 +72,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; based on EU, US and Chinese labelling rules and national standards, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks and images are not covered by this licence; regulations change, so the issuing body's current text prevails. No third-party images are used on this page.
+  note: Third-party standards, trademarks and images are not covered by this licence; regulations change, so the issuing body's current text prevails. No third-party images are used on this guide.
 verification_scope: source-verified
 ---
 
@@ -80,7 +80,7 @@ verification_scope: source-verified
 
 A label is a regulatory document before it is a brand story. Find the checkable facts first, then read the narrative. A label can tell you what the drink is, where it comes from and under which rules it was made, but it cannot decide whether you will like it.
 
-![A small label, plenty of clues thematic illustration](/media/photos/theme-route.jpg)
+![A small label, plenty of clues thematic illustration](/media/figures/specific/guide-read-a-label.svg)
 
 Figure: thematic illustration for A small label, plenty of clues. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -164,6 +164,6 @@ Awards and scores are also marketing information. The scope of an award, the com
 
 ## Boundary
 
-A label gives clues, but it does not replace tasting and cannot guarantee that you will like the drink. Regulations change and label formats change with them; for specific standards and rules, the issuing body's current text prevails. This page evaluates no specific brand and does not present any label word as a quality grade.
+A label gives clues, but it does not replace tasting and cannot guarantee that you will like the drink. Regulations change and label formats change with them; for specific standards and rules, the issuing body's current text prevails. This guide evaluates no specific brand and does not present any label word as a quality grade.
 
 Start with what it is. From there, consider where it comes from, then how it is used. That is how a practical judgment about A small label, plenty of clues is built.

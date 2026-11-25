@@ -132,7 +132,7 @@ The boundary between umeshu and plum spirit lies in raw material and process. Um
 ## Further reading and see also
 
 - Related: [liqueur](ref:liqueur), [soju](ref:soju), [fermentation](ref:fermentation), [terroir](ref:terroir), [japan](ref:japan).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This ingredient offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 The comparison with [Liqueur](ref:liqueur) and [Fermentation](ref:fermentation) runs through plant or material identity and origin. Each answers a different question.
 
@@ -152,4 +152,4 @@ A frequent error is to treat Plum as a finished drink. Establish what it is, the
 
 **Sources and limits.** The key claims about Plum are checked against the following sources: FAO (crop, production-region and processing background), USDA (agricultural, botanical and nutritional material), CGIAR (crop germplasm and agricultural research frameworks) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Plum, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Plum, this ingredient was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

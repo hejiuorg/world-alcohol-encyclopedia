@@ -103,6 +103,15 @@ updated_at: 2026-11-08
 
 图：斯佩塞麦芽威士忌路线：达夫镇、Craigellachie 与 Ballindalloch所经地区的一处实景。图片：Coldupnorth，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenfiddich_Distillery_View.jpg)）。这张照片用于说明斯佩塞麦芽威士忌路线：达夫镇、Craigellachie 与 Ballindalloch所经过的产区或城市环境，不标定其具体停靠点。
 
+> **先给结论**
+> **一句话：** 这页判断斯佩塞麦芽威士忌路线：达夫镇、Craigellachie 与 Ballindalloch怎么排、走多久、哪些点不能省。
+>
+> - **适合谁：** 想把斯佩塞麦芽威士忌路线：达夫镇、Craigellachie 与 Ballindalloch排成一日或两日行程、需要知道顺序与停留重点的人。
+> - **不适合谁：** 只想看单个地点、不打算按路线走的人。
+> - **先看这两点：**
+>   - - 第一站：格兰菲迪蒸馏厂，Glenfiddich Distillery, Dufftown, Keith AB55 4DH；1886 年动工。
+>   - 这条路线以自驾或包车为主。
+
 ## 路线概览
 
 - 第一站：[格兰菲迪蒸馏厂](ref:glenfiddich)，Glenfiddich Distillery, Dufftown, Keith AB55 4DH；1886 年动工，1887 年圣诞节首次出酒，至今由 Grant 家族独立持有。

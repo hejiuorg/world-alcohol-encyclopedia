@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:bourbon
 source_lang: zh
-source_revision: sha256:0b2483e6f74c953e656d5906e001dc130faa1bffd2ee69116e10d347eedb84a2
-source_sha256: 0b2483e6f74c953e656d5906e001dc130faa1bffd2ee69116e10d347eedb84a2
+source_revision: sha256:d76c950095235e38c911e12ee9c5b6929aa22991f6fd15d867df87f4d02478d7
+source_sha256: d76c950095235e38c911e12ee9c5b6929aa22991f6fd15d867df87f4d02478d7
 translation_status: reviewed
 parent_style_id: drink-style:whisky
 legacy_refs: []
@@ -90,7 +90,7 @@ verification_scope: source-verified
 
 # Bourbon Whiskey
 
-Bourbon is the American whiskey category built on a corn-led grain recipe and maturation in new charred oak. [Whisky](ref:whisky) is the wider family; bourbon is one subset with a precise federal definition, and not every American whiskey qualifies. This page deals with the style itself — its rules, raw materials and process — rather than with the commercial use of the name “bourbon whiskey”, which is covered separately.![Bourbon Whiskey thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Bourbon is the American whiskey category built on a corn-led grain recipe and maturation in new charred oak. [Whisky](ref:whisky) is the wider family; bourbon is one subset with a precise federal definition, and not every American whiskey qualifies. This style deals with the style itself — its rules, raw materials and process — rather than with the commercial use of the name “bourbon whiskey”, which is covered separately.![Bourbon Whiskey thematic illustration](/media/figures/specific/drink-style-bourbon.svg)
 
 Figure: thematic illustration for Bourbon Whiskey. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 
@@ -134,7 +134,7 @@ Equating bourbon with Kentucky is the most common consumer simplification. Limes
 
 Three broad flavour directions are useful. High-rye recipes are spicier and drier on the finish, suiting neat drinking and the Old Fashioned; wheated recipes are softer, often with bread, honey and cream; high-corn recipes are sweeter and fuller in body.
 
-Representative producers include Buffalo Trace, Maker's Mark, Wild Turkey, Four Roses, Heaven Hill and Jim Beam. Their core ranges span different recipes and price points, but specific expressions change in recipe, age and batch, so the label remains the guide. This page does not rank brands.
+Representative producers include Buffalo Trace, Maker's Mark, Wild Turkey, Four Roses, Heaven Hill and Jim Beam. Their core ranges span different recipes and price points, but specific expressions change in recipe, age and batch, so the label remains the guide. This style does not rank brands.
 
 ## Boundaries against neighbouring categories
 

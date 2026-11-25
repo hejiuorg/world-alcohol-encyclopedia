@@ -107,7 +107,7 @@ Cordon Bleu is not a legal grade and not a vintage statement. The legal Cognac g
 
 Martell was founded by Jean Martell in 1715, the earliest of the major Cognac houses, and now belongs to the [Pernod Ricard](ref:pernod-ricard) group. The brand has long made Borderies eaux-de-vie central to its style, emphasising softness, fruit and a fine structure.
 
-Cordon Bleu was created in 1912 by Édouard Martell, and the name comes from the blue ribbon (Cordon Bleu); the exact naming background should be checked against official brand material, and this page does not treat it as a legal regional or grade name. Brand history and product age are separate dimensions, and a founding year cannot replace bottle age.
+Cordon Bleu was created in 1912 by Édouard Martell, and the name comes from the blue ribbon (Cordon Bleu); the exact naming background should be checked against official brand material, and this entry does not treat it as a legal regional or grade name. Brand history and product age are separate dimensions, and a founding year cannot replace bottle age.
 
 ## Region and ingredients
 
@@ -141,7 +141,7 @@ It can also be used in mixing, but an aged Cognac is costly, so that is a person
 
 ## Buying and storage
 
-Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market, channel and batch, so this page gives no figures; gift boxes and limited packaging do not change the identity of the liquid, and the label remains the basis for judgement.
+Buy through regular channels and check anti-counterfeit marks, the local back label, importer and batch number. Prices move with market, channel and batch, so this entry gives no figures; gift boxes and limited packaging do not change the identity of the liquid, and the label remains the basis for judgement.
 
 An unopened bottle can be kept for years in a dark, cool place, standing upright to limit contact between liquid and cork. Once opened, the Cognac oxidises slowly and its aroma shifts month by month, so it is best finished within a few months. Strong odours in the storage environment can also reach the liquid.
 

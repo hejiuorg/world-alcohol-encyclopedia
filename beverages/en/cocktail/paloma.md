@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:paloma
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:defd47e57f140a4be621288a096f74f6fdf7f66202f15616386498a0470fe692
-source_sha256: defd47e57f140a4be621288a096f74f6fdf7f66202f15616386498a0470fe692
+source_revision: sha256:e2cdab4821bce15ff152e15b20e0d5797c8230387ed45250557a7b9b219c9101
+source_sha256: e2cdab4821bce15ff152e15b20e0d5797c8230387ed45250557a7b9b219c9101
 style: 现代经典鸡尾酒
 ingredient_refs: []
 origin_place: Mexico (as the widely told story)
@@ -48,7 +48,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the official cocktail list and the classification context of tequila cocktails; no source text is reproduced.
     accessed: 2026-11-07
@@ -85,9 +85,18 @@ The Paloma is a long drink of tequila, grapefruit flavour and lime. It is usuall
 
 Figure: Related photograph of Paloma. Image: Andy Li, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Paloma_Spritz_-_Purezza_2024-12-17.jpg)).
 
+> **Quick verdict**
+> **In one line:** This cocktail helps you decide whether to order Paloma, and how ratio, ice and water change it.
+>
+> - **Best for:** Anyone who wants the logic, serving method and common mistakes behind Paloma.
+> - **Not for:** If you want only want a strong drink and do not care about ratio, ice or water.
+> - **Check first:**
+>   - Start with the base and the ratio.
+>   - There is no single archive for the Paloma's origin.
+
 ## Origin and naming
 
-There is no single archive for the Paloma's origin. The widely told story places it in Mexico in the mid-twentieth century and links it to the popularity of local grapefruit-flavoured drinks; other accounts connect it to a brand or a bar promotion. The inventor, the year and the first location differ between versions, so this page treats the story as widely told rather than documented. No single date should be presented as settled fact.
+There is no single archive for the Paloma's origin. The widely told story places it in Mexico in the mid-twentieth century and links it to the popularity of local grapefruit-flavoured drinks; other accounts connect it to a brand or a bar promotion. The inventor, the year and the first location differ between versions, so this cocktail treats the story as widely told rather than documented. No single date should be presented as settled fact.
 
 "Paloma" means "dove" in Spanish and has no direct relationship to the taste. Explanations of the name include a namer's preference or a trademark or nickname for a drink, but these accounts lack consistent public records. The charm of the name should not be written as confirmed history; it is safer to say that the name belongs to Mexican Spanish naming habits and that the specific motive is unknown.
 

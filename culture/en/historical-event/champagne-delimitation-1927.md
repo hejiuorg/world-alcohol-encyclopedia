@@ -128,7 +128,7 @@ Third, it left long-running disputes. The 105 suspended communes remain inside t
 
 Fourth, its delimitation logic can be compared with other regions. Bordeaux's 1855 classification ranks châteaux, Burgundy's ranks parcels, and Champagne's 1927 law uses a composite standard of 'commune, parcel, planting history'; all answer 'who may use the place name', but with different answers.
 
-Fifth, the map question needs stating. This page draws no map of the Champagne region: the 1927 parcel lists and today's boundaries need specialised geographic data and sources, and an invented boundary map would mislead readers.
+Fifth, the map question needs stating. This essay draws no map of the Champagne region: the 1927 parcel lists and today's boundaries need specialised geographic data and sources, and an invented boundary map would mislead readers.
 
 ## Timeline
 

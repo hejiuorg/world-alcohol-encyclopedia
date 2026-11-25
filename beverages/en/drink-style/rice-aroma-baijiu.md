@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:rice-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f03407db97fae18507ea7aa719da3ffb893780bd706a4e8b5cea3441a4044c3a
-source_sha256: f03407db97fae18507ea7aa719da3ffb893780bd706a4e8b5cea3441a4044c3a
+source_revision: sha256:4636afb83dcae353140715b253e1d4d71866ca88945652ecc12af19cd632298e
+source_sha256: 4636afb83dcae353140715b253e1d4d71866ca88945652ecc12af19cd632298e
 legacy_refs: []
 aliases:
   - Mixiangxing baijiu
@@ -88,7 +88,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original project writing verified against public national-standard information, industry reporting and reference works; no original text is reproduced. The project owner declared on 2026-10-29 that project content is licensed CC BY 4.0.
-  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This page uses no third-party images.
+  note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
 # Rice-aroma baijiu
@@ -98,6 +98,15 @@ Rice-aroma is the lightest branch of Chinese baijiu: rice is the only material, 
 ![Rice-aroma baijiu image](/media/photos/drink-style-rice-aroma-baijiu-1c3af236.jpg)
 
 Figure: Rice-aroma baijiu. Image: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)).
+
+> **Quick verdict**
+> **In one line:** This style places Rice-aroma baijiu on the flavour map, and helps you choose and serve it.
+>
+> - **Best for:** Anyone comparing Rice-aroma baijiu with other styles before buying or ordering.
+> - **Not for:** If you want want a single “best” ranking and reject stylistic difference.
+> - **Check first:**
+>   - The old standard was GB/T 10781.3-2006.
+>   - Rice-aroma baijiu is made mainly from rice through fermentation and distillation.
 
 ## A distilled spirit made from rice
 

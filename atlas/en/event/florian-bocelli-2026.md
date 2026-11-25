@@ -5,7 +5,7 @@ type: event
 lang: en
 slug: florian-bocelli-2026
 title: "Andrea Bocelli in Piazza San Marco: a Caffè Florian concert in 2026"
-summary: On the evening of 27 June 2026 Andrea Bocelli performed in Piazza San Marco in Venice, with Caffè Florian opening its terrace and arcade seats at 200 euros per person. The performance has ended; this page records that edition's arrangements, cancellation rules and verification limits.
+summary: On the evening of 27 June 2026 Andrea Bocelli performed in Piazza San Marco in Venice, with Caffè Florian opening its terrace and arcade seats at 200 euros per person. The performance has ended; this event records that edition's arrangements, cancellation rules and verification limits.
 status: reviewed
 revision: 4
 translation_of: event:florian-bocelli-2026
@@ -84,7 +84,7 @@ event_status: past
 ---
 # Andrea Bocelli in Piazza San Marco: a Caffè Florian concert in 2026
 
-On the evening of 27 June 2026, Andrea Bocelli performed in Piazza San Marco in Venice. It was one of the 2026 summer “Concerti in Piazza” series at Caffè Florian, which opened its terrace and arcade seats to the audience at 200 euros per person. The performance has ended, and this page records that year's arrangements and rules.
+On the evening of 27 June 2026, Andrea Bocelli performed in Piazza San Marco in Venice. It was one of the 2026 summer “Concerti in Piazza” series at Caffè Florian, which opened its terrace and arcade seats to the audience at 200 euros per person. The performance has ended, and this event records that year's arrangements and rules.
 
 ![Andrea Bocelli in Piazza San Marco: a Caffè Florian concert in 2026 category illustration](/media/photos/theme-wine-spirits.jpg)
 
@@ -92,9 +92,9 @@ Figure: Andrea Bocelli in Piazza San Marco: a Caffè Florian concert in 2026. Pr
 
 ## Organiser and edition
 
-The organiser and venue is Caffè Florian in Venice. It stands under the arcade of the Procuratie Nuove on Piazza San Marco and opened on 29 December 1720, making it one of the oldest cafés in the city. The performance itself was produced by the café's events team together with the performers; the official page says little about the production team, and this page does not fill the gap.
+The organiser and venue is Caffè Florian in Venice. It stands under the arcade of the Procuratie Nuove on Piazza San Marco and opened on 29 December 1720, making it one of the oldest cafés in the city. The performance itself was produced by the café's events team together with the performers; the official page says little about the production team, and this event does not fill the gap.
 
-On the edition, the official page does not number the concert as “the nth edition” and simply lists it in the 2026 summer concert series. This page therefore records it by year and series and does not invent a number. What can be confirmed is that it was not a regular theatre concert but a temporary conversion of the square and café terrace into a performance space.
+On the edition, the official page does not number the concert as “the nth edition” and simply lists it in the 2026 summer concert series. This event therefore records it by year and series and does not invent a number. What can be confirmed is that it was not a regular theatre concert but a temporary conversion of the square and café terrace into a performance space.
 
 ## Date and place
 
@@ -110,7 +110,7 @@ Date and time are separated because the official page gives only the start. Trea
 
 The official event page presents the concert as a stop on Bocelli's world tour, marking the 30th anniversary of the album Romanza. The page states that the album is one of the best-selling records by an Italian artist worldwide, with more than twenty million copies sold. The venue is Piazza San Marco, not a theatre interior.
 
-The programme, guests and band arrangement are not fully published on the official page, and this page does not guess them. What can be confirmed is that the booking includes a welcome drink; the audience is buying not only the performance but also a seat, service and a view of the square in a historic café. For Caffè Florian, the event is part of its identity as a “square café”: coffee and seats by day, a concert terrace on summer evenings.
+The programme, guests and band arrangement are not fully published on the official page, and this event does not guess them. What can be confirmed is that the booking includes a welcome drink; the audience is buying not only the performance but also a seat, service and a view of the square in a historic café. For Caffè Florian, the event is part of its identity as a “square café”: coffee and seats by day, a concert terrace on summer evenings.
 
 ## How to attend
 
@@ -122,13 +122,13 @@ This rule matters for understanding Venetian square cafés: the seat itself is t
 
 The official cancellation rule is: more than 15 days before the event, cancellation by email is free; from the 14th day until the event itself, the booking cannot be cancelled or refunded. This makes last-minute changes expensive, so anyone planning a similar event should confirm travel first and keep the official confirmation email.
 
-Entry is at 20:30 and the performance begins at 21:00. The concert takes place in the open square and under the arcade, so sound, lighting and crowd conditions are affected by weather and the site; the official page does not describe a rain plan, and this page therefore does not promise “postponed in rain” or “full refund”. Photography, recording and dress requirements are also not fully listed and should follow staff instructions on the day.
+Entry is at 20:30 and the performance begins at 21:00. The concert takes place in the open square and under the arcade, so sound, lighting and crowd conditions are affected by weather and the site; the official page does not describe a rain plan, and this event therefore does not promise “postponed in rain” or “full refund”. Photography, recording and dress requirements are also not fully listed and should follow staff instructions on the day.
 
 ## Verification status
 
-This page is based on three sources: the Caffè Florian official event page, for the date, start time, price, seating zones, welcome drink and cancellation rules; the official series page, for the 2026 summer concerts and booking method; and Bocelli's official website, for the artist and tour background. All three are organiser or artist channels.
+This event is based on three sources: the Caffè Florian official event page, for the date, start time, price, seating zones, welcome drink and cancellation rules; the official series page, for the 2026 summer concerts and booking method; and Bocelli's official website, for the artist and tour background. All three are organiser or artist channels.
 
-Items that could not be verified include: the actual finishing time, the full programme, the guest list, the rain plan, photography and recording rules, and whether the performance can be seen from outside. The official pages do not publish these, and this page does not guess. The event status is past (`event_status: past`), and the last review date is 2026-11-08. Prices, seating, cancellation policies and line-ups change by performance; anyone planning to attend in future should rely on that year's official event page and the organiser's announcement.
+Items that could not be verified include: the actual finishing time, the full programme, the guest list, the rain plan, photography and recording rules, and whether the performance can be seen from outside. The official pages do not publish these, and this event does not guess. The event status is past (`event_status: past`), and the last review date is 2026-11-08. Prices, seating, cancellation policies and line-ups change by performance; anyone planning to attend in future should rely on that year's official event page and the organiser's announcement.
 
 ## See also
 
@@ -137,7 +137,7 @@ Items that could not be verified include: the actual finishing time, the full pr
 - [Harry's Bar (Venice)](ref:harrys-bar-venice): another historic bar within walking distance of St Mark's Square.
 - [Wine and festivals](ref:wine-and-festivals): how festivals and public drinking occasions relate.
 
-**In brief:** On the evening of 27 June 2026 Andrea Bocelli performed in Piazza San Marco in Venice, with Caffè Florian opening its terrace and arcade seats at 200 euros per person. The performance has ended; this page records that edition's arrangements, cancellation rules and verification limits.
+**In brief:** On the evening of 27 June 2026 Andrea Bocelli performed in Piazza San Marco in Venice, with Caffè Florian opening its terrace and arcade seats at 200 euros per person. The performance has ended; this event records that edition's arrangements, cancellation rules and verification limits.
 
 For Andrea Bocelli in Piazza San Marco, begin with the date and venue. Then look at the organiser, and finally ask what changed afterwards. The answers point to different choices, not to a single score.
 
@@ -147,7 +147,7 @@ A permanent venue is not a safe shorthand for Andrea Bocelli in Piazza San Marco
 
 | Item | Detail |
 | --- | --- |
-| In one line | On the evening of 27 June 2026 Andrea Bocelli performed in Piazza San Marco in Venice, with Caffè Florian opening its terrace and arcade seats at 200 euros per person. The performance has ended; this page records that ed… |
+| In one line | On the evening of 27 June 2026 Andrea Bocelli performed in Piazza San Marco in Venice, with Caffè Florian opening its terrace and arcade seats at 200 euros per person. The performance has ended; this event records that ed… |
 | Dates | 2026-06-27–2026-06-27 |
 | Venue | Caffè Florian |
 | Official site | caffeflorian.com |

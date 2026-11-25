@@ -106,6 +106,15 @@ verification_scope: source-verified
 
 图：Saperavi：Saperavibunch（Wikimedia Commons）。图片：Lebowskyclone，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Saperavibunch.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断萨佩拉维适不适合你，以及怎么比较其他品种。
+>
+> - **适合谁：** 正在比较萨佩拉维与其他品种、想弄懂风味差异的人。
+> - **不适合谁：** 只想要单一名庄推荐、不关心品种本身的人。
+> - **先看这两点：**
+>   - 干型与珍藏萨佩拉维侍酒温度约 16–18°C；半甜款可略凉，约 14–16°C。
+>   - 误区一：把染色品种当成颜色深的普通红葡萄。
+
 ## 定义与命名
 
 Saperavi 在格鲁吉亚语里意为“染料、上色之物”，直接指向它红色果肉带来的强染色能力。多数红葡萄的色素只存在于果皮，榨汁后果汁偏浅粉；萨佩拉维的果肉（ pulp ）本身含花青素，压碎后流出的汁液就是饱和的紫红深红，酿成的酒年轻时常常近不透明，这是它最直观的识别特征。

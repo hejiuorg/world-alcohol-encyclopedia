@@ -89,7 +89,7 @@ verification_scope: source-verified
 ---
 # Bourbon whiskey
 
-“Bourbon whiskey” is the English name of a spirit category and also a commercial name used around the world. This page is about the name: how it is built, where it gets misapplied, and how it relates to neighbouring categories and label vocabulary. The grain recipe, distillation and maturation mechanics belong to the [bourbon](ref:bourbon) entry and are not repeated here.
+“Bourbon whiskey” is the English name of a spirit category and also a commercial name used around the world. This style is about the name: how it is built, where it gets misapplied, and how it relates to neighbouring categories and label vocabulary. The grain recipe, distillation and maturation mechanics belong to the [bourbon](ref:bourbon) entry and are not repeated here.
 
 ![Bourbon glass embossed BOURBON FRONTIER WHISKEY](/media/photos/drink-style-bourbon-whiskey-535c276f.jpg)
 

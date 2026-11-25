@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: vessel:rocks-glass
 source_lang: zh
-source_revision: sha256:b2dd1135e88447d8321e5a2b3ee0a42ce018ad68c7782d1ff5e8e3a592aadf20
-source_sha256: b2dd1135e88447d8321e5a2b3ee0a42ce018ad68c7782d1ff5e8e3a592aadf20
+source_revision: sha256:882c0ffa4c77173df54b244976a252916600c9b28e931e0f3053513cfa4c802e
+source_sha256: 882c0ffa4c77173df54b244976a252916600c9b28e931e0f3053513cfa4c802e
 translation_status: reviewed
 materials:
   - glass
@@ -66,7 +66,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -99,7 +99,7 @@ The Chinese name for this glass comes from its typical use, the Old-fashioned co
 
 ## Shape and capacity
 
-There is no single capacity standard for a rocks glass. Common sizes range from smaller to larger, and wall thickness, base thickness and rim diameter all vary. This page therefore gives no "standard capacity" and does not assume that every rocks glass holds the same number of millilitres.
+There is no single capacity standard for a rocks glass. Common sizes range from smaller to larger, and wall thickness, base thickness and rim diameter all vary. This glass therefore gives no "standard capacity" and does not assume that every rocks glass holds the same number of millilitres.
 
 Capacity differences directly affect use: a small glass with a large cube leaves too little room for liquid and spills easily; a large glass with small ice creates too much headspace and aroma disperses. In practice, first see what size of ice your glass can hold, then decide how much to pour. "Ice as needed" in a recipe should be adjusted to the glass, not copied blindly.
 
@@ -153,7 +153,7 @@ If you buy only one, choose a medium-capacity model with slightly thicker walls;
 
 ## Boundary
 
-A rocks glass is a tool, not a status symbol. Capacity, ice shape and temperature usually affect the result more than price. This page recommends no specific brand and does not present any one shape as the only correct choice; actual use should follow the glass you have and your own impression.
+A rocks glass is a tool, not a status symbol. Capacity, ice shape and temperature usually affect the result more than price. This glass recommends no specific brand and does not present any one shape as the only correct choice; actual use should follow the glass you have and your own impression.
 
 Read [Negroni recipe (IBA version)](ref:recipe) for the material side of Rocks glass, and [Ice is a choice, not a test](ref:ice) for the capacity side. Together they locate it.
 

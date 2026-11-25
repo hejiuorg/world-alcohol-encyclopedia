@@ -104,6 +104,15 @@ verification_scope: source-verified
 
 图："艾瑞酒庄"所在的威拉米特谷风貌配图。图片：Rvannatta ( talk · contribs ) Image edits: Peteforsyth ( talk · contribs )，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wvatbethel1.jpg)）。这张照片用于说明产区环境与访问语境，不标定"艾瑞酒庄"的门店、酒庄或活动现场。
 
+> **先给结论**
+> **一句话：** 这页判断艾瑞酒庄值不值得专程去，以及到访前要核对什么。
+>
+> - **适合谁：** 正在计划去艾瑞酒庄、想知道值不值得专程安排半天到一天的人。
+> - **不适合谁：** 只想要“必去榜单”、不准备核对预约、交通和开放时间的人。
+> - **先看这两点：**
+>   - 艾瑞的品鉴以预约为主，酒厂在 McMinnville 的 Kutch Street，葡萄园在 Dundee Hills；参观通常以酒厂品鉴为核心。
+>   - 艾瑞的品鉴室很小，别把这里当成打卡点。
+
 ## 1965 年：艾瑞酒庄的关键起点
 艾瑞位于俄勒冈 Dundee Hills，酒厂设在 McMinnville 的 Kutch Street，葡萄园则在 Dundee Hills 的南向坡地上。1965 年 2 月，David Lett 在 Corvallis 附近把从加州戴维斯带出的 3,000 根插条种进苗圃，一边找永久园址；这批材料里有后来成为俄勒冈主力克隆的 Wädenswil 黑皮诺，也有美国第一批商业种植的灰皮诺。1966 年，他和新婚妻子 Diana 在 Dundee Hills 买下 20 英亩山坡，用蜜月时间种下第一批五英亩葡萄。
 

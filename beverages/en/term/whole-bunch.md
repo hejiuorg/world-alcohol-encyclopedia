@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:whole-bunch
 source_lang: zh
-source_revision: sha256:416d55145c5a181f3c42bb7fdb7bedfeed8e997f3aff011542cfd3082a02a374
-source_sha256: 416d55145c5a181f3c42bb7fdb7bedfeed8e997f3aff011542cfd3082a02a374
+source_revision: sha256:45431ea145ce3ec6847a0ebf97721534d1f763722e80774e00f62f91030b6f06
+source_sha256: 45431ea145ce3ec6847a0ebf97721534d1f763722e80774e00f62f91030b6f06
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -76,7 +76,7 @@ verification_scope: source-verified
 
 Whole-bunch fermentation (also whole cluster) means putting intact grape clusters, stems included, into the fermenter. It can be the entire crop, or only a share, with the rest destemmed and crushed. What changes is not whether fermentation happens but the environment of fermentation, the direction of extraction and the rhythm of oxidation.
 
-![Whole bunch thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Whole bunch thematic illustration](/media/figures/specific/term-whole-bunch.svg)
 
 Figure: thematic illustration for Whole bunch. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

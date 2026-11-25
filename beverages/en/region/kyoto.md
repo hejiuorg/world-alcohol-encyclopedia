@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:kyoto
 source_lang: zh
-source_revision: sha256:79b77ea070e5c4d2026614de1185c438544f4ed58ba8f4d13b9b1302cf700928
-source_sha256: 79b77ea070e5c4d2026614de1185c438544f4ed58ba8f4d13b9b1302cf700928
+source_revision: sha256:b691e184010a8c337e92d466d83cdc1299dabae64445c65ad29f4ba4b2382651
+source_sha256: b691e184010a8c337e92d466d83cdc1299dabae64445c65ad29f4ba4b2382651
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -89,11 +89,20 @@ verification_scope: source-verified
 
 # Kyoto
 
-Kyoto is first a [Japanese](ref:japan) city and also a prefecture. As a [sake](ref:sake) region, "Kyoto" can mean the breweries inside Kyoto City or the brewing tradition of the whole prefecture. This page treats the prefecture-level geography: it places Rakuchu, Fushimi, Kyoto Tanba, Miyazu, Fukuchiyama, and Kyotango-Mineyama on one map, without repeating Fushimi's canal and museum details.
+Kyoto is first a [Japanese](ref:japan) city and also a prefecture. As a [sake](ref:sake) region, "Kyoto" can mean the breweries inside Kyoto City or the brewing tradition of the whole prefecture. This region treats the prefecture-level geography: it places Rakuchu, Fushimi, Kyoto Tanba, Miyazu, Fukuchiyama, and Kyotango-Mineyama on one map, without repeating Fushimi's canal and museum details.
 
 ![Kyoto image](/media/photos/region-kyoto-24e117a7.jpg)
 
 Figure: Kyoto. Image: Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-02.jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Kyoto for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Kyoto with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Kyoto food culture centres on seasonality, restraint, and the taste of the ingredient.
+>   - For Kyoto, begin with the appellation and its permitted varieties.
 
 ## Definition and scope
 
@@ -105,7 +114,7 @@ Treating Kyoto Prefecture and Kyoto City as the same thing misses the key geogra
 
 Rakuchu means the central wards of Kyoto. Breweries were once dense there; today only a few small producers remain. In the association list, the Rakuchu group includes Sasaki Shuzo in Kamigyo, Matsui Shuzo in Sakyo, and Haneda Shuzo in the Kyokita area of Ukyo. They are small, but their ranges are complete, with junmai, ginjo, honjozo, and seasonal releases. Rakuchu's advantage is not volume but proximity to Kyoto's consumers, temples, restaurants, and tourist routes.
 
-Fushimi is the largest sake cluster in the prefecture and has its own association, spread along the Uji River and the Horikawa. It includes Gekkeikan, Kizakura, Kinshi Masamune, and Tamanohikari, as well as several small and mid-sized breweries. Fushimi's water, shipping, and museum system is a separate story; this page mentions it only at the level of division, without expanding on Fushui, the Jikkokubune boats, or the memorial museums, to avoid duplicating the Fushimi page.
+Fushimi is the largest sake cluster in the prefecture and has its own association, spread along the Uji River and the Horikawa. It includes Gekkeikan, Kizakura, Kinshi Masamune, and Tamanohikari, as well as several small and mid-sized breweries. Fushimi's water, shipping, and museum system is a separate story; this region mentions it only at the level of division, without expanding on Fushui, the Jikkokubune boats, or the memorial museums, to avoid duplicating the Fushimi page.
 
 Kyoto Tanba, Miyazu, Fukuchiyama, and Kyotango-Mineyama are the prefecture's rural sake areas. They lie in the Tanba highlands, on the Sea of Japan side around Miyazu and Maizuru, and in the Kyotango region. Their climate and water differ from central Kyoto, and their styles are closer to local drinking habits. The Kyoto Tanba group includes breweries in Kameoka and Kyotanba; the Miyazu group includes Miyazu, Maizuru, Yosano, and Ine; the Kyotango-Mineyama group is concentrated in Kyotango. Listing these names shows that Kyoto Prefecture is not built on a single Fushimi template.
 

@@ -71,7 +71,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against a publisher description, museum material and a bibliographical notice, with no source text reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this book entry.
 verification_scope: source-verified
 ---
 # Beishan Jiujing (Classic of Wine)
@@ -110,7 +110,7 @@ The limits are equally clear. First, it serves rice-wine production in a particu
 
 ## Who should read it
 
-- Readers who want to understand traditional [qu-making](ref:qu-making) and yellow-wine brewing can start with the middle and lower volumes, then return to the general survey.
+- If you want want to understand traditional [qu-making](ref:qu-making) and yellow-wine brewing can start with the middle and lower volumes, then return to the general survey.
 - Readers of the Qimin Yaoshu or Song notebooks who want a more focused and systematic brewing text.
 - Students of Chinese drinks history, the history of technology and food history can use it as a primary source, together with annotated editions and research literature.
 - Anyone hoping to brew at home by the old methods should treat it as a historical document, not a manual; modern home brewing also requires food-safety and microbiological control.

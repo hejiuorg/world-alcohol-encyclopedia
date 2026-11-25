@@ -92,6 +92,15 @@ verification_scope: source-verified
 
 图：雪莉小杯。图片：User:Theroadislong，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Twisted_stem_glass.JPG)）。
 
+> **先给结论**
+> **一句话：** 这页判断雪莉小杯为什么影响香气，以及该配什么酒。
+>
+> - **适合谁：** 想弄懂雪莉小杯为什么影响香气与口感的人。
+> - **不适合谁：** 只想要“买最贵杯子”的结论、不关心酒款匹配的人。
+> - **先看这两点：**
+>   - 雪莉产自西班牙南部的赫雷斯（Jerez de la Frontera）、圣玛丽亚港（El Puerto de Santa María）与桑卢卡尔（Sanlúcar。
+>   - 选购时先看容量与杯腹比例。
+
 ## copita 的字面意思是“小杯子”
 
 copita 是西班牙语 copa（杯子、酒杯）的指小词，字面就是“小杯子”。在西班牙的酒馆里，这个词可以泛指任何小杯；在雪莉产区，它逐渐固定为一种特定的品鉴杯：带梗、小腹、收口、容量约一小杯。

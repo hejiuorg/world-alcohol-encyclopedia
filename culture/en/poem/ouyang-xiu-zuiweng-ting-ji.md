@@ -11,8 +11,8 @@ revision: 1
 translation_of: poem:ouyang-xiu-zuiweng-ting-ji
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:530ed7ab29ce93626ece3554f9ce378b7346a20dc69edf3c159f1249ac5cf49f
-source_sha256: 530ed7ab29ce93626ece3554f9ce378b7346a20dc69edf3c159f1249ac5cf49f
+source_revision: sha256:53f8407ffbb9eb1c1743705a4e9344f3893a7aebd1d3ec4100ab737ebf5ab9af
+source_sha256: 53f8407ffbb9eb1c1743705a4e9344f3893a7aebd1d3ec4100ab737ebf5ab9af
 author_name: Ouyang Xiu
 source_title: Collected Works of Ouyang Wenzhong
 dynasty: Northern Song
@@ -93,6 +93,15 @@ The Pavilion of the Old Drunkard is so famous that one of its lines has become a
 ![Portrait of Ouyang Xiu](/media/photos/poem-ouyang-xiu-zuiweng-ting-ji-ad2bb31f.jpg)
 
 Figure: A portrait of Ouyang Xiu. This is not a view of the Pavilion of the Old Drunkard or a manuscript of the essay. Image: Wikimedia Commons contributor, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ouyang_Xiu.jpg)).
+
+> **Quick verdict**
+> **In one line:** This poem entry explains why The Pavilion of the Old Drunkard: Ouyang Xiu on exile, landscape and local government matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants The Pavilion of the Old Drunkard: Ouyang Xiu on exile, landscape and local government in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - In 1046 Ouyang Xiu was sent to Chuzhou as magistrate after the failure of the Qingli reforms, which he had supported.
+>   - All around Chu is mountain.
 
 ## Title and text
 

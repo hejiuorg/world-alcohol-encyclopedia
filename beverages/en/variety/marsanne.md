@@ -145,7 +145,7 @@ To study Marsanne, read botanical and viticultural sources first, then taste thr
 Compare Marsanne and Roussanne from the same appellation and vintage, then a Hermitage blanc with an Australian Marsanne. Record acidity, alcohol, oak and lees contact; those variables explain the difference between wax-and-nut texture and a leaner, more floral profile.
 
 - Related: [rhone](ref:rhone), [roussanne](ref:roussanne), [white-wine](ref:white), [oak-ageing](ref:oak), [terroir](ref:terroir).
-- This page offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
+- This variety offers no plant identification, prices or shopping channels; a label name is not a botanical identification.
 
 **At a glance:** A white grape of the Northern Rhône, usually blended with Roussanne; full-bodied, low in acidity, with honey, beeswax, nuts and white flowers, rounder with age, and the main variety of Hermitage white. 
 

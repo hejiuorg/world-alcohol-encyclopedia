@@ -96,9 +96,9 @@ verification_scope: source-verified
 
 单一品种（single varietal）指以一种葡萄为主体的[葡萄酒](ref:wine)。它强调的是品种身份，而不是产地、酒庄或工艺。标签上写“赤霞珠”或“霞多丽”，通常意味着这款酒的风味主要由该品种决定，但“主体”在法规里有具体比例，远不是“100%”那么简单。
 
-![单一品种（single varietal） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![单一品种（single varietal） 类型示意图](/media/figures/specific/term-single-varietal.svg)
 
-图：单一品种（single varietal） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是单一品种（single varietal）的实拍。
+图：单一品种（single varietal） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

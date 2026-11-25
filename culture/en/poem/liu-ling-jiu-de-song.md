@@ -11,8 +11,8 @@ revision: 1
 translation_of: poem:liu-ling-jiu-de-song
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e6d6781a41f3b83d2242987cfe8a491fa060f16e6d491b6da1669466c0faa6ba
-source_sha256: e6d6781a41f3b83d2242987cfe8a491fa060f16e6d491b6da1669466c0faa6ba
+source_revision: sha256:e2ecfcdc1d333e04fceef21d3e90bc90aa3a057b6dd08b2a6ec18f30302e3618
+source_sha256: e2ecfcdc1d333e04fceef21d3e90bc90aa3a057b6dd08b2a6ec18f30302e3618
 author_name: Liu Ling
 source_title: Book of Jin, Biography of Liu Ling
 dynasty: Western Jin
@@ -93,6 +93,15 @@ In Praise of the Virtue of Wine is short enough to read in one sitting, and diff
 ![Seven Sages of the Bamboo Grove painting](/media/photos/poem-liu-ling-jiu-de-song-a4ac81e1.jpg)
 
 Figure: A painting of the Seven Sages of the Bamboo Grove; the group included Liu Ling. This is not a portrait of Liu Ling or a manuscript of the essay. Image: Unknown author Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Seven_Sages_of_the_Bamboo_Grove.jpg)).
+
+> **Quick verdict**
+> **In one line:** This poem entry explains why In Praise of the Virtue of Wine: Liu Ling's drinking as political fable matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants In Praise of the Virtue of Wine: Liu Ling's drinking as political fable in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - Song is a literary form normally used to praise a person or a virtue.
+>   - There was a Great Man who took heaven and earth as a single morning, ten thousand years as a moment, the sun and moon as his window and door.
 
 ## Title and text
 

@@ -137,7 +137,7 @@ From Café de la Paix the opera house is across the street; north lie Boulevard 
 - The café's FAQ: <https://www.cafedelapaix.fr/fr/faq/> for the café and restaurant hours.
 - Other Paris venues in the same literary and theatre network: `place:la-closerie-des-lilas`, `place:brasserie-lipp` and `place:la-coupole`.
 - For the Saint-Germain literary café route, see `route:saint-germain-literary-cafes`.
-- This page treats the Sherlock Holmes and Watson meeting as the café's own literary anecdote, not a verifiable historical event; hours and prices should be checked with the venue on the day.
+- This entry treats the Sherlock Holmes and Watson meeting as the café's own literary anecdote, not a verifiable historical event; hours and prices should be checked with the venue on the day.
 - Related entries: [La Closerie des Lilas](ref:closerie)、[Brasserie Lipp](ref:lipp)、[La Coupole](ref:coupole)、[Saint-Germain literary cafés route](ref:saint-germain)、[Hemingway Bar at the Ritz, Paris](ref:hemingway)
 
 **At a glance:** Facing the Opéra Garnier, Café de la Paix opened in 1862 with the Grand Hôtel; its Napoleon III gilded panelling, coffered ceiling and terrace made it the theatre district's classic place to see and be seen. 

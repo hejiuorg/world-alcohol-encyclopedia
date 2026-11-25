@@ -38,8 +38,8 @@ tags:
 translation_of: place:williams-selyem
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0b35a9e426828e57b2022311b046ca63d70899e99881e87cb3b91f6ff9be93b5
-source_sha256: 0b35a9e426828e57b2022311b046ca63d70899e99881e87cb3b91f6ff9be93b5
+source_revision: sha256:54b2074c2d5bb45eeaffd0d21b346ab06e7e74acf145231fa7d1dd52e7d7b5cb
+source_sha256: 54b2074c2d5bb45eeaffd0d21b346ab06e7e74acf145231fa7d1dd52e7d7b5cb
 related:
   - relation: about
     target_id: region:sonoma
@@ -100,6 +100,15 @@ verification_scope: source-verified
 Williams Selyem is one of the starting points of American garage-wine Pinot Noir: in 1978 Burt Williams, a San Francisco Chronicle pressman, and Ed Selyem, an accountant, began making wine in a Forestville garage with borrowed equipment, then helped put Russian River Valley on the world Pinot map; today the estate is still on Westside Road, keeping a small, slow rhythm through appointments and allocations.![Williams Selyem photograph](/media/photos/q2-place-williams-selyem-1c5e46dc.jpg)
 
 Figure: Williams Selyem. Photograph: File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg. Credit: Sarah Stierch, CC BY 4.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=44884501)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Williams Selyem deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Williams Selyem who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Williams Selyem is in Sonoma County’s Russian River Valley, at 7227 Westside Road west of Healdsburg.
+>   - Visits are by appointment and places are few; the usual format is a seated tasting of current releases, occasionally with a library vintage.
 
 ## Position and history
 
@@ -164,7 +173,7 @@ With half a day, choose Williams Selyem plus Healdsburg and skip a third stop; t
 ## Further reading and see also
 
 - Related entries: [sonoma](ref:sonoma), [usa](ref:usa), [pinot-noir](ref:pinot), [oak-ageing](ref:oak), [region](ref:region).
-- This page does not provide live allocation, stock or opening status; check the estate website and your booking confirmation before visiting.
+- This entry does not provide live allocation, stock or opening status; check the estate website and your booking confirmation before visiting.
 - To understand the estate, compare a Russian River Valley bottling with a single vineyard, then set one against a Burgundy Premier Cru to see where “transparent fruit” ends and “earth and spice” begins.
 
 **Short definition:** A pioneer Pinot Noir winery in the Russian River Valley, Sonoma County, founded by Burt Williams and Ed Selyem in a garage in 1981; known for low yields, old vines and a fine style, with visits by appointment. 

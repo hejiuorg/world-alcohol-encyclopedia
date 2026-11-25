@@ -147,7 +147,7 @@ One day: walk Reims and book one tasting. Two days: add Épernay’s avenue and 
 
 - Champagne comparisons: [Bollinger](ref:bollinger), [Taittinger](ref:taittinger), [Avenue de Champagne](ref:avenue), [Champagne avenue walk](ref:route).
 - Background: [Champagne](ref:champagne).
-- This page provides no map; Krug visit and release information should be checked with official channels.
+- This entry provides no map; Krug visit and release information should be checked with official channels.
 
 **At a glance:** A Champagne house in Reims founded in 1843 by Joseph Krug, centred on the multi-vintage Krug Grande Cuvée. Clos du Mesnil is 1.84 hectares and Clos d’Ambonnay 0.68 hectares, both single-plot, single-year champagnes; the house is part of LVMH and opened the Joseph winery in Ambonnay in 2024. 
 

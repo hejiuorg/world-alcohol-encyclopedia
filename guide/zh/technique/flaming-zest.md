@@ -45,7 +45,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对经典鸡尾酒的装饰与柑橘皮用法；未复制原文。
     accessed: 2026-11-07
@@ -82,9 +82,9 @@ verification_scope: source-verified
 
 烧皮（flaming zest）是把柑橘皮外层对准火焰、挤压皮油让油雾穿过火苗并落入杯中的技法。油雾在火焰中短暂燃烧，带出烘烤与焦香，随后香气落在酒液表面。它常见于古典鸡尾酒的升级版本，也常被用作吧台表演；但明火与高酒精度的环境叠加，使它成为风险最高的一类装饰技法之一。
 
-![烧皮 类型示意图](/media/photos/theme-beer.jpg)
+![烧皮 类型示意图](/media/figures/specific/technique-flaming-zest.svg)
 
-图：烧皮 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是烧皮的实拍。
+图：烧皮 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

@@ -81,7 +81,7 @@ Figure: Hengshui Laobaigan. Image: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons (
 
 ## Brand definition
 
-A brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This page records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history.
+A brand and a producer are two different entities. The brand answers "what is this bottle called and whom is it for"; the producer answers "who owns the trademark, who organises production and who bears legal responsibility". This brand records the brand layer: name, product line, positioning and marks; see the producer entry for corporate history.
 
 For Hengshui Laobaigan, "Laobaigan" is at once an aroma-type name, a brand name and a product name. Aroma type is a classification of process and flavour, a brand is a market mark, and a product is a specific specification; the three are not interchangeable.
 
@@ -89,7 +89,7 @@ For Hengshui Laobaigan, "Laobaigan" is at once an aroma-type name, a brand name 
 
 The brand's producer is [Hebei Hengshui Laobaigan Liquor Co., Ltd.](ref:producer). The company originates from the state-run Hengshui distillery formed in 1946 and listed on the Shanghai Stock Exchange on 29 October 2002. Ownership of the brand and trademark, the organisation of production and disclosure rest with that company and its subsidiaries.
 
-The producer entry records the formation, listing and multi-brand structure. This page keeps only what relates directly to the brand, so corporate history and brand history are not conflated.
+The producer entry records the formation, listing and multi-brand structure. This brand keeps only what relates directly to the brand, so corporate history and brand history are not conflated.
 
 ## Product line
 
@@ -103,7 +103,7 @@ The three brands differ in geography and aroma: Bancheng Shaoguo comes from Chen
 
 ## Positioning and price band
 
-The brand covers a band from mid-market to mid-to-high end: mass series serve everyday drinking and banquets, and higher series serve business and gifting. Prices change with year, channel and promotions, so this page gives no specific retail price.
+The brand covers a band from mid-market to mid-to-high end: mass series serve everyday drinking and banquets, and higher series serve business and gifting. Prices change with year, channel and promotions, so this brand gives no specific retail price.
 
 A price band is market positioning, not a quality grade. Judging the liquid means looking at raw materials, process, storage time and label information, not packaging or the aroma-type name alone.
 

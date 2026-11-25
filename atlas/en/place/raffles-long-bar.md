@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:raffles-long-bar
 source_lang: zh
-source_revision: sha256:fdbb8e628b545c347938c84c1b3c18f0e1ba0613be1cc1ad8aefe6fbd336a2b6
-source_sha256: fdbb8e628b545c347938c84c1b3c18f0e1ba0613be1cc1ad8aefe6fbd336a2b6
+source_revision: sha256:95ab7711d4d676f0ffef7b69e6beb1bad6ccbc0a5c0bef1c5808461b272a800c
+source_sha256: 95ab7711d4d676f0ffef7b69e6beb1bad6ccbc0a5c0bef1c5808461b272a800c
 translation_status: reviewed
 subtype: pub
 address: "#02-01 Raffles Arcade, 328 North Bridge Road, Singapore 188719"
@@ -89,6 +89,15 @@ Long Bar sits on the second floor of Raffles Arcade, next to Raffles Hotel Singa
 
 Figure: Related photograph of Raffles Long Bar. Image: Hajotthu, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Raffles_Hotel_Long_Bar_A.JPG)).
 
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Raffles Long Bar deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Raffles Long Bar who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - Raffles Hotel is one of Singapore's colonial-era landmarks, and Long Bar began as its social bar.
+>   - The room is built around a long counter, with dark wood, aged textures and tropical plantation motifs wrapping the space.
+
 ## Place and history
 
 Raffles Hotel is one of Singapore's colonial-era landmarks, and Long Bar began as its social bar. The official account places it in Cad's Alley in the early 1900s, when it was known as "the rendezvous of planters", with tables facing Bras Basah Road. At the time, women were not expected to drink alcohol in public and were usually served tea or fruit juice instead.
@@ -105,7 +114,7 @@ The menu revolves around the Singapore Sling, with a non-alcoholic Singapore Sli
 
 Peanuts are the other exhibit. The official account dates the shell-on-the-floor habit to the 1900s, when rubber and plantation owners from Malaya gathered at the bar at weekends. Peanuts were offered, the shells were brushed onto the ground, and the casual habit became a tradition. The bar now explicitly invites guests to do the same — possibly the only place in Singapore where littering is encouraged.
 
-Prices sit at the high end of the Singapore hotel-bar market. The exact price of a Singapore Sling changes with the menu, so this page does not hard-code a figure; budget for a hotel-bar spend rather than a neighbourhood-bar one. Page verified 2026-11-08.
+Prices sit at the high end of the Singapore hotel-bar market. The exact price of a Singapore Sling changes with the menu, so this entry does not hard-code a figure; budget for a hotel-bar spend rather than a neighbourhood-bar one. Page verified 2026-11-08.
 
 ## How to drink
 
@@ -151,7 +160,7 @@ Do not try to pair Long Bar with a Marina Bay bar crawl on the same evening. Bot
 
 ## See also
 
-To place this bar in its urban setting, read [Pub and city](ref:pub-and-city), which compares pubs, coffee houses, bars and beer halls. This page covers Long Bar as a place only; the full history of the Singapore Sling belongs elsewhere.
+To place this bar in its urban setting, read [Pub and city](ref:pub-and-city), which compares pubs, coffee houses, bars and beer halls. This entry covers Long Bar as a place only; the full history of the Singapore Sling belongs elsewhere.
 
 Further reading: [Singapore Sling](ref:c-extra-1), [Gin](ref:c-extra-2), [A Ginjinha](ref:c-extra-3), [À la Mort Subite](ref:c-extra-4).
 

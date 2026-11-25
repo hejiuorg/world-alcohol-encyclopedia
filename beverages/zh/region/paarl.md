@@ -102,6 +102,15 @@ verification_scope: source-verified
 
 图：Paarl：Nantes Vineyard Old Vine Sauvignon Blanc, Paarl, South Africa（Wikimedia Commons）。图片：Treephoto，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Nantes_Vineyard_Old_Vine_Sauvignon_Blanc,_Paarl,_South_Africa.jpg)）。
 
+> **先给结论**
+> **一句话：** 这页判断帕尔的风味与旅行价值，以及怎么安排。
+>
+> - **适合谁：** 正在比较帕尔与其他产区、准备买酒或安排旅行的人。
+> - **不适合谁：** 只想要“哪个产区最贵”的结论、不关心风格和年份的人。
+> - **先看这两点：**
+>   - 读帕尔酒标，先确认 WO 产区名（Paarl 或旗下 ward），再看生产者、品种与年份。
+>   - 帕尔小镇距开普敦约一小时车程，是开普酒乡通往惠灵顿、Franschhoek 方向的枢纽。
+
 ## 先划清「帕尔」的边界
 帕尔产区北邻斯泰伦博斯，东北接惠灵顿，东南为 Groot Drakenstein、Klein Drakenstein 与 Franschhoek 山脉；伯格河在 Groot Drakenstein 与 Wemmershoek 山之间流过，是产区的灌溉动脉。按南非原产地（Wine of Origin）制度，帕尔是一个 district，下设 Simonsberg-Paarl、Agter-Paarl 与 Voor Paardeberg 三个 ward；酒标标注 Paarl，果实须来自划定的产区范围，ward 名称则指向更具体的坡地或河谷。
 

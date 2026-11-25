@@ -5,7 +5,7 @@ type: producer
 lang: en
 slug: gujing-distillery
 title: Anhui Gujing Distillery Co., Ltd.
-summary: A baijiu producer based in Gujing Town, Bozhou, Anhui, and the production entity behind the Gujing Gongjiu brand. This page separates company identity, brand and specific products.
+summary: A baijiu producer based in Gujing Town, Bozhou, Anhui, and the production entity behind the Gujing Gongjiu brand. This producer separates company identity, brand and specific products.
 status: reviewed
 revision: 3
 translation_of: producer:gujing-distillery
@@ -91,7 +91,7 @@ Figure: Related photograph of Anhui Gujing Distillery Co., Ltd.. Image: N509FZ, 
 
 ## Company identity
 
-This page records producer identity: company name, registered place, listing information and main business. It does not evaluate product flavour and does not reproduce promotional copy. Verifiable company-level information, brand stories and product tasting are different levels; mixing them lets narrative be mistaken for fact.
+This producer records producer identity: company name, registered place, listing information and main business. It does not evaluate product flavour and does not reproduce promotional copy. Verifiable company-level information, brand stories and product tasting are different levels; mixing them lets narrative be mistaken for fact.
 
 "Gujing Gongjiu" is both a brand and part of the company name. The company holds the brand, while product lines carry its market expression. Understanding this prevents treating "the company is listed" as "a particular bottle is better".
 
@@ -99,7 +99,7 @@ This page records producer identity: company name, registered place, listing inf
 
 Dual A- and B-share listing means the company discloses periodic reports, related-party transactions and major matters under regulatory requirements. Public disclosures are a reliable source for company identity and business information, but disclosure is not a product-quality rating.
 
-Governance structure, management and shareholding change over time, so this page does not list them one by one and risk stale information. Readers should use the latest exchange and company announcements. This page gives no investment advice.
+Governance structure, management and shareholding change over time, so this producer does not list them one by one and risk stale information. Readers should use the latest exchange and company announcements. This producer gives no investment advice.
 
 ## Production and site
 
@@ -111,7 +111,7 @@ The qu-making, brewing, storage and bottling areas within a plant connect into a
 
 ## Brand and product levels
 
-[Gujing Gongjiu](ref:gujing) is the brand within the company system, while specific product lines and specifications belong to other entities. The brand record covers the name, brand relationships and public entry point; product records cover specific products, strength, specification and brand; this page keeps only verifiable company-level information.
+[Gujing Gongjiu](ref:gujing) is the brand within the company system, while specific product lines and specifications belong to other entities. The brand record covers the name, brand relationships and public entry point; product records cover specific products, strength, specification and brand; this producer keeps only verifiable company-level information.
 
 Layering is not needless complexity; it prevents conflating company, brand and product. A company may hold several brands, a brand may have several series, and a series may have products of different strengths and volumes. Clear levels make information checkable.
 
@@ -125,13 +125,13 @@ The pits and continued mash of [strong-aroma baijiu](ref:strong-aroma) are part 
 
 Bozhou also has a separate visitor record: the [Gujing Wine Culture Museum](ref:museum). The museum is a place entity connected to the producer by a relationship; "the company is here" does not mean "the museum is currently open", and opening information should follow the place page and official notices.
 
-Respect factory and museum rules while visiting, do not enter closed areas and do not photograph prohibited facilities. For purchases, use official channels and check anti-counterfeit information. This page gives no opening hours, tickets or transport promises, to avoid misleading stale information.
+Respect factory and museum rules while visiting, do not enter closed areas and do not photograph prohibited facilities. For purchases, use official channels and check anti-counterfeit information. This producer gives no opening hours, tickets or transport promises, to avoid misleading stale information.
 
 ## Limits of public information
 
-This page covers only verifiable company identity, address, listing information and level relationships. Revenue, profit, share price, capacity and market share change over time and need full context, so they are not expanded here. Readers should consult periodic reports and regulatory disclosures.
+This producer covers only verifiable company identity, address, listing information and level relationships. Revenue, profit, share price, capacity and market share change over time and need full context, so they are not expanded here. Readers should consult periodic reports and regulatory disclosures.
 
-Titles such as "China Time-honoured Brand" need a specific issuing body and year to be verified, and this page does not state them as fact. Legendary elements of brand history should be presented separately from verifiable archives.
+Titles such as "China Time-honoured Brand" need a specific issuing body and year to be verified, and this producer does not state them as fact. Legendary elements of brand history should be presented separately from verifiable archives.
 
 ## Common misconceptions
 
@@ -141,7 +141,7 @@ Third, equating the registered address with the origin of every product. Check t
 Fourth, using promotional copy in place of public disclosure. They are different in nature.
 Fifth, treating a museum visit as a production tour. Exhibition and production areas differ.
 
-**At a glance:** A baijiu producer based in Gujing Town, Bozhou, Anhui, and the production entity behind the Gujing Gongjiu brand. This page separates company identity, brand and specific products.
+**At a glance:** A baijiu producer based in Gujing Town, Bozhou, Anhui, and the production entity behind the Gujing Gongjiu brand. This producer separates company identity, brand and specific products.
 
 Start with the range it makes. From there, consider the site and the owner, then the bottler named on the label. That is how a practical judgment about Anhui Gujing Distillery Co., Ltd. is built.
 
@@ -155,7 +155,7 @@ The listed company is the distillery arm of Gujing Group and produces Gujing Gon
 
 | Item | Detail |
 | --- | --- |
-| In one line | A baijiu producer based in Gujing Town, Bozhou, Anhui, and the production entity behind the Gujing Gongjiu brand. This page separates company identity, brand and specific products. |
+| In one line | A baijiu producer based in Gujing Town, Bozhou, Anhui, and the production entity behind the Gujing Gongjiu brand. This producer separates company identity, brand and specific products. |
 | Founded | 1996 |
 | Type | Listed company |
 | Official site | gujing.com |

@@ -11,8 +11,8 @@ revision: 1
 translation_of: poem:xin-qiji-xi-jiang-yue-qian-xing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:271751aa68aea6b26fd3cf6ad5aead8eaa5a28567d2e61af987fefcfda24fa66
-source_sha256: 271751aa68aea6b26fd3cf6ad5aead8eaa5a28567d2e61af987fefcfda24fa66
+source_revision: sha256:2df73f58783bccfc6a6c58ca25d183fa3727d2e9a2861c2739c2303934a7719c
+source_sha256: 2df73f58783bccfc6a6c58ca25d183fa3727d2e9a2861c2739c2303934a7719c
 author_name: Xin Qiji
 source_title: Jiaxuan Long and Short Lines
 dynasty: Southern Song
@@ -94,6 +94,15 @@ Xi Jiang Yue, on diverting the mood, reads like a joke. A man gets drunk, falls 
 ![Statue of Xin Qiji](/media/photos/poem-xin-qiji-xi-jiang-yue-qian-xing-33339543.jpg)
 
 Figure: A statue of Xin Qiji. It is a modern memorial sculpture, not a Song portrait or a manuscript of the lyric. Image: Lei Yixin / Nie Shihua / Xiao Xiaoqiu, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:The_statue_of_Xin_Qiji.JPG)).
+
+> **Quick verdict**
+> **In one line:** This poem entry explains why Xi Jiang Yue: Pushing the Pine Away, a Joke and a Temper matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants Xi Jiang Yue: Pushing the Pine Away, a Joke and a Temper in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - Xin Qiji is usually thought to have written this lyric during a period of retirement.
+>   - Xi Jiang Yue is a ci tune, originally a Tang court piece; its name comes from Li Bai's lines in Su Tai Lan Gu, only the Xi River moon remains.
 
 ## Title and text
 

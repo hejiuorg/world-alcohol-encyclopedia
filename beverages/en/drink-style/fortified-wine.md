@@ -115,7 +115,7 @@ Third, not all fortified wines keep indefinitely. How long an opened bottle last
 
 ## Boundary
 
-This page describes the category, process and regulatory framework, not specific estates, vintages or prices. Check the label, producer information and professional reviews for strength, residual sugar, ageing time, drinking window and food pairing. The grape spirit used in fortification is related to [brandy](ref:brandy), but the two are different product categories.
+This style describes the category, process and regulatory framework, not specific estates, vintages or prices. Check the label, producer information and professional reviews for strength, residual sugar, ageing time, drinking window and food pairing. The grape spirit used in fortification is related to [brandy](ref:brandy), but the two are different product categories.
 
 **At a glance:** Wine to which grape spirit is added during or after fermentation, raising strength and stabilising flavour; Port, Sherry, Madeira and Vermouth each have their own processes and rules.
 
@@ -136,7 +136,7 @@ Fortification adds grape spirit during or after fermentation; adding it early pr
 
 **Sources and limits.** The key claims about Fortified wine are checked against the following sources: International Organisation of Vine and Wine (OIV) (Used to check the strength range and permitted additions for liqueur wines), European Union (Used to check EU fortified-wine categories, geographical indications and labelling rules), Oxford University Press (Used for entries on Port, Sherry, Madeira and fortification) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Fortified wine, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Fortified wine, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

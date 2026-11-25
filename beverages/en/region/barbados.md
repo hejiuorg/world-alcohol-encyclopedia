@@ -146,7 +146,7 @@ The island's rum is also protected by a geographic indication, and its distiller
 
 **Sources and limits.** The key claims about Barbados are checked against the following sources: Barbados Rum (raw materials, distillation and ageing statements for Barbados rum; no original text is reproduced), WIRSPA (production background and geographical indication discussion in the Caribbean; no original text is reproduced), European Union (the raw material categories and minimum alcohol content for rum; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Barbados, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Barbados, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

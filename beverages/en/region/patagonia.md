@@ -154,7 +154,7 @@ Putting Patagonia into an itinerary means separating the regional centre from sp
 Neuquén airport is the main gateway; Río Negro is further east and the valleys are spread out. A day trip can cover two or three wineries at most, and travel between Neuquén and Río Negro can take two hours. Book visits, check seasonal closures and allow for wind and gravel-road delays.
 
 - Related: [argentina](ref:argentina), [pinot-noir](ref:pinot), [malbec](ref:malbec), [white-wine](ref:white), [sparkling-wine](ref:sparkling).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.
 
 [Argentina](ref:argentina) and [Malbec](ref:malbec) answer different questions about Patagonia: geographic boundary and climate and soil. Read them as a pair, not as alternatives.
 

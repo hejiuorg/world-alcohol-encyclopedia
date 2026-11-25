@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: cocktail:cosmopolitan
 source_lang: zh
-source_revision: sha256:6d71e50226cbb88f9e9420ac60d23272b865853e552b0a5772593a8efa24cc22
-source_sha256: 6d71e50226cbb88f9e9420ac60d23272b865853e552b0a5772593a8efa24cc22
+source_revision: sha256:093f99f00f710f5d071418c39b5a9686e112044e83e0af8fc61c1d7cf693b34a
+source_sha256: 093f99f00f710f5d071418c39b5a9686e112044e83e0af8fc61c1d7cf693b34a
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -70,7 +70,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -97,7 +97,7 @@ Figure: A Cosmopolitan in a cocktail glass, with pink liquid and a lime garnish 
 
 ## Definition and identity
 
-The Cosmopolitan grew in popularity in the late 20th century, with common accounts linking it to bar scenes in New York or Miami, but several origin stories exist. This page treats it as historical background and does not present one account as settled.
+The Cosmopolitan grew in popularity in the late 20th century, with common accounts linking it to bar scenes in New York or Miami, but several origin stories exist. This cocktail treats it as historical background and does not present one account as settled.
 
 ## Recipe (IBA version)
 
@@ -151,7 +151,7 @@ For Cosmopolitan, a common mistake is treating a variation as the same recipe. A
 
 A Cosmopolitan suits pre-dinner or social occasions with nuts, fruit or simple savoury snacks. It is medium-to-high in strength, so sip slowly and drink water; do not drink quickly on an empty stomach. Do not drink if driving, taking medication or pregnant.
 
-This page records one sourced version and does not rate specific brands or present one ratio as the only correct answer. The final strength depends on the vodka's [alcohol by volume](ref:abv), the sweetness of the liqueur and ice dilution, not on the recipe numbers alone.
+This cocktail records one sourced version and does not rate specific brands or present one ratio as the only correct answer. The final strength depends on the vodka's [alcohol by volume](ref:abv), the sweetness of the liqueur and ice dilution, not on the recipe numbers alone.
 
 For Cosmopolitan, begin with the base and the ratio, then the dilution and the ice, and finish with the garnish and the glass; that order keeps the account grounded.
 

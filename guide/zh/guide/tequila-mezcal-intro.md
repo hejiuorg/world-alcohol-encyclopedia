@@ -59,7 +59,7 @@ references:
 sources:
   - key: iba
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对以龙舌兰为基酒的经典鸡尾酒框架；未复制原文。
     accessed: 2026-11-07
@@ -92,9 +92,16 @@ verification_scope: source-verified
 
 特其拉与梅斯卡尔都来自龙舌兰，但它们是两种不同的酒。特其拉有明确的地理标志与原料框架，梅斯卡尔的范围更广，产区、龙舌兰种类与烘烤方式更多样。把两者混为一谈，容易错过它们各自最重要的风味线索。
 
-![龙舌兰与梅斯卡尔入门：两种龙舌兰酒的分野 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![龙舌兰与梅斯卡尔入门：两种龙舌兰酒的分野 类型示意图](/media/figures/specific/guide-tequila-mezcal-intro.svg)
 
-图：龙舌兰与梅斯卡尔入门：两种龙舌兰酒的分野 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是龙舌兰与梅斯卡尔入门：两种龙舌兰酒的分野的实拍。
+图：龙舌兰与梅斯卡尔入门：两种龙舌兰酒的分野 双语视觉卡（项目自绘 SVG）。不是实拍。
+
+> **决策清单**
+> 买之前、去之前，按这三步过一遍。
+>
+> - **怎么选第一瓶：** 想先理解特其拉，可以从 Blanco 开始：风味干净，能尝到龙舌兰的甜、胡椒与柑橘，也适合做 Margarita 等经典调酒。
+> - **从零开始：** 龙舌兰是一种多肉植物，糖分储存在叶心。
+> - **主要类型与区别：** 特其拉常见类型包括 Blanco、Reposado、Añejo 与 Extra Añejo。
 
 ## 从零开始
 
@@ -164,3 +171,15 @@ verification_scope: source-verified
 | 一句话定位 | 从龙舌兰原料、产区与工艺解释特其拉与梅斯卡尔的区别，说明类型、第一瓶怎么选、怎么喝、价格与购买及常见误区 |
 | 读者 | 第一次接触龙舌兰酒、分不清特其拉与梅斯卡尔的读者 |
 | 难度 | beginner |
+
+## 快速对比：龙舌兰与梅斯卡尔
+
+| 项目 | 龙舌兰 | 梅斯卡尔 |
+| --- | --- | --- |
+| 原料 | 蓝色韦伯龙舌兰为主 | 多种龙舌兰品种 |
+| 烘烤 | 蒸汽或高压蒸煮 | 土坑加热，常带烟熏 |
+| 风味 | 干净、植物感、胡椒 | 烟熏、泥土、果香 |
+| 产区 | 哈利斯科为主 | 瓦哈卡等地 |
+| 标签 | 100% agave 或 mixto | 常标品种与村庄 |
+
+怎么用：先按场景排除，再用预算和口味微调；这是一张入口表，不是评分表。

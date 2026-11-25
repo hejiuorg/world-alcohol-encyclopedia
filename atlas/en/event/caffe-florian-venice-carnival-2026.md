@@ -5,13 +5,13 @@ type: event
 lang: en
 slug: caffe-florian-venice-carnival-2026
 title: Caffè Florian during the Venice Carnival 2026
-summary: From 31 January to 17 February 2026 the Venice Carnival ran under the theme “Olympus – The Origins of the Game”; Caffè Florian stayed open as usual, served traditional Carnival pastries and used its arcade and terrace as seats for watching the masks and crowds. The event has ended; this page records that edition's arrangements and limits.
+summary: From 31 January to 17 February 2026 the Venice Carnival ran under the theme “Olympus – The Origins of the Game”; Caffè Florian stayed open as usual, served traditional Carnival pastries and used its arcade and terrace as seats for watching the masks and crowds. The event has ended; this event records that edition's arrangements and limits.
 status: reviewed
 revision: 2
 translation_of: event:caffe-florian-venice-carnival-2026
 source_lang: zh
-source_revision: sha256:e02952b8482d3d0a4369af12f2fa3687a5d5b49e728f0f99614a4db54ab70e55
-source_sha256: e02952b8482d3d0a4369af12f2fa3687a5d5b49e728f0f99614a4db54ab70e55
+source_revision: sha256:610dd530e6f82a001eb5f387da8f23fd644f611d7f6705cfc0ecaf26b7ef8615
+source_sha256: 610dd530e6f82a001eb5f387da8f23fd644f611d7f6705cfc0ecaf26b7ef8615
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -85,11 +85,20 @@ event_status: past
 
 # Caffè Florian during the Venice Carnival 2026
 
-From 31 January to 17 February 2026 the Venice Carnival ran under the theme “Olympus – The Origins of the Game”. Caffè Florian did not stage a separate ticketed show. The café stayed open as usual, turned its arcade and terrace on Piazza San Marco into seats for watching masks, costumes and crowds, and served the traditional Carnival pastries. The event has ended, and this page records the 2026 edition's arrangements and limits; exact times remain subject to the organiser and the venue's official channels.
+From 31 January to 17 February 2026 the Venice Carnival ran under the theme “Olympus – The Origins of the Game”. Caffè Florian did not stage a separate ticketed show. The café stayed open as usual, turned its arcade and terrace on Piazza San Marco into seats for watching masks, costumes and crowds, and served the traditional Carnival pastries. The event has ended, and this event records the 2026 edition's arrangements and limits; exact times remain subject to the organiser and the venue's official channels.
 
 ![Caffè Florian during the Venice Carnival 2026 category illustration](/media/photos/theme-wine-spirits.jpg)
 
 Figure: Caffè Florian during the Venice Carnival 2026. Project-generated or category illustration used for bar and dining context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This event explains the current status of Caffè Florian during the Venice Carnival 2026, and how to take part.
+>
+> - **Best for:** Anyone who wants the scene, mechanics and current status of Caffè Florian during the Venice Carnival 2026.
+> - **Not for:** If you want only want live ticketing or real-time logistics.
+> - **Check first:**
+>   - During Carnival, Florian serves two Venetian seasonal pastries: frittelle veneziane and galani.
+>   - The Venice Carnival is one of the city's oldest public festivities.
 
 ## Background
 
@@ -105,9 +114,9 @@ For Caffè Florian, Carnival is not a festival it organises but one of the most 
 - City theme: “Olympus – The Origins of the Game”.
 - Place: [Caffè Florian (Venice)](ref:florian), under the arcade on Piazza San Marco.
 - Timezone: Europe/Rome.
-- This page's `start` and `end` use 00:00 on the first day and 23:59:59 on the last day only to mark the festival window. They do not mean that the café or any individual show began or ended at that exact moment.
+- This event's `start` and `end` use 00:00 on the first day and 23:59:59 on the last day only to mark the festival window. They do not mean that the café or any individual show began or ended at that exact moment.
 
-Florian's official article describes the café as a privileged place for observing Carnival: guests sit at tables and watch masks and costumes flow across the square, which becomes an open-air theatre. That is a description of the venue experience, not a programme. The article does not list daily performance, band or meet-and-greet times inside the café, so this page does not claim to know “what time the show starts each day”.
+Florian's official article describes the café as a privileged place for observing Carnival: guests sit at tables and watch masks and costumes flow across the square, which becomes an open-air theatre. That is a description of the venue experience, not a programme. The article does not list daily performance, band or meet-and-greet times inside the café, so this event does not claim to know “what time the show starts each day”.
 
 The city programme is spread across Venice, including Piazza San Marco, the Grand Canal, Mestre and the lagoon islands. Some events take place in public space; others require booking or tickets. Schedules, meeting points and cancellations belong to the current Carnival programme page. Caffè Florian provides its own seats, food and opening hours; it does not organise or sell the city's programme.
 
@@ -127,21 +136,21 @@ During Carnival, Florian serves two Venetian seasonal pastries: frittelle venezi
 
 The historic rooms remain working café space, not a sealed display case. Guests may look at the decoration, order and eat, but should not treat the rooms as a free photo studio: do not move tables or chairs, block service aisles, or touch frescoes and mirrored decoration. In winter, the arcade can be affected by high water, with wet floors or temporary walkways; visitors with pushchairs or mobility needs should check usable entrances and seating areas first.
 
-Seating deserves its own note. Florian's terrace and arcade are priced by position and number of guests, and tables may be shared during busy periods. Coffee and pastry prices are at the high end for central Venice, and any music or performance supplement follows the venue's rules for that day. The official article does not publish 2026 Carnival price figures, so this page gives no fixed amount. The reliable check is the price list at the venue and the confirmation taken when ordering.
+Seating deserves its own note. Florian's terrace and arcade are priced by position and number of guests, and tables may be shared during busy periods. Coffee and pastry prices are at the high end for central Venice, and any music or performance supplement follows the venue's rules for that day. The official article does not publish 2026 Carnival price figures, so this event gives no fixed amount. The reliable check is the price list at the venue and the confirmation taken when ordering.
 
 There is no official dress code for Carnival at Florian, but many people in the square wear masks. Photographing others should start with their consent; do not stand in the middle of a passage or climb barriers for a shot. The café is a business, not a public viewing platform, and occupying a table for a long time without ordering affects other guests. Putting the phone away and ordering at a normal pace usually reveals more of the Carnival than chasing the perfect frame.
 
 ## Verification and boundaries
 
-This page checks the 2026 dates and theme against Florian's official article, the Carnival official programme and the Municipality of Venice page. All three agree on 31 January to 17 February. Florian's article also supplies the pastry, mask and souvenir details, which this page treats as venue arrangements rather than city programming.
+This event checks the 2026 dates and theme against Florian's official article, the Carnival official programme and the Municipality of Venice page. All three agree on 31 January to 17 February. Florian's article also supplies the pastry, mask and souvenir details, which this event treats as venue arrangements rather than city programming.
 
-There are three boundaries. First, this page records the 2026 edition, which has ended; it cannot be used to infer 2027 dates, themes or Florian's participation, and the Carnival site has already published a separate next edition, so the current official page should govern any future trip. Second, the official article does not provide a daily schedule or a complete list of performances at Florian, so this page invents no “artist on stage at a given hour” detail. Third, opening hours, seat prices and square controls can change with crowds and weather, so any fixed statement may become stale.
+There are three boundaries. First, this event records the 2026 edition, which has ended; it cannot be used to infer 2027 dates, themes or Florian's participation, and the Carnival site has already published a separate next edition, so the current official page should govern any future trip. Second, the official article does not provide a daily schedule or a complete list of performances at Florian, so this event invents no “artist on stage at a given hour” detail. Third, opening hours, seat prices and square controls can change with crowds and weather, so any fixed statement may become stale.
 
 Photographs are credited in the figure captions; no map is drawn. Carnival is a city-wide event involving squares, canals and multiple venues; a single diagram could not accurately represent traffic controls and schedule changes. Caffè Florian itself is a fixed building, and readers can find it by its position on Piazza San Marco.
 
 ## See also
 
 - [Caffè Florian (Venice)](ref:florian): the 1720 opening, the decorated historic rooms, seating and music supplements, and how to reach the square.
-- For the city programme, schedule changes and tickets, use the Venice Carnival official site and Municipality of Venice notices; this page only covers Florian's venue arrangements during the 2026 Carnival.
+- For the city programme, schedule changes and tickets, use the Venice Carnival official site and Municipality of Venice notices; this event only covers Florian's venue arrangements during the 2026 Carnival.
 
 Further reading: [Wine and festivals: the calendar inside seasonal drinks](ref:c-extra-1), [Venice: two bars around Piazza San Marco](ref:c-extra-2), [Harry's Bar Venice](ref:c-extra-3).

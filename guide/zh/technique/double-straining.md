@@ -47,7 +47,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对摇和类鸡尾酒与过滤方式；未复制原文。
     accessed: 2026-11-07
@@ -83,9 +83,9 @@ verification_scope: source-verified
 
 双重过滤（double straining）是把酒液连续通过两道滤器的技法。第一道通常是摇酒壶自带的滤冰器或锥形滤器，负责挡住冰块、大块果肉与碎叶；第二道是细滤网，负责拦下更小的颗粒、果肉纤维与冰屑。它不改变配方，却明显改变成品的口感与外观。
 
-![双重过滤 类型示意图](/media/photos/theme-beer.jpg)
+![双重过滤 类型示意图](/media/figures/specific/technique-double-straining.svg)
 
-图：双重过滤 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是双重过滤的实拍。
+图：双重过滤 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 目的
 

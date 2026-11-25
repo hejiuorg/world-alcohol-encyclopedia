@@ -83,9 +83,9 @@ verification_scope: source-verified
 
 残糖（residual sugar，常缩写为 RS）是发酵结束后仍留在酒液中的糖分。酵母把糖转成酒精和二氧化碳，但发酵不一定把糖耗尽：它可能提前停止，也可能被刻意保留。残糖通常以每升克数（g/L）表示，是判断甜度、标签分级与配餐的核心参数。
 
-![残糖（residual sugar） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![残糖（residual sugar） 类型示意图](/media/figures/specific/term-residual-sugar.svg)
 
-图：残糖（residual sugar） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是残糖（residual sugar）的实拍。
+图：残糖（residual sugar） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与边界
 

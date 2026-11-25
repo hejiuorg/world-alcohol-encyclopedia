@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:fruit-brandy
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a8ba94c4397f5ac4de63ed9b383c17e3cd49419a9aac9a8f1f66b0d3488dac21
-source_sha256: a8ba94c4397f5ac4de63ed9b383c17e3cd49419a9aac9a8f1f66b0d3488dac21
+source_revision: sha256:6235b2a61f22c046de3f58219833c1dbe624c304f455f3669f54b45befd7a17d
+source_sha256: 6235b2a61f22c046de3f58219833c1dbe624c304f455f3669f54b45befd7a17d
 related:
   - relation: about
     target_id: drink-style:brandy
@@ -102,7 +102,7 @@ verification_scope: source-verified
 
 Fruit brandy, or eau-de-vie (literally "water of life" in French), is a clear spirit made by fermenting fresh fruit or juice and then distilling it. Unlike grape-based [brandy](ref:brandy) or pomace distillates such as marc, its raw material is whole fruit or juice, and the aroma comes from the fruit itself. Common styles include kirsch (cherry), Poire Williams (pear), mirabelle (golden plum), framboise (raspberry), slivovitz (plum) and the German-speaking Obstler. Most bottlings sit at 40–50% ABV, usually not oak-aged, selling on fresh fruit aroma.
 
-![Fruit Brandy / Eau-de-vie](/media/photos/theme-wine-spirits.jpg)
+![Fruit Brandy / Eau-de-vie](/media/figures/specific/drink-style-fruit-brandy.svg)
 
 Figure: Thematic illustration for Fruit Brandy / Eau-de-vie. Image: AI-assisted illustration (Doubao Seedream 5.0), project-owned; not a photograph of the subject, used as a thematic illustration only.
 

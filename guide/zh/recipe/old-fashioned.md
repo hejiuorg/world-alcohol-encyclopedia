@@ -91,7 +91,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA 官方鸡尾酒名单
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 官方鸡尾酒名单；未复制原文。
     accessed: 2026-11-07
@@ -113,9 +113,9 @@ verification_scope: source-verified
 
 这是[古典](ref:cocktail)的一个有明确出处的配方版本。古典是少数“在杯中完成”的经典鸡尾酒：糖、苦精、水与威士忌在同一只杯子里依次加入并搅拌，不需要先摇和再滤冰。本页记录这一版的比例与顺序，不把其他做法混写进来。
 
-![古典配方（IBA 版本） 类型示意图](/media/photos/theme-ingredients.jpg)
+![古典配方（IBA 版本） 类型示意图](/media/figures/specific/recipe-old-fashioned.svg)
 
-图：古典配方（IBA 版本） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是古典配方（IBA 版本）的实拍。
+图：古典配方（IBA 版本） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 这是一份有出处的配方
 

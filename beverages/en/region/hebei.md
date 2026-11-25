@@ -24,8 +24,8 @@ tags:
 translation_of: region:hebei
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ef668733d5d1c6cd8e4593697540366368bfdad8f9f29366cd9c6777126e3537
-source_sha256: ef668733d5d1c6cd8e4593697540366368bfdad8f9f29366cd9c6777126e3537
+source_revision: sha256:4fc35a250a2b199ff19001b13a73069aa2d5fd7cf0704aedebfe7fbd01055240
+source_sha256: 4fc35a250a2b199ff19001b13a73069aa2d5fd7cf0704aedebfe7fbd01055240
 related:
   - relation: about
     target_id: region:china
@@ -119,9 +119,18 @@ verification_scope: source-verified
 
 # Hebei
 
-A wine region in northern China, with Huailai (Shacheng) and Changli as cores; a cool, dry climate with a wide diurnal range, known for Cabernet Sauvignon, Chardonnay and brands such as Great Wall, it is one of the earliest areas of China’s modern wine industry.![Hebei category illustration](/media/photos/theme-asian.jpg)
+A wine region in northern China, with Huailai (Shacheng) and Changli as cores; a cool, dry climate with a wide diurnal range, known for Cabernet Sauvignon, Chardonnay and brands such as Great Wall, it is one of the earliest areas of China’s modern wine industry.![Hebei category illustration](/media/figures/specific/region-hebei.svg)
 
 Figure: Hebei. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Hebei for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Hebei with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - Grape growing in Huailai reaches back about 1,200 years; in the Ming and Qing dynasties its grapes were tribute to the court in the Xuanhua prefecture area.
+>   - Hebei dry reds have medium-to-firm tannins and concentrated fruit, suiting braised meats, roast lamb chops, beef stew and Chinese soy-braised dishes.
 
 ## Definition and boundaries
 

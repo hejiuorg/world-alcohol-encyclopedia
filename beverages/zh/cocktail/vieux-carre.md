@@ -47,7 +47,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对官方配方与分类；未复制原文。
     accessed: 2026-11-07
@@ -93,6 +93,15 @@ verification_scope: source-verified
 ![古典杯中的 Vieux Carré，带冰块](/media/photos/cocktail-vieux-carre-1706ef17.jpg)
 
 图：一杯 Vieux Carré，琥珀色酒液与冰块盛于古典杯；这张照片没有拍到橙皮与樱桃装饰。图片：ChodHound，CC BY-SA 2.0，via [原图页面](https://www.flickr.com/photo.gne?id=8609713590)。
+
+> **先给结论**
+> **一句话：** 这页判断老广场该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂老广场的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 30 毫升甜味美思在这款酒里占总量近三分之一，它不是“洗杯”或“调味”的用量，而是酒体的重要组成部分。
+>   - 老广场与萨泽拉克常被放在一起讨论，因为两者都来自新奥尔良，都用黑麦与佩肖苦精。
 
 ## 法语区与“老广场”
 

@@ -71,9 +71,9 @@ verification_scope: source-verified
 
 酒精度（alcohol by volume，常缩写为 ABV）描述一瓶酒里乙醇所占的体积比例。它通常以“% vol”表示，例如 12.5% vol 表示在 20°C 时，每 100 体积单位的酒液中含有 12.5 体积单位的纯乙醇。它是配方、标签、税收和饮用建议的基础参数，但不是质量评分。
 
-![酒精度（ABV） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![酒精度（ABV） 类型示意图](/media/figures/specific/term-alcohol-by-volume.svg)
 
-图：酒精度（ABV） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是酒精度（ABV）的实拍。
+图：酒精度（ABV） 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与测量口径
 

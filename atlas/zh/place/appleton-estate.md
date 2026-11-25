@@ -89,6 +89,12 @@ verification_scope: source-verified
 
 从牙买加南岸的 Santa Cruz 往内陆开，路会逐渐变窄，甘蔗田、石灰岩丘陵与偶尔出现的牛群取代海岸。Appleton Estate 就在 Nassau Valley 的谷地里：一片不算高的厂区、成排的桶库、游客中心与巨大的 “Appleton Estate Jamaica Rum” 拱门。它不是一个“海边酒吧式”的朗姆景点，而是一座仍在运转的甘蔗庄园与蒸馏厂，也是牙买加持续运营最久的朗姆酒厂。
 
+> **到访信息**
+> - 地址：Nassau Valley, St. Elizabeth, Jamaica。
+> - 开放与预约：以[官方页面](https://www.appletonestate.com/en-us/)为准；开放时间、场次和预约规则会随季节调整。
+> - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
+> - 营业状态：已核实；来源最近核对：2026-11-21。
+
 ![牙买加 Appleton Estate 厂区](/media/photos/place-appleton-estate-b81db790.jpg)
 
 图：Appleton Estate 的厂区一角，Nassau Valley，牙买加圣伊丽莎白教区。图片：Acampbell3000，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Appleton_Estate_Jamaica_November_2012.jpg)）。

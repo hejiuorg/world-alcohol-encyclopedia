@@ -82,7 +82,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no source text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this page.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this process.
 verification_scope: source-verified
 applies_to_refs:
   - drink-style:sake
@@ -101,7 +101,7 @@ The sake mother is the intermediate stage where yeast is cultivated, sitting bet
 
 ## Steps and parameters
 
-In kimoto, steamed rice, rice koji and water go into the vessel, the batch is started cool, yamafuri mashes the mixture into a paste, and a warming phase then lets lactic acid bacteria and yeast follow one another. The whole cycle usually takes 2–4 weeks, starting at about 5–10 °C and rising to 10–15 °C later. Yamahai skips the mashing and achieves acidification through long stirring and temperature control, also over about 2–4 weeks. Sokujo adds lactic acid directly and takes about 2 weeks. These ranges follow the common descriptions in the association, National Tax Agency and brewing-research material listed on this page.
+In kimoto, steamed rice, rice koji and water go into the vessel, the batch is started cool, yamafuri mashes the mixture into a paste, and a warming phase then lets lactic acid bacteria and yeast follow one another. The whole cycle usually takes 2–4 weeks, starting at about 5–10 °C and rising to 10–15 °C later. Yamahai skips the mashing and achieves acidification through long stirring and temperature control, also over about 2–4 weeks. Sokujo adds lactic acid directly and takes about 2 weeks. These ranges follow the common descriptions in the association, National Tax Agency and brewing-research material listed on this process.
 
 ## Mechanism: the lactic acid relay
 
@@ -153,4 +153,4 @@ Read Kimoto and yamahai through the inputs, then the sequence of steps, and fina
 
 **Sources and limits.** The key claims about Kimoto and yamahai are checked against the following sources: Japan Sake and Shochu Makers Association (the differences between kimoto, yamahai and sokujo sake mothers), National Tax Agency of Japan (the use of kimoto-brewed and yamahai-brewed labelling terms), Oxford University Press (Consulted for entries on sake mother, kimoto and yamahai; Migrated from the former reference list at the end of the article; access date not re-verified) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Kimoto and yamahai, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Kimoto and yamahai, this process was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

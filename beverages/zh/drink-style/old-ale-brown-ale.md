@@ -97,7 +97,7 @@ verification_scope: source-verified
 
 老式艾尔（Old Ale）与棕色艾尔（Brown Ale）是英国传统艾尔的两个相邻方向：老式艾尔是酒精度偏高、可桶陈或瓶陈的麦芽甜型浓艾尔，棕色艾尔则是中度酒精度、麦芽烤面包与焦糖风味的日常英式艾尔；两者都以英式麦芽、传统艾尔酵母与较低苦度为底色。
 
-![Old Ale / Brown Ale](/media/photos/theme-beer.jpg)
+![Old Ale / Brown Ale](/media/figures/specific/drink-style-old-ale-brown-ale.svg)
 
 图：Old Ale / Brown Ale主题示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有）；不是老式艾尔/棕色艾尔的实拍，仅作主题示意。
 

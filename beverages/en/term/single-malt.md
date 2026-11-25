@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: term:single-malt
 source_lang: zh
-source_revision: sha256:d543cc7bce7e56b7c92a7e6cbfb7d057e46c2ce7295f0e967b47a62d8c2dd38e
-source_sha256: d543cc7bce7e56b7c92a7e6cbfb7d057e46c2ce7295f0e967b47a62d8c2dd38e
+source_revision: sha256:4eea29098c6cade6daa267d0e26d66bbd59a16784683d8af1a24ee03df1f7d14
+source_sha256: 4eea29098c6cade6daa267d0e26d66bbd59a16784683d8af1a24ee03df1f7d14
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -85,7 +85,7 @@ verification_scope: source-verified
 
 Single malt whisky is whisky made at one distillery, from 100% malted barley, using pot stills. All three conditions matter: one distillery, one grain, one kind of equipment. The term describes a scope of origin and process, not an age, a cask type or a price tier. Treating single malt as a synonym for better whisky is the most common misreading in the market.
 
-![Single malt thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Single malt thematic illustration](/media/figures/specific/term-single-malt.svg)
 
 Figure: thematic illustration for Single malt. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:pinotage
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3475a6f9871078b9b5e23d1c3e6195759bd837cc21f50c4684cd89a466c781f1
-source_sha256: 3475a6f9871078b9b5e23d1c3e6195759bd837cc21f50c4684cd89a466c781f1
+source_revision: sha256:e75ca3df1bad72de9d63fb0a1afff607396db90f96fd6f3633bdcbd798cb0ef4
+source_sha256: e75ca3df1bad72de9d63fb0a1afff607396db90f96fd6f3633bdcbd798cb0ef4
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -80,6 +80,15 @@ verification_scope: source-verified
 Pinotage is South Africa's own red grape and one of the few varieties bred in the 20th century to gain a distinct international identity. It was created by crossing Pinot Noir with Cinsaut, combining the smaller berries and aromatic potential of the former with the resilience and yield of the latter. The wine is deep in colour and firm in tannin: in youth it can be bright with mulberry and plum, and after oak and bottle age it can turn to coffee, smoke, leather and earth. Pinotage has had a divided reputation, and the key to understanding it is not the "banana" label but the way clone, vine age, picking date and fermentation temperature shape the result (ref:wine).![Pinotage image](/media/photos/variety-pinotage-5dc171a5.jpg)
 
 Figure: Pinotage. Image: Please note: This photo can be reproduced. Please quote the source as indicated below: Doris Schneider, Julius Kühn-Institut (JKI), Federal Research Centre for, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:VIVC9286_PINOTAGE_Full_plant_3638.jpg)).
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Pinotage suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Pinotage with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - Pinotage belongs to the European grape Vitis vinifera and is a red variety.
+>   - In 1925 Abraham Izak Perold, a professor at Stellenbosch University, pollinated Cinsaut with Pinot Noir and raised the first Pinotage seedlings in the experimental vineyard.
 
 ## Definition and synonyms
 

@@ -87,8 +87,8 @@ verification_scope: source-verified
 translation_of: place:cafe-pushkin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:285f5134c696dbb77c7310aed28f2e3a3af9d4860dd687f7e7d433a2ee9af3fa
-source_sha256: 285f5134c696dbb77c7310aed28f2e3a3af9d4860dd687f7e7d433a2ee9af3fa
+source_revision: sha256:512ec84b2918c3132633a9e91909152ed4b25ce86fe0a3443ab0e7fd395f094a
+source_sha256: 512ec84b2918c3132633a9e91909152ed4b25ce86fe0a3443ab0e7fd395f094a
 ---
 # Café Pushkin
 
@@ -97,6 +97,15 @@ Near the start of Moscow’s Tverskoy Boulevard, cars often wait outside a pale 
 ![The building at 26A Tverskoy Boulevard that houses Café Pushkin](/media/photos/place-cafe-pushkin-a717f890.jpg)
 
 Figure: The Baroque mansion at 26A Tverskoy Boulevard, home to Café Pushkin since 1999. Image: Shakko, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Moscow,_Tverskoy_blrd_26a_-_Cafee_Pushkin_(2014)_by_shakko_01.jpg)).
+
+> **Quick verdict**
+> **In one line:** This entry helps you decide whether Café Pushkin deserves a detour, and what to check before visiting.
+>
+> - **Best for:** Anyone planning a visit to Café Pushkin who needs to decide whether it deserves a half-day or a full day.
+> - **Not for:** If you want only want a must-visit list and will not check booking, transport or opening hours.
+> - **Check first:**
+>   - The official history makes one key fact clear: in his 1964 song “Nathalie,” French singer Gilbert Bécaud has the characters enter a Moscow café called “Café Pouchkine,” drink hot c.
+>   - The core is “nineteenth-century Russian noble cuisine” combined with classic French gastronomy.
 
 ## Location and history
 

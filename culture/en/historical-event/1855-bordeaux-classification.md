@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:1855-bordeaux-classification
 source_lang: zh
-source_revision: sha256:aaa7c8efa78fe0844663e00a3258d587319e5c13d41b784c56a184b7cf30ffc5
-source_sha256: aaa7c8efa78fe0844663e00a3258d587319e5c13d41b784c56a184b7cf30ffc5
+source_revision: sha256:8e49bb8379dc0a1e0b858a239389f0133fbbb9759eb668bd30561d085737536b
+source_sha256: 8e49bb8379dc0a1e0b858a239389f0133fbbb9759eb668bd30561d085737536b
 translation_status: reviewed
 aliases:
   - 1855分级
@@ -83,6 +83,15 @@ On 18 April 1855, Bordeaux brokers delivered a list that sorted the region's fin
 !["The 1855 Bordeaux Classification: A List Produced for a World's Fair" category image](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
 
 Figure: "The 1855 Bordeaux Classification: A List Produced for a World's Fair". Photograph: File:Château Cheval-Blanc.jpg. Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5 ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)). Category image; not a claim that it shows the exact product, site or event.
+
+> **Quick verdict**
+> **In one line:** This essay explains the causes and consequences of The 1855 Bordeaux Classification: A List Produced for a World's Fair, and what it left behind.
+>
+> - **Best for:** Anyone trying to understand the causes, consequences and disputes around The 1855 Bordeaux Classification: A List Produced for a World's Fair.
+> - **Not for:** If you want only want one date and not the causes or consequences.
+> - **Check first:**
+>   - Before a formal list existed, Bordeaux merchants were already ranking estates by price and reputation.
+>   - The official history notes that since its publication the 1855 list has had only two formal changes: on 16 September 1855 Cantemerle was added to the fifth growths.
 
 ## Before the classification: prices had already sorted the estates
 

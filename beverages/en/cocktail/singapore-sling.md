@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: cocktail:singapore-sling
 source_lang: zh
-source_revision: sha256:97b56a574d124d59f8e14523efb080d0e9a71590d74c19318c7b7cb15dd14c22
-source_sha256: 97b56a574d124d59f8e14523efb080d0e9a71590d74c19318c7b7cb15dd14c22
+source_revision: sha256:ff4d29656fc4f62cefa941caed004f856f11ae6edd9655cc2c6963088a8e6cde
+source_sha256: ff4d29656fc4f62cefa941caed004f856f11ae6edd9655cc2c6963088a8e6cde
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -63,7 +63,7 @@ sources:
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -88,7 +88,7 @@ Figure: Singapore Sling. Image: Paul2520, CC BY 4.0, via Wikimedia Commons ([sou
 
 ## Definition and identity
 
-Common accounts link the Singapore Sling to a Singapore hotel bar in the early 20th century, and the original recipe differs considerably from later versions. Origin and recipe evolution exist in different accounts; this page treats them as historical background and does not present one as settled fact.
+Common accounts link the Singapore Sling to a Singapore hotel bar in the early 20th century, and the original recipe differs considerably from later versions. Origin and recipe evolution exist in different accounts; this cocktail treats them as historical background and does not present one as settled fact.
 
 ## Recipe (IBA version)
 
@@ -142,7 +142,7 @@ For Singapore Sling, a common mistake is treating a variation as the original re
 
 The Singapore Sling suits a before-meal or afternoon drink, with nuts, fruit or simple savoury snacks. It has moderate strength and a large volume, so sip slowly and drink water; do not drink it quickly on an empty stomach. Do not drink when driving, taking medication or pregnant.
 
-This page records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. The finished strength depends on the gin's [alcohol by volume](ref:abv), the sweetness of the juice and liqueur, and ice dilution, not on the recipe numbers alone.
+This cocktail records one sourced version, evaluates no specific brand and does not present one ratio as the only correct answer. The finished strength depends on the gin's [alcohol by volume](ref:abv), the sweetness of the juice and liqueur, and ice dilution, not on the recipe numbers alone.
 
 **In brief:** A classic cocktail of gin, cherry liqueur, citrus juice, pineapple juice and a little bitters, shaken and strained into a hurricane glass; the IBA version contains no soda and is garnished with pineapple and a maraschino cherry. 
 

@@ -153,7 +153,7 @@ Yamazaki is Japan's first commercial malt distillery, opened by Suntory in 1923;
 
 **Sources and limits.** The key claims about Yamazaki Single Malt are checked against the following sources: Suntory (distillery history, origin and product information), Industry body (labelling requirements for Japanese whisky), Oxford University Press (Consulted for entries on Japanese whisky and Yamazaki). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-**Read alongside.** Put Yamazaki Single Malt next to Whisky, Distillation, Oak ageing: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this page first, then return to those entries; the links become coordinates, not decoration.
+**Read alongside.** Put Yamazaki Single Malt next to Whisky, Distillation, Oak ageing: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this entry first, then return to those entries; the links become coordinates, not decoration.
 
 ## Further reading
 

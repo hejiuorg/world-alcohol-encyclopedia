@@ -39,8 +39,8 @@ tags:
 translation_of: place:biondi-santi
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:351852e75e50390047ff6a56d4384c95c68ec183c64312a0e69d113face24807
-source_sha256: 351852e75e50390047ff6a56d4384c95c68ec183c64312a0e69d113face24807
+source_revision: sha256:8687714f508cf7dd285b408c223951d70f34740f3eb1bf524aa6d417ae98e2e4
+source_sha256: 8687714f508cf7dd285b408c223951d70f34740f3eb1bf524aa6d417ae98e2e4
 related:
   - relation: about
     target_id: place:antinori-nel-chianti-classico
@@ -105,6 +105,12 @@ verification_scope: source-verified
 
 Northeast of Montalcino, the road climbs between cypresses and olive groves before entering the Greppo yard. The houses are low, walls are covered with climbing vines, and the cellars still look nineteenth-century. Biondi-Santi is not a castle estate. It is more like a family farm that hides time underground: in 1888 Ferruccio Biondi Santi made the first wine officially labelled Brunello di Montalcino, and today the estate still centres on 100% Sangiovese Grosso, old vines and long ageing in large Slavonian oak.
 
+> **Visit information**
+> - Address: Località Greppo 183, 53024 Montalcino, Siena, Italy.
+> - Opening and booking: check the [official page](https://www.biondisanti.it/en/) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-21.
+
 ![Vine-covered villa at Biondi-Santi Greppo](/media/photos/place-biondi-santi-21bceb80.jpg)
 
 Figure: The vine-covered villa at Biondi-Santi’s Greppo estate. Image: Megan Cole from Vancouver, Canada, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Brunello_di_Montalcino,_Italy_(5874133867).jpg)).
@@ -157,7 +163,7 @@ Never taste before driving; the Montalcino to Val d’Orcia road is winding and 
 
 - Tuscan comparisons: [Antinori](ref:antinori), [Castello di Brolio](ref:brolio), [Fattoria Felsina](ref:felsina), [Chianti Classico route](ref:route).
 - Background: [Tuscany](ref:tuscany).
-- This page provides no map; visits, vintages and prices should be checked with official channels.
+- This entry provides no map; visits, vintages and prices should be checked with official channels.
 
 Begin with the address, move on to the current opening status, and finish with what the place is known for. That order keeps the reading of Biondi-Santi Tenuta Greppo practical.
 

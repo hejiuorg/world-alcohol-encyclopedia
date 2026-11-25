@@ -154,4 +154,4 @@ Start with the address. From there, consider the current opening status, then wh
 
 ## References
 
-This page was checked against Catena Zapata's official contact, about and visit pages, Argentina's national tourism promotion material for Mendoza and Wines of Argentina's INV-based data. Page verified 2026-11-09. To place this stop in a day, see the [Mendoza wine trail](ref:route). Opening hours, prices and booking rules are subject to official channels.
+This entry was checked against Catena Zapata's official contact, about and visit pages, Argentina's national tourism promotion material for Mendoza and Wines of Argentina's INV-based data. Page verified 2026-11-09. To place this stop in a day, see the [Mendoza wine trail](ref:route). Opening hours, prices and booking rules are subject to official channels.

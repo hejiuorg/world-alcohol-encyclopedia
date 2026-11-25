@@ -167,4 +167,4 @@ If you choose one island, decide the experience first: Arran works as a day trip
 Small island batches often sell only at the distillery or online, so check stock and booking before travelling.
 
 - Related: [scotland](ref:scotland), [whisky](ref:whisky), [barley](ref:barley), [distillation](ref:distillation), [peat-phenol-ppm](ref:peat).
-- This page provides no map, prices or opening hours; confirm before travelling.
+- This region provides no map, prices or opening hours; confirm before travelling.

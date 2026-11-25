@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: cocktail:manhattan
 source_lang: zh
-source_revision: sha256:a763867aff7580becba096caa2ef61b6139feb60c6345d23670ea640bce9b218
-source_sha256: a763867aff7580becba096caa2ef61b6139feb60c6345d23670ea640bce9b218
+source_revision: sha256:5ee5dbc0671d3e8aa12585f944205640e852a3c9ee26dfd66b34869f2625fe14
+source_sha256: 5ee5dbc0671d3e8aa12585f944205640e852a3c9ee26dfd66b34869f2625fe14
 translation_status: reviewed
 style: Classic cocktail
 ingredient_refs: []
@@ -69,7 +69,7 @@ sources:
     url: https://www.penguinrandomhouse.com/books/317218/imbibe-updated-and-revised-edition-by-david-wondrich/
   - key: iba-list
     title: IBA Official Cocktails — official list
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
@@ -96,7 +96,7 @@ Figure: A Manhattan in a coupe, with deep amber liquid and a cherry on a pick la
 
 ## Definition and identity
 
-There are several accounts of where the name "Manhattan" came from, commonly linked to the New York borough or a particular bar, but without a single agreed conclusion. This page treats it as historical background and does not present one account as settled.
+There are several accounts of where the name "Manhattan" came from, commonly linked to the New York borough or a particular bar, but without a single agreed conclusion. This cocktail treats it as historical background and does not present one account as settled.
 
 ## Recipe (IBA version)
 
@@ -150,7 +150,7 @@ For Manhattan, a common mistake is treating a variation as the same recipe. Afte
 
 A Manhattan suits slow pre-dinner drinking with nuts, cheese or simple savoury snacks. It is relatively strong, so sip slowly and drink water; do not drink quickly on an empty stomach. Do not drink if driving, taking medication or pregnant.
 
-This page records one sourced version and does not rate specific brands or present one whiskey or ratio as the only correct answer. The final strength depends on the whiskey's [alcohol by volume](ref:abv), the sweetness of the vermouth and ice dilution, not on the recipe numbers alone.
+This cocktail records one sourced version and does not rate specific brands or present one whiskey or ratio as the only correct answer. The final strength depends on the whiskey's [alcohol by volume](ref:abv), the sweetness of the vermouth and ice dilution, not on the recipe numbers alone.
 
 **Short definition:** A classic cocktail of rye whiskey, sweet vermouth and bitters, stirred and strained into a glass, garnished with a cherry. The structure is simple, with sweetness and spice unfolding in layers.
 
@@ -170,7 +170,7 @@ The classic ratio is 2 oz rye to 1 oz sweet vermouth, with a dash of bitters and
 
 **Sources and limits.** The key claims about Manhattan are checked against the following sources: International Bartenders Association (Used to check the official recipe, method and garnish; Used to confirm the drink is on the IBA official cocktail list), Oxford University Press (Used to check historical background and basic composition), David Wondrich / Perigee (Used to check background on 19th-century American cocktail development) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Manhattan, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Manhattan, this cocktail was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 ## Further reading
 

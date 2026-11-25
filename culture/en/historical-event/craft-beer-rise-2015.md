@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: craft-beer-rise-2015
 title: The rise of Chinese craft beer around 2015
-summary: Around 2015 Chinese craft beer expanded from small bars and breweries in first-tier cities to more cities, with taprooms, beer festivals and domestic brands multiplying. This page explains the background, the forms, the regulatory conditions and the dispute over scale.
+summary: Around 2015 Chinese craft beer expanded from small bars and breweries in first-tier cities to more cities, with taprooms, beer festivals and domestic brands multiplying. This essay explains the background, the forms, the regulatory conditions and the dispute over scale.
 status: reviewed
 revision: 3
 translation_of: historical-event:craft-beer-rise-2015
@@ -156,7 +156,7 @@ Setting [China](ref:china)'s date beside [United States](ref:usa)'s place makes 
 
 | Item | Detail |
 | --- | --- |
-| In one line | Around 2015 Chinese craft beer expanded from small bars and breweries in first-tier cities to more cities, with taprooms, beer festivals and domestic brands multiplying. This page explains the background, the forms, the … |
+| In one line | Around 2015 Chinese craft beer expanded from small bars and breweries in first-tier cities to more cities, with taprooms, beer festivals and domestic brands multiplying. This essay explains the background, the forms, the … |
 | Date | Around 2015 |
 | Place | China |
 | Calendar | Gregorian |

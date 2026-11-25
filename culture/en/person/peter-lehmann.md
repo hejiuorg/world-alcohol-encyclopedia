@@ -140,7 +140,7 @@ Start with the period and the role. From there, consider the documented work, th
 
 ## Further reading
 
-Wine Spectator's obituary supplies the skeleton of dates, appointments and ownership changes, while the winery's own blog adds Stonewell, Eight Songs and grower relationships. The Wandering Palate's remembrance concentrates on the district-rescue narrative. The three sources have different positions: the obituary favours facts, the winery favours brand story, and the remembrance favours assessment. Reading them together avoids turning Lehmann into a solitary hero or crediting him with every later commercial success. He received the Order of Australia, but sources differ between AM and AO; this page keeps the verifiable fact of the honour without forcing a grade.
+Wine Spectator's obituary supplies the skeleton of dates, appointments and ownership changes, while the winery's own blog adds Stonewell, Eight Songs and grower relationships. The Wandering Palate's remembrance concentrates on the district-rescue narrative. The three sources have different positions: the obituary favours facts, the winery favours brand story, and the remembrance favours assessment. Reading them together avoids turning Lehmann into a solitary hero or crediting him with every later commercial success. He received the Order of Australia, but sources differ between AM and AO; this profile keeps the verifiable fact of the honour without forcing a grade.
 
 ## See also
 

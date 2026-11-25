@@ -84,13 +84,13 @@ sources:
     title: Encyclopaedia Britannica
     url: https://www.britannica.com/
     publisher: Encyclopaedia Britannica
-    note: General background reference for wine history and regional systems; no entry text is quoted on this page.
+    note: General background reference for wine history and regional systems; no entry text is quoted on this essay.
     accessed: 2026-11-07
 rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against the EU regulation, INAO, OIV and public encyclopaedia material, with quotations kept to the minimum necessary. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party translations of legal texts, annotations, wine labels, regional maps and images are not covered by this licence; tier names, scope and labelling rules follow the official texts. No third-party images are used on this page.
+  note: Third-party translations of legal texts, annotations, wine labels, regional maps and images are not covered by this licence; tier names, scope and labelling rules follow the official texts. No third-party images are used on this essay.
 verification_scope: source-verified
 ---
 
@@ -120,7 +120,7 @@ Estate and plot classification follows another logic. It does not try to cover e
 
 To read the “grading” of a wine, work through the layers: first, whether it carries a geographical indication, and whether that is AOP or IGP; second, which country and which tier it belongs to; third, whether it also carries an estate, plot or village level. The region name, variety, vintage and producer on the label usually say more than an isolated abbreviation.
 
-At the level of rules, the key parameters include the area of origin, permitted varieties, minimum alcohol, maximum yields, planting density, pruning methods, harvesting and winemaking methods, and the terms permitted on the label. These can change between regions, vintages and revisions, so specific figures and conditions should follow the officially published standard text. This page does not list exact proportions or limits, precisely to avoid turning rules that change into fixed conclusions.
+At the level of rules, the key parameters include the area of origin, permitted varieties, minimum alcohol, maximum yields, planting density, pruning methods, harvesting and winemaking methods, and the terms permitted on the label. These can change between regions, vintages and revisions, so specific figures and conditions should follow the officially published standard text. This essay does not list exact proportions or limits, precisely to avoid turning rules that change into fixed conclusions.
 
 ## Cases
 
@@ -136,7 +136,7 @@ First, the higher the tier, the better. Grading certifies origin and rules, not 
 
 The disputes around grading begin with the mismatch between history and the present: estate rankings formed decades ago may not reflect today's climate, ownership and winemaking. Next comes expansion and revision: changing the area of a region, or loosening and tightening variety rules, gives old labels new meanings. Third is climate change: ripeness, acidity and style are shifting, and the old rules may need rethinking. Fourth is market communication: the more complex the abbreviations, the more easily they become marketing symbols.
 
-This page therefore explains the institutional framework without judging the actual level of any region or estate. For a specific product's tier, vintage, yields and label terms, consult the producer and the official rules. When comparing across countries, compare similar styles, vintages and price bands rather than the abbreviations themselves.
+This essay therefore explains the institutional framework without judging the actual level of any region or estate. For a specific product's tier, vintage, yields and label terms, consult the producer and the official rules. When comparing across countries, compare similar styles, vintages and price bands rather than the abbreviations themselves.
 
 ## How to use it
 

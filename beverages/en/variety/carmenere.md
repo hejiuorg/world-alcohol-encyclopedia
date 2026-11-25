@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:carmenere
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:964eac52d3b4caa99d7f354c1d18ab1284e44675ac7fb0aa8a089ad52a1c7622
-source_sha256: 964eac52d3b4caa99d7f354c1d18ab1284e44675ac7fb0aa8a089ad52a1c7622
+source_revision: sha256:9a1232ec61fb17a320e9968274fc7c7fe1f9725f18c6184ec5eb69ca18aa3415
+source_sha256: 9a1232ec61fb17a320e9968274fc7c7fe1f9725f18c6184ec5eb69ca18aa3415
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -83,6 +83,15 @@ Carménère's story is a story of mistaken identity. It was once part of the Bor
 ![Carménère image](/media/photos/variety-carmenere-eb814fed.jpg)
 
 Figure: Carménère. Image: Lebowskyclone, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:CarmenereW.jpg)).
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Carménère suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Carménère with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - Carménère belongs to the European grape Vitis vinifera and is a red variety.
+>   - Carménère originated in Bordeaux and was already recorded there in the 18th century, when it took part in blends alongside Cabernet Sauvignon, Cabernet Franc and Merlot.
 
 ## Definition and synonyms
 

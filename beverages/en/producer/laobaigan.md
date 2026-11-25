@@ -83,7 +83,7 @@ Figure: Hebei Hengshui Laobaigan Liquor Co., Ltd.. Photograph: File:Vertreter de
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottle. When discussing "Laobaigan", first establish whether the subject is the aroma type, the brand or a bottle.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the brand is a market mark, and a product is a specific bottle. When discussing "Laobaigan", first establish whether the subject is the aroma type, the brand or a bottle.
 
 For Hebei Hengshui Laobaigan Liquor Co., Ltd., "Laobaigan" is at once an aroma-type name, a brand name and a product name. Aroma type is a classification of process and flavour, a brand is a market mark, and a product is a specific specification; the three are not interchangeable.
 

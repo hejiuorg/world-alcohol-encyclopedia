@@ -5,7 +5,7 @@ type: event
 lang: en
 slug: bordeaux-cite-du-vin-50-wine-regions-2026
 title: "Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026"
-summary: To mark its tenth anniversary, La Cité du Vin in Bordeaux is running a free photo exhibition, “Around the World in 50 Wine Regions”, from 13 February to 31 December 2026 on its ground and first floors, with images chosen by its partner wine regions. The exhibition is still running; this page records the arrangements, venue and limits.
+summary: To mark its tenth anniversary, La Cité du Vin in Bordeaux is running a free photo exhibition, “Around the World in 50 Wine Regions”, from 13 February to 31 December 2026 on its ground and first floors, with images chosen by its partner wine regions. The exhibition is still running; this event records the arrangements, venue and limits.
 status: reviewed
 revision: 2
 translation_of: event:bordeaux-cite-du-vin-50-wine-regions-2026
@@ -93,9 +93,9 @@ place_refs:
   - place:cite-du-vin
 organizer_refs: []
 official_url: https://www.laciteduvin.com/fr/agenda/expo-photo-le-tour-du-monde-en-50-regions-viticoles
-event_status: upcoming
-source_sha256: 5f6a89a53b85b6ba12664fe92f1d65b6900add8961505b2f1fced67edf588e65
-source_revision: sha256:5f6a89a53b85b6ba12664fe92f1d65b6900add8961505b2f1fced67edf588e65
+event_status: ongoing
+source_sha256: 42249d235d36112887d51b97c204ffcc6889318b0c8a2ef6fb792e4a3f737547
+source_revision: sha256:42249d235d36112887d51b97c204ffcc6889318b0c8a2ef6fb792e4a3f737547
 ---
 
 # Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026
@@ -105,6 +105,15 @@ La Cité du Vin in Bordeaux turned ten in 2026. As part of its anniversary progr
 ![Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026 category illustration](/media/photos/theme-winery.jpg)
 
 Figure: Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026. Project-generated or category illustration used for winery and wine venue context; not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This event explains the current status of Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026, and how to take part.
+>
+> - **Best for:** Anyone who wants the scene, mechanics and current status of Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026.
+> - **Not for:** If you want only want live ticketing or real-time logistics.
+> - **Check first:**
+>   - La Cité du Vin opened on 1 June 2016.
+>   - The exhibition consists of photographs from 50 wine regions, each image chosen by one of the museum's partner regions or partner estates.
 
 ## What the event is
 
@@ -152,7 +161,7 @@ The first limit is the meaning of “free”. Free applies only to the ground an
 
 The second limit is the nature of the show. The partner regions choose the images, so the exhibition has an explicit partnership and promotional dimension. It is not an independent art survey and not a quality ranking of regions. Photographs offer a visual entry point but cannot replace understanding of a region's rules, varieties, climate and market. After the exhibition, go back to the permanent display's modules on world vineyards, craft and history, or go to the region itself.
 
-The third limit is the absence of Bordeaux Fête le Vin in 2026. This page originally corresponded to the candidate “Bordeaux Fête le Vin 2026”, but the official site has no 2026 edition and points directly to 7–11 July 2027. The page therefore uses a same-city, venue-verifiable wine event, the Cité du Vin photo exhibition, and states the substitution here. Do not read this page as a record of the riverside wine festival.
+The third limit is the absence of Bordeaux Fête le Vin in 2026. This event originally corresponded to the candidate “Bordeaux Fête le Vin 2026”, but the official site has no 2026 edition and points directly to 7–11 July 2027. The page therefore uses a same-city, venue-verifiable wine event, the Cité du Vin photo exhibition, and states the substitution here. Do not read this event as a record of the riverside wine festival.
 
 The fourth limit is time. The exhibition runs from February to 31 December, crossing the change to winter time and the holidays. Opening hours shift with the season, the venue is closed on 25 December, and there may be early closures at the end of the year. `event_status` is `upcoming` because, as of 8 November 2026, the exhibition has not yet ended, not because it has not begun. Check the museum's official page for the day you plan to visit.
 

@@ -90,7 +90,7 @@ verification_scope: source-verified
 
 莱希亚是墨西哥哈利斯科州西部山区与太平洋沿岸村落出产的龙舌兰蒸馏酒，与梅斯卡尔同属龙舌兰烈酒家族，但所用野生龙舌兰种类、村落工艺和风味谱系都更分散；2019 年获得墨西哥原产地名称保护，2020 年列入欧盟与墨西哥烈酒互认清单。
 
-![Raicilla](/media/photos/theme-wine-spirits.jpg)
+![Raicilla](/media/figures/specific/drink-style-raicilla.svg)
 
 图：Raicilla主题示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有）；不是莱希亚的实拍，仅作主题示意。
 

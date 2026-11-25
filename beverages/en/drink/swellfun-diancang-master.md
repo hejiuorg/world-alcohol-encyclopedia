@@ -146,7 +146,7 @@ For Swellfun Collection Master Edition, taste in a small glass: smell the restin
 
 The company listed in 1996, the archaeological findings at the site drew attention in 1999, and the Swellfun brand was launched in 2000. Collection Master Edition later became an important product in the high-end band, and public reporting shows several price adjustments, indicating that its position shifts with the market.
 
-The product sits where a regional famous liquor is extending into the national high-end market. Prices move with vintage, channel and supply and demand, and this page gives no figures. Treating price as proof of quality, or the age of the site as bottle age, are common misreadings.
+The product sits where a regional famous liquor is extending into the national high-end market. Prices move with vintage, channel and supply and demand, and this entry gives no figures. Treating price as proof of quality, or the age of the site as bottle age, are common misreadings.
 
 ## Buying and storage
 

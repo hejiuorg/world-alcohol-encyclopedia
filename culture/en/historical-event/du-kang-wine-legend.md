@@ -5,7 +5,7 @@ type: historical-event
 lang: en
 slug: du-kang-wine-legend
 title: "The Dukang Wine Legend: How a Person Became a Synonym for Wine"
-summary: The Eastern Han Shuowen Jiezi records that 'Dukang made shu wine' and adds that 'Shaokang is Dukang'; Cao Cao's line 'what relieves sorrow? Only Dukang' turned the name into a synonym for wine. At least four accounts of Dukang's era, identity and brewing place circulate in texts and local traditions; this page separates sources, scholarly views and legend.
+summary: The Eastern Han Shuowen Jiezi records that 'Dukang made shu wine' and adds that 'Shaokang is Dukang'; Cao Cao's line 'what relieves sorrow? Only Dukang' turned the name into a synonym for wine. At least four accounts of Dukang's era, identity and brewing place circulate in texts and local traditions; this essay separates sources, scholarly views and legend.
 status: reviewed
 revision: 2
 translation_of: historical-event:du-kang-wine-legend
@@ -99,7 +99,7 @@ Figure: The Dukang Wine Legend: How a Person Became a Synonym for Wine. Project-
 
 At least four accounts of Dukang's era circulate: the official in charge of the kitchens under the Yellow Emperor, Shaokang of the Xia dynasty, a man of the Eastern Zhou, and a Han administrator of Jiuquan. A review article in a Luoyang local newspaper sets the four side by side and notes that the 'Yellow Emperor's kitchen officer' account appears late and was already criticised by Duan Yucai in the Qing dynasty as 'a joke, not a serious record'. The most influential account identifies Dukang with Shaokang, on the strength of one line in the Shuowen Jiezi: 'Shaokang is Dukang.'
 
-Place is equally divided. A local tradition around Ruyang in Henan puts Dukang's brewing site beside the Dukang river at Dukang village, citing the 'Kang river' in the Commentary on the Water Classic and the Dukang Temple in the Great Yuan Unified Gazetteer; the tradition in Baishui, Shaanxi, calls Dukang a Han-period man with the courtesy name Zhongning, on the authority of a stele dated the 48th year of the Qianlong reign (1783). Both rest on late local documents and neither can confirm the other. This page therefore calls the place a 'legendary site' and gives no coordinates.
+Place is equally divided. A local tradition around Ruyang in Henan puts Dukang's brewing site beside the Dukang river at Dukang village, citing the 'Kang river' in the Commentary on the Water Classic and the Dukang Temple in the Great Yuan Unified Gazetteer; the tradition in Baishui, Shaanxi, calls Dukang a Han-period man with the courtesy name Zhongning, on the authority of a stele dated the 48th year of the Qianlong reign (1783). Both rest on late local documents and neither can confirm the other. This essay therefore calls the place a 'legendary site' and gives no coordinates.
 
 ## Background: shu wine and the 'wine ancestor'
 

@@ -104,7 +104,7 @@ Tasted on its own, Corvina can seem lean, which is exactly why the traditional b
 
 The same variety differs greatly with method: fresh grapes fermented directly give a light red, while dried grapes give a concentrated sweet or dry wine. A variety page describes potential; a wine page records the estate's drying time and ageing decisions.
 
-Ripasso is made by mixing fresh-grape Valpolicella with the still-sweet dried-grape pomace left after Amarone fermentation and running a second maceration and fermentation, so the pomace adds colour, alcohol and dried-fruit aroma; the result sits between ordinary Valpolicella and Amarone. The drying room needs ventilation, low temperature and low humidity, with bunches laid in a single layer or hung on racks and turned and sorted for mould during the weeks of drying. Water loss concentrates sugar, acidity and aroma and also raises the risk from rising alcohol late in fermentation. Estates decide the details, and this page gives no uniform duration.
+Ripasso is made by mixing fresh-grape Valpolicella with the still-sweet dried-grape pomace left after Amarone fermentation and running a second maceration and fermentation, so the pomace adds colour, alcohol and dried-fruit aroma; the result sits between ordinary Valpolicella and Amarone. The drying room needs ventilation, low temperature and low humidity, with bunches laid in a single layer or hung on racks and turned and sorted for mould during the weeks of drying. Water loss concentrates sugar, acidity and aroma and also raises the risk from rising alcohol late in fermentation. Estates decide the details, and this variety gives no uniform duration.
 
 ## Viticulture
 

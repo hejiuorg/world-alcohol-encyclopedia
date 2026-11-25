@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:muscat
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b1caf913e1c05bd46694c37ed5109c0a06ccdf9d2d69eb6934f766aa87085024
-source_sha256: b1caf913e1c05bd46694c37ed5109c0a06ccdf9d2d69eb6934f766aa87085024
+source_revision: sha256:89aee47f4171f8fe975cbdb6697398c5bd3f833feafb87a93f91f02deaf8d11e
+source_sha256: 89aee47f4171f8fe975cbdb6697398c5bd3f833feafb87a93f91f02deaf8d11e
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -90,6 +90,15 @@ Muscat is not a single variety but an old and varied family of grapes spread acr
 ![Muscat image](/media/photos/variety-muscat-4cf9d96f.jpg)
 
 Figure: Muscat. Image: Tristan, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Al_Alam_Palace.jpg)).
+
+> **Quick verdict**
+> **In one line:** This variety helps you decide whether Muscat suits you, and compare it with other varieties.
+>
+> - **Best for:** Anyone comparing Muscat with other varieties and trying to pin down the flavour difference.
+> - **Not for:** If you want only want a famous producer recommendation and do not care about the variety itself.
+> - **Check first:**
+>   - Chinese sources use one collective term for the Muscat family, literally "musky fragrance".
+>   - The family is usually traced to the eastern Mediterranean and Asia Minor, where sweet Muscat wines were recorded in Greek and Roman writing; the Romans carried the vine to Gaul.
 
 ## Definition and synonyms
 

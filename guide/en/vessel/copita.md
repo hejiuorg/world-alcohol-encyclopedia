@@ -11,8 +11,8 @@ revision: 1
 translation_of: vessel:copita
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:38339d0a7a3f7db356619a61e11743ba8c24ab47d8ced2cc43248418de817939
-source_sha256: 38339d0a7a3f7db356619a61e11743ba8c24ab47d8ced2cc43248418de817939
+source_revision: sha256:eff0654837b146fd41c34aa59ed0b63976f5d0716bb6e7b90d20a552e68781ea
+source_sha256: eff0654837b146fd41c34aa59ed0b63976f5d0716bb6e7b90d20a552e68781ea
 materials:
   - Glass
   - Crystal glass
@@ -95,6 +95,15 @@ The copita is the small stemmed glass most often used for tasting Sherry in Spai
 ![Copita image](/media/photos/vessel-copita-bfe92cf0.jpg)
 
 Figure: Copita. Image: User:Theroadislong, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Twisted_stem_glass.JPG)).
+
+> **Quick verdict**
+> **In one line:** This glass explains why Copita changes aroma, and which drinks it suits.
+>
+> - **Best for:** Anyone who wants to understand why Copita changes aroma and texture.
+> - **Not for:** If you want want a “buy the most expensive glass” verdict without matching the drink.
+> - **Check first:**
+>   - A standard wine glass has a larger bowl and a wider rim, designed to give the wine surface and air so that aroma can develop.
+>   - The tulip glass has a similar outline and is often used interchangeably.
 
 ## The word simply means "little cup"
 

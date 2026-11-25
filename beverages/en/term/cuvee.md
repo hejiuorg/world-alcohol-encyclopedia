@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:cuvee
 source_lang: zh
-source_revision: sha256:17f909e96f0d0efcd2bf77efee90bfe20b2a7a7ee7a3db72d48303d960259bd3
-source_sha256: 17f909e96f0d0efcd2bf77efee90bfe20b2a7a7ee7a3db72d48303d960259bd3
+source_revision: sha256:7229ff9667e9d0818a824677379761a09be94fc2cf71ae2fd3f5fe9d1cb35575
+source_sha256: 7229ff9667e9d0818a824677379761a09be94fc2cf71ae2fd3f5fe9d1cb35575
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -72,7 +72,7 @@ verification_scope: source-verified
 ---
 # Cuvée
 
-Cuvée is an overworked French word. It has at least two technical meanings: the gentlest juice released first during sparkling-wine pressing, and a batch assembled from several base wines. On a label it often becomes simply a product name. The three meanings overlap, but none is a legal quality grade.![Cuvée thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Cuvée is an overworked French word. It has at least two technical meanings: the gentlest juice released first during sparkling-wine pressing, and a batch assembled from several base wines. On a label it often becomes simply a product name. The three meanings overlap, but none is a legal quality grade.![Cuvée thematic illustration](/media/figures/specific/term-cuvee.svg)
 
 Figure: thematic illustration for Cuvée. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

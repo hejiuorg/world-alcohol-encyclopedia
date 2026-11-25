@@ -53,7 +53,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认 Sidecar 收录于 IBA 官方鸡尾酒名单的“难忘经典”类别；未复制原文。
     accessed: 2026-11-07
@@ -93,6 +93,15 @@ verification_scope: source-verified
 ![碟形杯中的边车，杯口挂柠檬](/media/photos/cocktail-sidecar-a429565e.jpg)
 
 图：一杯边车，琥珀色酒液盛于碟形杯，杯口挂着一片柠檬。图片：Achim Schleuning，CC BY-SA 4.0，via [原图页面](https://commons.wikimedia.org/wiki/File:Sidecar_Cocktail.jpg)。
+
+> **先给结论**
+> **一句话：** 这页判断边车该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂边车的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 糖边是边车最容易被误解的部分。
+>   - 点单时可以说“边车，干邑基酒，糖边半圈或不要”，并问清楚用的是哪一种橙味利口酒。
 
 ## 一杯酸酒的三角结构
 

@@ -10,8 +10,8 @@ summary: Pieter Bruegel the Elder's 1568 panel in Vienna shows a Flemish peasant
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:fa3359083f2bab7dacc20b61f61bab81c5499ee91afcd3a10aa22a3706846b0f
-source_sha256: fa3359083f2bab7dacc20b61f61bab81c5499ee91afcd3a10aa22a3706846b0f
+source_revision: sha256:47e13dd3d77c47996e3bd969eddec4c4d216b3540bddb66c4598674e079395a3
+source_sha256: 47e13dd3d77c47996e3bd969eddec4c4d216b3540bddb66c4598674e079395a3
 source_lang: zh
 translation_status: reviewed
 creator_refs: []
@@ -83,12 +83,21 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Original text by the project, checked against the Kunsthistorisches Museum, Google Arts & Culture and art-historical reference works; quotations are limited to short phrases. The project owner declared CC BY 4.0 for site content on 2026-10-29.
-  note: The painting is in the public domain; museum photography and catalogue text are not. This page uses a public-domain reproduction from Wikimedia Commons.
+  note: The painting is in the public domain; museum photography and catalogue text are not. This artwork entry uses a public-domain reproduction from Wikimedia Commons.
 verification_scope: source-verified
 ---
 ![Reproduction of Bruegel's Peasant Wedding, 1568, Kunsthistorisches Museum, Vienna; not a documentary record of the wedding.](/media/photos/artwork-bruegel-peasant-wedding-3eb0e101.jpg)
 
 Figure: Reproduction of Bruegel's Peasant Wedding, 1568, Kunsthistorisches Museum, Vienna; not a documentary record of the wedding.. Image: Pieter Bruegel the Elder, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg)).
+
+> **Quick verdict**
+> **In one line:** This artwork entry helps you look at The Peasant Wedding: Bruegel Paints a Village Feast as a Cross-Section of Society, and place it in the history of drinking imagery.
+>
+> - **Best for:** Anyone who wants The Peasant Wedding: Bruegel Paints a Village Feast as a Cross-Section of Society in the history of drinking imagery, not as a standalone picture.
+> - **Not for:** If you want want a single image without the period or drinking context.
+> - **Check first:**
+>   - The protagonist of the picture is not drink.
+>   - Start with the diagonal: the long table runs from the lower left toward the back and leads the eye to the bride.
 
 ## A wedding crowded into a barn
 

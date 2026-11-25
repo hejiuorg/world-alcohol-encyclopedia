@@ -94,7 +94,7 @@ Figure: Suntory. Image: 663highland, CC BY 2.5, via Wikimedia Commons ([source p
 
 ## Brand definition
 
-"Suntory" refers to different levels depending on context: it can mean Suntory Holdings as a corporate group, the beverage and food business, or the alcohol brands and products. This page focuses on the alcohol brand layer; see the [Beam Suntory](ref:producer) entry for the full structure of the group and the spirits platform.
+"Suntory" refers to different levels depending on context: it can mean Suntory Holdings as a corporate group, the beverage and food business, or the alcohol brands and products. This brand focuses on the alcohol brand layer; see the [Beam Suntory](ref:producer) entry for the full structure of the group and the spirits platform.
 
 A brand is not a single product or a single category. Suntory covers single malt whisky, blended whisky, beer and other spirits as well as beverages, and products under one brand name may come from different distilleries, origins and regulatory systems. Anyone asking "what does Suntory taste like" needs to name the category and the product first.
 
@@ -112,13 +112,13 @@ Ownership, operating entity and production location should be separated: Suntory
 
 For Japanese whisky, public product material commonly lists Yamazaki single malt, Hakushu single malt, Hibiki blended whisky and Kakubin for mass-market restaurant use. Age statements, cask types, strength and volume differ between series, and some products also have no-age-statement and limited editions.
 
-For beer, common brands include The Premium Malt's and Malt's, covering restaurants, retail and different pack sizes. The group also runs other spirits, wine and beverage businesses, but those categories are outside the focus of this page. The range changes with market and regulation, so the current list should be checked through official channels.
+For beer, common brands include The Premium Malt's and Malt's, covering restaurants, retail and different pack sizes. The group also runs other spirits, wine and beverage businesses, but those categories are outside the focus of this brand. The range changes with market and regulation, so the current list should be checked through official channels.
 
 Buyers should verify the product name, any age statement, strength, volume, producer and origin on the label. Japanese whisky labelling rules have been tightened in recent years, and the relationship between the words "Japanese whisky" on a label and the ingredients, distillation location and maturation location deserves close reading.
 
 ## Positioning and price band
 
-The brand spans a mass-to-premium price band: products such as Kakubin serve everyday restaurants and mass consumption, Yamazaki and Hakushu sit in the mid-to-high end, Hibiki serves high-end gifting and collecting, and the beer range covers mainstream restaurants and retail. Prices move with market, channel, tax, promotions and supply and demand, so this page gives no specific retail price.
+The brand spans a mass-to-premium price band: products such as Kakubin serve everyday restaurants and mass consumption, Yamazaki and Hakushu sit in the mid-to-high end, Hibiki serves high-end gifting and collecting, and the beer range covers mainstream restaurants and retail. Prices move with market, channel, tax, promotions and supply and demand, so this brand gives no specific retail price.
 
 Japanese whisky has seen supply shortages and premiums in some markets, and price movements can be far larger than in other categories; this is a market phenomenon and does not mean every product is equally scarce. A price band is market positioning, not a quality grade, and cannot replace label information.
 

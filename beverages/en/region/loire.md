@@ -150,7 +150,7 @@ The Loire is a long riverine wine region, not a single style. Muscadet in the Na
 
 ## Scope note
 
-This page describes the geography, varieties and rules of the Loire Valley and does not assess individual estates or vintages. The parent region is [France](ref:france).
+This region describes the geography, varieties and rules of the Loire Valley and does not assess individual estates or vintages. The parent region is [France](ref:france).
 
 Start with the appellation and its permitted varieties. From there, consider the vintage and the producer, then how the wine is labelled. That is how a practical judgment about Loire Valley is built.
 
@@ -173,4 +173,4 @@ The region's sparkling wines are made mainly from Chenin Blanc and Cabernet Fran
 
 **Sources and limits.** The key claims about Loire Valley are checked against the following sources: INAO (Used to check the French appellation system and its administering body), European Union (Used to check EU wine categories, geographical indications and labelling rules), Oxford University Press (Consulted for entries on the Loire sub-regions and varieties) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
-For Loire Valley, this page was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+For Loire Valley, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.

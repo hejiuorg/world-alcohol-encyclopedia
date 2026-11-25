@@ -82,7 +82,7 @@ Figure: Sichuan Swellfun Co., Ltd.. Photograph: File:Vertreter der vier Baijiu K
 
 ## Company identity
 
-This page records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the parent is the holding platform, and the actual controller influences governance through the ownership chain.
+This producer records the producer layer: company name, registered place, founding date and organisational form. The joint-stock company is the listed entity and handles production, sales and disclosure; the parent is the holding platform, and the actual controller influences governance through the ownership chain.
 
 "Swellfun" is at once the company name, the brand name and a product name. A discussion should first establish whether the subject is the listed company, the parent, the brand or a specific bottle. The company is registered and headquartered in Chengdu, while production and bottling sites should be checked on the label.
 

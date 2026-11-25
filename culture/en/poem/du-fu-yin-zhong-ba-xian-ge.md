@@ -11,8 +11,8 @@ revision: 1
 translation_of: poem:du-fu-yin-zhong-ba-xian-ge
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9026732c6271546222f41dead6687a64aab115d6237525067e9dae0473665272
-source_sha256: 9026732c6271546222f41dead6687a64aab115d6237525067e9dae0473665272
+source_revision: sha256:a2f5432c851ee3921f875788d0e9c02fc8e1a41dfb20c3388084fd12c78cee3c
+source_sha256: a2f5432c851ee3921f875788d0e9c02fc8e1a41dfb20c3388084fd12c78cee3c
 author_name: Du Fu
 source_title: Complete Tang Poems
 dynasty: Tang
@@ -93,6 +93,15 @@ The Song of the Eight Immortals of the Wine Cup is often read as a list of Tang 
 ![Du Jin, Eight Immortals of the Wine Cup, detail](/media/photos/poem-du-fu-yin-zhong-ba-xian-ge-b683c604.jpg)
 
 Figure: A section of Du Jin's Scroll of Ancient Worthies, illustrating the drinkers of Du Fu's poem. This is a later poetic painting, not a record of a Tang banquet. Image: Du Jin, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E6%9D%9C%E5%A0%87%E7%94%BB%E5%8F%A4%E8%B4%A4%E8%AF%97%E6%84%8F%E5%8D%B7%E5%B1%80%E9%83%A8_%E9%A5%AE%E4%B8%AD%E5%85%AB%E4%BB%99.jpg)).
+
+> **Quick verdict**
+> **In one line:** This poem entry explains why Song of the Eight Immortals of the Wine Cup: Du Fu's portrait gallery of High Tang matters, and how to read it in its drinking context.
+>
+> - **Best for:** Anyone who wants Song of the Eight Immortals of the Wine Cup: Du Fu's portrait gallery of High Tang in its literary and drinking context, not just as a famous line.
+> - **Not for:** If you want only want exam points or one famous line without context.
+> - **Check first:**
+>   - The Eight Immortals of the Wine Cup is not a group name invented by Du Fu; it is a later summary of the eight drinkers in the poem.
+>   - He Zhizhang rides a horse as if he were in a boat; his eyes blur, he falls into a well and sleeps at the bottom.
 
 ## Title and text
 

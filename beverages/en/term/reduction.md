@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:reduction
 source_lang: zh
-source_revision: sha256:4e956ad24d461dc411c426e8e0147a7d61c3e5a17bbdfc9b8c8f8006ba88cdb5
-source_sha256: 4e956ad24d461dc411c426e8e0147a7d61c3e5a17bbdfc9b8c8f8006ba88cdb5
+source_revision: sha256:94fcee80f71d403aa6d6b4657417cb2b0c832349385271afd0090a980fa87a65
+source_sha256: 94fcee80f71d403aa6d6b4657417cb2b0c832349385271afd0090a980fa87a65
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -77,7 +77,7 @@ verification_scope: source-verified
 
 # Reduction
 
-![Reduction thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Reduction thematic illustration](/media/figures/specific/term-reduction.svg)
 
 Figure: thematic illustration for Reduction. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

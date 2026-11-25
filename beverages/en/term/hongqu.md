@@ -11,8 +11,8 @@ revision: 2
 translation_of: term:hongqu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:25ab9a4b9ceb01fa2a1a4171a4375418a2e3f50ed06b3914f92b59489557a6ea
-source_sha256: 25ab9a4b9ceb01fa2a1a4171a4375418a2e3f50ed06b3914f92b59489557a6ea
+source_revision: sha256:23f715e931abf363acbfc09dc0d2be1efa8284687935329d2982fd1f536b20e7
+source_sha256: 23f715e931abf363acbfc09dc0d2be1efa8284687935329d2982fd1f536b20e7
 legacy_refs: []
 aliases:
   - red yeast rice
@@ -91,7 +91,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored English translation of the Chinese page; no standard text is reproduced. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this page.  This page does not provide health or medical advice.
+  note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this term.  This term does not provide health or medical advice.
 verification_scope: source-verified
 ---
 
@@ -99,9 +99,18 @@ verification_scope: source-verified
 
 Hongqu is a purple-red qu made by steaming rice, inoculating it with Monascus and culturing it. It is both a traditional saccharifying starter and a food colouring material. Within [huangjiu](ref:yellow-wine) it defines the red-qu huangjiu category, and it has separate uses in red-qu paste, red fermented bean curd and pigment production.
 
-![Hongqu thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Hongqu thematic illustration](/media/figures/specific/term-hongqu.svg)
 
 Figure: thematic illustration for Hongqu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
+
+> **Quick verdict**
+> **In one line:** This term explains Hongqu in one line: definition, boundary and usage.
+>
+> - **Best for:** Anyone who has met Hongqu and needs a precise definition, boundary and usage.
+> - **Not for:** If you want need the full legal text or legal/medical advice.
+> - **Check first:**
+>   - Red-qu huangjiu uses glutinous rice as its main material, with hongqu handling saccharification and part of fermentation.
+>   - The first group is hongqu, wheat qu and jiuyao.
 
 ## Definition and boundaries
 
@@ -113,7 +122,7 @@ It differs from wheat qu and jiuyao. Wheat qu cultures moulds on wheat, jiuyao c
 
 The Chinese name points to colour and starter type: qu is the saccharifying carrier, and hong means red. English often renders it as red yeast rice or red koji. Red yeast rice stresses rice cultured with Monascus; red koji stresses the qu itself. Other European languages use calques such as red yeast rice, but the scientific name remains Monascus.
 
-The naming difference creates a difference in understanding. In Europe and North America, red yeast rice often means a food supplement and suggests a cholesterol-lowering function; in China, hongqu more often means a brewing and food material. Mixing the two contexts turns a raw material into a health product. This page deals with hongqu in drinks and food processing and offers no health advice.
+The naming difference creates a difference in understanding. In Europe and North America, red yeast rice often means a food supplement and suggests a cholesterol-lowering function; in China, hongqu more often means a brewing and food material. Mixing the two contexts turns a raw material into a health product. This term deals with hongqu in drinks and food processing and offers no health advice.
 
 ## Production and the organism
 

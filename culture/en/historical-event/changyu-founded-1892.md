@@ -72,7 +72,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against public accounts from the Changyu Wine Culture Museum and the company website, with 'first' claims qualified. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Company and museum pages are used for fact checking only; their copy and images are not reproduced. Third-party images are not covered by this licence. No company marks or product photographs are used on this page.
+  note: Company and museum pages are used for fact checking only; their copy and images are not reproduced. Third-party images are not covered by this licence. No company marks or product photographs are used on this essay.
 verification_scope: source-verified
 ---
 
@@ -130,7 +130,7 @@ First, 'China's first wine enterprise' needs qualification. Changyu was the firs
 
 Second, founding year and production year should not be mixed. The company dates its founding to 1892, but the first wine came in 1899; saying that wine was made in 1892, or that the company was founded in 1899, would both be wrong.
 
-Third, the 3 million taels and the vine figures come from company narrative. The museum and company publish these numbers, but the original ledgers, vine lists and survival rates are not public; this page cites them with their source and does not treat them as independently audited conclusions.
+Third, the 3 million taels and the vine figures come from company narrative. The museum and company publish these numbers, but the original ledgers, vine lists and survival rates are not public; this essay cites them with their source and does not treat them as independently audited conclusions.
 
 Fourth, the category of the 1915 award needs precision. Changyu received the highest grade, the grand prize, at the Panama-Pacific exposition, not a generic 'gold medal'; details are on this site's 1915 Panama-Pacific exposition page.
 

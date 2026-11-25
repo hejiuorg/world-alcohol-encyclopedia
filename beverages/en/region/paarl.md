@@ -24,8 +24,8 @@ tags:
 translation_of: region:paarl
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7c6622e9cf48802590974b64c5b39e5ba3aa956f1b9abca9438aeb04b30fc0fd
-source_sha256: 7c6622e9cf48802590974b64c5b39e5ba3aa956f1b9abca9438aeb04b30fc0fd
+source_revision: sha256:5ce3a4aedf234a68e546d365d3ea39d0df9f93544c1fc4f1bf750fa6f779b370
+source_sha256: 5ce3a4aedf234a68e546d365d3ea39d0df9f93544c1fc4f1bf750fa6f779b370
 related:
   - relation: about
     target_id: region:south-africa
@@ -105,6 +105,15 @@ Paarl is a wine district in the Western Cape, about 60 kilometres northeast of C
 ![Paarl](/media/photos/region-paarl-2f4fd27c.jpg)
 
 Figure: Paarl: Nantes Vineyard Old Vine Sauvignon Blanc, Paarl, South Africa (Wikimedia Commons). Image: Treephoto, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Nantes_Vineyard_Old_Vine_Sauvignon_Blanc,_Paarl,_South_Africa.jpg)).
+
+> **Quick verdict**
+> **In one line:** This region helps you judge Paarl for flavour and travel, and plan accordingly.
+>
+> - **Best for:** Anyone comparing Paarl with other regions before buying wine or planning a trip.
+> - **Not for:** If you want want a “most expensive region” verdict and do not care about style or vintage.
+> - **Check first:**
+>   - “Paarl” means “pearl” in Dutch, named after three granite boulders on Paarl Mountain that glisten like pearls after rain.
+>   - Paarl reds are served around 16–18°C; young Cabernet and Pinotage can be decanted briefly, in a medium to large red glass, while Shiraz and blends sit around 15–17°C.
 
 ## Definition and boundaries
 

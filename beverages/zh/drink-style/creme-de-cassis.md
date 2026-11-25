@@ -76,9 +76,9 @@ verification_scope: source-verified
 
 黑加仑利口酒（crème de cassis）是先把黑加仑果实浸入中性烈酒、再把浸提液加糖调成的深紫色甜酒。法语里的 crème 在这里并不表示奶油，而是指糖分更高、质地更厚的一档[利口酒](ref:liqueur)；因此它不含乳制品，却常比普通果味利口酒更浓稠。它最著名的用途是兑入白葡萄酒或起泡酒，做成 Kir 与 Kir Royale，但单独加冰或淋在甜点上同样成立。
 
-![黑加仑利口酒 类型示意图](/media/photos/theme-beer.jpg)
+![黑加仑利口酒 类型示意图](/media/figures/specific/drink-style-creme-de-cassis.svg)
 
-图：黑加仑利口酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是黑加仑利口酒的实拍。
+图：黑加仑利口酒 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 一杯深紫色的定义
 

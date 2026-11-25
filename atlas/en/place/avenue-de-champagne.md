@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:avenue-de-champagne
 source_lang: zh
-source_revision: sha256:39aa8404b6945d2e6d8f744f09ec7550a30579e3f2f80e091b34f129a68cdd15
-source_sha256: 39aa8404b6945d2e6d8f744f09ec7550a30579e3f2f80e091b34f129a68cdd15
+source_revision: sha256:2c6d535c258526a7bdf7be9cee52de17c9b7194f8e8b6f185ac2e9061f6b3671
+source_sha256: 2c6d535c258526a7bdf7be9cee52de17c9b7194f8e8b6f185ac2e9061f6b3671
 translation_status: reviewed
 subtype: winery-visitor
 address: Avenue de Champagne, 51200 Épernay, France
@@ -103,6 +103,12 @@ verification_scope: source-verified
 # Avenue de Champagne, Épernay
 
 Avenue de Champagne runs south-east from the centre of Épernay for about 1.5 km. It is not a single winery but a street of champagne merchants' mansions, production buildings and cellars. In the 18th century it was part of the royal road from Paris to Germany; merchants clustered here because the chalk beneath was ideal for digging cellars. The street was renamed Avenue de Champagne in 1925, after the railway from Paris had arrived in 1849 and the champagne trade had grown into an international business.
+
+> **Visit information**
+> - Address: Avenue de Champagne, 51200 Épernay, France.
+> - Opening and booking: check the [official page](https://epernay.fr/sortir-bouger/culture-patrimoine/patrimoine-a-decouvrir/lavenue-de-champagne) before travelling; hours, tours and booking rules change by season.
+> - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
+> - Status: Verified; sources checked: 2026-11-08.
 
 ![Avenue de Champagne, Épernay photograph](/media/photos/q2-place-avenue-de-champagne-77370346.jpg)
 

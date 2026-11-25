@@ -116,7 +116,7 @@ The company's place in American spirits history is linked to branded bottling: i
 
 The company has Class A and Class B shares: Class A carries voting rights, Class B does not, and both trade on the New York Stock Exchange under BFA and BFB. This structure lets the Brown family retain control while raising capital from the public market.
 
-Family control is a long-term feature, but public material uses different definitions for the combined voting power of family members and trusts, so this page does not state a specific percentage. What can be confirmed is that dual-class shares make the company favour a steady pace in acquisitions, long-term ageing investment and dividends rather than short-term financial engineering.
+Family control is a long-term feature, but public material uses different definitions for the combined voting power of family members and trusts, so this producer does not state a specific percentage. What can be confirmed is that dual-class shares make the company favour a steady pace in acquisitions, long-term ageing investment and dividends rather than short-term financial engineering.
 
 ## Key points since 1870
 
@@ -176,11 +176,11 @@ Broader pressure comes from tariffs, slower consumption and the inventory cycle;
 
 Controversy centres on three areas: slower US whiskey demand and inventory pressure; tariffs and trade friction affecting exports; and portfolio concentration after divestitures. Dual-class shares preserve family control, limiting outside shareholder influence, a long-running governance discussion.
 
-Public material does not disclose the full family voting percentage or all related-party details, and this page does not fill them in. Specific equity and compensation matters should be checked against SEC filings and proxy statements.
+Public material does not disclose the full family voting percentage or all related-party details, and this producer does not fill them in. Specific equity and compensation matters should be checked against SEC filings and proxy statements.
 
 ## Division of labour with the brand page
 
-This page covers the company: who owns it, what brands it holds and how it discloses. Brand positioning, product lines and flavour belong on brand pages; Brown-Forman has no separate brand page, so this page gives only a portfolio-level overview.
+This producer covers the company: who owns it, what brands it holds and how it discloses. Brand positioning, product lines and flavour belong on brand pages; Brown-Forman has no separate brand page, so this producer gives only a portfolio-level overview.
 
 Treating company and brand as one leads to inferences such as "divesting wine makes every spirit cheaper" or "family control means shareholders do not matter". Reading them separately keeps capital actions and product choices in their own places.
 

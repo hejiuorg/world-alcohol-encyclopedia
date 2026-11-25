@@ -72,7 +72,7 @@ sources:
     accessed: 2026-11-04
   - key: iba-list
     title: IBA 官方鸡尾酒名单
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 官方鸡尾酒名单；未复制原文。
     accessed: 2026-11-07
@@ -94,9 +94,9 @@ verification_scope: source-verified
 
 搅拌（stirring）是把原料与冰块放入调酒杯，用吧勺稳定搅动的调酒技法。它主要完成三件事：降温、适度稀释与混合。与[摇酒](ref:shaking)相比，搅拌带入的空气少、冰屑少，成品更清澈，香气也更细腻，因此适合以酒类为主的短饮。
 
-![搅拌 类型示意图](/media/photos/theme-beer.jpg)
+![搅拌 类型示意图](/media/figures/specific/technique-stirring.svg)
 
-图：搅拌 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是搅拌的实拍。
+图：搅拌 双语视觉卡（项目自绘 SVG）。不是实拍。
 
 ## 定义与目的
 

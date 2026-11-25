@@ -49,7 +49,7 @@ references:
 sources:
   - key: iba-list
     title: IBA Official Cocktails — Cocktail List
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: 用于核对海明威特调的比例与分类；未复制原文。
     accessed: 2026-11-07
@@ -95,6 +95,15 @@ verification_scope: source-verified
 ![海明威代基里 图像](/media/photos/cocktail-hemingway-daiquiri-d7f8504d.jpg)
 
 图：海明威代基里。图片：Achim Schleuning (E-Mail: comander02_de@yahoo.de )，CC BY-SA 3.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hemingway_Daiquiri.jpg)）。
+
+> **先给结论**
+> **一句话：** 这页判断海明威代基里该不该点、比例和冰水怎么处理。
+>
+> - **适合谁：** 想弄懂海明威代基里的配方逻辑、点单方式和常见误区的人。
+> - **不适合谁：** 只想要“一杯就醉”的配方、不关心比例和冰水的人。
+> - **先看这两点：**
+>   - 西柚汁在这杯酒里不是“另一种酸”。
+>   - 除了 IBA 的 60 比 40 比 15 比 15，还有更干的现代版本，把西柚减到 15 毫升、黑樱桃利口酒减到 10 毫升，酸度更集中，酒体更小。
 
 ## 哈瓦那的 El Floridita
 

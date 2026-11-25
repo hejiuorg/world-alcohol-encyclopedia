@@ -75,7 +75,7 @@ rights:
   status: allowed
   license: CC-BY-4.0
   basis: Project-authored; verified against a public poem text and a discussion of authorship; the quoted poem is in the public domain. The project owner declared project content CC BY 4.0 on 2026-10-29.
-  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this page.
+  note: Third-party editions, annotations, translations and images are not covered by this licence; sources are cited for verification only. No third-party images are used on this poem entry.
 verification_scope: source-verified
 ---
 # Qingming: Rain, a Traveller and the Direction of a Wine House
@@ -123,7 +123,7 @@ The poem has long been attributed to Du Mu. Du Mu (803–about 852) was a late T
 
 The common account now is that the poem first appears in a Southern Song reference-book line, the Jinguo Wanhua Gu, and was later fixed under Du Mu's name in popular anthologies such as the Thousand Poets of Tang. The Tang literature scholar Chen Shangjun argues that it more likely appeared among folk writers after the Southern Song and was attached to Du Mu only in the Thousand Poets; other scholars disagree. A CCTV report in 2022 summarised the dispute.
 
-This page therefore follows the conventional attribution to Du Mu, but the main text must state that this is a traditional attribution, not a settled conclusion about authorship. When reading classical poems, separating who wrote it from whether it is good is two different judgements.
+This poem entry therefore follows the conventional attribution to Du Mu, but the main text must state that this is a traditional attribution, not a settled conclusion about authorship. When reading classical poems, separating who wrote it from whether it is good is two different judgements.
 
 ## Common misreadings
 

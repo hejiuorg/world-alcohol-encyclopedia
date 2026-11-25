@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:iba-founded-1951
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3abe5ace03db6f8697a35a055838c4e9ecc3fb94da3bdde9b240b53f51e8b6ba
-source_sha256: 3abe5ace03db6f8697a35a055838c4e9ecc3fb94da3bdde9b240b53f51e8b6ba
+source_revision: sha256:be370b306c37fcf178958ee04aa65c8f9f672ab5f90d4c7a5db5803401087792
+source_sha256: be370b306c37fcf178958ee04aa65c8f9f672ab5f90d4c7a5db5803401087792
 date_text: 24 February 1951
 year_start: 1951
 year_end: 1951
@@ -61,7 +61,7 @@ sources:
     accessed: 2026-11-07
   - key: iba-cocktails
     title: IBA Official Cocktails
-    url: https://iba-world.com/iba-official-cocktails/
+    url: https://iba-world.com/cocktails/
     publisher: International Bartenders Association
     note: Used to check the grouping and purpose of the official cocktail list; no recipe proportions are reproduced.
     accessed: 2026-11-07
