@@ -113,19 +113,19 @@ verification_scope: source-verified
 > - **Where umami comes from: koji, yeast and amino acids:** Sake's umami comes from rice and koji.
 > - **Mechanism: umami layering, acidity, alcohol and temperature:** Umami layering is the first mechanism.
 
-## Classification: polishing ratio and added alcohol
+### Classification: polishing ratio and added alcohol
 
 The legal categories of sake are decided by two variables: the polishing ratio, meaning the proportion of the rice grain left after milling, and whether brewers' alcohol is added. Junmai uses only water, rice, koji and yeast, with no added alcohol. Honjozo allows a small amount of brewers' alcohol and has an upper polishing limit of 70%. Ginjo also allows added alcohol and has an upper limit of 60%. Daiginjo has an upper limit of 50%. Junmai ginjo and junmai daiginjo add no alcohol and correspond to 60% and 50% respectively.
 
 The more the rice is milled, the less protein and lipid remain in the outer layers, so fermentation is slower, aroma is cleaner, and notes of apple, pear and blossom are more likely. Less milling leaves more rice aroma and umami and a fuller texture. The number on the label is not a quality grade but a style coordinate: a high polishing ratio suits delicate sashimi, while a low ratio suits dishes with more fat and sauce.
 
-## Where umami comes from: koji, yeast and amino acids
+### Where umami comes from: koji, yeast and amino acids
 
 Sake's umami comes from rice and koji. Starch in the rice is broken into sugar by koji mould, while protein is broken into amino acids and peptides; yeast produces organic acids and esters during fermentation, giving apple, banana, pear and steamed-rice aromas. Glutamate and aspartate among the amino acids supply umami, lactic and succinic acids give soft acidity, and [residual sugar](ref:residual-sugar) decides sweetness.
 
 This chemistry overlaps closely with Japanese seasoning: glutamate in soy sauce, peptides in miso, kombu stock and inosinate in dried bonito are all umami molecules. When sake meets [Japanese food](ref:japan), umami does not simply add up to "saltier"; it creates layers, with the rice aroma holding the ingredient and the ingredient's savour making the wine fuller in return.
 
-## Mechanism: umami layering, acidity, alcohol and temperature
+### Mechanism: umami layering, acidity, alcohol and temperature
 
 Umami layering is the first mechanism. Moderate umami makes a drink seem rounder and less alcoholic; but very strong umami, such as heavy kombu, bonito or aged cheese, amplifies bitterness and saltiness, so intensely savoury dishes need higher acidity and a cleaner aroma.
 

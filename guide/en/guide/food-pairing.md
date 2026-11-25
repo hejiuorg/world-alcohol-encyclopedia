@@ -86,11 +86,11 @@ verification_scope: source-verified
 > - **Match weight to weight:** The first practical pairing principle is weight to weight.
 > - **Acidity and fat:** High-acid wine cuts through fat and refreshes the palate.
 
-## Look at the plate first
+### Look at the plate first
 
 The same sentence, "goes with red meat", produces completely different results for stewed beef and charcoal-grilled steak. Stewed beef has plenty of liquid, little fat and a lighter flavour; grilled meat has a charred surface, heavy fat and high salt. The first needs a fresh, high-acid drink; the second can carry a heavier body and more tannin. The name of the ingredient is only the starting point; the cooking method and sauce decide the flavour.
 
-## Match weight to weight
+### Match weight to weight
 
 The first practical pairing principle is weight to weight. Light dishes go with light drinks, heavy dishes with heavy drinks. Steamed fish with a heavily tannic red wine makes the wine feel coarse and the fish thin; braised meat in a rich sauce with a fresh sparkling drink leaves the drink completely overwhelmed. When weights do not match, the drink is not "bad"; the two simply are not at the same table.
 
