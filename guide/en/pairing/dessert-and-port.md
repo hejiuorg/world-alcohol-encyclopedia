@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: pairing:dessert-and-port
 source_lang: zh
-source_revision: sha256:c45e17cdfdd9fecc2e75fb6bc9c0ea64fe47a3543352be4118036537312ce967
-source_sha256: c45e17cdfdd9fecc2e75fb6bc9c0ea64fe47a3543352be4118036537312ce967
+source_revision: sha256:926e17130372e8bac98c0dd8c95179afa4cd886807473f9aad813dd2db0eed43
+source_sha256: 926e17130372e8bac98c0dd8c95179afa4cd886807473f9aad813dd2db0eed43
 translation_status: reviewed
 aliases:
   - Dessert and Port
@@ -101,7 +101,7 @@ verification_scope: source-verified
 ---
 # Dessert and Port: Sweeter Than the Dessert
 
-The most common failure in dessert and sweet wine pairing is that the wine is less sweet than the dessert. When the dessert has more sugar than the wine, the wine tastes sour, thin, even bitter; when the wine is slightly sweeter than the dessert, the sweetness has somewhere to land. Port is a fortified wine with several layers of sweetness, acidity and oxidative flavour, so look at the dessert first, then at the type of Port.![Dessert and Port: Sweeter Than the Dessert thematic illustration](/media/photos/theme-ingredients.jpg)
+The most common failure in dessert and sweet wine pairing is that the wine is less sweet than the dessert. When the dessert has more sugar than the wine, the wine tastes sour, thin, even bitter; when the wine is slightly sweeter than the dessert, the sweetness has somewhere to land. Port is a fortified wine with several layers of sweetness, acidity and oxidative flavour, so look at the dessert first, then at the type of Port.![Dessert and Port: Sweeter Than the Dessert editorial illustration](/media/figures/specific/visual-076-pairing-dessert-and-port.svg)
 
 Figure: thematic illustration for Dessert and Port: Sweeter Than the Dessert. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

@@ -103,7 +103,7 @@ verification_scope: source-verified
 
 派斯是智利栽培历史最久的红葡萄之一，今天主要留在 Maule、Itata 与 Bío-Bío 南部干旱老园中；果粒皮薄、颜色偏浅，酸度高而单宁柔和，常见红樱桃、草莓、干草、白胡椒与泥土气息。它既是智利批量酒时代的工作品种，也是近二十年自然酒复兴中被重新估价的老藤代表。
 
-![派斯 栏目示意图](/media/photos/theme-grapes.jpg)
+![派斯 专属编辑图](/media/figures/specific/visual-068-variety-pais.svg)
 
 图：派斯栏目示意图。项目自产或类别插图，用于葡萄品种语境，不是该对象的实拍。
 

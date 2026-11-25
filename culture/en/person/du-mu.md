@@ -35,8 +35,8 @@ related:
 translation_of: person:du-mu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c9e2f0f1d8e84b8262f17c280451174064757a92a4a74a4eb1d9476f17993a16
-source_sha256: c9e2f0f1d8e84b8262f17c280451174064757a92a4a74a4eb1d9476f17993a16
+source_revision: sha256:10d8abaefc14909c8acbf2ff2888aa5b5b82bc1e283bc0d4cc1b164f029110bc
+source_sha256: 10d8abaefc14909c8acbf2ff2888aa5b5b82bc1e283bc0d4cc1b164f029110bc
 references:
   - key: time-in-a-cup
     target_id: culture-article:time-in-a-cup
@@ -86,7 +86,7 @@ verification_scope: source-verified
 
 Du Mu (803–852), styled Muzhi, from Wannian in the capital region, was a late Tang poet and prose writer. He came from the Du clan of the capital; his grandfather Du You compiled the Comprehensive Institutions, and the family tradition leaned toward institutions and history. When Du Mu writes wine he rarely writes solitary feeling. He turns the wineshop, the wine banner and the tavern into landmarks of travel and city nights: a shop by the Qinhuai, a flag in a Jiangnan water village, a pointing shepherd boy at Apricot Blossom Village.
 
-![Du Mu category illustration](/media/photos/theme-asian.jpg)
+![Du Mu editorial illustration](/media/figures/specific/visual-054-person-du-mu.svg)
 
 Figure: Du Mu. Project-generated editorial illustration for Chinese alcohol culture; not a photograph of the subject.
 

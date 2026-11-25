@@ -97,7 +97,7 @@ event_status: ongoing
 
 波尔多葡萄酒城（La Cité du Vin）在 2026 年迎来开馆十周年。作为周年项目之一，馆方从 2 月 13 日到 12 月 31 日在一层与二层公共空间举办免费摄影展《环游世界：50 个葡萄酒产区》（Le tour du monde en 50 régions viticoles）。这不是一场以饮酒为主的葡萄酒节，也不是把名庄酒单搬进画廊的展销会，而是一次用影像讲述“产区如何成为产区”的展览。
 
-![波尔多葡萄酒城的“50 个葡萄酒产区环游”摄影展 2026 栏目示意图](/media/photos/theme-winery.jpg)
+![波尔多葡萄酒城的“50 个葡萄酒产区环游”摄影展 2026 专属编辑图](/media/figures/specific/visual-039-event-bordeaux-cite-du-vin-50-wine-regions-2026.svg)
 
 图：波尔多葡萄酒城的“50 个葡萄酒产区环游”摄影展 2026栏目示意图。项目自产或类别插图，用于酒庄与酒类场馆语境，不是该对象的实拍。
 

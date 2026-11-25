@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+  <title id="title">一杯酒，为什么有地方的味道？ — Why does a drink taste of a place?</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18120c"/><stop offset="1" stop-color="#302016"/></linearGradient>
+    <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.7" fill="#ffffff" opacity="0.05"/></pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#grain)"/>
+  <path d="M0 570 C280 520 520 620 760 570 C940 532 1080 548 1200 520 V675 H0 Z" fill="#e08a4f" opacity="0.1"/>
+  <text x="72" y="82" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="5" fill="#e08a4f">ESSAY / 文化长文</text>
+  <text x="1128" y="82" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="2" fill="#8a8276">06 / 80</text>
+  <text x="72" y="232" font-size="50" font-weight="700" fill="#f7f1e3" letter-spacing="1">一杯酒，为什么有地方的味道</text>
+<text x="72" y="294" font-size="50" font-weight="700" fill="#f7f1e3" letter-spacing="1">？</text>
+  <text x="74" y="410" font-size="24" fill="#c9c0ae" letter-spacing="0.4">Why does a drink taste of a place?</text>
+  <g transform="translate(0,0)"><rect x="760" y="220" width="380" height="250" rx="16" fill="#e08a4f" opacity="0.12" stroke="#e08a4f" stroke-width="2"/><path d="M810 285 H1090 M810 330 H1040 M810 375 H1080 M810 420 H980" stroke="#e08a4f" stroke-width="3" opacity="0.8"/></g>
+  <path d="M72 548 H1140" stroke="#f7f1e3" stroke-width="1" opacity="0.22"/>
+  <text x="72" y="602" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="2" fill="#8a8276">喝酒去 · HEJIU.ORG</text>
+  <text x="1128" y="602" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#8a8276">CC BY 4.0</text>
+</svg>

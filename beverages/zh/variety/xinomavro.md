@@ -98,7 +98,7 @@ verification_scope: source-verified
 
 读这个品种要先分清两条风土线：一是 Naoussa 丘陵与山麓的结构化红酒，力量集中、单宁硬朗；二是 Amyndeon 高海拔高原上更冷凉、更清爽的表达，并向外延伸到起泡酒、桃红与 blanc de noir。同名品种在不同 PDO 的法规、混酿与成熟节奏差别很大，酒标名称只是入口。
 
-!["希诺马罗" 栏目示意图](/media/photos/theme-grapes.jpg)
+![希诺马罗 专属编辑图](/media/figures/specific/visual-069-variety-xinomavro.svg)
 
 图："希诺马罗"栏目示意图。项目自产编辑插图，用于葡萄品种语境，不是对象实拍。
 

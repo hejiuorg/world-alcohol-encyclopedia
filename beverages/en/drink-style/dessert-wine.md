@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:dessert-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1dafa480126eb6261811c9e34206f1ef4ee7069c2de38c0b3bad73b346e69a71
-source_sha256: 1dafa480126eb6261811c9e34206f1ef4ee7069c2de38c0b3bad73b346e69a71
+source_revision: sha256:f4a79f26ebf39a1e3be88a7afdb9eac96fd4f390c346a5d8758f67e009b2b579
+source_sha256: f4a79f26ebf39a1e3be88a7afdb9eac96fd4f390c346a5d8758f67e009b2b579
 legacy_refs: []
 parent_style_id: drink-style:wine
 aroma_family: Honey / dried fruit / botrytis
@@ -86,7 +86,7 @@ verification_scope: source-verified
 
 Dessert wine is not a grape, a region or a single law. It is a group of [wines](ref:wine) defined by residual sugar. It may be a white wine concentrated by botrytis, a wine made from late-picked or dried grapes, an ice wine pressed from fruit frozen on the vine, or a fortified wine in which fermentation was stopped by grape spirit. What holds the group together is a clear sweetness on the palate, and the acidity that has to exist to balance it.
 
-![Dessert Wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Dessert Wine editorial illustration](/media/figures/specific/visual-072-drink-style-dessert-wine.svg)
 
 Figure: thematic illustration for Dessert Wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

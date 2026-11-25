@@ -101,7 +101,7 @@ verification_scope: source-verified
 
 1970 年代的鸡尾酒市场被甜味预调与迪斯科文化占据，古典配方退到背景。1987 年，戴尔·德格罗夫（Dale DeGroff）在纽约彩虹厅重新开业时回到杰里·托马斯 1862 年的做法：鲜榨果汁、现做糖浆、大块冰与克制的酒单。这场以“把经典做对”为口号的复兴，后来演变为 1990 年代的手工调酒运动。
 
-![鸡尾酒复兴（1980 年代）：从彩虹厅到手工调酒 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![鸡尾酒复兴（1980 年代）：从彩虹厅到手工调酒 专属编辑图](/media/figures/specific/visual-047-historical-event-cocktail-revival-1980s.svg)
 
 图：鸡尾酒复兴（1980 年代）：从彩虹厅到手工调酒栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

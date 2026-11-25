@@ -34,8 +34,8 @@ related:
 translation_of: person:william-grant
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d9c6e28f4ab942dacb0cd034508285244c4fabeae9d634a2dac07301b88c6f85
-source_sha256: d9c6e28f4ab942dacb0cd034508285244c4fabeae9d634a2dac07301b88c6f85
+source_revision: sha256:bb1f7d58bc0d8e9be5485ec50936a643ce9c481f8fecc6995bbedf0fc7188c2c
+source_sha256: bb1f7d58bc0d8e9be5485ec50936a643ce9c481f8fecc6995bbedf0fc7188c2c
 references:
   - key: whisky
     target_id: drink-style:whisky
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 William Grant (1839–1923) is one of the most representative family entrepreneurs in the history of Scotch whisky. He rose from bookkeeper to manager at the Mortlach distillery, built Glenfiddich with his family brick by brick from 1886, and on Christmas Day 1887 ran the first spirit from its stills.
 
-![William Grant category illustration](/media/photos/theme-wine-spirits.jpg)
+![William Grant editorial illustration](/media/figures/specific/visual-058-person-william-grant.svg)
 
 Figure: William Grant. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

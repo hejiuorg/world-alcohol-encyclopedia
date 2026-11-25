@@ -85,7 +85,7 @@ verification_scope: source-verified
 
 如果只按“卖酒的地方”来写，酒馆史会变成一串名称。更有解释力的写法，是把它看成四个变量的函数：城市密度、交通条件、税收与专卖制度、法规与社会运动。同一功能，在不同变量下会生长出完全不同的空间。
 
-![酒馆史：从酒肆、客栈到酒吧 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![酒馆史：从酒肆、客栈到酒吧 专属编辑图](/media/figures/specific/visual-003-article-history-of-taverns.svg)
 
 图：酒馆史：从酒肆、客栈到酒吧 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是酒馆史：从酒肆、客栈到酒吧的实拍。
 

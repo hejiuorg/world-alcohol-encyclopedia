@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 先把结论放在前面：雄黄的主要成分是四硫化四砷，属于含砷矿物，内服有中毒风险；加热或长期存放还可能生成三氧化二砷，即俗称的砒霜。今天可以把雄黄酒当作历史习俗来了解，但不建议饮用，也不建议让儿童接触。
 
-![端午雄黄酒 类型示意图](/media/photos/theme-asian.jpg)
+![端午雄黄酒 专属编辑图](/media/figures/specific/visual-034-custom-dragon-boat-realgar-wine.svg)
 
 图：端午雄黄酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是端午雄黄酒的实拍。
 

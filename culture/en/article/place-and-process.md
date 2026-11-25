@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: culture-article:place-and-process
 source_lang: zh
-source_revision: sha256:1f36d64533e50119008f421840879fcc6b8c2a2fd3e755ca132d52bbe345551b
-source_sha256: 1f36d64533e50119008f421840879fcc6b8c2a2fd3e755ca132d52bbe345551b
+source_revision: sha256:7d70cb0cf3b1271bbd5bb9fb88da74d58d073f2cce3df7422324e417ff9f3fdd
+source_sha256: 7d70cb0cf3b1271bbd5bb9fb88da74d58d073f2cce3df7422324e417ff9f3fdd
 translation_status: reviewed
 about_refs:
   - drink-style:wine
@@ -75,7 +75,7 @@ verification_scope: source-verified
 
 “A taste of place” is not a mysterious substance. It usually comes from the combined action of climate, soil, raw-material variety, microbial environment and human craft. Taking these factors apart explains why the same region can produce different styles, and avoids turning “terroir” into a quality ranking.
 
-![Why does a drink taste of a place? thematic illustration](/media/photos/theme-asian.jpg)
+![Why does a drink taste of a place? editorial illustration](/media/figures/specific/visual-006-article-place-and-process.svg)
 
 Figure: thematic illustration for Why does a drink taste of a place?. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

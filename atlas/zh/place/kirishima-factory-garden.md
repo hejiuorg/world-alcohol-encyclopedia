@@ -92,7 +92,7 @@ verification_scope: source-verified
 
 雾岛酒造雾岛工厂花园的正式名称是“烧酎之里 雾岛工厂花园”，地址为[日本](ref:japan)宫崎县都城市志比田町 5480 番地。它常被误认为鹿儿岛县雾岛市的本社厂区，实际是独立的观光设施：从雾岛酒造本社向西约十分钟车程，与国道 10 号沿线的 KIRISHIMA GREENSHIP icoia 也相隔约五分钟车程，导航要直接输入“雾岛工厂花园”。园区把见学、餐饮、商店与散步放在同一块地里，核心是步行式工厂 KIRISHIMA WALK FACTORY。
 
-![雾岛酒造雾岛工厂花园 栏目示意图](/media/photos/theme-asian.jpg)
+![雾岛酒造雾岛工厂花园 专属编辑图](/media/figures/specific/visual-064-place-kirishima-factory-garden.svg)
 
 图：雾岛酒造雾岛工厂花园栏目示意图。项目自产或类别插图，用于亚洲酒类语境，不是该对象的实拍。
 

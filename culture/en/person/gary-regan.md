@@ -39,8 +39,8 @@ related:
 translation_of: person:gary-regan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c01cf4c554ec465bec5eb7381f3d01d3f9037b97c794205ea2dd2c35d74bb20a
-source_sha256: c01cf4c554ec465bec5eb7381f3d01d3f9037b97c794205ea2dd2c35d74bb20a
+source_revision: sha256:8d148a3d1a9b34e11d2c59622f2dc48474c28d77744ed5e4fac2c6c0ead4825c
+source_sha256: 8d148a3d1a9b34e11d2c59622f2dc48474c28d77744ed5e4fac2c6c0ead4825c
 references:
   - key: old-fashioned
     target_id: cocktail:old-fashioned
@@ -106,7 +106,7 @@ verification_scope: source-verified
 
 Gary Regan (1951–2019), known in the trade as Gaz Regan, was a British-born American bartender, author and teacher. His contribution was not one particular drink but the question of how to explain cocktails clearly: he sorted recipes into families with rules, so that bartenders could reason, vary and teach rather than memorise. He wrote books, ran courses, made bitters and recorded bar life for decades.
 
-![Gary Regan category illustration](/media/photos/theme-wine-spirits.jpg)
+![Gary Regan editorial illustration](/media/figures/specific/visual-055-person-gary-regan.svg)
 
 Figure: Gary Regan. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

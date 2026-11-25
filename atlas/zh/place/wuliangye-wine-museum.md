@@ -93,7 +93,7 @@ verification_scope: source-verified
 > - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
 > - 营业状态：已核实；来源最近核对：2026-11-08。
 
-![五粮液酒文化博物馆 栏目示意图](/media/photos/theme-asian.jpg)
+![五粮液酒文化博物馆 专属编辑图](/media/figures/specific/visual-067-place-wuliangye-wine-museum.svg)
 
 图：五粮液酒文化博物馆栏目示意图。项目自产或类别插图，用于中国酒文化语境，不是该对象的实拍。
 

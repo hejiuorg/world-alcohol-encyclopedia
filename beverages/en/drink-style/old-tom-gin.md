@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:old-tom-gin
 source_lang: zh
-source_revision: sha256:32b007b702c32e1b736cde8774f0393e1be1b1c744c659d8c4642eccc43e316b
-source_sha256: 32b007b702c32e1b736cde8774f0393e1be1b1c744c659d8c4642eccc43e316b
+source_revision: sha256:2bdc2b008ed9bd4186d58bfe21b55d0368108af651d48d6a40cb1fbdaa92c979
+source_sha256: 2bdc2b008ed9bd4186d58bfe21b55d0368108af651d48d6a40cb1fbdaa92c979
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -82,7 +82,7 @@ verification_scope: source-verified
 ---
 # Old Tom Gin
 
-Old Tom gin is a sweetened [gin](ref:gin) style popular in England in the eighteenth and nineteenth centuries. Its definition lives in history rather than law: sugar, syrup or sweet botanicals such as liquorice are added to a distilled gin, making the body rounder, softer and easier to drink than the later London Dry. Today's Old Tom is not "London Dry in vintage packaging" but a reinterpretation of a sweet gin tradition.![Old Tom Gin thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Old Tom gin is a sweetened [gin](ref:gin) style popular in England in the eighteenth and nineteenth centuries. Its definition lives in history rather than law: sugar, syrup or sweet botanicals such as liquorice are added to a distilled gin, making the body rounder, softer and easier to drink than the later London Dry. Today's Old Tom is not "London Dry in vintage packaging" but a reinterpretation of a sweet gin tradition.![Old Tom Gin editorial illustration](/media/figures/specific/visual-073-drink-style-old-tom-gin.svg)
 
 Figure: thematic illustration for Old Tom Gin. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

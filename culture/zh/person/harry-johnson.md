@@ -93,7 +93,7 @@ verification_scope: source-verified
 
 他的名字常与杰里·托马斯并列，但两人的贡献不同：托马斯让调酒有了剧场性，约翰逊让调酒有了操作手册与管理规范。
 
-![哈里·约翰逊 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![哈里·约翰逊 专属编辑图](/media/figures/specific/visual-056-person-harry-johnson.svg)
 
 图：哈里·约翰逊栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

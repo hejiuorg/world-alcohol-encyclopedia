@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:lokal-dlouha
 source_lang: zh
-source_revision: sha256:1be8423e1ffbdd254473a2f82396fdc6416fcd97f0d353d3f04843e11cfd726d
-source_sha256: 1be8423e1ffbdd254473a2f82396fdc6416fcd97f0d353d3f04843e11cfd726d
+source_revision: sha256:a227d5ac29dcc870c278222066c4d30fb2584105c033d95a964831cbc97e258b
+source_sha256: a227d5ac29dcc870c278222066c4d30fb2584105c033d95a964831cbc97e258b
 translation_status: reviewed
 subtype: pub
 address: Dlouhá 33, 110 00 Praha 1, Czech Republic
@@ -85,7 +85,7 @@ verification_scope: source-verified
 
 # Lokál Dlouhááá
 
-![Lokál Dlouhááá category illustration](/media/photos/theme-beer.jpg)
+![Lokál Dlouhááá editorial illustration](/media/figures/specific/visual-065-place-lokal-dlouha.svg)
 
 Figure: Lokál Dlouhááá. Project-generated or category illustration used for beer context; not a photograph of the subject.
 

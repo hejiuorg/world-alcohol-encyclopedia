@@ -75,7 +75,7 @@ verification_scope: source-verified
 
 《红楼梦》是曹雪芹创作的章回小说，约在 18 世纪中期以抄本流传，1791 年才出现由程伟元、高鹗整理的 120 回刊本。酒在这部小说里几乎从不单独出现：它有名字、有温度、有斟酒的人，也有该不该多喝的规矩。读这些酒段落，等于读贾府的日常秩序，也读人物在秩序里的位置。
 
-![红楼梦 类型示意图](/media/photos/theme-asian.jpg)
+![红楼梦 专属编辑图](/media/figures/specific/visual-015-book-dream-of-the-red-chamber.svg)
 
 图：红楼梦 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是红楼梦的实拍。
 

@@ -90,7 +90,7 @@ verification_scope: source-verified
 
 在白酒货架上，“浓香”“清香”“酱香”是出现频率最高的词之一。它们看起来像等级，其实更像一套描述香气风格与工艺传统的分类语言。理解这套语言，能帮助饮者知道自己买的是什么，也能避免把“香型”误当成质量保证。
 
-![白酒香型体系：浓香、清香、酱香与米香怎么读 类型示意图](/media/photos/theme-asian.jpg)
+![白酒香型体系：浓香、清香、酱香与米香怎么读 专属编辑图](/media/figures/specific/visual-001-article-baijiu-aroma-systems.svg)
 
 图：白酒香型体系：浓香、清香、酱香与米香怎么读 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是白酒香型体系：浓香、清香、酱香与米香怎么读的实拍。
 

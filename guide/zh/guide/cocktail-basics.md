@@ -64,6 +64,12 @@ sources:
     publisher: International Bartenders Association
     note: 用于确认该饮品属于 IBA 官方鸡尾酒名单；未复制原文。
     accessed: 2026-11-07
+  - key: iba-home
+    title: International Bartenders Association — About
+    url: https://iba-world.com/about/
+    publisher: International Bartenders Association
+    note: 用于核对协会的鸡尾酒教育、赛事与行业资料范围；未复制原文。
+    accessed: 2026-11-25
 
 rights:
   status: allowed

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: custom:zhongyuan-festival-wine
 source_lang: zh
-source_revision: sha256:a5a4c6923f43402389479c72673f351b0318f41f29b808f3483ea1ef580b8063
-source_sha256: a5a4c6923f43402389479c72673f351b0318f41f29b808f3483ea1ef580b8063
+source_revision: sha256:a91b96dc1f32c4793df6b32fd9329161308b1ae474bd6920050597aa69cc4271
+source_sha256: a91b96dc1f32c4793df6b32fd9329161308b1ae474bd6920050597aa69cc4271
 translation_status: reviewed
 region_refs:
   - region:china
@@ -88,7 +88,7 @@ verification_scope: source-verified
 
 The Zhongyuan Festival falls on the fifteenth day of the seventh lunar month, commonly called “the half of the seventh month”. On this day Taoism speaks of Zhongyuan, Buddhism of Ullambana, and folk practice makes it a festival of ancestor remembrance, offering and charity. Wine has a clear place here: it is not for merriment but for offering. A cup poured for the dead, or tipped onto the ground, turns an abstract grief into a visible act.
 
-![Zhongyuan Festival and wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Zhongyuan Festival and wine editorial illustration](/media/figures/specific/visual-031-custom-zhongyuan-festival-wine.svg)
 
 Figure: thematic illustration for Zhongyuan Festival and wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

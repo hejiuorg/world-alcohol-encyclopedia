@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:bar-high-five
 source_lang: zh
-source_revision: sha256:447d65449d07755a54707023703a884db834ef43b9d6c904a85bffde400b37cb
-source_sha256: 447d65449d07755a54707023703a884db834ef43b9d6c904a85bffde400b37cb
+source_revision: sha256:2e274434ec6ad29d49f7b81580f77a5b8ae96bc6138e475b98b2e8459a62af5c
+source_sha256: 2e274434ec6ad29d49f7b81580f77a5b8ae96bc6138e475b98b2e8459a62af5c
 translation_status: reviewed
 subtype: bar
 address: Efflore Ginza 5 Bldg. B1F, 5-4-15 Ginza, Chuo-ku, Tokyo 104-0061
@@ -96,7 +96,7 @@ verification_scope: source-verified
 ---
 # Bar High Five
 
-![Bar High Five category illustration](/media/photos/theme-wine-spirits.jpg)
+![Bar High Five editorial illustration](/media/figures/specific/visual-062-place-bar-high-five.svg)
 
 Figure: Bar High Five. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

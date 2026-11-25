@@ -96,7 +96,7 @@ verification_scope: source-verified
 
 本文按时间顺序梳理几个关键转折：早期谷物发酵、唐宋酒肆与酒政、元明蒸馏酒、近现代工业化与国家评酒制度。每一段都标注证据类型，并在最后说明仍有争议的问题。
 
-![中国酒史纲：从谷物发酵到国家名酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![中国酒史纲：从谷物发酵到国家名酒 专属编辑图](/media/figures/specific/visual-002-article-history-of-chinese-wine.svg)
 
 图：中国酒史纲：从谷物发酵到国家名酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是中国酒史纲：从谷物发酵到国家名酒的实拍。
 

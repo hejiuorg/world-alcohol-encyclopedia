@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 奥黛丽·桑德斯（Audrey Saunders）是美国调酒师与酒吧经营者，2005 年 8 月在纽约苏豪区开设 Pegu Club。她的影响不靠某一杯“网红酒”，而靠一套可以训练、可以检查的做法：鲜榨果汁、现制糖浆、称量与计时、对温度与稀释的反复校准。她把吧台当成教室，也把鸡尾酒从“手感”变成可以复述的工序。
 
-![奥黛丽·桑德斯 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![奥黛丽·桑德斯 专属编辑图](/media/figures/specific/visual-053-person-audrey-saunders.svg)
 
 图：奥黛丽·桑德斯栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

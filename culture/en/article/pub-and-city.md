@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: culture-article:pub-and-city
 source_lang: zh
-source_revision: sha256:acee05c054db2c6be7831b252db8a075ded6aae097396f0417ffc8d852bdf9c4
-source_sha256: acee05c054db2c6be7831b252db8a075ded6aae097396f0417ffc8d852bdf9c4
+source_revision: sha256:3fe944d34da3b6eac8c7341bf5b3836fd6eddbfaf47a4e8bdc34e44ae0bede1a
+source_sha256: 3fe944d34da3b6eac8c7341bf5b3836fd6eddbfaf47a4e8bdc34e44ae0bede1a
 translation_status: reviewed
 about_refs:
   - place:american-bar-savoy
@@ -77,7 +77,7 @@ verification_scope: source-verified
 
 A bar is not only a place to drink. It compresses a neighbourhood's rhythms, incomes, migrants, literature and nightlife into one room: who drinks coffee here in the morning, who eats a light lunch at noon, who stands at the counter in the evening, who brings the family at the weekend. To learn how a city organises public life, looking at its bars is often faster than looking at its landmarks.
 
-![Reading a city through its bars thematic illustration](/media/photos/theme-asian.jpg)
+![Reading a city through its bars editorial illustration](/media/figures/specific/visual-012-article-pub-and-city.svg)
 
 Figure: thematic illustration for Reading a city through its bars. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

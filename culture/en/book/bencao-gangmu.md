@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: book:bencao-gangmu
 source_lang: zh
-source_revision: sha256:a409ddd34fc4a5eda5cd5a6c74782270f75b2070e490a6a569bc0f664d08df9e
-source_sha256: a409ddd34fc4a5eda5cd5a6c74782270f75b2070e490a6a569bc0f664d08df9e
+source_revision: sha256:5382b38ecbb364fce16e5ccb37d0b54b669791e1da1da18520d4292add965ad1
+source_sha256: 5382b38ecbb364fce16e5ccb37d0b54b669791e1da1da18520d4292add965ad1
 translation_status: reviewed
 author_names:
   - Li Shizhen
@@ -91,7 +91,7 @@ verification_scope: source-verified
 
 Bencao Gangmu is the great pharmacological compendium compiled by Li Shizhen in the Ming dynasty, in fifty-two volumes. Its wine material is concentrated in volume 25, in the fermented-and-brewed class of the grain section, with entries on wine, shaojiu and grape wine, recording names, methods, properties, indications and formulas.
 
-![Bencao Gangmu (wine sections) thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Bencao Gangmu (wine sections) editorial illustration](/media/figures/specific/visual-020-book-bencao-gangmu.svg)
 
 Figure: thematic illustration for Bencao Gangmu (wine sections). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

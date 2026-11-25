@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:du-kang-wine-legend
 source_lang: zh
-source_revision: sha256:ebad3bbed7c3d25356e4d913343a4cf168913c496a537109c6dfab6993199c9f
-source_sha256: ebad3bbed7c3d25356e4d913343a4cf168913c496a537109c6dfab6993199c9f
+source_revision: sha256:b0158d3f11a11e04e35ed06fd1fbf6bce31882a4e0f60bccefa1361d587d8e5c
+source_sha256: b0158d3f11a11e04e35ed06fd1fbf6bce31882a4e0f60bccefa1361d587d8e5c
 translation_status: reviewed
 aliases:
   - 杜康
@@ -91,7 +91,7 @@ verification_scope: source-verified
 
 Dukang is the central figure of another legend about the origin of brewing. The Eastern Han Shuowen Jiezi says he 'made shu wine' and adds that 'Shaokang is Dukang'; Cao Cao's Short Song, with the line 'what relieves sorrow? Only Dukang', turned the name into a synonym for wine. Yet who Dukang was, when he lived and where he brewed have never had a single answer, from the Han dynasty to today. The legend supplies the figure of a wine ancestor, not a datable biography.
 
-![The Dukang Wine Legend: How a Person Became a Synonym for Wine category illustration](/media/photos/theme-asian.jpg)
+![The Dukang Wine Legend: How a Person Became a Synonym for Wine editorial illustration](/media/figures/specific/visual-050-historical-event-du-kang-wine-legend.svg)
 
 Figure: The Dukang Wine Legend: How a Person Became a Synonym for Wine. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
 

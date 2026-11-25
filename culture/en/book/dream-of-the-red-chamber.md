@@ -14,8 +14,8 @@ author_refs: []
 publication: Mid-18th century; the 120-chapter edition was printed by Cheng Weiyuan and Gao E in 1791
 translation_of: book:dream-of-the-red-chamber
 source_lang: zh
-source_revision: sha256:aae29bf852673fa3ccdf5e05494d8e3b2450c3f0c365ee4623044b04e0175884
-source_sha256: aae29bf852673fa3ccdf5e05494d8e3b2450c3f0c365ee4623044b04e0175884
+source_revision: sha256:f738f7ea2a9b1b0b1c215742130aed026db5ad8cba76d46e6b13bbc148d33cb3
+source_sha256: f738f7ea2a9b1b0b1c215742130aed026db5ad8cba76d46e6b13bbc148d33cb3
 translation_status: reviewed
 aliases:
   - 石头记
@@ -78,7 +78,7 @@ verification_scope: source-verified
 
 # Dream of the Red Chamber
 
-Dream of the Red Chamber is a chapter novel by Cao Xueqin. It circulated in manuscript form from the mid-18th century, and only in 1791 did a 120-chapter edition appear, prepared by Cheng Weiyuan and Gao E. Wine in this novel almost never appears alone: it has a name, a temperature, someone to pour it, and a rule about how much one should drink. Reading these passages means reading the daily order of the Jia household, and also reading where each character stands within that order.![Dream of the Red Chamber thematic illustration](/media/photos/theme-asian.jpg)
+Dream of the Red Chamber is a chapter novel by Cao Xueqin. It circulated in manuscript form from the mid-18th century, and only in 1791 did a 120-chapter edition appear, prepared by Cheng Weiyuan and Gao E. Wine in this novel almost never appears alone: it has a name, a temperature, someone to pour it, and a rule about how much one should drink. Reading these passages means reading the daily order of the Jia household, and also reading where each character stands within that order.![Dream of the Red Chamber editorial illustration](/media/figures/specific/visual-015-book-dream-of-the-red-chamber.svg)
 
 Figure: thematic illustration for Dream of the Red Chamber. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

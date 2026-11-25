@@ -94,15 +94,15 @@ place_refs:
 organizer_refs: []
 official_url: https://www.laciteduvin.com/fr/agenda/expo-photo-le-tour-du-monde-en-50-regions-viticoles
 event_status: ongoing
-source_sha256: 42249d235d36112887d51b97c204ffcc6889318b0c8a2ef6fb792e4a3f737547
-source_revision: sha256:42249d235d36112887d51b97c204ffcc6889318b0c8a2ef6fb792e4a3f737547
+source_sha256: 8d22cee5c98fadb18b37a3712404b516afeb3b9aceb6f12236e648fe5a9c3ec5
+source_revision: sha256:8d22cee5c98fadb18b37a3712404b516afeb3b9aceb6f12236e648fe5a9c3ec5
 ---
 
 # Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026
 
 La Cité du Vin in Bordeaux turned ten in 2026. As part of its anniversary programme, the museum is showing a free photography exhibition, “Around the World in 50 Wine Regions” (Le tour du monde en 50 régions viticoles), on its ground and first floors from 13 February to 31 December 2026. It is not a wine fair built around drinking, nor a salesroom for classified growths; it is an attempt to show, through photographs, how a wine region becomes a region.
 
-![Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026 category illustration](/media/photos/theme-winery.jpg)
+![Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026 editorial illustration](/media/figures/specific/visual-039-event-bordeaux-cite-du-vin-50-wine-regions-2026.svg)
 
 Figure: Around the World in 50 Wine Regions: A Photo Exhibition at La Cité du Vin, 2026. Project-generated or category illustration used for winery and wine venue context; not a photograph of the subject.
 

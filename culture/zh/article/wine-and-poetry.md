@@ -84,7 +84,7 @@ verification_scope: source-verified
 
 这篇文章按四段时间来读：先秦的礼与农事、魏晋的自我表达、唐代的宴集与个人处境、宋词里的日常与回忆。最后说明为什么不能把诗句直接当作酒类统计。
 
-![酒与诗：从《诗经》到宋词的饮酒书写 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![酒与诗：从《诗经》到宋词的饮酒书写 专属编辑图](/media/figures/specific/visual-014-article-wine-and-poetry.svg)
 
 图：酒与诗：从《诗经》到宋词的饮酒书写 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是酒与诗：从《诗经》到宋词的饮酒书写的实拍。
 

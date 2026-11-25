@@ -99,7 +99,7 @@ verification_scope: source-verified
 
 海鲜的鲜味、咸味与脂肪，和香槟的气泡、酸度与低单宁，天然容易形成平衡。难点不在“能不能配”，而在香槟的类型太多：白中白、白中黑、桃红、非加糖、低加糖，每一种的酸度、酒体与甜度都不同。先确定海鲜的做法与强度，再选香槟的方向，比记住一串菜名更有用。
 
-![海鲜配香槟：气泡、酸度与咸鲜的三角 类型示意图](/media/photos/theme-ingredients.jpg)
+![海鲜配香槟：气泡、酸度与咸鲜的三角 专属编辑图](/media/figures/specific/visual-078-pairing-seafood-and-champagne.svg)
 
 图：海鲜配香槟：气泡、酸度与咸鲜的三角 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是海鲜配香槟：气泡、酸度与咸鲜的三角的实拍。
 

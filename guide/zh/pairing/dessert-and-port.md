@@ -99,7 +99,7 @@ verification_scope: source-verified
 
 甜点配甜酒，最常见的失败是“酒比甜点更不甜”。当甜点的糖度高于酒，酒会显得酸、薄，甚至带苦；当酒的甜度略高于甜点，甜味才有落脚点。波特是加强葡萄酒，甜度、酸度与氧化风味都有不同层次，搭配时要先看甜点，再看酒的类型。
 
-![甜点配波特：比甜点更甜，才不腻 类型示意图](/media/photos/theme-ingredients.jpg)
+![甜点配波特：比甜点更甜，才不腻 专属编辑图](/media/figures/specific/visual-076-pairing-dessert-and-port.svg)
 
 图：甜点配波特：比甜点更甜，才不腻 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是甜点配波特：比甜点更甜，才不腻的实拍。
 

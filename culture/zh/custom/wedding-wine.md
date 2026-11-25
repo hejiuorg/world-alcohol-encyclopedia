@@ -73,7 +73,7 @@ verification_scope: source-verified
 
 今天婚礼上的“交杯酒”，常被追溯到先秦的“合卺”。两者确有承继关系，但不能直接画等号：合卺是婚礼仪式中的一个具体环节，交杯酒则在后世演变出多种形式。把这条线索理清，既能理解酒在婚礼中的位置，也能避免把现代婚庆话术当成古代礼制。
 
-![婚宴酒俗：从合卺到交杯酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![婚宴酒俗：从合卺到交杯酒 专属编辑图](/media/figures/specific/visual-030-custom-wedding-wine.svg)
 
 图：婚宴酒俗：从合卺到交杯酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是婚宴酒俗：从合卺到交杯酒的实拍。
 

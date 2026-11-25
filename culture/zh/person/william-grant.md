@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 威廉·格兰特（William Grant，1839—1923）是苏格兰威士忌史上最具代表性的家族企业家之一。他在莫特拉克（Mortlach）酒厂从记账员做到经理，1886 年起与家人一砖一瓦地建厂，1887 年圣诞节让格兰菲迪（Glenfiddich）流出第一滴新酒。
 
-![威廉·格兰特 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![威廉·格兰特 专属编辑图](/media/figures/specific/visual-058-person-william-grant.svg)
 
 图：威廉·格兰特栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

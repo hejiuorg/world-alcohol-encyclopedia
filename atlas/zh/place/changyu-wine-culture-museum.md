@@ -102,7 +102,7 @@ verification_scope: source-verified
 > - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
 > - 营业状态：已核实；来源最近核对：2026-11-08。
 
-![张裕酒文化博物馆 栏目示意图](/media/photos/theme-winery.jpg)
+![张裕酒文化博物馆 专属编辑图](/media/figures/specific/visual-060-place-changyu-wine-culture-museum.svg)
 
 图：张裕酒文化博物馆栏目示意图。项目自产或类别插图，用于酒庄与酒类场馆语境，不是该对象的实拍。
 

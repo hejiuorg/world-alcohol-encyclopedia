@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: custom:dragon-boat-realgar-wine
 source_lang: zh
-source_revision: sha256:1b981a008b8a22950146949301ef3b452e60a09155f1848c8952cb05821f8f8b
-source_sha256: 1b981a008b8a22950146949301ef3b452e60a09155f1848c8952cb05821f8f8b
+source_revision: sha256:b6b0623972636394dc8552ce27ad8398c01642766e0d6e00263467b22340ab3f
+source_sha256: b6b0623972636394dc8552ce27ad8398c01642766e0d6e00263467b22340ab3f
 translation_status: reviewed
 region_refs:
   - region:china
@@ -90,7 +90,7 @@ The Dragon Boat Festival falls on the fifth day of the fifth lunar month. Custom
 
 The conclusion belongs at the start: realgar is mainly arsenic tetrasulfide, an arsenic-bearing mineral, and taking it internally carries a risk of poisoning. Heating or long storage can also produce arsenic trioxide, commonly known as white arsenic. Today realgar wine can be understood as a historical custom, but it should not be drunk, and children should not be exposed to it.
 
-![Dragon Boat realgar wine thematic illustration](/media/photos/theme-asian.jpg)
+![Dragon Boat realgar wine editorial illustration](/media/figures/specific/visual-034-custom-dragon-boat-realgar-wine.svg)
 
 Figure: thematic illustration for Dragon Boat realgar wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

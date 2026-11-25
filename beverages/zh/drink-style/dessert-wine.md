@@ -83,7 +83,7 @@ verification_scope: source-verified
 
 甜酒（dessert wine）不是一种葡萄、一个产区或一条法规，而是一组以残糖为核心特征的[葡萄酒](ref:wine)。它可以是贵腐菌感染后浓缩的白酒，可以是晚收或风干葡萄酿成的酒，可以是冬天在藤上结冰的葡萄压榨出的冰酒，也可以是发酵中途加入葡萄蒸馏酒、保留糖分的加强酒。把它们放在一起的理由只有一个：入口明显的甜味，以及为平衡这份甜味而必须存在的酸度。
 
-![甜酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![甜酒 专属编辑图](/media/figures/specific/visual-072-drink-style-dessert-wine.svg)
 
 图：甜酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是甜酒的实拍。
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: book:wine-and-war
 source_lang: zh
-source_revision: sha256:b45d9b0c3839a6e74456b2b475c1841b336864ba2d9fc3a53a2cf84b60d93b33
-source_sha256: b45d9b0c3839a6e74456b2b475c1841b336864ba2d9fc3a53a2cf84b60d93b33
+source_revision: sha256:7857b4056f82606ad0d54c6c9f3a616c5595b4930128d3fa92c4aceeb49a07c6
+source_sha256: 7857b4056f82606ad0d54c6c9f3a616c5595b4930128d3fa92c4aceeb49a07c6
 translation_status: reviewed
 author_names:
   - Don Kladstrup
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 The English original carries a long subtitle, roughly "the French, the Nazis, and the battle for France's greatest treasure". It is not a book about battles. It is about how growers, merchants and estates tried to preserve their vineyards, stocks and business during the German occupation of France from 1940 to 1944. Wine is both a commodity and part of the national self-image, which is why it became an object repeatedly contested by the occupiers, the Vichy regime, resisters and ordinary families.
 
-![Wine and War thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Wine and War editorial illustration](/media/figures/specific/visual-019-book-wine-and-war.svg)
 
 Figure: thematic illustration for Wine and War. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

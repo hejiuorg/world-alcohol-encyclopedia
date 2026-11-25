@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: guide:cocktail-basics
 source_lang: zh
-source_revision: sha256:621fd51b2450bede8a57b4a0d731038b8d6f39cacc5919df2c242b9dbc810341
-source_sha256: 621fd51b2450bede8a57b4a0d731038b8d6f39cacc5919df2c242b9dbc810341
+source_revision: sha256:3dd7cce0175985e50f5b9d84f15bde1fa41594c4066d42e9dff5fa0f3188e3da
+source_sha256: 3dd7cce0175985e50f5b9d84f15bde1fa41594c4066d42e9dff5fa0f3188e3da
 translation_status: reviewed
 about_refs:
   - cocktail:negroni
@@ -69,6 +69,12 @@ sources:
     publisher: International Bartenders Association
     note: Used to confirm the drink is on the IBA official cocktail list; no source text is reproduced.
     accessed: 2026-11-07
+  - key: iba-home
+    title: International Bartenders Association — About
+    url: https://iba-world.com/about/
+    publisher: International Bartenders Association
+    note: Used to check the association's scope for cocktail education, competitions and industry resources; no source text is reproduced.
+    accessed: 2026-11-25
 rights:
   status: allowed
   license: CC-BY-4.0

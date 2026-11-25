@@ -91,7 +91,7 @@ verification_scope: source-verified
 
 《随园食单》是清代袁枚的饮食札记，乾隆五十七年（1792）初刻。全书分须知单、戒单与各类食材、点心、饭粥、茶酒等共十四单，记录做法、品评与饮食原则。与酒关系最直接的是“茶酒单”：它不谈制曲与发酵，而谈什么酒好、什么场合喝、怎样与菜相配。
 
-![随园食单（茶酒单） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![随园食单（茶酒单） 专属编辑图](/media/figures/specific/visual-023-book-suiyuan-shidan.svg)
 
 图：随园食单（茶酒单） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是随园食单（茶酒单）的实拍。
 

@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 《牛津葡萄酒指南》英文原名为 The Oxford Companion to Wine，通常简称 OCW。它不是一本从头读到尾的葡萄酒入门书，而是一部按字母顺序排列的专业参考书：把葡萄品种、土壤、气候、病虫害、酿造、化学、法规、产区、酒庄、市场、历史与人物拆成数千个条目，供读者按词检索。对中文读者来说，它最重要的用法不是“通读”，而是学会把一个问题拆成几个可查的词，再顺着交叉引用继续追问。
 
-![牛津葡萄酒指南 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![牛津葡萄酒指南 专属编辑图](/media/figures/specific/visual-017-book-oxford-companion-to-wine.svg)
 
 图：牛津葡萄酒指南 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是牛津葡萄酒指南的实拍。
 

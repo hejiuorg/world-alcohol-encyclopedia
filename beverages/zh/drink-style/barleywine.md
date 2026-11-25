@@ -88,7 +88,7 @@ verification_scope: source-verified
 
 大麦酒（Barleywine）是英国传统中的超浓艾尔，以极高的麦芽浓度、较高的酒精度、饱满酒体与明显的陈年潜力为特征。它叫 wine 只是形容强度与饮用方式，原料仍是[大麦](ref:barley)，不是葡萄。英式大麦酒与美式大麦酒共享这个名称，却在酒花、色泽与平衡上分歧明显。
 
-![大麦酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![大麦酒 专属编辑图](/media/figures/specific/visual-070-drink-style-barleywine.svg)
 
 图：大麦酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是大麦酒的实拍。
 

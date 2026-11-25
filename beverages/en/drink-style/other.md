@@ -7,7 +7,7 @@ slug: other
 title: Other Drinks (Category Note)
 summary: An explanatory container for marginal drinks that do not fit neatly under wine, beer, distilled spirits or compounded drinks; not a specific style and not a new legal category.
 status: draft
-revision: 3
+revision: 4
 aliases:
   - Other drinks
   - Other beverages
@@ -70,13 +70,13 @@ translation_of: drink-style:other
 source_lang: zh
 translation_status: reviewed
 verification_scope: source-verified
-source_revision: sha256:6c9758057034c6d561c7402f2387fb7a5601f4ffb4c20bc32dcc2bdb0df4183b
-source_sha256: 6c9758057034c6d561c7402f2387fb7a5601f4ffb4c20bc32dcc2bdb0df4183b
+source_revision: sha256:c0cc08f65fd284b858dd65033bbf588bb5047eb508771be4ea0d95a40851f4c4
+source_sha256: c0cc08f65fd284b858dd65033bbf588bb5047eb508771be4ea0d95a40851f4c4
 ---
 
 # Other Drinks (Category Note)
 
-“Other drinks” is not a strict legal category. It is a mapping container retained from the old site for entries that did not fit neatly under wine, beer, distilled spirits or compounded drinks. It is not a specific drink, a quality grade, or a way of saying that a subject matters less. A better reading is that when a drink crosses several craft families, or when a local name does not match the mainstream taxonomy, this style explains the boundary and points to the specific style entry.
+“Other drinks” is not a strict legal category. It is an internal taxonomy note used by this site to explain boundaries: it gives a place to marginal drinks that cannot be fitted neatly under wine, beer, distilled spirits or compounded drinks, without assigning them a new quality grade. It is not a specific drink, nor a way of saying that an uncategorised subject matters less. A better reading is that when a drink crosses several craft families, or when a local name does not match the mainstream taxonomy, this page explains the boundary and points to the specific style entry.
 
 ![Thematic illustration for other drinks](/media/figures/specific/drink-style-other.svg)
 
@@ -99,7 +99,7 @@ This style therefore does not offer a single alcohol level, ingredient list or s
 
 ## Why the container exists
 
-The old site’s taxonomy needed a fallback node; without it, marginal entries could not be given a parent-child relation. Keeping “other” helps preserve historical links and search migration, but it also creates a risk: readers may assume that everything listed here shares one process, or that “other” is an official category. The remedy is to make the container an explanatory page rather than a list page, to return specific drinks to their own entries, and to express real parentage through aliases and parent relations.
+The site's taxonomy needs a fallback node; without it, marginal entries cannot be given a parent-child relation. Keeping “other” helps search and relationship modelling, but it also creates a risk: readers may assume that everything listed here shares one process, or that “other” is an official category. The remedy is to make the container an explanatory page rather than a list page, to return specific drinks to their own entries, and to express real parentage through aliases and parent relations.
 
 For editors, the container also has a technical function. When a style’s parent is temporarily missing, a relation field can point here instead of leaving a dangling reference. Once a better parent is created, the child entry should be moved there rather than left under a fallback category.
 

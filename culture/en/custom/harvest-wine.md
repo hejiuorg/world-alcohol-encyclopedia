@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: custom:harvest-wine
 source_lang: zh
-source_revision: sha256:3f6cd209f22d00e5ed10663719f4395e8f577604dcdc16b5d51c6ac9ebee733c
-source_sha256: 3f6cd209f22d00e5ed10663719f4395e8f577604dcdc16b5d51c6ac9ebee733c
+source_revision: sha256:ba19537777f2c9ba442b21abee7c2ed29b0613efc0edc737ede1d08d1585a203
+source_sha256: ba19537777f2c9ba442b21abee7c2ed29b0613efc0edc737ede1d08d1585a203
 translation_status: reviewed
 region_refs:
   - region:china
@@ -90,7 +90,7 @@ verification_scope: source-verified
 
 Harvest wine is not a single drink but a kind of occasion: after grain is stored, fruit picked and grapes pressed, people use the wine of the new harvest, or wine already laid down, to thank heaven and earth, the ancestors or the neighbours. In China this belongs to the rhythm of autumn harvest and “tasting the new”; in European vineyard regions it belongs to the grape harvest and the village festival. Both are called harvest, but their rites, vessels and foods are not the same.
 
-![Harvest wine and grape-harvest customs thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Harvest wine and grape-harvest customs editorial illustration](/media/figures/specific/visual-027-custom-harvest-wine.svg)
 
 Figure: thematic illustration for Harvest wine and grape-harvest customs. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

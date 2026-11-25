@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: culture-article:time-in-a-cup
 source_lang: zh
-source_revision: sha256:3a74b7849b17cf9c8caae2f3729d5d8fc35982dfecb0c1be871968e0254f6c0c
-source_sha256: 3a74b7849b17cf9c8caae2f3729d5d8fc35982dfecb0c1be871968e0254f6c0c
+source_revision: sha256:6588af7259ca3e375c83882bb0e0914473170a8a88a3f4ba0600a11cfe205e4f
+source_sha256: 6588af7259ca3e375c83882bb0e0914473170a8a88a3f4ba0600a11cfe205e4f
 translation_status: reviewed
 about_refs:
   - drink-style:yellow-wine
@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 Wine connects farm work, seasons and gatherings. When reading ancient documents, what appears first is often not “what a certain drink tasted like” but “when it was brewed, when it was drunk, and with whom”. Time is therefore not the background of the drink but part of it.
 
-![Time in a cup thematic illustration](/media/photos/theme-asian.jpg)
+![Time in a cup editorial illustration](/media/figures/specific/visual-008-article-time-in-a-cup.svg)
 
 Figure: thematic illustration for Time in a cup. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

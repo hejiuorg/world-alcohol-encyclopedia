@@ -83,7 +83,7 @@ verification_scope: source-verified
 
 “寿酒”还有一层字面含义：为祝寿而专门备的酒。它可以是自家陈酿，也可以是市售礼酒；可以昂贵，也可以只是一杯黄酒。判断一场寿宴是否“合礼”，看的不是酒价，而是座次、称呼与敬酒的次序有没有把长辈放在应有的位置。
 
-![寿酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![寿酒 专属编辑图](/media/figures/specific/visual-032-custom-birthday-wine.svg)
 
 图：寿酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是寿酒的实拍。
 

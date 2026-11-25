@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: book:sake-modern-guide
 source_lang: zh
-source_revision: sha256:ae3c03c8f6a61c20297b993d361d7972f642e2e02c90f4f695e97923ee395bc5
-source_sha256: ae3c03c8f6a61c20297b993d361d7972f642e2e02c90f4f695e97923ee395bc5
+source_revision: sha256:cd359f2462594f99701f09eaa204065fdd8da54ca67c34431874ae1cfc460cde
+source_sha256: cd359f2462594f99701f09eaa204065fdd8da54ca67c34431874ae1cfc460cde
 translation_status: reviewed
 author_names:
   - Beau Timken
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 The English original is titled Sake. It tries, in a short book, to turn sake from "an unfamiliar Japanese drink" into something one can understand, order and pair with food. Its entry point is not a brand ranking but the brewing process: how far the rice is polished, how koji turns starch into sugar, how water and yeast shape flavour, and why sake uses "multiple parallel fermentation". Once these are clear, the words "junmai", "ginjo" and "daiginjo" on a label stop being mere vocabulary.
 
-![Sake: A Modern Guide thematic illustration](/media/photos/theme-asian.jpg)
+![Sake: A Modern Guide editorial illustration](/media/figures/specific/visual-018-book-sake-modern-guide.svg)
 
 Figure: thematic illustration for Sake: A Modern Guide. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

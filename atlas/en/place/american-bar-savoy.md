@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:american-bar-savoy
 source_lang: zh
-source_revision: sha256:d5ade4a465b052f399569b13cfb428841f033da92c45bef0191a1e2f09475738
-source_sha256: d5ade4a465b052f399569b13cfb428841f033da92c45bef0191a1e2f09475738
+source_revision: sha256:2f1d004c755a1940468ea2c18743284d180eef4c416792f84d0dbfd284ca9ebd
+source_sha256: 2f1d004c755a1940468ea2c18743284d180eef4c416792f84d0dbfd284ca9ebd
 translation_status: reviewed
 subtype: pub
 address: The Savoy, Strand, London WC2R 0EZ, United Kingdom
@@ -98,7 +98,7 @@ verification_scope: source-verified
 ---
 # American Bar at The Savoy
 
-Few bars in London treat continuity as a selling point the way the American Bar does. It opened with The Savoy in 1893, survived wars, changes of ownership and repeated refurbishments, and the hotel still describes it as London's longest continuously operating cocktail bar. Visitors often hear that sentence and picture a perfectly preserved old room. The more useful reading is that this is a hotel service space first: its pace, prices and manners exist to make a planned evening go well, not to reconstruct a historical scene.![American Bar at The Savoy category illustration](/media/photos/theme-wine-spirits.jpg)
+Few bars in London treat continuity as a selling point the way the American Bar does. It opened with The Savoy in 1893, survived wars, changes of ownership and repeated refurbishments, and the hotel still describes it as London's longest continuously operating cocktail bar. Visitors often hear that sentence and picture a perfectly preserved old room. The more useful reading is that this is a hotel service space first: its pace, prices and manners exist to make a planned evening go well, not to reconstruct a historical scene.![American Bar at The Savoy editorial illustration](/media/figures/specific/visual-061-place-american-bar-savoy.svg)
 
 Figure: American Bar at The Savoy. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

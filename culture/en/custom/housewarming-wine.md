@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: custom:housewarming-wine
 source_lang: zh
-source_revision: sha256:13e0df351613583c62ae8a631d28cb2db5ed4334963a6a63fc14c45fd79e22f1
-source_sha256: 13e0df351613583c62ae8a631d28cb2db5ed4334963a6a63fc14c45fd79e22f1
+source_revision: sha256:5b831c34c49cae8ffd856d85ab24fb84b251c6c334beaab34c6b68030fd9ec31
+source_sha256: 5b831c34c49cae8ffd856d85ab24fb84b251c6c334beaab34c6b68030fd9ec31
 translation_status: reviewed
 region_refs:
   - region:china
@@ -89,7 +89,7 @@ verification_scope: source-verified
 
 Moving house is a very concrete business: boxes, furniture, keys, a new address. Housewarming wine turns it into a relationship: relatives and friends are invited to see the new home, eat a meal and drink a cup, which amounts to telling everyone “I have settled here”. It has no unified procedure like a wedding and no single honoree like a birthday banquet; it is a combination of local habit and family circumstance.
 
-![Housewarming wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Housewarming wine editorial illustration](/media/figures/specific/visual-028-custom-housewarming-wine.svg)
 
 Figure: thematic illustration for Housewarming wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

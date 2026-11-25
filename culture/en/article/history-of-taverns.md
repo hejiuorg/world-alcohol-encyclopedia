@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: culture-article:history-of-taverns
 source_lang: zh
-source_revision: sha256:2cfe8c43d9645ffea4960080b951d873483c9ed633f2fa74c3f6752dc8c901c4
-source_sha256: 2cfe8c43d9645ffea4960080b951d873483c9ed633f2fa74c3f6752dc8c901c4
+source_revision: sha256:d4a6126cc493676864bd3c8194e1a86f1ffb0e4e849a82f37bdfccd71856963d
+source_sha256: d4a6126cc493676864bd3c8194e1a86f1ffb0e4e849a82f37bdfccd71856963d
 translation_status: reviewed
 about_refs:
   - culture-article:pub-and-city
@@ -89,7 +89,7 @@ The tavern is an odd space: it sells wine, but it is not only a wine shop. It al
 
 A history organised only by “places that sell wine” becomes a list of names. A more explanatory approach treats the tavern as a function of four variables: urban density, transport, taxation and monopoly, and regulation and social movements. The same function grows into very different spaces under different conditions.
 
-![A history of taverns: from wine shops and inns to bars thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![A history of taverns: from wine shops and inns to bars editorial illustration](/media/figures/specific/visual-003-article-history-of-taverns.svg)
 
 Figure: thematic illustration for A history of taverns: from wine shops and inns to bars. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

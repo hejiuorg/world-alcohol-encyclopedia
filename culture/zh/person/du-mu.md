@@ -78,7 +78,7 @@ verification_scope: source-verified
 
 杜牧（803—852），字牧之，京兆万年人，晚唐诗人、古文家。他出身京兆杜氏，祖父杜佑撰《通典》，家学偏重制度与史事。他写酒，很少写独酌的内心，更多是把酒家、酒旗、酒楼写成行旅与城市夜色里的坐标：秦淮河边的店、江南水村的旗、杏花村口的指路。
 
-![杜牧 栏目示意图](/media/photos/theme-asian.jpg)
+![杜牧 专属编辑图](/media/figures/specific/visual-054-person-du-mu.svg)
 
 图：杜牧栏目示意图。项目自产编辑插图，用于中国酒文化语境，不是对象实拍。
 

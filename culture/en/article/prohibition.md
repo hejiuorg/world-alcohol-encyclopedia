@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:prohibition
 source_lang: zh
-source_revision: sha256:72a6eea9a0c53b8481faa760465a6ee21d316178e1e275d872eb549aa2690c77
-source_sha256: 72a6eea9a0c53b8481faa760465a6ee21d316178e1e275d872eb549aa2690c77
+source_revision: sha256:ad4eb1b2aa03df28c1fd990a2298c0f8b09a93c532b0912205e117ad260433a3
+source_sha256: ad4eb1b2aa03df28c1fd990a2298c0f8b09a93c532b0912205e117ad260433a3
 translation_status: reviewed
 about_refs:
   - historical-event:us-prohibition
@@ -78,7 +78,7 @@ verification_scope: source-verified
 
 “Prohibition” sounds like a clear order: no drinking. Yet almost every prohibition actually enforced in history quickly became a complex system of control: who may produce, who may transport, who may possess, which uses are exempt, and who enforces. The result was not that alcohol disappeared, but that supply, price and risk were redistributed.
 
-This article takes American national prohibition from 1920 to 1933 as the main line, compares other countries, and returns to Chinese history of bans and monopolies.![Prohibition: bans change supply, not demand thematic illustration](/media/photos/theme-asian.jpg)
+This article takes American national prohibition from 1920 to 1933 as the main line, compares other countries, and returns to Chinese history of bans and monopolies.![Prohibition: bans change supply, not demand editorial illustration](/media/figures/specific/visual-011-article-prohibition.svg)
 
 Figure: thematic illustration for Prohibition: bans change supply, not demand. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

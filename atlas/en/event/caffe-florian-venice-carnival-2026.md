@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: event:caffe-florian-venice-carnival-2026
 source_lang: zh
-source_revision: sha256:610dd530e6f82a001eb5f387da8f23fd644f611d7f6705cfc0ecaf26b7ef8615
-source_sha256: 610dd530e6f82a001eb5f387da8f23fd644f611d7f6705cfc0ecaf26b7ef8615
+source_revision: sha256:4c98d57882de5747fe0a3ddff02ef61133d68b4e084127be731858e1798ce1b5
+source_sha256: 4c98d57882de5747fe0a3ddff02ef61133d68b4e084127be731858e1798ce1b5
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -87,7 +87,7 @@ event_status: past
 
 From 31 January to 17 February 2026 the Venice Carnival ran under the theme “Olympus – The Origins of the Game”. Caffè Florian did not stage a separate ticketed show. The café stayed open as usual, turned its arcade and terrace on Piazza San Marco into seats for watching masks, costumes and crowds, and served the traditional Carnival pastries. The event has ended, and this event records the 2026 edition's arrangements and limits; exact times remain subject to the organiser and the venue's official channels.
 
-![Caffè Florian during the Venice Carnival 2026 category illustration](/media/photos/theme-wine-spirits.jpg)
+![Caffè Florian during the Venice Carnival 2026 editorial illustration](/media/figures/specific/visual-040-event-caffe-florian-venice-carnival-2026.svg)
 
 Figure: Caffè Florian during the Venice Carnival 2026. Project-generated or category illustration used for bar and dining context; not a photograph of the subject.
 

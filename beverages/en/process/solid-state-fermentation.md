@@ -11,8 +11,8 @@ revision: 2
 translation_of: process:solid-state-fermentation
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c508e21853df70bc360255a2d3e1dabe76709372654182357c5edb85dd6cc707
-source_sha256: c508e21853df70bc360255a2d3e1dabe76709372654182357c5edb85dd6cc707
+source_revision: sha256:06c2bf795adc7b5772ebede92099447313105a18c5d32bea662c2c690539a288
+source_sha256: 06c2bf795adc7b5772ebede92099447313105a18c5d32bea662c2c690539a288
 legacy_refs: []
 aliases:
   - solid-state fermentation
@@ -96,7 +96,7 @@ verification_scope: source-verified
 ---
 # Solid-state fermentation
 
-Solid-state fermentation is a form of [fermentation](ref:fermentation) used in baijiu: the substrate has a low moisture content, the grain mash stays solid, and microorganisms grow in a loose matrix of grain particles, qu powder and filler. Solid-state baijiu is built on this approach, and GB/T 15109-2021, Terminology of baijiu industry, together with GB/T 17204-2021, Terminology and classification of alcoholic beverages, sets out the relevant terms and classification.![Solid-state fermentation thematic illustration](/media/photos/theme-beer.jpg)
+Solid-state fermentation is a form of [fermentation](ref:fermentation) used in baijiu: the substrate has a low moisture content, the grain mash stays solid, and microorganisms grow in a loose matrix of grain particles, qu powder and filler. Solid-state baijiu is built on this approach, and GB/T 15109-2021, Terminology of baijiu industry, together with GB/T 17204-2021, Terminology and classification of alcoholic beverages, sets out the relevant terms and classification.![Solid-state fermentation editorial illustration](/media/figures/specific/visual-080-process-solid-state-fermentation.svg)
 
 Figure: thematic illustration for Solid-state fermentation. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

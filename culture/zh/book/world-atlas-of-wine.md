@@ -80,7 +80,7 @@ verification_scope: source-verified
 
 《世界葡萄酒地图》是一部以地理为核心的工具书：它用地形、气候、土壤与行政边界，解释葡萄酒为什么在某地长成某种样子。书名里的“地图”不是装饰，而是方法：先看地方，再谈风格。对中文读者来说，它还是一部翻译过来的“产区百科”。
 
-![世界葡萄酒地图 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![世界葡萄酒地图 专属编辑图](/media/figures/specific/visual-025-book-world-atlas-of-wine.svg)
 
 图：世界葡萄酒地图 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是世界葡萄酒地图的实拍。
 

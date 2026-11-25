@@ -84,7 +84,7 @@ verification_scope: source-verified
 
 特拉普斯特啤酒（Trappist beer）不是按颜色或酒精度划分的风格，而是一组受产地与监督规则约束的[啤酒](ref:beer)：它必须在特拉普斯特修道院内酿造，由修士亲自操作或在其监督下完成，收益用于修道院维护与社会公益。今天获准使用 Authentic Trappist Product（ATP）标识的酒厂只有六家，分布在[比利时](ref:belgium)与荷兰。
 
-![特拉普斯特啤酒 类型示意图](/media/photos/theme-beer.jpg)
+![特拉普斯特啤酒 专属编辑图](/media/figures/specific/visual-074-drink-style-trappist-beer.svg)
 
 图：特拉普斯特啤酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是特拉普斯特啤酒的实拍。
 

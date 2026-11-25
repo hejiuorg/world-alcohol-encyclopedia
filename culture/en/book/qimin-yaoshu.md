@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: book:qimin-yaoshu
 source_lang: zh
-source_revision: sha256:ef4a861e2bef1dc064b79873b13c2755977259df0508045fb0c39cb4d7258ad6
-source_sha256: ef4a861e2bef1dc064b79873b13c2755977259df0508045fb0c39cb4d7258ad6
+source_revision: sha256:223dd2c9423b042b02b81942ad243ab7f38fc77d48d2abeec3e0c97c2d5e305f
+source_sha256: 223dd2c9423b042b02b81942ad243ab7f38fc77d48d2abeec3e0c97c2d5e305f
 translation_status: reviewed
 author_names:
   - Jia Sixie
@@ -86,7 +86,7 @@ verification_scope: source-verified
 ---
 # Qimin Yaoshu
 
-The Qimin Yaoshu is a comprehensive agricultural treatise by Jia Sixie of the Northern Wei, completed between 533 and 544 and transmitted in ten volumes and ninety-two chapters, running to about 110,000 characters. It covers farming, horticulture, livestock and household processing, and wine is only one part of it; yet volume seven records qu-making and brewing in detail, which makes this agricultural book one of the earliest surviving systematic accounts of grain-wine craft.![Qimin Yaoshu thematic illustration](/media/photos/theme-asian.jpg)
+The Qimin Yaoshu is a comprehensive agricultural treatise by Jia Sixie of the Northern Wei, completed between 533 and 544 and transmitted in ten volumes and ninety-two chapters, running to about 110,000 characters. It covers farming, horticulture, livestock and household processing, and wine is only one part of it; yet volume seven records qu-making and brewing in detail, which makes this agricultural book one of the earliest surviving systematic accounts of grain-wine craft.![Qimin Yaoshu editorial illustration](/media/figures/specific/visual-022-book-qimin-yaoshu.svg)
 
 Figure: thematic illustration for Qimin Yaoshu. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

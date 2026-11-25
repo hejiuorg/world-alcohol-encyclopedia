@@ -74,7 +74,7 @@ verification_scope: source-verified
 
 《酒经》是北宋朱肱所撰的酿酒专著，今传本三卷，又名《北山酒经》。它不像农书那样把酿酒附在农事之后，而是把酒本身作为对象：先论酒的历史与作用，再论制曲，最后论酿酒流程。读这本书，既能看到宋人怎样把经验写成可传抄的步骤，也能看到哪些环节在当时仍依赖观察与手感。
 
-![酒经 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![酒经 专属编辑图](/media/figures/specific/visual-021-book-jiujing.svg)
 
 图：酒经 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是酒经的实拍。
 

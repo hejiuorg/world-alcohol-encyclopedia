@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:wine-grading-systems
 source_lang: zh
-source_revision: sha256:d4e9c530889b21ff336693b0e54ad38fbf91910618953668d2b25177636daf54
-source_sha256: d4e9c530889b21ff336693b0e54ad38fbf91910618953668d2b25177636daf54
+source_revision: sha256:daa679243ca0fab4547603c79874d5116ea8dc702ad58b0005e4e7bff7a81cc8
+source_sha256: daa679243ca0fab4547603c79874d5116ea8dc702ad58b0005e4e7bff7a81cc8
 translation_status: reviewed
 about_refs:
   - drink-style:wine
@@ -98,7 +98,7 @@ verification_scope: source-verified
 
 Wine labels carry a string of abbreviations: AOC, AOP, IGP, DOCG, DO, VP. All are translated into Chinese as “grading”, yet they point to different systems. Reading “grading” as a single ladder from low to high is one of the most common consumer misunderstandings. To read these labels, one must first separate what each is actually certifying.
 
-![Wine grading systems: geographical indications, national tiers and estate classifications thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Wine grading systems: geographical indications, national tiers and estate classifications editorial illustration](/media/figures/specific/visual-009-article-wine-grading-systems.svg)
 
 Figure: thematic illustration for Wine grading systems: geographical indications, national tiers and estate classifications. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

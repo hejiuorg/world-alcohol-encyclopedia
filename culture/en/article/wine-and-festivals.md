@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:wine-and-festivals
 source_lang: zh
-source_revision: sha256:cca440b175d33bc2363dd0908ac9612fe6417cccd9b949a7f6b854575f077ce6
-source_sha256: cca440b175d33bc2363dd0908ac9612fe6417cccd9b949a7f6b854575f077ce6
+source_revision: sha256:679fb8a6463d43f0d1bef2ec73dc1c6aa0dc287f57d38f95fbda87e1ab5524ee
+source_sha256: 679fb8a6463d43f0d1bef2ec73dc1c6aa0dc287f57d38f95fbda87e1ab5524ee
 translation_status: reviewed
 about_refs:
   - custom:new-year-wine
@@ -95,7 +95,7 @@ verification_scope: source-verified
 
 Traditional Chinese festivals are not abstract dates but sets of actions: changing clothes, honouring ancestors, eating together, going out, drinking a particular wine. Wine works as a time marker; what you drink, when and with whom reminds you where you are in the year.
 
-This article reads four festivals. Each wine carries medicinal, ritual and social meanings at once, and the balance among them differs by period.![Wine and festivals: the calendar inside seasonal drinks thematic illustration](/media/photos/theme-beer.jpg)
+This article reads four festivals. Each wine carries medicinal, ritual and social meanings at once, and the balance among them differs by period.![Wine and festivals: the calendar inside seasonal drinks editorial illustration](/media/figures/specific/visual-013-article-wine-and-festivals.svg)
 
 Figure: thematic illustration for Wine and festivals: the calendar inside seasonal drinks. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

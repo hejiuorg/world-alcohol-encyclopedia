@@ -94,7 +94,7 @@ verification_scope: source-verified
 
 固态发酵是白酒[发酵](ref:fermentation)的一种形态：发酵基质含水率较低，粮醅以固态存在，微生物在粮粒、曲粉与填充料构成的疏松体系中生长。中国白酒的固态法白酒以此为核心，GB/T 15109-2021《白酒工业术语》与 GB/T 17204-2021《饮料酒术语和分类》给出了相关术语与分类框架。
 
-![固态发酵 类型示意图](/media/photos/theme-beer.jpg)
+![固态发酵 专属编辑图](/media/figures/specific/visual-080-process-solid-state-fermentation.svg)
 
 图：固态发酵 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是固态发酵的实拍。
 

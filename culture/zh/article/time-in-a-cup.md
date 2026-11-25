@@ -77,7 +77,7 @@ verification_scope: source-verified
 
 酒把农事、节令和人的相聚连在一起。读古代文献时，最先出现的往往不是“某种酒是什么味道”，而是“什么时候酿、什么时候喝、和谁一起喝”。时间因此不是酒的背景，而是酒的一部分。
 
-![一杯酒里的时间 类型示意图](/media/photos/theme-asian.jpg)
+![一杯酒里的时间 专属编辑图](/media/figures/specific/visual-008-article-time-in-a-cup.svg)
 
 图：一杯酒里的时间 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是一杯酒里的时间的实拍。
 

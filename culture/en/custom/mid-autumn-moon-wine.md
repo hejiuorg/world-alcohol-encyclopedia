@@ -11,8 +11,8 @@ revision: 2
 translation_of: custom:mid-autumn-moon-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2e92ea68648c0877b0948148259b43cc79cf586e5a1c3394b6bb3a81e55fe170
-source_sha256: 2e92ea68648c0877b0948148259b43cc79cf586e5a1c3394b6bb3a81e55fe170
+source_revision: sha256:5c35935271fe74ce567622e5c20373dcac27146aa77d096f20316e3584f484c3
+source_sha256: 5c35935271fe74ce567622e5c20373dcac27146aa77d096f20316e3584f484c3
 region_refs:
   - region:china
 period: Took shape gradually in the Tang and Song; the custom continues today
@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 The 15th day of the eighth lunar month is the Mid-Autumn Festival, when moon gazing, moon worship, eating mooncakes and drinking are often placed in the same evening. Wine has at least four roles in this custom: an offering to the moon, a drink at the reunion meal, a medium through which poets address the moon, and new wine sought after in the market before the festival. Separating these four layers shows which parts are documentary records and which are later explanations.
 
-![Mid-Autumn moon wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Mid-Autumn moon wine editorial illustration](/media/figures/specific/visual-036-custom-mid-autumn-moon-wine.svg)
 
 Figure: thematic illustration for Mid-Autumn moon wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

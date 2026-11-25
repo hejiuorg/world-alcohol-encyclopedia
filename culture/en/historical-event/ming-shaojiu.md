@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:ming-shaojiu
 source_lang: zh
-source_revision: sha256:e066987df4cf6a86532b17cbd1bb8b501957998b89a4923ad6951ebbdb1b3a55
-source_sha256: e066987df4cf6a86532b17cbd1bb8b501957998b89a4923ad6951ebbdb1b3a55
+source_revision: sha256:da2cda93015a82b0b6cc6862fc229e1d186e54834c7ea4de7362a649977a4efb
+source_sha256: da2cda93015a82b0b6cc6862fc229e1d186e54834c7ea4de7362a649977a4efb
 translation_status: reviewed
 aliases:
   - 明代烧酒
@@ -80,7 +80,7 @@ verification_scope: source-verified
 
 Ming shaojiu (1368–1644) was no longer the foreign strong liquor that had just arrived in the Yuan, but it had not yet replaced huangjiu. Banquets still favoured huangjiu, and shaojiu appeared more often in northern everyday life, in medical formulas, in travel and in summer drinking. Li Shizhen gave shaojiu a separate entry in the Bencao Gangmu, recording both the 'steam and collect the dew' process and the warning of 'great toxicity'; that text later became the core basis for accounts of Ming shaojiu.
 
-![Ming Shaojiu: From Medicine to Northern Everyday Drink category illustration](/media/photos/theme-asian.jpg)
+![Ming Shaojiu: From Medicine to Northern Everyday Drink editorial illustration](/media/figures/specific/visual-046-historical-event-ming-shaojiu.svg)
 
 Figure: Ming Shaojiu: From Medicine to Northern Everyday Drink. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
 

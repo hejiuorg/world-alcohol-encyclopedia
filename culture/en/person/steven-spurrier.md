@@ -38,8 +38,8 @@ related:
 translation_of: person:steven-spurrier
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:beab884c2babee862f99bab459664777ea1ef48a3b0d4451169cdbe6f19dcbe2
-source_sha256: beab884c2babee862f99bab459664777ea1ef48a3b0d4451169cdbe6f19dcbe2
+source_revision: sha256:2b37016891930c14a916ab04ba7f1ffa8be361246bf68a61536f0593b02c4304
+source_sha256: 2b37016891930c14a916ab04ba7f1ffa8be361246bf68a61536f0593b02c4304
 references:
   - key: judgment
     target_id: historical-event:1976-judgment-of-paris
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 Steven Spurrier (1941–2021) was a British wine merchant, educator and writer. He ran a wine shop and a wine school in Paris for many years and is best remembered for organising the 1976 Judgment of Paris tasting; later he wrote for and judged with Decanter, becoming a bridge between the old European hierarchy and the rising wine world.
 
-![Steven Spurrier category illustration](/media/photos/theme-wine-spirits.jpg)
+![Steven Spurrier editorial illustration](/media/figures/specific/visual-059-person-steven-spurrier.svg)
 
 Figure: Steven Spurrier. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

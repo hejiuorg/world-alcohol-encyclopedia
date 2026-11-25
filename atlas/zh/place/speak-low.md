@@ -96,7 +96,7 @@ founded_year: 2014
 ---
 # Speak Low 酒吧
 
-![Speak Low 酒吧 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![Speak Low 酒吧 专属编辑图](/media/figures/specific/visual-066-place-speak-low.svg)
 
 图：Speak Low 酒吧栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

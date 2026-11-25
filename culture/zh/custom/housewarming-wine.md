@@ -83,7 +83,7 @@ verification_scope: source-verified
 
 搬家是件很具体的事：箱子、家具、钥匙、新地址。乔迁酒则把这件事变成关系：请亲友来看看新家，吃一顿饭，喝一杯酒，算是告诉大家“我在这里安顿下来了”。它不像婚礼那样有统一流程，也不像寿宴那样有明确主角，更多是地方习惯与家庭条件的组合。
 
-![乔迁酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![乔迁酒 专属编辑图](/media/figures/specific/visual-028-custom-housewarming-wine.svg)
 
 图：乔迁酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是乔迁酒的实拍。
 

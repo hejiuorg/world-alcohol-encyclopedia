@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:state-owned-distilleries-1949
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c1765d3a59cd25c1445d1a80ead72cc6679e26e0bff41b765554d086ddfdb68d
-source_sha256: c1765d3a59cd25c1445d1a80ead72cc6679e26e0bff41b765554d086ddfdb68d
+source_revision: sha256:8e8b870176853c5cca4e071d9c68a3dcbf2cf588ae356187647bfc89278db4c5
+source_sha256: 8e8b870176853c5cca4e071d9c68a3dcbf2cf588ae356187647bfc89278db4c5
 date_text: 1949 to 1956
 year_start: 1949
 year_end: 1956
@@ -100,7 +100,7 @@ verification_scope: source-verified
 
 After 1949 the Chinese alcohol industry went through a reorganisation of ownership and management: scattered private workshops were taken over and merged, gradually becoming state-owned or joint state-private plants, while production and sales were brought under a monopoly system. The process was not completed overnight; the pace varied by region and was broadly settled only around 1956.
 
-![State-owned distilleries and the alcohol monopoly after 1949 category illustration](/media/photos/theme-asian.jpg)
+![State-owned distilleries and the alcohol monopoly after 1949 editorial illustration](/media/figures/specific/visual-051-historical-event-state-owned-distilleries-1949.svg)
 
 Figure: State-owned distilleries and the alcohol monopoly after 1949. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
 

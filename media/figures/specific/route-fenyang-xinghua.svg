@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#F6F0E4"/>
+  <rect x="0" y="0" width="18" height="675" fill="#B4562A"/>
+  <circle cx="1040" cy="128" r="170" fill="#B4562A" opacity="0.10"/>
+  <circle cx="1040" cy="128" r="128" fill="none" stroke="#B4562A" stroke-width="2" opacity="0.35"/>
+  <text x="82" y="76" font-family="Georgia, 'Noto Serif SC', serif" font-size="22" letter-spacing="3" fill="#6B6258">中国白酒产区路线 / BAIJIU ROUTE</text>
+  <text x="82" y="190" font-family="'Noto Serif SC', Georgia, serif" font-size="62" font-weight="700" fill="#1E2420">汾阳路线：汾酒与杏花村</text>
+  
+  <text x="84" y="330" font-family="Georgia, 'Noto Serif SC', serif" font-size="28" fill="#6B6258">Fenyang Route: Fenjiu and Xinghua Village</text>
+  <line x1="82" y1="382" x2="820" y2="382" stroke="#B4562A" stroke-width="2" opacity="0.45"/>
+  <text x="84" y="450" font-family="'Noto Sans SC', Arial, sans-serif" font-size="26" fill="#1E2420">01  上午汾酒博物馆与老作坊</text>
+  <text x="84" y="510" font-family="'Noto Sans SC', Arial, sans-serif" font-size="26" fill="#1E2420">02  下午杏花村镇</text>
+  <text x="84" y="570" font-family="'Noto Sans SC', Arial, sans-serif" font-size="26" fill="#1E2420">03  清香型地缸工艺</text>
+  <text x="84" y="642" font-family="Georgia, serif" font-size="18" fill="#6B6258">HEJIU.ORG · 双语编辑视觉卡 / bilingual editorial card</text>
+</svg>

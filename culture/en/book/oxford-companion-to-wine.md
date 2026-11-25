@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: book:oxford-companion-to-wine
 source_lang: zh
-source_revision: sha256:3d0701d36f490045ef0eb5d03e1c24b6de63ac71253cccfba17134bae7736dc4
-source_sha256: 3d0701d36f490045ef0eb5d03e1c24b6de63ac71253cccfba17134bae7736dc4
+source_revision: sha256:b4dc3832bcc66182cf2e916a54bde63b35ebed1a3b8d546be24b04b3f949a663
+source_sha256: b4dc3832bcc66182cf2e916a54bde63b35ebed1a3b8d546be24b04b3f949a663
 translation_status: reviewed
 author_names:
   - Jancis Robinson
@@ -86,7 +86,7 @@ verification_scope: source-verified
 
 The Oxford Companion to Wine, usually shortened to OCW, is not a wine primer to be read from cover to cover. It is an alphabetical reference work that breaks wine into thousands of entries: grape varieties, soils, climates, pests, winemaking, chemistry, law, regions, estates, markets, history and people. For readers outside English, its most important use is not "reading through" but learning to turn a question into a handful of searchable terms and then follow the cross-references.
 
-![The Oxford Companion to Wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![The Oxford Companion to Wine editorial illustration](/media/figures/specific/visual-017-book-oxford-companion-to-wine.svg)
 
 Figure: thematic illustration for The Oxford Companion to Wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

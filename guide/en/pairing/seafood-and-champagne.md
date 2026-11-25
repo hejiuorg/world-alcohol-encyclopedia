@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: pairing:seafood-and-champagne
 source_lang: zh
-source_revision: sha256:cff3aa3b1cd582bb2f37aba90f9d775db426459ea9f36aa4194fb6cbf85c6ead
-source_sha256: cff3aa3b1cd582bb2f37aba90f9d775db426459ea9f36aa4194fb6cbf85c6ead
+source_revision: sha256:c115d1311df27db3509e3429cc46e76a1ea235cfe82b834fb8819af7bf861d1c
+source_sha256: c115d1311df27db3509e3429cc46e76a1ea235cfe82b834fb8819af7bf861d1c
 translation_status: reviewed
 aliases:
   - Seafood and Champagne
@@ -101,7 +101,7 @@ verification_scope: source-verified
 ---
 # Seafood and Champagne: Bubbles, Acidity and Salt
 
-The savoury freshness, salt and fat of seafood, and the bubbles, acidity and low tannin of Champagne, fall into balance naturally. The difficulty is not whether they can be paired but that Champagne comes in many forms: blanc de blancs, blanc de noirs, rosé, non-dosage and low-dosage, each with different acidity, body and sweetness. Fix the cooking method and intensity of the seafood first, then choose the direction of the Champagne; that is more useful than memorising a list of dishes.![Seafood and Champagne: Bubbles, Acidity and Salt thematic illustration](/media/photos/theme-ingredients.jpg)
+The savoury freshness, salt and fat of seafood, and the bubbles, acidity and low tannin of Champagne, fall into balance naturally. The difficulty is not whether they can be paired but that Champagne comes in many forms: blanc de blancs, blanc de noirs, rosé, non-dosage and low-dosage, each with different acidity, body and sweetness. Fix the cooking method and intensity of the seafood first, then choose the direction of the Champagne; that is more useful than memorising a list of dishes.![Seafood and Champagne: Bubbles, Acidity and Salt editorial illustration](/media/figures/specific/visual-078-pairing-seafood-and-champagne.svg)
 
 Figure: thematic illustration for Seafood and Champagne: Bubbles, Acidity and Salt. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

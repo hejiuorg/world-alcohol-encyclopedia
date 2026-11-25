@@ -35,8 +35,8 @@ related:
 translation_of: person:harry-johnson
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:746da37d262fe1141a86afcdcc303b499697283bf34cddd8a2918f0f50192ae8
-source_sha256: 746da37d262fe1141a86afcdcc303b499697283bf34cddd8a2918f0f50192ae8
+source_revision: sha256:2823cce75ba880d8b11b8412380dc48f9015c20818cfeeb490b884ca315084b4
+source_sha256: 2823cce75ba880d8b11b8412380dc48f9015c20818cfeeb490b884ca315084b4
 references:
   - key: old-fashioned
     target_id: cocktail:old-fashioned
@@ -96,7 +96,7 @@ verification_scope: source-verified
 
 Harry Johnson (usually dated to 1845) was the nineteenth-century American bartender who wrote about the bar as a business. This profile refers to the author of the New and Improved Bartender's Manual, not to other people of the same name; his identity can be checked from the 1882 title page, its place of publication and its bilingual edition.
 
-His name is often paired with Jerry Thomas, but the two contributions differ: Thomas gave bartending a theatrical side, while Johnson gave it an operating manual and management standards.![Harry Johnson category illustration](/media/photos/theme-wine-spirits.jpg)
+His name is often paired with Jerry Thomas, but the two contributions differ: Thomas gave bartending a theatrical side, while Johnson gave it an operating manual and management standards.![Harry Johnson editorial illustration](/media/figures/specific/visual-056-person-harry-johnson.svg)
 
 Figure: Harry Johnson. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

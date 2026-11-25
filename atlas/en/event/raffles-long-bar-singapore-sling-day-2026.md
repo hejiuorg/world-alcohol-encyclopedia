@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: event:raffles-long-bar-singapore-sling-day-2026
 source_lang: zh
-source_revision: sha256:fefcdc442777e691dc0fe23a9bdbf0ea21e1fe2a541cc3b26decfce2a92bacca
-source_sha256: fefcdc442777e691dc0fe23a9bdbf0ea21e1fe2a541cc3b26decfce2a92bacca
+source_revision: sha256:f680cfa40eee2129103595954a5ca71b3d58b336fea45417c51fbd91de6b38d5
+source_sha256: f680cfa40eee2129103595954a5ca71b3d58b336fea45417c51fbd91de6b38d5
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -81,7 +81,7 @@ event_status: past
 
 On 27 June 2026 Raffles Hotel Singapore's Long Bar held its annual Singapore Sling Day. The date coincides with International Pineapple Day, and the bar made the pineapple its festive symbol: the first 100 guests who brought a whole pineapple could exchange it for a complimentary Singapore Sling. The alcohol-free Singapore Sling Zero also became available on the same day. The event has ended, and this event records the 2026 edition's arrangements and rules.
 
-![Singapore Sling Day 2026 at Raffles Long Bar category illustration](/media/photos/theme-wine-spirits.jpg)
+![Singapore Sling Day 2026 at Raffles Long Bar editorial illustration](/media/figures/specific/visual-042-event-raffles-long-bar-singapore-sling-day-2026.svg)
 
 Figure: Singapore Sling Day 2026 at Raffles Long Bar. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

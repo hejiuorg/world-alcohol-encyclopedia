@@ -83,7 +83,7 @@ verification_scope: source-verified
 
 先把词义说清：作为普通名词，“祭酒”指祭祀所用的酒；作为动词，指以酒致祭；作为官名，“祭酒”又是古代学官或部门长官的称号，如国子监祭酒。三者同形不同义，读古书时需要看上下文，不能一律当成酒。
 
-![祭酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![祭酒 专属编辑图](/media/figures/specific/visual-037-custom-sacrificial-wine.svg)
 
 图：祭酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是祭酒的实拍。
 

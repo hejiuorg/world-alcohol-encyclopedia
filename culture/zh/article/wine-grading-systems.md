@@ -93,7 +93,7 @@ verification_scope: source-verified
 
 葡萄酒酒标上常出现一串缩写：AOC、AOP、IGP、DOCG、DO、VP。它们都被译成“分级”，却指向不同的制度。把“分级”当成一条从低到高的质量阶梯，是消费者最常见的误读之一。理解这些标签，先要分清它们各自在证明什么。
 
-![葡萄酒分级体系：地理标志、国家等级与酒庄分级 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![葡萄酒分级体系：地理标志、国家等级与酒庄分级 专属编辑图](/media/figures/specific/visual-009-article-wine-grading-systems.svg)
 
 图：葡萄酒分级体系：地理标志、国家等级与酒庄分级 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是葡萄酒分级体系：地理标志、国家等级与酒庄分级的实拍。
 

@@ -92,7 +92,7 @@ verification_scope: source-verified
 
 这篇文章要处理的是一个容易混淆的问题：工艺的连续性与品类的断裂性。酿造的底层逻辑——米、曲、水、发酵——延续了几千年；但“黄酒”这个词所指的范围、标准与产品，是 20 世纪才逐步定型的。把两者混为一谈，就会得出“黄酒自古如此”的错误结论。
 
-![黄酒史：米、曲、水与绍兴 类型示意图](/media/photos/theme-asian.jpg)
+![黄酒史：米、曲、水与绍兴 专属编辑图](/media/figures/specific/visual-005-article-history-of-yellow-wine.svg)
 
 图：黄酒史：米、曲、水与绍兴 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是黄酒史：米、曲、水与绍兴的实拍。
 

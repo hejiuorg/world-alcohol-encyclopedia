@@ -100,7 +100,7 @@ founded_year: 1893
 > - 交通与费用：出发前以官方页面为准，本页不承诺固定票价。
 > - 营业状态：已核实；来源最近核对：2026-11-08。
 
-![萨沃伊美式酒吧 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![萨沃伊美式酒吧 专属编辑图](/media/figures/specific/visual-061-place-american-bar-savoy.svg)
 
 图：萨沃伊美式酒吧栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

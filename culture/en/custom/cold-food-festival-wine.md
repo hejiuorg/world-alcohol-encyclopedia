@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: custom:cold-food-festival-wine
 source_lang: zh
-source_revision: sha256:d48ff7a4fa2fd8e2b10c04fd53e4a2f2b733858fac4d1ed1ebae6869e474e0c2
-source_sha256: d48ff7a4fa2fd8e2b10c04fd53e4a2f2b733858fac4d1ed1ebae6869e474e0c2
+source_revision: sha256:0b2660d7a8b3a2176ca4ee3e8699b322ad9910c87b0e4f6cbc31cc3d130db226
+source_sha256: 0b2660d7a8b3a2176ca4ee3e8699b322ad9910c87b0e4f6cbc31cc3d130db226
 translation_status: reviewed
 region_refs:
   - region:china
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 The Cold Food Festival is a holiday built around fire: for a day, no fire is lit, cold food is eaten in advance, tombs are visited and the first spring outings are made. Wine is not always the main character. It appears more often as a libation at the grave, a drink at the family meal and a seasonal word in poetry. To understand it, wine has to be put back into the context of the fire ban.
 
-![Cold Food Festival and wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Cold Food Festival and wine editorial illustration](/media/figures/specific/visual-026-custom-cold-food-festival-wine.svg)
 
 Figure: thematic illustration for Cold Food Festival and wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

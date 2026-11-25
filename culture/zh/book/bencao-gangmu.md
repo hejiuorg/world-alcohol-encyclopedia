@@ -88,7 +88,7 @@ verification_scope: source-verified
 
 《本草纲目》是明代李时珍编纂的药物学巨著，全书五十二卷。酒类内容集中在卷二十五谷部“造酿类”，收有酒、烧酒、葡萄酒等条目，逐条记录释名、制法、性味、主治与附方。它既是本草书，也是明代酒类知识的汇编；读它要同时看“当时人怎么认识酒”和“这些认识今天是否成立”。
 
-![本草纲目（酒部） 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![本草纲目（酒部） 专属编辑图](/media/figures/specific/visual-020-book-bencao-gangmu.svg)
 
 图：本草纲目（酒部） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是本草纲目（酒部）的实拍。
 

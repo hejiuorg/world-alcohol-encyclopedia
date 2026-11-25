@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: book:drunken-botanist
 source_lang: zh
-source_revision: sha256:58959e15461243961e95e61211bc238cdaa55d6fc74710289d5f39c627327fd0
-source_sha256: 58959e15461243961e95e61211bc238cdaa55d6fc74710289d5f39c627327fd0
+source_revision: sha256:2fa95b856f786904f7f0fb2768cd9900b20133f14ba28f26685a80261a53555f
+source_sha256: 2fa95b856f786904f7f0fb2768cd9900b20133f14ba28f26685a80261a53555f
 translation_status: reviewed
 author_names:
   - Amy Stewart
@@ -86,7 +86,7 @@ verification_scope: source-verified
 
 The English original is subtitled The Plants That Create the World's Great Drinks. The "botanist" in the title is not a rhetorical flourish: the author really starts with plants and asks where a drink comes from. Wheat, corn, rice, sugarcane, agave, grapes, apples, juniper, spices and bark are planted, harvested and processed, then fermented, distilled or infused before they become the drinks we know. Once that chain is laid out, a drink is no longer only a brand and a flavour; it becomes a history of agriculture, trade and chemistry.
 
-![The Drunken Botanist thematic illustration](/media/photos/theme-asian.jpg)
+![The Drunken Botanist editorial illustration](/media/figures/specific/visual-016-book-drunken-botanist.svg)
 
 Figure: thematic illustration for The Drunken Botanist. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

@@ -77,7 +77,7 @@ verification_scope: source-verified
 
 农历八月十五是中秋节，赏月、祭月、吃月饼与饮酒常被放在同一个夜晚。酒在这套习俗里至少有四种身份：祭月的供品、团圆宴的饮品、诗人对月的媒介，以及节前市场上被争抢的新酒。把这四层分开，才能看清哪些是文献记载，哪些是后起的解释。
 
-![中秋赏月酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![中秋赏月酒 专属编辑图](/media/figures/specific/visual-036-custom-mid-autumn-moon-wine.svg)
 
 图：中秋赏月酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是中秋赏月酒的实拍。
 

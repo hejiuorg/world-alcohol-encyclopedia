@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:japanese-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:12ec35e3cec17fb286e289bdb8d4dce4f57237a1a27311e6ebfcb04864b17d6e
-source_sha256: 12ec35e3cec17fb286e289bdb8d4dce4f57237a1a27311e6ebfcb04864b17d6e
+source_revision: sha256:f74d5851e4948970babce254354d6641654ae2693ddc0473deaa6f00249fde67
+source_sha256: f74d5851e4948970babce254354d6641654ae2693ddc0473deaa6f00249fde67
 aliases:
   - Japanese cuisine and sake
 tags:
@@ -121,7 +121,7 @@ The more the rice is milled, the less protein and lipid remain in the outer laye
 
 ### Where umami comes from: koji, yeast and amino acids
 
-Sake's umami comes from rice and koji. Starch in the rice is broken into sugar by koji mould, while protein is broken into amino acids and peptides; yeast produces organic acids and esters during fermentation, giving apple, banana, pear and steamed-rice aromas. Glutamate and aspartate among the amino acids supply umami, lactic and succinic acids give soft acidity, and [residual sugar](ref:residual-sugar) decides sweetness.
+[Sake](ref:sake)'s umami comes from rice and koji. Starch in the rice is broken into sugar by koji mould, while protein is broken into amino acids and peptides; yeast produces organic acids and esters during fermentation, giving apple, banana, pear and steamed-rice aromas. Glutamate and aspartate among the amino acids supply umami, lactic and succinic acids give soft acidity, and [residual sugar](ref:residual-sugar) decides sweetness.
 
 This chemistry overlaps closely with Japanese seasoning: glutamate in soy sauce, peptides in miso, kombu stock and inosinate in dried bonito are all umami molecules. When sake meets [Japanese food](ref:japan), umami does not simply add up to "saltier"; it creates layers, with the rice aroma holding the ingredient and the ingredient's savour making the wine fuller in return.
 

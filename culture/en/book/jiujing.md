@@ -11,8 +11,8 @@ revision: 2
 translation_of: book:jiujing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ea425132bb62944038227060c722c95c6482e5969e519417b53178fff797cf48
-source_sha256: ea425132bb62944038227060c722c95c6482e5969e519417b53178fff797cf48
+source_revision: sha256:b26361d98d53aed0ebe61c253ff4ec11608f641367a888a7193a03850eae232a
+source_sha256: b26361d98d53aed0ebe61c253ff4ec11608f641367a888a7193a03850eae232a
 author_names:
   - Zhu Gong
 author_refs: []
@@ -76,7 +76,7 @@ verification_scope: source-verified
 ---
 # Beishan Jiujing (Classic of Wine)
 
-The Classic of Wine is a brewing treatise by Zhu Gong of the Northern Song, transmitted in three volumes and also known as Beishan Jiujing. Unlike agricultural books that attach brewing to farming, it takes wine itself as its subject: first the history and role of wine, then qu-making, then the brewing process. Reading it shows both how Song writers turned experience into steps that could be copied and which stages still depended on observation and feel.![Beishan Jiujing (Classic of Wine) thematic illustration](/media/photos/theme-wine-spirits.jpg)
+The Classic of Wine is a brewing treatise by Zhu Gong of the Northern Song, transmitted in three volumes and also known as Beishan Jiujing. Unlike agricultural books that attach brewing to farming, it takes wine itself as its subject: first the history and role of wine, then qu-making, then the brewing process. Reading it shows both how Song writers turned experience into steps that could be copied and which stages still depended on observation and feel.![Beishan Jiujing (Classic of Wine) editorial illustration](/media/figures/specific/visual-021-book-jiujing.svg)
 
 Figure: thematic illustration for Beishan Jiujing (Classic of Wine). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

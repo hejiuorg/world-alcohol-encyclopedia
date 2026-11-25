@@ -35,8 +35,8 @@ related:
 translation_of: person:jerry-thomas
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3087ddde0c84b0a621d121a77954fe87c89a4c0f9b00f027780cd4e29c6abf04
-source_sha256: 3087ddde0c84b0a621d121a77954fe87c89a4c0f9b00f027780cd4e29c6abf04
+source_revision: sha256:543dc92dd0ac7646167a78b0ca094bf9e3964f023e77666f8afbb0d556352a47
+source_sha256: 543dc92dd0ac7646167a78b0ca094bf9e3964f023e77666f8afbb0d556352a47
 references:
   - key: old-fashioned
     target_id: cocktail:old-fashioned
@@ -103,7 +103,7 @@ verification_scope: source-verified
 
 Jerry Thomas (1825-1885) was one of the best-known American bartenders of the nineteenth century. His fame rests on two things: a drinks book published in 1862 and a set of flaming mixing routines. The book fixed recipes in a stable written form; the routines turned the bartender from a server behind a counter into a performer on a stage.
 
-![Jerry Thomas category illustration](/media/photos/theme-wine-spirits.jpg)
+![Jerry Thomas editorial illustration](/media/figures/specific/visual-057-person-jerry-thomas.svg)
 
 Figure: Jerry Thomas. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

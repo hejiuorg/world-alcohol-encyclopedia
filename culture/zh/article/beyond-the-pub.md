@@ -74,7 +74,7 @@ verification_scope: source-verified
 
 在酒馆里，一杯酒是成品：温度合适、杯型合适、价格合适。到了产地，它会被拆开：麦芽、水、酵母、蒸馏器、橡木桶、发酵罐、采收日期与工人的判断。产地参观的价值不在于“看过”，而在于让风味从形容词变成可以追问的工序。
 
-![走出酒馆：把一杯酒追到产地 类型示意图](/media/photos/theme-asian.jpg)
+![走出酒馆：把一杯酒追到产地 专属编辑图](/media/figures/specific/visual-010-article-beyond-the-pub.svg)
 
 图：走出酒馆：把一杯酒追到产地 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是走出酒馆：把一杯酒追到产地的实拍。
 

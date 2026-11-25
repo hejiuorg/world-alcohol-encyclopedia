@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:wuliangye-wine-museum
 source_lang: zh
-source_revision: sha256:4ba4a2cd4c93aebf5871ba63b833a1f179e69f980a3e76012a8520a020573f6d
-source_sha256: 4ba4a2cd4c93aebf5871ba63b833a1f179e69f980a3e76012a8520a020573f6d
+source_revision: sha256:da4e32888212ca5e37261b99441a90155122475d08e2e00c40983c4ee8512c4e
+source_sha256: da4e32888212ca5e37261b99441a90155122475d08e2e00c40983c4ee8512c4e
 translation_status: reviewed
 subtype: museum
 address: 150 Minjiang West Road, Cuiping District, Yibin, Sichuan, China
@@ -99,7 +99,7 @@ The Wuliangye Wine Museum stands inside the Wuliangye plant at 150 Minjiang West
 > - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
 > - Status: Verified; sources checked: 2026-11-08.
 
-![Wuliangye Wine Museum category illustration](/media/photos/theme-asian.jpg)
+![Wuliangye Wine Museum editorial illustration](/media/figures/specific/visual-067-place-wuliangye-wine-museum.svg)
 
 Figure: Wuliangye Wine Museum. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
 

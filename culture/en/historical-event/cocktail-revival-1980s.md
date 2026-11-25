@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: historical-event:cocktail-revival-1980s
 source_lang: zh
-source_revision: sha256:179990f4fb700d04cd9e0b973ffae644de779b4b3c32266e480f4b1672d3689b
-source_sha256: 179990f4fb700d04cd9e0b973ffae644de779b4b3c32266e480f4b1672d3689b
+source_revision: sha256:0e84c4a44355d58bb762a2a670cab112752f9b26213c029b126072a22a436663
+source_sha256: 0e84c4a44355d58bb762a2a670cab112752f9b26213c029b126072a22a436663
 translation_status: reviewed
 aliases:
   - 鸡尾酒复兴
@@ -98,7 +98,7 @@ verification_scope: source-verified
 
 In the 1970s sweet pre-mixes and disco culture pushed classic recipes into the background. In 1987, when the Rainbow Room reopened in New York, Dale DeGroff returned to Jerry Thomas's 1862 approach: fresh juice, house-made syrup, large ice and a restrained menu. That revival, framed as getting the classics right, grew into the craft cocktail movement of the 1990s.
 
-![The Cocktail Revival (1980s): From the Rainbow Room to Craft Bartending category illustration](/media/photos/theme-wine-spirits.jpg)
+![The Cocktail Revival (1980s): From the Rainbow Room to Craft Bartending editorial illustration](/media/figures/specific/visual-047-historical-event-cocktail-revival-1980s.svg)
 
 Figure: The Cocktail Revival (1980s): From the Rainbow Room to Craft Bartending. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

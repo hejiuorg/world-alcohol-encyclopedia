@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:changyu-wine-culture-museum
 source_lang: zh
-source_revision: sha256:23bb2031aa5c2ab78a40b050184bff867876b9cde44827a424caaa44c88b6ffa
-source_sha256: 23bb2031aa5c2ab78a40b050184bff867876b9cde44827a424caaa44c88b6ffa
+source_revision: sha256:530cc8246e852aeacf0835ab73181ec5b8162d7f12510681650e2ce19b773048
+source_sha256: 530cc8246e852aeacf0835ab73181ec5b8162d7f12510681650e2ce19b773048
 translation_status: reviewed
 subtype: museum
 address: 山东省烟台市芝罘区大马路56号
@@ -107,7 +107,7 @@ The Changyu Wine Culture Museum stands at 56 Dama Road in Zhifu District, Yantai
 > - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
 > - Status: Verified; sources checked: 2026-11-08.
 
-![Changyu Wine Culture Museum category illustration](/media/photos/theme-winery.jpg)
+![Changyu Wine Culture Museum editorial illustration](/media/figures/specific/visual-060-place-changyu-wine-culture-museum.svg)
 
 Figure: Changyu Wine Culture Museum. Project-generated or category illustration used for winery and wine venue context; not a photograph of the subject.
 

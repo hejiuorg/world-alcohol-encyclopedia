@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:history-of-world-wine
 source_lang: zh
-source_revision: sha256:b4759a18e93723376e038b73e2b6db9b333c7d1528f9ec0c4e9402cad05b57f5
-source_sha256: b4759a18e93723376e038b73e2b6db9b333c7d1528f9ec0c4e9402cad05b57f5
+source_revision: sha256:56f32416cfec28c5b98bc151b6c5a1f463174711092cdd94674f23f6bdc79e49
+source_sha256: 56f32416cfec28c5b98bc151b6c5a1f463174711092cdd94674f23f6bdc79e49
 translation_status: reviewed
 about_refs:
   - drink-style:wine
@@ -93,7 +93,7 @@ verification_scope: source-verified
 
 The history of world alcohol is often written as three separate lines — wine, beer and spirits — that finally merge into a global market. In fact the three lines influenced one another very early: distillation changed both wine and grain drinks, colonial trade carried sugar cane and rum into Europe, and the Industrial Revolution turned beer from a local workshop product into a national brand. This article takes only a few verifiable turning points, to show how today's drinks world took shape.
 
-![A concise history of world alcohol: from fermented drinks to a global industry thematic illustration](/media/photos/theme-asian.jpg)
+![A concise history of world alcohol: from fermented drinks to a global industry editorial illustration](/media/figures/specific/visual-004-article-history-of-world-wine.svg)
 
 Figure: thematic illustration for A concise history of world alcohol: from fermented drinks to a global industry. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

@@ -96,7 +96,7 @@ verification_scope: source-verified
 
 1949 年以后，中国酒业经历了一次所有制与管理制度的重组：分散的私营酒坊被接管、合并，逐步转为国营或公私合营酒厂；与此同时，酒的生产与销售被纳入专卖体系。这个过程不是一夜完成的，各地节奏不同，直到 1956 年前后才基本定型。
 
-![1949 年后的国营酒厂与酒类专卖 栏目示意图](/media/photos/theme-asian.jpg)
+![1949 年后的国营酒厂与酒类专卖 专属编辑图](/media/figures/specific/visual-051-historical-event-state-owned-distilleries-1949.svg)
 
 图：1949 年后的国营酒厂与酒类专卖栏目示意图。项目自产或类别插图，用于中国酒文化语境，不是该对象的实拍。
 

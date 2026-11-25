@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:speak-low
 source_lang: zh
-source_revision: sha256:8d04dd2f2cd3e0630b2f33b0d09e358c8c887211408ba300bcb06ed9bdbed522
-source_sha256: 8d04dd2f2cd3e0630b2f33b0d09e358c8c887211408ba300bcb06ed9bdbed522
+source_revision: sha256:a7d74774708f10c20473618d3bacbbe2d7aba43295329e9181c228b5b6038695
+source_sha256: a7d74774708f10c20473618d3bacbbe2d7aba43295329e9181c228b5b6038695
 translation_status: reviewed
 subtype: bar
 address: 579 Fuxing Middle Road, Huangpu District, Shanghai 200041
@@ -102,7 +102,7 @@ verification_scope: source-verified
 
 # Speak Low
 
-![Speak Low category illustration](/media/photos/theme-wine-spirits.jpg)
+![Speak Low editorial illustration](/media/figures/specific/visual-066-place-speak-low.svg)
 
 Figure: Speak Low. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

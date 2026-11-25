@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 苦精（bitters）是一种高浓度、以苦味植物为核心的酒精调味液。它通常不直接大口饮用，而是按滴、按 dash 或按几毫升加入鸡尾酒，像厨师用盐和胡椒一样调整整杯酒的香气、苦味和长度。它的酒精度通常不低，风味却极其浓缩；理解苦精，关键不是“苦不苦”，而是“它在整杯酒里做什么”。
 
-![苦精 类型示意图](/media/photos/theme-beer.jpg)
+![苦精 专属编辑图](/media/figures/specific/visual-071-drink-style-bitters.svg)
 
 图：苦精 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是苦精的实拍。
 

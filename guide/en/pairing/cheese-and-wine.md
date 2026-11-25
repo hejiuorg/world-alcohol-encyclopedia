@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: pairing:cheese-and-wine
 source_lang: zh
-source_revision: sha256:915cbaed89c354b2d797fb13cd0b74bed5555225cd2545616f1c2260933da4c7
-source_sha256: 915cbaed89c354b2d797fb13cd0b74bed5555225cd2545616f1c2260933da4c7
+source_revision: sha256:eb0582758f387f7982503ff8f298ad224f6261b0b1347aca7997de68739e7b1a
+source_sha256: eb0582758f387f7982503ff8f298ad224f6261b0b1347aca7997de68739e7b1a
 translation_status: reviewed
 aliases:
   - Cheese and wine
@@ -105,7 +105,7 @@ verification_scope: source-verified
 
 Cheese and wine is often reduced to "red wine with cheese". But cheeses differ enormously: fresh cheeses are watery and mild, blue cheeses are salty and pungent, and hard aged cheeses concentrate umami, fat and salt. The key is not colour but texture, salt, fat and flavour intensity. Look at those four first, then at what is in the glass, and the judgement becomes far more reliable.
 
-![Cheese and Wine: Match Texture, Salt and Fat thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Cheese and Wine: Match Texture, Salt and Fat editorial illustration](/media/figures/specific/visual-075-pairing-cheese-and-wine.svg)
 
 Figure: thematic illustration for Cheese and Wine: Match Texture, Salt and Fat. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

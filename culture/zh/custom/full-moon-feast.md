@@ -79,7 +79,7 @@ verification_scope: source-verified
 
 需要先区分三个时间点：满月、百日、周岁。满月宴在满月前后，百日宴在出生一百天，周岁宴才轮到“抓周”。把三者混成一套流程，是今天常见的误差。
 
-![满月酒 类型示意图](/media/photos/theme-asian.jpg)
+![满月酒 专属编辑图](/media/figures/specific/visual-035-custom-full-moon-feast.svg)
 
 图：满月酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是满月酒的实拍。
 

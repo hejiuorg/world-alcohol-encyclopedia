@@ -100,7 +100,7 @@ verification_scope: source-verified
 
 奶酪和葡萄酒的搭配，常被简化成“红酒配奶酪”。但奶酪的差异很大：新鲜奶酪水分高、味道淡，蓝纹奶酪咸而刺激，硬质熟成奶酪鲜味集中、脂肪与盐都不低。配酒的关键不是颜色，而是质地、咸度、脂肪与风味强度。先看这四项，再看杯子里是什么酒，判断会稳得多。
 
-![奶酪配葡萄酒：按质地、咸度与脂肪搭 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![奶酪配葡萄酒：按质地、咸度与脂肪搭 专属编辑图](/media/figures/specific/visual-075-pairing-cheese-and-wine.svg)
 
 图：奶酪配葡萄酒：按质地、咸度与脂肪搭 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是奶酪配葡萄酒：按质地、咸度与脂肪搭的实拍。
 

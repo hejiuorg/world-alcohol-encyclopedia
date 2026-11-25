@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:trappist-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:74c0ea0879ec15c3d32522443643c2a398de9b6d3d00de4ad364a353f4dfb448
-source_sha256: 74c0ea0879ec15c3d32522443643c2a398de9b6d3d00de4ad364a353f4dfb448
+source_revision: sha256:566702ce5ba54b88f532a7e685e4aea2370a6c1419fd84adf23d3db941a125eb
+source_sha256: 566702ce5ba54b88f532a7e685e4aea2370a6c1419fd84adf23d3db941a125eb
 parent_style_id: drink-style:abbey-beer
 aroma_family: Malt and yeast esters
 legacy_refs: []
@@ -85,7 +85,7 @@ verification_scope: source-verified
 ---
 # Trappist Beer
 
-Trappist beer is not a style defined by colour or strength but a group of [beers](ref:beer) bound by rules of place and supervision: it must be brewed inside a Trappist monastery, made by monks or under their oversight, with proceeds used for the monastery and for social work. Only six breweries may currently use the Authentic Trappist Product (ATP) mark, and they are located in [Belgium](ref:belgium) and the Netherlands.![Trappist Beer thematic illustration](/media/photos/theme-beer.jpg)
+Trappist beer is not a style defined by colour or strength but a group of [beers](ref:beer) bound by rules of place and supervision: it must be brewed inside a Trappist monastery, made by monks or under their oversight, with proceeds used for the monastery and for social work. Only six breweries may currently use the Authentic Trappist Product (ATP) mark, and they are located in [Belgium](ref:belgium) and the Netherlands.![Trappist Beer editorial illustration](/media/figures/specific/visual-074-drink-style-trappist-beer.svg)
 
 Figure: thematic illustration for Trappist Beer. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

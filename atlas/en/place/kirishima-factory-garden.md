@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kirishima-factory-garden
 source_lang: zh
-source_revision: sha256:31b9558c4e0369c5c4d5f329d239241eb9508d504342781afa237a82cfc3ab4b
-source_sha256: 31b9558c4e0369c5c4d5f329d239241eb9508d504342781afa237a82cfc3ab4b
+source_revision: sha256:3702b415dafaba81f945612a4daa272f9837e4077e2cb5b7a1b5a962f86e787c
+source_sha256: 3702b415dafaba81f945612a4daa272f9837e4077e2cb5b7a1b5a962f86e787c
 translation_status: reviewed
 subtype: distillery-visitor
 address: 宮崎県都城市志比田町5480番地
@@ -99,7 +99,7 @@ verification_scope: source-verified
 
 Kirishima Factory Garden is officially Shochu-no-Sato Kirishima Factory Garden, at 5480 Shibitacho in Miyakonojo, Miyazaki Prefecture, [Japan](ref:japan). It is often mistaken for the Kirishima Shuzo head office in Kirishima, Kagoshima, but it is a separate visitor site: about ten minutes west of the head office by car, and about five minutes by car from KIRISHIMA GREENSHIP icoia on National Route 10, so navigation should use the name Kirishima Factory Garden directly. Tours, restaurants, shops and gardens share one site, with the walking factory KIRISHIMA WALK FACTORY at the centre.
 
-![Kirishima Factory Garden category illustration](/media/photos/theme-asian.jpg)
+![Kirishima Factory Garden editorial illustration](/media/figures/specific/visual-064-place-kirishima-factory-garden.svg)
 
 Figure: Kirishima Factory Garden. Project-generated or category illustration used for Asian alcohol context; not a photograph of the subject.
 

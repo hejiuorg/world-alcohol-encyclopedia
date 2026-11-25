@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 蒸馏技术的历史因此不是“谁先发明”的单线故事，而是多条路线在不同地区交汇：希腊化时期的亚历山大里亚、伊斯兰世界的炼金术、中世纪欧洲的药用蒸馏、大西洋贸易中的朗姆酒、东亚的烧酒，以及 19 世纪的工业蒸馏。
 
-![蒸馏技术传播：从炼金术到全球烈酒 类型示意图](/media/photos/theme-asian.jpg)
+![蒸馏技术传播：从炼金术到全球烈酒 专属编辑图](/media/figures/specific/visual-007-article-spread-of-distillation.svg)
 
 图：蒸馏技术传播：从炼金术到全球烈酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是蒸馏技术传播：从炼金术到全球烈酒的实拍。
 

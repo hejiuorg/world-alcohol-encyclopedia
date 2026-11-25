@@ -76,7 +76,7 @@ verification_scope: source-verified
 
 这篇文章以美国 1920 至 1933 年的全国禁酒为主线，再对照其他国家的经验，最后回到中国历史上的酒禁与专卖。
 
-![禁酒令：禁令改变供给，不消灭需求 类型示意图](/media/photos/theme-asian.jpg)
+![禁酒令：禁令改变供给，不消灭需求 专属编辑图](/media/figures/specific/visual-011-article-prohibition.svg)
 
 图：禁酒令：禁令改变供给，不消灭需求 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是禁酒令：禁令改变供给，不消灭需求的实拍。
 

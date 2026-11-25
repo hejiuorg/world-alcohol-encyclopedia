@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 中元节在农历七月十五，民间常叫“七月半”。这一天，道教称中元，佛教称盂兰盆，民间则把它过成一个祭祖、追思与施舍的节日。酒在中元节的位置很明确：它不是用来热闹的，而是用来“奉”的。一杯酒斟给祖先，或洒在地上，动作很小，却把抽象的思念变成了可见的仪式。
 
-![中元节与酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![中元节与酒 专属编辑图](/media/figures/specific/visual-031-custom-zhongyuan-festival-wine.svg)
 
 图：中元节与酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是中元节与酒的实拍。
 

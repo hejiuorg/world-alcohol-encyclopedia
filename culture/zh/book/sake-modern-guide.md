@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 《清酒现代指南》的英文原书题为 Sake: A Modern Guide。它试图用一本篇幅不大的书，把清酒从“陌生的日本酒”变成可以理解、可以点单、可以配餐的饮品。它的切入点不是品牌排行榜，而是酿造过程：米被磨到什么程度，曲如何把淀粉变成糖，水与酵母如何影响风味，为什么要“并行发酵”。理解了这些，酒标上的“纯米”“吟酿”“大吟酿”才不再是难记的名词。
 
-![清酒现代指南 类型示意图](/media/photos/theme-asian.jpg)
+![清酒现代指南 专属编辑图](/media/figures/specific/visual-018-book-sake-modern-guide.svg)
 
 图：清酒现代指南 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是清酒现代指南的实拍。
 

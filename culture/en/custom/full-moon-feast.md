@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: custom:full-moon-feast
 source_lang: zh
-source_revision: sha256:f8e99a28d4e56f7ecda1d9fe62aee5e3e149c5f6499f3e61623a10e5217bbda6
-source_sha256: f8e99a28d4e56f7ecda1d9fe62aee5e3e149c5f6499f3e61623a10e5217bbda6
+source_revision: sha256:910e27318644a0ad5809cf54b60a23e9db3915576539d8fdb5d0b2f3818bbeba
+source_sha256: 910e27318644a0ad5809cf54b60a23e9db3915576539d8fdb5d0b2f3818bbeba
 translation_status: reviewed
 region_refs:
   - region:china
@@ -82,7 +82,7 @@ The full-moon feast is a banquet held when a baby reaches one month old. It is a
 
 Three dates need separating: the full moon, the hundredth day and the first birthday. The full-moon feast belongs to the first month, the hundred-day feast to the hundredth day, and the “grabbing” ceremony to the first birthday. Merging them into one script is a common modern error.
 
-![Full-moon feast thematic illustration](/media/photos/theme-asian.jpg)
+![Full-moon feast editorial illustration](/media/figures/specific/visual-035-custom-full-moon-feast.svg)
 
 Figure: thematic illustration for Full-moon feast. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

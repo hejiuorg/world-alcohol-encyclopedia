@@ -83,7 +83,7 @@ event_status: past
 
 2026 年 9 月 12 日至 10 月 18 日，花神咖啡馆的历史厅举办 Pierpaolo Seguso 的玻璃雕塑展“Sogni Veneziani”（威尼斯之梦）。展览属于 2026 年第十届威尼斯玻璃周（The Venice Glass Week）的城市节目之一，但展期比玻璃周本身更长：玻璃周在 9 月 12 日至 20 日举行，展览则延续到 10 月 18 日。展览免费、无需预约，开放时间随咖啡馆每日 9:00–23:00。活动已经结束，本页记录当届安排与规则。
 
-![花神咖啡馆的玻璃艺术展：Sogni Veneziani 2026 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![花神咖啡馆的玻璃艺术展：Sogni Veneziani 2026 专属编辑图](/media/figures/specific/visual-038-event-caffe-florian-sogni-veneziani-2026.svg)
 
 图：花神咖啡馆的玻璃艺术展：Sogni Veneziani 2026栏目示意图。项目自产或类别插图，用于酒吧与餐饮语境，不是该对象的实拍。
 

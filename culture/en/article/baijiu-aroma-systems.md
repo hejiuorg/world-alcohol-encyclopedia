@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:baijiu-aroma-systems
 source_lang: zh
-source_revision: sha256:fb1153ec9cec0ebd2a18ebd6f264fcdb3b362e42b83b312ef570cf3a920e6855
-source_sha256: fb1153ec9cec0ebd2a18ebd6f264fcdb3b362e42b83b312ef570cf3a920e6855
+source_revision: sha256:c25a27d985fac6d61ab478d74d1ebf4730f5c0535e6982f486e73a4a0ce435cf
+source_sha256: c25a27d985fac6d61ab478d74d1ebf4730f5c0535e6982f486e73a4a0ce435cf
 translation_status: reviewed
 about_refs:
   - drink-style:baijiu
@@ -95,7 +95,7 @@ verification_scope: source-verified
 
 On a baijiu shelf, “strong aroma”, “light aroma” and “sauce aroma” are among the most frequent words. They look like grades, but they are closer to a classification language describing aromatic styles and craft traditions. Understanding that language helps a drinker know what is in the bottle and avoids mistaking an aroma type for a guarantee of quality.
 
-![Baijiu aroma systems: how to read strong, light, sauce and rice aromas thematic illustration](/media/photos/theme-asian.jpg)
+![Baijiu aroma systems: how to read strong, light, sauce and rice aromas editorial illustration](/media/figures/specific/visual-001-article-baijiu-aroma-systems.svg)
 
 Figure: thematic illustration for Baijiu aroma systems: how to read strong, light, sauce and rice aromas. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

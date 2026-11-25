@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: book:world-atlas-of-wine
 source_lang: zh
-source_revision: sha256:3777996080940150dc97c893ea680d0c31e0c9297be914cf1c945f0b2ad07b7e
-source_sha256: 3777996080940150dc97c893ea680d0c31e0c9297be914cf1c945f0b2ad07b7e
+source_revision: sha256:39eef3ea9f00d79da4a33b4dee29bd6ab0efdb751046faa2e51fbbc626c6d7a5
+source_sha256: 39eef3ea9f00d79da4a33b4dee29bd6ab0efdb751046faa2e51fbbc626c6d7a5
 translation_status: reviewed
 author_names:
   - Hugh Johnson
@@ -80,7 +80,7 @@ verification_scope: source-verified
 ---
 # The World Atlas of Wine
 
-The World Atlas of Wine is a reference organised around geography: it uses terrain, climate, soil and administrative boundaries to explain why wine in a place tastes the way it does. “Atlas” in the title is not decoration but method: look at the place first, then discuss style. For readers in translation, the book is also a regional encyclopaedia, and the edition and the rendering of place names matter as much as the text.![The World Atlas of Wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+The World Atlas of Wine is a reference organised around geography: it uses terrain, climate, soil and administrative boundaries to explain why wine in a place tastes the way it does. “Atlas” in the title is not decoration but method: look at the place first, then discuss style. For readers in translation, the book is also a regional encyclopaedia, and the edition and the rendering of place names matter as much as the text.![The World Atlas of Wine editorial illustration](/media/figures/specific/visual-025-book-world-atlas-of-wine.svg)
 
 Figure: thematic illustration for The World Atlas of Wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

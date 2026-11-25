@@ -92,7 +92,7 @@ verification_scope: source-verified
 
 比索尔（Bisol1542）在瓦尔多比亚德内的圣斯特凡诺，地址是 Via Follo 33。它把“家族”写成品牌核心：官方叙述称家族在普罗塞克核心地带的活动可追溯到 16 世纪，并以 1542 年作为 Bisol1542 的起点；同一片坡地上，家族已经延续了二十多代。2014 年，酒庄加入 Lunelli 集团，但历史酒窖、葡萄园与品牌仍以比索尔的名字运转。对访客来说，这里既是酒庄，也是理解“陡坡普罗塞克”为什么贵的入口。
 
-![比索尔酒庄 栏目示意图](/media/photos/theme-vineyard.jpg)
+![比索尔酒庄 专属编辑图](/media/figures/specific/visual-063-place-bisola-valdobbiadene.svg)
 
 图：比索尔酒庄栏目示意图。项目自产或类别插图，用于葡萄园与产区语境，不是该对象的实拍。
 

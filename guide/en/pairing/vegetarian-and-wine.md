@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: pairing:vegetarian-and-wine
 source_lang: zh
-source_revision: sha256:753cb553194131feb1cd696868cdba60373652ba05fdb3289465606ccdc110b5
-source_sha256: 753cb553194131feb1cd696868cdba60373652ba05fdb3289465606ccdc110b5
+source_revision: sha256:73100192115d17ce1cea8f69f530bf408bfd1bd1210f3d2400870f679cebb4f5
+source_sha256: 73100192115d17ce1cea8f69f530bf408bfd1bd1210f3d2400870f679cebb4f5
 translation_status: reviewed
 aliases:
   - Vegetarian food and wine
@@ -104,7 +104,7 @@ verification_scope: source-verified
 
 Vegetarian food is not one uniform flavour. Steamed vegetables, roasted roots, tomato and bean stews, mushrooms, tofu, tempeh and spicy curries differ widely in intensity, acidity, bitterness and umami. When pairing, first ask what kind of ingredient is on the plate, then look at the wine's acidity, tannin and body; that is more reliable than the blanket statement that vegetables go with white wine.
 
-![Vegetarian Food and Wine: A Logic of Vegetables, Pulses and Mushrooms thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Vegetarian Food and Wine: A Logic of Vegetables, Pulses and Mushrooms editorial illustration](/media/figures/specific/visual-079-pairing-vegetarian-and-wine.svg)
 
 Figure: thematic illustration for Vegetarian Food and Wine: A Logic of Vegetables, Pulses and Mushrooms. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

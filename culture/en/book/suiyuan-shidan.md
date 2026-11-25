@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: book:suiyuan-shidan
 source_lang: zh
-source_revision: sha256:fc77fa1502c81bb63d09902730239b214246e4fad4c3b55e124c36ba1d9ca508
-source_sha256: fc77fa1502c81bb63d09902730239b214246e4fad4c3b55e124c36ba1d9ca508
+source_revision: sha256:125d3cb483f227a48db62a0b80d19f1208653d03dc6d26ee187487d92b3a51f8
+source_sha256: 125d3cb483f227a48db62a0b80d19f1208653d03dc6d26ee187487d92b3a51f8
 translation_status: reviewed
 author_names:
   - Yuan Mei
@@ -92,7 +92,7 @@ verification_scope: source-verified
 ---
 # Suiyuan Shidan (tea and wine list)
 
-Suiyuan Shidan is Yuan Mei's Qing notes on food, first printed in 1792. It is divided into a list of principles, a list of prohibitions and lists of ingredients, snacks, rice and porridge, tea and wine, recording methods, judgements and food ideas. The list directly relevant to wine is the “tea and wine list”: it does not discuss qu or fermentation, but what wine is good, on what occasion to drink it and how to match it with food.![Suiyuan Shidan (tea and wine list) thematic illustration](/media/photos/theme-wine-spirits.jpg)
+Suiyuan Shidan is Yuan Mei's Qing notes on food, first printed in 1792. It is divided into a list of principles, a list of prohibitions and lists of ingredients, snacks, rice and porridge, tea and wine, recording methods, judgements and food ideas. The list directly relevant to wine is the “tea and wine list”: it does not discuss qu or fermentation, but what wine is good, on what occasion to drink it and how to match it with food.![Suiyuan Shidan (tea and wine list) editorial illustration](/media/figures/specific/visual-023-book-suiyuan-shidan.svg)
 
 Figure: thematic illustration for Suiyuan Shidan (tea and wine list). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

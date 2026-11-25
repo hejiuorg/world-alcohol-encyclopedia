@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: custom:sacrificial-wine
 source_lang: zh
-source_revision: sha256:591420ffc864ff527835253341e82f73cca86d44223964aacac5775260105b70
-source_sha256: 591420ffc864ff527835253341e82f73cca86d44223964aacac5775260105b70
+source_revision: sha256:4d7fefec2697319ad7b1081afd5671b5e02e97981c0304f9b5d9b047793af272
+source_sha256: 4d7fefec2697319ad7b1081afd5671b5e02e97981c0304f9b5d9b047793af272
 translation_status: reviewed
 region_refs:
   - region:china
@@ -87,7 +87,7 @@ Sacrificial wine is offered to ancestors, spirits and sages. It differs from eve
 
 The word itself needs care. As a common noun, “sacrificial wine” is the wine used in sacrifice. As a verb, it means to make an offering with wine. As an official title, the same two characters in Chinese also denoted a senior academic or departmental post, such as the head of the Imperial College. The three senses look alike but are different, and context decides which is meant.
 
-![Sacrificial wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Sacrificial wine editorial illustration](/media/figures/specific/visual-037-custom-sacrificial-wine.svg)
 
 Figure: thematic illustration for Sacrificial wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

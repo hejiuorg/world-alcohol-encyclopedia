@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 《葡萄酒与战争》的英文原书有一个很长的副标题，大意是“法国人、纳粹与一场争夺法国最珍贵财富的战争”。它讲的不是战役，而是 1940 至 1944 年德军占领法国期间，酒农、酒商与酒庄如何设法保住葡萄园、库存与生意。酒在这里既是商品，也是国家身份的一部分；正因如此，它才会成为占领者、维希政府、抵抗者与普通家庭之间反复争夺的对象。
 
-![葡萄酒与战争 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![葡萄酒与战争 专属编辑图](/media/figures/specific/visual-019-book-wine-and-war.svg)
 
 图：葡萄酒与战争 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是葡萄酒与战争的实拍。
 

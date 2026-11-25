@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:bisola-valdobbiadene
 source_lang: zh
-source_revision: sha256:0b7683f68995249df8d5a6df2e4de0f8b71161345091ad07b559fc0242a20d21
-source_sha256: 0b7683f68995249df8d5a6df2e4de0f8b71161345091ad07b559fc0242a20d21
+source_revision: sha256:d07b6c5e78ca5387f8d64f85e2a8de0ed13039c3cc1e586ff03fe81956f30d9e
+source_sha256: d07b6c5e78ca5387f8d64f85e2a8de0ed13039c3cc1e586ff03fe81956f30d9e
 translation_status: reviewed
 subtype: winery-visitor
 address: Via Follo 33, 31049 Valdobbiadene (TV), Italy
@@ -98,7 +98,7 @@ verification_scope: source-verified
 
 Bisol1542 stands in Santo Stefano di Valdobbiadene, at Via Follo 33. It puts the family at the centre of its identity: the official account traces the family's presence in the Prosecco heartland back to the sixteenth century and uses 1542 as the starting point of the Bisol1542 name; more than twenty generations have worked the same slopes. In 2014 the winery joined the Lunelli Group, but the historic cellar, vineyards and brand still operate under the Bisol name. For a visitor it is both a winery and an introduction to why steep-slope Prosecco costs what it does.
 
-![Bisol category illustration](/media/photos/theme-vineyard.jpg)
+![Bisol editorial illustration](/media/figures/specific/visual-063-place-bisola-valdobbiadene.svg)
 
 Figure: Bisol. Project-generated or category illustration used for vineyard and wine region context; not a photograph of the subject.
 

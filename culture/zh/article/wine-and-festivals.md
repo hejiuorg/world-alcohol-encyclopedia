@@ -93,7 +93,7 @@ verification_scope: source-verified
 
 这篇文章按四个节令来读。每一种酒都同时有药用、礼仪与社交三层含义，而这三层在不同时代的比重并不相同。
 
-![酒与节庆：节令酒里的时间表 类型示意图](/media/photos/theme-beer.jpg)
+![酒与节庆：节令酒里的时间表 专属编辑图](/media/figures/specific/visual-013-article-wine-and-festivals.svg)
 
 图：酒与节庆：节令酒里的时间表 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是酒与节庆：节令酒里的时间表的实拍。
 

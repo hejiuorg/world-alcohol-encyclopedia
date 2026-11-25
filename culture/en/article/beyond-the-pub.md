@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: culture-article:beyond-the-pub
 source_lang: zh
-source_revision: sha256:cf41f045dcc1af51413c0b19b7505a2c75eed8dd800f48e675ae282d2384dda3
-source_sha256: cf41f045dcc1af51413c0b19b7505a2c75eed8dd800f48e675ae282d2384dda3
+source_revision: sha256:9d77010c7d55b9b627e39b1057ce696e1edaa7722518b1cbae6ea0cfaf8a9854
+source_sha256: 9d77010c7d55b9b627e39b1057ce696e1edaa7722518b1cbae6ea0cfaf8a9854
 translation_status: reviewed
 about_refs:
   - place:schlenkerla
@@ -77,7 +77,7 @@ verification_scope: source-verified
 ---
 # Beyond the bar: following a drink to where it is made
 
-At a bar, a drink is a finished product: right temperature, right glass, right price. At the place of production it is taken apart: malt, water, yeast, stills, casks, fermentation tanks, harvest dates and the judgements of the people working there. The value of a production visit is not that you have “seen it”, but that flavour turns from an adjective into a process you can question.![Beyond the bar: following a drink to where it is made thematic illustration](/media/photos/theme-asian.jpg)
+At a bar, a drink is a finished product: right temperature, right glass, right price. At the place of production it is taken apart: malt, water, yeast, stills, casks, fermentation tanks, harvest dates and the judgements of the people working there. The value of a production visit is not that you have “seen it”, but that flavour turns from an adjective into a process you can question.![Beyond the bar: following a drink to where it is made editorial illustration](/media/figures/specific/visual-010-article-beyond-the-pub.svg)
 
 Figure: thematic illustration for Beyond the bar: following a drink to where it is made. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

@@ -91,7 +91,7 @@ verification_scope: source-verified
 
 也正因为“菊花酒”是类名，读古籍时不能把某一家的做法当成全国标准。汉代的酿法、宋代的市售酒、今天家庭用白酒浸泡的做法，三者之间既有延续，也有断裂。
 
-![重阳菊花酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![重阳菊花酒 专属编辑图](/media/figures/specific/visual-033-custom-double-ninth-chrysanthemum-wine.svg)
 
 图：重阳菊花酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是重阳菊花酒的实拍。
 

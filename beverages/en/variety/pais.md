@@ -23,8 +23,8 @@ tags:
 translation_of: variety:pais
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:753d802bcfae4dd4322f3d0ea138b742f641ae4feb6d53140e0079157b8013f1
-source_sha256: 753d802bcfae4dd4322f3d0ea138b742f641ae4feb6d53140e0079157b8013f1
+source_revision: sha256:28b893a2c91218cb8a13d6e5ca13d6a9dae537e4ddd8771a7ce907fc4a9940d4
+source_sha256: 28b893a2c91218cb8a13d6e5ca13d6a9dae537e4ddd8771a7ce907fc4a9940d4
 related:
   - relation: about
     target_id: region:itata
@@ -107,7 +107,7 @@ verification_scope: source-verified
 
 País is one of Chile's oldest cultivated red grapes, today preserved mainly in dry old vineyards of Maule, Itata and Bío-Bío in the south. Its thin skins give a pale colour, acidity stays bright and tannins stay soft; red cherry, strawberry, dried herbs, white pepper and earth are the usual notes. It was the workhorse of Chile's bulk-wine era and has been reassessed in the recent natural-wine revival.
 
-![País category illustration](/media/photos/theme-grapes.jpg)
+![País editorial illustration](/media/figures/specific/visual-068-variety-pais.svg)
 
 Figure: País. Project-generated or category illustration used for grapes context; not a photograph of the subject.
 

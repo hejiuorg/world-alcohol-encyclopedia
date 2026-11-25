@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: pairing:mexican-food-and-beer
 source_lang: zh
-source_revision: sha256:3626a2ce34d26398e0e641658946d27d62a35f6424a505aeb4b168ca71c14bfe
-source_sha256: 3626a2ce34d26398e0e641658946d27d62a35f6424a505aeb4b168ca71c14bfe
+source_revision: sha256:825dd695faeae3bd974267b5ac6a346618fd3e9120f283fadaa451f96e36d245
+source_sha256: 825dd695faeae3bd974267b5ac6a346618fd3e9120f283fadaa451f96e36d245
 translation_status: reviewed
 aliases:
   - Mexican food and beer
@@ -95,7 +95,7 @@ verification_scope: source-verified
 ---
 # Mexican Food and Beer: Maize, Chilli and Lime in Balance
 
-Mexican food is built on maize, beans, chilli, tomato, lime, coriander and fat. It ranges from fresh sour-hot dishes to slow-cooked richness and cheese-laden fat. The bubbles, bitterness and malt sweetness of beer can answer each of these layers. The key is not "the colder the better" but choosing a style by the dish's heat, fat and concentration.![Mexican Food and Beer: Maize, Chilli and Lime in Balance thematic illustration](/media/photos/theme-beer.jpg)
+Mexican food is built on maize, beans, chilli, tomato, lime, coriander and fat. It ranges from fresh sour-hot dishes to slow-cooked richness and cheese-laden fat. The bubbles, bitterness and malt sweetness of beer can answer each of these layers. The key is not "the colder the better" but choosing a style by the dish's heat, fat and concentration.![Mexican Food and Beer: Maize, Chilli and Lime in Balance editorial illustration](/media/figures/specific/visual-077-pairing-mexican-food-and-beer.svg)
 
 Figure: thematic illustration for Mexican Food and Beer: Maize, Chilli and Lime in Balance. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

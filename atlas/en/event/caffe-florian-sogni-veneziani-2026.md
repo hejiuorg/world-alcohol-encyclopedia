@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: event:caffe-florian-sogni-veneziani-2026
 source_lang: zh
-source_revision: sha256:5c8f4f74f0a2656c62054cab28146c31ee17420a709589bf8b54083539ae6e7a
-source_sha256: 5c8f4f74f0a2656c62054cab28146c31ee17420a709589bf8b54083539ae6e7a
+source_revision: sha256:25f0cb410ea2edcf260d2f9a6b713196d17164ee74d73c08634091501ed5e42a
+source_sha256: 25f0cb410ea2edcf260d2f9a6b713196d17164ee74d73c08634091501ed5e42a
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -87,7 +87,7 @@ event_status: past
 
 From 12 September to 18 October 2026, Caffè Florian's historic rooms hosted “Sogni Veneziani”, a glass sculpture exhibition by Pierpaolo Seguso. It was one of the city events in the tenth edition of The Venice Glass Week, though the exhibition outlasted the festival itself: the festival ran from 12 to 20 September, while the display continued to 18 October. Admission was free and no reservation was required, with opening following the café's daily hours, 9:00–23:00. The event has ended, and this event records the 2026 edition's arrangements and rules.
 
-![Sogni Veneziani: a glass exhibition at Caffè Florian in 2026 category illustration](/media/photos/theme-wine-spirits.jpg)
+![Sogni Veneziani: a glass exhibition at Caffè Florian in 2026 editorial illustration](/media/figures/specific/visual-038-event-caffe-florian-sogni-veneziani-2026.svg)
 
 Figure: Sogni Veneziani: a glass exhibition at Caffè Florian in 2026. Project-generated or category illustration used for bar and dining context; not a photograph of the subject.
 

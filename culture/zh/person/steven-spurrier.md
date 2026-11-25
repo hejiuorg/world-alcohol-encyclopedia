@@ -83,7 +83,7 @@ verification_scope: source-verified
 
 史蒂文·斯珀里尔（Steven Spurrier，1941—2021）是英国葡萄酒商人、教育者与作家。他长期在巴黎经营酒铺与葡萄酒学校，因 1976 年组织“巴黎审判”盲品而被广泛记住；此后又在 Decanter 参与评奖与写作，成为连接旧世界传统与新世界酒业的重要人物。
 
-![史蒂文·斯珀里尔 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![史蒂文·斯珀里尔 专属编辑图](/media/figures/specific/visual-059-person-steven-spurrier.svg)
 
 图：史蒂文·斯珀里尔栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

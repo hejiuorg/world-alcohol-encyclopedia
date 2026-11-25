@@ -101,7 +101,7 @@ verification_scope: source-verified
 
 加里·里根（Gary Regan，1951—2019），圈内常叫他 Gaz Regan，是英裔美国调酒师、作者与教师。他的贡献不在某一杯具体的酒，而在“怎么把鸡尾酒讲清楚”：他把配方整理成有规则的家族，让调酒师可以推演、修改与教学，而不必死记硬背。他写书、办课、做苦精，也长期在报纸和杂志上记录酒吧生活。
 
-![加里·里根 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![加里·里根 专属编辑图](/media/figures/specific/visual-055-person-gary-regan.svg)
 
 图：加里·里根栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

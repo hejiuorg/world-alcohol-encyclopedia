@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: custom:birthday-wine
 source_lang: zh
-source_revision: sha256:d4024f68254af1e528249f7c61de59ca57ccc7f4f935ffa9622afbb670d53fd6
-source_sha256: d4024f68254af1e528249f7c61de59ca57ccc7f4f935ffa9622afbb670d53fd6
+source_revision: sha256:965b3e5aec2a981dcdcb53f440c71ac79cc6499888fa186519b2489b8ca80b4c
+source_sha256: 965b3e5aec2a981dcdcb53f440c71ac79cc6499888fa186519b2489b8ca80b4c
 translation_status: reviewed
 region_refs:
   - region:china
@@ -87,7 +87,7 @@ Birthday wine is the wine of birthday and milestone banquets. Its point is not d
 
 The term also has a literal sense: wine specially set aside for a birthday. It can be a family's own aged stock or a bought gift bottle, expensive or plain. Whether a banquet is “proper” depends on seating, forms of address and the order of toasts, not on the price of the wine.
 
-![Birthday wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Birthday wine editorial illustration](/media/figures/specific/visual-032-custom-birthday-wine.svg)
 
 Figure: thematic illustration for Birthday wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

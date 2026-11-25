@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: event:florian-bocelli-2026
 source_lang: zh
-source_revision: sha256:aaf0713c109d54620fb02eae0a11d1e84bf0dd4a3bf12e828988b73db88af88e
-source_sha256: aaf0713c109d54620fb02eae0a11d1e84bf0dd4a3bf12e828988b73db88af88e
+source_revision: sha256:a5cd69400cf1a8d1e94ff74454939d9abbbcae7048e45270dfeb6ed5cc69668d
+source_sha256: a5cd69400cf1a8d1e94ff74454939d9abbbcae7048e45270dfeb6ed5cc69668d
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -86,7 +86,7 @@ event_status: past
 
 On the evening of 27 June 2026, Andrea Bocelli performed in Piazza San Marco in Venice. It was one of the 2026 summer “Concerti in Piazza” series at Caffè Florian, which opened its terrace and arcade seats to the audience at 200 euros per person. The performance has ended, and this event records that year's arrangements and rules.
 
-![Andrea Bocelli in Piazza San Marco: a Caffè Florian concert in 2026 category illustration](/media/photos/theme-wine-spirits.jpg)
+![Andrea Bocelli in Piazza San Marco: a Caffè Florian concert in 2026 editorial illustration](/media/figures/specific/visual-041-event-florian-bocelli-2026.svg)
 
 Figure: Andrea Bocelli in Piazza San Marco: a Caffè Florian concert in 2026. Project-generated or category illustration used for bar and dining context; not a photograph of the subject.
 

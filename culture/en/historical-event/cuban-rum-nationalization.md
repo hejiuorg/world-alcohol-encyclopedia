@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:cuban-rum-nationalization
 source_lang: zh
-source_revision: sha256:bfdb1cc6641739239cfe2589d7a8f8876dd45655f037e524a1a8b8a7a1d27d56
-source_sha256: bfdb1cc6641739239cfe2589d7a8f8876dd45655f037e524a1a8b8a7a1d27d56
+source_revision: sha256:c003f6ce91f9fa76b1d10cd1d3430d6c04164f36656c7c6ca707325a92dc36fc
+source_sha256: c003f6ce91f9fa76b1d10cd1d3430d6c04164f36656c7c6ca707325a92dc36fc
 translation_status: reviewed
 aliases:
   - 哈瓦那俱乐部国有化
@@ -84,7 +84,7 @@ verification_scope: source-verified
 
 Havana Club is the best-known Cuban rum brand and the subject of one of the longest-running trademark disputes in the spirits trade. Its story is told in two versions: the Cuban government and Pernod Ricard stress nationalisation after the revolution and global success, while the exiled Arechabala family and Bacardi stress uncompensated expropriation and a "stolen" brand. Both versions rest on the same events — the brand's creation in 1934, the 1959 revolution, the 1960 nationalisation, the 1993 joint venture and the 1997 trademark transfer — but characterise them in completely different ways.
 
-![The Nationalisation of Cuban Rum: From the Arechabala Family to Two Havana Clubs category illustration](/media/photos/theme-wine-spirits.jpg)
+![The Nationalisation of Cuban Rum: From the Arechabala Family to Two Havana Clubs editorial illustration](/media/figures/specific/visual-049-historical-event-cuban-rum-nationalization.svg)
 
 Figure: The Nationalisation of Cuban Rum: From the Arechabala Family to Two Havana Clubs. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

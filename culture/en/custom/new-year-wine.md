@@ -13,8 +13,8 @@ region_refs:
 period: Recorded at least from the Southern Dynasties; the custom continued into modern times
 translation_of: custom:new-year-wine
 source_lang: zh
-source_revision: sha256:f75554ddd45299de081e1156192c9c0ff2150d0450c44987cf8325c07d6fed2b
-source_sha256: f75554ddd45299de081e1156192c9c0ff2150d0450c44987cf8325c07d6fed2b
+source_revision: sha256:c7565d698becb73b770f65f85620242e36a5b247e06cb3319e28d6d58ac37244
+source_sha256: c7565d698becb73b770f65f85620242e36a5b247e06cb3319e28d6d58ac37244
 translation_status: reviewed
 aliases:
   - 屠苏酒
@@ -78,7 +78,7 @@ verification_scope: source-verified
 
 Drinking on the first day of the first lunar month has a long documentary history in China. The Jingchu Suishi Ji, written by Zong Lin of the Liang, describes the day: “old and young all set their caps and robes in order and pay their respects in turn. They offer pepper-and-cypress wine and drink peach broth. They offer tusu wine.” It also notes specifically that “the order of drinking begins with the youngest”. The passage brings three things together: the etiquette of greeting, the medicine of plague protection, and an order of serving that runs against age. Understanding New Year drinking means starting from all three.
 
-![New Year Drinking: Pepper-and-Cypress Wine and Tusu Wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![New Year Drinking: Pepper-and-Cypress Wine and Tusu Wine editorial illustration](/media/figures/specific/visual-029-custom-new-year-wine.svg)
 
 Figure: thematic illustration for New Year Drinking: Pepper-and-Cypress Wine and Tusu Wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

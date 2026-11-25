@@ -69,7 +69,7 @@ verification_scope: source-verified
 
 正月初一饮酒，在中国有很长的记载传统。南朝梁宗懔《荆楚岁时记》写这一天“长幼悉正衣冠，以次拜贺。进椒柏酒，饮桃汤。进屠苏酒”，并特别记下“凡饮酒次第，从小起”。这段话把三种东西放在一起：拜贺的礼、驱疫的药、以及一套与年龄相反的上酒次序。理解年节饮酒，要从这三层同时入手。
 
-![年节饮酒：椒柏酒与屠苏酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![年节饮酒：椒柏酒与屠苏酒 专属编辑图](/media/figures/specific/visual-029-custom-new-year-wine.svg)
 
 图：年节饮酒：椒柏酒与屠苏酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是年节饮酒：椒柏酒与屠苏酒的实拍。
 

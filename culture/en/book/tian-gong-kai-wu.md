@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: book:tian-gong-kai-wu
 source_lang: zh
-source_revision: sha256:762ca0f690636adebde00691648c75b6fc307875a000261c94ecf5690bad23fb
-source_sha256: 762ca0f690636adebde00691648c75b6fc307875a000261c94ecf5690bad23fb
+source_revision: sha256:583480181d08c94f81548c53a7e71fd1152decf38de0ea5feee77473bdd7288b
+source_sha256: 583480181d08c94f81548c53a7e71fd1152decf38de0ea5feee77473bdd7288b
 translation_status: reviewed
 author_names:
   - Song Yingxing
@@ -85,7 +85,7 @@ verification_scope: source-verified
 
 Tian Gong Kai Wu is a technological compendium compiled by Song Yingxing in the Ming dynasty and first printed in 1637. It is divided by branches of production, with chapters on grain, textiles, dyeing, salt, sugar, ceramics, metallurgy, ships, paper and weapons. The chapter directly relevant to wine is the seventeenth, on qu and malt, which records the making of wine qu and red qu and is a key text for understanding late-imperial qu-making.
 
-![Tian Gong Kai Wu (chapter on qu and malt) thematic illustration](/media/photos/theme-asian.jpg)
+![Tian Gong Kai Wu (chapter on qu and malt) editorial illustration](/media/figures/specific/visual-024-book-tian-gong-kai-wu.svg)
 
 Figure: thematic illustration for Tian Gong Kai Wu (chapter on qu and malt). Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

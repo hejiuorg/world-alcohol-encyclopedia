@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 《天工开物》是明代宋应星编纂的技术百科，崇祯十年（1637）初刻。全书按生产部门分篇，谷物、纺织、染色、制盐、制糖、陶瓷、冶铸、舟车、造纸、兵器皆有专篇。与酒关系最直接的是第十七篇《曲糵》：它记录酒曲与红曲的制作，是理解明清制曲技术的关键文本。
 
-![天工开物（曲糵篇） 类型示意图](/media/photos/theme-asian.jpg)
+![天工开物（曲糵篇） 专属编辑图](/media/figures/specific/visual-024-book-tian-gong-kai-wu.svg)
 
 图：天工开物（曲糵篇） 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是天工开物（曲糵篇）的实拍。
 

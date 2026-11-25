@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 《醉酒的植物学家》的英文原书题为 The Drunken Botanist: The Plants That Create the World's Great Drinks。书名里的“植物学家”不是修辞：作者真的从植物出发，追问一杯酒从哪里来。麦子、玉米、稻米、甘蔗、龙舌兰、葡萄、苹果、杜松、香料与树皮，先被种植、收获、处理，再经过发酵、蒸馏或浸泡，才变成我们熟悉的酒。把这条链条拆开，酒就不再只是品牌与口感，而是一部农业、贸易与化学的历史。
 
-![醉酒的植物学家 类型示意图](/media/photos/theme-asian.jpg)
+![醉酒的植物学家 专属编辑图](/media/figures/specific/visual-016-book-drunken-botanist.svg)
 
 图：醉酒的植物学家 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是醉酒的植物学家的实拍。
 

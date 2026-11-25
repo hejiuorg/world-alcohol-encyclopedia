@@ -90,7 +90,7 @@ verification_scope: source-verified
 
 世界酒史常被写成“葡萄酒、啤酒、烈酒”三条互不相干的线，最后汇入全球市场。实际上，三条线很早就相互影响：蒸馏技术改变了葡萄酒与谷物酒，殖民贸易把甘蔗与朗姆酒带进欧洲，工业革命又让啤酒从地方作坊变成全国品牌。本文只取几个能核对的转折点，说明今天的酒类世界是怎样形成的。
 
-![世界酒史纲：从发酵饮料到全球产业 类型示意图](/media/photos/theme-asian.jpg)
+![世界酒史纲：从发酵饮料到全球产业 专属编辑图](/media/figures/specific/visual-004-article-history-of-world-wine.svg)
 
 图：世界酒史纲：从发酵饮料到全球产业 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是世界酒史纲：从发酵饮料到全球产业的实拍。
 

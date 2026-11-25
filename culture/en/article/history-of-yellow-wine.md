@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: culture-article:history-of-yellow-wine
 source_lang: zh
-source_revision: sha256:47a5acace985b19185fc6270b1c94e1359d689751a104ac308dd43df8d46f87e
-source_sha256: 47a5acace985b19185fc6270b1c94e1359d689751a104ac308dd43df8d46f87e
+source_revision: sha256:4f724e8d074931eaf5cae6252f5d00aac17d33056cbd9e134408927557956782
+source_sha256: 4f724e8d074931eaf5cae6252f5d00aac17d33056cbd9e134408927557956782
 translation_status: reviewed
 about_refs:
   - drink-style:yellow-wine
@@ -93,7 +93,7 @@ verification_scope: source-verified
 
 Yellow wine is often described as “China's oldest wine”, and that is only half true. Grain-fermented wine is indeed very old, but “yellow wine” as a category name stabilised only in modern times. The ancient word “jiu” covered rice wine, cloudy wine and clear wine, and these are not the same as today's Shaoxing jiafan, Fujian laojiu or Shandong Jimo laojiu.
 
-The problem to solve is the relation between continuity of craft and discontinuity of category. The underlying logic of brewing — rice, qu, water, fermentation — has lasted for millennia, but the scope, standards and products denoted by “yellow wine” took shape in the twentieth century. Confusing the two leads to the false conclusion that yellow wine was always as it is now.![A history of yellow wine: rice, qu, water and Shaoxing thematic illustration](/media/photos/theme-asian.jpg)
+The problem to solve is the relation between continuity of craft and discontinuity of category. The underlying logic of brewing — rice, qu, water, fermentation — has lasted for millennia, but the scope, standards and products denoted by “yellow wine” took shape in the twentieth century. Confusing the two leads to the false conclusion that yellow wine was always as it is now.![A history of yellow wine: rice, qu, water and Shaoxing editorial illustration](/media/figures/specific/visual-005-article-history-of-yellow-wine.svg)
 
 Figure: thematic illustration for A history of yellow wine: rice, qu, water and Shaoxing. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

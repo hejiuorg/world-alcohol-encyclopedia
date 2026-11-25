@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:tang-wine-workshops
 source_lang: zh
-source_revision: sha256:b81c66b009e8f5720897e6601402b34153fe77659590fb3b38eafc8639efbfcc
-source_sha256: b81c66b009e8f5720897e6601402b34153fe77659590fb3b38eafc8639efbfcc
+source_revision: sha256:a3266d84d6404f7e5e2e63f5d6cab60fd15a417b6cec5c7f4e1af17cb896e03c
+source_sha256: a3266d84d6404f7e5e2e63f5d6cab60fd15a417b6cec5c7f4e1af17cb896e03c
 translation_status: reviewed
 aliases:
   - 唐代酒坊
@@ -76,7 +76,7 @@ verification_scope: source-verified
 
 In the early Tang, brewing was mainly in private hands, and the court ordered prohibition only in famine years or when grain was short; after the An Lushan rebellion, military spending and fiscal pressure rose, and wine turned from 'a consumer good that can be banned' into 'a commodity that can be run for revenue'. Licensed wine households were fixed in 764, state brewing was ordered in 782, excise was imposed in the capital region in 786, and in the Yuanhe period the levy was folded into the two taxes. Wine-making then split into three forms: taxed households, state workshops and state shops, while private brewing was repeatedly banned.
 
-![Tang Wine Workshops: Licensed Houses, State Workshops and State Shops category illustration](/media/photos/theme-asian.jpg)
+![Tang Wine Workshops: Licensed Houses, State Workshops and State Shops editorial illustration](/media/figures/specific/visual-052-historical-event-tang-wine-workshops.svg)
 
 Figure: Tang Wine Workshops: Licensed Houses, State Workshops and State Shops. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
 

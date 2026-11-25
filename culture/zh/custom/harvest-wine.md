@@ -85,7 +85,7 @@ verification_scope: source-verified
 
 丰收酒不是一个统一的酒种，而是一类场合：粮食入仓、果实下树、葡萄压榨之后，人们用新收成酿出的酒或存下的酒，向天地、祖先或邻里表示谢意。中国把它放在秋收与尝新的脉络里，欧洲葡萄产区把它放在采收季与产区节庆里。两者都叫“丰收”，但仪式、酒器与食物并不相同。
 
-![丰收酒与葡萄收获节酒俗 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![丰收酒与葡萄收获节酒俗 专属编辑图](/media/figures/specific/visual-027-custom-harvest-wine.svg)
 
 图：丰收酒与葡萄收获节酒俗 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是丰收酒与葡萄收获节酒俗的实拍。
 

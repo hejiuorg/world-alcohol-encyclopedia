@@ -100,7 +100,7 @@ verification_scope: source-verified
 
 素食并不是一种统一的味道。清蒸蔬菜、烤根茎、番茄炖豆、菌菇、豆腐、天贝、辛辣的咖喱，彼此的强度、酸度、苦味与鲜味差别很大。配酒时，先看盘子里是哪一类食材，再看酒的酸度、单宁与酒体，比“素菜配白葡萄酒”的笼统说法更可靠。
 
-![素食配葡萄酒：蔬菜、豆类与菌菇的搭配逻辑 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![素食配葡萄酒：蔬菜、豆类与菌菇的搭配逻辑 专属编辑图](/media/figures/specific/visual-079-pairing-vegetarian-and-wine.svg)
 
 图：素食配葡萄酒：蔬菜、豆类与菌菇的搭配逻辑 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是素食配葡萄酒：蔬菜、豆类与菌菇的搭配逻辑的实拍。
 

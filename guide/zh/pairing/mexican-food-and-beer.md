@@ -93,7 +93,7 @@ verification_scope: source-verified
 
 墨西哥菜的基础是玉米、豆类、辣椒、番茄、青柠、香菜与油脂。它既有清爽的酸辣，也有慢炖的浓厚与奶酪的脂肪。啤酒的气泡、苦度与麦芽甜味，正好可以分别对应这些层次。搭配的关键不是“越冰越好”，而是按菜的辣度、油脂与浓度选风格。
 
-![墨西哥菜配啤酒：玉米、辣椒与青柠的清爽组合 类型示意图](/media/photos/theme-beer.jpg)
+![墨西哥菜配啤酒：玉米、辣椒与青柠的清爽组合 专属编辑图](/media/figures/specific/visual-077-pairing-mexican-food-and-beer.svg)
 
 图：墨西哥菜配啤酒：玉米、辣椒与青柠的清爽组合 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是墨西哥菜配啤酒：玉米、辣椒与青柠的清爽组合的实拍。
 

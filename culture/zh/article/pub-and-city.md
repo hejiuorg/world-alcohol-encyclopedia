@@ -71,7 +71,7 @@ verification_scope: source-verified
 
 酒馆不只是喝酒的地方。它把街区的作息、收入、移民、文学与夜生活压缩进一个房间：早上谁在这里喝咖啡，中午谁在这里吃简餐，晚上谁站在吧台前，周末谁带着家人来。想知道一座城市怎样组织公共生活，先看它的酒馆，往往比看地标更快。
 
-![认识一座城，从一间酒馆开始 类型示意图](/media/photos/theme-asian.jpg)
+![认识一座城，从一间酒馆开始 专属编辑图](/media/figures/specific/visual-012-article-pub-and-city.svg)
 
 图：认识一座城，从一间酒馆开始 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是认识一座城，从一间酒馆开始的实拍。
 

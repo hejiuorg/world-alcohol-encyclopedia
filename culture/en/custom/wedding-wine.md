@@ -13,8 +13,8 @@ region_refs:
 period: Recorded in pre-Qin ritual texts; the cross-cup drink became widespread in later periods
 translation_of: custom:wedding-wine
 source_lang: zh
-source_revision: sha256:cb9fb27ef0edb4fd38181739a61e0cfcb5903a05bd2d9d461fbb031a2292b2ba
-source_sha256: cb9fb27ef0edb4fd38181739a61e0cfcb5903a05bd2d9d461fbb031a2292b2ba
+source_revision: sha256:ba9962d42b9c035f49e3a3047bacd04ef1a2a867496fee2443e3c75b7b322185
+source_sha256: ba9962d42b9c035f49e3a3047bacd04ef1a2a867496fee2443e3c75b7b322185
 translation_status: reviewed
 aliases:
   - 合卺
@@ -78,7 +78,7 @@ verification_scope: source-verified
 
 The “cross-cup drink” at weddings today is often traced back to the pre-Qin “hejin”. The two are indeed related, but they cannot simply be equated: hejin was one specific step in the wedding rite, while the cross-cup drink developed many forms in later periods. Clarifying this line helps explain wine's place in a wedding and prevents modern wedding-industry language from being mistaken for ancient ritual.
 
-![Wedding Wine Customs: From Hejin to the Cross-Cup Drink thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Wedding Wine Customs: From Hejin to the Cross-Cup Drink editorial illustration](/media/figures/specific/visual-030-custom-wedding-wine.svg)
 
 Figure: thematic illustration for Wedding Wine Customs: From Hejin to the Cross-Cup Drink. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

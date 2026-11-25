@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: custom:double-ninth-chrysanthemum-wine
 source_lang: zh
-source_revision: sha256:4ca861a2efb7e8fddf90bf835a7b45c774e79e80e86415c0f4579df7db9a4316
-source_sha256: 4ca861a2efb7e8fddf90bf835a7b45c774e79e80e86415c0f4579df7db9a4316
+source_revision: sha256:b373c9f48cfcf65f8cd163b0e7e2282df7b20edb4292d5f5a9df9e6344e3c026
+source_sha256: b373c9f48cfcf65f8cd163b0e7e2282df7b20edb4292d5f5a9df9e6344e3c026
 translation_status: reviewed
 region_refs:
   - region:china
@@ -95,7 +95,7 @@ Double Ninth falls on the ninth day of the ninth lunar month, a day whose two ni
 
 Because it is a family of drinks, one household's method cannot stand for the whole tradition. The Han method, the Song shop wine and today's home-steeped spirit are related but not identical.
 
-![Double Ninth chrysanthemum wine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Double Ninth chrysanthemum wine editorial illustration](/media/figures/specific/visual-033-custom-double-ninth-chrysanthemum-wine.svg)
 
 Figure: thematic illustration for Double Ninth chrysanthemum wine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

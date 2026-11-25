@@ -34,8 +34,8 @@ related:
 translation_of: person:audrey-saunders
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b60e7b1ddff9ee9056610e91ae3d1effa34c4b4a9644908e2dd64cf191175600
-source_sha256: b60e7b1ddff9ee9056610e91ae3d1effa34c4b4a9644908e2dd64cf191175600
+source_revision: sha256:f713d8e6e1208021ea31180038710db4b4ae28d2dd41081f5102afd733689c92
+source_sha256: f713d8e6e1208021ea31180038710db4b4ae28d2dd41081f5102afd733689c92
 references:
   - key: gin
     target_id: drink-style:gin
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 Audrey Saunders is an American bartender and bar owner who opened Pegu Club in SoHo, New York, in August 2005. Her influence rests not on a single fashionable drink but on a set of practices that can be trained and checked: fresh juice, house-made syrups, measured pours and timed shaking, and repeated calibration of temperature and dilution. She treated the bar as a classroom and turned the cocktail from a matter of feel into a sequence that could be written down and repeated.
 
-![Audrey Saunders category illustration](/media/photos/theme-wine-spirits.jpg)
+![Audrey Saunders editorial illustration](/media/figures/specific/visual-053-person-audrey-saunders.svg)
 
 Figure: Audrey Saunders. Project-generated or category illustration used for bar and drinks context; not a photograph of the subject.
 

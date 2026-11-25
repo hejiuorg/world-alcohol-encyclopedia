@@ -80,7 +80,7 @@ verification_scope: source-verified
 
 寒食是一个围绕“火”的节日：这一天不举火，吃提前备好的冷食，出城祭墓，也顺便踏青。酒在这个节日里并不总是主角。它更多出现在祭扫时的奠酒、家族聚餐的席面上，以及诗中“寒食”与“酒”并置的句子中。把酒放回寒食的禁火语境，才能看清它为什么常常是冷的、少量的、带着追思意味的。
 
-![寒食节与酒 类型示意图](/media/photos/theme-wine-spirits.jpg)
+![寒食节与酒 专属编辑图](/media/figures/specific/visual-026-custom-cold-food-festival-wine.svg)
 
 图：寒食节与酒 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是寒食节与酒的实拍。
 

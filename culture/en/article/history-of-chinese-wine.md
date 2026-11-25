@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:history-of-chinese-wine
 source_lang: zh
-source_revision: sha256:edc7f5f26f5009dcde9e010f2335024c9caad26ad78a4fbb02eb4be287971e82
-source_sha256: edc7f5f26f5009dcde9e010f2335024c9caad26ad78a4fbb02eb4be287971e82
+source_revision: sha256:0e06f983986ff1d64afe4a77cbadcf6850b1e9e1e79a7512e58f577031bd6888
+source_sha256: 0e06f983986ff1d64afe4a77cbadcf6850b1e9e1e79a7512e58f577031bd6888
 translation_status: reviewed
 about_refs:
   - drink-style:yellow-wine
@@ -101,7 +101,7 @@ The history of Chinese alcohol is easily written as a straight line: an early or
 
 This article follows several key turns in chronological order: early grain fermentation, Tang and Song taverns and alcohol policy, Yuan-Ming distilled spirits, and modern industrialisation together with the national wine-evaluation system. Each section marks the type of evidence, and the final section sets out the questions that remain disputed.
 
-![A concise history of Chinese alcohol: from grain fermentation to national famous wines thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![A concise history of Chinese alcohol: from grain fermentation to national famous wines editorial illustration](/media/figures/specific/visual-002-article-history-of-chinese-wine.svg)
 
 Figure: thematic illustration for A concise history of Chinese alcohol: from grain fermentation to national famous wines. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

@@ -76,7 +76,7 @@ event_status: past
 
 2026 年 6 月 27 日，新加坡莱佛士酒店的长廊酒吧（Long Bar）举办一年一度的新加坡司令日（Singapore Sling Day）。这一天与国际菠萝日重合，酒吧以菠萝为节庆符号：前 100 位携带一整颗菠萝到店的客人，可以兑换一杯新加坡司令。无酒精版的 Singapore Sling Zero 也在同一天开始供应。活动已经结束，本页记录 2026 年当届的安排与规则。
 
-![莱佛士长廊酒吧的新加坡司令日 2026 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![莱佛士长廊酒吧的新加坡司令日 2026 专属编辑图](/media/figures/specific/visual-042-event-raffles-long-bar-singapore-sling-day-2026.svg)
 
 图：莱佛士长廊酒吧的新加坡司令日 2026栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

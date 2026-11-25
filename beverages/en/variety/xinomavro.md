@@ -22,8 +22,8 @@ tags:
 translation_of: variety:xinomavro
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e6ec1a2c0501737b68c58ecb9b7b3e9b4888d69c4acdbb4cc58b5a4d9d9cd0bd
-source_sha256: e6ec1a2c0501737b68c58ecb9b7b3e9b4888d69c4acdbb4cc58b5a4d9d9cd0bd
+source_revision: sha256:be33a622881c751b058643bb7bc4f4b04492f5baf182c1b2d859cbeec35a4f39
+source_sha256: be33a622881c751b058643bb7bc4f4b04492f5baf182c1b2d859cbeec35a4f39
 related:
   - relation: about
     target_id: variety:nebbiolo
@@ -103,7 +103,7 @@ Xinomavro (also spelled Xynomavro) is the most serious red grape of Greek Macedo
 
 Two terroir lines should be read separately: the structured reds of the Naoussa hills and mountain slopes, with concentrated, hard tannin, and the cooler, cleaner expressions of the high Amyndeon plateau, which also extend into sparkling, rosé and blanc de noir styles. Rules, blends and ripening rhythm differ markedly across the PDOs, and the label name is only the entry point.
 
-![Xinomavro category illustration](/media/photos/theme-grapes.jpg)
+![Xinomavro editorial illustration](/media/figures/specific/visual-069-variety-xinomavro.svg)
 
 Figure: Xinomavro. Project-generated editorial illustration for grapes; not a photograph of the subject.
 

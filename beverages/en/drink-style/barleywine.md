@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:barleywine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:45bb4c47c882e3d43e25df49af09b7eb8c22fec4faca5e5b8cedca7a1131303f
-source_sha256: 45bb4c47c882e3d43e25df49af09b7eb8c22fec4faca5e5b8cedca7a1131303f
+source_revision: sha256:608c5a4acfd7c352c98a658eb4273829078ea84198319fbf438e2ba19e871fac
+source_sha256: 608c5a4acfd7c352c98a658eb4273829078ea84198319fbf438e2ba19e871fac
 legacy_refs: []
 aliases:
   - Barleywine
@@ -91,7 +91,7 @@ verification_scope: source-verified
 
 Barleywine is the very strong ale of the British tradition, defined by an extremely high malt gravity, high alcohol, a full body and clear potential for ageing. The word wine describes its strength and the way it is drunk; the raw material is still [barley](ref:barley), not grapes. English and American barleywine share the name but diverge sharply in hopping, colour and balance.
 
-![Barleywine thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Barleywine editorial illustration](/media/figures/specific/visual-070-drink-style-barleywine.svg)
 
 Figure: thematic illustration for Barleywine. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

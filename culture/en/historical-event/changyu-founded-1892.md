@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:changyu-founded-1892
 source_lang: zh
-source_revision: sha256:1e6f5dabc5bff8a59456976e8cdd684968ab3d449f97bf7c9e4950779b923e7d
-source_sha256: 1e6f5dabc5bff8a59456976e8cdd684968ab3d449f97bf7c9e4950779b923e7d
+source_revision: sha256:19a706d6f6086157f6902b7d053e0f4d54450ef5bc492031c8b2297ee3f3b953
+source_sha256: 19a706d6f6086157f6902b7d053e0f4d54450ef5bc492031c8b2297ee3f3b953
 translation_status: reviewed
 aliases:
   - 张裕酿酒公司
@@ -80,7 +80,7 @@ verification_scope: source-verified
 
 In 1892 the overseas Chinese businessman Zhang Bishi invested 3 million taels of silver to found the Changyu Winery at Zhifu Bay in Yantai, Shandong. It is widely regarded as the starting point of industrial winemaking in China: not the expansion of a traditional brewery but a new enterprise that introduced vines, built a cellar, hired a winemaker and organised production and sales on industrial lines.
 
-![The Founding of Changyu (1892): The Start of Modern Chinese Winemaking category illustration](/media/photos/theme-winery.jpg)
+![The Founding of Changyu (1892): The Start of Modern Chinese Winemaking editorial illustration](/media/figures/specific/visual-044-historical-event-changyu-founded-1892.svg)
 
 Figure: The Founding of Changyu (1892): The Start of Modern Chinese Winemaking. Project-generated or category illustration used for winery and wine venue context; not a photograph of the subject.
 

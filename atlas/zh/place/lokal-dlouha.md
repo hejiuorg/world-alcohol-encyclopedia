@@ -80,7 +80,7 @@ founded_year: 2009
 ---
 # 洛卡尔·德洛哈啤酒馆
 
-![洛卡尔·德洛哈啤酒馆 栏目示意图](/media/photos/theme-beer.jpg)
+![洛卡尔·德洛哈啤酒馆 专属编辑图](/media/figures/specific/visual-065-place-lokal-dlouha.svg)
 
 图：洛卡尔·德洛哈啤酒馆栏目示意图。项目自产或类别插图，用于啤酒语境，不是该对象的实拍。
 

@@ -84,7 +84,7 @@ verification_scope: source-verified
 
 《齐民要术》是北魏贾思勰所撰的综合性农书，约在 533—544 年间成书，今本十卷九十二篇，约十一万字。它讲农耕、园艺、畜养与家庭加工；但卷七集中记录制曲与酿酒，使这部农书同时成为现存最早系统记载谷物酒工艺的汉语文献之一。
 
-![齐民要术 类型示意图](/media/photos/theme-asian.jpg)
+![齐民要术 专属编辑图](/media/figures/specific/visual-022-book-qimin-yaoshu.svg)
 
 图：齐民要术 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是齐民要术的实拍。
 

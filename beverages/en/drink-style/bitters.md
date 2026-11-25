@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:bitters
 source_lang: zh
-source_revision: sha256:262d9447e332b23db8a4db712803bad1de09396b7d0ab934d8bb54e20c7b9db8
-source_sha256: 262d9447e332b23db8a4db712803bad1de09396b7d0ab934d8bb54e20c7b9db8
+source_revision: sha256:bee4ddf22af9f2bab2b52219729ef45838457e5975dff94a3241db681ce7431c
+source_sha256: bee4ddf22af9f2bab2b52219729ef45838457e5975dff94a3241db681ce7431c
 translation_status: reviewed
 legacy_refs: []
 parent_style_id: drink-style:liqueur
@@ -86,7 +86,7 @@ verification_scope: source-verified
 
 Bitters is a highly concentrated alcoholic flavouring built around bitter plants. It is rarely drunk in quantity; it goes into a cocktail by the dash or by a few millilitres, adjusting aroma, bitterness and length the way a cook uses salt and pepper. Its strength is usually high and its flavour heavily concentrated. To understand bitters, the key question is not "how bitter is it" but "what does it do to the whole drink".
 
-![Bitters thematic illustration](/media/photos/theme-beer.jpg)
+![Bitters editorial illustration](/media/figures/specific/visual-071-drink-style-bitters.svg)
 
 Figure: thematic illustration for Bitters. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

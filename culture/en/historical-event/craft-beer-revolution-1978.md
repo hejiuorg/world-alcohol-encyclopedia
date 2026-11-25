@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:craft-beer-revolution-1978
 source_lang: zh
-source_revision: sha256:0090e278aab0d1ef300a6406c1ed1fec1e47f44682cb303ea3adf5d85cd5c144
-source_sha256: 0090e278aab0d1ef300a6406c1ed1fec1e47f44682cb303ea3adf5d85cd5c144
+source_revision: sha256:d0eaa7661f1b39bedafda97054e5c8d0bc9d0613629c84ad228c1829a09c4736
+source_sha256: d0eaa7661f1b39bedafda97054e5c8d0bc9d0613629c84ad228c1829a09c4736
 translation_status: reviewed
 aliases:
   - 美国自酿合法化
@@ -86,7 +86,7 @@ verification_scope: source-verified
 
 On 14 October 1978 President Jimmy Carter signed the tax bill H.R. 1337. The bulk of the bill concerned excise taxes on commercial vehicles and public transport, but it carried an amendment that removed the federal excise tax on beer brewed at home; the provision took effect on 1 February 1979. Homebrewing then became a lawful personal activity again in the United States, and homebrewers, supply shops and small breweries fed one another in what is usually called the craft beer revolution.
 
-![Craft Beer Revolution (1978): US Homebrewing Legalization and the Microbrewery category illustration](/media/photos/theme-beer.jpg)
+![Craft Beer Revolution (1978): US Homebrewing Legalization and the Microbrewery editorial illustration](/media/figures/specific/visual-048-historical-event-craft-beer-revolution-1978.svg)
 
 Figure: Craft Beer Revolution (1978): US Homebrewing Legalization and the Microbrewery. Project-generated or category illustration used for beer context; not a photograph of the subject.
 

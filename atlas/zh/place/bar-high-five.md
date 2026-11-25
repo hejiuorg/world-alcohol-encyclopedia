@@ -91,7 +91,7 @@ founded_year: 2008
 ---
 # High Five 酒吧
 
-![High Five 酒吧 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![High Five 酒吧 专属编辑图](/media/figures/specific/visual-062-place-bar-high-five.svg)
 
 图：High Five 酒吧栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

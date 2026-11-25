@@ -98,7 +98,7 @@ verification_scope: source-verified
 
 杰里·托马斯（Jerry Thomas，1825—1885）是美国 19 世纪最有名的调酒师之一。他的名声来自两件事：一本 1862 年出版的调酒书，以及一套带火焰的调酒动作。前者让配方第一次以书的形式稳定下来，后者让调酒师从柜台后的服务者变成舞台上的表演者。
 
-![杰里·托马斯 栏目示意图](/media/photos/theme-wine-spirits.jpg)
+![杰里·托马斯 专属编辑图](/media/figures/specific/visual-057-person-jerry-thomas.svg)
 
 图：杰里·托马斯栏目示意图。项目自产或类别插图，用于酒吧与酒类语境，不是该对象的实拍。
 

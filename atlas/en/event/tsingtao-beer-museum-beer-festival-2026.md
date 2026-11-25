@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: event:tsingtao-beer-museum-beer-festival-2026
 source_lang: zh
-source_revision: sha256:ae010a9de40dc02e0424063b0c7577d580db55139557b93cebd076792246e389
-source_sha256: ae010a9de40dc02e0424063b0c7577d580db55139557b93cebd076792246e389
+source_revision: sha256:e4d9cde6f04788d7c7a0bcb94ae61d8a815dea598a8eab7fad97163ab09a4222
+source_sha256: e4d9cde6f04788d7c7a0bcb94ae61d8a815dea598a8eab7fad97163ab09a4222
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -99,7 +99,7 @@ event_status: past
 
 The 36th Qingdao International Beer Festival ran from 17 July to 15 August 2026, a 30-day edition. Its main venues were in West Coast New Area, Laoshan and Qingdao's old town. The Tsingtao Beer Museum was not on that venue list, but it sits on Dengzhou Road in Shibei District and is one of the easiest stops to add during the festival: the museum follows its summer hours and runs the “Golden Wonder Night” night tour. The event has ended, and this event records the 2026 edition's hours, ticketing and limits.
 
-![Tsingtao Beer Museum during the 2026 Qingdao International Beer Festival category illustration](/media/photos/theme-beer.jpg)
+![Tsingtao Beer Museum during the 2026 Qingdao International Beer Festival editorial illustration](/media/figures/specific/visual-043-event-tsingtao-beer-museum-beer-festival-2026.svg)
 
 Figure: Tsingtao Beer Museum during the 2026 Qingdao International Beer Festival. Project-generated or category illustration used for beer context; not a photograph of the subject.
 

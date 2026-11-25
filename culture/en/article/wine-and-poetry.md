@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:wine-and-poetry
 source_lang: zh
-source_revision: sha256:a3671c22d4ec5f06073c0350df6f68d43112e54d185325666723a791c5e10131
-source_sha256: a3671c22d4ec5f06073c0350df6f68d43112e54d185325666723a791c5e10131
+source_revision: sha256:c415e03173791947103d79fc1c7efc4bcfa0921d307a25c68b9ff97f4590d38a
+source_sha256: c415e03173791947103d79fc1c7efc4bcfa0921d307a25c68b9ff97f4590d38a
 translation_status: reviewed
 about_refs:
   - book:shijing
@@ -88,7 +88,7 @@ Wine appears so often in Chinese poetry that “poetry and wine” has become a 
 
 This article reads four periods: pre-Qin ritual and farming, Wei-Jin self-expression, Tang gatherings and individual circumstance, and the daily life and memory of Song lyrics. It ends by explaining why poems cannot be treated as drinking statistics.
 
-![Wine and poetry: drinking from the Book of Songs to Song lyrics thematic illustration](/media/photos/theme-wine-spirits.jpg)
+![Wine and poetry: drinking from the Book of Songs to Song lyrics editorial illustration](/media/figures/specific/visual-014-article-wine-and-poetry.svg)
 
 Figure: thematic illustration for Wine and poetry: drinking from the Book of Songs to Song lyrics. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

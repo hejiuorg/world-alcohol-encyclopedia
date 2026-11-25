@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:spread-of-distillation
 source_lang: zh
-source_revision: sha256:08d3bc0ad421fb4a9242a91a519bceb5f6c646fdbf8571e8f7d32e703793506c
-source_sha256: 08d3bc0ad421fb4a9242a91a519bceb5f6c646fdbf8571e8f7d32e703793506c
+source_revision: sha256:ed0139fa4c1f04d1380ee2cf119f68718b93c100cb18527679b762be846938bd
+source_sha256: ed0139fa4c1f04d1380ee2cf119f68718b93c100cb18527679b762be846938bd
 translation_status: reviewed
 about_refs:
   - process:distillation
@@ -85,7 +85,7 @@ Fermentation can make wine, but alcohol strength has a ceiling: as concentration
 
 The history of distillation is therefore not a single story of “who invented it first” but several routes meeting in different regions: Alexandria in the Hellenistic period, alchemy in the Islamic world, medicinal distillation in medieval Europe, rum in Atlantic trade, East Asian grain spirits, and industrial distillation in the 19th century.
 
-![The spread of distillation: from alchemy to global spirits thematic illustration](/media/photos/theme-asian.jpg)
+![The spread of distillation: from alchemy to global spirits editorial illustration](/media/figures/specific/visual-007-article-spread-of-distillation.svg)
 
 Figure: thematic illustration for The spread of distillation: from alchemy to global spirits. Image: AI-assisted illustration generated with Doubao Seedream 5.0 (project-owned); not a photograph of the subject.
 

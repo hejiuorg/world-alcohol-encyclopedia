@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:han-wine-monopoly
 source_lang: zh
-source_revision: sha256:3a9085c9a390a1b9b77a2e03245aaecdd479ed3baf13d047fe11007e83885af0
-source_sha256: 3a9085c9a390a1b9b77a2e03245aaecdd479ed3baf13d047fe11007e83885af0
+source_revision: sha256:b310c1dee43f66c07c3b445082ff01fc8a4fe02079c365cd1434ea7f67277677
+source_sha256: b310c1dee43f66c07c3b445082ff01fc8a4fe02079c365cd1434ea7f67277677
 translation_status: reviewed
 aliases:
   - 榷酒
@@ -74,7 +74,7 @@ verification_scope: source-verified
 
 # The Han Wine Monopoly: State Trading in 98 BCE and Its Abolition in 81 BCE
 
-Que originally meant a single-plank bridge, and came to mean a state checkpoint and monopoly. In the third year of Tianhan, Emperor Wu 'first established the que wine monopoly', bringing brewing and selling under state control; in the sixth year of Yuanyuan, Emperor Zhao consulted the worthy and learned, and in the seventh month abolished the monopoly officials, replacing direct state trading with private declaration and taxation by law. The policy lasted less than twenty years, yet became a standard starting point for later debates on wine monopoly and wine tax.![The Han Wine Monopoly: State Trading in 98 BCE and Its Abolition in 81 BCE category illustration](/media/photos/theme-asian.jpg)
+Que originally meant a single-plank bridge, and came to mean a state checkpoint and monopoly. In the third year of Tianhan, Emperor Wu 'first established the que wine monopoly', bringing brewing and selling under state control; in the sixth year of Yuanyuan, Emperor Zhao consulted the worthy and learned, and in the seventh month abolished the monopoly officials, replacing direct state trading with private declaration and taxation by law. The policy lasted less than twenty years, yet became a standard starting point for later debates on wine monopoly and wine tax.![The Han Wine Monopoly: State Trading in 98 BCE and Its Abolition in 81 BCE editorial illustration](/media/figures/specific/visual-045-historical-event-han-wine-monopoly.svg)
 
 Figure: The Han Wine Monopoly: State Trading in 98 BCE and Its Abolition in 81 BCE. Project-generated or category illustration used for Chinese alcohol culture context; not a photograph of the subject.
 

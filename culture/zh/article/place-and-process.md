@@ -69,7 +69,7 @@ verification_scope: source-verified
 
 “地方的味道”不是一种神秘物质。它通常来自气候、土壤、原料品种、微生物环境和人为工艺的共同作用。把这些因素拆开，既能解释为什么同一产区会有不同风格，也能避免把“风土”当成质量排名。
 
-![一杯酒，为什么有地方的味道？ 类型示意图](/media/photos/theme-asian.jpg)
+![一杯酒，为什么有地方的味道？ 专属编辑图](/media/figures/specific/visual-006-article-place-and-process.svg)
 
 图：一杯酒，为什么有地方的味道？ 类型示意图。图片：Doubao Seedream 5.0 AI 辅助绘制（项目自有），不是一杯酒，为什么有地方的味道？的实拍。
 
