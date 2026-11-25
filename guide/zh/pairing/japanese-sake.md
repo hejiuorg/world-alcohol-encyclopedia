@@ -47,6 +47,10 @@ references:
     target_id: term:residual-sugar
   - key: c-extra-1
     target_id: guide:sake-intro
+  - key: food-pairing
+    target_id: guide:food-pairing
+  - key: junmai
+    target_id: drink-style:junmai-sake
 sources:
   - key: jss
     title: Japan Sake and Shochu Makers Association

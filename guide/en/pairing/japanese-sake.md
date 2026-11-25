@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:japanese-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f64cfa967fb1e7f524214f4baf7ee39d4223af09e407702bc388634b62d10855
-source_sha256: f64cfa967fb1e7f524214f4baf7ee39d4223af09e407702bc388634b62d10855
+source_revision: sha256:12ec35e3cec17fb286e289bdb8d4dce4f57237a1a27311e6ebfcb04864b17d6e
+source_sha256: 12ec35e3cec17fb286e289bdb8d4dce4f57237a1a27311e6ebfcb04864b17d6e
 aliases:
   - Japanese cuisine and sake
 tags:
@@ -49,6 +49,10 @@ references:
     target_id: term:residual-sugar
   - key: c-extra-1
     target_id: guide:sake-intro
+  - key: food-pairing
+    target_id: guide:food-pairing
+  - key: junmai
+    target_id: drink-style:junmai-sake
 sources:
   - key: jss
     title: Japan Sake and Shochu Makers Association
