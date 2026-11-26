@@ -168,6 +168,4 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![项目配图：张裕酒文化博物馆](/media/photos/theme-winery.jpg)
 
-图：项目配图：张裕酒文化博物馆。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：波尔多葡萄酒城。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:jerez-sherry-route
 source_lang: zh
-source_revision: sha256:d88cff20051338163db72de33e46f9232c64eef15f1139db1d9898c88fcd9aff
-source_sha256: d88cff20051338163db72de33e46f9232c64eef15f1139db1d9898c88fcd9aff
+source_revision: sha256:360a092a930d30302fec457e12c13cc18a32d3acffaaa687752a597e7d1834ca
+source_sha256: 360a092a930d30302fec457e12c13cc18a32d3acffaaa687752a597e7d1834ca
 translation_status: reviewed
 legacy_refs: []
 aliases:

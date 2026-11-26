@@ -151,9 +151,9 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“勃艮第”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-burgundy-8580e678.jpg)
+![Burgundy vineyards near Beaune, France](/media/photos/q2-region-burgundy-8580e678.jpg)
 
-图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：夏布利。
+图：Burgundy vineyards near Beaune, France。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：夏布利。
 
 ![霞多丽](/media/photos/variety-chardonnay-efde6838.jpg)
 

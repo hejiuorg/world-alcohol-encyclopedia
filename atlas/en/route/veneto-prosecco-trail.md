@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:veneto-prosecco-trail
 source_lang: zh
-source_revision: sha256:211567c49daaa39040d35146c0929070d70b9f64bc6e034f85bf71b40de73123
-source_sha256: 211567c49daaa39040d35146c0929070d70b9f64bc6e034f85bf71b40de73123
+source_revision: sha256:2941e9cfa7ada0a8165e37180b70f660d7c94bb9f60c470744eb44b989899705
+source_sha256: 2941e9cfa7ada0a8165e37180b70f660d7c94bb9f60c470744eb44b989899705
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -168,6 +168,4 @@ September and October bring the Prosecco harvest and preparation for Valpolicell
 
 Image: Glera. Credit: paul Barker Hemings from seregno, 85, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Prosecco_vitigni.jpg)). Related image for Veneto Prosecco trail: Valdobbiadene to Fumane.
 
-![Illustration for Bisol](/media/photos/theme-vineyard.jpg)
 
-Image: Illustration for Bisol. Project-made bilingual editorial figure, not an on-site photograph. Related image for Veneto Prosecco trail: Valdobbiadene to Fumane.

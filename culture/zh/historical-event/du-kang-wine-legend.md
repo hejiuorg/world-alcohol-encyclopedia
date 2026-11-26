@@ -180,4 +180,4 @@ verification_scope: source-verified
 
 ![许昌博物馆的曹操青铜像，背后是曹操生平与家族世系展板。](/media/photos/person-cao-cao-a502eb45.jpg)
 
-图：许昌博物馆的曹操青铜像，背后是曹操生平与家族世系展板。。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Statue_of_Cao_Cao.jpg)）。关联图像：杜康造酒传说：一个人名如何变成酒的代称。
+图：许昌博物馆的曹操青铜像，背后是曹操生平与家族世系展板。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Statue_of_Cao_Cao.jpg)）。关联图像：杜康造酒传说：一个人名如何变成酒的代称。

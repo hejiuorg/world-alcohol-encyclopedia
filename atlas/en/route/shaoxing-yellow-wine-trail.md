@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:shaoxing-yellow-wine-trail
 source_lang: zh
-source_revision: sha256:9c7fdcb0005e50744c99bf75949d6e723afc7e5f4a59313dd0c0ed148c128cb5
-source_sha256: 9c7fdcb0005e50744c99bf75949d6e723afc7e5f4a59313dd0c0ed148c128cb5
+source_revision: sha256:fec5546707ae95bcb0a3167d7ab94679ef4971254097c289da0513e9cae42d3a
+source_sha256: fec5546707ae95bcb0a3167d7ab94679ef4971254097c289da0513e9cae42d3a
 translation_status: reviewed
 legacy_refs: []
 aliases:

@@ -170,6 +170,6 @@ Le Petit Cheval 可以开瓶 30–60 分钟，配烤鸡、炖牛肉、香肠与�
 
 ## 相关图像
 
-![“波尔多左岸路线：从葡萄酒城到波亚克两座一级庄”页面配图：The CBS Wine team at the 2012 Left Bank Bordeaux Cup。摄影：Netapp Inc，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-route-bordeaux-left-bank-chateaux-3b197628.jpg)
+![The CBS Wine team at the 2012 Left Bank Bordeaux Cup](/media/photos/q2-route-bordeaux-left-bank-chateaux-3b197628.jpg)
 
-图：The CBS Wine team at the 2012 Left Bank Bordeaux Cup。摄影：Netapp Inc，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Netapp Inc，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=21313721)）。关联图像：白马酒庄。
+图：The CBS Wine team at the 2012 Left Bank Bordeaux Cup。图片：Netapp Inc，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=21313721)）。关联图像：白马酒庄。

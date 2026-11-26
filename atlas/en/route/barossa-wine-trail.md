@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:barossa-wine-trail
 source_lang: zh
-source_revision: sha256:c007f4f855743572cf55eb05fc26d2cd45458cba23863907cb4b21f6ed7431fd
-source_sha256: c007f4f855743572cf55eb05fc26d2cd45458cba23863907cb4b21f6ed7431fd
+source_revision: sha256:48727fb232bfb136bcf2c67a282b9d85d37c17f7c0f1f4040ee358bd052c489b
+source_sha256: 48727fb232bfb136bcf2c67a282b9d85d37c17f7c0f1f4040ee358bd052c489b
 translation_status: reviewed
 legacy_refs: []
 aliases:

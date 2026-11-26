@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:bierzo
 source_lang: zh
-source_revision: sha256:9e464cfac52fbd6bdb28e0cfaf3d8e26f24119fc38da491cc00684ca2d4e5934
-source_sha256: 9e464cfac52fbd6bdb28e0cfaf3d8e26f24119fc38da491cc00684ca2d4e5934
+source_revision: sha256:06e10f78745e3375da21ae7392e54a956490376b5de7ca821eb9d75a0b427755
+source_sha256: 06e10f78745e3375da21ae7392e54a956490376b5de7ca821eb9d75a0b427755
 translation_status: reviewed
 level: other
 parent_id: region:spain

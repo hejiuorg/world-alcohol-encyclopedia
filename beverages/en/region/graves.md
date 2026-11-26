@@ -24,8 +24,8 @@ tags:
 translation_of: region:graves
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4f7816fb865320e5fbcd4731f0c7a7000478c5b98298c12d515087ff8dd42512
-source_sha256: 4f7816fb865320e5fbcd4731f0c7a7000478c5b98298c12d515087ff8dd42512
+source_revision: sha256:ade6e0e0f5f41c41a72438db0eda59af4ee19b737db28c8df181e2bb699ecd49
+source_sha256: ade6e0e0f5f41c41a72438db0eda59af4ee19b737db28c8df181e2bb699ecd49
 related:
   - relation: about
     target_id: region:bordeaux

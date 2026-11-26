@@ -208,9 +208,9 @@ updated_at: 2026-11-08
 
 ## 相关图像
 
-![“皮特酒馆”页面配图：Pete's Tavern (51708610272)。摄影：ajay_suresh，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-place-petes-tavern-41eaebdf.jpg)
+![Pete's Tavern (51708610272)](/media/photos/q2-place-petes-tavern-41eaebdf.jpg)
 
-图：Pete's Tavern (51708610272)。摄影：ajay_suresh，CC BY 2.0，来自 Wikimedia Commons。。图片：ajay_suresh，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=112875512)）。关联图像：纽约历史酒馆路线：东村到格拉梅西。
+图：Pete's Tavern (51708610272)。图片：ajay_suresh，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=112875512)）。关联图像：纽约历史酒馆路线：东村到格拉梅西。
 
 ![阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔类别配图](/media/photos/region-alsace-15887179.jpg)
 

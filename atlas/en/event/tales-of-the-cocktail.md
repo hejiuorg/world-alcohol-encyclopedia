@@ -30,8 +30,8 @@ related:
 translation_of: event:tales-of-the-cocktail
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:98f55d99b904c39358de3044ef80c97aa114281a7ce9c3ca21f6849b0056db33
-source_sha256: 98f55d99b904c39358de3044ef80c97aa114281a7ce9c3ca21f6849b0056db33
+source_revision: sha256:8823ddddfb07e391c64a806aa68d572ccf8b0a7b1d2f68a521a7b17058460e1c
+source_sha256: 8823ddddfb07e391c64a806aa68d572ccf8b0a7b1d2f68a521a7b17058460e1c
 references:
   - key: cocktail-basics
     target_id: guide:cocktail-basics

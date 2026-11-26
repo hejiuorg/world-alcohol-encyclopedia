@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:brandy-de-jerez
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4ef08a02ca514d6072612671b34bf26b62d2b08559d2dd07a345a27138f22c3a
-source_sha256: 4ef08a02ca514d6072612671b34bf26b62d2b08559d2dd07a345a27138f22c3a
+source_revision: sha256:f9a1f5a5db1603acc94cfcac9c6eea45b9b92c978388a2eb3a27b9ab96c822a2
+source_sha256: f9a1f5a5db1603acc94cfcac9c6eea45b9b92c978388a2eb3a27b9ab96c822a2
 related:
   - relation: about
     target_id: drink-style:brandy

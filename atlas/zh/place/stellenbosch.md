@@ -153,6 +153,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“南非”页面配图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+![Vineyards in the Cederberg - South Africa](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
 
-图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Ltz Raptor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4647540)）。关联图像：斯泰伦博斯。
+图：Vineyards in the Cederberg - South Africa。图片：Ltz Raptor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4647540)）。关联图像：斯泰伦博斯。

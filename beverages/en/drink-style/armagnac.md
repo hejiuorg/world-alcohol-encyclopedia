@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:armagnac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a25e28badae65a315be403142644a6f07b06bb81fed6daf92c7b6ff3d7447e94
-source_sha256: a25e28badae65a315be403142644a6f07b06bb81fed6daf92c7b6ff3d7447e94
+source_revision: sha256:7ff08914376cf0b561fd725337b2d8a85d0af96d0a37c41f0a4e7a085e80cdc0
+source_sha256: 7ff08914376cf0b561fd725337b2d8a85d0af96d0a37c41f0a4e7a085e80cdc0
 legacy_refs: []
 parent_style_id: drink-style:brandy
 aroma_family: fruit/floral/oak

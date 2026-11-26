@@ -158,4 +158,4 @@ founded_year: 1880
 
 ![维也纳中央咖啡馆的拱廊大厅，吊灯与大理石柱下的座位区。](/media/photos/route-vienna-coffee-house-evening-b25afac5.jpg)
 
-图：维也纳中央咖啡馆的拱廊大厅，吊灯与大理石柱下的座位区。。图片：Andreas Praefcke，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wien_Cafe_Central_2004.jpg)）。关联图像：斯佩尔咖啡馆。
+图：维也纳中央咖啡馆的拱廊大厅，吊灯与大理石柱下的座位区。图片：Andreas Praefcke，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wien_Cafe_Central_2004.jpg)）。关联图像：斯佩尔咖啡馆。

@@ -96,9 +96,6 @@ verification_scope: source-verified
 
 星光酒吧（Star Bar Ginza）在东京银座一丁目、并木通一带，店面在地下一层，主理人是岸久（Hisashi Kishi）。它不属于靠主题装饰或调酒表演吸引人的那一类酒吧：空间安静，吧台是中心，酒以经典配方为主，冰被当成一项独立的手艺。把它看作银座老派酒吧的一个样本，比当作“东京必去榜单”的一站更接近它本来的样子。
 
-![栏目配图](/media/photos/q2-place-star-bar-ginza-5aef3a60.jpg)
-
-图：栏目配图。摄影：见原图页。署名：Ujigis，CC BY-SA 4.0，来自 项目图库（类别配图）（[来源](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)）。这张照片仅为场所栏目配图，不是星光酒吧（银座）的门店或场馆实拍。
 
 > **先给结论**
 > **一句话：** 这页判断星光酒吧（银座）值不值得专程去，以及到访前要核对什么。

@@ -163,7 +163,7 @@ updated_at: 2026-11-08
 
 ![青岛啤酒厂登州路厂区的红砖院落，烟囱与绿色啤酒罐装置上可见 TSINGTAO 字样。](/media/photos/place-tsingtao-brewery-7493ff9a.jpg)
 
-图：青岛啤酒厂登州路厂区的红砖院落，烟囱与绿色啤酒罐装置上可见 TSINGTAO 字样。。图片：Suginami，CC0 1.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_Museum_inside_2024.jpg)）。关联图像：青岛啤酒路线：博物馆、老厂区与登州路啤酒街。
+图：青岛啤酒厂登州路厂区的红砖院落，烟囱与绿色啤酒罐装置上可见 TSINGTAO 字样。图片：Suginami，CC0 1.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_Museum_inside_2024.jpg)）。关联图像：青岛啤酒路线：博物馆、老厂区与登州路啤酒街。
 
 ![青岛啤酒股份有限公司](/media/photos/producer-tsingtao-8b8ef272.jpg)
 

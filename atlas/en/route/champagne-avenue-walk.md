@@ -103,8 +103,8 @@ stop_ids:
     note: Walk to number 26 and check the booking page first; when a slot is available, see the Art Nouveau house and seven kilometres of cellars.
 mode: walk
 updated_at: 2026-11-08
-source_sha256: f31e2a1ffa5247c6c766fcf3b8b67601fbd2427e9012b941b77aac14de4c716b
-source_revision: sha256:f31e2a1ffa5247c6c766fcf3b8b67601fbd2427e9012b941b77aac14de4c716b
+source_sha256: 1eae8d24dab31d8c0d0277777def8c18fbe9d8f5783f9731af9e54ef9bc7b847
+source_revision: sha256:1eae8d24dab31d8c0d0277777def8c18fbe9d8f5783f9731af9e54ef9bc7b847
 ---
 
 # Champagne: a walk along the Avenue de Champagne in Épernay

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:rioja-haro-bodegas
 source_lang: zh
-source_revision: sha256:60283b884f338d4879ab64619049b8739b2f3ad44303566bb627e8605b03c1e2
-source_sha256: 60283b884f338d4879ab64619049b8739b2f3ad44303566bb627e8605b03c1e2
+source_revision: sha256:f4a30e3f935127a11e2a8e31b821012f458e80284184098479dc8f8b45749b45
+source_sha256: f4a30e3f935127a11e2a8e31b821012f458e80284184098479dc8f8b45749b45
 translation_status: reviewed
 legacy_refs: []
 aliases:

@@ -164,4 +164,4 @@ Jack Daniel's Old No. 7 是最广为人知的基础款，风格偏香草、香�
 
 ![一杯波本威士忌，杯壁压印 BOURBON FRONTIER WHISKEY，杯中为琥珀色酒液。](/media/photos/drink-style-bourbon-whiskey-535c276f.jpg)
 
-图：一杯波本威士忌，杯壁压印 BOURBON FRONTIER WHISKEY，杯中为琥珀色酒液。。图片：Markyboy81，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=1001040958)）。关联图像：田纳西威士忌。
+图：一杯波本威士忌，杯壁压印 BOURBON FRONTIER WHISKEY，杯中为琥珀色酒液。图片：Markyboy81，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=1001040958)）。关联图像：田纳西威士忌。

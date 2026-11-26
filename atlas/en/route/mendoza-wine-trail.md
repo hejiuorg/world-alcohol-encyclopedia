@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:mendoza-wine-trail
 source_lang: zh
-source_revision: sha256:d569024d3b9450505ecd038f415ff4e0e643fbd96e347bd0367229215faad81c
-source_sha256: d569024d3b9450505ecd038f415ff4e0e643fbd96e347bd0367229215faad81c
+source_revision: sha256:19e7e767a40a82caeda4f7bb94c2c445ed8fdadb3f7e64e346cbef203d0dff6b
+source_sha256: 19e7e767a40a82caeda4f7bb94c2c445ed8fdadb3f7e64e346cbef203d0dff6b
 translation_status: reviewed
 legacy_refs: []
 aliases:

@@ -140,4 +140,4 @@ verification_scope: source-verified
 
 ![舰队街柴郡奶酪酒馆的悬挂招牌，写着店名与“Rebuilt 1667”。](/media/photos/place-ye-olde-cheshire-cheese-628a8f9d.jpg)
 
-图：舰队街柴郡奶酪酒馆的悬挂招牌，写着店名与“Rebuilt 1667”。。图片：Images George Rex，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ye_Olde_Cheshire_Cheese_rebuilt_1667_(14276567866).jpg)）。关联图像：美人鱼客栈。
+图：舰队街柴郡奶酪酒馆的悬挂招牌，写着店名与“Rebuilt 1667”。图片：Images George Rex，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ye_Olde_Cheshire_Cheese_rebuilt_1667_(14276567866).jpg)）。关联图像：美人鱼客栈。

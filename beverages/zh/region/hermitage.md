@@ -180,6 +180,6 @@ Chapoutier 的“l’Ermite”与“Le Pavillon”、Jaboulet 的“La Chapelle�
 
 图：Marsanne：Marsanne - inflorescence（Wikimedia Commons）。图片：Marianne Casamance，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Marsanne_-_inflorescence.jpg)）。关联图像：埃米塔日。
 
-![“维欧尼”页面配图：Viognier Grape must after pressing。摄影：Ian Brown，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-viognier-0ccec251.jpg)
+![Viognier Grape must after pressing](/media/photos/q2-variety-viognier-0ccec251.jpg)
 
-图：Viognier Grape must after pressing。摄影：Ian Brown，CC BY 2.0，来自 Wikimedia Commons。。图片：Ian Brown，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13317886)）。关联图像：埃米塔日。
+图：Viognier Grape must after pressing。图片：Ian Brown，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13317886)）。关联图像：埃米塔日。

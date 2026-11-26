@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:george-dickel-distillery
 source_lang: zh
-source_revision: sha256:0c46cadc376a7c7f5659c78ba4b4926bd9c1752c070ad859c66efd8e99934a04
-source_sha256: 0c46cadc376a7c7f5659c78ba4b4926bd9c1752c070ad859c66efd8e99934a04
+source_revision: sha256:d1be78871b8aff209dcc919f62b9b280c7c170fc72561e47d2bd7c9cdbe81724
+source_sha256: d1be78871b8aff209dcc919f62b9b280c7c170fc72561e47d2bd7c9cdbe81724
 translation_status: reviewed
 subtype: distillery-visitor
 address: 1950 Cascade Hollow Rd, Tullahoma, TN 37388, USA

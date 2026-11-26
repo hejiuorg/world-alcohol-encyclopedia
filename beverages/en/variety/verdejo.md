@@ -22,8 +22,8 @@ tags:
 translation_of: variety:verdejo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:48b21089f82218241e15e22b7ee48568001435051f2210b8be36a3fa8179ca29
-source_sha256: 48b21089f82218241e15e22b7ee48568001435051f2210b8be36a3fa8179ca29
+source_revision: sha256:daacdd66ddd0293c459fff3253b66f8fb4f9b51798ceb0a7e3a294e93f83cd3c
+source_sha256: daacdd66ddd0293c459fff3253b66f8fb4f9b51798ceb0a7e3a294e93f83cd3c
 related:
   - relation: about
     target_id: region:rueda

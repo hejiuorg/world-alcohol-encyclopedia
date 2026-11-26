@@ -169,10 +169,10 @@ GI 名之下，片区与单一园名提示土壤与成熟节奏；西拉、歌�
 
 ## 相关图像
 
-![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+![Syrah Grapes on the Vine](/media/photos/q2-variety-syrah-dc13087a.jpg)
 
-图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：麦克拉伦谷。
+图：Syrah Grapes on the Vine。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：麦克拉伦谷。
 
-![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+![Renmark South Australia Vineyard](/media/photos/q2-region-australia-968b262e.jpg)
 
-图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：麦克拉伦谷。
+图：Renmark South Australia Vineyard。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：麦克拉伦谷。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:beaujolais
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d7083927d0e7992fae2a7767f1ac4c238eb39b390e6de73b5f922f0821c7311f
-source_sha256: d7083927d0e7992fae2a7767f1ac4c238eb39b390e6de73b5f922f0821c7311f
+source_revision: sha256:1a0a6d4dea1b8d4c179cf92fb4ed89803e3152ee642360a44956e5ee2c0a8680
+source_sha256: 1a0a6d4dea1b8d4c179cf92fb4ed89803e3152ee642360a44956e5ee2c0a8680
 level: other
 parent_id: region:france
 country_code: FR

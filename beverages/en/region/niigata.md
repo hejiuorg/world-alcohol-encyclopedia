@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:niigata
 source_lang: zh
-source_revision: sha256:d7f761d08a3fc4c0ff52ce0fb8137af45fc5e2f8178b8d197fe7f3b8f04de3aa
-source_sha256: d7f761d08a3fc4c0ff52ce0fb8137af45fc5e2f8178b8d197fe7f3b8f04de3aa
+source_revision: sha256:546dc0e8907bc61e63319dca06f7d776518e6a44af94e56671c7701da4d2db52
+source_sha256: 546dc0e8907bc61e63319dca06f7d776518e6a44af94e56671c7701da4d2db52
 translation_status: reviewed
 level: province
 parent_id: region:japan

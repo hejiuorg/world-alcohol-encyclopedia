@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:beringer-vineyards
 source_lang: zh
-source_revision: sha256:671bdb793afe7052fad1aa7be6cda16457a85311bced1b8871623377b71a7a79
-source_sha256: 671bdb793afe7052fad1aa7be6cda16457a85311bced1b8871623377b71a7a79
+source_revision: sha256:67790bfa5017ad16275caf788e4f37066e6739277c878d46833cc963922d51a5
+source_sha256: 67790bfa5017ad16275caf788e4f37066e6739277c878d46833cc963922d51a5
 translation_status: reviewed
 subtype: winery-visitor
 address: 2000 Main Street, St. Helena, CA 94574, USA

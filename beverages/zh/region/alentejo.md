@@ -188,9 +188,9 @@ Rota dos Vinhos do Alentejo 串联各酒庄村；经典路线从世界遗产古�
 
 ## 相关图像
 
-![“丹魄”页面配图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+![Tempranillo grapes from Rioja Alavesa](/media/photos/q2-variety-tempranillo-186ba329.jpg)
 
-图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：阿连特茹。
+图：Tempranillo grapes from Rioja Alavesa。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：阿连特茹。
 
 ![葡萄牙类别配图](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
 

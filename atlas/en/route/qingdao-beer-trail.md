@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:qingdao-beer-trail
 source_lang: zh
-source_revision: sha256:68e32bb6d13bb7f16f2293791a5c10ebd43e828a668a93d750dc8afb3d7cc62d
-source_sha256: 68e32bb6d13bb7f16f2293791a5c10ebd43e828a668a93d750dc8afb3d7cc62d
+source_revision: sha256:7ed78a3a9b6328ec70ff3d23cdbabcbc40c9b3b81b02bfef8e0630c51619c134
+source_sha256: 7ed78a3a9b6328ec70ff3d23cdbabcbc40c9b3b81b02bfef8e0630c51619c134
 translation_status: reviewed
 legacy_refs: []
 aliases:

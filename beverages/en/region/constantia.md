@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:constantia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6292b0bf3c6636c2ca3dc3e026b70202d5227ba17243753e4f1e6cb46b117bb1
-source_sha256: 6292b0bf3c6636c2ca3dc3e026b70202d5227ba17243753e4f1e6cb46b117bb1
+source_revision: sha256:fbd85f557ddb70b3bff61abde9aec4905a2fd279b926a105f3b1336102074a2d
+source_sha256: fbd85f557ddb70b3bff61abde9aec4905a2fd279b926a105f3b1336102074a2d
 level: other
 parent_id: region:south-africa
 country_code: ZA

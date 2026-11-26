@@ -37,8 +37,8 @@ tags:
 translation_of: place:vasse-felix
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bd1025e3106ef3028f7f599f491a672c69e28df2decceb363de8e600f22ecdf7
-source_sha256: bd1025e3106ef3028f7f599f491a672c69e28df2decceb363de8e600f22ecdf7
+source_revision: sha256:c2fe9c6028b53fe0ad9689139c639b8e68abea76a719f3d08ae3337e9efe3d57
+source_sha256: c2fe9c6028b53fe0ad9689139c639b8e68abea76a719f3d08ae3337e9efe3d57
 related:
   - relation: about
     target_id: region:margaret-river

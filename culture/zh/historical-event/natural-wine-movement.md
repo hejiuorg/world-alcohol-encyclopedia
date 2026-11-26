@@ -83,9 +83,9 @@ verification_scope: source-verified
 
 自然酒（vin naturel）通常指尽量少干预的葡萄酒：葡萄来自有机或生态种植，使用原生酵母，不添加酿造辅料，也不做过滤、离心或热处理；硫的用量被压到极低，甚至完全不加。这套做法在 20 世纪后半叶由法国博若莱的一小群酿酒者反复试验，逐渐从地方实践变成国际潮流；2020 年，它第一次有了受法国国家承认的标签名称“Vin Méthode Nature”。
 
-!["自然酒运动：从博若莱的试验到 2020 年标签"地域背景](/media/photos/place-cafe-procope-e1f880f0.jpg)
+![博若莱葡萄园地图，标注产区与村庄](/media/photos/region-beaujolais-9700eca2.webp)
 
-图："自然酒运动：从博若莱的试验到 2020 年标签"的地域背景配图。图片：Jean-Marie Hullot from France，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Le_Procope_1,_Paris_2010.jpg)）。这张照片用于说明"自然酒运动：从博若莱的试验到 2020 年标签"所涉事件发生地的环境，不是该事件的现场记录。
+图：博若莱葡萄园地图，标注产区与村庄。图片：Cyril5555，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)）。地图用于说明自然酒运动的产区背景，不是事件现场照片。
 
 ## 时间与地点
 
@@ -154,6 +154,4 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![项目配图：香槟区划界（1927）：地名、地块与一场划界战争](/media/photos/historical-event-champagne-riots-1911-fde5507b.jpg)
 
-图：项目配图：香槟区划界（1927）：地名、地块与一场划界战争。图片：Agence Rol，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Apr%C3%A8s_le_pillage_d%27Ay,_avril_1911_-_btv1b69160215.jpg)）。关联图像：自然酒运动：从博若莱的试验到 2020 年标签。

@@ -160,6 +160,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“门多萨”页面配图：Mendoza Vineyard。摄影：Justin De La Ornellas，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-mendoza-043c2ae0.jpg)
+![Mendoza Vineyard](/media/photos/q2-region-mendoza-043c2ae0.jpg)
 
-图：Mendoza Vineyard。摄影：Justin De La Ornellas，CC BY 2.0，来自 Wikimedia Commons。。图片：Justin De La Ornellas，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25786871)）。关联图像：卡氏家族酒庄。
+图：Mendoza Vineyard。图片：Justin De La Ornellas，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25786871)）。关联图像：卡氏家族酒庄。

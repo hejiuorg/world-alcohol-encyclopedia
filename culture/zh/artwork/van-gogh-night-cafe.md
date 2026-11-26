@@ -84,7 +84,7 @@ verification_scope: source-verified
 ---
 ![凡高《夜间咖啡馆》复制图，1888，现藏耶鲁大学美术馆；不是阿尔勒咖啡馆的实景照片。](/media/photos/artwork-van-gogh-night-cafe-2ea3619d.jpg)
 
-图：凡高《夜间咖啡馆》复制图，1888，现藏耶鲁大学美术馆；不是阿尔勒咖啡馆的实景照片。。图片：Vincent van Gogh，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_The_Night_Caf%C3%A9_(1888).jpg)）。
+图：凡高《夜间咖啡馆》复制图，1888，现藏耶鲁大学美术馆；不是阿尔勒咖啡馆的实景照片。图片：Vincent van Gogh，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_The_Night_Caf%C3%A9_(1888).jpg)）。
 
 > **先给结论**
 > **一句话：** 这页判断《夜间咖啡馆》：凡高把一盏煤气灯画成一场通宵的发烧该怎么看，以及它在饮酒图像里的位置。

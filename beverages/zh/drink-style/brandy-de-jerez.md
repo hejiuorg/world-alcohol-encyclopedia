@@ -159,4 +159,4 @@ Fundador 是赫雷斯白兰地最具代表性的品牌之一，隶属 Grupo Empe
 
 ![赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。](/media/photos/drink-style-sherry-876c72cd.jpg)
 
-图：赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。。图片：Anual，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lustau_003An2019.jpg)）。关联图像：赫雷斯白兰地。
+图：赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。图片：Anual，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lustau_003An2019.jpg)）。关联图像：赫雷斯白兰地。

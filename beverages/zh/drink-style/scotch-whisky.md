@@ -152,4 +152,4 @@ verification_scope: source-verified
 
 ![水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。](/media/photos/ingredient-water-edf289bf.jpg)
 
-图：水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。。图片：Jorge Barrios，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)）。关联图像：苏格兰威士忌。
+图：水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。图片：Jorge Barrios，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)）。关联图像：苏格兰威士忌。

@@ -30,8 +30,8 @@ related:
 translation_of: event:vinitaly
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1b8e7347afcd41189c8e0bf3cae87dd34958b225ca44c603b9f16779f0332eda
-source_sha256: 1b8e7347afcd41189c8e0bf3cae87dd34958b225ca44c603b9f16779f0332eda
+source_revision: sha256:69cd222119dfd3630b52c2aee505f0d353d682cfbc26009011b0a73545b4462d
+source_sha256: 69cd222119dfd3630b52c2aee505f0d353d682cfbc26009011b0a73545b4462d
 references:
   - key: wine
     target_id: drink-style:wine

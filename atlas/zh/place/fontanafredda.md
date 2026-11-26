@@ -156,6 +156,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“皮埃蒙特”页面配图：Piedmont vineyard in autumn。摄影：Giorgio Montersino，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-piedmont-86c6d640.jpg)
+![Piedmont vineyard in autumn](/media/photos/q2-region-piedmont-86c6d640.jpg)
 
-图：Piedmont vineyard in autumn。摄影：Giorgio Montersino，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Giorgio Montersino，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=5816942)）。关联图像：丰塔纳弗雷达酒庄。
+图：Piedmont vineyard in autumn。图片：Giorgio Montersino，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=5816942)）。关联图像：丰塔纳弗雷达酒庄。

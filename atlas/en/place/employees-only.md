@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:employees-only
 source_lang: zh
-source_revision: sha256:bab247d5830cba9c9a05b45c18d252a9cee7835705d3fc4d8d520ff7d3aecf8d
-source_sha256: bab247d5830cba9c9a05b45c18d252a9cee7835705d3fc4d8d520ff7d3aecf8d
+source_revision: sha256:392ba9f339e8ac2c4b1ff97932bdc1a504f0a84170bf9ce09924e235b686ee11
+source_sha256: 392ba9f339e8ac2c4b1ff97932bdc1a504f0a84170bf9ce09924e235b686ee11
 translation_status: reviewed
 subtype: bar
 address: 510 Hudson Street, New York, NY 10014, USA
@@ -93,9 +93,9 @@ verification_scope: source-verified
 
 Employees Only stands at 510 Hudson Street in the West Village, between Christopher Street and West 10th Street. It opened in 2004 and became one of the defining bars of New York's cocktail revival: the frontage borrows the look of a fortune-teller's shop, while the room behind it is a high-energy bar known for classic cocktails and food served late. The name means "staff only," but the bar welcomes everyone; the sign is a joke, not a door policy.
 
-![Employees Only photograph](/media/photos/q2-place-employees-only-460e16a8.jpg)
+![A Manhattan in a coupe with a cherry on a pick](/media/photos/cocktail-manhattan-648a58c7.jpg)
 
-Figure: Employees Only. Photograph: File:2019-05-05 Lagavulin Distillery.jpg. Credit: Charlie Marshall, CC BY 2.0, via the site archive ([source](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)). Category photograph used to illustrate the subject; not an official product image.
+Image: A Manhattan in a coupe with a cherry on a pick. Credit: naotakem, CC BY 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photo.gne?id=6992048786)). This cocktail photograph illustrates the New York bar context; it is not an on-site photograph of Employees Only.
 
 ## Place and history
 
@@ -151,6 +151,4 @@ Begin with the address, move on to the current opening status, and finish with w
 
 ## Related images
 
-![Photograph for Pete's Tavern: Pete's Tavern (51708610272). Credit: ajay_suresh, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-place-petes-tavern-41eaebdf.jpg)
 
-Image: Pete's Tavern (51708610272). Credit: ajay_suresh, CC BY 2.0, via Wikimedia Commons.. Credit: ajay_suresh, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=112875512)). Related image for Employees Only.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:saijo-sake-route
 source_lang: zh
-source_revision: sha256:8c05594e2078395bdf200a089feeb57168fd3191a049663a1a42b08f7a82a954
-source_sha256: 8c05594e2078395bdf200a089feeb57168fd3191a049663a1a42b08f7a82a954
+source_revision: sha256:f60f63590d24a5e5191cebd5f109c31049e5a966bc12cbb2a2fdad19e266e64c
+source_sha256: f60f63590d24a5e5191cebd5f109c31049e5a966bc12cbb2a2fdad19e266e64c
 translation_status: reviewed
 legacy_refs: []
 aliases:

@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:aglianico
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:965b3b7ab160ec80448143f945bdc49da14b54da28aa91c25c22fee2a7710380
-source_sha256: 965b3b7ab160ec80448143f945bdc49da14b54da28aa91c25c22fee2a7710380
+source_revision: sha256:ea4506cedd31d207689ec1c5d3016c02365968b6fd921e59b6f4ea2ccb5ff7f5
+source_sha256: ea4506cedd31d207689ec1c5d3016c02365968b6fd921e59b6f4ea2ccb5ff7f5
 legacy_refs: []
 species: Vitis vinifera
 aliases:

@@ -153,9 +153,9 @@ Ata Rangi 是产区最具代表性的名字之一，旗舰黑皮诺来自 1980 �
 
 ## 相关图像
 
-![“新西兰”页面配图：New Zealand - Vineyard - 9878。摄影：Jorge Royan，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-new-zealand-02bcf61e.jpg)
+![New Zealand - Vineyard - 9878](/media/photos/q2-region-new-zealand-02bcf61e.jpg)
 
-图：New Zealand - Vineyard - 9878。摄影：Jorge Royan，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Jorge Royan，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=15897982)）。关联图像：马丁堡。
+图：New Zealand - Vineyard - 9878。图片：Jorge Royan，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=15897982)）。关联图像：马丁堡。
 
 ![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
 

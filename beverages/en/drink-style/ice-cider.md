@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:ice-cider
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8ceb4495dcf2bed804ba42776dc6020d24ae8c7f7d21b9de79597b6b4523aa32
-source_sha256: 8ceb4495dcf2bed804ba42776dc6020d24ae8c7f7d21b9de79597b6b4523aa32
+source_revision: sha256:f800b92b8bd16d088f245b31999b31b21433062ce0671d377c58da3ecfd39c78
+source_sha256: f800b92b8bd16d088f245b31999b31b21433062ce0671d377c58da3ecfd39c78
 related:
   - relation: about
     target_id: drink-style:cider

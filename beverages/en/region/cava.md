@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:cava
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2131eccc83259e0c7fc9b3806a7dafb5810d946cad51be49e91a44b6a240958c
-source_sha256: 2131eccc83259e0c7fc9b3806a7dafb5810d946cad51be49e91a44b6a240958c
+source_revision: sha256:94a19abb8fa057de17f6c15fe66e983f601c748676b93058fde9719c5c82a98d
+source_sha256: 94a19abb8fa057de17f6c15fe66e983f601c748676b93058fde9719c5c82a98d
 level: other
 parent_id: region:spain
 country_code: ES

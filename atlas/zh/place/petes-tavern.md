@@ -142,6 +142,4 @@ founded_year: 1864
 
 ## 相关图像
 
-![“雇员专属酒吧”页面配图：File:2019-05-05 Lagavulin Distillery.jpg。摄影：Charlie Marshall，CC BY 2.0，来自 项目图库（已授权实景照片）。该图用于说明相关类别，并非该对象的官方产品图。](/media/photos/q2-place-employees-only-460e16a8.jpg)
 
-图：File:2019-05-05 Lagavulin Distillery.jpg。摄影：Charlie Marshall，CC BY 2.0，来自 项目图库（已授权实景照片）。该图用于说明相关类别，并非该对象的官方产品图。。图片：Charlie Marshall，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)）。关联图像：皮特酒馆。

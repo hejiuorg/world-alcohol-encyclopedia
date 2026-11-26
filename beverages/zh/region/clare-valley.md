@@ -172,9 +172,9 @@ Jim Barry 的“The Florita”与 Pikes“Traditionale”是 Watervale 雷司令
 
 ## 相关图像
 
-![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+![Renmark South Australia Vineyard](/media/photos/q2-region-australia-968b262e.jpg)
 
-图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：克莱尔谷。
+图：Renmark South Australia Vineyard。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：克莱尔谷。
 
 ![雷司令](/media/photos/variety-riesling-a836132e.jpg)
 

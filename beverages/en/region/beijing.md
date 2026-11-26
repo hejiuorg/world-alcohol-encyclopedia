@@ -24,8 +24,8 @@ tags:
 translation_of: region:beijing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:18d1fa9d2a5b3de0e5c32740c8bfe768edc84c78358552c97b97dd8da92d6d4d
-source_sha256: 18d1fa9d2a5b3de0e5c32740c8bfe768edc84c78358552c97b97dd8da92d6d4d
+source_revision: sha256:a6eef09c2a3cc7d80009ae2f20e1de2177a232d8b20d6610c6afb0100f52dc4f
+source_sha256: a6eef09c2a3cc7d80009ae2f20e1de2177a232d8b20d6610c6afb0100f52dc4f
 related:
   - relation: about
     target_id: region:china

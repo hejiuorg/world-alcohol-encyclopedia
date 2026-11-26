@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kamiya-bar
 source_lang: zh
-source_revision: sha256:1cad005fb4f2dc13b93d7a547ab8ae755f398c80019e7ca66983c8efaaf4da57
-source_sha256: 1cad005fb4f2dc13b93d7a547ab8ae755f398c80019e7ca66983c8efaaf4da57
+source_revision: sha256:236130d05fe242660a28b370cb700ee37d955f05a9e2a43efbd9230195cc62f3
+source_sha256: 236130d05fe242660a28b370cb700ee37d955f05a9e2a43efbd9230195cc62f3
 translation_status: reviewed
 subtype: pub
 address: 1-1-1 Asakusa, Taito-ku, Tokyo 111-0032, Japan
@@ -174,6 +174,4 @@ For Kamiya Bar, begin with the address, then the current opening status, and fin
 
 ## Related images
 
-![Thematic illustration for Liqueur](/media/photos/theme-beer.jpg)
 
-Image: Thematic illustration for Liqueur. Project-made bilingual editorial figure, not an on-site photograph. Related image for Kamiya Bar.

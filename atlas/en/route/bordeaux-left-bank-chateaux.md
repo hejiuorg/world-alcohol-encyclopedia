@@ -103,8 +103,8 @@ stop_ids:
     note: Enter the vat room, cellar and label gallery by reservation and connect classification with art.
 mode: walk-tram-rail
 updated_at: 2026-11-08
-source_sha256: 623c8c9157d7f5ad861578bc7e8b2126e0cd9324c490f1b87579809ddd61c13c
-source_revision: sha256:623c8c9157d7f5ad861578bc7e8b2126e0cd9324c490f1b87579809ddd61c13c
+source_sha256: b3eb5c81f903e9b27017cb4583e6c6bf9a008f5ca88f316f1a3074187aae2b16
+source_revision: sha256:b3eb5c81f903e9b27017cb4583e6c6bf9a008f5ca88f316f1a3074187aae2b16
 ---
 
 # Bordeaux left bank: from La Cité du Vin to two Pauillac first growths

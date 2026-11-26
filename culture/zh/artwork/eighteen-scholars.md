@@ -83,7 +83,7 @@ verification_scope: source-verified
 ---
 ![旧题宋人《十八学士图》挂轴之一，现藏台北故宫博物院；不是唐太宗十八学士的现场肖像。](/media/photos/artwork-eighteen-scholars-47eceea4.jpg)
 
-图：旧题宋人《十八学士图》挂轴之一，现藏台北故宫博物院；不是唐太宗十八学士的现场肖像。。图片：Unknown author Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E4%BA%BA%E5%8D%81%E5%85%AB%E5%AD%A6%E5%A3%AB%E5%9B%BE%E8%BD%B4.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg)）。
+图：旧题宋人《十八学士图》挂轴之一，现藏台北故宫博物院；不是唐太宗十八学士的现场肖像。图片：Unknown author Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E5%AE%8B%E4%BA%BA%E5%8D%81%E5%85%AB%E5%AD%A6%E5%A3%AB%E5%9B%BE%E8%BD%B4.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg)）。
 
 > **先给结论**
 > **一句话：** 这页判断《十八学士图》：唐太宗留下的一组政治肖像，被后人画成了四种文人生活该怎么看，以及它在饮酒图像里的位置。

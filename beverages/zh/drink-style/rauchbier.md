@@ -147,4 +147,4 @@ verification_scope: source-verified
 
 ![一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。](/media/photos/drink-style-porter-241ce00e.jpg)
 
-图：一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。。图片：Erik Cleves Kristensen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6175146624)）。关联图像：烟熏啤酒。
+图：一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。图片：Erik Cleves Kristensen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6175146624)）。关联图像：烟熏啤酒。

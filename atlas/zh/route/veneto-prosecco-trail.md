@@ -167,6 +167,4 @@ updated_at: 2026-11-09
 
 图：格莱拉。图片：paul Barker Hemings from seregno, 85，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Prosecco_vitigni.jpg)）。关联图像：威尼托普罗塞克路线。
 
-![项目配图：比索尔酒庄](/media/photos/theme-vineyard.jpg)
 
-图：项目配图：比索尔酒庄。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：威尼托普罗塞克路线。

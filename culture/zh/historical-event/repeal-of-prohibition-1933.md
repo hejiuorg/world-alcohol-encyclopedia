@@ -145,6 +145,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“百威”页面配图：Budweiser bottle close-up。摄影：Sam，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-drink-usa-budweiser-3e34469f.jpg)
+![Budweiser bottle close-up](/media/photos/q2-drink-usa-budweiser-3e34469f.jpg)
 
-图：Budweiser bottle close-up。摄影：Sam，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Sam，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=20085117)）。关联图像：禁酒令废除 1933：第 21 条修正案与美国酒类监管的重置。
+图：Budweiser bottle close-up。图片：Sam，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=20085117)）。关联图像：禁酒令废除 1933：第 21 条修正案与美国酒类监管的重置。

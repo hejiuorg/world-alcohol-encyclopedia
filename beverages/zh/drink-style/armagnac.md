@@ -166,6 +166,6 @@ Baco 22A 是雅文邑最特别的一笔。它由白福儿与 Noah 杂交育成�
 
 ## 相关图像
 
-![“特雷比奥罗（白玉霓）”页面配图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。摄影：Gabriele Cantini，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-trebbiano-8254babe.jpg)
+![Tuscany Vin Santo (holy wine) dried Trebbiano grapes](/media/photos/q2-variety-trebbiano-8254babe.jpg)
 
-图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。摄影：Gabriele Cantini，CC BY 2.0，来自 Wikimedia Commons。。图片：Gabriele Cantini，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=19365493)）。关联图像：雅文邑。
+图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。图片：Gabriele Cantini，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=19365493)）。关联图像：雅文邑。

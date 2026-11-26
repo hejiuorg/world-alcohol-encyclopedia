@@ -182,10 +182,10 @@ Semillon 温度 8–10°C，用中等口径白酒杯；年轻酒配海鲜、沙�
 
 ## 相关图像
 
-![“赛美蓉”页面配图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-semillon-f7547db4.jpg)
+![Sémillon - Joseph Daurel](/media/photos/q2-variety-semillon-f7547db4.jpg)
 
-图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。。图片：Imprimerie A. Bellier & Cie - Bordeaux，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94839238)）。关联图像：猎人谷。
+图：Sémillon - Joseph Daurel。图片：Imprimerie A. Bellier & Cie - Bordeaux，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94839238)）。关联图像：猎人谷。
 
-![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+![Renmark South Australia Vineyard](/media/photos/q2-region-australia-968b262e.jpg)
 
-图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：猎人谷。
+图：Renmark South Australia Vineyard。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：猎人谷。

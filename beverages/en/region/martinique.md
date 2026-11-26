@@ -15,8 +15,8 @@ legacy_refs: []
 translation_of: region:martinique
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b1f1a36545952156b579250c477b42c3ab9c4210ae09c50a33e703c255c2ae2a
-source_sha256: b1f1a36545952156b579250c477b42c3ab9c4210ae09c50a33e703c255c2ae2a
+source_revision: sha256:67be99eef28853c2d1855b379770b6d94e6bd6064d06cc9fcdc89b7dab1d5cef
+source_sha256: 67be99eef28853c2d1855b379770b6d94e6bd6064d06cc9fcdc89b7dab1d5cef
 aliases:
   - Martinique
   - Martinique rhum agricole

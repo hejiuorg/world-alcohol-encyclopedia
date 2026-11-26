@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:walker-bay
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:58ac631846c2ddc4435a766ee30140c440e4a08b345bbf8cf0a071d9c0d385de
-source_sha256: 58ac631846c2ddc4435a766ee30140c440e4a08b345bbf8cf0a071d9c0d385de
+source_revision: sha256:8ef9c10a360603a18b6fb8fd695b386e4712f681764cacb0a06ad8be233a8133
+source_sha256: 8ef9c10a360603a18b6fb8fd695b386e4712f681764cacb0a06ad8be233a8133
 level: other
 parent_id: region:south-africa
 country_code: ZA

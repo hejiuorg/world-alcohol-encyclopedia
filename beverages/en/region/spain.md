@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:spain
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5318a394a7c970689d9831af448165644178a43ff9d046f200b5558023a57a34
-source_sha256: 5318a394a7c970689d9831af448165644178a43ff9d046f200b5558023a57a34
+source_revision: sha256:5c2737d66a315c894dfc43813993fa61507174dec919c27a47f0819e717b1e76
+source_sha256: 5c2737d66a315c894dfc43813993fa61507174dec919c27a47f0819e717b1e76
 level: country
 country_code: ES
 legacy_refs: []

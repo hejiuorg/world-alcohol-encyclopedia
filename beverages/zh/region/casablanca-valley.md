@@ -184,8 +184,8 @@ Pinot Noir 在冷凉气候下表现良好，常带红樱桃、草莓与香料气
 
 ![智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。](/media/photos/region-chile-7480a4eb.jpg)
 
-图：智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。。图片：Beatrice Murch，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)）。关联图像：卡萨布兰卡谷。
+图：智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。图片：Beatrice Murch，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)）。关联图像：卡萨布兰卡谷。
 
 ![酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。](/media/photos/editorial-lees-ageing-q2.jpg)
 
-图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：卡萨布兰卡谷。
+图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：卡萨布兰卡谷。

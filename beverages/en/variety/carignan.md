@@ -23,8 +23,8 @@ tags:
 translation_of: variety:carignan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f5c190f9d837a622f32c8508e0a4ed3c29d59eb94b4398d17fe6df8a1e2111b7
-source_sha256: f5c190f9d837a622f32c8508e0a4ed3c29d59eb94b4398d17fe6df8a1e2111b7
+source_revision: sha256:57655d4ccbb29dd61230de88d021903d2f4b4a4c2429529c115f1f4d82860842
+source_sha256: 57655d4ccbb29dd61230de88d021903d2f4b4a4c2429529c115f1f4d82860842
 related:
   - relation: about
     target_id: variety:syrah

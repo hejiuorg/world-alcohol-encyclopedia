@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:dr-loosen
 source_lang: zh
-source_revision: sha256:7043eb1d47adfefd096c54309f97126cb89340b76334bfbe3f547ed5d777bc6a
-source_sha256: 7043eb1d47adfefd096c54309f97126cb89340b76334bfbe3f547ed5d777bc6a
+source_revision: sha256:d3c8aced821ad7b0591f2ea8cc0cd577042a63951e780c3d4bb07d1eace49c52
+source_sha256: d3c8aced821ad7b0591f2ea8cc0cd577042a63951e780c3d4bb07d1eace49c52
 translation_status: reviewed
 subtype: winery-visitor
 address: St. Johannishof, 54470 Bernkastel-Kues, Germany

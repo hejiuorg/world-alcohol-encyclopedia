@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:guizhou
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9b18fad25724b03f36ff2f205177448361bb50e25eacee8f1a539ca30749b4a2
-source_sha256: 9b18fad25724b03f36ff2f205177448361bb50e25eacee8f1a539ca30749b4a2
+source_revision: sha256:7ac1b82992d0a53c44dc7a0df366f40b6b229b08b8859a5838cb312786425341
+source_sha256: 7ac1b82992d0a53c44dc7a0df366f40b6b229b08b8859a5838cb312786425341
 level: province
 parent_id: region:china
 country_code: CN

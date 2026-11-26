@@ -184,6 +184,6 @@ Cap Classique 的酒泥陈年时间从 9 个月到 5 年以上不等；酒标上
 
 图：皮诺塔吉。图片：Please note: This photo can be reproduced. Please quote the source as indicated below: Doris Schneider, Julius Kühn-Institut (JKI), Federal Research Centre for ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VIVC9286_PINOTAGE_Full_plant_3638.jpg)）。关联图像：弗兰谷。
 
-![“南非”页面配图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+![Vineyards in the Cederberg - South Africa](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
 
-图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Ltz Raptor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4647540)）。关联图像：弗兰谷。
+图：Vineyards in the Cederberg - South Africa。图片：Ltz Raptor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4647540)）。关联图像：弗兰谷。

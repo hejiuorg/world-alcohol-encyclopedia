@@ -173,6 +173,6 @@ Arbois 的特鲁索更饱满，适合配烤肉；Côtes du Jura 的更轻，适�
 
 ## 相关图像
 
-![“汝拉”页面配图：File:Bodegas Grand vineyard in Passenans, Jura, France.jpg。摄影：Francisco Gonzalez，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-jura-de526709.jpg)
+![File:Bodegas Grand vineyard in Passenans, Jura, France.jpg](/media/photos/q2-region-jura-de526709.jpg)
 
-图：File:Bodegas Grand vineyard in Passenans, Jura, France.jpg。摄影：Francisco Gonzalez，CC BY 2.0，来自 Wikimedia Commons。。图片：Francisco Gonzalez，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25637605)）。关联图像：特鲁索。
+图：File:Bodegas Grand vineyard in Passenans, Jura, France.jpg。图片：Francisco Gonzalez，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25637605)）。关联图像：特鲁索。

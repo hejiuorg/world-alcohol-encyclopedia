@@ -169,6 +169,6 @@ VS 与 VSOP 适合加冰或调酒，Sidecar、French Connection 都以干邑为�
 
 ## 相关图像
 
-![“特雷比奥罗（白玉霓）”页面配图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。摄影：Gabriele Cantini，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-trebbiano-8254babe.jpg)
+![Tuscany Vin Santo (holy wine) dried Trebbiano grapes](/media/photos/q2-variety-trebbiano-8254babe.jpg)
 
-图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。摄影：Gabriele Cantini，CC BY 2.0，来自 Wikimedia Commons。。图片：Gabriele Cantini，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=19365493)）。关联图像：干邑。
+图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。图片：Gabriele Cantini，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=19365493)）。关联图像：干邑。

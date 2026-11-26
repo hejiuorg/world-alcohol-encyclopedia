@@ -103,9 +103,9 @@ updated_at: 2026-11-09
 
 古巴朗姆路线指两座博物馆：哈瓦那老城港口大道 262 号的[哈瓦那朗姆酒博物馆](ref:havana)，与圣地亚哥-德古巴圣巴西利奥街 358 号的[圣地亚哥朗姆酒博物馆](ref:santiago)。两城相距八百多公里，共用一条线索：西班牙殖民时期限制殖民地蒸馏，19 世纪后半叶才形成真正的 ron；1862 年后圣地亚哥自称“轻朗姆摇篮”；1959 年革命与 1960 年国有化，又把品牌、酒厂与出口渠道重组成国家体系。这条线看的不是设备新旧，而是同一段历史如何在两座城市被讲述。
 
-![栏目配图](/media/photos/q2-route-cuba-rum-trail-99fd8e48.jpg)
+![哈瓦那老城的 Bodeguita del Medio 酒吧外观](/media/photos/q2-route-cuba-rum-trail-99fd8e48.jpg)
 
-图：栏目配图。摄影：见原图页。署名：Derek Blackadder from Cobourg, ON, Canada，CC BY-SA 2.0，来自 项目图库（类别配图）（[来源](https://commons.wikimedia.org/wiki/File:Bodeguita_del_Medio,_Havana,_Cuba_9.jpg)）。这张照片仅为路线栏目配图，不标定古巴朗姆路线：哈瓦那与圣地亚哥的两座朗姆博物馆的具体停靠点或边界。
+图：哈瓦那老城的 Bodeguita del Medio 酒吧外观，作为古巴朗姆路线中哈瓦那站点的氛围参考，不标定具体停靠点或边界。图片：Derek Blackadder from Cobourg, ON, Canada，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bodeguita_del_Medio,_Havana,_Cuba_9.jpg)）。
 
 ## 西端港口与东部山地之间
 

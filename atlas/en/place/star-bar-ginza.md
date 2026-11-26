@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:star-bar-ginza
 source_lang: zh
-source_revision: sha256:ee8fdc7689090297e94ff9fd8831b191132a63efe140e97dc4029fd18ab967fa
-source_sha256: ee8fdc7689090297e94ff9fd8831b191132a63efe140e97dc4029fd18ab967fa
+source_revision: sha256:f0a8eef78374641b934e5d30240c4309d4491c4d9ef3fe96d1119dbb6593ec76
+source_sha256: f0a8eef78374641b934e5d30240c4309d4491c4d9ef3fe96d1119dbb6593ec76
 translation_status: reviewed
 subtype: bar
 address: Ginza, Chuo-ku, Tokyo
@@ -101,9 +101,6 @@ verification_scope: source-verified
 
 Star Bar Ginza stands in a basement in Ginza 1-chome, Tokyo, near Namiki-dori, and its owner-bartender is Hisashi Kishi. It is not the kind of bar that draws people with themed decor or a theatrical mixing show: the room is quiet, the counter is the centre, the drinks are mostly classics, and ice is treated as a craft in its own right. Reading it as a sample of old-school Ginza is closer to the truth than treating it as one stop on a "must-visit Tokyo" list.
 
-![Star Bar Ginza photograph](/media/photos/q2-place-star-bar-ginza-5aef3a60.jpg)
-
-Figure: Star Bar Ginza. Photograph: File:YamazakiDistillery 01.jpg. Credit: Ujigis, CC BY-SA 4.0, via the site archive ([source](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)). Category photograph used to illustrate the subject; not an official product image.
 
 > **Quick verdict**
 > **In one line:** This entry helps you decide whether Star Bar Ginza deserves a detour, and what to check before visiting.

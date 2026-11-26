@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:repeal-of-prohibition-1933
 source_lang: zh
-source_revision: sha256:38fb2573973fb33e079ec690a8e1d367fa5ae1515097321babbca6b9837520a1
-source_sha256: 38fb2573973fb33e079ec690a8e1d367fa5ae1515097321babbca6b9837520a1
+source_revision: sha256:ec4ba68e101e85b2f0d0243749df009270c90790f5d321a4fc6e159eeb79f105
+source_sha256: ec4ba68e101e85b2f0d0243749df009270c90790f5d321a4fc6e159eeb79f105
 translation_status: reviewed
 legacy_refs: []
 date_text: 20 February–5 December 1933

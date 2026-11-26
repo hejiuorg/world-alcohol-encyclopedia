@@ -158,6 +158,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“剑南春”页面配图：剑南春酒坊遗址国保碑。摄影：Nekitarc，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-brand-jiannanchun-47515a5f.jpg)
+![剑南春酒坊遗址国保碑](/media/photos/q2-brand-jiannanchun-47515a5f.jpg)
 
-图：剑南春酒坊遗址国保碑。摄影：Nekitarc，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Nekitarc，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=44292018)）。关联图像：剑南春酒坊遗址（天益老号）。
+图：剑南春酒坊遗址国保碑。图片：Nekitarc，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=44292018)）。关联图像：剑南春酒坊遗址（天益老号）。

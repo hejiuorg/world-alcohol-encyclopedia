@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:makers-mark-distillery
 source_lang: zh
-source_revision: sha256:3d65edadba1831f501dd18a9c004abd04fb0efaa0fd31c43ff67a0d4ac1cb65f
-source_sha256: 3d65edadba1831f501dd18a9c004abd04fb0efaa0fd31c43ff67a0d4ac1cb65f
+source_revision: sha256:374770a2c6ec431c6d6d81bcf8c8101713b0261f3ef430172ba161ff19a2ee99
+source_sha256: 374770a2c6ec431c6d6d81bcf8c8101713b0261f3ef430172ba161ff19a2ee99
 translation_status: reviewed
 subtype: distillery-visitor
 address: 3350 Burks Spring Rd, Loretto, KY 40037, USA

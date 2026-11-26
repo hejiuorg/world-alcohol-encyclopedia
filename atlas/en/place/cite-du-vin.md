@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:cite-du-vin
 source_lang: zh
-source_revision: sha256:2771a71deb3f270d2a8559bc748a912b68b8834fbb140db220043a00cefd0da6
-source_sha256: 2771a71deb3f270d2a8559bc748a912b68b8834fbb140db220043a00cefd0da6
+source_revision: sha256:cce0418c1dad46ea712d3b192de85a8c17f9ac8346545d77dd1c7ad54b780b5e
+source_sha256: cce0418c1dad46ea712d3b192de85a8c17f9ac8346545d77dd1c7ad54b780b5e
 translation_status: reviewed
 subtype: museum
 address: 134 Quai de Bacalan, 33300 Bordeaux, France
@@ -170,6 +170,4 @@ Further reading: [Changyu Wine Culture Museum](ref:c-extra-1), [A Ginjinha](ref:
 
 ## Related images
 
-![Illustration for Changyu Wine Culture Museum](/media/photos/theme-winery.jpg)
 
-Image: Illustration for Changyu Wine Culture Museum. Project-made bilingual editorial figure, not an on-site photograph. Related image for La Cité du Vin.

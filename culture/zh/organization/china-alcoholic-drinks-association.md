@@ -91,7 +91,7 @@ verification_scope: source-verified
 
 ![苏州一家超市货架上的牛栏山二锅头；画面不是中国酒业协会总部，也不是协会活动。图：Shwangtianyuan，CC BY-SA 4.0。](/media/photos/organization-china-alcoholic-drinks-association-6d75c35e.jpg)
 
-图：苏州一家超市货架上的牛栏山二锅头；画面不是中国酒业协会总部，也不是协会活动。图：Shwangtianyuan，CC BY-SA 4.0。。图片：Shwangtianyuan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Niulanshan_Erguotou_on_shelves_in_CR_Vanguard_Suzhou_Fangzhou_Road_Store.jpg)）。
+图：苏州一家超市货架上的牛栏山二锅头；画面不是中国酒业协会总部，也不是协会活动。图片：Shwangtianyuan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Niulanshan_Erguotou_on_shelves_in_CR_Vanguard_Suzhou_Fangzhou_Road_Store.jpg)）。
 
 ## 1992 年的登记与改名
 

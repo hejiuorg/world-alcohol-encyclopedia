@@ -24,8 +24,8 @@ tags:
 translation_of: region:coonawarra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f9d01d8567f00f86dba4726251fb1384acb5374e54e461d72a69dcd2ffe26f62
-source_sha256: f9d01d8567f00f86dba4726251fb1384acb5374e54e461d72a69dcd2ffe26f62
+source_revision: sha256:1ac3af5ae975f93e6c105c1a51641c4d5aadabcc120e7a48469dabc0725202f2
+source_sha256: 1ac3af5ae975f93e6c105c1a51641c4d5aadabcc120e7a48469dabc0725202f2
 related:
   - relation: about
     target_id: region:australia

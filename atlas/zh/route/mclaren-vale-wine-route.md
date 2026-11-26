@@ -154,6 +154,6 @@ updated_at: 2026-11-21
 
 图：维拉维拉酒庄相关实景照片。图片：No Swan So Fine，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wirra_Wirra_Vineyards,_Strout_Road,_McLaren_Vale_07.jpg)）。关联图像：麦克拉伦谷葡萄酒路线。
 
-![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+![Syrah Grapes on the Vine](/media/photos/q2-variety-syrah-dc13087a.jpg)
 
-图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：麦克拉伦谷葡萄酒路线。
+图：Syrah Grapes on the Vine。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：麦克拉伦谷葡萄酒路线。

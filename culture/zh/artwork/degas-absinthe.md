@@ -84,7 +84,7 @@ verification_scope: source-verified
 ---
 ![德加《在咖啡馆》（通称《苦艾酒》）复制图，1875–1876，现藏奥赛博物馆；不是咖啡馆现场照片。](/media/photos/artwork-degas-absinthe-7ae4b4bb.jpg)
 
-图：德加《在咖啡馆》（通称《苦艾酒》）复制图，1875–1876，现藏奥赛博物馆；不是咖啡馆现场照片。。图片：Edgar Degas，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project.jpg)）。
+图：德加《在咖啡馆》（通称《苦艾酒》）复制图，1875–1876，现藏奥赛博物馆；不是咖啡馆现场照片。图片：Edgar Degas，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project.jpg)）。
 
 > **先给结论**
 > **一句话：** 这页判断《苦艾酒》：德加画的是两个人坐在一起，却谁也不看谁该怎么看，以及它在饮酒图像里的位置。

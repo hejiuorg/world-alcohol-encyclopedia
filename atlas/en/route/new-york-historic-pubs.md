@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:new-york-historic-pubs
 source_lang: zh
-source_revision: sha256:5d53f7c06653d6a62f46de5d796866b9ee7474da28057c6afc2bb7f008f2961c
-source_sha256: 5d53f7c06653d6a62f46de5d796866b9ee7474da28057c6afc2bb7f008f2961c
+source_revision: sha256:df55b4648b5b7df9e9cd3c85ba6dd3e3afcb3295f1bb2170c552f804fe24a07b
+source_sha256: df55b4648b5b7df9e9cd3c85ba6dd3e3afcb3295f1bb2170c552f804fe24a07b
 translation_status: reviewed
 legacy_refs: []
 aliases:

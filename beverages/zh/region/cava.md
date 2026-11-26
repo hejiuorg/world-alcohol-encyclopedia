@@ -171,9 +171,9 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+![Uga - Lanzarote - Spain. Vineyards -U16](/media/photos/q2-region-spain-732e598a.jpg)
 
-图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：卡瓦。
+图：Uga - Lanzarote - Spain. Vineyards -U16。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：卡瓦。
 
 ![歌海娜](/media/photos/variety-grenache-69c881eb.jpg)
 

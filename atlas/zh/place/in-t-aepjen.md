@@ -158,4 +158,4 @@ In ’t Aepjen 的核心是荷兰棕色咖啡馆的日常：啤酒、jenever 与
 
 ![阿姆斯特丹喜力体验馆的砖砌厂房立面，屋顶立着绿色 Heineken 标志。](/media/photos/place-heineken-experience-6ed3e1de.jpg)
 
-图：阿姆斯特丹喜力体验馆的砖砌厂房立面，屋顶立着绿色 Heineken 标志。。图片：Steven Lek，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Heineken_Experience_Amsterdam_2018_3.jpg)）。关联图像：In ’t Aepjen。
+图：阿姆斯特丹喜力体验馆的砖砌厂房立面，屋顶立着绿色 Heineken 标志。图片：Steven Lek，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Heineken_Experience_Amsterdam_2018_3.jpg)）。关联图像：In ’t Aepjen。

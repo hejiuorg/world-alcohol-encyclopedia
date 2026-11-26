@@ -177,6 +177,6 @@ Pipers Brook 由 Andrew Pirie 于 1974 年创立，是现代产区的早期标�
 
 图：起泡酒。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：塔斯马尼亚。
 
-![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+![Renmark South Australia Vineyard](/media/photos/q2-region-australia-968b262e.jpg)
 
-图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：塔斯马尼亚。
+图：Renmark South Australia Vineyard。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：塔斯马尼亚。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:mexico-tequila-trail
 source_lang: zh
-source_revision: sha256:b00c3ec2383595d036bc5049729fc50ae565e3130fb640591c110e4013c54a62
-source_sha256: b00c3ec2383595d036bc5049729fc50ae565e3130fb640591c110e4013c54a62
+source_revision: sha256:ab087cff649ec776051cc75e48a173ea5e72d559fd5fb0c98acb8fdd92a9a7ab
+source_sha256: ab087cff649ec776051cc75e48a173ea5e72d559fd5fb0c98acb8fdd92a9a7ab
 translation_status: reviewed
 legacy_refs: []
 aliases:

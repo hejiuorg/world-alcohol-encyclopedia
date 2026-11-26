@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:campbeltown-whisky-trail
 source_lang: zh
-source_revision: sha256:6fae32f95c375863b061b3d2724674aa9bf058dad4c4e94d8bc5d35aa3e6ff9c
-source_sha256: 6fae32f95c375863b061b3d2724674aa9bf058dad4c4e94d8bc5d35aa3e6ff9c
+source_revision: sha256:b5b970eabbc114f27a2aeb9d11b713e0d953cd5bc17b7e566b13b5961dda6061
+source_sha256: b5b970eabbc114f27a2aeb9d11b713e0d953cd5bc17b7e566b13b5961dda6061
 translation_status: reviewed
 legacy_refs: []
 aliases:

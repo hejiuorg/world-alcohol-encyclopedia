@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:maipo
 source_lang: zh
-source_revision: sha256:acc961a0a575d96b3a33f18484f165db91f162b4db34ea020ebca8a1564b5fcb
-source_sha256: acc961a0a575d96b3a33f18484f165db91f162b4db34ea020ebca8a1564b5fcb
+source_revision: sha256:8e944825b4fdcb5b1710bbb608833884945762dc5fd2d327bf4d173eb909dc0a
+source_sha256: 8e944825b4fdcb5b1710bbb608833884945762dc5fd2d327bf4d173eb909dc0a
 translation_status: reviewed
 level: other
 parent_id: region:chile

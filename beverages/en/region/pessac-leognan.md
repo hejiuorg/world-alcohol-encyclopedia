@@ -25,8 +25,8 @@ tags:
 translation_of: region:pessac-leognan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5df0c3a0de0faf7343bf012c1ccc8946b73efe52deedf90ce6f65a38f5ae630c
-source_sha256: 5df0c3a0de0faf7343bf012c1ccc8946b73efe52deedf90ce6f65a38f5ae630c
+source_revision: sha256:90280fe7f1ef239a52e05456f0d47efdad52cdc7c181a656bfbb3a1c75f85833
+source_sha256: 90280fe7f1ef239a52e05456f0d47efdad52cdc7c181a656bfbb3a1c75f85833
 related:
   - relation: about
     target_id: region:bordeaux

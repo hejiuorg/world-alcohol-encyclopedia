@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:corvina
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:292b10c6c78fdb47ade71027b8d916849b570b2d239f58885bb795f8420cc8a0
-source_sha256: 292b10c6c78fdb47ade71027b8d916849b570b2d239f58885bb795f8420cc8a0
+source_revision: sha256:a5a9d8a264feec784eff54b25f17cb3c77b6a72d5787eb7816137baabe86ee98
+source_sha256: a5a9d8a264feec784eff54b25f17cb3c77b6a72d5787eb7816137baabe86ee98
 legacy_refs: []
 species: Vitis vinifera
 aliases:

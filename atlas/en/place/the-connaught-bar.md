@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:the-connaught-bar
 source_lang: zh
-source_revision: sha256:888bd2ef8d2bcbd1a8a8f27a16caa52fd62dc320300e82f9b2c04219eb129bb0
-source_sha256: 888bd2ef8d2bcbd1a8a8f27a16caa52fd62dc320300e82f9b2c04219eb129bb0
+source_revision: sha256:c4d0ab8952c42d21fdb4692cda91045dfa0baa38369eb043f298a3fbe4ed946e
+source_sha256: c4d0ab8952c42d21fdb4692cda91045dfa0baa38369eb043f298a3fbe4ed946e
 translation_status: reviewed
 subtype: bar
 address: The Connaught, Carlos Place, London W1K 2AL, United Kingdom

@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:cafe-de-flore
 source_lang: zh
-source_revision: sha256:73ccffe419d58156f451b3163e7d708e9274b8e70ce57895c928ea76b12c1a46
-source_sha256: 73ccffe419d58156f451b3163e7d708e9274b8e70ce57895c928ea76b12c1a46
+source_revision: sha256:c6b3682b51851bcfa26226609f828b300b59c847ab25adfce25d19d1d69fa3ba
+source_sha256: c6b3682b51851bcfa26226609f828b300b59c847ab25adfce25d19d1d69fa3ba
 translation_status: reviewed
 subtype: pub
 address: 172 Boulevard Saint-Germain, 75006 Paris

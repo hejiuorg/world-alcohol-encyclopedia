@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 ![美国蓝山啤酒厂的发酵罐；画面不是美国酿酒师协会的总部，也不是其赛事现场。图：Schwars1，CC0。](/media/photos/organization-brewers-association-2d06f1d0.jpg)
 
-图：美国蓝山啤酒厂的发酵罐；画面不是美国酿酒师协会的总部，也不是其赛事现场。图：Schwars1，CC0。。图片：Schwars1，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Blue_Mountain_Brewery_beer_fermentation_tank.jpg)）。
+图：美国蓝山啤酒厂的发酵罐；画面不是美国酿酒师协会的总部，也不是其赛事现场。图片：Schwars1，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Blue_Mountain_Brewery_beer_fermentation_tank.jpg)）。
 
 ## 2005 年的合并
 

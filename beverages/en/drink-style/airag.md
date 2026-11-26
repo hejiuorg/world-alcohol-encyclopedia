@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:airag
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:54a36a3985ab60dfb1057484d8761e60dfdd7f425641eba7c53bfc45eb351f24
-source_sha256: 54a36a3985ab60dfb1057484d8761e60dfdd7f425641eba7c53bfc45eb351f24
+source_revision: sha256:8d1b40a98c2f49321128ffaac6287e45ba045d4629a4fe993358f79a90d8134a
+source_sha256: 8d1b40a98c2f49321128ffaac6287e45ba045d4629a4fe993358f79a90d8134a
 related:
   - relation: about
     target_id: drink-style:other

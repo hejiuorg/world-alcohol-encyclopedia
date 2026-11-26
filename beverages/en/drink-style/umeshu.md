@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:umeshu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:021222ebc2c5b3b892a1ae71dd468e72407abd4d7d66efb3284792f65bba86ae
-source_sha256: 021222ebc2c5b3b892a1ae71dd468e72407abd4d7d66efb3284792f65bba86ae
+source_revision: sha256:6416422496e9b90606265460acf1f182df21cf970988df7dedd49ea72c00c1f0
+source_sha256: 6416422496e9b90606265460acf1f182df21cf970988df7dedd49ea72c00c1f0
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: green plum, almond and honey

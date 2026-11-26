@@ -151,6 +151,6 @@ verification_scope: source-verified
 
 图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：格拉夫。
 
-![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+![Cabernet Sauvignon grapes from Château Cos D'Estournel](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
 
-图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：格拉夫。
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：格拉夫。

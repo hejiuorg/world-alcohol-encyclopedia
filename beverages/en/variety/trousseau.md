@@ -22,8 +22,8 @@ tags:
 translation_of: variety:trousseau
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a313344eba01efcaba07dfe817aa1b11dd9283a058fad1742f37e7d17af1954d
-source_sha256: a313344eba01efcaba07dfe817aa1b11dd9283a058fad1742f37e7d17af1954d
+source_revision: sha256:ae90769902019a2270cfb3b3d7a2fb183ef7ba5e070e1b9446178ff5b6dd9924
+source_sha256: ae90769902019a2270cfb3b3d7a2fb183ef7ba5e070e1b9446178ff5b6dd9924
 related:
   - relation: about
     target_id: region:jura

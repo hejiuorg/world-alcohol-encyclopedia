@@ -10,8 +10,8 @@ summary: A set of four hanging scrolls in Taipei, formerly labelled Song but now
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:55c323845d481260623b3d84b7289e5b3c02de94377b07880da09736e3ce53b8
-source_sha256: 55c323845d481260623b3d84b7289e5b3c02de94377b07880da09736e3ce53b8
+source_revision: sha256:de42fe5c157e532fc32db9c133fad9371b37a0119092b932b4c4c506977e23a8
+source_sha256: de42fe5c157e532fc32db9c133fad9371b37a0119092b932b4c4c506977e23a8
 source_lang: zh
 translation_status: reviewed
 creator_refs: []

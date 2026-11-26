@@ -180,6 +180,6 @@ updated_at: 2026-11-08
 
 图：洛佩兹雷迪亚酒庄。图片：Zarateman，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Haro_-_Bodegas_L%C3%B3pez_de_Heredia_Vi%C3%B1a_Tondonia_1.JPG)）。关联图像：里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年。
 
-![“CVNE 酒庄”页面配图：CVNE bodega Imperial 2。摄影：Txo，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-cvne-2d81cddc.jpg)
+![CVNE bodega Imperial 2](/media/photos/q2-place-cvne-2d81cddc.jpg)
 
-图：CVNE bodega Imperial 2。摄影：Txo，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Txo，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=83638963)）。关联图像：里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年。
+图：CVNE bodega Imperial 2。图片：Txo，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=83638963)）。关联图像：里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年。

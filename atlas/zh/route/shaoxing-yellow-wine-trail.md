@@ -171,9 +171,9 @@ updated_at: 2026-11-08
 
 ## 相关图像
 
-![“中国黄酒博物馆”页面配图：Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925。摄影：Daderot，CC0，来自 Wikimedia Commons。](/media/photos/q2-place-china-yellow-wine-museum-bcbf374a.jpg)
+![Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925](/media/photos/q2-place-china-yellow-wine-museum-bcbf374a.jpg)
 
-图：Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925。摄影：Daderot，CC0，来自 Wikimedia Commons。。图片：Daderot，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=152459715)）。关联图像：绍兴黄酒路线：从博物馆到咸亨，再到中央酒库。
+图：Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925。图片：Daderot，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=152459715)）。关联图像：绍兴黄酒路线：从博物馆到咸亨，再到中央酒库。
 
 ![咸亨酒店](/media/photos/place-xianheng-hotel-329475b5.jpg)
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:satsuma-shochu-meijigura
 source_lang: zh
-source_revision: sha256:da07cea69e8a4f641e2504fbeca51460f29eb3ba9aecb126286f63bc4dbf54df
-source_sha256: da07cea69e8a4f641e2504fbeca51460f29eb3ba9aecb126286f63bc4dbf54df
+source_revision: sha256:95c63fd848e0fb74718254d7ec24a1d7afb28134ec0ed439e0f6048355a48087
+source_sha256: 95c63fd848e0fb74718254d7ec24a1d7afb28134ec0ed439e0f6048355a48087
 translation_status: reviewed
 subtype: distillery-visitor
 address: 鹿児島県枕崎市立神本町26

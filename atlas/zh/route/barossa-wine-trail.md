@@ -156,6 +156,6 @@ Wine Australia 的记录显示，巴罗萨仍有 1843 年种植的 Shiraz，被�
 
 图：奔富玛吉尔庄园相关实景照片。图片：Bahnfrend，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Penfolds_Magill_Estate,_2014(2).JPG)）。关联图像：巴罗萨葡萄酒路线。
 
-![“亨施克酒庄”页面配图：Henschke Ruth Stolperstein Magdeburg。摄影：Adnon，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-henschke-95496df3.jpg)
+![Henschke Ruth Stolperstein Magdeburg](/media/photos/q2-place-henschke-95496df3.jpg)
 
-图：Henschke Ruth Stolperstein Magdeburg。摄影：Adnon，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Adnon，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=90422028)）。关联图像：巴罗萨葡萄酒路线。
+图：Henschke Ruth Stolperstein Magdeburg。图片：Adnon，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=90422028)）。关联图像：巴罗萨葡萄酒路线。

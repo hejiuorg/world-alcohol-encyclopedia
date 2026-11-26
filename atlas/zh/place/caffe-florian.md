@@ -148,4 +148,4 @@ founded_year: 1720
 
 ![哈里酒吧在 Calle Vallaresso 的入口，门楣上方标着门牌 1323。](/media/photos/place-harrys-bar-venice-ad372cc6.jpg)
 
-图：哈里酒吧在 Calle Vallaresso 的入口，门楣上方标着门牌 1323。。图片：Felix Haslimeier，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Italy_-_Venice,_Harry%27s_Bar,_San_Marco.jpg)）。关联图像：花神咖啡馆（威尼斯）。
+图：哈里酒吧在 Calle Vallaresso 的入口，门楣上方标着门牌 1323。图片：Felix Haslimeier，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Italy_-_Venice,_Harry%27s_Bar,_San_Marco.jpg)）。关联图像：花神咖啡馆（威尼斯）。

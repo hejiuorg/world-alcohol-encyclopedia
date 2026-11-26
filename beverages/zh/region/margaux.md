@@ -163,9 +163,9 @@ Margaux 只适用于来自划定地块、并在区内完成发酵与陈年的静
 
 ## 相关图像
 
-![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+![Moët & Chandon vineyards in Verzenay, Champagne, France](/media/photos/q2-region-france-338f007d.jpg)
 
-图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：玛歌。
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：玛歌。
 
 ![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
 

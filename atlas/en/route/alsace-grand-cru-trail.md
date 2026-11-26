@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:alsace-grand-cru-trail
 source_lang: zh
-source_revision: sha256:9adbdebcf04c6cb53c68e924132208b4f44ced66fcb4a967df0fefb56ad6d40b
-source_sha256: 9adbdebcf04c6cb53c68e924132208b4f44ced66fcb4a967df0fefb56ad6d40b
+source_revision: sha256:f1d9ce2a7610bc2f3aec02126b0baa3ad4a64ead17212fe11340cbe3a1550af8
+source_sha256: f1d9ce2a7610bc2f3aec02126b0baa3ad4a64ead17212fe11340cbe3a1550af8
 translation_status: reviewed
 legacy_refs: []
 aliases:

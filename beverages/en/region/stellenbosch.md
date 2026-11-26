@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:stellenbosch
 source_lang: zh
-source_revision: sha256:9f7a015a835eb1b6785f4b287c0a17336fc8d992b54c2efbd035fc68be759954
-source_sha256: 9f7a015a835eb1b6785f4b287c0a17336fc8d992b54c2efbd035fc68be759954
+source_revision: sha256:17c46cc7d06411404d6b94709a49a72770afd2b2bd98a211defdc5e084d64514
+source_sha256: 17c46cc7d06411404d6b94709a49a72770afd2b2bd98a211defdc5e084d64514
 translation_status: reviewed
 level: other
 parent_id: region:south-africa

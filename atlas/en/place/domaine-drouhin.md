@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:domaine-drouhin
 source_lang: zh
-source_revision: sha256:0b773553a0a3240db21fc5f059148e48d1b878585b1c692997e04a34688dcf18
-source_sha256: 0b773553a0a3240db21fc5f059148e48d1b878585b1c692997e04a34688dcf18
+source_revision: sha256:580864e6c74aef2845763dd8c5bea719e0a53974feb089330538831fb675b300
+source_sha256: 580864e6c74aef2845763dd8c5bea719e0a53974feb089330538831fb675b300
 translation_status: reviewed
 legacy_refs: []
 aliases:

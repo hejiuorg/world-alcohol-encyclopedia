@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:south-korea
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f8151d03f575dc920faa933784176e7d53efe9efc4b22bc8d9c2cb789f4de424
-source_sha256: f8151d03f575dc920faa933784176e7d53efe9efc4b22bc8d9c2cb789f4de424
+source_revision: sha256:6709ed9c4f7737402afa15c0ec8b45b413997fc66b49eae590c965a11de866bc
+source_sha256: 6709ed9c4f7737402afa15c0ec8b45b413997fc66b49eae590c965a11de866bc
 level: country
 country_code: KR
 legacy_refs: []

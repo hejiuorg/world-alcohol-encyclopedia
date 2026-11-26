@@ -177,9 +177,9 @@ Guigal 是产区最知名的家族酒庄，自有葡萄园全部位于北罗讷�
 
 ## 相关图像
 
-![“维欧尼”页面配图：Viognier Grape must after pressing。摄影：Ian Brown，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-viognier-0ccec251.jpg)
+![Viognier Grape must after pressing](/media/photos/q2-variety-viognier-0ccec251.jpg)
 
-图：Viognier Grape must after pressing。摄影：Ian Brown，CC BY 2.0，来自 Wikimedia Commons。。图片：Ian Brown，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13317886)）。关联图像：罗第丘。
+图：Viognier Grape must after pressing。图片：Ian Brown，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13317886)）。关联图像：罗第丘。
 
 ![罗讷河谷](/media/photos/region-rhone-df823b9c.jpg)
 

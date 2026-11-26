@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:du-kang-wine-legend
 source_lang: zh
-source_revision: sha256:11fecbe3bbd62da3635625d0295ba2b470c13c6a967056c60184c5daff7c0701
-source_sha256: 11fecbe3bbd62da3635625d0295ba2b470c13c6a967056c60184c5daff7c0701
+source_revision: sha256:32d4cdced7843e8d720e73c51d4cca59eddecb5fc91b0587ce92c76bc01c7e28
+source_sha256: 32d4cdced7843e8d720e73c51d4cca59eddecb5fc91b0587ce92c76bc01c7e28
 translation_status: reviewed
 aliases:
   - 杜康

@@ -33,8 +33,8 @@ related:
 translation_of: organization:brewers-association
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cf5b1e585e2b42dbbfa41b7fd6936a4ca50ffb2e25fba46bbf7af426832baa1a
-source_sha256: cf5b1e585e2b42dbbfa41b7fd6936a4ca50ffb2e25fba46bbf7af426832baa1a
+source_revision: sha256:6fbdbfdd0e9f81f962188977cfb74fd8dfcc4fd38a01619f629bcc472232d135
+source_sha256: 6fbdbfdd0e9f81f962188977cfb74fd8dfcc4fd38a01619f629bcc472232d135
 references:
   - key: beer
     target_id: drink-style:beer

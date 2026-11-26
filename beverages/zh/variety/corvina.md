@@ -150,6 +150,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“阿玛罗尼”页面配图：A bottle of Amarone della Valpolicella。摄影：Jerzy Kociatkiewicz，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-drink-italy-amarone-della-valpolicella-035ae8e3.jpg)
+![A bottle of Amarone della Valpolicella](/media/photos/q2-drink-italy-amarone-della-valpolicella-035ae8e3.jpg)
 
-图：A bottle of Amarone della Valpolicella。摄影：Jerzy Kociatkiewicz，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Jerzy Kociatkiewicz，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=8844471)）。关联图像：科维纳。
+图：A bottle of Amarone della Valpolicella。图片：Jerzy Kociatkiewicz，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=8844471)）。关联图像：科维纳。

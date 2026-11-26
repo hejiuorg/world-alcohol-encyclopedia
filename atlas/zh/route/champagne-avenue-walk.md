@@ -200,9 +200,9 @@ updated_at: 2026-11-08
 
 ## 相关图像
 
-![“埃佩尔奈香槟大道”页面配图：Avenue de champagne épernay 1409027。摄影：G.Garitan，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-avenue-de-champagne-77370346.jpg)
+![Avenue de champagne épernay 1409027](/media/photos/q2-place-avenue-de-champagne-77370346.jpg)
 
-图：Avenue de champagne épernay 1409027。摄影：G.Garitan，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：G.Garitan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=121135039)）。关联图像：香槟路线：埃佩尔奈香槟大道步行。
+图：Avenue de champagne épernay 1409027。图片：G.Garitan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=121135039)）。关联图像：香槟路线：埃佩尔奈香槟大道步行。
 
 ![酩悦香槟](/media/photos/place-moet-et-chandon-5f14a8b9.jpg)
 

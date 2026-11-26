@@ -146,6 +146,6 @@ updated_at: 2026-11-09
 
 图：龙舌兰（龙舌兰属）。图片：Marc Ryckaert ( MJJR )，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Agave_americana_R01.jpg)）。关联图像：墨西哥龙舌兰路线。
 
-![“埃拉杜拉酒厂：阿马蒂坦的马蹄庄园”页面配图：Casa Herradura。摄影：Lupita Sarai，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-casa-herradura-16d9e678.jpg)
+![Casa Herradura](/media/photos/q2-place-casa-herradura-16d9e678.jpg)
 
-图：Casa Herradura。摄影：Lupita Sarai，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Lupita Sarai，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=84673666)）。关联图像：墨西哥龙舌兰路线。
+图：Casa Herradura。图片：Lupita Sarai，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=84673666)）。关联图像：墨西哥龙舌兰路线。

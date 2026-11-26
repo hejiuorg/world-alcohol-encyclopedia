@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:pomerol
 source_lang: zh
-source_revision: sha256:d0dbed132cd02e882e122c966b769d2f962f12075a538ebe8ccdd35949bb1d76
-source_sha256: d0dbed132cd02e882e122c966b769d2f962f12075a538ebe8ccdd35949bb1d76
+source_revision: sha256:c383ea1e33bfb1d29c893830e58e09ec5bfc488ad9f6f3bb334a02be9f340814
+source_sha256: c383ea1e33bfb1d29c893830e58e09ec5bfc488ad9f6f3bb334a02be9f340814
 translation_status: reviewed
 level: city
 parent_id: region:france

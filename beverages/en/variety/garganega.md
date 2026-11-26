@@ -21,8 +21,8 @@ tags:
 translation_of: variety:garganega
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ff60233baff6b23d788a3fe4f149c1d1c3e09aba9a92d0fec0fd07c33c497c04
-source_sha256: ff60233baff6b23d788a3fe4f149c1d1c3e09aba9a92d0fec0fd07c33c497c04
+source_revision: sha256:899b1d965e8fa6d2589cfbf63b86e01a57d7e5be55f3524dcf2f00d5a6fbae0f
+source_sha256: 899b1d965e8fa6d2589cfbf63b86e01a57d7e5be55f3524dcf2f00d5a6fbae0f
 related:
   - relation: about
     target_id: region:veneto

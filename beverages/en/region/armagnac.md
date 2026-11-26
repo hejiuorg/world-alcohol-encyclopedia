@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:armagnac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:edd5e5952664d880ff3fa48fd10ebbc1f455c1e8122c808a7c448fbf873999b7
-source_sha256: edd5e5952664d880ff3fa48fd10ebbc1f455c1e8122c808a7c448fbf873999b7
+source_revision: sha256:d276193e8b626ee667b671adc01021f21ea11ac188d52e4af1caa4d7286e7cb6
+source_sha256: d276193e8b626ee667b671adc01021f21ea11ac188d52e4af1caa4d7286e7cb6
 level: other
 parent_id: region:france
 country_code: FR

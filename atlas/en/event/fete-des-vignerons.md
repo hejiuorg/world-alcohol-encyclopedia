@@ -30,8 +30,8 @@ related:
 translation_of: event:fete-des-vignerons
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:45dc1cc606cfb216a2884b8c4d3a657bb2d441fc59992f142d5e4a77e7ceddc2
-source_sha256: 45dc1cc606cfb216a2884b8c4d3a657bb2d441fc59992f142d5e4a77e7ceddc2
+source_revision: sha256:a210343a373022b3f837a54711fef21c6d0b46a947cfc261f521a5db49ad594c
+source_sha256: a210343a373022b3f837a54711fef21c6d0b46a947cfc261f521a5db49ad594c
 references:
   - key: wine
     target_id: drink-style:wine

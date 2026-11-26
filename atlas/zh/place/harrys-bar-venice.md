@@ -146,4 +146,4 @@ founded_year: 1931
 
 ![傍晚的威尼斯圣马可广场，钟楼与行政官邸大楼围出路线所在的广场空间。](/media/photos/route-venice-san-marco-two-bars-5def5f8f.jpg)
 
-图：傍晚的威尼斯圣马可广场，钟楼与行政官邸大楼围出路线所在的广场空间。。图片：Matthias Süßen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(Venice)_at_night-msu-2021-6449-.jpg)）。关联图像：哈里酒吧（威尼斯）。
+图：傍晚的威尼斯圣马可广场，钟楼与行政官邸大楼围出路线所在的广场空间。图片：Matthias Süßen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(Venice)_at_night-msu-2021-6449-.jpg)）。关联图像：哈里酒吧（威尼斯）。

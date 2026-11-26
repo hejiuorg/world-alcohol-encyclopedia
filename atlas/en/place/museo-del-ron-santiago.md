@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:museo-del-ron-santiago
 source_lang: zh
-source_revision: sha256:c585c70e0532f1e668cd3e91b8dbd3b4c9d2e8dd71f9530afcf9d3a27a7dbb16
-source_sha256: c585c70e0532f1e668cd3e91b8dbd3b4c9d2e8dd71f9530afcf9d3a27a7dbb16
+source_revision: sha256:ac0261acb2592f75473783424f6d73dd80bc14ef9fe3c075bf788c494dc1f67c
+source_sha256: ac0261acb2592f75473783424f6d73dd80bc14ef9fe3c075bf788c494dc1f67c
 translation_status: reviewed
 subtype: museum
 address: Calle Bartolomé Masó 358 (San Basilio), e/ Pío Rosado y San Félix, Santiago de Cuba, Cuba

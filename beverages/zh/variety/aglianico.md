@@ -165,6 +165,6 @@ Aglianico del Vulture 于 2011 年从 DOC 升为 DOCG，规定至少 90% 艾格�
 
 ## 相关图像
 
-![“意大利”页面配图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-italy-202d4c25.jpg)
+![' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino](/media/photos/q2-region-italy-202d4c25.jpg)
 
-图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：艾格尼科。
+图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：艾格尼科。

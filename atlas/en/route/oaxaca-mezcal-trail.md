@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:oaxaca-mezcal-trail
 source_lang: zh
-source_revision: sha256:a9064e84792a203f336f7ae88ebc0afb1846a62653db8494cdd99511702b624a
-source_sha256: a9064e84792a203f336f7ae88ebc0afb1846a62653db8494cdd99511702b624a
+source_revision: sha256:a7f10e0d6b56fe82cb47dc216f05df923c02a642f20688100b5d850aff57ffe4
+source_sha256: a7f10e0d6b56fe82cb47dc216f05df923c02a642f20688100b5d850aff57ffe4
 translation_status: reviewed
 legacy_refs: []
 aliases:

@@ -143,6 +143,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“马德拉”页面配图：Quinta das Vinhas ^ Cottages, Estreito da Calheta, Madeira, Portugal, 27 June 2011 - Top vineyards - panoramio (1)。摄影：anagh，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-madeira-7efe42cf.jpg)
+![Quinta das Vinhas ^ Cottages, Estreito da Calheta, Madeira, Portugal, 27 June 2011 - Top vineyards - panoramio (1)](/media/photos/q2-region-madeira-7efe42cf.jpg)
 
-图：Quinta das Vinhas ^ Cottages, Estreito da Calheta, Madeira, Portugal, 27 June 2011 - Top vineyards - panoramio (1)。摄影：anagh，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：anagh，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=53715566)）。关联图像：马德拉。
+图：Quinta das Vinhas ^ Cottages, Estreito da Calheta, Madeira, Portugal, 27 June 2011 - Top vineyards - panoramio (1)。图片：anagh，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=53715566)）。关联图像：马德拉。

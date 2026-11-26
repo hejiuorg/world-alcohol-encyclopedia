@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:tuscany
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3afaeb5c7011e13455a55fccf0cabdad2436cd492b27c7ce878cb3ef91e8b250
-source_sha256: 3afaeb5c7011e13455a55fccf0cabdad2436cd492b27c7ce878cb3ef91e8b250
+source_revision: sha256:662d4e97d4ebe9042953216e081b5a91aa5d304b29ef1286c7fd2e6eb792c4de
+source_sha256: 662d4e97d4ebe9042953216e081b5a91aa5d304b29ef1286c7fd2e6eb792c4de
 level: province
 parent_id: region:italy
 country_code: IT

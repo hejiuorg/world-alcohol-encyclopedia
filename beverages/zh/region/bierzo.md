@@ -172,9 +172,9 @@ DO 规则规定了允许品种、产量上限与酒标标注方式。酒标须�
 
 ## 相关图像
 
-![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+![Uga - Lanzarote - Spain. Vineyards -U16](/media/photos/q2-region-spain-732e598a.jpg)
 
-图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：比埃尔索。
+图：Uga - Lanzarote - Spain. Vineyards -U16。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：比埃尔索。
 
 ![年份（vintage）](/media/photos/term-vintage-4b511c38.jpg)
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:natural-wine-movement
 source_lang: zh
-source_revision: sha256:88d7f9eed43d19da2b7aa9f9ef83a064976f86e32a62719f940846298376a0b5
-source_sha256: 88d7f9eed43d19da2b7aa9f9ef83a064976f86e32a62719f940846298376a0b5
+source_revision: sha256:a08ed546fb0dab4c346a0fcf6af57de899a77506587476a4e6e73a0f6ddde1d5
+source_sha256: a08ed546fb0dab4c346a0fcf6af57de899a77506587476a4e6e73a0f6ddde1d5
 translation_status: reviewed
 aliases:
   - 自然葡萄酒运动
@@ -78,9 +78,9 @@ verification_scope: source-verified
 
 # The Natural Wine Movement: From Beaujolais Experiments to a 2020 Label
 
-Natural wine usually means wine made with as little intervention as possible: grapes from organic or ecological farming, indigenous yeasts, no winemaking additives, and no filtration, centrifugation or heat treatment; sulphur is kept very low or omitted altogether. In the second half of the 20th century a small group of winemakers in French Beaujolais tested this approach repeatedly, and it gradually grew from a local practice into an international trend. In 2020 it received, for the first time, a label name recognised by the French state: Vin Méthode Nature.!["The Natural Wine Movement: From Beaujolais Experiments to a 2020 Label" category image](/media/photos/place-cafe-procope-e1f880f0.jpg)
+Natural wine usually means wine made with as little intervention as possible: grapes from organic or ecological farming, indigenous yeasts, no winemaking additives, and no filtration, centrifugation or heat treatment; sulphur is kept very low or omitted altogether. In the second half of the 20th century a small group of winemakers in French Beaujolais tested this approach repeatedly, and it gradually grew from a local practice into an international trend. In 2020 it received, for the first time, a label name recognised by the French state: Vin Méthode Nature.![Map of the Beaujolais vineyard, showing appellations and villages](/media/photos/region-beaujolais-9700eca2.webp)
 
-Figure: "The Natural Wine Movement: From Beaujolais Experiments to a 2020 Label". Photograph: File:Le Procope 1, Paris 2010.jpg. Credit: Jean-Marie Hullot from France, CC BY-SA 2.0 ([source page](https://commons.wikimedia.org/wiki/File:Le_Procope_1,_Paris_2010.jpg)). Category image; not a claim that it shows the exact product, site or event.
+Image: Map of the Beaujolais vineyard, showing appellations and villages. Credit: Cyril5555, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)). The map provides regional context for the natural wine movement; it is not an on-site photograph of the event.
 
 ## Date and place
 
@@ -140,6 +140,4 @@ Fifth, health and quality claims lack consistent evidence. Lower sulphur may red
 
 ## Related images
 
-![Illustration for The 1927 Champagne Delimitation: Names, Parcels and a Boundary War](/media/photos/historical-event-champagne-riots-1911-fde5507b.jpg)
 
-Image: Illustration for The 1927 Champagne Delimitation: Names, Parcels and a Boundary War. Credit: Agence Rol, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Apr%C3%A8s_le_pillage_d%27Ay,_avril_1911_-_btv1b69160215.jpg)). Related image for The Natural Wine Movement: From Beaujolais Experiments to a 2020 Label.

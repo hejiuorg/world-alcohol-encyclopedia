@@ -185,6 +185,6 @@ verification_scope: source-verified
 
 图：白兰地。图片：Didier Descouens，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)）。关联图像：西班牙。
 
-![“丹魄”页面配图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+![Tempranillo grapes from Rioja Alavesa](/media/photos/q2-variety-tempranillo-186ba329.jpg)
 
-图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：西班牙。
+图：Tempranillo grapes from Rioja Alavesa。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：西班牙。

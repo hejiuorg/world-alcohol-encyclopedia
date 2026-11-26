@@ -91,7 +91,7 @@ event_status: past
 
 ![2022 年慕尼黑啤酒节 Fischer-Vroni 帐篷内景；画面不是 2026 年现场，也不代表当届菜单与价格。图：Renardo la vulpo，CC0。](/media/photos/event-oktoberfest-45ef807b.jpg)
 
-图：2022 年慕尼黑啤酒节 Fischer-Vroni 帐篷内景；画面不是 2026 年现场，也不代表当届菜单与价格。图：Renardo la vulpo，CC0。。图片：Renardo la vulpo，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)）。
+图：2022 年慕尼黑啤酒节 Fischer-Vroni 帐篷内景；画面不是 2026 年现场，也不代表当届菜单与价格。图片：Renardo la vulpo，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)）。
 
 ## 不是“啤酒展”，是慕尼黑的民间节日
 

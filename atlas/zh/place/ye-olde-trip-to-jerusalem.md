@@ -146,6 +146,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“美人鱼客栈”页面配图：The Mermaid Inn, Rye - 20220620121757。摄影：Herman.vandenbroeck，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-mermaid-inn-57b6d4da.jpg)
+![The Mermaid Inn, Rye - 20220620121757](/media/photos/q2-place-mermaid-inn-57b6d4da.jpg)
 
-图：The Mermaid Inn, Rye - 20220620121757。摄影：Herman.vandenbroeck，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Herman.vandenbroeck，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=122527773)）。关联图像：耶路撒冷之旅酒馆。
+图：The Mermaid Inn, Rye - 20220620121757。图片：Herman.vandenbroeck，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=122527773)）。关联图像：耶路撒冷之旅酒馆。

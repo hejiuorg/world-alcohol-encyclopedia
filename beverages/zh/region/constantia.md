@@ -207,9 +207,9 @@ Sauvignon Blanc 建议 8–10 摄氏度，Chardonnay 建议 10–12 摄氏度，
 
 ## 相关图像
 
-![“赛美蓉”页面配图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-semillon-f7547db4.jpg)
+![Sémillon - Joseph Daurel](/media/photos/q2-variety-semillon-f7547db4.jpg)
 
-图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。。图片：Imprimerie A. Bellier & Cie - Bordeaux，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94839238)）。关联图像：康斯坦提亚。
+图：Sémillon - Joseph Daurel。图片：Imprimerie A. Bellier & Cie - Bordeaux，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94839238)）。关联图像：康斯坦提亚。
 
 ![白诗南](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
 

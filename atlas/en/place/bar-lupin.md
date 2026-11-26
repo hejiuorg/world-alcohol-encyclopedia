@@ -157,6 +157,3 @@ Ginza is not car-friendly; metro and walking are safest. After 22:00 the alleys 
 
 ## Related images
 
-![Photograph for Star Bar Ginza: File:YamazakiDistillery 01.jpg. Credit: Ujigis, CC BY-SA 4.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.](/media/photos/q2-place-star-bar-ginza-5aef3a60.jpg)
-
-Image: File:YamazakiDistillery 01.jpg. Credit: Ujigis, CC BY-SA 4.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.. Credit: Ujigis, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)). Related image for Bar Lupin.

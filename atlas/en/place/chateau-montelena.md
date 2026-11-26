@@ -39,8 +39,8 @@ tags:
 translation_of: place:chateau-montelena
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:da8272177cc18d94571eb3b01e4983f6afe1e28e64ec73f8265382ae63e7e837
-source_sha256: da8272177cc18d94571eb3b01e4983f6afe1e28e64ec73f8265382ae63e7e837
+source_revision: sha256:38582775c6553ea3e70c5d8bb0c00b358bafe4208c7ed91fecea5ffefe1ca148
+source_sha256: 38582775c6553ea3e70c5d8bb0c00b358bafe4208c7ed91fecea5ffefe1ca148
 related:
   - relation: about
     target_id: region:napa-valley

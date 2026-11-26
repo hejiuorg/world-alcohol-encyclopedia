@@ -174,10 +174,10 @@ Albariño 是产区的绝对主导品种，果皮较厚、酸度高、香气以�
 
 ## 相关图像
 
-![“阿尔巴利诺”页面配图：Albarino Vineyards。摄影：chicadelatele，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-albarino-978c9e47.jpg)
+![Albarino Vineyards](/media/photos/q2-variety-albarino-978c9e47.jpg)
 
-图：Albarino Vineyards。摄影：chicadelatele，CC BY 2.0，来自 Wikimedia Commons。。图片：chicadelatele，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4106753)）。关联图像：下海湾。
+图：Albarino Vineyards。图片：chicadelatele，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4106753)）。关联图像：下海湾。
 
 ![酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。](/media/photos/editorial-lees-ageing-q2.jpg)
 
-图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：下海湾。
+图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：下海湾。

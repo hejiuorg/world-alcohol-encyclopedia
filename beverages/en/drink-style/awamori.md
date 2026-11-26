@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:awamori
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:95308eafe825ea767e570b9ab3d71bde2e71dd806335ab31965a1a2a01c790db
-source_sha256: 95308eafe825ea767e570b9ab3d71bde2e71dd806335ab31965a1a2a01c790db
+source_revision: sha256:8c41b7a77b63eebf4c09d332f99aaf4d6dae8a93e9ae89dbea4a6a15b43ffd31
+source_sha256: 8c41b7a77b63eebf4c09d332f99aaf4d6dae8a93e9ae89dbea4a6a15b43ffd31
 legacy_refs: []
 parent_style_id: drink-style:shochu
 aroma_family: rice and aged aroma

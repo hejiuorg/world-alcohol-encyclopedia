@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:den-gyldene-freden
 source_lang: zh
-source_revision: sha256:3cbe49d305bcf5f8c5ec8133b1eeda97a5f75b1c210c81f935addde63e268aa2
-source_sha256: 3cbe49d305bcf5f8c5ec8133b1eeda97a5f75b1c210c81f935addde63e268aa2
+source_revision: sha256:6aa6a85f8969ec056dd92ced2e9ecaf604e9cdb46febb75943a325416aebf5f1
+source_sha256: 6aa6a85f8969ec056dd92ced2e9ecaf604e9cdb46febb75943a325416aebf5f1
 translation_status: reviewed
 subtype: pub
 address: Österlånggatan 51, 111 31 Stockholm, Sweden

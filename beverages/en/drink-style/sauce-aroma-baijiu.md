@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:sauce-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:517458082e7d948915fedf3129c8b1c89aa050ccdc55650eb6ed9952a8114456
-source_sha256: 517458082e7d948915fedf3129c8b1c89aa050ccdc55650eb6ed9952a8114456
+source_revision: sha256:5d6d186495df0aef982b84f4dd4cdcd4533f03b6d37a6733a25bcc90e8f294c6
+source_sha256: 5d6d186495df0aef982b84f4dd4cdcd4533f03b6d37a6733a25bcc90e8f294c6
 legacy_refs: []
 aliases:
   - Jiang-flavour baijiu

@@ -171,8 +171,8 @@ updated_at: 2026-11-09
 
 ![生酛与山废酒母的编辑插图：木桶中的米麹与蒸汽、竹耙翻拌；画面为 AI 辅助绘制，不是酒厂实拍。](/media/photos/editorial-kimoto-yamahai-q2.jpg)
 
-图：生酛与山废酒母的编辑插图：木桶中的米麹与蒸汽、竹耙翻拌；画面为 AI 辅助绘制，不是酒厂实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：广岛西条酒藏路线。
+图：生酛与山废酒母的编辑插图：木桶中的米麹与蒸汽、竹耙翻拌；画面为 AI 辅助绘制，不是酒厂实拍。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：广岛西条酒藏路线。
 
 ![贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。](/media/photos/place-kamoizumi-1a83eed9.jpg)
 
-图：贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。。图片：Lumi iori，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamoizumi_shuzou.jpg)）。关联图像：广岛西条酒藏路线。
+图：贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。图片：Lumi iori，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamoizumi_shuzou.jpg)）。关联图像：广岛西条酒藏路线。

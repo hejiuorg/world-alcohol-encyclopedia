@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:shandong
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2a924ce516127fa9560f357b8869ee395c813b26dd92d9d04a321cb66493a5ac
-source_sha256: 2a924ce516127fa9560f357b8869ee395c813b26dd92d9d04a321cb66493a5ac
+source_revision: sha256:1aef8be6c5f276ca2bb08b2d8ada8e85c8de5b9134fc0d35b0166195d1ca441e
+source_sha256: 1aef8be6c5f276ca2bb08b2d8ada8e85c8de5b9134fc0d35b0166195d1ca441e
 legacy_refs: []
 level: province
 parent_id: region:china

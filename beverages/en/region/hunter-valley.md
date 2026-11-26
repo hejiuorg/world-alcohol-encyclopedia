@@ -24,8 +24,8 @@ tags:
 translation_of: region:hunter-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ae17887c4d54815768720e11f8afee15a3b1ab1d2df88a69973aecae729d5193
-source_sha256: ae17887c4d54815768720e11f8afee15a3b1ab1d2df88a69973aecae729d5193
+source_revision: sha256:62b62da8ed3feee48724fc27b8b130fa9ad07461a9dd2c046c6672bf08d7ff29
+source_sha256: 62b62da8ed3feee48724fc27b8b130fa9ad07461a9dd2c046c6672bf08d7ff29
 related:
   - relation: about
     target_id: region:australia

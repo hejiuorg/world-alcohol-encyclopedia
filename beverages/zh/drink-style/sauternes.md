@@ -151,6 +151,6 @@ d'Yquem 的风格通常比同产区更浓郁、更耐久，年轻时就有蜂蜜
 
 ## 相关图像
 
-![“苏玳”页面配图：File:Vineyard in Sauternes.jpg。摄影：davitydave，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-sauternes-7f9389df.jpg)
+![File:Vineyard in Sauternes.jpg](/media/photos/q2-region-sauternes-7f9389df.jpg)
 
-图：File:Vineyard in Sauternes.jpg。摄影：davitydave，CC BY 2.0，来自 Wikimedia Commons。。图片：davitydave，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25673556)）。关联图像：苏玳。
+图：File:Vineyard in Sauternes.jpg。图片：davitydave，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25673556)）。关联图像：苏玳。

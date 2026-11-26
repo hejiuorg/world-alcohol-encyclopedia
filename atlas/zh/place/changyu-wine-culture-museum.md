@@ -190,6 +190,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“张裕葡萄酒”页面配图：Guang Lu Di in Dabu. Built in 1908, former residence of Cheong Fatt Tze who was the founder of Changyu Wine (19324457523)。摄影：Yun Huang Yong from Harbord, Australia，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-drink-shandong-changyu-6443ebbb.jpg)
+![Guang Lu Di in Dabu. Built in 1908, former residence of Cheong Fatt Tze who was the founder of Changyu Wine (19324457523)](/media/photos/q2-drink-shandong-changyu-6443ebbb.jpg)
 
-图：Guang Lu Di in Dabu. Built in 1908, former residence of Cheong Fatt Tze who was the founder of Changyu Wine (19324457523)。摄影：Yun Huang Yong from Harbord, Australia，CC BY 2.0，来自 Wikimedia Commons。。图片：Yun Huang Yong from Harbord, Australia，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=140102273)）。关联图像：张裕酒文化博物馆。
+图：Guang Lu Di in Dabu. Built in 1908, former residence of Cheong Fatt Tze who was the founder of Changyu Wine (19324457523)。图片：Yun Huang Yong from Harbord, Australia，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=140102273)）。关联图像：张裕酒文化博物馆。

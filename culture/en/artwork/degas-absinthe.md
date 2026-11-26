@@ -10,8 +10,8 @@ summary: Edgar Degas's canvas of 1875–1876, originally titled In a Café, hang
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:3b54454004168a4d5f37447f39daae1ca500b0155d6a1c739c27d750b804560e
-source_sha256: 3b54454004168a4d5f37447f39daae1ca500b0155d6a1c739c27d750b804560e
+source_revision: sha256:cd98ccb26b92b2b6f914fd01874b7d1600699da65cc431d675a2dbeaeaf5ddf4
+source_sha256: cd98ccb26b92b2b6f914fd01874b7d1600699da65cc431d675a2dbeaeaf5ddf4
 source_lang: zh
 translation_status: reviewed
 creator_refs: []

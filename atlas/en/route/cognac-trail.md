@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:cognac-trail
 source_lang: zh
-source_revision: sha256:61aaae288e221e5c3b6797ba02cc902145f2488902a397d345a44fa473b58872
-source_sha256: 61aaae288e221e5c3b6797ba02cc902145f2488902a397d345a44fa473b58872
+source_revision: sha256:e15c45faa1405d41206780671b7471bc75ec2c2ad01304d03e50a77190c2df82
+source_sha256: e15c45faa1405d41206780671b7471bc75ec2c2ad01304d03e50a77190c2df82
 translation_status: reviewed
 legacy_refs: []
 aliases:

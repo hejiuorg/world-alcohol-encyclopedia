@@ -199,9 +199,9 @@ Opus One 提供“合资”的样本。1979 年，蒙大维与菲利普·德·�
 
 ## 相关图像
 
-![“罗伯特·蒙大维酒庄”页面配图：Robert Mondavi winery。摄影：Greg Dunham from Kirkland, WA, USA，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-place-robert-mondavi-winery-9a1f1a11.jpg)
+![Robert Mondavi winery](/media/photos/q2-place-robert-mondavi-winery-9a1f1a11.jpg)
 
-图：Robert Mondavi winery。摄影：Greg Dunham from Kirkland, WA, USA，CC BY 2.0，来自 Wikimedia Commons。。图片：Greg Dunham from Kirkland, WA, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=2945111)）。关联图像：纳帕谷路线：1976 年巴黎审判之后的现代酒庄带。
+图：Robert Mondavi winery。图片：Greg Dunham from Kirkland, WA, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=2945111)）。关联图像：纳帕谷路线：1976 年巴黎审判之后的现代酒庄带。
 
 ![作品一号酒庄](/media/photos/place-opus-one-winery-fc1d0ae3.jpg)
 

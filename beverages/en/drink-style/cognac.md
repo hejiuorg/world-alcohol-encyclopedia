@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:cognac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6c686f91b36819d073fec70efe88f65430e39a9b394e50857b8bbcdeafd3c89d
-source_sha256: 6c686f91b36819d073fec70efe88f65430e39a9b394e50857b8bbcdeafd3c89d
+source_revision: sha256:d30159e68658ce3c157594be5176ccfd7491545f4f256688703d89abef5be805
+source_sha256: d30159e68658ce3c157594be5176ccfd7491545f4f256688703d89abef5be805
 legacy_refs: []
 parent_style_id: drink-style:brandy
 aroma_family: fruit/floral/oak

@@ -39,8 +39,8 @@ tags:
 translation_of: place:domaine-de-la-romanee-conti
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d20e135375913eb7c3ba5c29e8915b2236a38db3968acb276e24d20273e16f13
-source_sha256: d20e135375913eb7c3ba5c29e8915b2236a38db3968acb276e24d20273e16f13
+source_revision: sha256:7321a489d629f2d84a5bef64b36e1fddab872fba9c5bd1db32bd89d72ad2d555
+source_sha256: 7321a489d629f2d84a5bef64b36e1fddab872fba9c5bd1db32bd89d72ad2d555
 related:
   - relation: about
     target_id: place:louis-jadot

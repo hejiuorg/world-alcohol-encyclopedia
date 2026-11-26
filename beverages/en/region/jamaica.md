@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:jamaica
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:51635716e38dcb4889c661fb4ff96e3f63d908b6c379bad58fae94ab1ee1f5a4
-source_sha256: 51635716e38dcb4889c661fb4ff96e3f63d908b6c379bad58fae94ab1ee1f5a4
+source_revision: sha256:baecc5e9a1e79778eeba66bef1d32055b7fabde508156734f2519171d8c53284
+source_sha256: baecc5e9a1e79778eeba66bef1d32055b7fabde508156734f2519171d8c53284
 level: country
 country_code: JM
 legacy_refs: []

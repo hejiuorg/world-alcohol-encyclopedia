@@ -24,8 +24,8 @@ tags:
 translation_of: region:mclaren-vale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a5dfaf6ddd8305677c1087218f4752110ab031be2a2c21dc5ae276f56b34e874
-source_sha256: a5dfaf6ddd8305677c1087218f4752110ab031be2a2c21dc5ae276f56b34e874
+source_revision: sha256:7208c41a805c65882dd44dd6c3edcd602a9b65c8991a3d8d39022231822aa98a
+source_sha256: 7208c41a805c65882dd44dd6c3edcd602a9b65c8991a3d8d39022231822aa98a
 related:
   - relation: about
     target_id: region:australia

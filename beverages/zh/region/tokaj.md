@@ -147,7 +147,7 @@ Aszú 的做法是先把健康葡萄发酵成基酒，再把逐粒挑选的贵�
 
 ![一瓶 Vivamus 5 puttonyos Tokaji Aszú，标签标着 2001 与 5 puttonyos。](/media/photos/drink-style-tokaji-39ae74c2.jpg)
 
-图：一瓶 Vivamus 5 puttonyos Tokaji Aszú，标签标着 2001 与 5 puttonyos。。图片：Beemwej，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tokaji_Aszu.JPG)）。关联图像：托卡伊。
+图：一瓶 Vivamus 5 puttonyos Tokaji Aszú，标签标着 2001 与 5 puttonyos。图片：Beemwej，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tokaji_Aszu.JPG)）。关联图像：托卡伊。
 
 ![富尔民特](/media/photos/variety-furmint-942bb30a.jpg)
 

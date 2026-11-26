@@ -142,6 +142,6 @@ Vendanges Tardives（VT）与 Sélection de Grains Nobles（SGN）是另一套�
 
 图：雨格酒庄。图片：Photo Claude TRUONG-NGOC，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hugel_et_Fils_Riquewihr_ao%C3%BBt_2020-3.jpg)）。关联图像：阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔。
 
-![“琼瑶浆”页面配图：Gewürztraminer grapes。摄影：Robert Pitkin，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-gewurztraminer-0b4647f6.jpg)
+![Gewürztraminer grapes](/media/photos/q2-variety-gewurztraminer-0b4647f6.jpg)
 
-图：Gewürztraminer grapes。摄影：Robert Pitkin，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Robert Pitkin，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=20125056)）。关联图像：阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔。
+图：Gewürztraminer grapes。图片：Robert Pitkin，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=20125056)）。关联图像：阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔。

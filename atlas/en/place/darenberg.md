@@ -38,8 +38,8 @@ tags:
 translation_of: place:darenberg
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0a91e5b11ecde20b26b3f1c9f8befec8a8814e54653e91d784b1bb98c89dd0f7
-source_sha256: 0a91e5b11ecde20b26b3f1c9f8befec8a8814e54653e91d784b1bb98c89dd0f7
+source_revision: sha256:210c671aa9f38c0142fc812ea039cba7e84c84b3538a34a534bdd46c4b92b29e
+source_sha256: 210c671aa9f38c0142fc812ea039cba7e84c84b3538a34a534bdd46c4b92b29e
 related:
   - relation: about
     target_id: region:mclaren-vale

@@ -163,6 +163,6 @@ Petrus 的园地面积很小，产量有限，稀缺性进一步放大了价格�
 
 图：品丽珠。图片：Viala et Vermorel，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cabernet-franc.jpg)）。关联图像：波美侯。
 
-![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+![Moët & Chandon vineyards in Verzenay, Champagne, France](/media/photos/q2-region-france-338f007d.jpg)
 
-图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：波美侯。
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：波美侯。

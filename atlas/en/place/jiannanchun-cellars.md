@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:jiannanchun-cellars
 source_lang: zh
-source_revision: sha256:e4048ee32d350101e05c683e036dfc50f6a2612ecff1e15873f80e66fdabb1ff
-source_sha256: e4048ee32d350101e05c683e036dfc50f6a2612ecff1e15873f80e66fdabb1ff
+source_revision: sha256:dd5e0482d527eacaec713a7e6e05a0db70b3d78a9608c2835786c5d238a39724
+source_sha256: dd5e0482d527eacaec713a7e6e05a0db70b3d78a9608c2835786c5d238a39724
 translation_status: reviewed
 subtype: distillery-visitor
 address: Jiannanchun campus, Mianzhu, Deyang, Sichuan, China

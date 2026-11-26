@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:hyogo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:050832d8d62fdce35e4f6d0e4a3f202254b8b09f900f1825d576d8d986e68e71
-source_sha256: 050832d8d62fdce35e4f6d0e4a3f202254b8b09f900f1825d576d8d986e68e71
+source_revision: sha256:8d44b424625e790ea9ea995c74f94c9563fdc34a372d5f4f1e5499f7f49b4601
+source_sha256: 8d44b424625e790ea9ea995c74f94c9563fdc34a372d5f4f1e5499f7f49b4601
 level: province
 parent_id: region:japan
 country_code: JP

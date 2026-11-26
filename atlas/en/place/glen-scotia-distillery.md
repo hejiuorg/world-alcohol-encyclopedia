@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:glen-scotia-distillery
 source_lang: zh
-source_revision: sha256:aab57f653ab0787f175990067fbd4f744899c20eda2e1cab2c6afa17d74833f7
-source_sha256: aab57f653ab0787f175990067fbd4f744899c20eda2e1cab2c6afa17d74833f7
+source_revision: sha256:b3faace2529009b0361825d3ee41b78f5e1e20eb47969be9c6bcec4c77a169b4
+source_sha256: b3faace2529009b0361825d3ee41b78f5e1e20eb47969be9c6bcec4c77a169b4
 translation_status: reviewed
 subtype: distillery-visitor
 address: Glen Scotia Distillery, 12 High Street, Campbeltown PA28 6DS, Scotland, United Kingdom

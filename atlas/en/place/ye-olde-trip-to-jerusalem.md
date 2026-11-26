@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: place:ye-olde-trip-to-jerusalem
 source_lang: zh
-source_revision: sha256:51b2e92ac90f967f451570c4a64ea1ab1241552fc102169dfa43ae72678809d4
-source_sha256: 51b2e92ac90f967f451570c4a64ea1ab1241552fc102169dfa43ae72678809d4
+source_revision: sha256:173440f45321450f058c9bb68583206475637920e79856816e7ff702020aec38
+source_sha256: 173440f45321450f058c9bb68583206475637920e79856816e7ff702020aec38
 translation_status: reviewed
 subtype: pub
 address: 1 Brewhouse Yard, Nottingham NG1 6AD, United Kingdom

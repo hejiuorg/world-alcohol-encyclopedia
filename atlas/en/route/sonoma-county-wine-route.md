@@ -24,8 +24,8 @@ tags:
 translation_of: route:sonoma-county-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8aed44cd4b01d4fa2b209627b85647c4431ce63af3bc5295f6f835d63744e273
-source_sha256: 8aed44cd4b01d4fa2b209627b85647c4431ce63af3bc5295f6f835d63744e273
+source_revision: sha256:bcf4ae63bc2cb5e1407cf658675ccc31f09715990d964996c2a0ccb5580bd0f8
+source_sha256: bcf4ae63bc2cb5e1407cf658675ccc31f09715990d964996c2a0ccb5580bd0f8
 related:
   - relation: about
     target_id: place:jordan-vineyard

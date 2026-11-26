@@ -134,6 +134,6 @@ founded_year: 2008
 
 ## 相关图像
 
-![“伦敦经典酒吧步行路线”页面配图：Royal Opera House - Bow Street, London - statue (6446853425)。摄影：Elliott Brown from Birmingham, United Kingdom，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-route-london-classic-bar-walk-dc34ac66.jpg)
+![Royal Opera House - Bow Street, London - statue (6446853425)](/media/photos/q2-route-london-classic-bar-walk-dc34ac66.jpg)
 
-图：Royal Opera House - Bow Street, London - statue (6446853425)。摄影：Elliott Brown from Birmingham, United Kingdom，CC BY 2.0，来自 Wikimedia Commons。。图片：Elliott Brown from Birmingham, United Kingdom，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=22459244)）。关联图像：康诺特酒吧。
+图：Royal Opera House - Bow Street, London - statue (6446853425)。图片：Elliott Brown from Birmingham, United Kingdom，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=22459244)）。关联图像：康诺特酒吧。

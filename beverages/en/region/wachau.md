@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:wachau
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8ecb2fc1f1a6631a62e6baa62defab1cac720edaab9b3318bc45d0934d0c3f4a
-source_sha256: 8ecb2fc1f1a6631a62e6baa62defab1cac720edaab9b3318bc45d0934d0c3f4a
+source_revision: sha256:f3b4520316895eb924d6ced6ca4ad75102948fccdc1f5673827af64fe2a7290f
+source_sha256: f3b4520316895eb924d6ced6ca4ad75102948fccdc1f5673827af64fe2a7290f
 level: other
 country_code: AT
 legacy_refs: []

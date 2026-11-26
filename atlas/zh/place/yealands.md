@@ -141,4 +141,4 @@ verification_scope: source-verified
 
 ![马尔堡怀劳谷（Wairau Valley）的葡萄园，整齐的藤行伸向远处。](/media/photos/region-marlborough-7856d272.jpg)
 
-图：马尔堡怀劳谷（Wairau Valley）的葡萄园，整齐的藤行伸向远处。。图片：Jonathan Harker，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wairau_Valley_vineyards_in_the_Marlborough_wine_region,_New_Zealand.jpg)）。关联图像：伊兰兹酒庄。
+图：马尔堡怀劳谷（Wairau Valley）的葡萄园，整齐的藤行伸向远处。图片：Jonathan Harker，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wairau_Valley_vineyards_in_the_Marlborough_wine_region,_New_Zealand.jpg)）。关联图像：伊兰兹酒庄。

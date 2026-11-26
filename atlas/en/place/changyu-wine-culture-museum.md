@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:changyu-wine-culture-museum
 source_lang: zh
-source_revision: sha256:973c71157ac7a5aacd43a6d25732b5807d43ca92f3e4e2282b79ad80657428fe
-source_sha256: 973c71157ac7a5aacd43a6d25732b5807d43ca92f3e4e2282b79ad80657428fe
+source_revision: sha256:37146e2802a5465a03bc6683b64dae47d4a98ce81eb8ceca01734e347c25767a
+source_sha256: 37146e2802a5465a03bc6683b64dae47d4a98ce81eb8ceca01734e347c25767a
 translation_status: reviewed
 subtype: museum
 address: 山东省烟台市芝罘区大马路56号

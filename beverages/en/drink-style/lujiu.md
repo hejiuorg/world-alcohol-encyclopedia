@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:lujiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d22c1e9245b57057e252afa94c92e65d1dccacf3b2808a7719604e8c3ec8acef
-source_sha256: d22c1e9245b57057e252afa94c92e65d1dccacf3b2808a7719604e8c3ec8acef
+source_revision: sha256:42f89fff77aa93f794c02c98068f1829513c20dd812fa3e2c4b5c370c7a74ac1
+source_sha256: 42f89fff77aa93f794c02c98068f1829513c20dd812fa3e2c4b5c370c7a74ac1
 legacy_refs: []
 aliases:
   - Lujiu

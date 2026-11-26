@@ -165,6 +165,6 @@ AOC 规定甘蔗品种须属于 Saccharum officinarum 与 Saccharum spontaneum �
 
 图：四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格。图片：Unknown author Unknown author，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)）。关联图像：马提尼克。
 
-![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+![Moët & Chandon vineyards in Verzenay, Champagne, France](/media/photos/q2-region-france-338f007d.jpg)
 
-图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：马提尼克。
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：马提尼克。

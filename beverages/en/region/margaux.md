@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:margaux
 source_lang: zh
-source_revision: sha256:8a41d9b4b60058795d9da9d4ec51a59c4105a4cd9c7a63fccb31eebfc7c74b82
-source_sha256: 8a41d9b4b60058795d9da9d4ec51a59c4105a4cd9c7a63fccb31eebfc7c74b82
+source_revision: sha256:95a578feb159927d611bc4cd4a0857101ce65b64524c8318d339889c0c968be8
+source_sha256: 95a578feb159927d611bc4cd4a0857101ce65b64524c8318d339889c0c968be8
 translation_status: reviewed
 level: city
 parent_id: region:bordeaux

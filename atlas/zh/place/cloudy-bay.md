@@ -149,4 +149,4 @@ verification_scope: source-verified
 
 ![布伦海姆云雾之湾酒庄的葡萄园，藤行间可见远处的怀劳河谷山地。](/media/photos/route-marlborough-wine-trail-abdbbafa.jpg)
 
-图：布伦海姆云雾之湾酒庄的葡萄园，藤行间可见远处的怀劳河谷山地。。图片：Matt Boulton，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cloudy_Bay_Vineyard.jpg)）。关联图像：云雾之湾酒庄。
+图：布伦海姆云雾之湾酒庄的葡萄园，藤行间可见远处的怀劳河谷山地。图片：Matt Boulton，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cloudy_Bay_Vineyard.jpg)）。关联图像：云雾之湾酒庄。

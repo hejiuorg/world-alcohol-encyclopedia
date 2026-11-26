@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:chianti-classico
 source_lang: zh
-source_revision: sha256:4a1e5795a0500a152f0f22d654c853b951a5941674b8d44337a6022dfd2e2f1f
-source_sha256: 4a1e5795a0500a152f0f22d654c853b951a5941674b8d44337a6022dfd2e2f1f
+source_revision: sha256:3a8f98ccfb226c5f5fa2df1ac3714d5a7f129160cee40f4791b064b2d756d9a6
+source_sha256: 3a8f98ccfb226c5f5fa2df1ac3714d5a7f129160cee40f4791b064b2d756d9a6
 translation_status: reviewed
 level: city
 parent_id: region:italy

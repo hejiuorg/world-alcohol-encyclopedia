@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:ribera-del-duero
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:025feb095228dac2ff117021b6334b275ba5f56acd6a8300efb11691a91962d1
-source_sha256: 025feb095228dac2ff117021b6334b275ba5f56acd6a8300efb11691a91962d1
+source_revision: sha256:0e23d90c495114129302deb596427fe99d476e1c7cbffcfcb55c79e133040aa1
+source_sha256: 0e23d90c495114129302deb596427fe99d476e1c7cbffcfcb55c79e133040aa1
 level: other
 parent_id: region:spain
 country_code: ES

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:cognac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:469516086b51ab3adf76e43757cbc2a6e9c25e2804cb42cd7ecfcc09ca024e12
-source_sha256: 469516086b51ab3adf76e43757cbc2a6e9c25e2804cb42cd7ecfcc09ca024e12
+source_revision: sha256:2672c268be8224d5317121047a39dc39971254ca94a94a3079b2cb68b47a1f6b
+source_sha256: 2672c268be8224d5317121047a39dc39971254ca94a94a3079b2cb68b47a1f6b
 level: other
 parent_id: region:france
 country_code: FR

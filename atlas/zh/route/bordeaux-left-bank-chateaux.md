@@ -230,7 +230,7 @@ updated_at: 2026-11-08
 
 ![从地面仰拍的波尔多葡萄酒城，玻璃与金属板包覆的塔体在阳光下反光。](/media/photos/place-cite-du-vin-c31cf8f4.jpg)
 
-图：从地面仰拍的波尔多葡萄酒城，玻璃与金属板包覆的塔体在阳光下反光。。图片：olilynch，CC0 1.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=37500642606)）。关联图像：波尔多左岸路线：从葡萄酒城到波亚克两座一级庄。
+图：从地面仰拍的波尔多葡萄酒城，玻璃与金属板包覆的塔体在阳光下反光。图片：olilynch，CC0 1.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=37500642606)）。关联图像：波尔多左岸路线：从葡萄酒城到波亚克两座一级庄。
 
 ![木桐酒庄](/media/photos/place-chateau-mouton-rothschild-6c75d53a.jpg)
 

@@ -180,9 +180,9 @@ Riserva 不是“更甜的珍藏”，也不是“更好的葡萄园”。按产
 
 ## 相关图像
 
-![“意大利”页面配图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-italy-202d4c25.jpg)
+![' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino](/media/photos/q2-region-italy-202d4c25.jpg)
 
-图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：经典基安蒂路线：从佛罗伦萨到三座酒庄。
+图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：经典基安蒂路线：从佛罗伦萨到三座酒庄。
 
 ![安东尼世家酒庄的螺旋楼梯与几何空间](/media/photos/place-antinori-nel-chianti-classico-78daa3d3.jpg)
 

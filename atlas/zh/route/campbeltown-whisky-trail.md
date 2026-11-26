@@ -177,6 +177,6 @@ updated_at: 2026-11-08
 
 图：云顶酒厂。图片：Lirazelf，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Springbank_Distillery,_Campbeltown.jpg)）。关联图像：坎贝尔镇威士忌路线：两条街之间的两家酒厂。
 
-![“坎贝尔镇”页面配图：Glen Scotia Distillery, Campbeltown。摄影：Lirazelf，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-campbeltown-f346e241.jpg)
+![Glen Scotia Distillery, Campbeltown](/media/photos/q2-region-campbeltown-f346e241.jpg)
 
-图：Glen Scotia Distillery, Campbeltown。摄影：Lirazelf，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Lirazelf，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=62323489)）。关联图像：坎贝尔镇威士忌路线：两条街之间的两家酒厂。
+图：Glen Scotia Distillery, Campbeltown。图片：Lirazelf，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=62323489)）。关联图像：坎贝尔镇威士忌路线：两条街之间的两家酒厂。

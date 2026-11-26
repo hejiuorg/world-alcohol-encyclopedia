@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:tokaji
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fc03b0ead699eedf196472fef06a7e82c48164452f8f9cb9667c1d938f938cb2
-source_sha256: fc03b0ead699eedf196472fef06a7e82c48164452f8f9cb9667c1d938f938cb2
+source_revision: sha256:1a692b8feef1a41458b02d75bb77d9bedd9489a52dc8b2ca82c8f6c704c066d0
+source_sha256: 1a692b8feef1a41458b02d75bb77d9bedd9489a52dc8b2ca82c8f6c704c066d0
 legacy_refs: []
 parent_style_id: drink-style:dessert-wine
 aroma_family: Honey / apricot / botrytis

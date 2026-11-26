@@ -101,8 +101,8 @@ stop_ids:
     note: In St Helena, see the 1876 winery and Rhine House and put “modern” back into a longer history.
 mode: car
 updated_at: 2026-11-08
-source_sha256: bb911a09b7f7a9c5867c205abde0f311cb3cf61bd37deb4861cd4c1a95c4b763
-source_revision: sha256:bb911a09b7f7a9c5867c205abde0f311cb3cf61bd37deb4861cd4c1a95c4b763
+source_sha256: aaf32273ba303b1c883fd2acdf3b2242329f1c9c2a511675c6d1639712d02207
+source_revision: sha256:aaf32273ba303b1c883fd2acdf3b2242329f1c9c2a511675c6d1639712d02207
 ---
 
 # Napa Valley: the modern winery belt after the 1976 Judgment of Paris

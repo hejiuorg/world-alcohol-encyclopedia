@@ -96,7 +96,7 @@ event_status: past
 
 ![2019 年沃韦葡萄种植者节的兄弟会游行；画面不是露天剧场内部，也不代表下一届的安排。图：Beat Ruest，CC BY-SA 4.0。](/media/photos/event-fete-des-vignerons-3b0f1dbd.jpg)
 
-图：2019 年沃韦葡萄种植者节的兄弟会游行；画面不是露天剧场内部，也不代表下一届的安排。图：Beat Ruest，CC BY-SA 4.0。。图片：Beat Ruest，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:F%C3%AAte_des_Vignerons_Vevey_2019_-_Cort%C3%A8ge_de_la_Confr%C3%A9rie_des_Vignerons_(2).jpg)）。
+图：2019 年沃韦葡萄种植者节的兄弟会游行；画面不是露天剧场内部，也不代表下一届的安排。图片：Beat Ruest，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:F%C3%AAte_des_Vignerons_Vevey_2019_-_Cort%C3%A8ge_de_la_Confr%C3%A9rie_des_Vignerons_(2).jpg)）。
 
 ## 一代人一次的节
 

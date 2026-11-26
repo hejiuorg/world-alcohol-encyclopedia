@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:pilsner
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2dbd7e0eccc4df26d2e9151e8dfbdba4b64d942dad7d4c541a37b9365af4632b
-source_sha256: 2dbd7e0eccc4df26d2e9151e8dfbdba4b64d942dad7d4c541a37b9365af4632b
+source_revision: sha256:cd5c7c57b3b94bd517a3046b6ddaf81c704d71a8e5ce28d14e1afc2778c93b75
+source_sha256: cd5c7c57b3b94bd517a3046b6ddaf81c704d71a8e5ce28d14e1afc2778c93b75
 legacy_refs: []
 aliases:
   - Pilsner

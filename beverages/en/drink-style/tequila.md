@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:tequila
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:43cfe4964f8cfb38beb04a4dc5a35dd0086a188f88056be08805626c34045a1c
-source_sha256: 43cfe4964f8cfb38beb04a4dc5a35dd0086a188f88056be08805626c34045a1c
+source_revision: sha256:25a0f44167107910683f02d66a05166285a8dd5825e53c96caae7f6625f47a03
+source_sha256: 25a0f44167107910683f02d66a05166285a8dd5825e53c96caae7f6625f47a03
 legacy_refs: []
 aliases:
   - Tequila

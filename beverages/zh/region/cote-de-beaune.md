@@ -163,9 +163,9 @@ Corton 特级园内部还分为 Clos du Roi、Bressandes、Renardes 等地块，
 
 ## 相关图像
 
-![“勃艮第”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-burgundy-8580e678.jpg)
+![Burgundy vineyards near Beaune, France](/media/photos/q2-region-burgundy-8580e678.jpg)
 
-图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：博讷丘。
+图：Burgundy vineyards near Beaune, France。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：博讷丘。
 
 ![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
 

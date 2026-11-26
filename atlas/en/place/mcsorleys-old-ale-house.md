@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:mcsorleys-old-ale-house
 source_lang: zh
-source_revision: sha256:803d413c75efdbb0c1eb04707f8ad12ec4510c707f4d77b8d081a4938af96080
-source_sha256: 803d413c75efdbb0c1eb04707f8ad12ec4510c707f4d77b8d081a4938af96080
+source_revision: sha256:8fb2f1c5299cdb45aa256b2f4869468c8eb12ae06b6abbc9240873a09dc93204
+source_sha256: 8fb2f1c5299cdb45aa256b2f4869468c8eb12ae06b6abbc9240873a09dc93204
 translation_status: reviewed
 subtype: pub
 address: 15 East 7th Street, New York, NY 10003, USA

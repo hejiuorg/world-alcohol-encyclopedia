@@ -149,4 +149,4 @@ Delmonico 牛排与 Lobster Newberg 仍是菜单上的历史菜式，具体做�
 
 ![纽约西 36 街基恩斯牛排馆的临街立面与入口；建筑由三栋联排屋合并，烟斗收藏在室内。](/media/photos/place-keens-steakhouse-5a9b011d.jpg)
 
-图：纽约西 36 街基恩斯牛排馆的临街立面与入口；建筑由三栋联排屋合并，烟斗收藏在室内。。图片：ajay_suresh，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Keens_Steakhouse_(54821833498).jpg)）。关联图像：德尔莫尼科餐厅。
+图：纽约西 36 街基恩斯牛排馆的临街立面与入口；建筑由三栋联排屋合并，烟斗收藏在室内。图片：ajay_suresh，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Keens_Steakhouse_(54821833498).jpg)）。关联图像：德尔莫尼科餐厅。

@@ -84,7 +84,7 @@ verification_scope: source-verified
 ---
 ![勃鲁盖尔《农民婚礼》复制图，1568，现藏维也纳艺术史博物馆；不是婚宴现场记录。](/media/photos/artwork-bruegel-peasant-wedding-3eb0e101.jpg)
 
-图：勃鲁盖尔《农民婚礼》复制图，1568，现藏维也纳艺术史博物馆；不是婚宴现场记录。。图片：Pieter Bruegel the Elder，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg)）。
+图：勃鲁盖尔《农民婚礼》复制图，1568，现藏维也纳艺术史博物馆；不是婚宴现场记录。图片：Pieter Bruegel the Elder，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg)）。
 
 > **先给结论**
 > **一句话：** 这页判断《农民婚礼》：勃鲁盖尔把一场乡村婚宴画成一张社会切片该怎么看，以及它在饮酒图像里的位置。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:japan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:02ab10e09463984cc28c6d48be7ba21939ba8c01f2457d9f09d63546b1fc6ccf
-source_sha256: 02ab10e09463984cc28c6d48be7ba21939ba8c01f2457d9f09d63546b1fc6ccf
+source_revision: sha256:efd003b3c6ee7aa8b7b2bbfad800715bb609eb39d47f4744e600652d814fdde2
+source_sha256: efd003b3c6ee7aa8b7b2bbfad800715bb609eb39d47f4744e600652d814fdde2
 level: country
 country_code: JP
 legacy_refs: []

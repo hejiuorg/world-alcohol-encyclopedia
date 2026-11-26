@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: route:saint-germain-literary-cafes
 source_lang: zh
-source_revision: sha256:c08c73e3e0828278b3c65247a9671b26d1c31362446c83961eafe5b82581a04b
-source_sha256: c08c73e3e0828278b3c65247a9671b26d1c31362446c83961eafe5b82581a04b
+source_revision: sha256:e8d1f6d16e5ff8b0ccae732c174827f11c3b39a541fb1adf579b302bce8cd616
+source_sha256: e8d1f6d16e5ff8b0ccae732c174827f11c3b39a541fb1adf579b302bce8cd616
 translation_status: reviewed
 legacy_refs: []
 aliases:

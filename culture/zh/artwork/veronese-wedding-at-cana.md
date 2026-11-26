@@ -84,7 +84,7 @@ verification_scope: source-verified
 ---
 ![委罗内塞《加纳的婚礼》全画复制图，现藏卢浮宫；不是展览现场照片，也不是局部放大。](/media/photos/artwork-veronese-wedding-at-cana-f405f493.jpg)
 
-图：委罗内塞《加纳的婚礼》全画复制图，现藏卢浮宫；不是展览现场照片，也不是局部放大。。图片：Paolo Veronese，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Les_Noces_de_Cana_-_Paolo_Veronese_-_Mus%C3%A9e_du_Louvre_Peintures_INV_142_;_MR_384.jpg)）。
+图：委罗内塞《加纳的婚礼》全画复制图，现藏卢浮宫；不是展览现场照片，也不是局部放大。图片：Paolo Veronese，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Les_Noces_de_Cana_-_Paolo_Veronese_-_Mus%C3%A9e_du_Louvre_Peintures_INV_142_;_MR_384.jpg)）。
 
 > **先给结论**
 > **一句话：** 这页判断《加纳的婚礼》：一面墙上的婚宴，和一场被宴席藏起来的奇迹该怎么看，以及它在饮酒图像里的位置。

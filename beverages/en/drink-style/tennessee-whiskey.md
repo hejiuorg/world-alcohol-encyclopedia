@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:tennessee-whiskey
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a2c8bb624b185bb846c84bd4889e3a0557fdedfbc7ee4e66da67937232ba96da
-source_sha256: a2c8bb624b185bb846c84bd4889e3a0557fdedfbc7ee4e66da67937232ba96da
+source_revision: sha256:43e1399339ed5b8b6292455bdcab8930af094afd1068c8d00b8b67a42f92f4c5
+source_sha256: 43e1399339ed5b8b6292455bdcab8930af094afd1068c8d00b8b67a42f92f4c5
 legacy_refs: []
 parent_style_id: drink-style:whisky
 aroma_family: grain/fruit/smoke

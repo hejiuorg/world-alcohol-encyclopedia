@@ -183,9 +183,9 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“即墨”页面配图：Jimo District Converged Media Center in Qingdao, Shandong, China 20260607。摄影：4084470 0.smil，CC BY 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-jimo-08067dae.jpg)
+![Jimo District Converged Media Center in Qingdao, Shandong, China 20260607](/media/photos/q2-region-jimo-08067dae.jpg)
 
-图：Jimo District Converged Media Center in Qingdao, Shandong, China 20260607。摄影：4084470 0.smil，CC BY 4.0，来自 Wikimedia Commons。。图片：4084470 0.smil，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=194207475)）。关联图像：山东省。
+图：Jimo District Converged Media Center in Qingdao, Shandong, China 20260607。图片：4084470 0.smil，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=194207475)）。关联图像：山东省。
 
 ![小麦](/media/photos/ingredient-wheat-e782d218.jpg)
 

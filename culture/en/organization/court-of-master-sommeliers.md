@@ -34,8 +34,8 @@ related:
 translation_of: organization:court-of-master-sommeliers
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f0cf53942d242461bdb576742ffdeaa90fa005fcd0f93fd5e170b75f5ecca2f9
-source_sha256: f0cf53942d242461bdb576742ffdeaa90fa005fcd0f93fd5e170b75f5ecca2f9
+source_revision: sha256:9465033f91b962244f95e14dbfd80479f689e8025f2be28d645a6f36fe93b678
+source_sha256: 9465033f91b962244f95e14dbfd80479f689e8025f2be28d645a6f36fe93b678
 references:
   - key: wine
     target_id: drink-style:wine

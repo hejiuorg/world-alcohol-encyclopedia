@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:dublin-pub-trail
 source_lang: zh
-source_revision: sha256:bac41b723b1a33c469c76d86c66fac0d9560896cdf43517418395e615fd4358f
-source_sha256: bac41b723b1a33c469c76d86c66fac0d9560896cdf43517418395e615fd4358f
+source_revision: sha256:56aa969ce61430bded59fff7b0f1f1382ceaf61d00b0793467c72db260390a3a
+source_sha256: 56aa969ce61430bded59fff7b0f1f1382ceaf61d00b0793467c72db260390a3a
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -91,9 +91,6 @@ updated_at: 2026-11-08
 
 The south bank of the Liffey puts two ways of drinking Guinness on one walking line: the old pub on Lower Bridge Street and the Storehouse at St James's Gate. The pub is still a working local; the Storehouse is a visitor centre in an old fermentation building. Two kilometres and half an hour apart, they fit into half a day. They ask one question: the same dark beer, drunk and displayed, is two different things.
 
-![Dublin pub trail: from Lower Bridge Street to St James's Gate photograph](/media/photos/q2-route-dublin-pub-trail-765cd1da.jpg)
-
-Figure: Dublin pub trail: from Lower Bridge Street to St James's Gate. Photograph: Chinese Restaurant and Pub - Trim (3139466073). Credit: William Murphy from Dublin, Ireland, CC BY-SA 2.0, via Wikimedia Commons ([source](https://commons.wikimedia.org/w/index.php?curid=115439245)).
 
 ## Why this route works
 

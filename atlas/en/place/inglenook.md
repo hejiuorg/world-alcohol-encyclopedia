@@ -40,8 +40,8 @@ tags:
 translation_of: place:inglenook
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ac8521516e4feeaa576acd149d9f165f10b9f75a6109301a61b7ed19484e026f
-source_sha256: ac8521516e4feeaa576acd149d9f165f10b9f75a6109301a61b7ed19484e026f
+source_revision: sha256:08c9a03405c7cbfac0d38cb20915c9b6aff2127df1ec7e055411fabd3e991b27
+source_sha256: 08c9a03405c7cbfac0d38cb20915c9b6aff2127df1ec7e055411fabd3e991b27
 related:
   - relation: about
     target_id: region:napa-valley

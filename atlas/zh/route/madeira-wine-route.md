@@ -165,4 +165,4 @@ updated_at: 2026-11-08
 
 ![一瓶 Barbeito Verdelho 10 年马德拉与一杯琥珀色酒液。](/media/photos/drink-style-madeira-wine-3d5661cf.jpg)
 
-图：一瓶 Barbeito Verdelho 10 年马德拉与一杯琥珀色酒液。。图片：Origenes.Adamantius，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Madeira_Barbeito_Verdelho_Old_Reserva_-_Bottle_Glass.jpg)）。关联图像：马德拉酒路线：丰沙尔市中心的两种酒商面孔。
+图：一瓶 Barbeito Verdelho 10 年马德拉与一杯琥珀色酒液。图片：Origenes.Adamantius，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Madeira_Barbeito_Verdelho_Old_Reserva_-_Bottle_Glass.jpg)）。关联图像：马德拉酒路线：丰沙尔市中心的两种酒商面孔。

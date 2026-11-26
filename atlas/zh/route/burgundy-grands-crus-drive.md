@@ -209,10 +209,10 @@ updated_at: 2026-11-08
 
 ## 相关图像
 
-![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+![Moët & Chandon vineyards in Verzenay, Champagne, France](/media/photos/q2-region-france-338f007d.jpg)
 
-图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：勃艮第路线：博讷老城、默尔索与酒商文化。
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：勃艮第路线：博讷老城、默尔索与酒商文化。
 
-![“默尔索城堡”页面配图：Château de Meursault 003。摄影：Arnaud 25，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-place-chateau-de-meursault-e59c9efc.jpg)
+![Château de Meursault 003](/media/photos/q2-place-chateau-de-meursault-e59c9efc.jpg)
 
-图：Château de Meursault 003。摄影：Arnaud 25，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Arnaud 25，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=18551544)）。关联图像：勃艮第路线：博讷老城、默尔索与酒商文化。
+图：Château de Meursault 003。图片：Arnaud 25，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=18551544)）。关联图像：勃艮第路线：博讷老城、默尔索与酒商文化。

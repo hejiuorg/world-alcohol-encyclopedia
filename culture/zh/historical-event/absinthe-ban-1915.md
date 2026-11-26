@@ -148,4 +148,4 @@ verification_scope: source-verified
 
 ![苦艾酒礼盒：黑色 Teichenné 酒瓶、槽孔金属糖匙与印有 ABSINTHE 的玻璃杯。](/media/photos/drink-style-absinthe-7d2100d5.jpg)
 
-图：苦艾酒礼盒：黑色 Teichenné 酒瓶、槽孔金属糖匙与印有 ABSINTHE 的玻璃杯。。图片：Tangopaso，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Absinthe_bottle_with_glass_and_spoon.jpg)）。关联图像：1915 年法国苦艾酒禁令：一场科学、战争与葡萄酒业的合谋。
+图：苦艾酒礼盒：黑色 Teichenné 酒瓶、槽孔金属糖匙与印有 ABSINTHE 的玻璃杯。图片：Tangopaso，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Absinthe_bottle_with_glass_and_spoon.jpg)）。关联图像：1915 年法国苦艾酒禁令：一场科学、战争与葡萄酒业的合谋。

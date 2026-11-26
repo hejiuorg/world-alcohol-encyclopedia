@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:marlborough
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cb6138a90ed3e51ffb3c23600cb4c6d332324e0da5834c6df034d0deff24ae5d
-source_sha256: cb6138a90ed3e51ffb3c23600cb4c6d332324e0da5834c6df034d0deff24ae5d
+source_revision: sha256:0cc68f20fc9c9ea9eec59a9e583dd40dcfa95d99331b3d7c03fc0e50ff5f18d0
+source_sha256: 0cc68f20fc9c9ea9eec59a9e583dd40dcfa95d99331b3d7c03fc0e50ff5f18d0
 level: other
 parent_id: region:new-zealand
 country_code: NZ

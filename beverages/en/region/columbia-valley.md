@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:columbia-valley
 source_lang: zh
-source_revision: sha256:3996e95f63fdd73d50cf8ebba30e2d8d32a6a3253d3a6d4e89a420259d19f3a0
-source_sha256: 3996e95f63fdd73d50cf8ebba30e2d8d32a6a3253d3a6d4e89a420259d19f3a0
+source_revision: sha256:18fac5f1bba856e5b6069875fd18eb5dbc03987c443544e00b96b6ca9705480f
+source_sha256: 18fac5f1bba856e5b6069875fd18eb5dbc03987c443544e00b96b6ca9705480f
 translation_status: reviewed
 level: other
 parent_id: region:usa

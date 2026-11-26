@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:xinjiang
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b2d503080c376fed5cc67e8a038c86117ffa68daf0d61694e33a68c6fbff3312
-source_sha256: b2d503080c376fed5cc67e8a038c86117ffa68daf0d61694e33a68c6fbff3312
+source_revision: sha256:739fc68a9c5a0f8047869fa0f4fda186bd79f77401399d7c84e694efc09fa206
+source_sha256: 739fc68a9c5a0f8047869fa0f4fda186bd79f77401399d7c84e694efc09fa206
 level: province
 parent_id: region:china
 country_code: CN

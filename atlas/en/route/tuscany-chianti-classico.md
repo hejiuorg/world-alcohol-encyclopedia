@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:tuscany-chianti-classico
 source_lang: zh
-source_revision: sha256:97cf59a199830bb333f02bd78333a0c9eb73c10e1230c136620f001357c07a71
-source_sha256: 97cf59a199830bb333f02bd78333a0c9eb73c10e1230c136620f001357c07a71
+source_revision: sha256:debb9cbcc8962a352af3d4bc10a6341628cf12160283125265fd92fc4b5e7706
+source_sha256: debb9cbcc8962a352af3d4bc10a6341628cf12160283125265fd92fc4b5e7706
 translation_status: reviewed
 legacy_refs: []
 aliases:

@@ -154,6 +154,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“里奥哈”页面配图：A Rioja Vineyard - panoramio。摄影：Art Anderson，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-rioja-e8334a87.jpg)
+![A Rioja Vineyard - panoramio](/media/photos/q2-region-rioja-e8334a87.jpg)
 
-图：A Rioja Vineyard - panoramio。摄影：Art Anderson，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Art Anderson，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=56546384)）。关联图像：马卡贝奥。
+图：A Rioja Vineyard - panoramio。图片：Art Anderson，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=56546384)）。关联图像：马卡贝奥。

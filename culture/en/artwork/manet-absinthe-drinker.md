@@ -10,8 +10,8 @@ summary: Édouard Manet's early canvas of about 1859, now at the Ny Carlsberg Gl
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:9ad1a93d95a2a1978d6ef3a72e70c66fde7473cd3995125ee2006e21569a1ab6
-source_sha256: 9ad1a93d95a2a1978d6ef3a72e70c66fde7473cd3995125ee2006e21569a1ab6
+source_revision: sha256:53e294b331ece1fe5c72f8972a636dca95925a5cab2fb502948b26342c1a5dcf
+source_sha256: 53e294b331ece1fe5c72f8972a636dca95925a5cab2fb502948b26342c1a5dcf
 source_lang: zh
 translation_status: reviewed
 creator_refs: []

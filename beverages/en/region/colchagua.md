@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:colchagua
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d7adc6dfb24fd2997006e7bac750bab8f5c66d6a8d496f1592f1d820b4e0f431
-source_sha256: d7adc6dfb24fd2997006e7bac750bab8f5c66d6a8d496f1592f1d820b4e0f431
+source_revision: sha256:8515f1ddef18b21d9708df66fa9894adf640285c4e39057f419e355724a9fde2
+source_sha256: 8515f1ddef18b21d9708df66fa9894adf640285c4e39057f419e355724a9fde2
 level: other
 parent_id: region:chile
 country_code: CL

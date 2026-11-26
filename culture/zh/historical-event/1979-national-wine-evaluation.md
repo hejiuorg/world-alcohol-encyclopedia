@@ -170,6 +170,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“周恒刚”页面配图：SZ 深圳 Shenzhen 龍崗 Longgang 松柏路 Songbai Road 橫崗街道 Henggang Streets 銀信榮恒商業廣場 YinXin Rong Heng Shopping Mall CoCo One shop China Jewellery n Zhou Liu Fu October 2025 N13P 09。摄影：HSeqao MLSGA，CC0，来自 Wikimedia Commons。](/media/photos/q2-person-zhou-henggang-8ef5b384.jpg)
+![SZ 深圳 Shenzhen 龍崗 Longgang 松柏路 Songbai Road 橫崗街道 Henggang Streets 銀信榮恒商業廣場 YinXin Rong Heng Shopping Mall CoCo One shop China Jewellery n Zhou Liu Fu October 2025 N13P 09](/media/photos/q2-person-zhou-henggang-8ef5b384.jpg)
 
-图：SZ 深圳 Shenzhen 龍崗 Longgang 松柏路 Songbai Road 橫崗街道 Henggang Streets 銀信榮恒商業廣場 YinXin Rong Heng Shopping Mall CoCo One shop China Jewellery n Zhou Liu Fu October 2025 N13P 09。摄影：HSeqao MLSGA，CC0，来自 Wikimedia Commons。。图片：HSeqao MLSGA，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=177355500)）。关联图像：1979 年第三届全国评酒会：暗评与香型分组。
+图：SZ 深圳 Shenzhen 龍崗 Longgang 松柏路 Songbai Road 橫崗街道 Henggang Streets 銀信榮恒商業廣場 YinXin Rong Heng Shopping Mall CoCo One shop China Jewellery n Zhou Liu Fu October 2025 N13P 09。图片：HSeqao MLSGA，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=177355500)）。关联图像：1979 年第三届全国评酒会：暗评与香型分组。

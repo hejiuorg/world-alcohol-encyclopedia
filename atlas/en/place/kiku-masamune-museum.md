@@ -89,8 +89,8 @@ verification_scope: source-verified
 translation_of: place:kiku-masamune-museum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2045c8c32bdfcfdf105da52e48e0d0f74768df86e8cf4ae27319998dc5601b77
-source_sha256: 2045c8c32bdfcfdf105da52e48e0d0f74768df86e8cf4ae27319998dc5601b77
+source_revision: sha256:17fd4c3c9773d08c1c2032dd9c7a8b7ec56046ffef6d61344940c5f3bf024916
+source_sha256: 17fd4c3c9773d08c1c2032dd9c7a8b7ec56046ffef6d61344940c5f3bf024916
 ---
 
 # Kiku-Masamune Sake Brewery Museum

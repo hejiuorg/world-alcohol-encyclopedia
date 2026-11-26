@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:saint-julien
 source_lang: zh
-source_revision: sha256:2129f7df29d2cb8fdcf24eca3a66bdcd18b2994e7f4237f3b2e1b4602a29fd4a
-source_sha256: 2129f7df29d2cb8fdcf24eca3a66bdcd18b2994e7f4237f3b2e1b4602a29fd4a
+source_revision: sha256:f7608edb4adab1febfcca1e9d2adab831b838e944ad1ebe9590e8b6bb35aa22f
+source_sha256: f7608edb4adab1febfcca1e9d2adab831b838e944ad1ebe9590e8b6bb35aa22f
 translation_status: reviewed
 level: city
 parent_id: region:france

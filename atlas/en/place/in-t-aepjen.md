@@ -86,8 +86,8 @@ verification_scope: source-verified
 translation_of: place:in-t-aepjen
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:49cca1fccf9e164fb8a996cf9141c409dd3cc722a2aa76a220e59ff6b0656c04
-source_sha256: 49cca1fccf9e164fb8a996cf9141c409dd3cc722a2aa76a220e59ff6b0656c04
+source_revision: sha256:8f0fcd9fe9a991c609d0116d4e1b940660aaa1788f8ea20b3f9981f4027bc8a8
+source_sha256: 8f0fcd9fe9a991c609d0116d4e1b940660aaa1788f8ea20b3f9981f4027bc8a8
 ---
 
 # In ’t Aepjen

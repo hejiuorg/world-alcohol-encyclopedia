@@ -144,6 +144,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“荷兰”页面配图：Vineyard Dassemus (Chaam, Netherlands, July 2020) - 2 (50522232027)。摄影：Bruno Rijsman，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-netherlands-01d9680b.jpg)
+![Vineyard Dassemus (Chaam, Netherlands, July 2020) - 2 (50522232027)](/media/photos/q2-region-netherlands-01d9680b.jpg)
 
-图：Vineyard Dassemus (Chaam, Netherlands, July 2020) - 2 (50522232027)。摄影：Bruno Rijsman，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Bruno Rijsman，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=101342530)）。关联图像：喜力体验馆：老啤酒厂的第二次生命。
+图：Vineyard Dassemus (Chaam, Netherlands, July 2020) - 2 (50522232027)。图片：Bruno Rijsman，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=101342530)）。关联图像：喜力体验馆：老啤酒厂的第二次生命。

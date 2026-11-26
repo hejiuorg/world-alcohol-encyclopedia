@@ -160,4 +160,4 @@ verification_scope: source-verified
 
 ![一个鲜食红苹果。酿酒用苹果通常更小、更酸或更涩，与鲜食苹果的育种目标不同。](/media/photos/ingredient-apple-9b1f2b38.jpg)
 
-图：一个鲜食红苹果。酿酒用苹果通常更小、更酸或更涩，与鲜食苹果的育种目标不同。。图片：Abhijit Tembhekar，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_Apple.jpg)）。关联图像：冰苹果酒。
+图：一个鲜食红苹果。酿酒用苹果通常更小、更酸或更涩，与鲜食苹果的育种目标不同。图片：Abhijit Tembhekar，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_Apple.jpg)）。关联图像：冰苹果酒。

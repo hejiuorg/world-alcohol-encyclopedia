@@ -25,8 +25,8 @@ tags:
 translation_of: region:tasmania
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2a9b6c05edcc978c82b0565e779191c18d9317384165d958eaac78af86344504
-source_sha256: 2a9b6c05edcc978c82b0565e779191c18d9317384165d958eaac78af86344504
+source_revision: sha256:d0de8e36f8ce3f25ded006bd404ea150847f5e6ea2e5b35701095450b69aa48f
+source_sha256: d0de8e36f8ce3f25ded006bd404ea150847f5e6ea2e5b35701095450b69aa48f
 related:
   - relation: about
     target_id: region:australia

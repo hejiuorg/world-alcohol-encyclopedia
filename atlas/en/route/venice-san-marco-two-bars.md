@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: route:venice-san-marco-two-bars
 source_lang: zh
-source_revision: sha256:6f5159e3c8a89bb3cc49eea70f11177776724bf5a5f3fd5462909df97b96fe14
-source_sha256: 6f5159e3c8a89bb3cc49eea70f11177776724bf5a5f3fd5462909df97b96fe14
+source_revision: sha256:30a3c95af453ff30cb51d5153914b36a2b8cd0eaaa267b900b375249943a9f53
+source_sha256: 30a3c95af453ff30cb51d5153914b36a2b8cd0eaaa267b900b375249943a9f53
 translation_status: reviewed
 legacy_refs: []
 aliases:

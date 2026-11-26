@@ -10,8 +10,8 @@ summary: Paolo Veronese's 1562–1563 canvas for the refectory of San Giorgio Ma
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:0caaf0f42ba2447c70bbb0f8491d022900b865656d0e83eb55a740736ef34b6f
-source_sha256: 0caaf0f42ba2447c70bbb0f8491d022900b865656d0e83eb55a740736ef34b6f
+source_revision: sha256:24ced18fcd8ae2990d17345e602260abe9ae920c76766a5f89aba2d427470148
+source_sha256: 24ced18fcd8ae2990d17345e602260abe9ae920c76766a5f89aba2d427470148
 source_lang: zh
 translation_status: reviewed
 creator_refs: []

@@ -188,6 +188,6 @@ Fino 与曼萨尼亚适合搭配海鲜、橄榄、火腿与炸物；Oloroso 适�
 
 图：加强葡萄酒。图片：Jon Sullivan，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)）。关联图像：赫雷斯。
 
-![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+![Uga - Lanzarote - Spain. Vineyards -U16](/media/photos/q2-region-spain-732e598a.jpg)
 
-图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：赫雷斯。
+图：Uga - Lanzarote - Spain. Vineyards -U16。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：赫雷斯。

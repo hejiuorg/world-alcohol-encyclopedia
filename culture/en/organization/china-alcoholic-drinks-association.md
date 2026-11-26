@@ -34,8 +34,8 @@ related:
 translation_of: organization:china-alcoholic-drinks-association
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5d40c94d0d495c32233f352f514d44b3de869f8fb8bccc8da66c0dbe6ddede29
-source_sha256: 5d40c94d0d495c32233f352f514d44b3de869f8fb8bccc8da66c0dbe6ddede29
+source_revision: sha256:16337c7a4f22722af1aea2a3f9d226143ea9ae1600e3e8d06a178a52ad2eabab
+source_sha256: 16337c7a4f22722af1aea2a3f9d226143ea9ae1600e3e8d06a178a52ad2eabab
 references:
   - key: baijiu
     target_id: drink-style:baijiu

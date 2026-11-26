@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:zinfandel
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:017b798491ecf584e028b6f54498991c3b24d1a9d4036a276e6dadfad1a25f1f
-source_sha256: 017b798491ecf584e028b6f54498991c3b24d1a9d4036a276e6dadfad1a25f1f
+source_revision: sha256:a621f282295aa89ccc7c156462965236107d00f9a23e4f4be9291bda12d653b5
+source_sha256: a621f282295aa89ccc7c156462965236107d00f9a23e4f4be9291bda12d653b5
 legacy_refs: []
 species: Vitis vinifera
 aliases:

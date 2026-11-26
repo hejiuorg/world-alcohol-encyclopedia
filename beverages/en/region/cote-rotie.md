@@ -25,8 +25,8 @@ tags:
 translation_of: region:cote-rotie
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9c0388a597fe3602138670da2165b9a35e913f024844f42b76003027bce4dcdd
-source_sha256: 9c0388a597fe3602138670da2165b9a35e913f024844f42b76003027bce4dcdd
+source_revision: sha256:3c09b57fd2a6f13c94793a274006539097f0e705a590b804920167bf3eefcfd8
+source_sha256: 3c09b57fd2a6f13c94793a274006539097f0e705a590b804920167bf3eefcfd8
 related:
   - relation: about
     target_id: region:rhone

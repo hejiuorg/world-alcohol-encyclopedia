@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:junmai-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:903a03d9965fd4d47dc7f0467e1b433a1507fa1723271a0fdffacc353ce1dbe1
-source_sha256: 903a03d9965fd4d47dc7f0467e1b433a1507fa1723271a0fdffacc353ce1dbe1
+source_revision: sha256:258de102c1a511011cd0bb6b8adaf1b68201261f8ba7598460dc2f5c3cf7b3f5
+source_sha256: 258de102c1a511011cd0bb6b8adaf1b68201261f8ba7598460dc2f5c3cf7b3f5
 legacy_refs: []
 aliases:
   - Junmai

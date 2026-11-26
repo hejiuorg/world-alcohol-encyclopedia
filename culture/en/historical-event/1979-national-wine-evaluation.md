@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:1979-national-wine-evaluation
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f51b4b65e587e2ff2949f1fee9344a31769d265462dc7b389709752990593c2a
-source_sha256: f51b4b65e587e2ff2949f1fee9344a31769d265462dc7b389709752990593c2a
+source_revision: sha256:3c41ba6f223f24a686cdaab0f667dc2bbf7dee00a0c4447cc5c7fb072c628669
+source_sha256: 3c41ba6f223f24a686cdaab0f667dc2bbf7dee00a0c4447cc5c7fb072c628669
 date_text: "1979"
 year_start: 1979
 year_end: 1979

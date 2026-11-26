@@ -98,7 +98,7 @@ verification_scope: source-verified
 
 ![德国地区实景](/media/photos/event-oktoberfest-45ef807b.jpg)
 
-图：德国地区的一处实景。图：Renardo la vulpo，CC0。。图片：Renardo la vulpo，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)）。这张照片来自德国产区内已核实条目，用于说明当地风貌，不是德国的全区域地图。
+图：德国地区的一处实景。图片：Renardo la vulpo，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)）。这张照片来自德国产区内已核实条目，用于说明当地风貌，不是德国的全区域地图。
 
 ## 地理与气候
 

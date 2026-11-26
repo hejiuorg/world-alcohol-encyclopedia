@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:absinthe-ban-1915
 source_lang: zh
-source_revision: sha256:440b60be7993c9c98dde31ccb89e61a9751c2452669589c2e52d6e82c7707f6b
-source_sha256: 440b60be7993c9c98dde31ccb89e61a9751c2452669589c2e52d6e82c7707f6b
+source_revision: sha256:77a915f83bb4d8b12a073f93295b2a613a27c5113f1fe704fbd72a6948f06030
+source_sha256: 77a915f83bb4d8b12a073f93295b2a613a27c5113f1fe704fbd72a6948f06030
 translation_status: reviewed
 legacy_refs: []
 date_text: August 1914–16 March 1915

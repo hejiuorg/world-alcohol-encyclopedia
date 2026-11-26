@@ -166,9 +166,9 @@ Wynns Coonawarra Estate 拥有产区最老的葡萄园，三檐石砌酒厂是�
 
 ## 相关图像
 
-![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+![Renmark South Australia Vineyard](/media/photos/q2-region-australia-968b262e.jpg)
 
-图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：库纳瓦拉。
+图：Renmark South Australia Vineyard。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：库纳瓦拉。
 
 ![梅洛](/media/photos/variety-merlot-2a33ecba.jpg)
 

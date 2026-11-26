@@ -181,4 +181,4 @@ verification_scope: source-verified
 
 ![美国禁酒令时期，执法人员将酒桶中的酒倒入下水道。](/media/photos/historical-event-us-prohibition-3cc2932a.jpg)
 
-图：美国禁酒令时期，执法人员将酒桶中的酒倒入下水道。。图片：Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:5_Prohibition_Disposal(9).jpg)）。关联图像：贝灵哲酒庄。
+图：美国禁酒令时期，执法人员将酒桶中的酒倒入下水道。图片：Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:5_Prohibition_Disposal(9).jpg)）。关联图像：贝灵哲酒庄。

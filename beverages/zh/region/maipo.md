@@ -192,4 +192,4 @@ Carmenère 在迈坡也有种植，常带青椒、黑莓与香料气息；Syrah 
 
 ![智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。](/media/photos/region-chile-7480a4eb.jpg)
 
-图：智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。。图片：Beatrice Murch，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)）。关联图像：迈坡。
+图：智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。图片：Beatrice Murch，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)）。关联图像：迈坡。

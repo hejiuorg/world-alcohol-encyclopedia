@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:compounded-liquor
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4f6a36fda030942adf03927a6cb7b0378fbe1066cab0baa63be8ff59f12d038f
-source_sha256: 4f6a36fda030942adf03927a6cb7b0378fbe1066cab0baa63be8ff59f12d038f
+source_revision: sha256:edc9e533f985523c2853ecbb396d647e0bde711c20da9e11e14435b37574941c
+source_sha256: edc9e533f985523c2853ecbb396d647e0bde711c20da9e11e14435b37574941c
 legacy_refs: []
 aliases:
   - Compounded liquor

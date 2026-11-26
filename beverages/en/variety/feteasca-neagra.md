@@ -22,8 +22,8 @@ tags:
 translation_of: variety:feteasca-neagra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9d82f88b0c8933fe0da0cf32dccb501dd7be8df996a599c4afd56506e1f6e504
-source_sha256: 9d82f88b0c8933fe0da0cf32dccb501dd7be8df996a599c4afd56506e1f6e504
+source_revision: sha256:add8767f6ce32f0a82e8ab80461a49f3e3214c4adca4854f5d142535098d6ae5
+source_sha256: add8767f6ce32f0a82e8ab80461a49f3e3214c4adca4854f5d142535098d6ae5
 related:
   - relation: about
     target_id: variety:pinot-noir

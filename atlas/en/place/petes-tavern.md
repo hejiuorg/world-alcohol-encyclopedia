@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:petes-tavern
 source_lang: zh
-source_revision: sha256:905bff55eed5f4bdfb1ec3d43938988e1419809af228bcc75b9cfa98978ff759
-source_sha256: 905bff55eed5f4bdfb1ec3d43938988e1419809af228bcc75b9cfa98978ff759
+source_revision: sha256:4794b62df69c7cc7e80fa4b07b46373ea43fbf4a64fa12b5a5198eae8b1c9e7a
+source_sha256: 4794b62df69c7cc7e80fa4b07b46373ea43fbf4a64fa12b5a5198eae8b1c9e7a
 translation_status: reviewed
 subtype: bar
 address: 129 East 18th Street, New York, NY 10003, USA
@@ -149,6 +149,4 @@ Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2)
 
 ## Related images
 
-![Photograph for Employees Only: File:2019-05-05 Lagavulin Distillery.jpg. Credit: Charlie Marshall, CC BY 2.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.](/media/photos/q2-place-employees-only-460e16a8.jpg)
 
-Image: File:2019-05-05 Lagavulin Distillery.jpg. Credit: Charlie Marshall, CC BY 2.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.. Credit: Charlie Marshall, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)). Related image for Pete's Tavern.

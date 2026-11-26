@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:heineken-experience
 source_lang: zh
-source_revision: sha256:ec5d63adc1aa5cbf9b129aa52da6ebe228c9d8ceddcc100ed02a9f34ee19ad2d
-source_sha256: ec5d63adc1aa5cbf9b129aa52da6ebe228c9d8ceddcc100ed02a9f34ee19ad2d
+source_revision: sha256:f1fcc204944db279fc18217e780b1d56782abfdd283d7814b19a57f84f2f03e3
+source_sha256: f1fcc204944db279fc18217e780b1d56782abfdd283d7814b19a57f84f2f03e3
 translation_status: reviewed
 subtype: museum
 address: Stadhouderskade 78, 1072 AE Amsterdam, Netherlands

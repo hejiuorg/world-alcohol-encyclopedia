@@ -30,8 +30,8 @@ related:
 translation_of: event:prowein
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6610fe6559d4cee36a300469980f9a80968861d539c146bf3d8b6aafd6d54a08
-source_sha256: 6610fe6559d4cee36a300469980f9a80968861d539c146bf3d8b6aafd6d54a08
+source_revision: sha256:b55598306907f04470408eafdc62a365ea7c3f78c4ad65042d2d6c3aca32a4ca
+source_sha256: b55598306907f04470408eafdc62a365ea7c3f78c4ad65042d2d6c3aca32a4ca
 references:
   - key: wine
     target_id: drink-style:wine

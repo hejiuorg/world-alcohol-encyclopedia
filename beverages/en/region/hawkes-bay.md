@@ -25,8 +25,8 @@ tags:
 translation_of: region:hawkes-bay
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:071ce7f60a371856d73484f5b4b46a519b849022c38edef6ea3553034099fd27
-source_sha256: 071ce7f60a371856d73484f5b4b46a519b849022c38edef6ea3553034099fd27
+source_revision: sha256:0120e928fc12503de6a2392d373061ccf975f8963d777f3f9c638332349e5fa2
+source_sha256: 0120e928fc12503de6a2392d373061ccf975f8963d777f3f9c638332349e5fa2
 related:
   - relation: about
     target_id: region:new-zealand

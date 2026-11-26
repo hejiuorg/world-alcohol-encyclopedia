@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:chablis
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b4bebf9f48a1ccd80525dadafb8a0f153cee2708bbeda5edcd760a16df34a1c5
-source_sha256: b4bebf9f48a1ccd80525dadafb8a0f153cee2708bbeda5edcd760a16df34a1c5
+source_revision: sha256:be860598785ce1d6de7a4f26076763d04daae1a44db1711b7e858e639b5c6878
+source_sha256: be860598785ce1d6de7a4f26076763d04daae1a44db1711b7e858e639b5c6878
 level: other
 parent_id: region:burgundy
 country_code: FR

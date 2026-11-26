@@ -23,8 +23,8 @@ tags:
 translation_of: route:mclaren-vale-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0a56ddac465c73e52162a63035f3540710e7ffa355e2f9cab3609e90c717a869
-source_sha256: 0a56ddac465c73e52162a63035f3540710e7ffa355e2f9cab3609e90c717a869
+source_revision: sha256:64c404f2ab0e7e151b322a7778cb45d8bec5e53c1e24f2e1e62fc12c40f6fe5e
+source_sha256: 64c404f2ab0e7e151b322a7778cb45d8bec5e53c1e24f2e1e62fc12c40f6fe5e
 related:
   - relation: about
     target_id: place:darenberg

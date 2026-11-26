@@ -149,4 +149,4 @@ founded_year: 1772
 
 ![从 Ely Court 窄巷看老主教冠酒馆的临街外观；酒馆 1546 年已有记载，现存建筑主体为 18 世纪，照片不是 1546 年原物。](/media/photos/place-ye-olde-mitre-f7b2f11e.jpg)
 
-图：从 Ely Court 窄巷看老主教冠酒馆的临街外观；酒馆 1546 年已有记载，现存建筑主体为 18 世纪，照片不是 1546 年原物。。图片：Ewan Munro from London, UK，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ye_Olde_Mitre,_Hatton_Garden,_EC1_(4140007697).jpg)）。关联图像：兰姆与旗。
+图：从 Ely Court 窄巷看老主教冠酒馆的临街外观；酒馆 1546 年已有记载，现存建筑主体为 18 世纪，照片不是 1546 年原物。图片：Ewan Munro from London, UK，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ye_Olde_Mitre,_Hatton_Garden,_EC1_(4140007697).jpg)）。关联图像：兰姆与旗。

@@ -164,4 +164,4 @@ verification_scope: source-verified
 
 ![收获后切段的甘蔗茎，可见节与节间。](/media/photos/ingredient-sugarcane-64425b4f.jpg)
 
-图：收获后切段的甘蔗茎，可见节与节间。。图片：ruurmo，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cut_sugarcane.jpg)）。关联图像：卡莎萨。
+图：收获后切段的甘蔗茎，可见节与节间。图片：ruurmo，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cut_sugarcane.jpg)）。关联图像：卡莎萨。

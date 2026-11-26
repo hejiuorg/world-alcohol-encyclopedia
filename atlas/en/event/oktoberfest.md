@@ -31,8 +31,8 @@ related:
 translation_of: event:oktoberfest
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:843a52eb865bcfe77039d10ad23c5a4e7978d697ae30d27c90120276a5f5c361
-source_sha256: 843a52eb865bcfe77039d10ad23c5a4e7978d697ae30d27c90120276a5f5c361
+source_revision: sha256:6127524e1accc25494825d1ef41d8db3bdcb600109c7b595413bdc85101cdace
+source_sha256: 6127524e1accc25494825d1ef41d8db3bdcb600109c7b595413bdc85101cdace
 references:
   - key: beer
     target_id: drink-style:beer

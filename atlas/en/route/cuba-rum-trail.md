@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:cuba-rum-trail
 source_lang: zh
-source_revision: sha256:2034512b0c435a0cddc536652573fa1fe3397edb51f4d818e06bbc17b09762e1
-source_sha256: 2034512b0c435a0cddc536652573fa1fe3397edb51f4d818e06bbc17b09762e1
+source_revision: sha256:110896519cba80f8a8885fee6eec145dabeff73074baf30e8ea55cc1a39c5792
+source_sha256: 110896519cba80f8a8885fee6eec145dabeff73074baf30e8ea55cc1a39c5792
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -106,9 +106,9 @@ updated_at: 2026-11-09
 
 This Cuba rum trail means two museums: the [Havana Club Rum Museum](ref:havana) at Avenida del Puerto 262 in old Havana, and the [Santiago de Cuba Rum Museum](ref:santiago) at Calle San Basilio 358. More than 800 km apart, they share one thread: Spain restricted colonial distillation, a real ron industry appeared in the late 19th century, Santiago claimed the light-rum cradle after 1862, and the 1959 revolution and 1960 nationalisation rebuilt brands and exports as a state system. The point is how one history is told twice.
 
-![Cuba rum trail: Havana and Santiago de Cuba photograph](/media/photos/q2-route-cuba-rum-trail-99fd8e48.jpg)
+![Facade of Bodeguita del Medio in Old Havana](/media/photos/q2-route-cuba-rum-trail-99fd8e48.jpg)
 
-Figure: Cuba rum trail: Havana and Santiago de Cuba. Photograph: File:Bodeguita del Medio, Havana, Cuba 9.jpg. Credit: Derek Blackadder from Cobourg, ON, Canada, CC BY-SA 2.0, via the site archive ([source](https://commons.wikimedia.org/wiki/File:Bodeguita_del_Medio,_Havana,_Cuba_9.jpg)). Category photograph used to illustrate the subject; not an official product image.
+Image: Facade of Bodeguita del Medio in Old Havana, used as atmosphere reference for the Havana stop on the Cuba rum trail; it does not define specific stops or boundaries. Credit: Derek Blackadder from Cobourg, ON, Canada, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bodeguita_del_Medio,_Havana,_Cuba_9.jpg)).
 
 ## Between the western port and the eastern mountains
 

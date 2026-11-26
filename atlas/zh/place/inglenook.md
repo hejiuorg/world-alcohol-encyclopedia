@@ -157,6 +157,6 @@ Rubicon 建议 16–18°C，年轻年份提前 1–2 小时，老年份 30–60 
 
 ## 相关图像
 
-![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+![Cabernet Sauvignon grapes from Château Cos D'Estournel](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
 
-图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：英格努克酒庄。
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：英格努克酒庄。

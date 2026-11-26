@@ -11,8 +11,8 @@ revision: 1
 translation_of: region:tokaj
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1570fde75adba3f4665e321cae3632ce0e532d6054921197c301a520e80d746e
-source_sha256: 1570fde75adba3f4665e321cae3632ce0e532d6054921197c301a520e80d746e
+source_revision: sha256:163bf9e8c39d60c056a02544df0807775d205dc85115b1380de97789000d184a
+source_sha256: 163bf9e8c39d60c056a02544df0807775d205dc85115b1380de97789000d184a
 legacy_refs: []
 level: other
 country_code: HU

@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:eagle-and-child
 source_lang: zh
-source_revision: sha256:f1994b5062938b0473ecc2e6e932a5f51c72e3cd9eeb5baa12f140b27e13734c
-source_sha256: f1994b5062938b0473ecc2e6e932a5f51c72e3cd9eeb5baa12f140b27e13734c
+source_revision: sha256:711749285119be6d4d9b5f20852ccafb1a61918f97e337db995784ec2823bfa3
+source_sha256: 711749285119be6d4d9b5f20852ccafb1a61918f97e337db995784ec2823bfa3
 translation_status: reviewed
 subtype: pub
 address: 49 St Giles', Oxford OX1 3LU, United Kingdom

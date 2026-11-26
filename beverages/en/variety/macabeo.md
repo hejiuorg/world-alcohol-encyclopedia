@@ -22,8 +22,8 @@ tags:
 translation_of: variety:macabeo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:79758d3bf3b6577eecc681db11268943edffa6a4ad91a0083d486b0eca31ac7e
-source_sha256: 79758d3bf3b6577eecc681db11268943edffa6a4ad91a0083d486b0eca31ac7e
+source_revision: sha256:84570ad5a24a3d0578de108a1ca29f2aedc09ae3ed26dc6067c78b97ab23f590
+source_sha256: 84570ad5a24a3d0578de108a1ca29f2aedc09ae3ed26dc6067c78b97ab23f590
 related:
   - relation: about
     target_id: region:rioja

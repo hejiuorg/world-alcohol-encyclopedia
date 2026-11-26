@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:priorat
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6d91fd32eaff09711705a438e4af999e97ef406115aa21cbde6f64ae5677360f
-source_sha256: 6d91fd32eaff09711705a438e4af999e97ef406115aa21cbde6f64ae5677360f
+source_revision: sha256:863483bb90299b635877aeeb7dd9baec204293f94340d8b0122da6bf4083784e
+source_sha256: 863483bb90299b635877aeeb7dd9baec204293f94340d8b0122da6bf4083784e
 level: province
 parent_id: region:spain
 country_code: ES

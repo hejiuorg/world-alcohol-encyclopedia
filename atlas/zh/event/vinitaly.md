@@ -90,7 +90,7 @@ Vinitaly 是意大利葡萄酒行业每年四月的中心舞台。它在维罗�
 
 ![维罗纳展览中心 Vinitaly 展馆俯瞰；画面不是某一届的官方现场记录，也不代表 2026 年展商名单。图：Fabio Ingrosso (VinoFamily)，CC BY 2.0。](/media/photos/event-vinitaly-5ea9fc21.jpg)
 
-图：维罗纳展览中心 Vinitaly 展馆俯瞰；画面不是某一届的官方现场记录，也不代表 2026 年展商名单。图：Fabio Ingrosso (VinoFamily)，CC BY 2.0。。图片：Fabio Ingrosso (VinoFamily)，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vinitaly,_vista_dei_padiglioni_dall%27alto.jpg)）。
+图：维罗纳展览中心 Vinitaly 展馆俯瞰；画面不是某一届的官方现场记录，也不代表 2026 年展商名单。图片：Fabio Ingrosso (VinoFamily)，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vinitaly,_vista_dei_padiglioni_dall%27alto.jpg)）。
 
 ## 意大利酒的年度展台
 

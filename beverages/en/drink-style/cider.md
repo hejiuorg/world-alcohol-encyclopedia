@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:cider
 source_lang: zh
-source_revision: sha256:0656fc6fdc7dd132ba7334f9a8dab4bb37b758270f23c23a495f8159a205f0cb
-source_sha256: 0656fc6fdc7dd132ba7334f9a8dab4bb37b758270f23c23a495f8159a205f0cb
+source_revision: sha256:49529209fa3eeda7b2ee1ee745b5bb159a10615f9ddd4d81c964549d28a4b622
+source_sha256: 49529209fa3eeda7b2ee1ee745b5bb159a10615f9ddd4d81c964549d28a4b622
 translation_status: reviewed
 legacy_refs: []
 aliases:

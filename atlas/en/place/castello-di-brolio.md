@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:castello-di-brolio
 source_lang: zh
-source_revision: sha256:aaf6510c9f8acb16cc869c3765c1617a505f46f2a74aab24b67a66f195752fab
-source_sha256: aaf6510c9f8acb16cc869c3765c1617a505f46f2a74aab24b67a66f195752fab
+source_revision: sha256:7464840b9ac1d3fed50fa81d09b5e0b7b3153f959be3e820ec9e75f6e98cf5aa
+source_sha256: 7464840b9ac1d3fed50fa81d09b5e0b7b3153f959be3e820ec9e75f6e98cf5aa
 translation_status: reviewed
 subtype: winery-visitor
 address: Località Brolio, 53013 Gaiole in Chianti (SI), Italy

@@ -90,7 +90,7 @@ Tales of the Cocktail 的名字听起来像一场讲故事的酒会。它确实�
 
 ![Tales of the Cocktail 在蒙特莱昂酒店的活动现场；画面不是 2026 年会议，也不代表当届日程。图：Dan Silvers，CC BY 2.0。](/media/photos/event-tales-of-the-cocktail-4194ea5e.jpg)
 
-图：Tales of the Cocktail 在蒙特莱昂酒店的活动现场；画面不是 2026 年会议，也不代表当届日程。图：Dan Silvers，CC BY 2.0。。图片：Dan Silvers，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tales_of_the_Cocktail_at_the_Hotel_Monteleone,_New_Orleans,_LA.jpg)）。
+图：Tales of the Cocktail 在蒙特莱昂酒店的活动现场；画面不是 2026 年会议，也不代表当届日程。图片：Dan Silvers，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tales_of_the_Cocktail_at_the_Hotel_Monteleone,_New_Orleans,_LA.jpg)）。
 
 ## 不是“喝酒大会”，是行业年会
 

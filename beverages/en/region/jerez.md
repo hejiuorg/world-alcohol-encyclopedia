@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:jerez
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e021a30b0f31d04327118cdb3b86d664eafe43e4f161616b5ec1d3435596f51c
-source_sha256: e021a30b0f31d04327118cdb3b86d664eafe43e4f161616b5ec1d3435596f51c
+source_revision: sha256:dee115ec47e2c173c395df5110c5c49a3b183e6add074d26d39f2ca1eaa174f5
+source_sha256: dee115ec47e2c173c395df5110c5c49a3b183e6add074d26d39f2ca1eaa174f5
 level: other
 parent_id: region:spain
 country_code: ES

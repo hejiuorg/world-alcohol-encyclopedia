@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:cote-de-beaune
 source_lang: zh
-source_revision: sha256:ea11864affb6d81d7eaa9d75076221001527202e0018d0364c9426e94e614acf
-source_sha256: ea11864affb6d81d7eaa9d75076221001527202e0018d0364c9426e94e614acf
+source_revision: sha256:ff30620c61f4fa912dc5deedddf44da9a57644d6d2b57dd524d0f0bce46ad62f
+source_sha256: ff30620c61f4fa912dc5deedddf44da9a57644d6d2b57dd524d0f0bce46ad62f
 translation_status: reviewed
 level: city
 parent_id: region:france

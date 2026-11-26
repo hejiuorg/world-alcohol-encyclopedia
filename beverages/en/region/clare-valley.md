@@ -24,8 +24,8 @@ tags:
 translation_of: region:clare-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c2ab6dc2608e482bdc72be596b6cca32466df6a8e904aca7d41150a7a91f48f2
-source_sha256: c2ab6dc2608e482bdc72be596b6cca32466df6a8e904aca7d41150a7a91f48f2
+source_revision: sha256:e96497a406569f06cdf89bb9dd9515724cfeb54a55ea3960717098cd30f60b30
+source_sha256: e96497a406569f06cdf89bb9dd9515724cfeb54a55ea3960717098cd30f60b30
 related:
   - relation: about
     target_id: region:australia

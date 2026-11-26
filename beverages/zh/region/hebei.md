@@ -195,6 +195,6 @@ verification_scope: source-verified
 
 图：中国类别配图。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)）。关联图像：河北。
 
-![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+![Cabernet Sauvignon grapes from Château Cos D'Estournel](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
 
-图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：河北。
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：河北。

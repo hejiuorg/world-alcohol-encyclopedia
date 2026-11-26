@@ -180,6 +180,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“天堂山酒厂”页面配图：Heaven Hill distillery, Bardstown, Kentucky。摄影：Shadle，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-place-heaven-hill-distillery-8dfd9681.jpg)
+![Heaven Hill distillery, Bardstown, Kentucky](/media/photos/q2-place-heaven-hill-distillery-8dfd9681.jpg)
 
-图：Heaven Hill distillery, Bardstown, Kentucky。摄影：Shadle，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Shadle，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4136725)）。关联图像：美格酒厂。
+图：Heaven Hill distillery, Bardstown, Kentucky。图片：Shadle，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4136725)）。关联图像：美格酒厂。

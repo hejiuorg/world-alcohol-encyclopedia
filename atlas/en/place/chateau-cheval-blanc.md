@@ -94,8 +94,8 @@ verification_scope: source-verified
 translation_of: place:chateau-cheval-blanc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1df5e9687d8d6e21295e68327c397a50c63c64a0aa534251c488f4766629743c
-source_sha256: 1df5e9687d8d6e21295e68327c397a50c63c64a0aa534251c488f4766629743c
+source_revision: sha256:dffbf21ce8b64a32eda2637255c17da990077dc9267c54147b12ec8e55f26942
+source_sha256: dffbf21ce8b64a32eda2637255c17da990077dc9267c54147b12ec8e55f26942
 ---
 
 # Château Cheval Blanc

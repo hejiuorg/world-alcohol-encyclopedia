@@ -151,4 +151,4 @@ founded_year: 1887
 
 ![巴黎圣日耳曼德佩的花神咖啡馆，绿色遮阳篷与露天座面向街口。](/media/photos/route-saint-germain-literary-cafes-cfcc43a7.jpg)
 
-图：巴黎圣日耳曼德佩的花神咖啡馆，绿色遮阳篷与露天座面向街口。。图片：DIMSFIKAS，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cafe_de_Flore,_Paris_-_2011.JPG)）。关联图像：花神咖啡馆。
+图：巴黎圣日耳曼德佩的花神咖啡馆，绿色遮阳篷与露天座面向街口。图片：DIMSFIKAS，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cafe_de_Flore,_Paris_-_2011.JPG)）。关联图像：花神咖啡馆。

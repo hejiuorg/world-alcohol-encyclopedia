@@ -83,7 +83,7 @@ verification_scope: source-verified
 ---
 ![马奈《苦艾酒饮者》复制图，约 1859 年，现藏新嘉士伯美术馆；不是咖啡馆现场，也不是马奈自画像。](/media/photos/artwork-manet-absinthe-drinker-019e2dd3.jpg)
 
-图：马奈《苦艾酒饮者》复制图，约 1859 年，现藏新嘉士伯美术馆；不是咖啡馆现场，也不是马奈自画像。。图片：Édouard Manet，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_The_Absinthe_Drinker_-_Google_Art_Project.jpg)）。
+图：马奈《苦艾酒饮者》复制图，约 1859 年，现藏新嘉士伯美术馆；不是咖啡馆现场，也不是马奈自画像。图片：Édouard Manet，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_The_Absinthe_Drinker_-_Google_Art_Project.jpg)）。
 
 ## 一个男人，一只空瓶
 

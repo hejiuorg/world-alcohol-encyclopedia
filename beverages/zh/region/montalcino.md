@@ -154,9 +154,9 @@ Brunello 颜色为明亮的石榴红，香气浓郁而持久，常见灌木丛�
 
 ## 相关图像
 
-![“托斯卡纳”页面配图：Tuscany vineyard。摄影：cova69，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
+![Tuscany vineyard](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
 
-图：Tuscany vineyard。摄影：cova69，CC BY 2.0，来自 Wikimedia Commons。。图片：cova69，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=1393578)）。关联图像：蒙塔希诺。
+图：Tuscany vineyard。图片：cova69，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=1393578)）。关联图像：蒙塔希诺。
 
 ![桑娇维塞](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
 

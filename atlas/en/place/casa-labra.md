@@ -31,8 +31,8 @@ tags:
 translation_of: place:casa-labra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:931afe62b795fde31e107a8b9a464e3e14b83c645f72b87efae44c8996bf35f2
-source_sha256: 931afe62b795fde31e107a8b9a464e3e14b83c645f72b87efae44c8996bf35f2
+source_revision: sha256:aa8222f48bc569a1e108355898a60a4ef2689b31b0fc4b709d8e7adbe0831c82
+source_sha256: aa8222f48bc569a1e108355898a60a4ef2689b31b0fc4b709d8e7adbe0831c82
 related:
   - relation: about
     target_id: place:els-quatre-gats

@@ -142,9 +142,9 @@ updated_at: 2026-11-21
 
 ## 相关图像
 
-![“威廉姆斯-塞莱姆酒庄”页面配图：File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg。摄影：Sarah Stierch，CC BY 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-williams-selyem-1c5e46dc.jpg)
+![File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg](/media/photos/q2-place-williams-selyem-1c5e46dc.jpg)
 
-图：File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg。摄影：Sarah Stierch，CC BY 4.0，来自 Wikimedia Commons。。图片：Sarah Stierch，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=44884501)）。关联图像：索诺马县葡萄酒路线。
+图：File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg。图片：Sarah Stierch，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=44884501)）。关联图像：索诺马县葡萄酒路线。
 
 ![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
 

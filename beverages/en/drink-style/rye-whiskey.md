@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:rye-whiskey
 source_lang: zh
-source_revision: sha256:c2f087a9937e177dffd3e5c4143e7c2c667d83356481b937e5fca0ac3fc0c687
-source_sha256: c2f087a9937e177dffd3e5c4143e7c2c667d83356481b937e5fca0ac3fc0c687
+source_revision: sha256:2ceacf174161a4fd5d871685f05968d1e7c88ec1b872e463d92ea3a0779b5fca
+source_sha256: 2ceacf174161a4fd5d871685f05968d1e7c88ec1b872e463d92ea3a0779b5fca
 translation_status: reviewed
 parent_style_id: drink-style:whisky
 legacy_refs: []

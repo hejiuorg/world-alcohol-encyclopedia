@@ -147,6 +147,6 @@ Aszú 至少需要十八个月的木桶陈年，许多酒庄会陈放更久。�
 
 ## 相关图像
 
-![“托卡伊”页面配图：Tokaj vineyard。摄影：Jerzy Kociatkiewicz from Colchester, United Kingdom，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-tokaj-84b167d2.jpg)
+![Tokaj vineyard](/media/photos/q2-region-tokaj-84b167d2.jpg)
 
-图：Tokaj vineyard。摄影：Jerzy Kociatkiewicz from Colchester, United Kingdom，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Jerzy Kociatkiewicz from Colchester, United Kingdom，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4591613)）。关联图像：托卡伊。
+图：Tokaj vineyard。图片：Jerzy Kociatkiewicz from Colchester, United Kingdom，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4591613)）。关联图像：托卡伊。

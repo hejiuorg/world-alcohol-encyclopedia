@@ -137,6 +137,6 @@ Double Cask 是理解格兰帝的起点：波本桶带来香草与甜感，雪�
 
 ## 相关图像
 
-![“坎贝尔镇”页面配图：Glen Scotia Distillery, Campbeltown。摄影：Lirazelf，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-campbeltown-f346e241.jpg)
+![Glen Scotia Distillery, Campbeltown](/media/photos/q2-region-campbeltown-f346e241.jpg)
 
-图：Glen Scotia Distillery, Campbeltown。摄影：Lirazelf，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Lirazelf，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=62323489)）。关联图像：格兰帝酒厂。
+图：Glen Scotia Distillery, Campbeltown。图片：Lirazelf，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=62323489)）。关联图像：格兰帝酒厂。

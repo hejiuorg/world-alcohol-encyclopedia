@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:jura
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e6afee08aa7b989429562857d5876e7b0d8abc3fa54e68f43e0918ff71562253
-source_sha256: e6afee08aa7b989429562857d5876e7b0d8abc3fa54e68f43e0918ff71562253
+source_revision: sha256:94aec0bcb638b3655dd36781d62f5159c390840768696410a41c9d5d6e841d36
+source_sha256: 94aec0bcb638b3655dd36781d62f5159c390840768696410a41c9d5d6e841d36
 level: other
 parent_id: region:france
 country_code: FR

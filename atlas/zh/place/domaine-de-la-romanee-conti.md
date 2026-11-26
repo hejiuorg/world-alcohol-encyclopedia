@@ -150,6 +150,6 @@ DRC 的酒单可以按三组理解。核心是两块独占园：Romanée-Conti �
 
 ## 相关图像
 
-![“勃艮第路线：博讷老城、默尔索与酒商文化”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-route-burgundy-grands-crus-drive-9d3b5378.jpg)
+![Burgundy vineyards near Beaune, France](/media/photos/q2-route-burgundy-grands-crus-drive-9d3b5378.jpg)
 
-图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：罗曼尼康帝酒庄。
+图：Burgundy vineyards near Beaune, France。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：罗曼尼康帝酒庄。

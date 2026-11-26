@@ -10,8 +10,8 @@ summary: "Vincent van Gogh's September 1888 canvas, now at the Yale University A
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:76bfda8b423567a596e57bcb8cbda76b34ab1e0b244b22a649f47e1fdeb0d3da
-source_sha256: 76bfda8b423567a596e57bcb8cbda76b34ab1e0b244b22a649f47e1fdeb0d3da
+source_revision: sha256:1deaefd98338996f7976e302b1a251df24fd105e48a8db8c088bf1977acefdc5
+source_sha256: 1deaefd98338996f7976e302b1a251df24fd105e48a8db8c088bf1977acefdc5
 source_lang: zh
 translation_status: reviewed
 creator_refs: []

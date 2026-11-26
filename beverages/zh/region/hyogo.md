@@ -173,7 +173,7 @@ verification_scope: source-verified
 
 ![谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。](/media/photos/editorial-saccharification-q2.jpg)
 
-图：谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：兵库县。
+图：谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：兵库县。
 
 ![清酒瓶装，精米步合、酒度与日本酒度常决定选购判断](/media/photos/drink-style-sake-de6a3028.jpg)
 

@@ -23,8 +23,8 @@ tags:
 translation_of: region:martinborough
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:90e5addb33ccc2e4234f35714008d957e308372fff40dc5816de9d43404a013b
-source_sha256: 90e5addb33ccc2e4234f35714008d957e308372fff40dc5816de9d43404a013b
+source_revision: sha256:cebd8aa8270fff3bd0c17ca274790f8f438432dfe784a5577b52811aa0460ead
+source_sha256: cebd8aa8270fff3bd0c17ca274790f8f438432dfe784a5577b52811aa0460ead
 related:
   - relation: about
     target_id: region:new-zealand

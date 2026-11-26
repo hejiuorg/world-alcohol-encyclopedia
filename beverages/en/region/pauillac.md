@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:pauillac
 source_lang: zh
-source_revision: sha256:660e7ea81a4c0f5379e7ed8e958ff751ee923e28b0039d098ebca8bdb78fc1ae
-source_sha256: 660e7ea81a4c0f5379e7ed8e958ff751ee923e28b0039d098ebca8bdb78fc1ae
+source_revision: sha256:565e92b20420bdcab5be7cbb4bf7bef612bfc6ba8f3ba67997c2443b243d7a69
+source_sha256: 565e92b20420bdcab5be7cbb4bf7bef612bfc6ba8f3ba67997c2443b243d7a69
 translation_status: reviewed
 level: city
 parent_id: region:france

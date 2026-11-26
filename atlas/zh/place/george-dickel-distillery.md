@@ -149,6 +149,6 @@ No. 8 是入门款，酒体轻、甜感明显，适合加冰或做 highball；No
 
 ## 相关图像
 
-![“田纳西”页面配图：Tennessee - Arrington Vineyards。摄影：P. Hughes，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-tennessee-acaafa61.jpg)
+![Tennessee - Arrington Vineyards](/media/photos/q2-region-tennessee-acaafa61.jpg)
 
-图：Tennessee - Arrington Vineyards。摄影：P. Hughes，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：P. Hughes，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=128050365)）。关联图像：乔治迪克尔酒厂。
+图：Tennessee - Arrington Vineyards。图片：P. Hughes，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=128050365)）。关联图像：乔治迪克尔酒厂。

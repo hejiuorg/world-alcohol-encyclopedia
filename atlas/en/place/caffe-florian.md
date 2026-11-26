@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:caffe-florian
 source_lang: zh
-source_revision: sha256:bb3216ee58b487ce64dd1566bc54721373e8912091829ea6de068850a87b5cdc
-source_sha256: bb3216ee58b487ce64dd1566bc54721373e8912091829ea6de068850a87b5cdc
+source_revision: sha256:e3e1ef30e632792abe11225f8c41f06b3fb4e031f710f118d567f2f9f7dd45bd
+source_sha256: e3e1ef30e632792abe11225f8c41f06b3fb4e031f710f118d567f2f9f7dd45bd
 translation_status: reviewed
 subtype: pub
 address: Piazza San Marco 57, 30124 Venezia, Italy

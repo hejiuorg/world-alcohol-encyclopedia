@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:baltic-porter
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8e5390baa2c4503fa22c52c7b186b969e3f607b9d112997dd6974bb13c6a5adb
-source_sha256: 8e5390baa2c4503fa22c52c7b186b969e3f607b9d112997dd6974bb13c6a5adb
+source_revision: sha256:607bed4fed0f63c7fc22e7a5c6fe0e43e6279e070ff9d64156e040a63066a4c6
+source_sha256: 607bed4fed0f63c7fc22e7a5c6fe0e43e6279e070ff9d64156e040a63066a4c6
 related:
   - relation: about
     target_id: drink-style:porter

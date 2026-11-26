@@ -94,7 +94,7 @@ verification_scope: source-verified
 
 ![品鉴桌上排列的酒杯与吐酒桶；画面不是葡萄酒大师协会的考试现场，也不是其伦敦总部。图：Randy OHC，CC BY 2.0。](/media/photos/organization-institute-of-masters-of-wine-b63f05c2.jpg)
 
-图：品鉴桌上排列的酒杯与吐酒桶；画面不是葡萄酒大师协会的考试现场，也不是其伦敦总部。图：Randy OHC，CC BY 2.0。。图片：Randy OHC，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Tasting_set_up.jpg)）。
+图：品鉴桌上排列的酒杯与吐酒桶；画面不是葡萄酒大师协会的考试现场，也不是其伦敦总部。图片：Randy OHC，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Tasting_set_up.jpg)）。
 
 ## 一个由六位通过者创办的协会
 

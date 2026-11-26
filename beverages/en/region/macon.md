@@ -25,8 +25,8 @@ tags:
 translation_of: region:macon
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a5a1711657cc13323ad4c85b748be04f2941811f2aa7026b89ebec5f86e61377
-source_sha256: a5a1711657cc13323ad4c85b748be04f2941811f2aa7026b89ebec5f86e61377
+source_revision: sha256:7c5810eb47ec1dcdf10defd75dfa0c7940998147f9c5a9ccca45eb000c44a7ce
+source_sha256: 7c5810eb47ec1dcdf10defd75dfa0c7940998147f9c5a9ccca45eb000c44a7ce
 related:
   - relation: about
     target_id: region:burgundy

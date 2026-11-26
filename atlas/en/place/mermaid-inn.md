@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: place:mermaid-inn
 source_lang: zh
-source_revision: sha256:acc231e81257d353b9705388f6067c61ade8fcc55541435a1db6d590de160530
-source_sha256: acc231e81257d353b9705388f6067c61ade8fcc55541435a1db6d590de160530
+source_revision: sha256:46ddb372570084e0d7dfde1c29b4cd3cd70cf25bfc183511ef97239da5ab3d49
+source_sha256: 46ddb372570084e0d7dfde1c29b4cd3cd70cf25bfc183511ef97239da5ab3d49
 translation_status: reviewed
 subtype: pub
 address: Mermaid Street, Rye, East Sussex TN31 7EY, United Kingdom

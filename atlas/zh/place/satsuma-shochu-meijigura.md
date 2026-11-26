@@ -151,4 +151,4 @@ verification_scope: source-verified
 
 ![奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。](/media/photos/drink-style-shochu-f0b3c090.jpg)
 
-图：奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。。图片：Hhaithait，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg)）。关联图像：萨摩酒造明治藏。
+图：奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。图片：Hhaithait，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg)）。关联图像：萨摩酒造明治藏。

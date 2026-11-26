@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:ouzo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:76a18754adc02e83ad45e24cb3023f828d66dab4f6a7f566a5bb656d125c397c
-source_sha256: 76a18754adc02e83ad45e24cb3023f828d66dab4f6a7f566a5bb656d125c397c
+source_revision: sha256:7b7ffd653527485895336b148a820785961c90628e772ceeb77b84260c9b97fd
+source_sha256: 7b7ffd653527485895336b148a820785961c90628e772ceeb77b84260c9b97fd
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: anise, liquorice and mastic

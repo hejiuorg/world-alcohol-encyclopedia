@@ -159,6 +159,6 @@ Fetească Neagră 是罗马尼亚与摩尔多瓦一带的古老原生红葡萄�
 
 ## 相关图像
 
-![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+![Syrah Grapes on the Vine](/media/photos/q2-variety-syrah-dc13087a.jpg)
 
-图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：黑姑娘。
+图：Syrah Grapes on the Vine。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：黑姑娘。

@@ -167,4 +167,4 @@ verification_scope: source-verified
 
 ![马德里刀匠街 17 号的博廷餐厅正立面，棕色遮阳篷上写着“Restaurante Sobrino de Botín”和“Horno de Asar”。](/media/photos/place-botin-23c31832.jpg)
 
-图：马德里刀匠街 17 号的博廷餐厅正立面，棕色遮阳篷上写着“Restaurante Sobrino de Botín”和“Horno de Asar”。。图片：Ank Kumar，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2014_-_Sobrino_de_Bot%C3%ADn_%28Casa_Bot%C3%ADn%29_Restaurant%2C_Madrid%2C_Spain_%28_Ank_Kumar_%29_01.jpg)）。关联图像：金色和平餐厅。
+图：马德里刀匠街 17 号的博廷餐厅正立面，棕色遮阳篷上写着“Restaurante Sobrino de Botín”和“Horno de Asar”。图片：Ank Kumar，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2014_-_Sobrino_de_Bot%C3%ADn_%28Casa_Bot%C3%ADn%29_Restaurant%2C_Madrid%2C_Spain_%28_Ank_Kumar_%29_01.jpg)）。关联图像：金色和平餐厅。

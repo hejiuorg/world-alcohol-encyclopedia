@@ -145,6 +145,6 @@ Espadín 是瓦哈卡最常见的栽培品种，也是许多酒厂的日常主�
 
 图：发酵。图片：Tjhackmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)）。关联图像：瓦哈卡梅斯卡尔路线。
 
-![“雷亚尔米内罗帕伦克：圣卡塔里娜米纳斯的陶罐与种子”页面配图：File:Abraham Minero, Edu Oriol, Juan Carlos Pérez y David Mateos.JPG。摄影：Campeones 2008，CC0，来自 Wikimedia Commons。](/media/photos/q2-place-real-minero-palenque-6c69c2ba.jpg)
+![File:Abraham Minero, Edu Oriol, Juan Carlos Pérez y David Mateos.JPG](/media/photos/q2-place-real-minero-palenque-6c69c2ba.jpg)
 
-图：File:Abraham Minero, Edu Oriol, Juan Carlos Pérez y David Mateos.JPG。摄影：Campeones 2008，CC0，来自 Wikimedia Commons。。图片：Campeones 2008，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=15773790)）。关联图像：瓦哈卡梅斯卡尔路线。
+图：File:Abraham Minero, Edu Oriol, Juan Carlos Pérez y David Mateos.JPG。图片：Campeones 2008，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=15773790)）。关联图像：瓦哈卡梅斯卡尔路线。

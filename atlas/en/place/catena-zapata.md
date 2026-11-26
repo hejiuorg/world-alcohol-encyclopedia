@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:catena-zapata
 source_lang: zh
-source_revision: sha256:69b700a51f3d88479b4668590aa03a5204b6d6e8cd42e51e3587958c9fdda340
-source_sha256: 69b700a51f3d88479b4668590aa03a5204b6d6e8cd42e51e3587958c9fdda340
+source_revision: sha256:1c6fa6ac2af1cb58db36cfd9f61299ffae18cde5462325579db783c95f69cd09
+source_sha256: 1c6fa6ac2af1cb58db36cfd9f61299ffae18cde5462325579db783c95f69cd09
 translation_status: reviewed
 subtype: winery-visitor
 address: Cobos s/n, Luján de Cuyo (5509), Mendoza, Argentina

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:barolo
 source_lang: zh
-source_revision: sha256:c2f57cf38b1ecd17e6984c01bbff1ee9ee2545bb04169ae1677fc86a353f5172
-source_sha256: c2f57cf38b1ecd17e6984c01bbff1ee9ee2545bb04169ae1677fc86a353f5172
+source_revision: sha256:eb6d002f6e8a2098783c924d2f37dc666d03926c0ea57f778664504391772547
+source_sha256: eb6d002f6e8a2098783c924d2f37dc666d03926c0ea57f778664504391772547
 translation_status: reviewed
 level: city
 parent_id: region:italy

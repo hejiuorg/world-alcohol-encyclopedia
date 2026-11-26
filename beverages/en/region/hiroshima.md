@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:hiroshima
 source_lang: zh
-source_revision: sha256:435feea81df91c706871b4af1733e7e23a441067c7819e0b902003e80c3de074
-source_sha256: 435feea81df91c706871b4af1733e7e23a441067c7819e0b902003e80c3de074
+source_revision: sha256:86b799f26bdf981da9e2088c573b403563f0ca626831e8e88dcf19b7e75b9b3f
+source_sha256: 86b799f26bdf981da9e2088c573b403563f0ca626831e8e88dcf19b7e75b9b3f
 translation_status: reviewed
 level: province
 parent_id: region:japan

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:madeira-wine-route
 source_lang: zh
-source_revision: sha256:1d4cc988d81354aa50c16b29bf3ae4c8b962b3d57f1db74ed9bc7fc1478060bb
-source_sha256: 1d4cc988d81354aa50c16b29bf3ae4c8b962b3d57f1db74ed9bc7fc1478060bb
+source_revision: sha256:ddf03617a27c97a4a933494d37bd8e3a0a9342955f6314682e03905542c54723
+source_sha256: ddf03617a27c97a4a933494d37bd8e3a0a9342955f6314682e03905542c54723
 translation_status: reviewed
 legacy_refs: []
 aliases:

@@ -160,6 +160,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“摩泽尔”页面配图：Mosel vineyard in Tittenheim。摄影：Phillip Capper，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-mosel-92777993.jpg)
+![Mosel vineyard in Tittenheim](/media/photos/q2-region-mosel-92777993.jpg)
 
-图：Mosel vineyard in Tittenheim。摄影：Phillip Capper，CC BY 2.0，来自 Wikimedia Commons。。图片：Phillip Capper，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4168277)）。关联图像：卢森博士酒庄。
+图：Mosel vineyard in Tittenheim。图片：Phillip Capper，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4168277)）。关联图像：卢森博士酒庄。

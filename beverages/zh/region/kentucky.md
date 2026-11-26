@@ -163,7 +163,7 @@ verification_scope: source-verified
 
 ![干燥的玉米粒。酿酒常用马齿型或硬粒型，甜玉米并非主要原料。](/media/photos/ingredient-maize-bc1f8e47.jpg)
 
-图：干燥的玉米粒。酿酒常用马齿型或硬粒型，甜玉米并非主要原料。。图片：Joel Penner，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Maize_Corn.jpg)）。关联图像：肯塔基州。
+图：干燥的玉米粒。酿酒常用马齿型或硬粒型，甜玉米并非主要原料。图片：Joel Penner，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Maize_Corn.jpg)）。关联图像：肯塔基州。
 
 ![美国类别配图](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
 

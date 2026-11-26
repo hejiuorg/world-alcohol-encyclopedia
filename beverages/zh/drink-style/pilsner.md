@@ -164,6 +164,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“皮尔森之源”页面配图：Pilsner Urquell 330mL Bottle。摄影：Latterdaystan，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-drink-czech-pilsnerurquell-60fa905b.jpg)
+![Pilsner Urquell 330mL Bottle](/media/photos/q2-drink-czech-pilsnerurquell-60fa905b.jpg)
 
-图：Pilsner Urquell 330mL Bottle。摄影：Latterdaystan，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Latterdaystan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=92861055)）。关联图像：皮尔森啤酒。
+图：Pilsner Urquell 330mL Bottle。图片：Latterdaystan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=92861055)）。关联图像：皮尔森啤酒。

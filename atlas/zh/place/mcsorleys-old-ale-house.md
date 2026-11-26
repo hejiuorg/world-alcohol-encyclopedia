@@ -141,6 +141,6 @@ founded_year: 1854
 
 ## 相关图像
 
-![“白马酒馆”页面配图：White Horse Tavern PA。摄影：Smallbones，CC0，来自 Wikimedia Commons。](/media/photos/q2-place-white-horse-tavern-b0f0ef12.jpg)
+![White Horse Tavern PA](/media/photos/q2-place-white-horse-tavern-b0f0ef12.jpg)
 
-图：White Horse Tavern PA。摄影：Smallbones，CC0，来自 Wikimedia Commons。。图片：Smallbones，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13351900)）。关联图像：麦克索利老麦酒馆。
+图：White Horse Tavern PA。图片：Smallbones，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13351900)）。关联图像：麦克索利老麦酒馆。

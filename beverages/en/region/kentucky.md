@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:kentucky
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:228d1a82187598065d39e60cf7e55c3d324368b3df59b48830846067da8c7497
-source_sha256: 228d1a82187598065d39e60cf7e55c3d324368b3df59b48830846067da8c7497
+source_revision: sha256:c6b13e633ead726c75b56aa93b40a96f12fc16d0a486e4f532d5bc7e1940b91d
+source_sha256: c6b13e633ead726c75b56aa93b40a96f12fc16d0a486e4f532d5bc7e1940b91d
 level: province
 parent_id: region:usa
 country_code: US

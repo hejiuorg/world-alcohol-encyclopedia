@@ -153,4 +153,4 @@ verification_scope: source-verified
 
 ![一杯曼哈顿，深琥珀色酒液盛于碟形杯，杯口横放酒签与一颗酒渍樱桃。](/media/photos/cocktail-manhattan-648a58c7.jpg)
 
-图：一杯曼哈顿，深琥珀色酒液盛于碟形杯，杯口横放酒签与一颗酒渍樱桃。。图片：naotakem，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6992048786)）。关联图像：黑麦威士忌。
+图：一杯曼哈顿，深琥珀色酒液盛于碟形杯，杯口横放酒签与一颗酒渍樱桃。图片：naotakem，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6992048786)）。关联图像：黑麦威士忌。

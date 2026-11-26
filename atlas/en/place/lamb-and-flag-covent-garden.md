@@ -31,8 +31,8 @@ tags:
 translation_of: place:lamb-and-flag-covent-garden
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f94acb56089690c2f9a420532efbe511e96ac28c44f21d7f24fe8819e4fe9370
-source_sha256: f94acb56089690c2f9a420532efbe511e96ac28c44f21d7f24fe8819e4fe9370
+source_revision: sha256:179f1521c3a6b1792739cea0e2f17f2cafaf684054134cb97a613b89b8eaafe6
+source_sha256: 179f1521c3a6b1792739cea0e2f17f2cafaf684054134cb97a613b89b8eaafe6
 related:
   - relation: about
     target_id: culture-article:pub-and-city

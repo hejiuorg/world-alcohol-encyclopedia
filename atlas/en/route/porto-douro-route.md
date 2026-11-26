@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:porto-douro-route
 source_lang: zh
-source_revision: sha256:b80bc0cca4a60b10ca36882a94c9d2ac12cabc2aef8009e1247b565f376b7e6f
-source_sha256: b80bc0cca4a60b10ca36882a94c9d2ac12cabc2aef8009e1247b565f376b7e6f
+source_revision: sha256:fe3759fa44b908bc497f70fd7661015debbb36b55091e35c814edca2c57afd1b
+source_sha256: fe3759fa44b908bc497f70fd7661015debbb36b55091e35c814edca2c57afd1b
 translation_status: reviewed
 legacy_refs: []
 aliases:

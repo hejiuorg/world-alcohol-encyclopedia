@@ -204,4 +204,4 @@ verification_scope: source-verified
 
 ![佚名《唐名臣像》中的李白像。](/media/photos/person-li-bai-ce619299.jpg)
 
-图：佚名《唐名臣像》中的李白像。。图片：Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-14-%E5%94%90%E7%BF%B0%E6%9E%97%E4%BE%9B%E5%A5%89%E6%9D%8E%E7%99%BD.jpg)）。关联图像：中国。
+图：佚名《唐名臣像》中的李白像。图片：Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-14-%E5%94%90%E7%BF%B0%E6%9E%97%E4%BE%9B%E5%A5%89%E6%9D%8E%E7%99%BD.jpg)）。关联图像：中国。

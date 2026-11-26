@@ -91,7 +91,7 @@ ProWein 是葡萄酒行业每年三月的重要约会。它在杜塞尔多夫展
 
 ![杜塞尔多夫 ProWein 展会现场；画面不是某一届的官方记录，也不代表 2027 年展商名单。图：FLY2005，CC BY 2.0。](/media/photos/event-prowein-22317df1.jpg)
 
-图：杜塞尔多夫 ProWein 展会现场；画面不是某一届的官方记录，也不代表 2027 年展商名单。图：FLY2005，CC BY 2.0。。图片：FLY2005，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Prowein_%C3%A0_D%C3%BCsseldorf.jpg)）。
+图：杜塞尔多夫 ProWein 展会现场；画面不是某一届的官方记录，也不代表 2027 年展商名单。图片：FLY2005，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Prowein_%C3%A0_D%C3%BCsseldorf.jpg)）。
 
 ## 不是品酒会，是 trade-only 展会
 

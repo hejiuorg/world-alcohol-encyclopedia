@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:botin
 source_lang: zh
-source_revision: sha256:ae1bc0bcf893e4aebcece8d952f5054439b5733e91e8584a7fc9a3a744a3e580
-source_sha256: ae1bc0bcf893e4aebcece8d952f5054439b5733e91e8584a7fc9a3a744a3e580
+source_revision: sha256:5c60b5f9699fcb09dc73d45bf8dc4909da4c7f1be737dedcf96c148740781e84
+source_sha256: 5c60b5f9699fcb09dc73d45bf8dc4909da4c7f1be737dedcf96c148740781e84
 translation_status: reviewed
 subtype: pub
 address: Calle de Cuchilleros 17, 28005 Madrid, Spain

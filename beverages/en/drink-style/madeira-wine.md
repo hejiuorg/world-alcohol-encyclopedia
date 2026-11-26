@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:madeira-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:36d4a6c9c575cc26dc76cc42a4db04305798a69d292dfbce0d88189e11173ddb
-source_sha256: 36d4a6c9c575cc26dc76cc42a4db04305798a69d292dfbce0d88189e11173ddb
+source_revision: sha256:5b9908a41f44a1501b36ee472831a2a0ae44a344a9677d6ac0a4975598a3f5ca
+source_sha256: 5b9908a41f44a1501b36ee472831a2a0ae44a344a9677d6ac0a4975598a3f5ca
 legacy_refs: []
 parent_style_id: drink-style:fortified-wine
 aroma_family: Oxidative / nutty / caramel

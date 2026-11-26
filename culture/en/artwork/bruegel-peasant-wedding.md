@@ -10,8 +10,8 @@ summary: Pieter Bruegel the Elder's 1568 panel in Vienna shows a Flemish peasant
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:47e13dd3d77c47996e3bd969eddec4c4d216b3540bddb66c4598674e079395a3
-source_sha256: 47e13dd3d77c47996e3bd969eddec4c4d216b3540bddb66c4598674e079395a3
+source_revision: sha256:0d05b3268c2335549038b58d63d961ea40b89d8e753775c82b10a05b2009b930
+source_sha256: 0d05b3268c2335549038b58d63d961ea40b89d8e753775c82b10a05b2009b930
 source_lang: zh
 translation_status: reviewed
 creator_refs: []

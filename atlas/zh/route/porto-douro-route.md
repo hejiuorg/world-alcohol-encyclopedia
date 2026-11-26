@@ -169,9 +169,9 @@ Nacional 是这一站的核心。它是一小块未嫁接的葡萄园，面积�
 
 ## 相关图像
 
-![“诺瓦尔酒庄”页面配图：Quinta do Noval wine shop 1。摄影：sanjorgepinho，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-quinta-do-noval-57d2f219.jpg)
+![Quinta do Noval wine shop 1](/media/photos/q2-place-quinta-do-noval-57d2f219.jpg)
 
-图：Quinta do Noval wine shop 1。摄影：sanjorgepinho，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：sanjorgepinho，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94306217)）。关联图像：波特与杜罗路线：从萨布罗萨的老藤到皮尼昂的国家园。
+图：Quinta do Noval wine shop 1。图片：sanjorgepinho，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94306217)）。关联图像：波特与杜罗路线：从萨布罗萨的老藤到皮尼昂的国家园。
 
 ![波特](/media/photos/region-porto-c256c7e1.jpg)
 

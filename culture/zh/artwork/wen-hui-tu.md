@@ -83,7 +83,7 @@ verification_scope: source-verified
 ---
 ![旧传宋徽宗《文会图》复制图，绢本设色，现藏台北故宫博物院；不是宋代现场记录。](/media/photos/artwork-wen-hui-tu-8cbe05f9.jpg)
 
-图：旧传宋徽宗《文会图》复制图，绢本设色，现藏台北故宫博物院；不是宋代现场记录。。图片：Emperor Huizong of Song，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E6%96%87%E4%BC%9A%E5%9B%BE%E8%BD%B4.%E5%AE%8B%E4%BB%A3.%E5%AE%8B%E5%BE%BD%E5%AE%97%E8%B5%B5%E4%BD%B6.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg)）。
+图：旧传宋徽宗《文会图》复制图，绢本设色，现藏台北故宫博物院；不是宋代现场记录。图片：Emperor Huizong of Song，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E6%96%87%E4%BC%9A%E5%9B%BE%E8%BD%B4.%E5%AE%8B%E4%BB%A3.%E5%AE%8B%E5%BE%BD%E5%AE%97%E8%B5%B5%E4%BD%B6.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg)）。
 
 ## 一张大桌，一圈学士
 

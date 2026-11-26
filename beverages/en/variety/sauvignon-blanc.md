@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: variety:sauvignon-blanc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:19709358141d395f94e0cba8177e46a235b680978ca3ed769f066e243581dc07
-source_sha256: 19709358141d395f94e0cba8177e46a235b680978ca3ed769f066e243581dc07
+source_revision: sha256:fd953892ec25e9845644ef4b733e2abb2c39bd91ff96881fe1c3eb25179f5488
+source_sha256: fd953892ec25e9845644ef4b733e2abb2c39bd91ff96881fe1c3eb25179f5488
 species: Vitis vinifera
 aliases:
   - Sauvignon

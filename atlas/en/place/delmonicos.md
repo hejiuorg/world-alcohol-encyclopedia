@@ -31,8 +31,8 @@ tags:
 translation_of: place:delmonicos
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:051c597f1dcf61268a92e16781d978895fc8a3d2083d5aadca1128782e6b48dc
-source_sha256: 051c597f1dcf61268a92e16781d978895fc8a3d2083d5aadca1128782e6b48dc
+source_revision: sha256:ddbd4c7bdef392f2db96514365035a9a18cb476c72cfe4930be3e1e9c58f5444
+source_sha256: ddbd4c7bdef392f2db96514365035a9a18cb476c72cfe4930be3e1e9c58f5444
 related:
   - relation: about
     target_id: route:new-york-historic-pubs

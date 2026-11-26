@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:netherlands
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:edcf466076e004f814b4e0c730fdcbfeb8061802bcd320d11c835b97f271b54b
-source_sha256: edcf466076e004f814b4e0c730fdcbfeb8061802bcd320d11c835b97f271b54b
+source_revision: sha256:ff2ffcfab104bc9847b7e731d8866846ce3d7077e6655a3e3a8396917ef0b7c2
+source_sha256: ff2ffcfab104bc9847b7e731d8866846ce3d7077e6655a3e3a8396917ef0b7c2
 legacy_refs: []
 level: country
 country_code: NL

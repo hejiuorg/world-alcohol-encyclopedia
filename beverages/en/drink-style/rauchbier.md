@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:rauchbier
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2e137a4730d364278a7b11c3c3060ef996723f40a0deaec9ac525e8838887576
-source_sha256: 2e137a4730d364278a7b11c3c3060ef996723f40a0deaec9ac525e8838887576
+source_revision: sha256:717d310e03f84aea9515b328d49d4df7f86892035a40c03a8307a3f17fc66cf8
+source_sha256: 717d310e03f84aea9515b328d49d4df7f86892035a40c03a8307a3f17fc66cf8
 legacy_refs: []
 aliases:
   - Rauchbier

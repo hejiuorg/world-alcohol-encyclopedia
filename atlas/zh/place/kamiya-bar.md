@@ -165,6 +165,3 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“星光酒吧（银座）”页面配图：File:YamazakiDistillery 01.jpg。摄影：Ujigis，CC BY-SA 4.0，来自 项目图库（已授权实景照片）。该图用于说明相关类别，并非该对象的官方产品图。](/media/photos/q2-place-star-bar-ginza-5aef3a60.jpg)
-
-图：File:YamazakiDistillery 01.jpg。摄影：Ujigis，CC BY-SA 4.0，来自 项目图库（已授权实景照片）。该图用于说明相关类别，并非该对象的官方产品图。。图片：Ujigis，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)）。关联图像：神谷酒吧。

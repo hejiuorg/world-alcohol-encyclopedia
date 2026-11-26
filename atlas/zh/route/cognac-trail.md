@@ -146,8 +146,8 @@ updated_at: 2026-11-09
 
 ![葡萄酒调配实验的编辑插图：不同基酒在烧杯中对比，移液管用于小样调配；画面为 AI 辅助绘制，不是实验室实拍。](/media/photos/editorial-blending-q2.jpg)
 
-图：葡萄酒调配实验的编辑插图：不同基酒在烧杯中对比，移液管用于小样调配；画面为 AI 辅助绘制，不是实验室实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：干邑路线：干邑镇与雅尔纳克之间的酒庄带。
+图：葡萄酒调配实验的编辑插图：不同基酒在烧杯中对比，移液管用于小样调配；画面为 AI 辅助绘制，不是实验室实拍。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：干邑路线：干邑镇与雅尔纳克之间的酒庄带。
 
-![“轩尼诗干邑酒庄”页面配图：2023 Hennessy V.S. Cognac。摄影：Jacek Halicki，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-hennessy-cognac-f2436160.jpg)
+![2023 Hennessy V.S. Cognac](/media/photos/q2-place-hennessy-cognac-f2436160.jpg)
 
-图：2023 Hennessy V.S. Cognac。摄影：Jacek Halicki，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Jacek Halicki，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=132066502)）。关联图像：干邑路线：干邑镇与雅尔纳克之间的酒庄带。
+图：2023 Hennessy V.S. Cognac。图片：Jacek Halicki，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=132066502)）。关联图像：干邑路线：干邑镇与雅尔纳克之间的酒庄带。

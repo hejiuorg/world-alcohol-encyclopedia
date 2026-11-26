@@ -23,8 +23,8 @@ tags:
 translation_of: variety:blaufrankisch
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a8567e202fe95997aa3e74d5a3af5d2b86142114bfd8d91c67622aca32db8bee
-source_sha256: a8567e202fe95997aa3e74d5a3af5d2b86142114bfd8d91c67622aca32db8bee
+source_revision: sha256:3e26596a89775742957a771eac068fbba7cf03bd3255d2174831829e0828bcd5
+source_sha256: 3e26596a89775742957a771eac068fbba7cf03bd3255d2174831829e0828bcd5
 related:
   - relation: about
     target_id: drink-style:red-wine

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:bitters
 source_lang: zh
-source_revision: sha256:200a8427b01ca3321b89ee619ec7ca8478741b51c3ea2e2a6431ff7f1ccbf835
-source_sha256: 200a8427b01ca3321b89ee619ec7ca8478741b51c3ea2e2a6431ff7f1ccbf835
+source_revision: sha256:a880d106dc0f2f74e6aef8a9fb1b0fdc221dc44f55803502e10e2ec15faad139
+source_sha256: a880d106dc0f2f74e6aef8a9fb1b0fdc221dc44f55803502e10e2ec15faad139
 translation_status: reviewed
 legacy_refs: []
 parent_style_id: drink-style:liqueur

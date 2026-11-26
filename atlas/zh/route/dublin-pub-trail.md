@@ -87,9 +87,6 @@ updated_at: 2026-11-08
 
 都柏林南岸这一段利菲河，把两种“喝健力士”的场所放在同一条步行线上：下桥街的老酒馆，和圣詹姆斯门的健力士仓库。前者仍在做日常生意，吧台后面是正常的生啤龙头；后者是旧发酵车间改成的访客中心，用七层展线和顶层酒吧讲品牌故事。两站相距约两公里，走得慢也只要半小时左右，半天可以走完。这条路线不处理“看遍都柏林”，只处理一个问题：同一杯黑色啤酒，被喝掉和被展示，是两件不同的事。
 
-![都柏林酒馆路线：从下桥街走到圣詹姆斯门实景照片](/media/photos/q2-route-dublin-pub-trail-765cd1da.jpg)
-
-图：都柏林酒馆路线：从下桥街走到圣詹姆斯门。摄影：Chinese Restaurant and Pub - Trim (3139466073)。署名：William Murphy from Dublin, Ireland，CC BY-SA 2.0，来自 Wikimedia Commons（[来源](https://commons.wikimedia.org/w/index.php?curid=115439245)）。
 
 ## 这条路线为什么成立
 
@@ -142,10 +139,10 @@ updated_at: 2026-11-08
 
 ## 相关图像
 
-![“健力士仓库：圣詹姆斯门的黑色啤酒叙事”页面配图：Guinness Storehouse。摄影：Greatal386 at English Wikipedia，CC BY 2.5，来自 Wikimedia Commons。](/media/photos/q2-place-guinness-storehouse-df42c6a2.jpg)
+![Guinness Storehouse](/media/photos/q2-place-guinness-storehouse-df42c6a2.jpg)
 
-图：Guinness Storehouse。摄影：Greatal386 at English Wikipedia，CC BY 2.5，来自 Wikimedia Commons。。图片：Greatal386 at English Wikipedia，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=12671330)）。关联图像：都柏林酒馆路线：从下桥街走到圣詹姆斯门。
+图：Guinness Storehouse。图片：Greatal386 at English Wikipedia，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=12671330)）。关联图像：都柏林酒馆路线：从下桥街走到圣詹姆斯门。
 
 ![一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。](/media/photos/drink-style-porter-241ce00e.jpg)
 
-图：一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。。图片：Erik Cleves Kristensen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6175146624)）。关联图像：都柏林酒馆路线：从下桥街走到圣詹姆斯门。
+图：一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。图片：Erik Cleves Kristensen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6175146624)）。关联图像：都柏林酒馆路线：从下桥街走到圣詹姆斯门。

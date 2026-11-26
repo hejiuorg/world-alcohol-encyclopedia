@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:rice-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:341fc00ddabfd655f1f389ee5f0c22806dd6e7c802fc0da9afb32b74a0746666
-source_sha256: 341fc00ddabfd655f1f389ee5f0c22806dd6e7c802fc0da9afb32b74a0746666
+source_revision: sha256:45d95e2dac548503481ddf2092234b7312cbaae3098cdc2c0a906513068204b7
+source_sha256: 45d95e2dac548503481ddf2092234b7312cbaae3098cdc2c0a906513068204b7
 legacy_refs: []
 aliases:
   - Mixiangxing baijiu

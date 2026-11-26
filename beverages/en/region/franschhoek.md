@@ -24,8 +24,8 @@ tags:
 translation_of: region:franschhoek
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:928fa16a45ad5bda4be5935cd2978a3efff63c8ab3cbff8329e403a1da6c0421
-source_sha256: 928fa16a45ad5bda4be5935cd2978a3efff63c8ab3cbff8329e403a1da6c0421
+source_revision: sha256:e2531bbff40b48fdfd2dcdc47532a583a45be01f96cc50d198076253bef59569
+source_sha256: e2531bbff40b48fdfd2dcdc47532a583a45be01f96cc50d198076253bef59569
 related:
   - relation: about
     target_id: region:south-africa

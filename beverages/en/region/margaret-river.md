@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:margaret-river
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:23ed09b3c2116f4ff5a2db2757b228899687a649a7ea5c0363bef03288c27935
-source_sha256: 23ed09b3c2116f4ff5a2db2757b228899687a649a7ea5c0363bef03288c27935
+source_revision: sha256:ddd74f244e5978d5b771db6f0d0a63b5e0686450e7ee5d4c8d8f189f497f0de9
+source_sha256: ddd74f244e5978d5b771db6f0d0a63b5e0686450e7ee5d4c8d8f189f497f0de9
 level: other
 parent_id: region:australia
 country_code: AU

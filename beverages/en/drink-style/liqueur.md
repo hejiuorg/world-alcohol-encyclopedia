@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:liqueur
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cc1084e42b8f9a0fc0df94b5b117460e59d097eef4315bd285774b6352decb23
-source_sha256: cc1084e42b8f9a0fc0df94b5b117460e59d097eef4315bd285774b6352decb23
+source_revision: sha256:c08180154f59c5def71cc0ead3257c734c993935d354fd4f25bdcb43bc65ebd1
+source_sha256: c08180154f59c5def71cc0ead3257c734c993935d354fd4f25bdcb43bc65ebd1
 legacy_refs: []
 aliases:
   - Liqueur

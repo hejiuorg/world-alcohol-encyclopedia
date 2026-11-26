@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:cachaca
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f0c19c8e225c69a4c00cf2cc02b619a5ad780ccfb08f8ba543a394d7b67fcfc2
-source_sha256: f0c19c8e225c69a4c00cf2cc02b619a5ad780ccfb08f8ba543a394d7b67fcfc2
+source_revision: sha256:15aa4594700575059be7fb682dee4f78adfb5d373c4a716a6f83a16b927397d3
+source_sha256: 15aa4594700575059be7fb682dee4f78adfb5d373c4a716a6f83a16b927397d3
 legacy_refs: []
 parent_style_id: drink-style:rum
 aroma_family: Fruit / sugarcane

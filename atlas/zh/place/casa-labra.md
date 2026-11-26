@@ -161,4 +161,4 @@ Casa Labra 的空间分两层：底层是站着吃的吧台区，锌皮台面被
 
 ![丽兹酒店海明威酒吧入口的铜字招牌；酒吧只有 25 个座位、没有背景音乐，照片为入口标识，不是吧台内部。](/media/photos/place-hemingway-bar-ritz-paris-3ee551c6.jpg)
 
-图：丽兹酒店海明威酒吧入口的铜字招牌；酒吧只有 25 个座位、没有背景音乐，照片为入口标识，不是吧台内部。。图片：Pablo Sanchez，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bar_Hemingway_Ritz.jpg)）。关联图像：拉布拉之家。
+图：丽兹酒店海明威酒吧入口的铜字招牌；酒吧只有 25 个座位、没有背景音乐，照片为入口标识，不是吧台内部。图片：Pablo Sanchez，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bar_Hemingway_Ritz.jpg)）。关联图像：拉布拉之家。

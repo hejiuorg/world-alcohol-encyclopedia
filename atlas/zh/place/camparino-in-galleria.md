@@ -160,4 +160,4 @@ Camparino 的站立式 Bar di Passo 与堂食区价格、服务不同；把这�
 
 ![一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。](/media/photos/cocktail-negroni-52212d3c.jpg)
 
-图：一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。。图片：Sudhertzen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Negroni_(cocktail).jpg)）。关联图像：坎帕里诺长廊酒吧。
+图：一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。图片：Sudhertzen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Negroni_(cocktail).jpg)）。关联图像：坎帕里诺长廊酒吧。

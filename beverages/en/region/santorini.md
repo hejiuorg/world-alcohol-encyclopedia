@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:santorini
 source_lang: zh
-source_revision: sha256:5ed4df8e4b3a55f303c97bbb41b1b681cdfc9b0e8dc696601ee220f2b60f7199
-source_sha256: 5ed4df8e4b3a55f303c97bbb41b1b681cdfc9b0e8dc696601ee220f2b60f7199
+source_revision: sha256:5e1043077bdb4d90f497c981e5bedad280ede2c85d248b55adb993a37764174a
+source_sha256: 5e1043077bdb4d90f497c981e5bedad280ede2c85d248b55adb993a37764174a
 translation_status: reviewed
 level: other
 country_code: GR

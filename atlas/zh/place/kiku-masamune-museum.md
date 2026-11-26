@@ -170,4 +170,4 @@ verification_scope: source-verified
 
 ![贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。](/media/photos/place-kamoizumi-1a83eed9.jpg)
 
-图：贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。。图片：Lumi iori，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamoizumi_shuzou.jpg)）。关联图像：菊正宗酒造纪念馆。
+图：贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。图片：Lumi iori，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamoizumi_shuzou.jpg)）。关联图像：菊正宗酒造纪念馆。

@@ -24,8 +24,8 @@ tags:
 translation_of: region:hebei
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2b9d970591d54a97e0ba25578afc18f93619c75cf78557ff403ec005053dadb4
-source_sha256: 2b9d970591d54a97e0ba25578afc18f93619c75cf78557ff403ec005053dadb4
+source_revision: sha256:adddc3dc940e42c9b6a63ea4ebd1bdf360ced321c62b40b754da74824c1cd5f1
+source_sha256: adddc3dc940e42c9b6a63ea4ebd1bdf360ced321c62b40b754da74824c1cd5f1
 related:
   - relation: about
     target_id: region:china

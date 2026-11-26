@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:yealands
 source_lang: zh
-source_revision: sha256:20505af0a5f40d1d3219b92ba88e7c86802409575f20581806a5284388a969e4
-source_sha256: 20505af0a5f40d1d3219b92ba88e7c86802409575f20581806a5284388a969e4
+source_revision: sha256:416207888964040a50b56191a0b9838cf67ecbe96c920529a10e5065773551f7
+source_sha256: 416207888964040a50b56191a0b9838cf67ecbe96c920529a10e5065773551f7
 translation_status: reviewed
 subtype: winery-visitor
 address: 534 Seaview Road, Seddon, Marlborough 7285, New Zealand

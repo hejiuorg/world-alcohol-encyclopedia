@@ -89,9 +89,9 @@ founded_year: 2004
 
 雇员专属酒吧在纽约西村哈德逊街 510 号，介于 Christopher Street 与 West 10th Street 之间。它 2004 年开业，是纽约 2000 年代鸡尾酒复兴的代表之一：门面借用了占卜店的视觉，里面却是一间高能量、以经典鸡尾酒和通宵餐食闻名的酒吧。名字“Employees Only”字面是“仅限员工”，实际它欢迎所有客人；这块招牌更像一个玩笑，而不是门禁。
 
-![栏目配图](/media/photos/q2-place-employees-only-460e16a8.jpg)
+![碟形杯中的曼哈顿，杯口横放樱桃酒签](/media/photos/cocktail-manhattan-648a58c7.jpg)
 
-图：栏目配图。摄影：见原图页。署名：Charlie Marshall，CC BY 2.0，来自 项目图库（类别配图）（[来源](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)）。这张照片仅为场所栏目配图，不是雇员专属酒吧的门店或场馆实拍。
+图：一杯曼哈顿，深琥珀色酒液盛于碟形杯，杯口横放酒签与一颗酒渍樱桃。图片：naotakem，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6992048786)）。这张鸡尾酒照片用于说明纽约酒吧的饮品语境，不是雇员专属酒吧的门店实拍。
 
 ## 2004 年：雇员专属酒吧的关键起点
 酒吧于 2004 年开业，The 50 的简介说它“从开业那天起就是经典”，并把它的贡献概括为：给隐藏式酒吧注入了热闹、好玩的性格，而不是只做安静的秘密空间。这个判断解释了它为什么能在纽约那一代 speakeasy 里站稳：它没有把“隐蔽”做成排他，而是把“隐蔽”做成进入后的反差。
@@ -152,6 +152,4 @@ founded_year: 2004
 
 ## 相关图像
 
-![“皮特酒馆”页面配图：Pete's Tavern (51708610272)。摄影：ajay_suresh，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-place-petes-tavern-41eaebdf.jpg)
 
-图：Pete's Tavern (51708610272)。摄影：ajay_suresh，CC BY 2.0，来自 Wikimedia Commons。。图片：ajay_suresh，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=112875512)）。关联图像：雇员专属酒吧。

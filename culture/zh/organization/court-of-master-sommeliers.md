@@ -89,7 +89,7 @@ verification_scope: source-verified
 
 ![餐厅中的侍酒师正在为客人倒酒；画面不是侍酒大师公会的考试现场，也不是其总部。图：Fabio Ingrosso，CC BY 2.0。](/media/photos/organization-court-of-master-sommeliers-b9860be6.jpg)
 
-图：餐厅中的侍酒师正在为客人倒酒；画面不是侍酒大师公会的考试现场，也不是其总部。图：Fabio Ingrosso，CC BY 2.0。。图片：Fabio Ingrosso，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sommelier_decanting_and_serving_wine_at_a_restaurant.jpg)）。
+图：餐厅中的侍酒师正在为客人倒酒；画面不是侍酒大师公会的考试现场，也不是其总部。图片：Fabio Ingrosso，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sommelier_decanting_and_serving_wine_at_a_restaurant.jpg)）。
 
 ## 它不是一个“骑士团”
 

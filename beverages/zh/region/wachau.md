@@ -187,7 +187,7 @@ Steinfeder 建议 8–10 摄氏度，Federspiel 与 Smaragd 建议 10–12 摄�
 
 ![橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。](/media/photos/editorial-oak-ageing-q2.jpg)
 
-图：橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：瓦豪。
+图：橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：瓦豪。
 
 ![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
 

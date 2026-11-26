@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: variety:malbec
 source_lang: zh
-source_revision: sha256:5c8a2d4c07ec6cbf03fa53d04ca4a91dcd527d68014b9ed170c1eba81b62e45c
-source_sha256: 5c8a2d4c07ec6cbf03fa53d04ca4a91dcd527d68014b9ed170c1eba81b62e45c
+source_revision: sha256:cc1dc525008b74954c1602180edb4b15d50543d5dc3711696fab5044eb08936d
+source_sha256: cc1dc525008b74954c1602180edb4b15d50543d5dc3711696fab5044eb08936d
 translation_status: reviewed
 legacy_refs: []
 species: Vitis vinifera

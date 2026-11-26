@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:museo-del-ron-havana
 source_lang: zh
-source_revision: sha256:e095988b07f131739efcb7b40af0081af5030c49c5d1e5b3a1c138d86f9e4b41
-source_sha256: e095988b07f131739efcb7b40af0081af5030c49c5d1e5b3a1c138d86f9e4b41
+source_revision: sha256:fd417d1fda93c1f957facac7cf8b33e3c67f007c50d8c48411e59b8285d84a1e
+source_sha256: fd417d1fda93c1f957facac7cf8b33e3c67f007c50d8c48411e59b8285d84a1e
 translation_status: reviewed
 subtype: museum
 address: Avenida del Puerto 262, esquina a Sol, La Habana Vieja, La Habana, Cuba

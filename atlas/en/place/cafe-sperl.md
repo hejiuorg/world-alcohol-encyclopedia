@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:cafe-sperl
 source_lang: zh
-source_revision: sha256:a7dabd15c82c654923d24fbe1bc39b9e1b195c0089dd5d201e4dc56b9f3b92f1
-source_sha256: a7dabd15c82c654923d24fbe1bc39b9e1b195c0089dd5d201e4dc56b9f3b92f1
+source_revision: sha256:f482ab7b54da5d1d3186d02378d30d86d0fe5585f91ae2626484837f20d599db
+source_sha256: f482ab7b54da5d1d3186d02378d30d86d0fe5585f91ae2626484837f20d599db
 translation_status: reviewed
 subtype: pub
 address: Gumpendorfer Straße 11, 1060 Wien, Austria

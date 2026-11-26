@@ -145,4 +145,4 @@ verification_scope: source-verified
 
 ![一瓶 Amaro Montenegro 与一杯琥珀色阿玛罗，瓶身标签标着 Amaro Montenegro 与 Product of Italy。](/media/photos/drink-style-amaro-3d4ee5a9.jpg)
 
-图：一瓶 Amaro Montenegro 与一杯琥珀色阿玛罗，瓶身标签标着 Amaro Montenegro 与 Product of Italy。。图片：Shabbychef，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Amaro_Montenegro.jpg)）。关联图像：苦精。
+图：一瓶 Amaro Montenegro 与一杯琥珀色阿玛罗，瓶身标签标着 Amaro Montenegro 与 Product of Italy。图片：Shabbychef，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Amaro_Montenegro.jpg)）。关联图像：苦精。

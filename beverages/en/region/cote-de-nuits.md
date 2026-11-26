@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:cote-de-nuits
 source_lang: zh
-source_revision: sha256:f00ee7707b39776c1446a76b768e7f4e068345595bfb9c9ea81de30c75e4bcbf
-source_sha256: f00ee7707b39776c1446a76b768e7f4e068345595bfb9c9ea81de30c75e4bcbf
+source_revision: sha256:9de7d209d7276e009e123f4656163a36413313185549377f7388c7617de2bbb4
+source_sha256: 9de7d209d7276e009e123f4656163a36413313185549377f7388c7617de2bbb4
 translation_status: reviewed
 level: city
 parent_id: region:france

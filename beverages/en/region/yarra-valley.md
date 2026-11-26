@@ -24,8 +24,8 @@ tags:
 translation_of: region:yarra-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d5ccd84cca88acce2563af2d270544b7047690226fcda952327f9a5fd4182094
-source_sha256: d5ccd84cca88acce2563af2d270544b7047690226fcda952327f9a5fd4182094
+source_revision: sha256:e177804f0424673b161471ad84aa3e05c067ad1e98f06174500cbbe30f308a57
+source_sha256: e177804f0424673b161471ad84aa3e05c067ad1e98f06174500cbbe30f308a57
 related:
   - relation: about
     target_id: region:australia

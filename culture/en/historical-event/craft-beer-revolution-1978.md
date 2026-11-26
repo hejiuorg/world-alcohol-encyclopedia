@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:craft-beer-revolution-1978
 source_lang: zh
-source_revision: sha256:8989444b490b77f9af13f1825cde0b365218c1231f6fcb9fc98b631c8f5aa617
-source_sha256: 8989444b490b77f9af13f1825cde0b365218c1231f6fcb9fc98b631c8f5aa617
+source_revision: sha256:55c355e7578649d3a7221a8a421b422e96afa56c2c38a6c59b1edda4e560a60e
+source_sha256: 55c355e7578649d3a7221a8a421b422e96afa56c2c38a6c59b1edda4e560a60e
 translation_status: reviewed
 aliases:
   - 美国自酿合法化

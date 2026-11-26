@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:casablanca-valley
 source_lang: zh
-source_revision: sha256:7614ded3c4888fb6c91fe9c4761724844f85a3dc239cff7b86cefd3d0f808964
-source_sha256: 7614ded3c4888fb6c91fe9c4761724844f85a3dc239cff7b86cefd3d0f808964
+source_revision: sha256:81fd722c6d70dc96fe7e3c811275f113db02180ae9b749ef6f3bbed08d986623
+source_sha256: 81fd722c6d70dc96fe7e3c811275f113db02180ae9b749ef6f3bbed08d986623
 translation_status: reviewed
 level: other
 parent_id: region:chile

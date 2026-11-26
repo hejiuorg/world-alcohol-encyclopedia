@@ -175,9 +175,9 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“基安蒂经典”页面配图：Chianti Classico example bottle - Annata type。摄影：FranzKafka2000，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-drink-italy-chianti-classico-3b4e03f3.jpg)
+![Chianti Classico example bottle - Annata type](/media/photos/q2-drink-italy-chianti-classico-3b4e03f3.jpg)
 
-图：Chianti Classico example bottle - Annata type。摄影：FranzKafka2000，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：FranzKafka2000，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=168690826)）。关联图像：托斯卡纳。
+图：Chianti Classico example bottle - Annata type。图片：FranzKafka2000，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=168690826)）。关联图像：托斯卡纳。
 
 ![布鲁奈罗](/media/photos/drink-italy-brunello-di-montalcino-820d580a.jpg)
 

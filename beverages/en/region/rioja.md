@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:rioja
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e78bdc95c9bb8754597aadcb150ab61d7db5f6511f0434c5f90d2e3524c3a7aa
-source_sha256: e78bdc95c9bb8754597aadcb150ab61d7db5f6511f0434c5f90d2e3524c3a7aa
+source_revision: sha256:a8d6ee7722a855ab7d278882a036affd389de56ae4d202870a1ceed26691b389
+source_sha256: a8d6ee7722a855ab7d278882a036affd389de56ae4d202870a1ceed26691b389
 level: other
 parent_id: region:spain
 country_code: ES

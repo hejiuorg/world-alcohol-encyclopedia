@@ -11,8 +11,8 @@ revision: 4
 translation_of: region:china
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5204e8d67842bb874e1e96e08e3dd5158cf2b722cc449ce2c37e96317bc8efd9
-source_sha256: 5204e8d67842bb874e1e96e08e3dd5158cf2b722cc449ce2c37e96317bc8efd9
+source_revision: sha256:a73b25b793cc265401389a15fcb8ba42ad317aee2d8a857273081f4c9214a484
+source_sha256: a73b25b793cc265401389a15fcb8ba42ad317aee2d8a857273081f4c9214a484
 level: country
 country_code: CN
 legacy_refs: []

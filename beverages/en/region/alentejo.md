@@ -24,8 +24,8 @@ tags:
 translation_of: region:alentejo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b49093851d0fc9b730ccc47db2f25b260f36701c19b90c2933c8f4702cc1c23e
-source_sha256: b49093851d0fc9b730ccc47db2f25b260f36701c19b90c2933c8f4702cc1c23e
+source_revision: sha256:a6d509e1bbe8a9ea7e342bda0870a97095b6f353cf77354416861b540240f7f8
+source_sha256: a6d509e1bbe8a9ea7e342bda0870a97095b6f353cf77354416861b540240f7f8
 related:
   - relation: about
     target_id: region:portugal

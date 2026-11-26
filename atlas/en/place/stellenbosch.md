@@ -40,8 +40,8 @@ tags:
 translation_of: place:stellenbosch
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:68f8a11e8a9894691423a59fff67579066ab9ccb751dd57d3a5c683bcde72981
-source_sha256: 68f8a11e8a9894691423a59fff67579066ab9ccb751dd57d3a5c683bcde72981
+source_revision: sha256:519b3e7d866cfdd41b710676ee219f161743961834244d5a73241a5e22e758e5
+source_sha256: 519b3e7d866cfdd41b710676ee219f161743961834244d5a73241a5e22e758e5
 related:
   - relation: about
     target_id: region:stellenbosch

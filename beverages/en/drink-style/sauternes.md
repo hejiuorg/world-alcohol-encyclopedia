@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:sauternes
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:68cb1b36db771bad3f14b66a53e6f3912cf9449cc5d127966f826f67afb358a1
-source_sha256: 68cb1b36db771bad3f14b66a53e6f3912cf9449cc5d127966f826f67afb358a1
+source_revision: sha256:2a910d9af24d1b8e2f229ce07f3d265e51b24eefec320932a0994bc422f82b8d
+source_sha256: 2a910d9af24d1b8e2f229ce07f3d265e51b24eefec320932a0994bc422f82b8d
 legacy_refs: []
 parent_style_id: drink-style:dessert-wine
 aroma_family: Honey / apricot / citrus peel

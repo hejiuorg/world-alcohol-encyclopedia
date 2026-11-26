@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:montalcino
 source_lang: zh
-source_revision: sha256:f88897b0b180adcf64254f13250ce968fe84afc59b891d87f5c63033e586b7e5
-source_sha256: f88897b0b180adcf64254f13250ce968fe84afc59b891d87f5c63033e586b7e5
+source_revision: sha256:0847f24ef6ce6f40ce4abdd61dc79fc8d9a962d1b339f69d7961d803b7ca9f82
+source_sha256: 0847f24ef6ce6f40ce4abdd61dc79fc8d9a962d1b339f69d7961d803b7ca9f82
 translation_status: reviewed
 level: city
 parent_id: region:italy

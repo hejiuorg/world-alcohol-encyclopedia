@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:barbera
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:aad86d89e4d628c6e6c33eec692d0f6ddbdf41adb4c9b63fafd6065490a02f25
-source_sha256: aad86d89e4d628c6e6c33eec692d0f6ddbdf41adb4c9b63fafd6065490a02f25
+source_revision: sha256:c3dc8ef5395f9fa19ea8e72cc1fc13b5b3af9982fe67ae89a54f370b2c974eef
+source_sha256: c3dc8ef5395f9fa19ea8e72cc1fc13b5b3af9982fe67ae89a54f370b2c974eef
 legacy_refs: []
 species: Vitis vinifera
 aliases:

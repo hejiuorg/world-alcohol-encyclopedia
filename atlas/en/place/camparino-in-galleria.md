@@ -32,8 +32,8 @@ tags:
 translation_of: place:camparino-in-galleria
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bf469dbe270547ae3130b3531a383dcab59ec5264146f85c8b0c60604d14e42f
-source_sha256: bf469dbe270547ae3130b3531a383dcab59ec5264146f85c8b0c60604d14e42f
+source_revision: sha256:02fbeff301e76e6c9355b0e9d2f1ef4ca8d054e5d85d9e170b2c669b51b5fe02
+source_sha256: 02fbeff301e76e6c9355b0e9d2f1ef4ca8d054e5d85d9e170b2c669b51b5fe02
 related:
   - relation: about
     target_id: drink:italy-campari

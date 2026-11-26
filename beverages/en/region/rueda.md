@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:rueda
 source_lang: zh
-source_revision: sha256:462c2ce29272aafd29b1ba6806cb5555ed90131da18ae2677738e43e5f28f7df
-source_sha256: 462c2ce29272aafd29b1ba6806cb5555ed90131da18ae2677738e43e5f28f7df
+source_revision: sha256:f5e0fa30ac41de649d2aab6e798349d93fb720f1639482471c154670327fa139
+source_sha256: f5e0fa30ac41de649d2aab6e798349d93fb720f1639482471c154670327fa139
 translation_status: reviewed
 level: other
 parent_id: region:spain

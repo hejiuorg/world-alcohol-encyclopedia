@@ -177,4 +177,4 @@ Verdejo 与 Verdelho 不是同一品种：前者在卢埃达，后者在马德�
 
 ![卢埃达马丁桑乔（Martinsancho）葡萄园，石砾地上的老藤。](/media/photos/region-rueda-01fdfbdc.jpg)
 
-图：卢埃达马丁桑乔（Martinsancho）葡萄园，石砾地上的老藤。。图片：Carlosmartinmm34，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Martinsancho_Vineyard.jpg)）。关联图像：弗德乔。
+图：卢埃达马丁桑乔（Martinsancho）葡萄园，石砾地上的老藤。图片：Carlosmartinmm34，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Martinsancho_Vineyard.jpg)）。关联图像：弗德乔。

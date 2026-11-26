@@ -24,8 +24,8 @@ tags:
 translation_of: region:paarl
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:149bd2922450a0e2e1bd4f1c9052cddde00a80cdcff986162645dd5bb27d0ce5
-source_sha256: 149bd2922450a0e2e1bd4f1c9052cddde00a80cdcff986162645dd5bb27d0ce5
+source_revision: sha256:42728cacbb030ed28554bbdf7543954200a0fa432bbe5988f9e015ca80bd8337
+source_sha256: 42728cacbb030ed28554bbdf7543954200a0fa432bbe5988f9e015ca80bd8337
 related:
   - relation: about
     target_id: region:south-africa

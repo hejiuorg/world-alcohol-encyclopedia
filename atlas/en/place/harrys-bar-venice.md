@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:harrys-bar-venice
 source_lang: zh
-source_revision: sha256:dd95b6f3be62ed6a0851dd8c9521abaacb0e170dde0a0621849db46544909ffe
-source_sha256: dd95b6f3be62ed6a0851dd8c9521abaacb0e170dde0a0621849db46544909ffe
+source_revision: sha256:5169f5a694267169281b540b1b1e96a4338e8ee040d6ff53de01f3e32791094d
+source_sha256: 5169f5a694267169281b540b1b1e96a4338e8ee040d6ff53de01f3e32791094d
 translation_status: reviewed
 subtype: pub
 address: Calle Vallaresso 1323, 30124 Venezia, Italy

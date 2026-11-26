@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:rias-baixas
 source_lang: zh
-source_revision: sha256:b82d889f5b1278fd14eae0d66e7f7ee6d29d41434a8ec0653a86b79af6cbb920
-source_sha256: b82d889f5b1278fd14eae0d66e7f7ee6d29d41434a8ec0653a86b79af6cbb920
+source_revision: sha256:ed2fab09e386ebb955f503bca20406b110aa4818fb442cc0cf4aafd873dbaabd
+source_sha256: ed2fab09e386ebb955f503bca20406b110aa4818fb442cc0cf4aafd873dbaabd
 translation_status: reviewed
 level: other
 parent_id: region:spain

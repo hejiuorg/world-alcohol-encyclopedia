@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cloudy-bay
 source_lang: zh
-source_revision: sha256:83b5559f6f5daf3700262ed50731cab358d05abb40f8d63c7d771e31811dbb49
-source_sha256: 83b5559f6f5daf3700262ed50731cab358d05abb40f8d63c7d771e31811dbb49
+source_revision: sha256:0f361ec20ea4c2e7c02d11f8132f80d134a7a667e1f8226484a4f3bf471b2b53
+source_sha256: 0f361ec20ea4c2e7c02d11f8132f80d134a7a667e1f8226484a4f3bf471b2b53
 translation_status: reviewed
 subtype: winery-visitor
 address: 230 Jacksons Road, Blenheim, New Zealand

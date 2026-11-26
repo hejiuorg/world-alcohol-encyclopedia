@@ -183,4 +183,4 @@ Fino 与 Manzanilla 冷藏到 7–10 摄氏度，开瓶后尽快喝完；Oloroso
 
 ![赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。](/media/photos/drink-style-sherry-876c72cd.jpg)
 
-图：赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。。图片：Anual，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lustau_003An2019.jpg)）。关联图像：赫雷斯雪莉路线：一座城、两家酒庄与三条陈年路径。
+图：赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。图片：Anual，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lustau_003An2019.jpg)）。关联图像：赫雷斯雪莉路线：一座城、两家酒庄与三条陈年路径。

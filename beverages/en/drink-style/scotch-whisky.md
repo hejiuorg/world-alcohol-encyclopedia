@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:scotch-whisky
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:839de495988b829f0bee0cfd9f54e25e653694564489a8b98911f75a453e7164
-source_sha256: 839de495988b829f0bee0cfd9f54e25e653694564489a8b98911f75a453e7164
+source_revision: sha256:416ded1d98ee73ef902d1f5df0c3c73e3dbb3e50eb743ebb9dfd081dcd998906
+source_sha256: 416ded1d98ee73ef902d1f5df0c3c73e3dbb3e50eb743ebb9dfd081dcd998906
 legacy_refs: []
 aliases:
   - Scotch whisky

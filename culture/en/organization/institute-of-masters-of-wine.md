@@ -34,8 +34,8 @@ related:
 translation_of: organization:institute-of-masters-of-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9d7847141408af0c299c7a08305ecb8461860bb18c138d0abdd0eb60c69ca618
-source_sha256: 9d7847141408af0c299c7a08305ecb8461860bb18c138d0abdd0eb60c69ca618
+source_revision: sha256:179f98a3b244643716a7a9d589978b0a316fab570bfc78e437ab673c62d59d92
+source_sha256: 179f98a3b244643716a7a9d589978b0a316fab570bfc78e437ab673c62d59d92
 references:
   - key: wine
     target_id: drink-style:wine

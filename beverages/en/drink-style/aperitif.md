@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:aperitif
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:dff3e603384a19d9aff8ac5026ab0f6df45576a40a2c9abd01b6dab400e1ec02
-source_sha256: dff3e603384a19d9aff8ac5026ab0f6df45576a40a2c9abd01b6dab400e1ec02
+source_revision: sha256:7676d596890974db9a947d1eb859e0e374ea15c7f045e7e81bcf31081b0e07c5
+source_sha256: 7676d596890974db9a947d1eb859e0e374ea15c7f045e7e81bcf31081b0e07c5
 legacy_refs: []
 aliases:
   - Apéritif

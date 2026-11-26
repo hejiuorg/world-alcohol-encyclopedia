@@ -25,8 +25,8 @@ tags:
 translation_of: region:hermitage
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f13189d96816c7815dc6eddaaf7c2a87fd9247b72bcdd754403b6a2306bb82ce
-source_sha256: f13189d96816c7815dc6eddaaf7c2a87fd9247b72bcdd754403b6a2306bb82ce
+source_revision: sha256:27c51c3e8ed9e20854cab2f880c08344b18f5e75f4dcce614cee1958b09bc2f7
+source_sha256: 27c51c3e8ed9e20854cab2f880c08344b18f5e75f4dcce614cee1958b09bc2f7
 related:
   - relation: about
     target_id: region:rhone

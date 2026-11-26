@@ -178,6 +178,6 @@ AVA 只规定地理来源，不规定产量、品种或酿造方式。酒庄可�
 
 图：美国类别配图。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：哥伦比亚谷。
 
-![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+![Cabernet Sauvignon grapes from Château Cos D'Estournel](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
 
-图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：哥伦比亚谷。
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：哥伦比亚谷。

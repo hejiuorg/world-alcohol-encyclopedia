@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:germany
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2c7743ceb8f6caa04b1ca04861b7ec3b85adcc6e1683d368857e2589065fb9a3
-source_sha256: 2c7743ceb8f6caa04b1ca04861b7ec3b85adcc6e1683d368857e2589065fb9a3
+source_revision: sha256:574bb3d06337316c9c6220d5bc57c9e376314134ad286ec66e410366646d68db
+source_sha256: 574bb3d06337316c9c6220d5bc57c9e376314134ad286ec66e410366646d68db
 level: country
 country_code: DE
 legacy_refs: []

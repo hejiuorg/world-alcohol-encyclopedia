@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:bavaria-beer-trail
 source_lang: zh
-source_revision: sha256:a529642e88c9118cbabbc09be167d056ef258823c4cb697ed73ade6c4698a4db
-source_sha256: a529642e88c9118cbabbc09be167d056ef258823c4cb697ed73ade6c4698a4db
+source_revision: sha256:aa034ebab8874582324ee60f66d5013e138202db2bb1e523392d3c7076900ea5
+source_sha256: aa034ebab8874582324ee60f66d5013e138202db2bb1e523392d3c7076900ea5
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -105,9 +105,7 @@ updated_at: 2026-11-08
 
 This route places three spaces of Bavarian beer culture side by side: the state-owned beer hall in Munich's old town, the family brewery quarter in the west of the city, and the historic pub in Bamberg whose identity is built on smoked beer. Two stops are in Munich and one is in Bamberg, with a rail journey in between. It suits anyone willing to give a day and a half or two days to beer, not anyone trying to tick off three cities in half a day.
 
-![Bavaria beer trail: Munich to Bamberg photograph](/media/photos/q2-route-bavaria-beer-trail-26409dfb.jpg)
 
-Figure: Bavaria beer trail: Munich to Bamberg. Photograph: File:Oaxaqa (41).jpg. Credit: Prsjl, CC BY-SA 4.0, via the site archive ([source](https://commons.wikimedia.org/wiki/File:Oaxaqa_(41).jpg)). Category photograph used to illustrate the subject; not an official product image.
 
 > **Quick verdict**
 > **In one line:** This route helps you plan Bavaria beer trail: Munich to Bamberg, including the order, timing and stops that matter.

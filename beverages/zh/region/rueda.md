@@ -168,8 +168,8 @@ Verdejo 在卢埃达的种植历史已超过十个世纪。它皮较厚、酸度
 
 ![酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。](/media/photos/editorial-lees-ageing-q2.jpg)
 
-图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：卢埃达。
+图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：卢埃达。
 
-![“丹魄”页面配图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+![Tempranillo grapes from Rioja Alavesa](/media/photos/q2-variety-tempranillo-186ba329.jpg)
 
-图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：卢埃达。
+图：Tempranillo grapes from Rioja Alavesa。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：卢埃达。

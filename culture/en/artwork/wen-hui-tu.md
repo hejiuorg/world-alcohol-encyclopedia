@@ -10,8 +10,8 @@ summary: Traditionally attributed to Song emperor Huizong, this ink-and-colour s
 status: reviewed
 revision: 1
 legacy_refs: []
-source_revision: sha256:11d9f4bb92dd37ce2ec61baeed24cfc1848461061c46b24025afd60c9cf73cb4
-source_sha256: 11d9f4bb92dd37ce2ec61baeed24cfc1848461061c46b24025afd60c9cf73cb4
+source_revision: sha256:e1fda97ee09cad1120570f53c514bfae192d459f7cb7940dd20e65bc46a6c2de
+source_sha256: e1fda97ee09cad1120570f53c514bfae192d459f7cb7940dd20e65bc46a6c2de
 source_lang: zh
 translation_status: reviewed
 creator_refs: []

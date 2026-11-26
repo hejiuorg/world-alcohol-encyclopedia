@@ -25,8 +25,8 @@ tags:
 translation_of: region:puglia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ab0fdfd320f2c6bbb77fb733a14e9769b68c379e09b872c5d89d951ea36f6a2c
-source_sha256: ab0fdfd320f2c6bbb77fb733a14e9769b68c379e09b872c5d89d951ea36f6a2c
+source_revision: sha256:58f1b0accba0df9caf780f21c67c3cd75e657c820c794a448d47120295dc0aa3
+source_sha256: 58f1b0accba0df9caf780f21c67c3cd75e657c820c794a448d47120295dc0aa3
 related:
   - relation: about
     target_id: region:italy

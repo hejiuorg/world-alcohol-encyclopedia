@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:bisola-valdobbiadene
 source_lang: zh
-source_revision: sha256:3764690b01074c5af2a5fccc65906fdb07b893f14aa64f0ead67fe611f572a2a
-source_sha256: 3764690b01074c5af2a5fccc65906fdb07b893f14aa64f0ead67fe611f572a2a
+source_revision: sha256:4343e9bc5ee50292348c90b9f9bbe4c4a69c9f65e5885f8db420986ed2c5686d
+source_sha256: 4343e9bc5ee50292348c90b9f9bbe4c4a69c9f65e5885f8db420986ed2c5686d
 translation_status: reviewed
 subtype: winery-visitor
 address: Via Follo 33, 31049 Valdobbiadene (TV), Italy

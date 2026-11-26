@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fontanafredda
 source_lang: zh
-source_revision: sha256:9c9d10a46dc9f625fc3d654626dc460d4d2b60559785baad358de69f28fb756e
-source_sha256: 9c9d10a46dc9f625fc3d654626dc460d4d2b60559785baad358de69f28fb756e
+source_revision: sha256:d3f3620c861253bbe767abd6abad349cbdde8376c0e9ca9f631d516702cfde80
+source_sha256: d3f3620c861253bbe767abd6abad349cbdde8376c0e9ca9f631d516702cfde80
 translation_status: reviewed
 subtype: winery-visitor
 address: Via Alba 15, 12050 Serralunga d'Alba (CN), Italy

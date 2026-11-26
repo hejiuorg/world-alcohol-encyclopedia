@@ -161,6 +161,6 @@ verification_scope: source-verified
 
 ## 相关图像
 
-![“威尼托”页面配图：Vineyard, San Giorgio di Valpolicella, Veneto, Italy。摄影：Unknown photographer，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-veneto-011f6328.jpg)
+![Vineyard, San Giorgio di Valpolicella, Veneto, Italy](/media/photos/q2-region-veneto-011f6328.jpg)
 
-图：Vineyard, San Giorgio di Valpolicella, Veneto, Italy。摄影：Unknown photographer，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Unknown photographer，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=354325)）。关联图像：比索尔酒庄。
+图：Vineyard, San Giorgio di Valpolicella, Veneto, Italy。图片：Unknown photographer，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=354325)）。关联图像：比索尔酒庄。

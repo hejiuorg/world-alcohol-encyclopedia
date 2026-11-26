@@ -111,8 +111,8 @@ stop_ids:
     note: Return to old Beaune for a cellar tour and the market shop, completing the merchant side of the story.
 mode: walk-car
 updated_at: 2026-11-08
-source_sha256: 252ac0cea79e986ff325099595cd73f66d91c144b3ada6d9a0f9f78f9923af93
-source_revision: sha256:252ac0cea79e986ff325099595cd73f66d91c144b3ada6d9a0f9f78f9923af93
+source_sha256: 77fd08e0c7f0168a2c3c273e10a11f2bb6deec0d8092b581bbcd30d50135ca46
+source_revision: sha256:77fd08e0c7f0168a2c3c273e10a11f2bb6deec0d8092b581bbcd30d50135ca46
 ---
 
 # Burgundy: Beaune, Meursault and the culture of the négociant

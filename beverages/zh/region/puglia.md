@@ -153,6 +153,6 @@ verification_scope: source-verified
 
 图：巴贝拉。图片：Agne27，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Barbera_cluster.JPG)）。关联图像：普利亚。
 
-![“意大利”页面配图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-italy-202d4c25.jpg)
+![' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino](/media/photos/q2-region-italy-202d4c25.jpg)
 
-图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：普利亚。
+图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：普利亚。
