@@ -23,8 +23,8 @@ tags:
 translation_of: variety:muller-thurgau
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:294a4725a1b00202dfcc515dd5b4f4bff671b427520d77124d9475cd325baad4
-source_sha256: 294a4725a1b00202dfcc515dd5b4f4bff671b427520d77124d9475cd325baad4
+source_revision: sha256:37775dfa6bfe4a3ed5d9dd2328df2cb62587ce8f1d9d008d32c01d682aef091d
+source_sha256: 37775dfa6bfe4a3ed5d9dd2328df2cb62587ce8f1d9d008d32c01d682aef091d
 related:
   - relation: about
     target_id: region:germany
@@ -79,6 +79,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Müller-Thurgau
 
 A German-bred white grape, a cross of Riesling and Madeleine Royale; early-ripening and high-yielding, with flowers, citrus and a light Muscat note, it is one of Germany’s most planted whites.
@@ -155,3 +156,9 @@ Compare a dry Müller-Thurgau/Rivaner with a Riesling from the same region, then
 **At a glance:** A German-bred white grape, a cross of Riesling and Madeleine Royale; early-ripening and high-yielding, with flowers, citrus and a light Muscat note, it is one of Germany’s most planted whites.
 
 Müller-Thurgau was bred in the late nineteenth century by Hermann Müller from Thurgau, who crossed Riesling with Madeleine Royale; it was long treated as a Riesling x Silvaner cross, a claim later corrected by genetic testing. It ripens early and yields generously, which made it a workhorse of German viticulture after the Second World War and a common base for Liebfraumilch. The best sites are cool and well-drained, where the grape keeps a light Muscat note and citrus freshness; warm, high-yielding sites give bland wine. Germany's modern plantings have fallen as growers replant with Riesling, but Müller-Thurgau remains important in Baden, Rheinhessen and the Swiss cantons. A label may say Müller-Thurgau or Rivaner, especially in Austria and Hungary; both names refer to the same variety.
+
+## Related images
+
+![Riesling](/media/photos/variety-riesling-a836132e.jpg)
+
+Image: Riesling. Credit: No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)). Related image for Müller-Thurgau.

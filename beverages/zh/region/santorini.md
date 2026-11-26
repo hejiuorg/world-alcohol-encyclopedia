@@ -85,6 +85,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 圣托里尼
 
 圣托里尼（Santorini，希腊语 Thira）是爱琴海基克拉泽斯群岛中的火山岛，也是希腊最独特的 PDO 白葡萄酒产区。它以 Assyrtiko、火山土与篮式修剪 kouloura 闻名，在极度干旱与强风中维持着一套近乎手工的葡萄种植体系。
@@ -161,3 +162,13 @@ Vinsanto 的酿造倚赖岛上充足的日照：葡萄采收后在阳光下摊�
 - [酒泥陈酿](ref:lees-ageing)：酒泥接触对质地与陈年的影响。
 - [葡萄](ref:grape)：酿酒葡萄的成熟指标。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![阿斯蒂科类别配图](/media/photos/process-pressing-dd288ecb.jpg)
+
+图：阿斯蒂科类别配图。图片：Klearchos Kapoutsis，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:White_wine_grape_pressing_in_Santorini.jpg)）。关联图像：圣托里尼。
+
+![酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。](/media/photos/editorial-lees-ageing-q2.jpg)
+
+图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：圣托里尼。

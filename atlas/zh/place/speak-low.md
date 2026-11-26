@@ -94,6 +94,7 @@ city: 上海
 verification_scope: source-verified
 founded_year: 2014
 ---
+
 # Speak Low 酒吧
 
 ![Speak Low 酒吧 专属编辑图](/media/figures/specific/visual-066-place-speak-low.svg)
@@ -167,3 +168,9 @@ Speak Low 在复兴中路靠近瑞金二路的一段，步行可到复兴公园�
 补充阅读：[古典](ref:c-extra-1)、[认识一座城，从一间酒馆开始](ref:c-extra-2)。
 
 相关条目：[High Five 酒吧](ref:bar-high-five)、[莱佛士长廊酒吧](ref:raffles-long-bar)、[萨沃伊美式酒吧](ref:american-bar-savoy)。
+
+## 相关图像
+
+![莱佛士长廊酒吧相关实景照片](/media/photos/place-raffles-long-bar-23568c03.jpg)
+
+图：莱佛士长廊酒吧相关实景照片。图片：Hajotthu，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Raffles_Hotel_Long_Bar_A.JPG)）。关联图像：Speak Low 酒吧。

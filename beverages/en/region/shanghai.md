@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:shanghai
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c39e0eeb2c7c5c763a09e66b3527ae1fd8f80abd1f3ea8504cdeb8a2d9ee5f65
-source_sha256: c39e0eeb2c7c5c763a09e66b3527ae1fd8f80abd1f3ea8504cdeb8a2d9ee5f65
+source_revision: sha256:c6be16f0f58d648765aa2929fb5dd5927856a8e55743c9fb415d069c48176e8e
+source_sha256: c6be16f0f58d648765aa2929fb5dd5927856a8e55743c9fb415d069c48176e8e
 legacy_refs: []
 level: province
 parent_id: region:china
@@ -90,6 +90,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Shanghai
 
 Shanghai sits on China's east coast at the mouth of the Yangtze and is a municipality. In the map of alcoholic drinks it is both a huge consumer market and a yellow wine producer in its own right: Fengjing in Jinshan is the production core, and Shanghai laojiu is the most recognisable product name of the area.
@@ -182,3 +183,13 @@ Shanghai has no protected wine region; its drinks scene is driven by imported wi
 - [Shaoxing](ref:shaoxing): a wheat-qu yellow wine region for comparison.
 - [Glutinous rice](ref:glutinous-rice) and [wheat](ref:wheat): the base material and the qu material.
 - [Water](ref:water), [qu making](ref:qu-making) and [fermentation](ref:fermentation): the key stages of yellow wine production.
+
+## Related images
+
+![Glutinous rice](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+Image: Glutinous rice. Credit: 국립국어원, CC BY-SA 2.0 kr, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)). Related image for Shanghai.
+
+![Shaoxing](/media/photos/region-shaoxing-e9a43f19.jpg)
+
+Image: Shaoxing. Credit: Zhangzhugang, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)). Related image for Shanghai.

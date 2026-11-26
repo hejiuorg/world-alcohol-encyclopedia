@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:the-brazen-head
 source_lang: zh
-source_revision: sha256:4d9ed2d946aae56577a90b4e15d16cf1f4b06ed9d1ac45734a187fc56c0fc6ee
-source_sha256: 4d9ed2d946aae56577a90b4e15d16cf1f4b06ed9d1ac45734a187fc56c0fc6ee
+source_revision: sha256:520d9b67f97cd2f3d02b54513859315f2e5f849478f506a90f6c72e9a1bcab78
+source_sha256: 520d9b67f97cd2f3d02b54513859315f2e5f849478f506a90f6c72e9a1bcab78
 translation_status: reviewed
 subtype: pub
 address: 20 Lower Bridge St, Usher's Quay, Dublin 8, D08 WC64, Ireland
@@ -83,6 +83,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; opening hours, menus, prices and performance schedules change, so check official channels.
 verification_scope: source-verified
 ---
+
 # The Brazen Head
 
 ![The Brazen Head category image](/media/photos/region-ireland-6c11da34.jpg)
@@ -126,3 +127,9 @@ Nearby you can walk to Father Mathew Bridge, the Four Courts and the Liffey quay
 Further reading: [A Ginjinha](ref:c-extra-1).
 
 To read The Brazen Head, start with the address, then the current opening status, then what the place is known for; no single check settles it.
+
+## Related images
+
+![Hefeweizen and kristallweizen, two treatments within the same wheat-beer family](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+Image: Hefeweizen and kristallweizen, two treatments within the same wheat-beer family. Credit: Ich, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)). Related image for The Brazen Head.

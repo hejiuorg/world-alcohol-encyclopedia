@@ -80,6 +80,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 淡色艾尔
 
 淡色艾尔（pale ale）是[啤酒](ref:beer)中以浅色麦芽为主体、采用上面发酵、酒花香气清楚可辨的家族。它的一端是[英式艾尔](ref:english-ale)里的苦啤与桶装艾尔，另一端是 1980 年代美国精酿用 Cascade 等酒花重建的 American Pale Ale。判断一款酒是否属于这个家族，关键不是色卡，而是麦芽骨架能否托住酒花，以及收口是否保持干净。
@@ -135,3 +136,9 @@ verification_scope: source-verified
 | 香气家族 | 酒花与麦芽 |
 
 **来源与边界。** 本页关于「淡色艾尔」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（英式与美式淡色艾尔的强度、苦度与风味描述框架）、Brewers Association（美国精酿行业对 American Pale Ale 的公开表述与风格分类）、Campaign for Real Ale（英国苦啤、淡色艾尔与桶装真艾尔的传统关系）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![制麦](/media/photos/process-malting-631cf059.jpg)
+
+图：制麦。图片：Lakeworther，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Highland_park_malting_floor.jpg)）。关联图像：淡色艾尔。

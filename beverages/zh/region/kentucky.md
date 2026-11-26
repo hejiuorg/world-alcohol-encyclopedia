@@ -91,6 +91,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。法规细节以《27 CFR Part 5》现行文本为准。
 verification_scope: source-verified
 ---
+
 # 肯塔基州
 
 肯塔基州位于美国中东部，是波本威士忌产量最集中的地方。按肯塔基蒸馏酒协会的公开说法，全球波本供应中约 95% 来自这里；州内约有 100 家持证蒸馏厂，分布在 42 个县，由 84 家公司运营。这个数字很容易被读成“波本等于肯塔基”，但法律上并非如此：波本是全美范围的法定类别，肯塔基只是其主导产区。把产地、法规与品牌分开，是理解肯塔基威士忌的第一步。
@@ -157,3 +158,13 @@ verification_scope: source-verified
 - [橡木桶陈年](ref:oak-ageing)：全新烘烤橡木桶对风味的影响。
 - [蒸馏](ref:distillation)：柱式蒸馏与二次蒸馏的基本原理。
 - [发酵](ref:fermentation)：酸醪发酵与风味前体。
+
+## 相关图像
+
+![干燥的玉米粒。酿酒常用马齿型或硬粒型，甜玉米并非主要原料。](/media/photos/ingredient-maize-bc1f8e47.jpg)
+
+图：干燥的玉米粒。酿酒常用马齿型或硬粒型，甜玉米并非主要原料。。图片：Joel Penner，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Maize_Corn.jpg)）。关联图像：肯塔基州。
+
+![美国类别配图](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+图：美国类别配图。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：肯塔基州。

@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:soju
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a1690415f3b1993106cd2de3801c61e9b73f131f8a01d9b8f848c2a7bfe5ff34
-source_sha256: a1690415f3b1993106cd2de3801c61e9b73f131f8a01d9b8f848c2a7bfe5ff34
+source_revision: sha256:5f2b421e980a4c37cf74ec7cbad5118e33806b83ade76b6a13734a90cf2b8e17
+source_sha256: 5f2b421e980a4c37cf74ec7cbad5118e33806b83ade76b6a13734a90cf2b8e17
 legacy_refs: []
 aliases:
   - Soju
@@ -65,6 +65,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Soju
 
 Soju is a traditional Korean drink that today covers both local soju made by inherited distillation methods and the diluted soju that dominates the mass market. The two share a name but differ greatly in raw material, process, flavour and price. Understanding soju starts with separating those two products, then moving on to brands and serving.![Soju image](/media/photos/drink-style-soju-8b1cabb3.jpg)
@@ -134,3 +135,9 @@ Soju is best read by starting with the production rule, moving to the strength, 
 - [Baijiu](ref:baijiu): a Chinese grain distillate that can be compared with distilled soju.
 - [Sake](ref:sake): a Japanese fermented rice drink, a different liquor category from soju.
 - [Alcohol by volume](ref:abv): the basic concept behind the ABV figure on a soju label.
+
+## Related images
+
+![Sake](/media/photos/drink-style-sake-c84f8e77.jpg)
+
+Image: Sake. Credit: Intforce, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Overflowing_sake_glass_in_masu.jpg)). Related image for Soju.

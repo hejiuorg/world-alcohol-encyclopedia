@@ -103,8 +103,8 @@ stop_ids:
     note: Walk to number 26 and check the booking page first; when a slot is available, see the Art Nouveau house and seven kilometres of cellars.
 mode: walk
 updated_at: 2026-11-08
-source_sha256: 3cbb9d6a7c4cf715ff04e71231cfc390e3624869bd6bf42a5dd6f5ea5e1b5868
-source_revision: sha256:3cbb9d6a7c4cf715ff04e71231cfc390e3624869bd6bf42a5dd6f5ea5e1b5868
+source_sha256: f31e2a1ffa5247c6c766fcf3b8b67601fbd2427e9012b941b77aac14de4c716b
+source_revision: sha256:f31e2a1ffa5247c6c766fcf3b8b67601fbd2427e9012b941b77aac14de4c716b
 ---
 
 # Champagne: a walk along the Avenue de Champagne in Épernay
@@ -200,3 +200,13 @@ Northwards, Reims offers the cathedral and another group of houses; southwards, 
 - For background, consult the Champagne region, sparkling wine and place-and-process entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.
+
+## Related images
+
+![Moët & Chandon](/media/photos/place-moet-et-chandon-5f14a8b9.jpg)
+
+Image: Moët & Chandon. Credit: Andreas Levers from Potsdam, Germany, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mo%C3%ABt_et_Chandon.jpg)). Related image for Champagne: a walk along the Avenue de Champagne in Épernay.
+
+![Perrier-Jouët](/media/photos/place-perrier-jouet-7b87f1ac.jpg)
+
+Image: Perrier-Jouët. Credit: unknown (no credits), Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Champagne_Perrier-Jou%C3%ABt-1923.jpg)). Related image for Champagne: a walk along the Avenue de Champagne in Épernay.

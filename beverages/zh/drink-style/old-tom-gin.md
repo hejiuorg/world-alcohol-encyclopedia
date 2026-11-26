@@ -76,6 +76,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 老汤姆金酒
 
 老汤姆金酒（Old Tom gin）是 18 至 19 世纪英格兰流行的一种甜型[金酒](ref:gin)风格。它的定义不在法规里，而在历史里：蒸馏金酒后加入糖、糖浆或甘草等甜味植物，让酒体比后来的伦敦干金更圆、更柔、更容易入口。今天的老汤姆不是“复古包装的伦敦干金”，而是对一段甜味金酒传统的重新解释。
@@ -133,3 +134,9 @@ verification_scope: source-verified
 **适用边界。** 对「老汤姆金酒」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
 
 **更新提示。** 「老汤姆金酒」最近核对于 2026-11-08；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
+
+## 相关图像
+
+![金菲士](/media/photos/cocktail-gin-fizz-a8f2514e.jpg)
+
+图：金菲士。图片：Charles Haynes，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gin_Fizz_en_El_Bulli.jpg)）。关联图像：老汤姆金酒。

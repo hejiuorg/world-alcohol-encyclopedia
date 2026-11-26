@@ -103,6 +103,7 @@ stop_ids:
 mode: walk-tram-rail
 updated_at: 2026-11-08
 ---
+
 # 波尔多左岸路线：从葡萄酒城到波亚克两座一级庄
 
 这条路线把三个尺度放在一条线上：一座讲“世界葡萄酒文明”的城市博物馆、一座 1855 年分级中的一级庄、以及另一座从二级庄升上去的一级庄。前两站在河与城之间，第三站才真正进入梅多克的砾石坡。它适合愿意用一整天到一天半理解“左岸”到底指什么的人，不适合把名庄当成拍照背景、到了门口才找入口的人。
@@ -224,3 +225,13 @@ updated_at: 2026-11-08
 | 儿童 | 多数可参观，品鉴受限 | 提前问清年龄限制 |
 
 怎么用：先按场景排除，再用预算和口味微调；这是入口表，不是评分表。
+
+## 相关图像
+
+![从地面仰拍的波尔多葡萄酒城，玻璃与金属板包覆的塔体在阳光下反光。](/media/photos/place-cite-du-vin-c31cf8f4.jpg)
+
+图：从地面仰拍的波尔多葡萄酒城，玻璃与金属板包覆的塔体在阳光下反光。。图片：olilynch，CC0 1.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=37500642606)）。关联图像：波尔多左岸路线：从葡萄酒城到波亚克两座一级庄。
+
+![木桐酒庄](/media/photos/place-chateau-mouton-rothschild-6c75d53a.jpg)
+
+图：木桐酒庄。图片：Jack ma，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jardin_de_Ch%C3%A2teau_de_Mouton-Rothschild,_Pauillac._2012.jpg)）。关联图像：波尔多左岸路线：从葡萄酒城到波亚克两座一级庄。

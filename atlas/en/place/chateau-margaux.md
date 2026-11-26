@@ -96,8 +96,8 @@ verification_scope: source-verified
 translation_of: place:chateau-margaux
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:99d0081480b1e38f5b06e2088934add458fb2c6a4d5384e0dcc6f89df3276554
-source_sha256: 99d0081480b1e38f5b06e2088934add458fb2c6a4d5384e0dcc6f89df3276554
+source_revision: sha256:73d42a0dd4f722ffaa126f07b3a1d7773c1efdcb3a8f981da2f32343d1e85d2e
+source_sha256: 73d42a0dd4f722ffaa126f07b3a1d7773c1efdcb3a8f981da2f32343d1e85d2e
 ---
 
 # Château Margaux
@@ -171,3 +171,9 @@ With half a day, Margaux plus the village is a relaxed pairing. To switch to the
 - Official home: <https://www.chateau-margaux.com/en/>, for the Grand Vin, Pavillon Rouge and Pavillon Blanc range.
 - Left Bank comparisons: [Latour](ref:latour), [Lafite](ref:lafite), [Mouton](ref:mouton), [Haut-Brion](ref:hautbrion), [left-bank trail](ref:route).
 - Right Bank and sweet wine: [Cheval Blanc](ref:cheval), [Pétrus](ref:petrus), [Yquem](ref:yquem), [Bordeaux region](ref:bordeaux).
+
+## Related images
+
+![Château Latour seen from the vineyard and the estuary side](/media/photos/place-chateau-latour-e53c6a7a.jpg)
+
+Image: Château Latour seen from the vineyard and the estuary side. Credit: Gilles Messian from Paris, France, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vue_sur_Ch%C3%A2teau_Latour_en_fin_de_journ%C3%A9e,_Pauillac,_France_(48030411248).jpg)). Related image for Château Margaux.

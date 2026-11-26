@@ -82,6 +82,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 山梨
 
 山梨（Yamanashi）位于日本本州中部、东京以西，是日本葡萄酒产业最集中的产区。它以甲府盆地和胜沼（甲州市）为中心，用本地标志品种甲州（Koshu）酿造[白葡萄酒](ref:white-wine)，同时生产少量[红葡萄酒](ref:red-wine)，在日本国产[葡萄酒](ref:wine)中占有特殊位置。
@@ -162,3 +163,13 @@ verification_scope: source-verified
 | 国家代码 | JP |
 
 **来源与边界。** 本页关于「山梨」的关键事实，主要由以下来源交叉核对：Yamanashi Prefectural Government（山梨县葡萄种植与葡萄酒产业概况；由原条目末尾参考资料迁移，未逐条复核访问日期）、National Tax Agency of Japan（日本葡萄酒的地理的表示保护制度与产地标识要求；由原条目末尾参考资料迁移，未逐条复核访问日期）、Ministry of Agriculture, Forestry and Fisheries of Japan（交叉核对日本 GI 制度的适用对象与登记信息；由原条目末尾参考资料迁移，未逐条复核访问日期）等 8 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![日本类别配图](/media/photos/place-kamotsuru-a0074234.jpg)
+
+图：日本类别配图。图片：OS6，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)）。关联图像：山梨。
+
+![白葡萄酒类型示意图](/media/photos/theme-wine-spirits.jpg)
+
+图：白葡萄酒类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：山梨。

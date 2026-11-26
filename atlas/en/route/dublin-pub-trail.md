@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:dublin-pub-trail
 source_lang: zh
-source_revision: sha256:97e9402f0be88d726e277a65165910480c3d6c98be8088037c13f96f90b14b1b
-source_sha256: 97e9402f0be88d726e277a65165910480c3d6c98be8088037c13f96f90b14b1b
+source_revision: sha256:bac41b723b1a33c469c76d86c66fac0d9560896cdf43517418395e615fd4358f
+source_sha256: bac41b723b1a33c469c76d86c66fac0d9560896cdf43517418395e615fd4358f
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -86,6 +86,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # Dublin pub trail: from Lower Bridge Street to St James's Gate
 
 The south bank of the Liffey puts two ways of drinking Guinness on one walking line: the old pub on Lower Bridge Street and the Storehouse at St James's Gate. The pub is still a working local; the Storehouse is a visitor centre in an old fermentation building. Two kilometres and half an hour apart, they fit into half a day. They ask one question: the same dark beer, drunk and displayed, is two different things.
@@ -155,3 +156,13 @@ The walk passes the old distillery sites around Lower Bridge Street and ends at 
 | Stop order | The Brazen Head、Guinness Storehouse: Telling the Black Stuff at St. James's Gate |
 
 **Sources and limits.** The key claims about Dublin pub trail: from Lower Bridge Street to St James's Gate are checked against the following sources: The Brazen Head (Used to check the 1198 origin claim and the 1754 building), Guinness Storehouse, Dublin Visitor Centre (Used for city context on the south quays, the Liberties and St James's Gate) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Guinness Storehouse: Telling the Black Stuff at St. James's Gate: Guinness Storehouse. Credit: Greatal386 at English Wikipedia, CC BY 2.5, via Wikimedia Commons.](/media/photos/q2-place-guinness-storehouse-df42c6a2.jpg)
+
+Image: Telling the Black Stuff at St. James's Gate: Guinness Storehouse. Credit: Greatal386 at English Wikipedia, CC BY 2.5, via Wikimedia Commons.. Credit: Greatal386 at English Wikipedia, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=12671330)). Related image for Dublin pub trail: from Lower Bridge Street to St James's Gate.
+
+![A bottle of Red Brick Porter and a glass of dark beer with a beige head.](/media/photos/drink-style-porter-241ce00e.jpg)
+
+Image: A bottle of Red Brick Porter and a glass of dark beer with a beige head.. Credit: Erik Cleves Kristensen, CC BY 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photo.gne?id=6175146624)). Related image for Dublin pub trail: from Lower Bridge Street to St James's Gate.

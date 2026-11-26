@@ -94,6 +94,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、票价与线路会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 轩尼诗干邑酒庄
 
 轩尼诗（Hennessy）是干邑历史最长的酒商之一，1765 年由爱尔兰人理查·轩尼诗（Richard Hennessy）在夏朗特河畔的干邑镇创立。今天向公众开放的并不是一栋孤立的厂房，而是一套以理查·轩尼诗码头为起点的参观体系：历史酒窖、陈年与调配空间、精品店，以及一条从河上进入老城的线路。要读懂这个地方，需要把三件事分开看——商行时代积累的贸易网络、以调配为核心的工艺体系，以及为访客设计的线路与价格梯度。
@@ -153,3 +154,9 @@ verification_scope: source-verified
 | 官网 | hennessy.com |
 
 **来源与边界。** 本页关于「轩尼诗干邑酒庄」的关键事实，主要由以下来源交叉核对：Hennessy（1765 年创立、理查·轩尼诗生平、Fillioux 调配师世家、1794 年与 1859 年的早期出口；10 条参观线路的名称、时长、价格与季节性运营）、BNIC（干邑法定产区、六个 cru 与夏朗特二次蒸馏的行业表述）、INAO（干邑作为原产地命名产品的管理框架）。产品、地址或营业状态变化较快时，以 hennessy.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![路威酩轩类别配图](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+图：路威酩轩类别配图。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：轩尼诗干邑酒庄。

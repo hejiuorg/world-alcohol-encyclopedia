@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 多切托
 
 多切托（Dolcetto）是意大利西北部皮埃蒙特三大红品种之一，与内比奥罗、巴贝拉并列。意大利语名字意为“小甜”，但成品几乎总是干型；它早熟、低酸、单宁可经柔和萃取变得圆润，酒色深紫，带黑樱桃、李子、甘草与标志性的苦杏仁余味。多数酒款为年轻时即饮，是朗格产区在昂贵内比奥罗与巴贝拉成熟之前的日常红酒（ref:piedmont）。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 - 想比较产区差别，可选同一年份一款 Dolcetto d'Alba 与一款 Dogliani Superiore，对比果香浓度、单宁粗细与苦杏仁余味的长短。
 
 对照阅读：[皮埃蒙特](ref:piedmont)、[巴贝拉](ref:barbera)。
+
+## 相关图像
+
+![内比奥罗](/media/photos/variety-nebbiolo-82c1e8bb.jpg)
+
+图：内比奥罗。图片：Hanna，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Close_up_of_Nebbiolo_cluster_in_Italy.jpg)）。关联图像：多切托。

@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:ice-cider
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1f1f5fe75b63d7c920fd60415ad4fa6f1607ea7f31c6cac7abd3940e90b907d3
-source_sha256: 1f1f5fe75b63d7c920fd60415ad4fa6f1607ea7f31c6cac7abd3940e90b907d3
+source_revision: sha256:8ceb4495dcf2bed804ba42776dc6020d24ae8c7f7d21b9de79597b6b4523aa32
+source_sha256: 8ceb4495dcf2bed804ba42776dc6020d24ae8c7f7d21b9de79597b6b4523aa32
 related:
   - relation: about
     target_id: drink-style:cider
@@ -78,6 +78,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Ice Cider
 
 A sweet apple cider from Quebec, made by fermenting naturally frozen or freeze-concentrated apple juice; high in both alcohol and sweetness, with apple, caramel, honey and acidity.
@@ -153,3 +154,9 @@ A useful comparison is a Quebec ice cider, a Vermont ice cider and a dry apple c
 - [Fermentation](ref:fermentation): sugar conversion to alcohol.
 - [Canada](ref:canada): Quebec’s regional background.
 - [Dessert wine](ref:dessert-wine): sweet-wine categories and residual sugar.
+
+## Related images
+
+![A dessert red apple. Cider apples are usually smaller, more acidic or more astringent, bred for a different purpose.](/media/photos/ingredient-apple-9b1f2b38.jpg)
+
+Image: A dessert red apple. Cider apples are usually smaller, more acidic or more astringent, bred for a different purpose.. Credit: Abhijit Tembhekar, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_Apple.jpg)). Related image for Ice Cider.

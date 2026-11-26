@@ -77,6 +77,7 @@ rights:
   note: 企业官网与博物馆页面仅作事实核对，不复制其文案与图片；第三方图片不在本许可内。本页未使用企业标识或产品照片。
 verification_scope: source-verified
 ---
+
 # 张裕创建（1892）：中国近代葡萄酒工业的起点
 
 1892 年，南洋华侨张弼士投资 300 万两白银，在山东烟台芝罘湾畔创办张裕酿酒公司。它被普遍视为中国近代工业化葡萄酒生产的起点：不是一间传统酒坊的扩建，而是一家按工业化方式引种、建窖、聘请酿酒师、组织生产与销售的新式企业。
@@ -157,3 +158,9 @@ verification_scope: source-verified
 - [中国](ref:china)：中国酒类的产区与品类背景。
 
 相关条目：[中国](ref:china)、[张裕葡萄酒](ref:changyu-wine)、[张裕酒文化博物馆](ref:changyu-museum)。
+
+## 相关图像
+
+![1915 年巴拿马太平洋万国博览会相关实景照片](/media/photos/historical-event-panama-pacific-exposition-1915-15cbe9d8.jpg)
+
+图：1915 年巴拿马太平洋万国博览会相关实景照片。图片：Cardinell-Vincent Company，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Japan_Beautiful,_Panama-Pacific_International_Exposition,_San_Francisco,_1915.jpg)）。关联图像：张裕创建（1892）：中国近代葡萄酒工业的起点。

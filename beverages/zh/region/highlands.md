@@ -82,6 +82,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 高地
 
 苏格兰高地是苏格兰威士忌面积最大的法定产区，从大陆北部与西部一直延伸到东部边界，并包括[艾雷岛](ref:islay)以外的岛屿。它既是法律上的产区名称，也是一组松散的风味印象；把高地当作单一风格，是理解它时最常见的偏差。
@@ -139,3 +140,13 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「高地」的关键事实，主要由以下来源交叉核对：UK Government (legislation.gov.uk)（高地作为受保护地方名称的法律地位与范围）、Scotch Whisky Association (SWA)（苏格兰威士忌的产区体系、酒厂分布与产业信息）、Oxford University Press（提供关于高地、苏格兰蒸馏与风味的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「高地」与「苏格兰」、「威士忌」、「斯佩塞」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![艾雷岛类别配图](/media/photos/q2-place-scotch-whisky-experience-fa14dbdc.jpg)
+
+图：艾雷岛类别配图。图片：Ank Kumar，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=98613535)）。关联图像：高地。
+
+![斯佩塞类别配图](/media/photos/place-glenfiddich-distillery-d6ab0496.jpg)
+
+图：斯佩塞类别配图。图片：Coldupnorth，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenfiddich_Distillery_View.jpg)）。关联图像：高地。

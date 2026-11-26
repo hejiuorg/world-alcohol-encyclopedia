@@ -75,6 +75,7 @@ rights:
   note: 第三方行业资料、档案说明与法律文本仅作事实核对，不复制其译文、图表与地图；本页图片按各自许可见图注署名，未绘制无出处的地图。
 verification_scope: source-verified
 ---
+
 # 香槟区划界（1927）：地名、地块与一场划界战争
 
 1927 年 7 月 22 日，法国通过法律正式划定香槟葡萄产区。它以 1908 年法令确定的马恩省、埃纳省市镇为基础，加上奥布省三镇，以及 1919 至 1924 年收获申报中主张“香槟”命名的市镇，共 407 个市镇。法律的关键不在省界，而在地块：只有当时已经种葡萄、或在根瘤蚜危机前种过葡萄的土地，才有权使用“香槟”命名。
@@ -153,3 +154,9 @@ verification_scope: source-verified
 补充阅读：[1855年波尔多分级：一张为世博会赶出的名单](ref:c-extra-1)。
 
 相关条目：[法国](ref:france)、[香槟协会：种植者与酒商如何共同管理一个产区](ref:champagne)、[法国 AOC 制度（1935）：原产地控制命名的诞生](ref:aoc-1935)。
+
+## 相关图像
+
+![香槟协会：种植者与酒商如何共同管理一个产区相关实景照片](/media/photos/organization-comite-champagne-b103fb0a.jpg)
+
+图：香槟协会：种植者与酒商如何共同管理一个产区相关实景照片。图片：Bonnedame, Raphaël-Frédéric (1843-1870). Fonction indéterminée Cornu, Fernand (18..-19..?). Fonction indéterminée Testulat-Gaspar, A. (18..-18..? ; cartographe)，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Carte_viticole_%26_vinicole_de_la_Champagne_-_dress%C3%A9e_par_les_soins_de_MM._Bonnedame_%26_Fils,_directeurs_du_journal_%22Le_Vigneron_Champenois%22_;_dessin%C3%A9e_par_Fernand_Cornu_Sous_les_auspices_du_Comit%C3%A9_Vinicole_Central..._-_btv1b53020922z.jpg)）。关联图像：香槟区划界（1927）：地名、地块与一场划界战争。

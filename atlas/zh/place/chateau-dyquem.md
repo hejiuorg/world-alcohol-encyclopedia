@@ -94,6 +94,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观价格、场次与年份供应会变化，以官方预约为准。
 verification_scope: source-verified
 ---
+
 # 滴金酒庄
 
 从 Bordeaux 往南，公路穿过 Graves 的松林与砾石地，进入 Sauternes 后，地势开始起伏。滴金在村外最高的山丘上，主楼是浅色石头、深灰屋顶、两座圆塔与一段城墙；门前是修剪过的草地与一条碎石路。站在坡上往下看，葡萄园一直铺到雾线；早晨的雾与下午的阳光，是这家酒庄最重要的工作条件之一。
@@ -169,3 +170,9 @@ Ygrec 是干型，带柑橘、白花、蜂蜡与矿物，适合配海鲜、白�
 - Cazebonne 档案：<https://cazebonne.fr/en/bordeaux-wine-estates/chateau-d-yquem>，用于交叉核对 1855 年唯一 Premier Cru Supérieur、约 100 公顷、每株一杯与十个未装瓶年份。
 - 右岸与左岸对照：[Cheval Blanc](ref:cheval)、[Pétrus](ref:petrus)、[Margaux](ref:margaux)、[Latour](ref:latour)、[Haut-Brion](ref:hautbrion)、[Lafite](ref:lafite)。
 - 路线与产区：[波尔多左岸酒庄路线](ref:route)、[波尔多产区](ref:bordeaux)。
+
+## 相关图像
+
+![佩萨克城边的侯伯王酒庄外观](/media/photos/place-chateau-haut-brion-b7f17baf.jpg)
+
+图：佩萨克城边的侯伯王酒庄外观。图片：BillBl，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Haut_Brion_exterior.jpg)）。关联图像：滴金酒庄。

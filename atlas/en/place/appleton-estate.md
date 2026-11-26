@@ -88,8 +88,8 @@ verification_scope: source-verified
 translation_of: place:appleton-estate
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5f392186d9359184422c60961ffcd24fabd61f95381a06032072b0b3c4b4dac2
-source_sha256: 5f392186d9359184422c60961ffcd24fabd61f95381a06032072b0b3c4b4dac2
+source_revision: sha256:36eab43cea85418e98613f2cd9990a82fa01dde0c2dcdee7b598a165ea0fb793
+source_sha256: 36eab43cea85418e98613f2cd9990a82fa01dde0c2dcdee7b598a165ea0fb793
 ---
 
 # Appleton Estate
@@ -161,3 +161,9 @@ Public transport on Jamaica’s south coast is not suited to linking these point
 - Caribbean rum comparisons: [Foursquare](ref:foursquare), [Mount Gay](ref:mountgay), [Havana Club Rum Museum](ref:havana), [Santiago Rum Museum](ref:santiago), [Barbados rum route](ref:route).
 
 **Short definition:** A rum estate in the Nassau Valley of St. Elizabeth, Jamaica. Official history dates it to Francis Dickinson’s 1670 establishment and the earliest documented legal distillation to 1749. It is Jamaica’s oldest continuously operating distillery, known for limestone-filtered water, tropical ageing and single-estate rum. Joy Spence joined in 1981 and became the industry’s first female Master Blender in 1997, when the visitor centre also opened. It is now part of Campari Group’s J. Wray & Nephew; the “Joy Spence Appleton Estate Rum Experience” includes a guided visit and tasting.
+
+## Related images
+
+![Foursquare Rum Distillery](/media/photos/place-foursquare-rum-distillery-c949ec7b.jpg)
+
+Image: Foursquare Rum Distillery. Credit: Unknown author Unknown author, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery.jpg)). Related image for Appleton Estate.

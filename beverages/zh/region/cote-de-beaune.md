@@ -77,6 +77,7 @@ rights:
   note: 第三方商标、地图与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 博讷丘
 
 博讷丘（Côte de Beaune）是勃艮第金丘南段、从 Ladoix-Serrigny 延伸至 Santenay 的葡萄酒产区。与夜丘以黑皮诺为主不同，博讷丘以霞多丽白葡萄酒闻名，但它同样出产优质黑皮诺红酒；8 个特级园中，只有 Corton 以红葡萄酒为主，这一结构使它在勃艮第的分级地图上格外特殊。
@@ -159,3 +160,13 @@ Corton 特级园内部还分为 Clos du Roi、Bressandes、Renardes 等地块，
 - [黑皮诺](ref:pinot-noir)：Corton 等红葡萄酒的品种基础。
 - [白葡萄酒](ref:white-wine)：静止白葡萄酒的类别与酿造概览。
 - [风土](ref:terroir)：坡位、土层与地块差异。
+
+## 相关图像
+
+![“勃艮第”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：博讷丘。
+
+![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+图：黑皮诺。图片：Cjp24，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)）。关联图像：博讷丘。

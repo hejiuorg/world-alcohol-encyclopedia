@@ -66,6 +66,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 霞多丽
 
 霞多丽（Chardonnay）是重要的白葡萄品种，学名 Vitis vinifera。遗传研究显示，它的亲本是黑皮诺（Pinot Noir）与白高维斯（Gouais Blanc）。霞多丽自身香气偏中性、适应性强，因此常被形容为“酿酒师的画布”：气候、土壤、发酵温度、酒泥接触、苹果酸乳酸发酵与橡木桶使用，都会显著改变最终风格。
@@ -134,3 +135,9 @@ verification_scope: source-verified
 - [起泡酒](ref:sparkling)：传统法起泡酒的工艺与品种组合。
 - [唐·培里侬](ref:dom-perignon)：香槟中霞多丽角色的具体例子。
 - [葡萄酒](ref:wine)：理解霞多丽的类别、年份与产地规则的入口。
+
+## 相关图像
+
+![起泡酒](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+图：起泡酒。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：霞多丽。

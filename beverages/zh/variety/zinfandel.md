@@ -80,6 +80,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 仙粉黛
 
 仙粉黛（Zinfandel）是加州最具辨识度的红葡萄，也是少数在旧世界与新世界都占据重要位置的品种。它在意大利普利亚被称为普里米蒂沃（Primitivo），在克罗地亚达尔马提亚则保留着 Tribidrag 与 Crljenak Kaštelanski 两个古老名字。浓郁的黑莓果酱、黑胡椒与高酒精度是它最常见的面貌，但真正优秀的老藤仙粉黛也能给出香料、干草与矿物般的细节。要理解这个品种，最好把它放回移民史、海运与加州淘金热的脉络中，而不是只读酒标上的“old vine”(ref:wine)。
@@ -135,3 +136,9 @@ verification_scope: source-verified
 - [美国](ref:usa)：仙粉黛最重要的现代产区。
 - [意大利](ref:italy)：普里米蒂沃的产地与法规背景。
 - [酒精度](ref:alcohol-by-volume)：理解仙粉黛高酒精风格的关键指标。
+
+## 相关图像
+
+![“意大利”页面配图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-italy-202d4c25.jpg)
+
+图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：仙粉黛。

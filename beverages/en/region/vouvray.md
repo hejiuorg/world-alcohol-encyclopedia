@@ -25,8 +25,8 @@ tags:
 translation_of: region:vouvray
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:21273740ff122b8ef9593cf8ba72831b0c225fb272646c67cbde6ffd7d166116
-source_sha256: 21273740ff122b8ef9593cf8ba72831b0c225fb272646c67cbde6ffd7d166116
+source_revision: sha256:826c08da1a8381e132d1612a1dec6cec2d79a03ced4b8664a3e69306b8bc298b
+source_sha256: 826c08da1a8381e132d1612a1dec6cec2d79a03ced4b8664a3e69306b8bc298b
 related:
   - relation: about
     target_id: region:loire
@@ -182,3 +182,13 @@ A half-day fits two or three estates with cave cellars plus lunch; basing yourse
 With more time, pair Vouvray with left-bank Montlouis as a comparison route, tasting both banks' Chenin in one day to read slope, plateau and valley micro-terrain differences. Leave driving time between tastings; map distance is not real road time.
 
 - Related: [loire](ref:loire), [chenin-blanc](ref:chenin), [sparkling-wine](ref:sparkling), [white-wine](ref:white), [terroir](ref:terroir).
+
+## Related images
+
+![Loire Valley](/media/photos/region-loire-d93c2c1f.jpg)
+
+Image: Loire Valley. Credit: Wikimedia Commons contributor, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Azay_le_rideau.jpg)). Related image for Vouvray.
+
+![Chenin Blanc](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+Image: Chenin Blanc. Credit: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)). Related image for Vouvray.

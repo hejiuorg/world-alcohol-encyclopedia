@@ -104,6 +104,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、票务与展陈会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 青岛啤酒博物馆
 
 青岛啤酒博物馆在青岛市市北区登州路 56 号，2003 年 8 月 15 日开馆，那天正是青岛啤酒的百年华诞。馆址是 1903 年德资啤酒厂的原址，博物馆因此把企业史、德式工业建筑、老设备与啤酒消费放在同一个空间里。它既是一座国家一级博物馆，也是一处仍在运转的啤酒厂参访点；这两重身份决定了它和普通“看展”博物馆很不一样。
@@ -207,3 +208,9 @@ verification_scope: source-verified
 补充阅读：[青岛啤酒股份有限公司](ref:c-extra-1)、[青岛啤酒](ref:c-extra-2)、[A Ginjinha](ref:c-extra-3)。
 
 相关条目：[啤酒](ref:beer)、[中国](ref:china)、[青岛啤酒股份有限公司](ref:c-extra-1)。
+
+## 相关图像
+
+![青岛啤酒](/media/photos/drink-shandong-tsingtao-37e48279.jpg)
+
+图：青岛啤酒。图片：Lennartbj，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_in_Qingdao.jpg)）。关联图像：青岛啤酒博物馆。

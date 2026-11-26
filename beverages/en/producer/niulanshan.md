@@ -53,6 +53,12 @@ sources:
     publisher: 北京顺鑫控股集团有限公司
     note: Used to verify the er-guotou craft and national intangible cultural heritage statement; no source text is reproduced.
     accessed: 2026-11-04
+  - key: shunxin-niulanshan
+    title: "Shunxin Holdings — Niulanshan Distillery"
+    url: "https://www.shunxinholdings.com/gysx/index.aspx?nodeid=107"
+    publisher: "Beijing Shunxin Holdings Group"
+    note: "Used to check the distillery location, its role as an Erguotou birthplace and its self-owned brewing scale; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0

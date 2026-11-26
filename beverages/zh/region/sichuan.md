@@ -99,6 +99,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 四川省
 
 四川省位于中国西南，盆地地形与湿润气候为酿酒提供了独特条件。它是浓香型白酒的核心产区，宜宾、泸州、成都平原与邛崃构成产业带，五粮液、泸州老窖等生产者集中。四川白酒的工艺基础是多粮配方、续糟发酵与泥窖生香，与贵州酱香型形成鲜明对照。
@@ -200,3 +201,13 @@ verification_scope: source-verified
 | 国家代码 | CN |
 
 **来源与边界。** 本页关于「四川省」的关键事实，主要由以下来源交叉核对：四川省人民政府（行政区划、产业布局与公开的省情信息）、国家市场监督管理总局、国家标准化管理委员会（白酒、制曲、发酵与蒸馏工艺术语；饮料酒分类与术语）、OIV（补充核对条目背景、术语与制度口径）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![国窖1573](/media/photos/drink-guojiao-1573-0e97e137.jpg)
+
+图：国窖1573。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)）。关联图像：四川省。
+
+![五粮液](/media/photos/drink-sichuan-wuliangye-27081149.jpg)
+
+图：五粮液。图片：东京村子，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E4%BA%94%E7%B2%AE%E6%B6%B2%E6%97%97%E8%88%B0%E5%BA%97_-_panoramio.jpg)）。关联图像：四川省。

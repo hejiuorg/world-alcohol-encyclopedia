@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:wuliangye-estate
 source_lang: zh
-source_revision: sha256:9ff0e03ade064a604e10e4b6a6f8dcc081deae1907e7988df9ad45eee104ef3a
-source_sha256: 9ff0e03ade064a604e10e4b6a6f8dcc081deae1907e7988df9ad45eee104ef3a
+source_revision: sha256:3b8b0f49ea198680cc514d2d8a6d506ade12978bd82e10e068ed158305644c4f
+source_sha256: 3b8b0f49ea198680cc514d2d8a6d506ade12978bd82e10e068ed158305644c4f
 translation_status: reviewed
 subtype: distillery-visitor
 address: 150 Minjiang West Road, Cuiping District, Yibin, Sichuan, China (Wuliangye plant)
@@ -69,25 +69,25 @@ sources:
     title: 国家文物局博物馆年报 — 五粮液酒文化博览馆
     url: http://nb.ncha.gov.cn/museumdetail.html?msg=695e97ba55204e019622a4a0c22255c5&nianfen=2025
     publisher: 国家文物局
-    note: 用于核对五粮液酒文化博览馆的设立、展陈面积、开放信息与馆舍地址；未复制原文。
+    note: 用于核对五粮液酒文化博览馆的设立、展陈面积、开放信息与馆舍地址；未复制原文.
     accessed: 2026-11-25
   - key: yibin-gov
     title: 宜宾市人民政府 — 中国酒都宜宾
     url: https://www.yibin.gov.cn/xxgk/rdgz/202309/t20230911_1903005.html
     publisher: 宜宾市人民政府
-    note: 用于核对宜宾酒都背景、五粮液厂区与酒文化博览馆的公开介绍；未复制原文。
+    note: 用于核对宜宾酒都背景、五粮液厂区与酒文化博览馆的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: wuliangye-about
     title: Wuliangye Group — About us
     url: https://www.wuliangye.com.cn/en/about/Introduce.html
     publisher: Wuliangye Group
-    note: 用于核对五粮液集团以酒业为主、发酵池与古窖池群的公开介绍；未复制原文。
+    note: 用于核对五粮液集团以酒业为主、发酵池与古窖池群的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: sc-red-base
     title: 四川省网上红色基地 — 五粮液酒文化博物馆
     url: https://hsjd.scdjw.com.cn/cover01.html?id=116
     publisher: 四川省网上红色基地
-    note: 用于核对五粮液酒文化博物馆的始建、展陈与教育基地信息；未复制原文。
+    note: 用于核对五粮液酒文化博物馆的始建、展陈与教育基地信息；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -103,7 +103,7 @@ Wuliangye in Yibin is not a single sight but a production and exhibition distric
 
 ![Wuliangye Distillery (Ten-Li Liquor City) bilingual editorial visual card](/media/figures/specific/place-wuliangye-estate.svg)
 
-图：Wuliangye Distillery (Ten-Li Liquor City) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Wuliangye Distillery (Ten-Li Liquor City) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers who want to understand large-scale strong-aroma baijiu production and are willing to book ahead; pairs well with the wine-culture museum for a half or full day.
@@ -155,9 +155,15 @@ Buying wine is separate from visiting. Prices around the estate are not necessar
 
 ## References
 
-- 国家文物局博物馆年报 — 五粮液酒文化博览馆 — http://nb.ncha.gov.cn/museumdetail.html?msg=695e97ba55204e019622a4a0c22255c5&nianfen=2025 (国家文物局, checked 2026-11-25)
-- 宜宾市人民政府 — 中国酒都宜宾 — https://www.yibin.gov.cn/xxgk/rdgz/202309/t20230911_1903005.html (宜宾市人民政府, checked 2026-11-25)
+- nb.ncha.gov.cn — official source — http://nb.ncha.gov.cn/museumdetail.html?msg=695e97ba55204e019622a4a0c22255c5&nianfen=2025 (checked 2026-11-25)
+- yibin.gov.cn — official source — https://www.yibin.gov.cn/xxgk/rdgz/202309/t20230911_1903005.html (checked 2026-11-25)
 - Wuliangye Group — About us — https://www.wuliangye.com.cn/en/about/Introduce.html (Wuliangye Group, checked 2026-11-25)
-- 四川省网上红色基地 — 五粮液酒文化博物馆 — https://hsjd.scdjw.com.cn/cover01.html?id=116 (四川省网上红色基地, checked 2026-11-25)
+- hsjd.scdjw.com.cn — official source — https://hsjd.scdjw.com.cn/cover01.html?id=116 (checked 2026-11-25)
 
 Related entries: [Wuliangye Wine Culture Museum](ref:museum), [Yibin Wuliangye route](ref:route), [Wuliangye](ref:brand), [Wuliangye Group](ref:producer), [strong-aroma baijiu](ref:style), [Sichuan](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Wuliangye](/media/photos/brand-wuliangye-27081149.jpg)
+
+Image: Wuliangye. Credit: 东京村子, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E4%BA%94%E7%B2%AE%E6%B6%B2%E6%97%97%E8%88%B0%E5%BA%97_-_panoramio.jpg)). Related image for Wuliangye Distillery (Ten-Li Liquor City).

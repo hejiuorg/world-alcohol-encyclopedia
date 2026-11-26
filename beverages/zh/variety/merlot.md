@@ -70,6 +70,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 梅洛
 
 梅洛是国际种植最广的红葡萄品种之一，原产于法国波尔多。它的果粒中等、皮较薄，成熟较早，单宁与酸度都不算高，因而常被描述为“柔顺、易饮”。在波尔多，梅洛既是右岸的主角，也是左岸混酿中负责柔化结构的重要成分。
@@ -153,3 +154,9 @@ verification_scope: source-verified
 **适用边界。** 对「梅洛」而言，品种表现随产区、气候与克隆选择变化；同名品种在不同国家可能指不同材料。
 
 **更新提示。** 「梅洛」最近核对于 2026-11-04；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
+
+## 相关图像
+
+![拉菲古堡红葡萄酒](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+图：拉菲古堡红葡萄酒。图片：PA，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)）。关联图像：梅洛。

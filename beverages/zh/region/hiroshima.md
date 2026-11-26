@@ -101,6 +101,7 @@ rights:
   note: 第三方组合资料、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 广岛
 
 广岛是[日本](ref:japan)濑户内海侧的[清酒](ref:sake)产区，常与“西条酒藏群”“软水酿造法”“吟醸”三个关键词一起出现。它的产地结构不是单一城市，而是由东广岛市西条、安艺津、吴市等沿海与内陆酒藏共同组成；理解广岛，要同时看酒藏建筑、水的硬度、杜氏传统与酒米酵母的技术路线。
@@ -195,3 +196,13 @@ verification_scope: source-verified
 - 今田酒造本店「富久長の想い」：https://fukucho.jp/pages/philosophy
 - 三宅本店「千福の酒造り」：https://sempuku.co.jp/efforts/award/
 - 国税庁「清酒の製法品質表示基準を定める件」：https://www.nta.go.jp/taxes/sake/hyoji/seishu/kokuji891122/03.htm
+
+## 相关图像
+
+![贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。](/media/photos/place-kamoizumi-1a83eed9.jpg)
+
+图：贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。。图片：Lumi iori，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamoizumi_shuzou.jpg)）。关联图像：广岛。
+
+![吟酿相关实景照片](/media/photos/drink-style-ginjo-sake-4e3c0fe6.jpg)
+
+图：吟酿相关实景照片。图片：halfrain，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8_(Junmai_Ginjo)_(15656231855).jpg)）。关联图像：广岛。

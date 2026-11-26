@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:rice-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4636afb83dcae353140715b253e1d4d71866ca88945652ecc12af19cd632298e
-source_sha256: 4636afb83dcae353140715b253e1d4d71866ca88945652ecc12af19cd632298e
+source_revision: sha256:341fc00ddabfd655f1f389ee5f0c22806dd6e7c802fc0da9afb32b74a0746666
+source_sha256: 341fc00ddabfd655f1f389ee5f0c22806dd6e7c802fc0da9afb32b74a0746666
 legacy_refs: []
 aliases:
   - Mixiangxing baijiu
@@ -91,6 +91,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Rice-aroma baijiu
 
 Rice-aroma is the lightest branch of Chinese baijiu: rice is the only material, xiaoqu is the koji, fermentation is semi-solid, distillation uses a pot still, and the aroma is led by ethyl lactate and beta-phenylethanol. It has no strong-aroma pit mud and no high-temperature multi-round sauce process, nor does it use the low-temperature daqu and earthen jars of light aroma. Understanding rice aroma means understanding a deliberate choice of "less is more".
@@ -180,3 +181,9 @@ First, that rice aroma is rice wine. Rice wine is fermented; rice aroma is disti
 - [Koji making](ref:qu-making): the microbiology of xiaoqu.
 - [Fermentation](ref:fermentation): saccharification and alcohol production in semi-solid fermentation.
 - [Distillation](ref:distillation): pot distillation and the cut.
+
+## Related images
+
+![Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.](/media/photos/ingredient-water-edf289bf.jpg)
+
+Image: Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.. Credit: Jorge Barrios, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)). Related image for Rice-aroma baijiu.

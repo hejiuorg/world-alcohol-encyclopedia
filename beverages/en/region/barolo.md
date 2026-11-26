@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:barolo
 source_lang: zh
-source_revision: sha256:75538d6e4131692da9b5ba80d4b0ef44b0e60bbd9522bf9881e4b10adfd03fb6
-source_sha256: 75538d6e4131692da9b5ba80d4b0ef44b0e60bbd9522bf9881e4b10adfd03fb6
+source_revision: sha256:c2f57cf38b1ecd17e6984c01bbff1ee9ee2545bb04169ae1677fc86a353f5172
+source_sha256: c2f57cf38b1ecd17e6984c01bbff1ee9ee2545bb04169ae1677fc86a353f5172
 translation_status: reviewed
 level: city
 parent_id: region:italy
@@ -82,6 +82,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Barolo
 
 Barolo is the red-wine DOCG of the Langhe hills in Cuneo province, Piedmont, promoted to guaranteed designation of origin by presidential decree on 1 July 1980 and made exclusively from 100% Nebbiolo. Its core is the three entire municipalities of Barolo, Castiglione Falletto and Serralunga d'Alba, plus parts of eight others — Monforte d'Alba, Novello, La Morra, Verduno, Grinzane Cavour, Diano d'Alba, Cherasco and Roddi — 11 municipalities in all.
@@ -156,3 +157,13 @@ Setting [Italy](ref:italy)'s geographic boundary beside [Nebbiolo](ref:nebbiolo)
 - [Red wine](ref:red-wine): an overview of still red winemaking.
 - [Oak ageing](ref:oak-ageing): cask type, age and micro-oxygenation.
 - [Terroir](ref:terroir): a framework for slope, soil and site difference.
+
+## Related images
+
+![Photograph for Piedmont: Piedmont vineyard in autumn. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-piedmont-86c6d640.jpg)
+
+Image: Piedmont vineyard in autumn. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=5816942)). Related image for Barolo.
+
+![Photograph for Italy: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-italy-202d4c25.jpg)
+
+Image: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=35825496)). Related image for Barolo.

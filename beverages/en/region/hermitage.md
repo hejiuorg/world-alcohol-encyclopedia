@@ -25,8 +25,8 @@ tags:
 translation_of: region:hermitage
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:67a0e0d63e29576a2ed93ca69dd3c266b2748d7ff888c16bf5e8148f117191ed
-source_sha256: 67a0e0d63e29576a2ed93ca69dd3c266b2748d7ff888c16bf5e8148f117191ed
+source_revision: sha256:f13189d96816c7815dc6eddaaf7c2a87fd9247b72bcdd754403b6a2306bb82ce
+source_sha256: f13189d96816c7815dc6eddaaf7c2a87fd9247b72bcdd754403b6a2306bb82ce
 related:
   - relation: about
     target_id: region:rhone
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Hermitage
 
 The granite hill behind Tain-l’Hermitage in the Northern Rhône, made up of 13 lieux-dits; reds are mainly Syrah, whites Marsanne and Roussanne, with small volumes and long ageing potential, one of the Rhône’s most famous hill appellations.![Hermitage](/media/photos/region-hermitage-e64ee188.jpg)
@@ -165,3 +166,13 @@ Hermitage is a single hill appellation in the Northern Rhône, with 13 lieux-dit
 | Level | other |
 | Parent | Rhône Valley |
 | Country code | FR |
+
+## Related images
+
+![Photograph for Viognier: Viognier Grape must after pressing. Credit: Ian Brown, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-viognier-0ccec251.jpg)
+
+Image: Viognier Grape must after pressing. Credit: Ian Brown, CC BY 2.0, via Wikimedia Commons.. Credit: Ian Brown, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13317886)). Related image for Hermitage.
+
+![Rhône Valley](/media/photos/region-rhone-df823b9c.jpg)
+
+Image: Rhône Valley. Credit: Béa at French Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Thain1.jpg)). Related image for Hermitage.

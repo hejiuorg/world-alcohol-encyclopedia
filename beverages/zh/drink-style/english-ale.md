@@ -80,6 +80,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 英式艾尔
 
 英式艾尔是一个家族，不是一款酒。酒吧里日常的苦啤、颜色更浅的淡色艾尔、历史上的英式 IPA、深色的波特与世涛，都可以归在这个名字下。它们共享上层发酵、以麦芽为骨架、用酒花做平衡、追求适饮性而非极端强度这几条底线，却在颜色、苦味、酒精度与侍酒方式上各走各的路。
@@ -154,3 +155,9 @@ IPA 的历史与 18 至 19 世纪英国向印度出口啤酒有关：为经受�
 - [大麦](ref:barley)：麦芽与英式艾尔酒体的基础。
 
 相关条目：[啤酒](ref:beer)、[英国](ref:uk)。
+
+## 相关图像
+
+![英国类别配图](/media/photos/route-london-gin-route-abe0a9c8.jpg)
+
+图：英国类别配图。图片：Decatur Wine & Spirits，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)）。关联图像：英式艾尔。

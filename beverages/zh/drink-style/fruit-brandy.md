@@ -93,6 +93,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 水果白兰地/生命之水
 
 水果白兰地（法语 eau-de-vie，字面意思是"生命之水"）是以新鲜果实或果汁发酵后再蒸馏得到的无色透明烈酒；与葡萄原料的[白兰地](ref:brandy)、压榨后果渣原料的果渣酒（marc）不同，它的原料是完整水果或果汁，香气直接来自果实本身。常见品类包括樱桃酒 kirsch、梨酒 Poire Williams、黄香李 mirabelle、覆盆子 framboise、李子 slivovitz 与德语区 Obstler；市售主流产品酒精度多在 40–50%，通常不经橡木桶陈年，卖点是接近鲜果的清香。
@@ -157,3 +158,9 @@ verification_scope: source-verified
 - 想建立味觉边界，可以先从一支梨酒和一支樱桃酒入手，对比同温度、同杯型下果香、果核杏仁味与酒精骨架的差别，再尝试浆果或李子版本。
 
 对照阅读：[白兰地](ref:brandy)、[樱桃](ref:cherry)。
+
+## 相关图像
+
+![Pear：D'anjou pear（Wikimedia Commons）](/media/photos/ingredient-pear-b52a23ae.jpg)
+
+图：Pear：D'anjou pear（Wikimedia Commons）。图片：Rhododendrites，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:D%27anjou_pear.jpg)）。关联图像：水果白兰地/生命之水。

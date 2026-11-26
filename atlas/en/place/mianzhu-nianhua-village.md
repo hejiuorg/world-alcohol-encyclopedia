@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:mianzhu-nianhua-village
 source_lang: zh
-source_revision: sha256:662b3934262ef44664c893c78b4df2891bfa0d107433aec7fc701443bb2e6b04
-source_sha256: 662b3934262ef44664c893c78b4df2891bfa0d107433aec7fc701443bb2e6b04
+source_revision: sha256:c4151cecba4f3fe52f5c2c836119354b8345da5ce7f0076dc28f5238ae062daf
+source_sha256: c4151cecba4f3fe52f5c2c836119354b8345da5ce7f0076dc28f5238ae062daf
 translation_status: reviewed
 subtype: museum
 address: New Year Picture Village, Xiaode, Mianzhu, Deyang, Sichuan, China
@@ -68,24 +68,24 @@ sources:
     title: 绵竹市人民政府 — 美丽绵竹
     url: https://www.mz.gov.cn/meilimianzhu.htm
     publisher: 绵竹市人民政府
-    note: 用于核对绵竹的地理位置、酒业与年画等城市信息；未复制原文。
+    note: 用于核对绵竹的地理位置、酒业与年画等城市信息；未复制原文.
     accessed: 2026-11-25
   - key: jnc-about
     title: 剑南春 — 关于剑南春
     url: https://www.jnc.cn/about
     publisher: 四川剑南春（集团）有限责任公司
-    note: 用于核对剑南春的产地、历史与浓香型白酒工艺的公开介绍；未复制原文。
+    note: 用于核对剑南春的产地、历史与浓香型白酒工艺的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: deyang-gov
     title: 德阳市人民政府
     url: https://www.deyang.gov.cn/
     publisher: 德阳市人民政府
-    note: 用于核对绵竹属德阳代管的行政区划与公开城市信息；未复制原文。
+    note: 用于核对绵竹属德阳代管的行政区划与公开城市信息；未复制原文.
     accessed: 2026-11-25
   - key: gb2260
     title: GB/T 2260-2007 中华人民共和国行政区划代码
     publisher: 国家标准化管理委员会
-    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文。
+    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -101,7 +101,7 @@ Mianzhu New Year pictures are national intangible cultural heritage, and the vil
 
 ![Mianzhu New Year Picture Village (Xiaode) bilingual editorial visual card](/media/figures/specific/place-mianzhu-nianhua-village.svg)
 
-图：Mianzhu New Year Picture Village (Xiaode) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Mianzhu New Year Picture Village (Xiaode) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers interested in woodblock prints, folk art and family workshops; pairs with the Jiannanchun site for a Mianzhu day.
@@ -153,9 +153,17 @@ This page does not present the village as a "baijiu region sight". It is for und
 
 ## References
 
-- 绵竹市人民政府 — 美丽绵竹 — https://www.mz.gov.cn/meilimianzhu.htm (绵竹市人民政府, checked 2026-11-25)
-- 剑南春 — 关于剑南春 — https://www.jnc.cn/about (四川剑南春（集团）有限责任公司, checked 2026-11-25)
-- 德阳市人民政府 — https://www.deyang.gov.cn/ (德阳市人民政府, checked 2026-11-25)
-- GB/T 2260-2007 中华人民共和国行政区划代码 (国家标准化管理委员会, checked 2026-11-25)
+- mz.gov.cn — official source — https://www.mz.gov.cn/meilimianzhu.htm (checked 2026-11-25)
+- jnc.cn — official source — https://www.jnc.cn/about (checked 2026-11-25)
+- deyang.gov.cn — official source — https://www.deyang.gov.cn/ (checked 2026-11-25)
+- Official source — official source —  (checked 2026-11-25)
 
 Related entries: [Jiannanchun workshop site](ref:cellars), [Mianzhu Jiannanchun route](ref:route), [Sichuan](ref:region), [China](ref:regioncn), [Wine and painting](ref:art), [History of Chinese wine](ref:history), [First baijiu guide](ref:guide), [Jiannanchun](ref:brand).
+
+## Related images
+
+![Sichuan](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+Image: Sichuan. Credit: FISU, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)). Related image for Mianzhu New Year Picture Village (Xiaode).
+
+The administrative division reference is the 2007 edition of GB/T 2260.

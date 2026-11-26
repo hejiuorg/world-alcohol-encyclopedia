@@ -23,8 +23,8 @@ tags:
 translation_of: variety:pais
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e3c81ed70cba16776d45dffcfbc543f9c745721a168a07b30bb5d925b5a8a256
-source_sha256: e3c81ed70cba16776d45dffcfbc543f9c745721a168a07b30bb5d925b5a8a256
+source_revision: sha256:a6c613dd463a35292022bcf8015e5e2c26d6baa5f635bce01f67675d2115ebf5
+source_sha256: a6c613dd463a35292022bcf8015e5e2c26d6baa5f635bce01f67675d2115ebf5
 related:
   - relation: about
     target_id: region:itata
@@ -97,6 +97,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # País
 
 País is one of Chile's oldest cultivated red grapes, today preserved mainly in dry old vineyards of Maule, Itata and Bío-Bío in the south. Its thin skins give a pale colour, acidity stays bright and tannins stay soft; red cherry, strawberry, dried herbs, white pepper and earth are the usual notes. It was the workhorse of Chile's bulk-wine era and has been reassessed in the recent natural-wine revival.
@@ -163,3 +164,9 @@ The third misreading is to equate País with Listán Negro, Mission or Criolla C
 The most useful comparison is to set an old-vine Itata or Maule wine beside traditional Cinsault or Carignan from the same place, recording acidity, fruit concentration and tannin differences; then contrast a pipeño-style natural wine with a refined version to see how far winemaking pushes this line. País remains a regional variety, and synonyms, clone assignments and area figures shift with the survey year; for formal citation, check the VIVC register and official regional statistics.
 
 - Related: [itata](ref:itata), [red-wine](ref:red), [terroir](ref:terroir), [fermentation](ref:fermentation), [oak-ageing](ref:oak).
+
+## Related images
+
+![Category image for Itata Valley](/media/photos/organization-vinos-de-chile-7a79b0b2.jpg)
+
+Image: Category image for Itata Valley. Credit: https://www.chile.gob.cl/india/noticias/lanzamiento-de-wines-of-chile-academy-en-dependencias-de-la-embajada, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vinos_chilenos.jpg)). Related image for País.

@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；参观、发布与配额会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 库克香槟
 
 兰斯市中心的 Rue Coquebert 并不宽，库克的宅邸藏在一条安静的街里。它没有香槟大道的华丽门面，也不设日常游客大厅。库克的核心不是一座建筑，而是一套“把不同年份、不同地块的酒放在一起”的方法：每年重新做一版 Grande Cuvée，同时保留两块单地块、单一年份的“独奏”香槟。理解库克，先理解这种“用储备酒写年份”的逻辑。
@@ -152,3 +153,9 @@ Krug Rosé 是另一条线：它不是把红葡萄酒简单混进去，而是用
 - 香槟对照：[Bollinger](ref:bollinger)、[Taittinger](ref:taittinger)、[香槟大道](ref:avenue)、[香槟大道步行路线](ref:route)。
 - 背景阅读：[香槟产区](ref:champagne)。
 - 本页不提供地图；库克的参观与发布信息以官方渠道为准。
+
+## 相关图像
+
+![堡林爵在阿伊的宅邸与庭院](/media/photos/place-bollinger-0c558246.jpg)
+
+图：堡林爵在阿伊的宅邸与庭院。图片：G.Garitan，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bollinger_01315.JPG)）。关联图像：库克香槟。

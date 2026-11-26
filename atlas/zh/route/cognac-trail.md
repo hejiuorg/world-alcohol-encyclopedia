@@ -93,6 +93,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 干邑路线：干邑镇与雅尔纳克之间的酒庄带
 
 干邑镇到雅尔纳克之间，夏朗特河把十余公里葡萄园、酒窖与码头串成一条酒商带。这条路线只取两站，都在干邑镇内，相距两公里：理查·轩尼诗码头的[轩尼诗](ref:hennessy)游客中心，以及社会学街的[人头马](ref:remy)老宅。称它“干邑—雅尔纳克”路线，是因为雅尔纳克标出这条带的上游端；看点是两家酒商如何把同一套规则讲成两种叙事。
@@ -140,3 +141,13 @@ updated_at: 2026-11-09
 两站都要预约，且规则不同：轩尼诗按线路与场次售票，旺季与周末很快满员；人头马按参观点分别集合，老宅、梅尔潘与瑞亚克勒科克不能混用一张票。预约时确认集合地点、时长、是否含品鉴、年龄限制与取消政策。饮酒后不开车是硬规则，老城停车位有限，最稳妥的是包车或指定司机；若自己开车，品鉴全部吐掉。开放时间、票价与交通以官方渠道为准，页面核验日期 2026-11-09。
 
 相关条目：[干邑](ref:cognac)。
+
+## 相关图像
+
+![葡萄酒调配实验的编辑插图：不同基酒在烧杯中对比，移液管用于小样调配；画面为 AI 辅助绘制，不是实验室实拍。](/media/photos/editorial-blending-q2.jpg)
+
+图：葡萄酒调配实验的编辑插图：不同基酒在烧杯中对比，移液管用于小样调配；画面为 AI 辅助绘制，不是实验室实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：干邑路线：干邑镇与雅尔纳克之间的酒庄带。
+
+![“轩尼诗干邑酒庄”页面配图：2023 Hennessy V.S. Cognac。摄影：Jacek Halicki，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-hennessy-cognac-f2436160.jpg)
+
+图：2023 Hennessy V.S. Cognac。摄影：Jacek Halicki，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Jacek Halicki，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=132066502)）。关联图像：干邑路线：干邑镇与雅尔纳克之间的酒庄带。

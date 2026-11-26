@@ -98,6 +98,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 小维多
 
 小维多是波尔多传统混酿中的次要红葡萄，晚熟、皮厚、籽多、颜色深、单宁强；在凉爽的波尔多常难完全成熟，而在澳大利亚、西班牙、美国与南美等温暖产区常被酿成单一品种酒，用来补充结构、颜色与中段厚度。
@@ -159,3 +160,9 @@ Petit Verdot 字面意思是“小绿”，指的不是果粒大小，而是它�
 小维多的海外种植面积、克隆与亲本研究仍随品种调查更新，正式引用以 VIVC 登记、波尔多行业机构与各产区法规为准。
 
 - 相关条目：[bordeaux](ref:bordeaux)、[cabernet-sauvignon](ref:cabernet)、[merlot](ref:merlot)、[red-wine](ref:red)、[oak-ageing](ref:oak)。
+
+## 相关图像
+
+![梅洛](/media/photos/variety-merlot-2a33ecba.jpg)
+
+图：梅洛。图片：Felloni claire，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Merlot.jpg)）。关联图像：小维多。

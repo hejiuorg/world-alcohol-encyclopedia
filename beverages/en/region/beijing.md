@@ -24,8 +24,8 @@ tags:
 translation_of: region:beijing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:067795222cb45ac043cf3ab13ece6c6751fd99f67e0447bb4d112c3f450f4613
-source_sha256: 067795222cb45ac043cf3ab13ece6c6751fd99f67e0447bb4d112c3f450f4613
+source_revision: sha256:18d1fa9d2a5b3de0e5c32740c8bfe768edc84c78358552c97b97dd8da92d6d4d
+source_sha256: 18d1fa9d2a5b3de0e5c32740c8bfe768edc84c78358552c97b97dd8da92d6d4d
 related:
   - relation: about
     target_id: region:china
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Beijing
 
 The Chinese capital’s wine and baijiu region, with vineyards in Fangshan and Miyun and the light-aroma baijiu producers Niulanshan and Red Star Erguotou in Shunyi; estate wineries on the urban edge and old distilleries make a rare “urban drinks region”.![Beijing photograph](/media/photos/q2-region-beijing-67e5ef61.jpg)
@@ -156,3 +157,13 @@ Fangshan is about an hour to ninety minutes from central Beijing; Miyun and Yanq
 **In brief:** The Chinese capital’s wine and baijiu region, with vineyards in Fangshan and Miyun and the light-aroma baijiu producers Niulanshan and Red Star Erguotou in Shunyi; estate wineries on the urban edge and old distilleries make a rare “urban drinks region”. 
 
 [China](ref:china) and [Baijiu](ref:baijiu) are the two useful reference points for Beijing. [China](ref:china) sets out geographic boundary; [Baijiu](ref:baijiu) brings in climate and soil. Read them together.
+
+## Related images
+
+![Photograph for Cabernet Sauvignon: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+Image: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13318021)). Related image for Beijing.
+
+![Thematic illustration for Red wine](/media/photos/theme-wine-spirits.jpg)
+
+Image: Thematic illustration for Red wine. Project-made bilingual editorial figure, not an on-site photograph. Related image for Beijing.

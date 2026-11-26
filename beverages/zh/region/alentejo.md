@@ -106,6 +106,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 阿连特茹
 
 葡萄牙中南部的大区，气候炎热干燥、土壤从花岗岩到片岩与黏土；以阿拉戈内斯（丹魄）、特林卡德拉与紫北塞为主，是葡萄牙最容易被忽视、也最有性价比的红酒产区之一。
@@ -184,3 +185,13 @@ Rota dos Vinhos do Alentejo 串联各酒庄村；经典路线从世界遗产古�
 参观时预约、准时、不酒后驾车，不进入作业车间与地块；软木栎林、橄榄园与历史城镇可与酒庄串联安排。
 
 - 相关条目：[portugal](ref:portugal)、[tempranillo](ref:tempranillo)、[red-wine](ref:red)、[oak-ageing](ref:oak)、[fortified-wine](ref:fortified)。
+
+## 相关图像
+
+![“丹魄”页面配图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：阿连特茹。
+
+![葡萄牙类别配图](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+图：葡萄牙类别配图。图片：John Hayes from San Antonio, Texas, USA，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=151531010)）。关联图像：阿连特茹。

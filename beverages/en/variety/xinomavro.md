@@ -22,8 +22,8 @@ tags:
 translation_of: variety:xinomavro
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:be33a622881c751b058643bb7bc4f4b04492f5baf182c1b2d859cbeec35a4f39
-source_sha256: be33a622881c751b058643bb7bc4f4b04492f5baf182c1b2d859cbeec35a4f39
+source_revision: sha256:f068c092b34e2ee6acad7de3c4edd94c86cdc22f77b02eadac08d2ea2e291c78
+source_sha256: f068c092b34e2ee6acad7de3c4edd94c86cdc22f77b02eadac08d2ea2e291c78
 related:
   - relation: about
     target_id: variety:nebbiolo
@@ -153,3 +153,9 @@ On the label, separate PDO from PGI, single variety from blend, ageing tier and 
 
 - Related: [nebbiolo](ref:nebbiolo), [red-wine](ref:red), [terroir](ref:terroir), [oak-ageing](ref:oak), [vintage](ref:vintage).
 - To compare the Naoussa and Amyndeon terroirs, taste two 100% Xinomavro wines of the same vintage and contrast acidity brightness, tannin texture and the concentration of olive-tomato aroma.
+
+## Related images
+
+![Nebbiolo](/media/photos/variety-nebbiolo-82c1e8bb.jpg)
+
+Image: Nebbiolo. Credit: Hanna, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Close_up_of_Nebbiolo_cluster_in_Italy.jpg)). Related image for Xinomavro.

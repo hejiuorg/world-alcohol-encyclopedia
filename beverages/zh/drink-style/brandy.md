@@ -67,6 +67,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 白兰地
 
 白兰地（brandy）是以葡萄酒或其他水果酒为原料，经蒸馏得到的烈酒。以葡萄为原料的葡萄白兰地最常见；以苹果、樱桃、李子等水果为原料的则属于水果白兰地。它和“以谷物为原料的威士忌”“以甘蔗为原料的朗姆酒”是并列的蒸馏酒类别。
@@ -133,3 +134,9 @@ verification_scope: source-verified
 - [橡木桶陈酿](ref:oak-ageing)：颜色、香气与质感变化的来源。
 - [果酒](ref:fruit-wine)：水果白兰地的发酵前身。
 - [葡萄酒](ref:wine)：葡萄白兰地的原料基础。
+
+## 相关图像
+
+![果酒](/media/photos/drink-style-fruit-wine-929f540b.jpg)
+
+图：果酒。图片：Chaojoker，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%D5%86%D5%BC%D5%A1%D5%B6_%D5%A3%D5%AB%D5%B6%D5%AB.jpg)）。关联图像：白兰地。

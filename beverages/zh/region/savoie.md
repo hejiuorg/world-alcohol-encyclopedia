@@ -87,6 +87,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 萨瓦
 
 萨瓦（Savoie）不是那种可以用“阿尔卑斯山景”一笔带过的产区。它的葡萄园分散在法国东南部的山谷、坡地与冰川沉积台地上，海拔从 250 米延伸到 600 米以上；同一座山的两侧，土壤、坡向和成熟期就可能完全不同。这里既有以雅克儿（Jacquère）为主、清瘦爽脆的白葡萄酒，也有以梦杜斯（Mondeuse）为主、带胡椒与紫罗兰气息的红葡萄酒，还有 2015 年才获得 AOC 的起泡酒。理解萨瓦，关键是把它当成一组“山地小产区”，而不是一个统一风格的品牌。
@@ -165,3 +166,13 @@ Crémant de Savoie 使用传统法酿造，允许的品种包括雅克儿、阿�
 **来源与边界。** 本页关于「萨瓦」的关键事实，主要由以下来源交叉核对：INAO（萨瓦与布热各法定产区的范围与规则；由原条目末尾参考资料迁移，未逐条复核访问日期）、European Union（欧盟葡萄酒类别、地理标志与标签规则）、Oxford University Press（提供关于萨瓦、雅克儿与梦杜斯的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）等 8 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「萨瓦」与「法国」、「白葡萄酒」、「红葡萄酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![阿空加瓜谷相关实景照片](/media/photos/region-aconcagua-4fe76950.jpg)
+
+图：阿空加瓜谷相关实景照片。图片：Bjørn Christian Tørrissen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg)）。关联图像：萨瓦。
+
+![葡萄](/media/photos/ingredient-grape-2d929148.jpg)
+
+图：葡萄。图片：Vyacheslav Argenberg，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)）。关联图像：萨瓦。

@@ -81,6 +81,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 清香型白酒
 
 清香型白酒是以乙酸乙酯为主体香的白酒香型，风格清爽、干净、回味短而利落。它以清蒸清烧、地缸发酵和清蒸二次清为代表工艺，产地以山西汾阳杏花村一带最为知名。
@@ -163,3 +164,9 @@ verification_scope: source-verified
 **并读。** 把「清香型白酒」与「白酒」、「高粱」、「制曲」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「清香型白酒」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
+
+## 相关图像
+
+![高粱](/media/photos/ingredient-sorghum-879ae613.jpg)
+
+图：高粱。图片：No machine-readable author provided. Pethan assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg)）。关联图像：清香型白酒。

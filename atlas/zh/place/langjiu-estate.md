@@ -155,3 +155,9 @@ verification_scope: source-verified
 - GB/T 2260-2007 中华人民共和国行政区划代码（国家标准化管理委员会，核对 2026-11-25）
 
 相关条目：[二郎镇](ref:town)、[古蔺郎酒路线](ref:route)、[郎酒](ref:brand)、[郎酒集团](ref:producer)、[酱香型白酒](ref:style)、[贵州省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![郎酒类别配图](/media/photos/drink-style-light-aroma-baijiu-1c3af236.jpg)
+
+图：郎酒类别配图。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)）。关联图像：郎酒庄园（二郎镇）。

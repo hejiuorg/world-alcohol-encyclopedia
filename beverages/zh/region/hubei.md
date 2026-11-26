@@ -89,6 +89,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 湖北省
 
 湖北省位于中国中部、长江中游。在酒类版图上，它既是重要的白酒产区，也有自己的黄酒传统：十堰房县一带以糯米与小曲酿造黄酒，陶缸发酵、甜度偏高，房县黄酒是当地传统名酒。
@@ -168,3 +169,13 @@ verification_scope: source-verified
 - [黄酒](ref:yellow-wine)：黄酒的定义、分类与工艺。
 - [糯米](ref:glutinous-rice)与[水](ref:water)：房县黄酒的基础原料。
 - [制曲](ref:qu-making)与[发酵](ref:fermentation)：小曲与陶缸发酵的核心工序。
+
+## 相关图像
+
+![糯米](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+图：糯米。图片：국립국어원，CC BY-SA 2.0 kr，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)）。关联图像：湖北省。
+
+![黄酒](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+图：黄酒。图片：udono，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)）。关联图像：湖北省。

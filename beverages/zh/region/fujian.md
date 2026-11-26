@@ -77,6 +77,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 福建省
 
 福建省位于中国东南沿海，以山地丘陵与海岸线为主。在酒类版图上，它最鲜明的身份是红曲黄酒的重要产区：糯米、[红曲](ref:hongqu)与水构成原料基础，福州、龙岩与古田各自形成了不同的传统。福建也生产白酒与果酒，但红曲黄酒的辨识度最高。
@@ -166,3 +167,13 @@ verification_scope: source-verified
 | 国家代码 | CN |
 
 **来源与边界。** 本页关于「福建省」的关键事实，主要由以下来源交叉核对：福建省人民政府（行政区划与公开的省情信息）、国家市场监督管理总局、国家标准化管理委员会（黄酒的术语、分类与标签要求；未复制标准原文；饮料酒分类与术语；未复制标准原文）、OIV（补充核对条目背景、术语与制度口径）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![糯米](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+图：糯米。图片：국립국어원，CC BY-SA 2.0 kr，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)）。关联图像：福建省。
+
+![黄酒](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+图：黄酒。图片：udono，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)）。关联图像：福建省。

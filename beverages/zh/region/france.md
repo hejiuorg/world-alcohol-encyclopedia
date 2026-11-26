@@ -82,6 +82,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 法国
 
 法国是欧洲重要的葡萄酒与烈酒生产国，也是现代产区法规体系的重要样本。它的酒类版图不是单一风格，而是由大西洋、地中海与大陆性气候共同塑造的多个产区，以及一套以原产地命名为核心的管理制度。
@@ -185,3 +186,13 @@ AOC/AOP 保证的是产地与生产规则，不是质量排名；同一 AOC 内�
 本页描述法国的产区框架与法规思路，不评价具体酒庄、年份或市场价格。具体酒款请参见[拉菲古堡](ref:lafite)与[唐·培里侬](ref:dom-perignon)等条目。
 
 相关条目：[拉菲古堡红葡萄酒](ref:lafite)。
+
+## 相关图像
+
+![路易·巴斯德](/media/photos/person-louis-pasteur-83ab6d60.jpg)
+
+图：路易·巴斯德。图片：Paul Nadar，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg)）。关联图像：法国。
+
+![白葡萄酒品鉴杯，第一瓶酒先从杯型、温度与闻香建立判断](/media/photos/guide-first-wine-030c8359.jpg)
+
+图：白葡萄酒品鉴杯，第一瓶酒先从杯型、温度与闻香建立判断。图片：Tim Parkinson，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:White_wine_tasting_glass.jpg)）。关联图像：法国。

@@ -5,7 +5,7 @@ type: cocktail
 lang: zh
 slug: paper-plane
 title: 纸飞机
-summary: 以波本、阿佩罗、阿玛罗与柠檬汁等量摇制的现代经典，苦甜与柑橘平衡，呈粉橙色。
+summary: 以波本、阿佩罗、阿玛罗与柠檬汁等量摇制的现代经典，苦甜与柑橘平衡，呈粉橙色；2008 年由纽约 Milk & Honey 的 Sam Ross 创作，是苦甜鸡尾酒的代表。
 status: reviewed
 revision: 1
 style: 现代经典鸡尾酒

@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:mixed-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:df328a60b1036737172f1fd9ad835383edbb5352f2e1da2f5830e6f793f426d9
-source_sha256: df328a60b1036737172f1fd9ad835383edbb5352f2e1da2f5830e6f793f426d9
+source_revision: sha256:10cb08bca61912df7b6f171927ec71a54bfd69dea56eaa4ef5ea39d33a1f2625
+source_sha256: 10cb08bca61912df7b6f171927ec71a54bfd69dea56eaa4ef5ea39d33a1f2625
 legacy_refs: []
 aliases:
   - Mixed aroma baijiu
@@ -81,6 +81,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Mixed aroma baijiu
 
 Mixed aroma baijiu is a baijiu aroma style that combines strong aroma and sauce aroma characters, often called strong-sauce mixed aroma. It is not a simple blend of two finished spirits. Instead it accommodates two process routes in qu making, fermentation and blending, producing a compound aroma. The current standard is GB/T 23547-2009, Strong aroma and sauce aroma mixed type baijiu.![Mixed aroma baijiu image](/media/photos/drink-style-mixed-aroma-baijiu-1c3af236.jpg)
@@ -157,3 +158,9 @@ Mixed aroma combines strong and sauce aroma characters, as in Baiyunbian and Kou
 - [Fermentation](ref:fermentation): how temperature, vessel and rounds shape a compound aroma.
 - [Distillation](ref:distillation): the role of cuts and graded storage in layering.
 - [Fermentation pit](ref:pit): the mud pit and its relation to pit aroma.
+
+## Related images
+
+![Sorghum](/media/photos/ingredient-sorghum-879ae613.jpg)
+
+Image: Sorghum. Credit: No machine-readable author provided. Pethan assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg)). Related image for Mixed aroma baijiu.

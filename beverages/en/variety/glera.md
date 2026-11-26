@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:glera
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0997696a98b7dd178c6dbc300195449017d80b161b34858b495e00f1904d2bfc
-source_sha256: 0997696a98b7dd178c6dbc300195449017d80b161b34858b495e00f1904d2bfc
+source_revision: sha256:d181e4b05fd7d46bb18960790c83bec7db783d75e77a9833d652f379a4d89f69
+source_sha256: d181e4b05fd7d46bb18960790c83bec7db783d75e77a9833d652f379a4d89f69
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -70,6 +70,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Glera
 
 Glera is a white grape of north-east Italy and the core of Prosecco. Half of its story is in the vineyard, the other half in naming rules: until 2009 both grape and wine were called Prosecco, after which the variety officially became Glera while the wine kept the name Prosecco and the production area was redrawn. That renaming is the premise for understanding why the wine expanded so quickly in global markets.![Glera image](/media/photos/variety-glera-308e7415.jpg)
@@ -128,3 +129,9 @@ First, that Glera is a new variety; it is simply the renamed Prosecco grape. Sec
 - [Fermentation](ref:fermentation): second fermentation and the tank method.
 
 Further reading: [Aglianico](ref:c-extra-1).
+
+## Related images
+
+![Prosecco](/media/photos/drink-italy-prosecco-6e982221.jpg)
+
+Image: Prosecco. Credit: Sandstein, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Prosecco_di_Conegliano_bottle_and_glass.jpg)). Related image for Glera.

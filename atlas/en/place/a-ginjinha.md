@@ -85,9 +85,10 @@ founded_year: 1840
 translation_of: place:a-ginjinha
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:803dc96f9b75d2e0f4ee62d6e064a4ad69acfa796fb5e6f1ebffa6560e90201f
-source_sha256: 803dc96f9b75d2e0f4ee62d6e064a4ad69acfa796fb5e6f1ebffa6560e90201f
+source_revision: sha256:de3d99ae5c1839daceadc8aa50d4c04e6101a13adf27b640433e83f6e59d04e3
+source_sha256: de3d99ae5c1839daceadc8aa50d4c04e6101a13adf27b640433e83f6e59d04e3
 ---
+
 # A Ginjinha
 
 On the north-west corner of Largo de São Domingos, a red neon sign, a narrow door, and a short marble counter are the entire shopfront. There are no tables and no invitation to linger. Customers crowd the bar, order a small glass of deep-red ginjinha, receive it, stand at the doorway to drink, return the empty glass, and make room for the next person. It is less a café than a street-corner kiosk for drinking.
@@ -153,3 +154,9 @@ From A Ginjinha, Rossio and Praça da Figueira are two minutes west; Castelo de 
 - Related entries: [A Brasileira](ref:brasileira), [Café Majestic](ref:majestic), [Casa Labra](ref:labra), [Botín](ref:botin), [Café De Dokter](ref:dokter)
 
 **At a glance:** A Ginjinha at Largo de São Domingos 8 is Lisbon’s standing-room shrine to ginjinha, the sour-cherry liqueur. The brand traces its roots to an 1840 tavern at Rua das Portas de Santo Antão 27; the present shop was refurbished in 1910 by Francisco Espiñeira Couziño. A small glass, an optional cherry, and a few minutes at the counter are the whole ritual.
+
+## Related images
+
+![The Art Nouveau facade of Café A Brasileira on Rua Garrett in Chiado](/media/photos/place-cafe-a-brasileira-2278105e.jpg)
+
+Image: The Art Nouveau facade of Café A Brasileira on Rua Garrett in Chiado. Credit: VDT2021, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_BRASILEIRA_DO_CHIADO.jpg)). Related image for A Ginjinha.

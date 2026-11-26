@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、广告素材、图片与引用文本不在本许可内；开放时间、票价与展陈会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 健力士仓库：圣詹姆斯门的黑色啤酒叙事
 
 健力士仓库在都柏林圣詹姆斯门，门牌是 Dublin 8, D08 VF8H。很多游客把它当作“健力士酒厂参观”，但它首先是一座访客中心：展览、品鉴与顶层酒吧都在旧发酵车间里，真正的生产厂区仍在旁边工作，普通门票并不进入酿造车间。把这两件事分开，参观时对“看到了什么”和“没看到什么”就会有更清楚的判断。
@@ -148,3 +149,9 @@ verification_scope: source-verified
 | 城市/国家 | 都柏林 / 爱尔兰 |
 | 营业状态 | 已核验营业 |
 | 官网 | guinness-storehouse.com |
+
+## 相关图像
+
+![世涛](/media/photos/drink-style-stout-5ced0da8.webp)
+
+图：世涛。图片：55belgianbeerfan，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)）。关联图像：健力士仓库：圣詹姆斯门的黑色啤酒叙事。

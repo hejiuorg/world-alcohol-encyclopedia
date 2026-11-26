@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:cyser
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c0c124bf8c0e61c3b2f59c49b28079f2443dbd399183a103cb82480215e397e0
-source_sha256: c0c124bf8c0e61c3b2f59c49b28079f2443dbd399183a103cb82480215e397e0
+source_revision: sha256:895c508da37d8285b3e3e840339784da147e8ef69455a88080e208ac054b90c2
+source_sha256: 895c508da37d8285b3e3e840339784da147e8ef69455a88080e208ac054b90c2
 related:
   - relation: about
     target_id: drink-style:honey-wine
@@ -145,3 +145,9 @@ For storage, low-alcohol and sparkling versions are freshness-first: keep away f
 A good introduction starts with a standard-strength still semi-sweet example, then compares a dry and a sparkling version, and finishes with a strong aged release. Across those three tiers, the separate contributions of honey, apple and fermentation ageing become clear.
 
 - Related: [honey-wine](ref:honey-wine), [cider](ref:cider), [honey](ref:honey), [apple](ref:apple), [fermentation](ref:fermentation).
+
+## Related images
+
+![Cider](/media/photos/drink-style-cider-f3bc26a6.jpg)
+
+Image: Cider. Credit: ChuckDabs, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Midwest_hard_cider.jpg)). Related image for Cyser.

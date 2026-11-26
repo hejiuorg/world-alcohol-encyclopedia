@@ -81,6 +81,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1876
 ---
+
 # Café Sacher
 
 从维也纳国家歌剧院出来，沿 Philharmoniker Straße 走几十米，就能看到 Hotel Sacher 的深色雨棚与金色字母。Café Sacher 不在临街的独立门面里，而是藏在酒店一层：推门进去，先是深色木饰、红色丝绒、镜面与黄铜吊灯，然后才是蛋糕柜和领位台。它看起来像一间为“下午四点”准备的房间——外面是歌剧、马车与 Ringstrasse 的车流，里面是蛋糕叉碰到瓷盘的声音。
@@ -135,3 +136,9 @@ Café Sacher 的历史要分两层讲。第一层是蛋糕：1832 年，16 岁�
 - Hotel Sacher 官方页：<https://www.sacher.com/en/vienna/>，用于核对 1876 年开业与酒店位置。
 - 同城的 `place:demel` 是 Sachertorte 叙事的另一极，`place:cafe-central`、`place:cafe-hawelka`、`place:cafe-sperl` 则代表不同类型的维也纳咖啡馆。
 - 相关条目：[Demel](ref:demel)、[Café Central](ref:central)、[Café Hawelka](ref:hawelka)、[Café Sperl](ref:sperl)、[维也纳咖啡馆之夜路线](ref:vienna-route)
+
+## 相关图像
+
+![Kohlmarkt 14 号的 Demel 店面与橱窗](/media/photos/place-demel-7ed139ad.jpg)
+
+图：Kohlmarkt 14 号的 Demel 店面与橱窗。图片：No machine-readable author provided. Gryffindor assumed (based on copyright claims).，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Demel,_Vienna.jpg)）。关联图像：Café Sacher。

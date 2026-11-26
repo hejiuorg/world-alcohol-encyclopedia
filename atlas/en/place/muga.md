@@ -38,8 +38,8 @@ tags:
 translation_of: place:muga
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:95ce228421699c9c55d8c65bf797cd789dff0d1f8af87778f188427c689923cd
-source_sha256: 95ce228421699c9c55d8c65bf797cd789dff0d1f8af87778f188427c689923cd
+source_revision: sha256:4cc15e9abf005066553cd01ef8f86c2f5c9e1594dd5af293978bdcc4baa59c88
+source_sha256: 4cc15e9abf005066553cd01ef8f86c2f5c9e1594dd5af293978bdcc4baa59c88
 related:
   - relation: about
     target_id: place:marques-de-riscal
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; tour prices, times and rules may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Bodegas Muga
 
 Barrio de la Estación in Haro is a short street packed with some of Rioja’s densest historic bodegas. Muga’s front is a 200-year-old stone house with no flashy sign; in the yard there are barrels and cooper’s tools. It does not pull the eye with a Gehry titanium wave like Riscal. It puts the barrel first: it selects wood, makes barrels, repairs them, and even ferments in oak vats. To understand Muga, start with its obsession with wood.
@@ -155,3 +156,9 @@ Never taste before driving; the Haro–Logroño road is busy and country roads a
 For Bodegas Muga, begin with the address, then the current opening status, and finish with what the place is known for; that order keeps the account grounded.
 
 Setting [Marqués de Riscal](ref:riscal)'s address and space beside [CVNE](ref:cvne)'s operating status makes the boundary between them visible.
+
+## Related images
+
+![Frank Gehry’s Marqués de Riscal hotel above the vineyards at Elciego](/media/photos/place-marques-de-riscal-06829c49.jpg)
+
+Image: Frank Gehry’s Marqués de Riscal hotel above the vineyards at Elciego. Credit: Roderich Kahn, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Elciego_-_Marqu%C3%A9s_de_Riscal_Hotel_RK01.jpg)). Related image for Bodegas Muga.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:pilsner-urquell-brewery
 source_lang: zh
-source_revision: sha256:e64abb3ee95d1f102d5dc53a9fd5f9e29532c50779c9bf15d7004ad6108e1f90
-source_sha256: e64abb3ee95d1f102d5dc53a9fd5f9e29532c50779c9bf15d7004ad6108e1f90
+source_revision: sha256:c53cdc84ed3a253dba0232acc4b8e4baab95f44080786c7dee16603a454a3471
+source_sha256: c53cdc84ed3a253dba0232acc4b8e4baab95f44080786c7dee16603a454a3471
 translation_status: reviewed
 subtype: brewery-visitor
 address: U Prazdroje 7, 301 00 Plzeň, Czechia
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; tour times, tickets and production schedules change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Pilsner Urquell Brewery: Where the Golden Lager Was Born
 
 The Pilsner Urquell brewery stands at U Prazdroje 7 in Plzeň, western Czechia. It is not a preserved ruin but a working site: tours pass the historic brewhouse, modern equipment, the bottling line and underground cellars, ending with unfiltered beer. The point is less age than survival: a nineteenth-century method became the template for pale lager worldwide.![related photograph of Pilsner Urquell Brewery: Where the Golden Lager Was Born](/media/photos/place-pilsner-urquell-brewery-3c101021.jpg)
@@ -156,3 +157,9 @@ It is tempting to treat Pilsner as Urquell Brewery: Where the Golden Lager Was B
 | Official site | pilsnerurquell.com |
 
 **Sources and limits.** The key claims about Pilsner Urquell Brewery: Where the Golden Lager Was Born are checked against the following sources: Plzeňský Prazdroj (Used to check the U Prazdroje 7 address, tour booking and visitor programmes), Czech Tourism. For current products, addresses or opening status, use pilsnerurquell.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Pilsner](/media/photos/drink-style-pilsner-8d0570d2.jpg)
+
+Image: Pilsner. Credit: Steven Walling, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Pilsner_urquell_mug.jpg)). Related image for Pilsner Urquell Brewery: Where the Golden Lager Was Born.

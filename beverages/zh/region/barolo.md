@@ -78,6 +78,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 巴罗洛
 
 巴罗洛（Barolo）是意大利皮埃蒙特库内奥省朗格丘陵的红葡萄酒保证法定产区（DOCG），1980 年 7 月 1 日由总统令升格，法定只能使用 100% 内比奥罗（Nebbiolo）酿造。产区以巴罗洛、卡斯蒂廖内法莱托与塞拉伦加达尔巴三个完整市镇为核心，另含蒙福特达尔巴、诺韦洛、拉莫拉、韦尔杜诺、格林扎内卡武尔、迪亚诺达尔巴、凯拉斯科与罗迪八个市镇的部分地块，共 11 个市镇。
@@ -148,3 +149,13 @@ MGA 把村名之外的单一坡地与历史地块名纳入官方附件，使酒�
 - [红葡萄酒](ref:red-wine)：巴罗洛的类别、单宁与酿造概览。
 - [橡木桶陈年](ref:oak-ageing)：桶型、桶龄与微氧化的作用。
 - [风土](ref:terroir)：坡向、土壤与地块差异的讨论框架。
+
+## 相关图像
+
+![“皮埃蒙特”页面配图：Piedmont vineyard in autumn。摄影：Giorgio Montersino，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-piedmont-86c6d640.jpg)
+
+图：Piedmont vineyard in autumn。摄影：Giorgio Montersino，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Giorgio Montersino，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=5816942)）。关联图像：巴罗洛。
+
+![内比奥罗](/media/photos/variety-nebbiolo-82c1e8bb.jpg)
+
+图：内比奥罗。图片：Hanna，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Close_up_of_Nebbiolo_cluster_in_Italy.jpg)）。关联图像：巴罗洛。

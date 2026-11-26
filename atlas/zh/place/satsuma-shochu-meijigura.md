@@ -88,6 +88,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开馆时间、参观安排与商品信息会变化，以官方渠道为准。本页未绘制地图。
 verification_scope: source-verified
 ---
+
 # 萨摩酒造明治藏
 
 萨摩酒造明治藏位于[日本](ref:japan)鹿儿岛县枕崎市立神本町 26 号，正式名称是花渡川蒸馏所明治藏。它保存了明治时代延续下来的藏屋与手艺，今天仍由杜氏与藏人按传统工序酿造本格烧酒，参观者可以在近处看到制曲、发酵与蒸馏，而不只是隔着玻璃看展板。入馆免费，开馆时间为 9:00–16:00，12 月 30 日至 1 月 3 日休馆；馆内商店出售“萨摩白波明治藏”“黑白波明治藏”等 25 度产品，也有 37 度的明治藏原酒。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 - [焼酎王国！](https://www.kagoshima-kankou.com/gourmet/shochu/siru)，鹿儿岛县观光联盟，核验鹿儿岛烧酒文化与产区背景。
 
 页面核验日期 2026-11-09；开馆时间、参观安排与商品信息以官方渠道为准。
+
+## 相关图像
+
+![奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。](/media/photos/drink-style-shochu-f0b3c090.jpg)
+
+图：奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。。图片：Hhaithait，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg)）。关联图像：萨摩酒造明治藏。

@@ -32,8 +32,8 @@ tags:
 translation_of: place:camparino-in-galleria
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f18e32726871aa8cb6348cd33ab23e7e8d8108290679bea59e8ef3811a862ad9
-source_sha256: f18e32726871aa8cb6348cd33ab23e7e8d8108290679bea59e8ef3811a862ad9
+source_revision: sha256:bf469dbe270547ae3130b3531a383dcab59ec5264146f85c8b0c60604d14e42f
+source_sha256: bf469dbe270547ae3130b3531a383dcab59ec5264146f85c8b0c60604d14e42f
 related:
   - relation: about
     target_id: drink:italy-campari
@@ -89,6 +89,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1915
 ---
+
 # Camparino in Galleria
 
 Under the glass roof of the Galleria Vittorio Emanuele II, between the Duomo and La Scala, a small bar occupies a corner of the northern arcade. The room is narrow, the counter is high, the ceiling is decorated, and the aperitivo crowd stands rather than sits. This is Camparino in Galleria. It is not the oldest bar in Milan and not the largest, but it is one of the most visible: a family business that became a brand, a brand that became a historic bar, and a bar that was restored to look like its own early-20th-century self.
@@ -160,3 +161,9 @@ Checked on 2026-11-21: the entrance at Piazza Duomo 21 into the Galleria Vittori
 | Official site | camparino.com |
 
 **Sources and limits.** The key claims about Camparino in Galleria are checked against the following sources: Camparino (Used for the address, current hours, the three service areas and the reservation policy; no text copied), Campari Group. For current products, addresses or opening status, use camparino.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Campari](/media/photos/drink-italy-campari-3f79a94a.jpg)
+
+Image: Campari. Credit: Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottle_of_Campari_(United_States).jpg)). Related image for Camparino in Galleria.

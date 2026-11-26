@@ -70,6 +70,12 @@ sources:
     publisher: "www.vassefelix.com.au"
     note: 用于核对官方公开信息与页面入口；本轮登记官方 URL，未复制正文。
     accessed: 2026-11-21
+  - key: vasse-official
+    title: "Vasse Felix — 官方网站"
+    url: "https://www.vassefelix.com.au/"
+    publisher: "Vasse Felix"
+    note: "用于核对酒庄位置、玛格丽特河产区与酒庄历史；未复制原文。"
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -77,6 +83,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与价格会变化，出行前以官网为准。"
 verification_scope: source-verified
 ---
+
 # 法塞尔酒庄
 
 法塞尔是玛格丽特河第一个葡萄园与酒庄，1967 年由 Tom Cullity 在 Wilyabrup 种下第一批葡萄；它以赤霞珠、霞多丽和传统法起泡酒式的严谨酿造建立声誉，今天同时是酒庄、餐厅、美术馆与葡萄酒博物馆。
@@ -154,3 +161,9 @@ verification_scope: source-verified
 - 相关条目：[margaret-river](ref:margaret-river)、[australia](ref:australia)、[chardonnay](ref:chardonnay)、[cabernet-sauvignon](ref:cabernet)、[oak-ageing](ref:oak)。
 - 本页不提供实时价格、菜单或营业状态；参观前以酒庄官网与产区协会为准。
 - 想比较法塞尔的不同层级，最直接的方法是同一趟品鉴里选 Filius、Premier 与 TOM CULLITY 各一款，记录果味、酸度、单宁与桶味的差异。
+
+## 相关图像
+
+![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+
+图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：法塞尔酒庄。

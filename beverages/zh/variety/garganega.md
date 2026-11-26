@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 加尔加内加
 
 意大利威尼托索阿韦产区的白葡萄，晚熟、产量高，带柠檬、杏仁、白花与矿物；可酿干型 Soave、甜型 Recioto di Soave 与起泡酒。
@@ -175,3 +176,9 @@ Soave 的干型与甜型都值得分别尝试，不要把两者当成同一种�
 | 代表产区 | 威尼托 |
 
 **来源与边界。** 本页关于「加尔加内加」的关键事实，主要由以下来源交叉核对：Julius Kühn-Institut（品种名称、同义词、起源与全球分布）、OIV（葡萄品种与栽培框架）、USDA ARS（植物分类、种质与栽培信息）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“威尼托”页面配图：Vineyard, San Giorgio di Valpolicella, Veneto, Italy。摄影：Unknown photographer，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-veneto-011f6328.jpg)
+
+图：Vineyard, San Giorgio di Valpolicella, Veneto, Italy。摄影：Unknown photographer，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Unknown photographer，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=354325)）。关联图像：加尔加内加。

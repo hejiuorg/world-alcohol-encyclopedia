@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:cafe-sperl
 source_lang: zh
-source_revision: sha256:e46e70bf502f67506f343374493762e79445a0d241fb88b587395242db6acce2
-source_sha256: e46e70bf502f67506f343374493762e79445a0d241fb88b587395242db6acce2
+source_revision: sha256:a7dabd15c82c654923d24fbe1bc39b9e1b195c0089dd5d201e4dc56b9f3b92f1
+source_sha256: a7dabd15c82c654923d24fbe1bc39b9e1b195c0089dd5d201e4dc56b9f3b92f1
 translation_status: reviewed
 subtype: pub
 address: Gumpendorfer Straße 11, 1060 Wien, Austria
@@ -159,3 +159,9 @@ To make "Viennese coffee houses" the theme, two or three in a day is enough; mor
 Further reading: [Vienna coffee-house evening: Café Central to Café Sperl](ref:c-extra-1), [A Ginjinha](ref:c-extra-2).
 
 Put [Café Central](ref:cafe-central)'s address and space next to [Caffè Florian](ref:caffe-florian)'s operating status; the difference marks the boundary.
+
+## Related images
+
+![The vaulted hall of Café Central in Vienna, with chandeliers and seating beneath the marble columns.](/media/photos/route-vienna-coffee-house-evening-b25afac5.jpg)
+
+Image: The vaulted hall of Café Central in Vienna, with chandeliers and seating beneath the marble columns.. Credit: Andreas Praefcke, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wien_Cafe_Central_2004.jpg)). Related image for Café Sperl.

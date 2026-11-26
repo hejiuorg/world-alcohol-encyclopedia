@@ -89,6 +89,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 皮埃蒙特
 
 皮埃蒙特（Piedmont，意大利语 Piemonte）位于[意大利](ref:italy)西北部，北与西被阿尔卑斯山环绕，南接利古里亚，东临伦巴第。它是意大利重要的优质红葡萄酒产区之一，以[内比奥罗](ref:nebbiolo)为核心，同时以巴贝拉、多尔切托与莫斯卡托构成多样的品种谱系。
@@ -173,3 +174,13 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「皮埃蒙特」的关键事实，主要由以下来源交叉核对：Italian Ministry of Agriculture（皮埃蒙特法定产区与 DOCG 名录；由原条目末尾参考资料迁移，未逐条复核访问日期）、European Commission（巴罗洛、巴巴莱斯科等原产地名称的注册状态与产品规格；由原条目末尾参考资料迁移，未逐条复核访问日期）、Federdoc（皮埃蒙特产区协会与 DOCG 规则概览；由原条目末尾参考资料迁移，未逐条复核访问日期）等 8 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「皮埃蒙特」与「意大利」、「内比奥罗」、「红葡萄酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![巴巴莱斯科](/media/photos/drink-italy-barbaresco-dc7f512d.jpg)
+
+图：巴巴莱斯科。图片：Geographer，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Prunotto_Barbaresco_1967.jpg)）。关联图像：皮埃蒙特。
+
+![巴罗洛](/media/photos/drink-italy-barolo-bba29a2d.jpg)
+
+图：巴罗洛。图片：Biskuit，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cascin_Adelaide_Barolo_%26_decanter.jpg)）。关联图像：皮埃蒙特。

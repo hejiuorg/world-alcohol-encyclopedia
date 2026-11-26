@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:cuba-rum-trail
 source_lang: zh
-source_revision: sha256:3624a6740cd152d3d583bcb5b9faaba1df33f3abc83c204448c93a1cccee1a96
-source_sha256: 3624a6740cd152d3d583bcb5b9faaba1df33f3abc83c204448c93a1cccee1a96
+source_revision: sha256:2034512b0c435a0cddc536652573fa1fe3397edb51f4d818e06bbc17b09762e1
+source_sha256: 2034512b0c435a0cddc536652573fa1fe3397edb51f4d818e06bbc17b09762e1
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -167,3 +167,13 @@ Leave time for the cities: Havana's bars and the [daiquiri](ref:daiquiri) are ru
 To read Cuba rum trail, start with the order of stops, then the distance and opening hours, then whether it works as a fixed itinerary; no single check settles it.
 
 Put [Museo del Ron Havana Club](ref:havana)'s stop order next to [Rum](ref:rum)'s transport; the difference marks the boundary.
+
+## Related images
+
+![Related photograph of Museo del Ron Havana Club](/media/photos/place-museo-del-ron-havana-f7eba13c.jpg)
+
+Image: Related photograph of Museo del Ron Havana Club. Credit: Antonio Bermudez Chi…, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Museo_Havana_Club_-_panoramio.jpg)). Related image for Cuba rum trail: Havana and Santiago de Cuba.
+
+![Related photograph of Museo del Ron Santiago de Cuba](/media/photos/place-museo-del-ron-santiago-80d8bd6b.jpg)
+
+Image: Related photograph of Museo del Ron Santiago de Cuba. Credit: Pintolin, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Espacio_Bacard%C3%AD.jpg)). Related image for Cuba rum trail: Havana and Santiago de Cuba.

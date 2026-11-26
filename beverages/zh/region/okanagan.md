@@ -88,6 +88,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 欧肯那根
 
 欧肯那根谷是加拿大不列颠哥伦比亚省南部的狭长湖谷，北接半沙漠地带、南抵美加边境；湖水调节气温、夏季日照长，以灰皮诺、梅洛、赤霞珠、黑皮诺与冰酒著称，是加拿大仅次于尼亚加拉的第二大葡萄酒产区。
@@ -153,3 +154,13 @@ verification_scope: source-verified
 | 层级 | 省/大区 |
 | 所属 | 加拿大 |
 | 国家代码 | CA |
+
+## 相关图像
+
+![灰皮诺](/media/photos/variety-pinot-gris-727c95c9.jpg)
+
+图：灰皮诺。图片：Ermell，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Pinot_Grigio-20201027-RM-114053.jpg)）。关联图像：欧肯那根。
+
+![安大略 Forty Creek 酒厂的威士忌橡木桶陈酿库](/media/photos/region-canada-0fcdbd9d.jpg)
+
+图：安大略 Forty Creek 酒厂的威士忌橡木桶陈酿库。图片：Gogerr，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Whisky_maturation_in_barrels_at_the_Forty_Creek_Distillery.jpg)）。关联图像：欧肯那根。

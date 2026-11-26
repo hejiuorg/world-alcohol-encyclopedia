@@ -84,6 +84,7 @@ rights:
   note: 第三方海报、商标与图片不在本许可内；图片为公有领域，已在图注署名。来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 1915 年法国苦艾酒禁令：一场科学、战争与葡萄酒业的合谋
 
 1915 年 3 月 16 日，法国正式禁止苦艾酒及类似利口酒的生产、流通与销售。今天回看，这项禁令常被简化为“苦艾酒会让人发疯”的科学结论；但历史过程要复杂得多。一次世界大战、民族主义、葡萄酒业的经济危机、禁酒运动与对 thujone 的医学恐惧共同推动禁令。苦艾酒并不是被一种单一成分“定罪”的，它是在特定政治与经济环境中被塑造为“国家衰败”的象征。
@@ -142,3 +143,9 @@ verification_scope: source-verified
 | 时间 | 1914 年 8 月—1915 年 3 月 16 日 |
 | 地点 | 法国 |
 | 历法 | 公历 |
+
+## 相关图像
+
+![苦艾酒礼盒：黑色 Teichenné 酒瓶、槽孔金属糖匙与印有 ABSINTHE 的玻璃杯。](/media/photos/drink-style-absinthe-7d2100d5.jpg)
+
+图：苦艾酒礼盒：黑色 Teichenné 酒瓶、槽孔金属糖匙与印有 ABSINTHE 的玻璃杯。。图片：Tangopaso，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Absinthe_bottle_with_glass_and_spoon.jpg)）。关联图像：1915 年法国苦艾酒禁令：一场科学、战争与葡萄酒业的合谋。

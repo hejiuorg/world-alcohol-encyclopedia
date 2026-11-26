@@ -121,6 +121,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览场次、价格与限购规则会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 水牛足迹酒厂
 
 在法兰克福（Frankfort）北侧的肯塔基河岸，水牛足迹酒厂（Buffalo Trace Distillery）占据着一片仍在生产的厂区：石砌仓库、红砖蒸馏楼、装瓶线与游客中心挤在同一块地上，没有把“历史”隔离成博物馆展柜。它同时是美国国家历史地标和一座每天出酒的工厂，这种“活着的遗产”状态，是理解参观内容的前提。
@@ -182,3 +183,9 @@ Hard Hat 路线最能看到“工厂”的一面：糖化锅把玉米、黑麦�
 | 官网 | buffalotracedistillery.com |
 
 **来源与边界。** 本页关于「水牛足迹酒厂」的关键事实，主要由以下来源交叉核对：Buffalo Trace Distillery（113 Great Buffalo Trace 地址、三条导览的时长与年龄限制、每周三放号规则、免费品鉴与 1¾ 盎司上限、营业时间与闭馆日；国家历史地标身份与 Warehouse X 实验仓库的说明）、TopoQuest（坐标 38.218020, -84.868720（本文取四位小数）与厂址位置）、Kentucky Distillers' Association（酒厂在肯塔基波本路线中的位置与周边串联方式）等 10 条来源。产品、地址或营业状态变化较快时，以 buffalotracedistillery.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![水牛足迹相关实景照片](/media/photos/drink-usa-buffalo-trace-7f77e73d.jpg)
+
+图：水牛足迹相关实景照片。图片：Jaimin Trivedi，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Buffalo_Trace_Distillery_Barrel_Aging_Warehouse_(outside).jpg)）。关联图像：水牛足迹酒厂。

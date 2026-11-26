@@ -86,6 +86,7 @@ rights:
   note: 第三方酒标、照片与图片不在本许可内；图片为 CC BY 2.0，已署名。来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 1982 波尔多年份：一个年份如何成为现代葡萄酒市场的转折点
 
 1982 年的波尔多，是一个被气候、评论与市场共同塑造的年份。它拥有温暖的冬季、提前的发芽、炎热的七月与干燥的九月，葡萄成熟度高，酒体丰厚，果味浓郁。对喜欢这种风格的人来说，它是“现代波尔多”的起点；对偏好酸度与克制的人来说，它又显得过于成熟。围绕 1982 的争论，最终不仅改变了一个年份的价格，也改变了葡萄酒评论在现代市场中的位置。
@@ -135,3 +136,9 @@ verification_scope: source-verified
 - [1976 年巴黎审判](ref:paris)：另一场改变波尔多市场叙事的跨产区比较。
 
 对照阅读：[波尔多](ref:bordeaux)、[葡萄酒](ref:wine)。
+
+## 相关图像
+
+![1976 年巴黎盲品会的获奖酒样，加州与法国葡萄酒评价体系的分水岭](/media/photos/historical-event-1976-judgment-of-paris-3833ecec.jpg)
+
+图：1976 年巴黎盲品会的获奖酒样，加州与法国葡萄酒评价体系的分水岭。图片：Unknown author Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Judgment_of_Paris_1976_Winners_NMAH-2006-7043.jpg)）。关联图像：1982 波尔多年份：一个年份如何成为现代葡萄酒市场的转折点。

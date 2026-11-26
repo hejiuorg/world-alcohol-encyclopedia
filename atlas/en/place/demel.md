@@ -84,8 +84,8 @@ founded_year: 1786
 translation_of: place:demel
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cbdddb9c6dbed32270a0affa0794067ded68a76d4cd8d6e8166c9dcaf2eb7329
-source_sha256: cbdddb9c6dbed32270a0affa0794067ded68a76d4cd8d6e8166c9dcaf2eb7329
+source_revision: sha256:26c83f618bcef0c829e79baa5676ea45f2f1079918aebbc83e3d1488661878f3
+source_sha256: 26c83f618bcef0c829e79baa5676ea45f2f1079918aebbc83e3d1488661878f3
 ---
 
 # Demel
@@ -148,3 +148,9 @@ Step out of Demel and Michaelerplatz and the Hofburg’s Michaelertor are to the
 - Related entries: [Café Sacher](ref:sacher), [Café Central](ref:central), [Café Hawelka](ref:hawelka), [Café Sperl](ref:sperl), [Vienna coffee-house evening route](ref:vienna-route)
 
 **Short definition:** Demel at Kohlmarkt 14 is Vienna’s great surviving royal confectionery. Ludwig Dehne founded the business at Michaelerplatz in 1786; Christoph Demel took over in 1857; the shop moved to Kohlmarkt 14 in 1888, where Portois & Fix created the Rococo interior. Sachertorte, Kaiserschmarrn, violet ice cream, and the all-female Demelinerinnen keep the theatre of the imperial confectionery alive.
+
+## Related images
+
+![Café Sperl](/media/photos/place-cafe-sperl-42b350aa.jpg)
+
+Image: Café Sperl. Credit: Bahnfrend, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Sperl,_front,_2006.JPG)). Related image for Demel.

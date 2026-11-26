@@ -31,8 +31,8 @@ tags:
 translation_of: place:la-coupole
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:062e849981922d742ca41727ab87809d345e6b43a8eb55dda8085fde215eeba7
-source_sha256: 062e849981922d742ca41727ab87809d345e6b43a8eb55dda8085fde215eeba7
+source_revision: sha256:c277ccd9a7ca5bf590aa1d419d93968c8d67bc7dca47e7a0b82fe7e8a9305491
+source_sha256: c277ccd9a7ca5bf590aa1d419d93968c8d67bc7dca47e7a0b82fe7e8a9305491
 related:
   - relation: about
     target_id: place:la-closerie-des-lilas
@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1927
 ---
+
 # La Coupole
 
 At 102 Boulevard du Montparnasse, a restaurant so wide it almost fills the block announces itself with neon and an awning. Unlike the Saint-Germain cafés, it does not put seats on the pavement; a glass and marble front pulls people in. Inside are the domed main hall, rows of columns, white and cream walls, brass lamps and an open seafood counter. La Coupole is not a small, pretty Left Bank café; it is Montparnasse's ballroom from the crazy years and a large brasserie that still runs from morning to midnight.
@@ -161,3 +162,9 @@ Read [La Closerie des Lilas](ref:closerie) for the address and space side of La 
 | Official site | lacoupole-paris.com |
 
 **Sources and limits.** The key claims about La Coupole are checked against the following sources: La Coupole (Used for the 102 boulevard du Montparnasse address and the Monday-to-Sunday hours), Visit Paris Region, Groupe Bertrand (Used to cross-check the 1927 opening, the Bertrand group's 2018 acquisition and the address). For current products, addresses or opening status, use lacoupole-paris.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Café de Flore in Saint-Germain-des-Prés, Paris, its green awning and terrace facing the corner.](/media/photos/route-saint-germain-literary-cafes-cfcc43a7.jpg)
+
+Image: Café de Flore in Saint-Germain-des-Prés, Paris, its green awning and terrace facing the corner.. Credit: DIMSFIKAS, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cafe_de_Flore,_Paris_-_2011.JPG)). Related image for La Coupole.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:domaine-weinbach
 source_lang: zh
-source_revision: sha256:2e8ccb6cf64476d3bbeab8978e8d882291d0ef65ab8d47ee53172f1318a2a979
-source_sha256: 2e8ccb6cf64476d3bbeab8978e8d882291d0ef65ab8d47ee53172f1318a2a979
+source_revision: sha256:32e66bb7f9aa83f86219b5f056cadc43d538aee08a552a97c12e4376f7b9daef
+source_sha256: 32e66bb7f9aa83f86219b5f056cadc43d538aee08a552a97c12e4376f7b9daef
 translation_status: reviewed
 subtype: winery-visitor
 address: 25 Route du Vin, 68240 Kaysersberg, France
@@ -67,6 +67,12 @@ sources:
     publisher: Agence Touristique du Haut-Rhin / Bas-Rhin
     note: Used to check Kaysersberg and the Schlossberg position on the wine route; no source text is reproduced.
     accessed: 2026-11-09
+  - key: weinbach-official
+    title: "Domaine Weinbach — official website"
+    url: "https://www.domaineweinbach.com/"
+    publisher: "Domaine Weinbach"
+    note: "Used to check the estate location, family and vineyard information; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -74,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, bookings and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Domaine Weinbach
 
 Domaine Weinbach stands at 25 Route du Vin in Kaysersberg, Alsace. The estate was built in 1612 by Capuchin monks at the foot of the Schlossberg and later passed to the Faller family. Its name comes from the stream that crosses the property — the "wine stream". It is both a family home and a working cellar and tasting space, the kind of estate where you step into the courtyard and see vines immediately.![Domaine Weinbach photograph](/media/photos/q2-place-domaine-weinbach-59c1106f.jpg)
@@ -139,3 +146,9 @@ Opening hours, bookings and transport are subject to official channels; no coord
 | City and country | Kaysersberg / France |
 | Status | verified open |
 | Official site | domaineweinbach.com |
+
+## Related images
+
+![Alsace](/media/photos/region-alsace-15887179.jpg)
+
+Image: Alsace. Credit: Jorge Franganillo from Barcelona, Spain, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)). Related image for Domaine Weinbach.

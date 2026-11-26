@@ -100,6 +100,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 迈坡
 
 迈坡（Maipo）是智利中央山谷内的法定葡萄酒子区，围绕首都圣地亚哥，是智利现代葡萄酒业的发源地与产业中心。它以 Cabernet Sauvignon 红酒建立起国际声誉，也是智利酒庄密度最高、历史最集中的产区。
@@ -182,3 +183,13 @@ Carmenère 在迈坡也有种植，常带青椒、黑莓与香料气息；Syrah 
 - [风土](ref:terroir)：海拔、冲积扇与海洋影响。
 - [酸度](ref:acidity)：高海拔与昼夜温差对酸度的作用。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![佳美娜](/media/photos/variety-carmenere-eb814fed.jpg)
+
+图：佳美娜。图片：Lebowskyclone，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:CarmenereW.jpg)）。关联图像：迈坡。
+
+![智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。](/media/photos/region-chile-7480a4eb.jpg)
+
+图：智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。。图片：Beatrice Murch，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)）。关联图像：迈坡。

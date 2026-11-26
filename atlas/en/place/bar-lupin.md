@@ -89,8 +89,8 @@ verification_scope: source-verified
 translation_of: place:bar-lupin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:30ad7050121e23487b7037cda535e4395cbc9adf8fd4980069f3b649746a1877
-source_sha256: 30ad7050121e23487b7037cda535e4395cbc9adf8fd4980069f3b649746a1877
+source_revision: sha256:74c6c1cb40fe3dfba61129d8932d86dea3b0c87edab79d7d7979223176f9e8fe
+source_sha256: 74c6c1cb40fe3dfba61129d8932d86dea3b0c87edab79d7d7979223176f9e8fe
 ---
 
 # Bar Lupin
@@ -154,3 +154,9 @@ Ginza is not car-friendly; metro and walking are safest. After 22:00 the alleys 
 - さんたつ article: <https://san-tatsu.jp/articles/524680/>, for the 1944 closure, postwar reopening, the 1972 rebuild and counter preservation, Dazai’s seat, the memorial toast and hours.
 - JNTO article: <https://www.japan.travel/en/de/story/japanische-literatur-reise/>, to cross-check the 1928 opening and literary regulars.
 - Same-city entries: [Star Bar Ginza](ref:star), [Kamiya Bar](ref:kamiya), [Bar High Five](ref:highfive), [American Bar Savoy](ref:savoy), [Tokyo bar route](ref:route).
+
+## Related images
+
+![Photograph for Star Bar Ginza: File:YamazakiDistillery 01.jpg. Credit: Ujigis, CC BY-SA 4.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.](/media/photos/q2-place-star-bar-ginza-5aef3a60.jpg)
+
+Image: File:YamazakiDistillery 01.jpg. Credit: Ujigis, CC BY-SA 4.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.. Credit: Ujigis, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)). Related image for Bar Lupin.

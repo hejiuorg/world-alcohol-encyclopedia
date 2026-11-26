@@ -91,6 +91,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 江苏省
 
 江苏省位于中国东部沿海、长江下游。在酒类版图上，它既有以洋河、双沟为代表的浓香型白酒产业，也有以丹阳封缸酒、无锡惠泉酒为代表的黄酒传统。本页聚焦黄酒产区，白酒部分只在必要处提及。
@@ -186,3 +187,13 @@ verification_scope: source-verified
 | 国家代码 | CN |
 
 **来源与边界。** 本页关于「江苏省」的关键事实，主要由以下来源交叉核对：江苏省人民政府（行政区划与公开的省情信息）、国家市场监督管理总局、国家标准化管理委员会（黄酒的术语、分类与标签要求；未复制标准原文；饮料酒分类与术语；未复制标准原文）、江苏省农业农村厅（江苏省农业生产与地方特色产业信息）等 7 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![糯米](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+图：糯米。图片：국립국어원，CC BY-SA 2.0 kr，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)）。关联图像：江苏省。
+
+![小麦](/media/photos/ingredient-wheat-e782d218.jpg)
+
+图：小麦。图片：kallerna，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)）。关联图像：江苏省。

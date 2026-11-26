@@ -11,8 +11,8 @@ revision: 2
 translation_of: guide:whisky-intro
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d34f587fe0a45968447f8c98b58df0bab7ff221c29c6fa0e71fd903ea0f27667
-source_sha256: d34f587fe0a45968447f8c98b58df0bab7ff221c29c6fa0e71fd903ea0f27667
+source_revision: sha256:f8b3e8b30d93a4d5ca10a9da8be8bbf18a17a1b011f909fc99aac03eca3842ab
+source_sha256: f8b3e8b30d93a4d5ca10a9da8be8bbf18a17a1b011f909fc99aac03eca3842ab
 about_refs:
   - drink-style:whisky
 audience: If you want want to start drinking whisky but are put off by regions and age statements.
@@ -194,6 +194,24 @@ Further reading
 - [Alcohol by volume](ref:abv): the difference between 40% and stronger versions.
 - [The first sip](ref:tasting): smell, taste and record.
 - [How to choose a glass](ref:glass): how glass shape gathers aroma.
+
+
+## Frequently asked questions
+
+### Does a first bottle have to be single malt?
+
+No. Start with how you will drink it. For ice, mixing or a everyday bottle, blended whisky is usually more consistent and forgiving. Choose a low-peat single malt when you want to compare distillery character. At a limited budget, 40–46% ABV usually keeps more aroma and structure; below 40% is softer but can taste thin.
+
+### Is older always better?
+
+No. The age statement only gives the minimum time in cask; it does not guarantee a better drink. Flavour comes more from distillery style, cask type, bottling batch and storage. High-age whisky can be over-oaked and expensive. Around 12 years is often a better starting point for learning than 25.
+
+### How long does an open bottle keep?
+
+Stand it upright in a cool, dark place; flavour is usually stable for 6–12 months. The less liquid is left, the faster it oxidises. To extend it, decant into a smaller clean glass bottle to reduce headspace. Do not keep it in a domestic fridge long term: low temperature mutes aroma, and repeated removal brings condensation.
+
+> **Next:** Read the [whisky style page](ref:whisky) for the category frame, then [Scotland](ref:scotland) for the region-distillery relationship; when you start tasting, use the [first tasting](ref:tasting) sequence for notes.
+
 
 ## Sources
 

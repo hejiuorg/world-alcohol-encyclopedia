@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:shochu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:004efe0e440b6184e95a7d4f556ba8b510e6e41a540c92d940d7398ff777e15f
-source_sha256: 004efe0e440b6184e95a7d4f556ba8b510e6e41a540c92d940d7398ff777e15f
+source_revision: sha256:55420caa92cf4ff6730865504666ecd81c76999fc97f35850d05a7b46132e38a
+source_sha256: 55420caa92cf4ff6730865504666ecd81c76999fc97f35850d05a7b46132e38a
 legacy_refs: []
 aliases:
   - Shochu
@@ -89,6 +89,7 @@ rights:
   note: The lead image is a photograph of bottled Amami kokuto shochu, used under CC BY-SA 4.0; see the figure caption. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Japanese shochu
 
 Japanese shochu is not one drink but a branch of distilled spirits under Japan's liquor tax law. It divides by distillation into two routes: continuously distilled class A shochu, neutral in character and made at scale; and single-distilled class B shochu, which keeps the identity of its material and, when it meets the material rules, may carry the label honkaku shochu. That fork matters more than any single brand or place name.
@@ -173,3 +174,9 @@ First, treating Japanese shochu and Korean soju as the same drink. Their materia
 - [Rice](ref:rice) and [water](ref:water): the base materials of shochu.
 - [Fermentation](ref:fermentation): koji, saccharification and two-stage mashing.
 - [Alcohol by volume](ref:abv): the basic concept behind label declarations.
+
+## Related images
+
+![Soju](/media/photos/drink-style-soju-8b1cabb3.jpg)
+
+Image: Soju. Credit: Graham Hills, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Soju.jpg)). Related image for Japanese shochu.

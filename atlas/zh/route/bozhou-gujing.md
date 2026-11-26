@@ -149,3 +149,13 @@ verification_scope: source-verified
 - 古井酒文化博览园门票价格收费标准延期的通知 — https://fgw.bozhou.gov.cn/News/show/685103.html（亳州市发展和改革委员会，核对 2026-11-25）
 
 相关条目：[古井酒文化博览园](ref:park)、[古井镇（亳州）](ref:town)、[古井贡酒](ref:brand)、[浓香型白酒](ref:style)、[安徽省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![古井酒文化博物馆类别配图](/media/photos/region-bozhou-5fcc3ce2.jpg)
+
+图：古井酒文化博物馆类别配图。图片：Jeremy Thompson，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bozhou_Railway_Station_(54488765713).jpg)）。关联图像：亳州路线：古井与药都。
+
+![安徽省](/media/photos/region-anhui-ad268e10.jpg)
+
+图：安徽省。图片：xiquinhosilva，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mount-huangshan_53319732882_o.jpg)）。关联图像：亳州路线：古井与药都。

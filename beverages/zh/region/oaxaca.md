@@ -76,6 +76,7 @@ rights:
   note: 第三方标准、公报文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。法规细节以现行官方标准为准。
 verification_scope: source-verified
 ---
+
 # 瓦哈卡
 
 瓦哈卡（Oaxaca）位于墨西哥南部，北接普埃布拉与韦拉克鲁斯，西邻格雷罗，东连恰帕斯，南面是太平洋。它既是全国梅斯卡尔（mezcal）产量最大的州，也是这种蒸馏酒最广为人知的产地形象。但必须先把两件事分开：梅斯卡尔是覆盖多州的全国性原产地命名类别，瓦哈卡是其中最重要的生产带，而不是梅斯卡尔的同义词。
@@ -133,3 +134,13 @@ verification_scope: source-verified
 - [橡木桶陈年](ref:oak-ageing)：reposado 与 añejo 的桶陈影响。
 
 相关条目：[梅斯卡尔](ref:mezcal)、[龙舌兰酒](ref:tequila)、[发酵](ref:fermentation)。
+
+## 相关图像
+
+![龙舌兰酒](/media/photos/drink-style-tequila-827c4596.jpg)
+
+图：龙舌兰酒。图片：T2O media México，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Paisaje_agavero_de_Jose_Cuervo_en_Tequila,_Jalisco.jpg)）。关联图像：瓦哈卡。
+
+![梅斯卡尔](/media/photos/drink-style-mezcal-a77be8ad.jpg)
+
+图：梅斯卡尔。图片：ProtoplasmaKid，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg)）。关联图像：瓦哈卡。

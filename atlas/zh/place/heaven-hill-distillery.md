@@ -131,6 +131,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格、场次与生产安排会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 天堂山酒厂
 
 巴兹敦（Bardstown）Gilkey Run 路 1311 号是天堂山（Heaven Hill）的游客中心 Heaven Hill Bourbon Experience，不是蒸馏车间。所有导览从这里集合，再乘接驳车去两英里外的 Springs 新厂；访客不能自行进入生产区。把“体验中心”与“生产厂”分开，是安排参观时最重要的信息。天堂山是美国最大的家族经营蒸馏厂之一，1935 年由 Shapira 五兄弟与巴兹敦本地投资人创立，至今仍由家族掌控。
@@ -182,3 +183,9 @@ Springs 的导览约 60 分钟，走三层楼。第一层看不锈钢糖化罐�
 | 官网 | heavenhilldistillery.com |
 
 **来源与边界。** 本页关于「天堂山酒厂」的关键事实，主要由以下来源交叉核对：Heaven Hill Distillery（1311 Gilkey Run Rd 地址、所有导览从 Bourbon Experience 出发且不直接进入 Springs 蒸馏厂的说明；2022 年动工、61 英亩园区、500 棵白橡树、32 英亩原生草花、60 分钟三层楼导览、66 英寸连续蒸馏器、每日 500 桶、现场扩培酵母与接驳车安排）、Heaven Hill Brands（1935 年由五名 Shapira 兄弟与巴兹敦投资人创立、最初 12 名员工）、Barlist（坐标 37.7933076, -85.4657156（本文取四位小数）与 1311 Gilkey Run Rd 地址）等 12 条来源。产品、地址或营业状态变化较快时，以 heavenhilldistillery.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![肯塔基州类别配图](/media/photos/producer-brown-forman-5ceb6df2.jpg)
+
+图：肯塔基州类别配图。图片：Nyttend，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Brown-Forman_warehouse_A_and_bottling_house.jpg)）。关联图像：天堂山酒厂。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:cabernet-franc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:89bfcc12160945beb569f81d8eece5e9af3d68b5e449a2d5568918b7a7887e38
-source_sha256: 89bfcc12160945beb569f81d8eece5e9af3d68b5e449a2d5568918b7a7887e38
+source_revision: sha256:1705a608e825755747f2ab6b5710672611bb53da9a216a7b061e68eff0fa1032
+source_sha256: 1705a608e825755747f2ab6b5710672611bb53da9a216a7b061e68eff0fa1032
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -77,6 +77,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Cabernet Franc
 
 Cabernet Franc is a red grape variety from [Bordeaux](ref:bordeaux) and the Loire Valley in France, with thinner skins than Cabernet Sauvignon and earlier ripening, moderate tannin and expressive aroma, known for raspberry, violet, graphite and green pepper notes. It is one of the parents of Cabernet Sauvignon and is used both as a varietal wine and in blends on Bordeaux's Right Bank and in the Loire.
@@ -156,3 +157,9 @@ A frequent error is to treat Cabernet Franc as the name of a wine. Establish wha
 - [Cheval Blanc](ref:cheval-blanc): a Right Bank estate built on Cabernet Franc.
 - [Bordeaux](ref:bordeaux): Cabernet Franc's role in Right Bank blends.
 - [France](ref:france): French wine law and appellations.
+
+## Related images
+
+![Related photograph of Château Cheval Blanc](/media/photos/drink-france-chateau-cheval-blanc-31ae585f.jpg)
+
+Image: Related photograph of Château Cheval Blanc. Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)). Related image for Cabernet Franc.

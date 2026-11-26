@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 格兰威特蒸馏厂
 
 从 Ballindalloch 沿 B9008 往山里走，路两侧先是牧场，再是石墙与稀疏的树，最后才看到格兰威特的游客中心与厂房。它不在城镇中心，也不在威士忌广告最常出现的那条“酒厂一条街”上；但 Glenlivet 这个地名在苏格兰威士忌史上分量很重，19 世纪的非法蒸馏、1823 年的新税法与 1824 年的第一张执照，都在这一带发生。今天的酒厂把这段历史讲得很清楚，同时也是一个产量很大的现代生产基地。
@@ -136,3 +137,9 @@ verification_scope: source-verified
 对照阅读：[苏格兰威士忌](ref:scotch)、[威士忌入门](ref:whisky-intro)。
 
 相关条目：[斯佩塞](ref:speyside)。
+
+## 相关图像
+
+![斯佩塞类别配图](/media/photos/place-glenfiddich-distillery-d6ab0496.jpg)
+
+图：斯佩塞类别配图。图片：Coldupnorth，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenfiddich_Distillery_View.jpg)）。关联图像：格兰威特蒸馏厂。

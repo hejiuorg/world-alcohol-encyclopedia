@@ -73,6 +73,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # 田纳西威士忌路线：林奇堡与 Cascade Hollow 的两个山谷
 
 田纳西威士忌常被当成“波本加一道木炭过滤”，这句话只说对了一半。原料与桶的要求确实接近波本，但木炭过滤、州内完成与品牌选择，让田纳西形成一个独立的类别。这条路线只取两家：林奇堡的杰克丹尼与 Cascade Hollow 的乔治迪克尔。两站相距约半小时到四十分钟，做的是同一类酒，给出的却是“常温”与“低温”两种答案。
@@ -139,3 +140,13 @@ updated_at: 2026-11-08
 对照阅读：[杰克丹尼酒厂](ref:jack-daniels)、[田纳西](ref:c-extra-1)。
 
 林奇堡与 Cascade Hollow 两个山谷相距较远，酒厂参观需提前订票；开放时间、场次与交通以各官网为准。核验于 2026-11-08。
+
+## 相关图像
+
+![乔治迪克尔酒厂相关实景照片](/media/photos/place-george-dickel-distillery-c9223c18.jpg)
+
+图：乔治迪克尔酒厂相关实景照片。图片：Brian Stansberry (photographer)，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:George-dickel-distillery-visitor-center-statue-tn1.jpg)）。关联图像：田纳西威士忌路线：林奇堡与 Cascade Hollow 的两个山谷。
+
+![杰克丹尼酒厂](/media/photos/place-jack-daniels-distillery-1ab6c621.jpg)
+
+图：杰克丹尼酒厂。图片：Ben Jacobson ( Kranar Drogin )，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)）。关联图像：田纳西威士忌路线：林奇堡与 Cascade Hollow 的两个山谷。

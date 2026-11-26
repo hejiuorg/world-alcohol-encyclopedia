@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:cider
 source_lang: zh
-source_revision: sha256:e0a9e1a731daec5133edaea42367c338c1b12791cc9f2ba38fdc412b41412155
-source_sha256: e0a9e1a731daec5133edaea42367c338c1b12791cc9f2ba38fdc412b41412155
+source_revision: sha256:0656fc6fdc7dd132ba7334f9a8dab4bb37b758270f23c23a495f8159a205f0cb
+source_sha256: 0656fc6fdc7dd132ba7334f9a8dab4bb37b758270f23c23a495f8159a205f0cb
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Cider
 
 Cider is an alcoholic drink made by [fermentation](ref:fermentation) of [apple](ref:apple) juice. The ingredients are simple, but the range is wide: from tannic, slightly earthy dry cider in western England to sweeter, sparkling farmhouse cider in Normandy, and further to ice cider made from concentrated apple juice in Quebec. Like [beer](ref:beer) and [wine](ref:wine) it is a fermented drink, but its raw material and fermentation logic are different.
@@ -151,3 +152,9 @@ Cider can be mixed, but its acidity and bubbles change a recipe's balance. As an
 **In brief:** A fermented apple-juice drink; apple tannin and acidity build the frame, wild yeast, malolactic fermentation and residual sugar decide the style, and UK duty treats cider from 1.2% to 8.5% vol as its own class.
 
 **Sources and limits.** The key claims about Cider are checked against the following sources: State Administration for Market Regulation, Standardisation Administration of China, National Association of Cider Makers (UK) (Used to check UK cider raw materials, regions and style categories), HM Revenue & Customs / HM Treasury (Used to check the UK system of strength-banded alcohol duty and the separate cider and perry class) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Malolactic fermentation](/media/photos/process-malolactic-fermentation-2d4ece59.jpg)
+
+Image: Malolactic fermentation. Credit: Agne27, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Malolactic_spotting.JPG)). Related image for Cider.

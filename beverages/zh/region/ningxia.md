@@ -86,6 +86,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 宁夏
 
 宁夏是中国西北的内陆省份，葡萄酒产业集中在贺兰山东麓。产区南北绵延近 200 公里，葡萄园多分布在海拔约 1100 米的洪积扇、砾石坡地与黄河灌区，干旱少雨、日照充足。宁夏是中国酒庄酒最集中的产区之一；理解宁夏，要从一条山脉、一条河流、一部产区保护条例和一套酒庄体系入手。
@@ -155,3 +156,13 @@ verification_scope: source-verified
 - [葡萄](ref:grape)：酿酒葡萄的结构与成熟指标。
 - [发酵](ref:fermentation)：控温发酵与苹果酸乳酸发酵的差异。
 - [橡木桶陈年](ref:oak-ageing)：新桶与旧桶对风格的影响。
+
+## 相关图像
+
+![中国类别配图](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+图：中国类别配图。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)）。关联图像：宁夏。
+
+![霞多丽](/media/photos/variety-chardonnay-efde6838.jpg)
+
+图：霞多丽。图片：Jenavive at English Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)）。关联图像：宁夏。

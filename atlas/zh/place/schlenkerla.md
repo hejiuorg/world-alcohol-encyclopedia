@@ -5,7 +5,7 @@ type: place
 lang: zh
 slug: schlenkerla
 title: 施伦克拉烟熏啤酒馆
-summary: 德国班贝格的历史烟熏啤酒酒馆，以 Rauchbier 和传统法兰肯菜闻名。
+summary: 德国班贝格的历史烟熏啤酒酒馆，以 Rauchbier 和传统法兰肯菜闻名；酒馆建筑可追溯到 17 世纪，自酿烟熏啤酒是班贝格城市味觉的代表。
 status: reviewed
 revision: 5
 subtype: pub
@@ -76,6 +76,7 @@ city: 班贝格
 verification_scope: source-verified
 founded_year: 1405
 ---
+
 # 施伦克拉烟熏啤酒馆
 
 ![施伦克拉烟熏啤酒馆 图像](/media/photos/place-schlenkerla-60ff74fd.jpg)
@@ -141,3 +142,9 @@ founded_year: 1405
 对照阅读：[啤酒](ref:beer)、[酒馆史：从酒肆、客栈到酒吧](ref:history-of-taverns)。
 
 把 Schlenkerla 放回班贝格烟熏啤酒与酒馆史，可对照[啤酒](ref:beer)与[酒馆史：从酒肆、客栈到酒吧](ref:history-of-taverns)。
+
+## 相关图像
+
+![Largo de São Domingos 8 号的 A Ginjinha 店面，红色招牌与站立式吧台](/media/photos/place-a-ginjinha-c9fe334e.jpg)
+
+图：Largo de São Domingos 8 号的 A Ginjinha 店面，红色招牌与站立式吧台。图片：Shadowgate，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ginjinha_store.jpg)）。关联图像：施伦克拉烟熏啤酒馆。

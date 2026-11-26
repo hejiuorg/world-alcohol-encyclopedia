@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 富尔民特
 
 富尔民特（Furmint）是匈牙利托卡伊（Tokaj）最重要的白葡萄，也是世界上最容易被误解的品种之一。多数人只把它与甜腻的贵腐酒联系在一起，却不知道它酸度高、皮厚、晚熟，能酿出极具张力的干白。托卡伊的雾季与河流、贵腐菌与橡木桶，塑造了阿苏（Aszú）的蜂蜜与杏脯；而近二十年的干型富尔民特，则让这个品种的柑橘、烟熏与盐感走到前台。
@@ -149,3 +150,9 @@ verification_scope: source-verified
 | --- | --- |
 | 一句话定位 | 富尔民特是匈牙利托卡伊的核心白葡萄，酸度高、皮厚、易感染贵腐菌；既酿出以阿苏为代表的贵腐甜酒，也酿出日益重要的干型富尔民特，风格从蜂蜜杏脯到柑橘与烟熏 |
 | 物种 | Vitis vinifera |
+
+## 相关图像
+
+![贵腐（noble rot）](/media/photos/term-noble-rot-97171bf5.jpg)
+
+图：贵腐（noble rot）。图片：Photographer: Tom Maack No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Botrytis_riesling.jpg)）。关联图像：富尔民特。

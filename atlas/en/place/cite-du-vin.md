@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:cite-du-vin
 source_lang: zh
-source_revision: sha256:77d5fc3091dbe7db2579bf6c08136e016db6288807e8c5773fafd467bca78f2a
-source_sha256: 77d5fc3091dbe7db2579bf6c08136e016db6288807e8c5773fafd467bca78f2a
+source_revision: sha256:2771a71deb3f270d2a8559bc748a912b68b8834fbb140db220043a00cefd0da6
+source_sha256: 2771a71deb3f270d2a8559bc748a912b68b8834fbb140db220043a00cefd0da6
 translation_status: reviewed
 subtype: museum
 address: 134 Quai de Bacalan, 33300 Bordeaux, France
@@ -167,3 +167,9 @@ The museum sits in Bassins à Flot, well combined with the river bank, the Chaba
 La Cité du Vin puts [wine](ref:wine) back on a world map and places [Bordeaux](ref:bordeaux) inside a larger [history of world wine](ref:world-wine). It also offers a contrast with the Changyu Wine Culture Museum: one tells global wine through a civic institution, the other tells Chinese industrial wine through a company's history.
 
 Further reading: [Changyu Wine Culture Museum](ref:c-extra-1), [A Ginjinha](ref:c-extra-2).
+
+## Related images
+
+![Illustration for Changyu Wine Culture Museum](/media/photos/theme-winery.jpg)
+
+Image: Illustration for Changyu Wine Culture Museum. Project-made bilingual editorial figure, not an on-site photograph. Related image for La Cité du Vin.

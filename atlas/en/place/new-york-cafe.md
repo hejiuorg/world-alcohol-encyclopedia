@@ -84,9 +84,10 @@ founded_year: 1894
 translation_of: place:new-york-cafe
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b9dd50da36118d8de7ad9496577986bc123ba8080dfb97e23840812d32701d74
-source_sha256: b9dd50da36118d8de7ad9496577986bc123ba8080dfb97e23840812d32701d74
+source_revision: sha256:2ea4c473c8e1ae1f9f22693c20fe07dcae0e74ba9808a2f4356de6b8eee3f820
+source_sha256: 2ea4c473c8e1ae1f9f22693c20fe07dcae0e74ba9808a2f4356de6b8eee3f820
 ---
+
 # New York Café
 
 From Blaha Lujza tér metro station, walk three minutes along Erzsébet körút and the dark façade and gold “NEW YORK CAFÉ” lettering of the New York Palace appear. Inside, the first thing you see is not a table but the ceiling: gilded stucco, frescoes, chandeliers, and marble columns turn the room into an opera house. Waiters carry silver trays through the crowd, and piano music expands under the vault. It is called “the most beautiful café in the world,” a title that is both praise and burden—because more people come to see the ceiling than to drink coffee.
@@ -147,3 +148,9 @@ Ten minutes west are Astoria and Deák Ferenc tér; south are Rákóczi út and 
 - Related entries: [Gerbeaud](ref:gerbeaud), [Café Central](ref:central), [Café Hawelka](ref:hawelka), [Café Sperl](ref:sperl), [Vienna coffee-house evening route](ref:vienna-route)
 
 **In brief:** New York Café at Erzsébet körút 9–11 opened with the New York Palace in 1894. Its gilded ceiling, frescoes, marble columns, and chandeliers turned it into Budapest’s “most beautiful café”; the legend of the key thrown into the Danube, the Nyugat writers’ tables, the postwar Hungária years, and the 2006 restoration make its history more complicated than its décor.
+
+## Related images
+
+![The Gerbeaud facade on Vörösmarty tér 7–8, with its Christmas tree](/media/photos/place-gerbeaud-659ea878.jpg)
+
+Image: The Gerbeaud facade on Vörösmarty tér 7–8, with its Christmas tree. Credit: Random photos 1989, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Budapest,_V%C3%B6r%C3%B6smarty_t%C3%A9r_7-8,_Gerbeaud-h%C3%A1z,_kar%C3%A1csonyfa,_1.jpg)). Related image for New York Café.

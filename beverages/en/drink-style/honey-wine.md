@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:honey-wine
 source_lang: zh
-source_revision: sha256:bf2c1c3b8e84edb65016a7a12ef0730bcdbb73408d4d94fe17e705d02b75a9de
-source_sha256: bf2c1c3b8e84edb65016a7a12ef0730bcdbb73408d4d94fe17e705d02b75a9de
+source_revision: sha256:d944a5f550c4a5538222c797399c8aefa20f2f74dd640e9d723e8ba8c6ca56e2
+source_sha256: d944a5f550c4a5538222c797399c8aefa20f2f74dd640e9d723e8ba8c6ca56e2
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -151,3 +151,9 @@ Dry mead is best served chilled and pairs with cheese, roasted poultry and spice
 Serve it cooler than room temperature but not ice-cold: too cold shuts down the flowers, too warm pushes the alcohol forward. Once opened, keep it cold and finish it promptly, especially low-alcohol, low-acid styles.
 
 [Wine](ref:wine) and [Alcohol by volume (ABV)](ref:abv) are the nearest useful comparisons: one clarifies legal definition, the other tests materials and process.
+
+## Related images
+
+![Honey](/media/photos/ingredient-honey-79e37da8.jpg)
+
+Image: Honey. Credit: Scott Bauer, USDA ARS, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg)). Related image for Honey Wine.

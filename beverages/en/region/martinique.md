@@ -15,8 +15,8 @@ legacy_refs: []
 translation_of: region:martinique
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7bc236e7ba90ad3ed5820ac8507b2961c9ddd3eb15140badea600874ffaaea48
-source_sha256: 7bc236e7ba90ad3ed5820ac8507b2961c9ddd3eb15140badea600874ffaaea48
+source_revision: sha256:b1f1a36545952156b579250c477b42c3ab9c4210ae09c50a33e703c255c2ae2a
+source_sha256: b1f1a36545952156b579250c477b42c3ab9c4210ae09c50a33e703c255c2ae2a
 aliases:
   - Martinique
   - Martinique rhum agricole
@@ -161,3 +161,13 @@ First, that agricultural rum means all Martinique rum; the island also makes mol
 - [Distillation](ref:distillation): continuous and pot distillation.
 - [Fermentation](ref:fermentation): cane-juice fermentation and flavour precursors.
 - [Oak ageing](ref:oak-ageing): cask type and flavour in aged agricultural rum.
+
+## Related images
+
+![A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.](/media/photos/drink-style-rum-ebd00623.jpg)
+
+Image: A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.. Credit: Pinakpani, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottle_of_Captain_Morgan_Rum_01.jpg)). Related image for Martinique.
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for Martinique.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:remy-martin-cognac
 source_lang: zh
-source_revision: sha256:0475bb618003989e6baafdfd29fd837eb5622b545e21db6d1b1d1fef9b333b2c
-source_sha256: 0475bb618003989e6baafdfd29fd837eb5622b545e21db6d1b1d1fef9b333b2c
+source_revision: sha256:5a16fcb74c2ef876ba45f78f9b7494234c4b3369fc91f920a1a99f176914975c
+source_sha256: 5a16fcb74c2ef876ba45f78f9b7494234c4b3369fc91f920a1a99f176914975c
 translation_status: reviewed
 subtype: distillery-visitor
 address: 20 rue de la Société Vinicole, 16100 Cognac, France
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; hours, prices and tour formats change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Rémy Martin in Cognac
 
 Rémy Martin is a cognac house founded in 1724 by a winegrower of the same name, and one of the few major brands to build its identity on Fine Champagne: it uses only eaux-de-vie from Grande Champagne and Petite Champagne, at least half of them from Grande Champagne. Its visits are split across three places, the historic house in Cognac, the Merpins production site and the Juillac-le-Coq vineyard distillery, which makes a visit feel like tracing a supply chain rather than touring a single brand centre.
@@ -153,3 +154,9 @@ Start with the address. From there, consider the current opening status, then wh
 | Official site | remymartin.com |
 
 **Sources and limits.** The key claims about Rémy Martin in Cognac are checked against the following sources: Rémy Martin, BNIC (Used to check the appellation and the rules for double distillation in Charente stills), INAO (Used to check the French framework for origin-labelled products). For current products, addresses or opening status, use remymartin.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Cognac](/media/photos/region-cognac-b2c89cad.jpg)
+
+Image: Cognac. Credit: Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)). Related image for Rémy Martin in Cognac.

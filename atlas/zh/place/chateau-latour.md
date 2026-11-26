@@ -98,6 +98,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观政策与年份供应会变化，以官方联系为准。
 verification_scope: source-verified
 ---
+
 # 拉图酒庄
 
 从 Pauillac 沿 D2 往南，葡萄园在左手展开，右手是吉伦特河口的水面。拉图的塔楼不在路边最显眼的位置，车要拐进一条窄道，穿过树林与草地，才看到那座圆顶塔楼与 19 世纪的宅邸。它离河口只有约 300 米，水面像一面巨大的镜子，调节着温度，也把船只与海风带到这里。拉图的力量感，从这片靠近水边的砾石高地开始。
@@ -163,3 +164,9 @@ verification_scope: source-verified
 - 官方联系：<http://www.chateau-latour.com/en/contact>，用于核对地址、电话、办公时间与专业人士预约政策。
 - 左岸对照：[Margaux](ref:margaux)、[Lafite](ref:lafite)、[Mouton](ref:mouton)、[Haut-Brion](ref:hautbrion)、[左岸酒庄路线](ref:route)。
 - 右岸对照：[Cheval Blanc](ref:cheval)、[Pétrus](ref:petrus)、[波尔多产区](ref:bordeaux)。
+
+## 相关图像
+
+![拉菲古堡](/media/photos/place-chateau-lafite-rothschild-22829880.jpg)
+
+图：拉菲古堡。图片：PA，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)）。关联图像：拉图酒庄。

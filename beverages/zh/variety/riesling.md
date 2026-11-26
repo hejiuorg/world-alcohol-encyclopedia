@@ -67,6 +67,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 雷司令
 
 雷司令是白色葡萄品种中最能表现产地差异的品种之一。它的酸度高、香气清晰，年轻时以青柠、青苹果、白花与矿物感为主，陈年后可能发展出蜂蜜与汽油气息。它的甜度跨度很大，从干型到甜型都能成立，因此酒标上的甜度信息比品种名更值得注意。
@@ -151,3 +152,9 @@ verification_scope: source-verified
 **更新提示。** 「雷司令」最近核对于 2026-11-04；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
 
 **编者注。** 本页把「雷司令」作为品种条目处理：定义、流程与关键数字以正文表格为准，与「葡萄酒」、「白葡萄酒」的差异用对照阅读验证；遇到价格、批次或地址，回到页面所列来源核对。
+
+## 相关图像
+
+![起泡酒](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+图：起泡酒。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：雷司令。

@@ -32,8 +32,8 @@ tags:
 translation_of: place:caffe-gilli
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:74744569febc60bfa4c42b6825bf8e1fc073f212ce1f539c5c0f584ae8994811
-source_sha256: 74744569febc60bfa4c42b6825bf8e1fc073f212ce1f539c5c0f584ae8994811
+source_revision: sha256:d0e19e9cc7e8ae17d54ea73201e9eaf8a1a070cc8831bd5f3bb3dd20f1a733c7
+source_sha256: d0e19e9cc7e8ae17d54ea73201e9eaf8a1a070cc8831bd5f3bb3dd20f1a733c7
 related:
   - relation: about
     target_id: place:antico-caffe-greco
@@ -89,6 +89,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1733
 ---
+
 # Caffè Gilli
 
 On the corner of Piazza della Repubblica where it meets Via Roma, Caffè Gilli's orange awning and dark wooden doors are easy for visitors to miss. It is not one of those restaurants near Piazza della Signoria that puts its history on a signboard, nor does it rely on a photogenic window display. Step inside and the first things you see are a walnut counter, an old wall clock, mirrors and rows of pastry boxes. This is one of Florence's oldest cafés still in business, but it is first of all a pastry-and-coffee business that has traded since 1733, not a historic house kept only for viewing.
@@ -148,3 +149,9 @@ From Gilli, the Duomo and Baptistery are two minutes north; crossing Piazza dell
 For Caffè Gilli, begin with the address, then the current opening status, and finish with what the place is known for; that order keeps the account grounded.
 
 The comparison with [Antico Caffè Greco](ref:greco) and [Al Bicerin](ref:bicerin) runs through address and space and operating status. Each answers a different question.
+
+## Related images
+
+![Antico Caffè Greco on Via dei Condotti, Rome](/media/photos/place-antico-caffe-greco-632435ad.jpg)
+
+Image: Antico Caffè Greco on Via dei Condotti, Rome. Credit: Elisabetta Stringhi from Italia, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Antico_caff%C3%A9_greco_(14869700159).jpg)). Related image for Caffè Gilli.

@@ -94,6 +94,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 卡萨布兰卡谷
 
 卡萨布兰卡谷（Casablanca Valley）是智利圣地亚哥西北、通往瓦尔帕莱索方向的冷凉气候产区，也是智利白葡萄酒现代化的关键地点。它在 1980 年代被重新发现，1994 年获得法定地位，以 Sauvignon Blanc、Chardonnay 与 Pinot Noir 著称。
@@ -178,3 +179,13 @@ Pinot Noir 在冷凉气候下表现良好，常带红樱桃、草莓与香料气
 - [酒泥陈酿](ref:lees-ageing)：酒泥接触对质地的影响。
 - [风土](ref:terroir)：花岗岩黏土、雾带与坡位。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。](/media/photos/region-chile-7480a4eb.jpg)
+
+图：智利安第斯山麓的葡萄园，成排的葡萄藤沿山坡展开。。图片：Beatrice Murch，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)）。关联图像：卡萨布兰卡谷。
+
+![酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。](/media/photos/editorial-lees-ageing-q2.jpg)
+
+图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：卡萨布兰卡谷。

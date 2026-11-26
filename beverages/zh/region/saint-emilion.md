@@ -96,6 +96,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 圣埃美隆
 
 圣埃美隆是[波尔多](ref:bordeaux)右岸最容易被“分级”遮住的产区。人们记得 1955 年开始的列级名单，却容易忽略两套更基础的法定产区规则：圣埃美隆 AOC 与圣埃美隆特级（Saint-Émilion Grand Cru）AOC。前者产量上限为 46 百升/公顷，后者收紧到 40 百升/公顷，并要求至少 12 个月陈年与酒庄内装瓶。分级名单是在这两套规则之上再加的一层，理解顺序反过来，就会把“Grand Cru”误当成最高等级。
@@ -164,3 +165,13 @@ verification_scope: source-verified
 - [品丽珠](ref:cabernet-franc)：提供花香与结构的混酿品种。
 - [红葡萄酒](ref:red-wine)：圣埃美隆的主要酒类。
 - [风土](ref:terroir)：台地、坡地与土壤如何影响风格。
+
+## 相关图像
+
+![品丽珠](/media/photos/variety-cabernet-franc-2d40c732.jpg)
+
+图：品丽珠。图片：Viala et Vermorel，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cabernet-franc.jpg)）。关联图像：圣埃美隆。
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：圣埃美隆。

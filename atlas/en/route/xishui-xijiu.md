@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:xishui-xijiu
 source_lang: zh
-source_revision: sha256:d3bda2cc191e56238bc645de170c2167f6bb641f77edc5bdf2d7fe31c833ad98
-source_sha256: d3bda2cc191e56238bc645de170c2167f6bb641f77edc5bdf2d7fe31c833ad98
+source_revision: sha256:117d2b1774eda7890a85a6b84e3c974b9c19eefef03769bb59484ecfe894d99e
+source_sha256: 117d2b1774eda7890a85a6b84e3c974b9c19eefef03769bb59484ecfe894d99e
 translation_status: reviewed
 stop_ids:
   - place_id: place:xijiu-distillery
@@ -153,3 +153,13 @@ Alternative: see only the Xijiu estate, or only Tucheng and the Chishui valley; 
 - GB/T 2260-2007 Administrative division codes of the People’s Republic of China (Standardization Administration of China, checked 2026-11-25)
 
 Related entries: [Xijiu Distillery (Xijiu Town)](ref:distillery), [Tucheng Old Town (Xishui)](ref:tucheng), [Xijiu](ref:brand), [sauce-aroma baijiu](ref:style), [Guizhou](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Guizhou](/media/photos/region-guizhou-b13939f2.jpg)
+
+Image: Guizhou. Credit: Huangdan2060, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)). Related image for Xishui Route: Xijiu Plant and Tucheng Old Town.
+
+![Xijiu](/media/photos/brand-xijiu-0e1061d4.jpg)
+
+Image: Xijiu. Credit: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E4%B8%80%E6%AC%BE%E4%B9%A0%E9%85%92.jpg)). Related image for Xishui Route: Xijiu Plant and Tucheng Old Town.

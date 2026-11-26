@@ -76,6 +76,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 慕合怀特
 
 慕合怀特是地中海沿岸的红葡萄品种，在西班牙被称为莫纳斯特雷尔（Monastrell），在澳大利亚被称为马塔罗（Mataro）。它的果皮厚、成熟晚、耐热耐旱，常被当作混酿中的“结构与颜色提供者”。在法国普罗旺斯的邦多尔与罗讷河谷南部，它常与歌海娜、西拉一起出现。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 **适用边界。** 对「慕合怀特」而言，品种表现随产区、气候与克隆选择变化；同名品种在不同国家可能指不同材料。
 
 **更新提示。** 「慕合怀特」最近核对于 2026-11-07；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
+
+## 相关图像
+
+![普罗旺斯](/media/photos/region-provence-bc066643.jpg)
+
+图：普罗旺斯。图片：Robert Brink，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg)）。关联图像：慕合怀特。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:lagavulin-distillery
 source_lang: zh
-source_revision: sha256:83658a5da897229d6e74316ba996089bd8cb11cb536d90a04eefd432466eaf01
-source_sha256: 83658a5da897229d6e74316ba996089bd8cb11cb536d90a04eefd432466eaf01
+source_revision: sha256:998a659f364d49156eef000ab3c5befe3fdb7a01618f52a3f774757cd493df5f
+source_sha256: 998a659f364d49156eef000ab3c5befe3fdb7a01618f52a3f774757cd493df5f
 translation_status: reviewed
 subtype: distillery-visitor
 address: Lagavulin Distillery, Port Ellen, Isle of Islay, PA42 7DZ, United Kingdom
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, images and quoted text are excluded. Opening hours, tour prices and weather arrangements change; confirm with official channels.
 verification_scope: source-verified
 ---
+
 # Lagavulin Distillery
 
 Lagavulin sits on Lagavulin Bay on the south coast of Islay, about two miles east of Port Ellen on the A846 coast road, near the ruins of Dunyveg Castle. It was founded in 1816 by John Johnston and is one of Scotland's oldest distilleries. Illicit distillation had existed in the area before that; once legalised, Lagavulin turned heavy peat, slow fermentation and long maturation into a consistent house style. The distillery is now part of Diageo, but the visit is still centred on the working site. The official pronunciation is "Laga-VOO-lin", with the stress on the second syllable.
@@ -148,3 +149,9 @@ Further reading: [Whisky](ref:c-extra-1), [A Ginjinha](ref:c-extra-2).
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Lagavulin Distillery is built.
 
 Put [Scotch whisky](ref:scotch)'s address and space next to [Whisky for beginners](ref:whisky-intro)'s operating status; the difference marks the boundary.
+
+## Related images
+
+![Scotch whisky](/media/photos/drink-style-scotch-whisky-9e96a856.jpg)
+
+Image: Scotch whisky. Credit: Sansvase, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)). Related image for Lagavulin Distillery.

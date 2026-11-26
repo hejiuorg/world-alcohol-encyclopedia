@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:colchagua
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:76f136268615a53d2584f0c6666a09ebdd6d669a3d668fc4d7294138211520d0
-source_sha256: 76f136268615a53d2584f0c6666a09ebdd6d669a3d668fc4d7294138211520d0
+source_revision: sha256:d7adc6dfb24fd2997006e7bac750bab8f5c66d6a8d496f1592f1d820b4e0f431
+source_sha256: d7adc6dfb24fd2997006e7bac750bab8f5c66d6a8d496f1592f1d820b4e0f431
 level: other
 parent_id: region:chile
 country_code: CL
@@ -104,6 +104,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Colchagua
 
 Colchagua is an important wine region in the southern Central Valley of Chile, led by Cabernet Sauvignon, Carmenère and Merlot reds, with Syrah and coastal whites as well. Its legal rank is a zone, not a separate region or sub-region.
@@ -197,3 +198,13 @@ Read [Wine](ref:wine) for the geographic boundary side of Colchagua, and [Red wi
 - [Vintage](ref:vintage): vintage variation and drought in Colchagua.
 - [Single varietal](ref:single-varietal): the variety labelling share.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Colchagua.
+
+![Related photograph of Sauvignon Blanc](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+Image: Related photograph of Sauvignon Blanc. Credit: Geolina163 + 1971markus, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)). Related image for Colchagua.

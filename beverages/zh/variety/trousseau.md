@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 特鲁索
 
 法国汝拉的红葡萄，酒色浅、酸度高、单宁低，带红樱桃、香料与泥土；可酿轻红、桃红与起泡，是汝拉“轻酒体”传统的核心。
@@ -169,3 +170,9 @@ Arbois 的特鲁索更饱满，适合配烤肉；Côtes du Jura 的更轻，适�
 | 代表产区 | 汝拉 |
 
 **来源与边界。** 本页关于「特鲁索」的关键事实，主要由以下来源交叉核对：Julius Kühn-Institut（品种名称、同义词、起源与全球分布）、OIV（葡萄品种与栽培框架）、USDA ARS（植物分类、种质与栽培信息）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“汝拉”页面配图：File:Bodegas Grand vineyard in Passenans, Jura, France.jpg。摄影：Francisco Gonzalez，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-jura-de526709.jpg)
+
+图：File:Bodegas Grand vineyard in Passenans, Jura, France.jpg。摄影：Francisco Gonzalez，CC BY 2.0，来自 Wikimedia Commons。。图片：Francisco Gonzalez，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25637605)）。关联图像：特鲁索。

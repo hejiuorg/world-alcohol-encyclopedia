@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:hakushu-distillery
 source_lang: zh
-source_revision: sha256:0671828050a417c70080e92991856d6df8af4c6f6c66a53485a0af95c99ee3ff
-source_sha256: 0671828050a417c70080e92991856d6df8af4c6f6c66a53485a0af95c99ee3ff
+source_revision: sha256:146dcf12f53728db2dde1d7552ccdb8b1e3cc122a0cbd7a9f15b70c6901019f3
+source_sha256: 146dcf12f53728db2dde1d7552ccdb8b1e3cc122a0cbd7a9f15b70c6901019f3
 translation_status: reviewed
 subtype: distillery-visitor
 address: 2913-1 Hakushu, Hokuto, Yamanashi 408-0316, Japan
@@ -89,6 +89,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded. Opening hours, reservation rules and tour content change; confirm with official channels.
 verification_scope: source-verified
 ---
+
 # Hakushu Distillery
 
 Hakushu Distillery stands in Hakushu, Hokuto, Yamanashi, at 2913-1 Torihara, with the Southern Alps behind it. Suntory calls it a distillery in the forest: the site is surrounded by woodland, the visitor route passes through trees and birdsong, and the production buildings come later. It opened in 1973 as Suntory's second malt whisky distillery after Yamazaki. Unlike Yamazaki's position at the edge of a city, Hakushu was planned around the natural setting from the beginning: water, air, humidity and forest are treated as part of the whisky.![related photograph of Hakushu Distillery](/media/photos/place-hakushu-distillery-1ac68207.jpg)
@@ -134,3 +135,9 @@ The comparison with [Japan](ref:japan) and [Japanese whisky](ref:japanese-whisky
 | City and country | Hokuto / Japan |
 | Status | verified open |
 | Official site | suntory.co.jp |
+
+## Related images
+
+![Japanese whisky](/media/photos/drink-style-japanese-whisky-d17593e0.jpg)
+
+Image: Japanese whisky. Credit: Mikael Leppä, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vintage_Suntory_Tasting.jpg)). Related image for Hakushu Distillery.

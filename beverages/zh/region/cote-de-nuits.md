@@ -77,6 +77,7 @@ rights:
   note: 第三方商标、地图与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 夜丘
 
 夜丘（Côte de Nuits）是勃艮第金丘北段的红葡萄酒核心产区，葡萄园从第戎以南的 Marsannay-la-Côte 一直延伸到科尔戈隆，绵延约 40 公里。这里集中了 24 个特级园，黑皮诺占种植面积约 95%，是理解勃艮第红葡萄酒分级与“climat”概念最直接的一站。
@@ -159,3 +160,13 @@ Marsannay 是夜丘唯一正式允许生产桃红葡萄酒的村庄级产区，�
 - [红葡萄酒](ref:red-wine)：夜丘的类别、单宁与酿造概览。
 - [风土](ref:terroir)：climat 概念与地块差异。
 - [橡木桶陈年](ref:oak-ageing)：桶陈对黑皮诺香气与质地的影响。
+
+## 相关图像
+
+![“勃艮第”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：夜丘。
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：夜丘。

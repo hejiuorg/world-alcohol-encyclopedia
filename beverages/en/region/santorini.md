@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:santorini
 source_lang: zh
-source_revision: sha256:dbb788b2bc52f5425a0e7681873b47df56fc77bffc546ce8b6acc80a0823b178
-source_sha256: dbb788b2bc52f5425a0e7681873b47df56fc77bffc546ce8b6acc80a0823b178
+source_revision: sha256:5ed4df8e4b3a55f303c97bbb41b1b681cdfc9b0e8dc696601ee220f2b60f7199
+source_sha256: 5ed4df8e4b3a55f303c97bbb41b1b681cdfc9b0e8dc696601ee220f2b60f7199
 translation_status: reviewed
 level: other
 country_code: GR
@@ -89,6 +89,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Santorini
 
 Santorini, or Thira, is a volcanic island in the Cyclades and Greece's most distinctive white-wine PDO. It is known for Assyrtiko, volcanic soils and the kouloura basket system, and it maintains an almost hand-made form of viticulture under extreme drought and wind.
@@ -165,3 +166,13 @@ Four misconceptions recur. First, treating Santorini as a sweet-wine region: Vin
 - [Lees ageing](ref:lees-ageing): how lees contact affects texture and ageing.
 - [Grape](ref:grape): ripeness measures for wine grapes.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Category image for Assyrtiko](/media/photos/process-pressing-dd288ecb.jpg)
+
+Image: Category image for Assyrtiko. Credit: Klearchos Kapoutsis, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:White_wine_grape_pressing_in_Santorini.jpg)). Related image for Santorini.
+
+![Editorial illustration of lees ageing: wine layered above fine lees, with a racking tube and sample glass; AI-assisted illustration, not a photograph.](/media/photos/editorial-lees-ageing-q2.jpg)
+
+Image: Editorial illustration of lees ageing: wine layered above fine lees, with a racking tube and sample glass; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Santorini.

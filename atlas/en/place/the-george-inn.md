@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:the-george-inn
 source_lang: zh
-source_revision: sha256:4155801dbec10d64f27f704433fff902570654d76634bfe417c89e5a0a56789d
-source_sha256: 4155801dbec10d64f27f704433fff902570654d76634bfe417c89e5a0a56789d
+source_revision: sha256:0b7b62f07ea193b56f94c0cb65ba7fa0b401e74321868be3efd66b9c339c0946
+source_sha256: 0b7b62f07ea193b56f94c0cb65ba7fa0b401e74321868be3efd66b9c339c0946
 translation_status: reviewed
 subtype: pub
 address: The George Inn Yard, 77 Borough High Street, Southwark, London SE1 1NH, United Kingdom
@@ -84,6 +84,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; opening hours, menus, prices and event schedules change, so check official channels.
 verification_scope: source-verified
 ---
+
 # The George Inn
 
 ![The George Inn photograph](/media/photos/q2-place-the-george-inn-ec116f6f.jpg)
@@ -129,3 +130,9 @@ When drinking in the yard, do not use the galleries as climbing frames or lock b
 Further reading: [A Ginjinha](ref:c-extra-1).
 
 **Short definition:** A historic inn on Borough High Street in Southwark, owned by the National Trust and run by Greene King; rebuilt after a 1676 fire, it is London's last surviving galleried inn and appears in Dickens's Little Dorrit.
+
+## Related images
+
+![Category image for United Kingdom](/media/photos/route-london-gin-route-abe0a9c8.jpg)
+
+Image: Category image for United Kingdom. Credit: Decatur Wine & Spirits, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)). Related image for The George Inn.

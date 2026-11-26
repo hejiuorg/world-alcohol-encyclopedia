@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:el-floridita
 source_lang: zh
-source_revision: sha256:b95cbb1607c0852c2883c546af7d2a968208af8f51964131e5dea90d8318dcfb
-source_sha256: b95cbb1607c0852c2883c546af7d2a968208af8f51964131e5dea90d8318dcfb
+source_revision: sha256:13587a77653b8389e3423da7c051e3332395353159608aef440838363b64475d
+source_sha256: 13587a77653b8389e3423da7c051e3332395353159608aef440838363b64475d
 translation_status: reviewed
 subtype: pub
 address: Calle Obispo 557, esq. Monserrate, La Habana Vieja, La Habana 10100, Cuba
@@ -93,6 +93,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # El Floridita
 
 El Floridita (Xiǎo Fóluólǐdá Jiǔguǎn) occupies the corner of Obispo and Monserrate streets in Old Havana, at Calle Obispo 557. It opened in 1817 as “La Piña de Plata” (The Silver Pineapple). It is known as the “cradle of the daiquiri”: Constantino Ribalaigua Vert, a Catalan bartender known as Constante, began working there in 1914 and created a frozen daiquiri in 1931, turning the house into a school for rum cocktails. Ernest Hemingway became a regular in 1932, and the bar still keeps his place at the end of the counter, marked by a life-size bronze statue.![El Floridita image](/media/photos/place-el-floridita-2003d021.jpg)
@@ -134,3 +135,9 @@ To understand where such bars sit in the city, read [Pub and city](ref:pub-and-c
 Begin with the address, move on to the current opening status, and finish with what the place is known for. That order keeps the reading of El Floridita practical.
 
 **At a glance:** A legendary bar in Old Havana, founded in 1817 and known for Hemingway, the frozen daiquiri and its seafood bar.
+
+## Related images
+
+![Daiquiri](/media/photos/cocktail-daiquiri-a9821884.jpg)
+
+Image: Daiquiri. Credit: Will Shenton, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Classic_Daiquiri_in_Cocktail_Glass.jpg)). Related image for El Floridita.

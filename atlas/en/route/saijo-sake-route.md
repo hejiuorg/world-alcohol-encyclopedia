@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:saijo-sake-route
 source_lang: zh
-source_revision: sha256:c3bf736796ed058bb4826239de41e3d79e9aa2534abbf610fb17fadaad0a0fb7
-source_sha256: c3bf736796ed058bb4826239de41e3d79e9aa2534abbf610fb17fadaad0a0fb7
+source_revision: sha256:8c05594e2078395bdf200a089feeb57168fd3191a049663a1a42b08f7a82a954
+source_sha256: 8c05594e2078395bdf200a089feeb57168fd3191a049663a1a42b08f7a82a954
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -89,6 +89,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-09
 ---
+
 # Saijo sake route: Kamotsuru to Kamoizumi on foot
 
 The Saijo sake route is not a long cross-prefecture drive. It is a district walk: start at Kamotsuru's No. 1 Brewery, follow Sakagura-dori to Kamoizumi's Enju warehouse, and both stops sit within walking distance of JR Saijo Station. The route works not because there are many attractions but because seven brewing companies stand within about 1.5 km, an unusually dense industrial cluster. One walk shows a working plant, a converted warehouse open to visitors and a weekend tasting room in the same morning.
@@ -159,3 +160,13 @@ A walking plan: start at JR Saijo Station in the morning, see the displays and t
 - [Classification of Japanese sake](https://japansake.or.jp/sake/about-sake/classification-of-sake/), Japan Sake and Shochu Makers Association, checked for ginjo and junmai ginjo labelling rules.
 
 Page verified on 2026-11-09; hours, tour arrangements and event dates are subject to official channels.
+
+## Related images
+
+![Editorial illustration of kimoto and yamahai starter mash: rice koji and steam in a wooden vat, turned with a bamboo rake; AI-assisted, not a photograph.](/media/photos/editorial-kimoto-yamahai-q2.jpg)
+
+Image: Editorial illustration of kimoto and yamahai starter mash: rice koji and steam in a wooden vat, turned with a bamboo rake; AI-assisted, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Saijo sake route: Kamotsuru to Kamoizumi on foot.
+
+![Related photograph of Gekkeikan Okura Sake Museum](/media/photos/place-gekkeikan-okura-sake-museum-a8b62f22.jpg)
+
+Image: Related photograph of Gekkeikan Okura Sake Museum. Credit: 663highland, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Gekkeikan_Okura_Sake_Museum02s4592.jpg)). Related image for Saijo sake route: Kamotsuru to Kamoizumi on foot.

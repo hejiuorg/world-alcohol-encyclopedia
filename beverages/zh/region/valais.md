@@ -89,6 +89,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 瓦莱
 
 瓦莱（Valais，德语 Wallis）是瑞士最大的葡萄酒产区，葡萄园沿罗讷河上游分布在阿尔卑斯山谷两侧。
@@ -186,3 +187,13 @@ Fendant 建议 8–10 摄氏度，Petite Arvine 与 Ermitage 建议 10–12 摄�
 - [年份](ref:vintage)：瓦莱的年份差异。
 - [单一品种](ref:single-varietal)：瓦莱的品种比例与酒标标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![年份（vintage）](/media/photos/term-vintage-4b511c38.jpg)
+
+图：年份（vintage）。图片：Chiusi Painter，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)）。关联图像：瓦莱。
+
+![葡萄](/media/photos/ingredient-grape-2d929148.jpg)
+
+图：葡萄。图片：Vyacheslav Argenberg，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)）。关联图像：瓦莱。

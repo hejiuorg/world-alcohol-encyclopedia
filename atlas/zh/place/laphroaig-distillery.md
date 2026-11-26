@@ -97,6 +97,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观项目、开放时间与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 拉弗格蒸馏厂
 
 拉弗格蒸馏厂在艾雷岛南岸，厂区几乎贴着海面，背后是泥煤地，旁边是基尔布赖德溪（Kilbride Stream）。它 1815 年由约翰斯顿家的亚历山大与唐纳德两兄弟创立，是艾雷岛上最早一批取得合法执照的蒸馏厂之一。今天游客看到的不是一座被围起来的“威士忌主题公园”，而是一个仍在运转的厂：麦芽在自家地板发麦，泥煤在窑里烧，七座蒸馏器按固定节奏出酒，游客中心只是这套生产系统旁边的一扇门。
@@ -169,3 +170,9 @@ Warehouse 1 是厂区里最有辨识度的空间之一：它是海边的传统�
 补充阅读：[苏格兰](ref:c-extra-1)、[威士忌](ref:c-extra-2)。
 
 相关条目：[艾雷岛](ref:islay)、[苏格兰威士忌](ref:scotch)、[一杯酒，为什么有地方的味道？](ref:place-and-process)。
+
+## 相关图像
+
+![苏格兰类别配图](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+图：苏格兰类别配图。图片：Alan Jamieson，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)）。关联图像：拉弗格蒸馏厂。

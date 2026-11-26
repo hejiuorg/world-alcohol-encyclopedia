@@ -74,6 +74,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 雨格酒庄
 
 雨格酒庄（Hugel & Fils / Famille Hugel）在法国阿尔萨斯的里屈埃维尔（Riquewihr），门牌是 3, rue de la Première Armée。它在同一座中世纪小镇经营了三百多年，酒窖就在老城建筑之下，品鉴室与街道只隔几步。雨格不是“把游客挡在门外”的封闭庄园：它有按季开放的品鉴室，也有需要预约的酒窖参观；但想进入地下酒窖，仍要提前安排。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 | 城市/国家 | 里屈埃维尔 / 法国 |
 | 营业状态 | 已核验营业 |
 | 官网 | hugel.com |
+
+## 相关图像
+
+![灰皮诺](/media/photos/variety-pinot-gris-727c95c9.jpg)
+
+图：灰皮诺。图片：Ermell，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Pinot_Grigio-20201027-RM-114053.jpg)）。关联图像：雨格酒庄。

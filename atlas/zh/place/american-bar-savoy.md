@@ -90,6 +90,7 @@ city: 伦敦
 verification_scope: source-verified
 founded_year: 1893
 ---
+
 # 萨沃伊美式酒吧
 
 在伦敦，很少有酒吧像萨沃伊酒店里的美国酒吧那样，把“一直开着”本身当成招牌。它 1893 年随酒店开门，经历过战争、酒店易主与多次整修，官方至今称它是伦敦持续经营时间最长的鸡尾酒吧。游客容易把这句话理解成一栋老建筑，但美国酒吧首先是一个酒店服务空间：它的节奏、价格和礼仪，都是为了让客人在一个被安排好的晚上里喝得好，而不是为了复原某个历史现场。
@@ -153,3 +154,9 @@ founded_year: 1893
 | 官网 | thesavoylondon.com |
 
 **来源与边界。** 本页关于「萨沃伊美式酒吧」的关键事实，主要由以下来源交叉核对：50 Best（酒吧位置、历史与营业信息）、Harry Craddock / Constable & Co.（1930 年出版的经典鸡尾酒书）、The Savoy（营业时间、年龄限制、着装要求与预订入口；艾达·科尔曼、Hanky Panky 与克拉多克的资料）等 6 条来源。产品、地址或营业状态变化较快时，以 thesavoylondon.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![康诺特酒吧](/media/photos/place-the-connaught-bar-a9a51824.jpg)
+
+图：康诺特酒吧。图片：Herry Lawford from Stockbridge, UK，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mount_St_(3768612442).jpg)）。关联图像：萨沃伊美式酒吧。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kamotsuru
 source_lang: zh
-source_revision: sha256:bbc4a97be12a6f1db50d3620b6b95807454a4f79b5a7fbe68327bd04e976b72c
-source_sha256: bbc4a97be12a6f1db50d3620b6b95807454a4f79b5a7fbe68327bd04e976b72c
+source_revision: sha256:241b76e954be75f8feba3150290cc39552e3f08559df6b2c552518e477883556
+source_sha256: 241b76e954be75f8feba3150290cc39552e3f08559df6b2c552518e477883556
 translation_status: reviewed
 subtype: distillery-visitor
 address: 広島県東広島市西条本町9番7号
@@ -149,3 +149,9 @@ The site is about twenty minutes by car from Hiroshima Airport and three minutes
 - [Classification of Japanese sake](https://japansake.or.jp/sake/about-sake/classification-of-sake/), Japan Sake and Shochu Makers Association, checked for polishing ratios and ingredient rules.
 
 Page verified on 2026-11-09; hours, tasting prices and tour arrangements are subject to official channels.
+
+## Related images
+
+![Bottled sake; polishing ratio, alcohol content and sake meter value often drive the buying decision](/media/photos/drink-style-sake-de6a3028.jpg)
+
+Image: Bottled sake; polishing ratio, alcohol content and sake meter value often drive the buying decision. Credit: koutalou, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)). Related image for Kamotsuru Sake Brewery.

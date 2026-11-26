@@ -91,6 +91,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 山东省
 
 山东省位于中国东部沿海、黄河下游。在酒类版图上，它既是重要的白酒产区，也是北方黄酒的代表产区之一：即墨老酒以黍米为原料，用麦曲糖化发酵，工艺上以“焦糜”糊化著称。本页聚焦黄酒，白酒部分只在必要处提及。
@@ -179,3 +180,13 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「山东省」的关键事实，主要由以下来源交叉核对：山东省人民政府（行政区划与公开的省情信息）、国家市场监督管理总局、国家标准化管理委员会（黄酒的术语、分类与标签要求；未复制标准原文；饮料酒分类与术语；未复制标准原文）、山东省农业农村厅（山东省农业生产与地方特色产业信息）等 7 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「山东省」与「中国」、「黄酒」、「即墨」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![“即墨”页面配图：Jimo District Converged Media Center in Qingdao, Shandong, China 20260607。摄影：4084470 0.smil，CC BY 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-jimo-08067dae.jpg)
+
+图：Jimo District Converged Media Center in Qingdao, Shandong, China 20260607。摄影：4084470 0.smil，CC BY 4.0，来自 Wikimedia Commons。。图片：4084470 0.smil，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=194207475)）。关联图像：山东省。
+
+![小麦](/media/photos/ingredient-wheat-e782d218.jpg)
+
+图：小麦。图片：kallerna，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)）。关联图像：山东省。

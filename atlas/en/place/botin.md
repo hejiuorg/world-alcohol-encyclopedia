@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:botin
 source_lang: zh
-source_revision: sha256:70b74a2b1f98fbfead113ec2d992abf7ee5109eeed62c6cf003fbf00b3347e0b
-source_sha256: 70b74a2b1f98fbfead113ec2d992abf7ee5109eeed62c6cf003fbf00b3347e0b
+source_revision: sha256:ae1bc0bcf893e4aebcece8d952f5054439b5733e91e8584a7fc9a3a744a3e580
+source_sha256: ae1bc0bcf893e4aebcece8d952f5054439b5733e91e8584a7fc9a3a744a3e580
 translation_status: reviewed
 subtype: pub
 address: Calle de Cuchilleros 17, 28005 Madrid, Spain
@@ -144,3 +144,9 @@ When ordering suckling pig, remember that it is rich and fatty, with crisp skin 
 Botín is an old sample from the food history of [Spain](ref:spain): it ties Castilian roasting, Rioja wine and the streets of old Madrid together. To understand the role of such places in the city, read [pubs and the city](ref:pub-and-city); if you care more about what is in the glass, start with the styles and food-matching logic of [wine](ref:wine), then return to why a plate of roast suckling pig goes so well with red wine.
 
 Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2).
+
+## Related images
+
+![Photograph for Spain: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-spain-732e598a.jpg)
+
+Image: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=17458062)). Related image for Botín.

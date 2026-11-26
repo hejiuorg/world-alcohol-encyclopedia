@@ -83,6 +83,7 @@ rights:
   note: 本页配图为 Flickr 的“Bulleit Bourbon”实拍照片，按 CC BY 2.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 波本威士忌
 
 “波本威士忌”是 bourbon whiskey 的中文译名。它既指一个受美国联邦法规约束的烈酒类别，也指一个在全球市场上被广泛使用的商品名称。本页讨论后者：这个称谓由哪些词构成、在哪些语境下会被误用、它与相邻类别和标签词汇的关系。关于波本的谷物配方、蒸馏与熟成机制，见[波本](ref:bourbon)条目，本页不重复工艺细节。
@@ -150,3 +151,9 @@ bourbon whiskey 中的 whiskey 是类别通名，不是必须来自苏格兰拼�
 相关条目：[威士忌](ref:whisky)、[波本威士忌](ref:bourbon)、[酒精度（ABV）](ref:abv)。
 
 **来源与边界。** 本页关于「波本威士忌」的关键事实，主要由以下来源交叉核对：US Department of the Treasury（波本威士忌的类别名称、标签管理与相邻类别）、U.S. Government Publishing Office（bourbon、straight bourbon、blended bourbon 与 Tennessee whiskey 的名称边界）、European Union（烈酒地理标志与名称保护的一般框架）等 7 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![桶强（cask strength）](/media/photos/term-cask-strength-7aa390ff.jpg)
+
+图：桶强（cask strength）。图片：Paweł Mazurek KRK，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aberlour_A%27bunadh_Batch_59.jpg)）。关联图像：波本威士忌。

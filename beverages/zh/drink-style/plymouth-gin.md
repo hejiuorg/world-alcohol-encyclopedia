@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 普利茅斯金酒
 
 普利茅斯金酒（Plymouth Gin）是一种以英国城市普利茅斯为地理标识的[金酒](ref:gin)。它的特殊之处不在植物配方，而在产地规则：名称与普利茅斯的 Black Friars 酒厂绑定，生产地点离开这座城市，就不能再叫 Plymouth Gin。它比伦敦干金更柔和、更泥土感，历史上与英国皇家海军和经典鸡尾酒关系密切。
@@ -132,3 +133,9 @@ Pink Gin 是普利茅斯金酒的经典喝法：金酒加几滴苦精，有时�
 **适用边界。** 对「普利茅斯金酒」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
 
 **更新提示。** 「普利茅斯金酒」最近核对于 2026-11-08；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
+
+## 相关图像
+
+![荷兰杜松子酒](/media/photos/drink-style-genever-69222f55.jpg)
+
+图：荷兰杜松子酒。图片：Wikimedia Commons contributor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hollandse_Graanjenever_0495.JPG)）。关联图像：普利茅斯金酒。

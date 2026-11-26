@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:abbey-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6e8d511ab8eff9d0a493387d80f22d9b90e5e1d055ba03f0c4485286208d9b5e
-source_sha256: 6e8d511ab8eff9d0a493387d80f22d9b90e5e1d055ba03f0c4485286208d9b5e
+source_revision: sha256:ef907af10666ac78ee1af8cee131b2904b24b06f6528af445f62d1f9f18d7c7f
+source_sha256: ef907af10666ac78ee1af8cee131b2904b24b06f6528af445f62d1f9f18d7c7f
 legacy_refs: []
 aliases:
   - Abbey beer
@@ -85,6 +85,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Abbey beer
 
 Abbey beer is a broad term for beer brewed by a monastery, or brewed commercially under a monastery name and licence. It covers two relationships: brewing inside a monastery, and a name licence between a commercial brewery and a monastery. The distinction readers most need is between Trappist and abbey: the former carries strict requirements on place and supervision, while the latter is closer to a commercial and historical association.![Abbey beer image](/media/photos/drink-style-abbey-beer-276b4dc3.jpg)
@@ -161,3 +162,9 @@ Start with [Beer](ref:beer) for legal definition, then read [Water](ref:water) f
 - [Fermentation](ref:fermentation): top fermentation and bottle conditioning.
 - [Original gravity](ref:original-gravity): a measure of strength and cellaring potential.
 - [Craft beer](ref:craft-beer): the market background for modern monastery-style products.
+
+## Related images
+
+![Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.](/media/photos/ingredient-water-edf289bf.jpg)
+
+Image: Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.. Credit: Jorge Barrios, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)). Related image for Abbey beer.

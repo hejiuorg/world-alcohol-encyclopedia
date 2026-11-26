@@ -94,6 +94,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 山西
 
 山西是中国北方的清香型白酒核心产区，产业中心在吕梁市汾阳市杏花村。当地以高粱为主料，大麦与豌豆制曲，采用清蒸二次清、地缸分离发酵和固态蒸馏，酒体以乙酸乙酯为主体香，追求干净、清爽、利落的风格。山西的白酒版图不只汾酒一家，但杏花村与汾酒构成了理解清香型工艺的起点。
@@ -162,3 +163,13 @@ verification_scope: source-verified
 - [发酵](ref:fermentation)：入缸温度、水分与曲量对发酵的控制。
 - [蒸馏](ref:distillation)：掐头去尾与清香型干净度的关系。
 - [汾酒集团](ref:fenjiu)：杏花村的代表性生产者。
+
+## 相关图像
+
+![清香型白酒](/media/photos/drink-style-light-aroma-baijiu-1c3af236.jpg)
+
+图：清香型白酒。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)）。关联图像：山西。
+
+![固态发酵类型示意图](/media/photos/theme-beer.jpg)
+
+图：固态发酵类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：山西。

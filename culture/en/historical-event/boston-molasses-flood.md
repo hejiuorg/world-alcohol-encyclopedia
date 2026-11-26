@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:boston-molasses-flood
 source_lang: zh
-source_revision: sha256:eda0dc78c68b0e154d113689fe568b71f6c3cdac8347759bb6221b0bcc8a214b
-source_sha256: eda0dc78c68b0e154d113689fe568b71f6c3cdac8347759bb6221b0bcc8a214b
+source_revision: sha256:9f1b15f1e4436d6233e340b7a5059d20ef9b1f3ce4696aa7e32adfbf167c0a2d
+source_sha256: 9f1b15f1e4436d6233e340b7a5059d20ef9b1f3ce4696aa7e32adfbf167c0a2d
 translation_status: reviewed
 legacy_refs: []
 date_text: 15 January 1919
@@ -86,6 +86,7 @@ rights:
   note: Third-party photographs, trademarks and images are not covered by this licence; the image is in the public domain and is credited. Sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # The Boston Molasses Flood of 1919: An Industrial-Alcohol Disaster
 
 At midday on 15 January 1919, residents of Boston's North End heard a low rumble and thought an elevated train was passing. Minutes later a steel tank about 50 feet high split open, and roughly 2.3 million gallons of molasses poured into the streets like a wall. Molasses is not water. It is viscous and heavy; it could lift houses, tear up rail tracks and trap people in debris. The disaster killed 21 people and injured 150, making it one of the most famous industrial catastrophes in American history.
@@ -144,3 +145,9 @@ Start with [Rum](ref:rum) for date, then read [Barbados](ref:barbados) for place
 | Date | 15 January 1919 |
 | Place | United States |
 | Calendar | Gregorian |
+
+## Related images
+
+![During Prohibition in the United States, officials pour barrels of liquor into a sewer.](/media/photos/historical-event-us-prohibition-3cc2932a.jpg)
+
+Image: During Prohibition in the United States, officials pour barrels of liquor into a sewer.. Credit: Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:5_Prohibition_Disposal(9).jpg)). Related image for The Boston Molasses Flood of 1919: An Industrial-Alcohol Disaster.

@@ -21,8 +21,8 @@ tags:
 translation_of: variety:petit-manseng
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e1623c1603747ac81690037105d6eb6624670f9f6f009fb4b8ee2fc8c7ce47a3
-source_sha256: e1623c1603747ac81690037105d6eb6624670f9f6f009fb4b8ee2fc8c7ce47a3
+source_revision: sha256:e5d7a309fc6a5c25590951ffb38d409c2f383034d299b459504867c6ae75a65e
+source_sha256: e5d7a309fc6a5c25590951ffb38d409c2f383034d299b459504867c6ae75a65e
 related:
   - relation: about
     target_id: drink-style:white-wine
@@ -144,4 +144,10 @@ The most direct way to understand Petit Manseng is to compare a Jurançon dry, a
 
 - Related: [white-wine](ref:white), [terroir](ref:terroir), [fermentation](ref:fermentation), [chardonnay](ref:chardonnay), [oak-ageing](ref:oak).
 
-**In brief:** A white grape of Jurançon in southwest France, with small thick-skinned berries, late ripening, tropical fruit, citrus, honey and high acidity; it makes sweet, off-dry and dry wines and is one of France’s longest-lived whites. 
+**In brief:** A white grape of Jurançon in southwest France, with small thick-skinned berries, late ripening, tropical fruit, citrus, honey and high acidity; it makes sweet, off-dry and dry wines and is one of France’s longest-lived whites.
+
+## Related images
+
+![Thematic illustration for White wine](/media/photos/theme-wine-spirits.jpg)
+
+Image: Thematic illustration for White wine. Project-made bilingual editorial figure, not an on-site photograph. Related image for Petit Manseng.

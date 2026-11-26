@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kamoizumi
 source_lang: zh
-source_revision: sha256:895a512b4155e718076c685abc3b9c3cf9c27e98c3906cfc0cbcde92331fbd10
-source_sha256: 895a512b4155e718076c685abc3b9c3cf9c27e98c3906cfc0cbcde92331fbd10
+source_revision: sha256:88667f4789a00c4f7f5b2f783df0690123eb1f16ec1804808b3012b0838c20b3
+source_sha256: 88667f4789a00c4f7f5b2f783df0690123eb1f16ec1804808b3012b0838c20b3
 translation_status: reviewed
 subtype: distillery-visitor
 address: 広島県東広島市西条上市町2番4号
@@ -142,3 +142,9 @@ To set two versions of the junmai story side by side, the [Hakushika Sake Museum
 - [The Saijo sake town, Hiroshima](http://www.saijosake.com/japanese/town/), Saijo Sake Brewers Association, checked for the position on Sakagura-dori.
 
 Page verified on 2026-11-09; tour bookings and Shusenkan hours are subject to official channels.
+
+## Related images
+
+![Sake](/media/photos/drink-style-sake-c84f8e77.jpg)
+
+Image: Sake. Credit: Intforce, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Overflowing_sake_glass_in_masu.jpg)). Related image for Kamoizumi Sake Brewery.

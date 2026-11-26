@@ -75,6 +75,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒种法规、标签与产区划分会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 印度
 
 印度威士忌的国家级产区，产量居世界前列；原料包括糖蜜中性酒精、谷物与麦芽，风格从大众调和威士忌到单一麦芽都有，热带气候使陈年速度极快。
@@ -155,3 +156,13 @@ verification_scope: source-verified
 **适用边界。** 对「印度」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「印度」最近核对于 2026-11-22；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+图：艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量。图片：Rosser1954 Roger Griffith，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)）。关联图像：印度。
+
+![苏格兰类别配图](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+图：苏格兰类别配图。图片：Alan Jamieson，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)）。关联图像：印度。

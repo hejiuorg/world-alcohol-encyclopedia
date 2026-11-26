@@ -68,6 +68,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。法规细节以 NOM-070-SCFI-2016 现行文本为准。
 verification_scope: source-verified
 ---
+
 # 梅斯卡尔
 
 梅斯卡尔（mezcal）是墨西哥以[龙舌兰](ref:agave)为原料的蒸馏酒。它最鲜明的感官特征是地下坑烤带来的烟熏，但烟熏强弱、植物气息与甜感会因产区、龙舌兰品种、发酵容器与蒸馏设备而大幅变化。它和[龙舌兰酒](ref:tequila)共享龙舌兰原料与蒸馏传统，却是原料范围、法定产区与工艺要求都不同的独立类别。
@@ -137,3 +138,9 @@ NOM-070-SCFI-2016 规定的酒精度区间为 35% 至 55% ABV，市售产品通�
 搭配食物时，烟熏感适合烤肉、摩尔酱与辛辣菜肴；高酸度与矿物感可以平衡油脂。本页关于梅斯卡尔的内容涉及酒精饮料；过量饮酒有害健康，未成年人不应饮酒。
 
 对照阅读：[龙舌兰酒](ref:tequila)、[玛格丽特](ref:margarita)。
+
+## 相关图像
+
+![玛格丽特](/media/photos/cocktail-margarita-d834f379.jpg)
+
+图：玛格丽特。图片：Akke Monasso，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:MargaritaReal.jpg)）。关联图像：梅斯卡尔。

@@ -89,8 +89,8 @@ verification_scope: source-verified
 translation_of: place:hakutsuru-museum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e8ae8816ae0773e486652b2a80cae183739e823838ffc2ebe73bc09858c9dc70
-source_sha256: e8ae8816ae0773e486652b2a80cae183739e823838ffc2ebe73bc09858c9dc70
+source_revision: sha256:f75dedfb630d7df9182479cf95cc5fad78a6cc1b17085949d27c80888a541646
+source_sha256: f75dedfb630d7df9182479cf95cc5fad78a6cc1b17085949d27c80888a541646
 ---
 
 # Hakutsuru Sake Brewery Museum
@@ -157,3 +157,9 @@ Eastern Kobe is easiest on the Hanshin line: Hanshin Sumiyoshi to Uozaki is two 
 - Sake route comparisons: [Kiku-Masamune Sake Brewery Museum](ref:kiku), [Hakushika Sake Museum](ref:hakushika), [Gekkeikan Okura Sake Museum](ref:gekkeikan), [Kamotsuru](ref:kamotsuru), [Japan sake brewery route](ref:route).
 
 Read Hakutsuru Sake Brewery Museum through the address, then the current opening status, and finally what the place is known for. The sequence matters.
+
+## Related images
+
+![The main building of the Kiku-Masamune Sake Brewery Museum; the brewery building from the 1659 Mikage Kanaya residence was moved here in 1960](/media/photos/place-kiku-masamune-museum-bf70596a.jpg)
+
+Image: The main building of the Kiku-Masamune Sake Brewery Museum; the brewery building from the 1659 Mikage Kanaya residence was moved here in 1960. Credit: Oilstreet, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kikumasamune_Kobe_Japan01-r.jpg)). Related image for Hakutsuru Sake Brewery Museum.

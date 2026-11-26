@@ -87,6 +87,7 @@ rights:
   note: 第三方标准、认证标识、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 比利时
 
 比利时是西欧的联邦制国家，啤酒文化在 2016 年被列入联合国教科文组织非物质文化遗产名录。它最特别的地方不是“啤酒很多”，而是同时保留了修道院艾尔与兰比克自然发酵两条完全不同的传统：前者依靠受控的酵母与修道院工艺，后者依靠空气与木桶中的野生微生物。
@@ -170,3 +171,13 @@ verification_scope: source-verified
 - [智美蓝帽](ref:chimay)：修道院艾尔的代表酒款。
 - [唯森小麦白啤](ref:weihenstephaner)：德国小麦啤酒的对照阅读。
 - [林德曼树莓兰比克](ref:lindemans)：兰比克传统的代表酒款。
+
+## 相关图像
+
+![林德曼树莓兰比克相关实景照片](/media/photos/drink-belgium-lindemans-framboise-21d508fa.jpg)
+
+图：林德曼树莓兰比克相关实景照片。图片：Soti，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lindemans_Framboise.JPG)）。关联图像：比利时。
+
+![智美蓝帽相关实景照片](/media/photos/drink-belgium-chimay-blue-53c59cbe.jpg)
+
+图：智美蓝帽相关实景照片。图片：Uploaded by photographer.，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chimays.jpg)）。关联图像：比利时。

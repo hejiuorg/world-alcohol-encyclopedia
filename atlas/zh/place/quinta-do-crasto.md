@@ -82,6 +82,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观价格、菜单与接待时间会变化，以酒庄官方页面为准。
 verification_scope: source-verified
 ---
+
 # 克拉斯托酒庄
 
 克拉斯托酒庄（Quinta do Crasto）在葡萄牙杜罗河谷的萨布罗萨（Sabrosa）Gouvinhas，位于杜罗河右岸。它的名字来自拉丁语 castrum，意为“罗马堡垒”；酒庄最早提到葡萄酒生产的文献可以追溯到 1615 年。今天它由 Roquette 家族经营，既生产杜罗 DOC 的红白葡萄酒，也生产波特酒与橄榄油，同时把酒庄参观、品鉴与午餐做成了一套比较完整的酒旅产品。
@@ -158,3 +159,9 @@ verification_scope: source-verified
 补充阅读：[A Ginjinha](ref:c-extra-1)。
 
 相关条目：[葡萄酒](ref:wine)、[加强葡萄酒](ref:fortified)、[杜罗](ref:douro)。
+
+## 相关图像
+
+![加强葡萄酒](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+图：加强葡萄酒。图片：Jon Sullivan，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)）。关联图像：克拉斯托酒庄。

@@ -76,6 +76,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 托卡伊
 
 托卡伊（Tokaj）是匈牙利东北部的历史葡萄酒产区，沿博德罗格河与蒂萨河展开，由数十座村庄与成千上万块小地块组成。它不是一块平坦的葡萄园，而是火山丘陵、河谷、黄土台地与湿地交织的景观。这里以 [Aszú 贵腐甜酒](ref:tokaji)闻名，也出产越来越受重视的干型[富尔民特](ref:furmint)。理解托卡伊，需要同时看地质、河流与制度。
@@ -141,3 +142,13 @@ Aszú 的做法是先把健康葡萄发酵成基酒，再把逐粒挑选的贵�
 **来源与边界。** 本页关于「托卡伊」的关键事实，主要由以下来源交叉核对：Wines of Hungary（托卡伊的历史、地形、土壤、村庄与产区范围）、Wines of Tokaj（Aszú 等类别的残糖、陈年与酿造规则）、UNESCO World Heritage Centre（托卡伊世界遗产的范围与登录时间）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「托卡伊」与「托卡伊」、「富尔民特」、「贵腐（noble rot）」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![一瓶 Vivamus 5 puttonyos Tokaji Aszú，标签标着 2001 与 5 puttonyos。](/media/photos/drink-style-tokaji-39ae74c2.jpg)
+
+图：一瓶 Vivamus 5 puttonyos Tokaji Aszú，标签标着 2001 与 5 puttonyos。。图片：Beemwej，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tokaji_Aszu.JPG)）。关联图像：托卡伊。
+
+![富尔民特](/media/photos/variety-furmint-942bb30a.jpg)
+
+图：富尔民特。图片：Andrs.kovacs，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Furmint_grape_cluster.jpg)）。关联图像：托卡伊。

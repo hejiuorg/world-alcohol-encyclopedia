@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 苹果蜂蜜酒
 
 苹果蜂蜜酒（cyser）是蜂蜜与苹果汁共同发酵的蜂蜜酒类型，介于蜂蜜酒与苹果酒之间；苹果提供酸度与果香，蜂蜜提供糖分与花香，成品从干型到甜型、从静止到起泡都有。
@@ -141,3 +142,9 @@ cyser 的甜度分为干型、半甜与甜型，气泡从静止到起泡不等�
 认识 cyser 可以先从一款标准强度的静止半甜款入手，再比较干型与起泡版本，最后试一款强陈年款；三档对照之后，蜂蜜、苹果与发酵陈年各自带来的作用会比较清楚。
 
 - 相关条目：[honey-wine](ref:honey-wine)、[cider](ref:cider)、[honey](ref:honey)、[apple](ref:apple)、[fermentation](ref:fermentation)。
+
+## 相关图像
+
+![蜂蜜酒](/media/photos/drink-style-honey-wine-de8f53ea.jpg)
+
+图：蜂蜜酒。图片：Evan-Amos，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Honey-Fruit-Mead-Brewing.jpg)）。关联图像：苹果蜂蜜酒。

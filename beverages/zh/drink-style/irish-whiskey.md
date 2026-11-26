@@ -74,6 +74,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 爱尔兰威士忌
 
 爱尔兰威士忌是爱尔兰岛最古老的蒸馏酒传统之一。它受欧盟地理标志保护，名字里的“whiskey”多一个 e，与苏格兰、日本的“whisky”形成拼写上的分野。它的法定框架不复杂：谷物原料、发酵蒸馏、木桶陈年至少三年、装瓶不低于 40% vol、蒸馏低于 94.8% vol。真正让爱尔兰威士忌与众不同的，是单一壶式与三次蒸馏这两条工艺传统。
@@ -172,3 +173,9 @@ verification_scope: source-verified
 - [橡木桶陈年](ref:oak-ageing)：桶型与时间对风味的影响。
 - [大麦](ref:barley)：爱尔兰威士忌的主要谷物原料。
 - [爱尔兰](ref:ireland)：爱尔兰的饮食与酒类背景。
+
+## 相关图像
+
+![爱尔兰](/media/photos/region-ireland-6c11da34.jpg)
+
+图：爱尔兰。图片：Jeff Schmaltz，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ireland_(MODIS).jpg)）。关联图像：爱尔兰威士忌。

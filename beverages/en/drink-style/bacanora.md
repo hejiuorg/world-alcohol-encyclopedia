@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:bacanora
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:655f0612ab7cb72b617c0eb5ac216ff301781a15ead2c2e6b5485dd7c777452e
-source_sha256: 655f0612ab7cb72b617c0eb5ac216ff301781a15ead2c2e6b5485dd7c777452e
+source_revision: sha256:236fe494b626d1ffded9a3485ce057d15a999232ec0f6240cae3c859ec5aa2fb
+source_sha256: 236fe494b626d1ffded9a3485ce057d15a999232ec0f6240cae3c859ec5aa2fb
 related:
   - relation: about
     target_id: drink-style:mezcal
@@ -156,3 +156,9 @@ Store away from light, heat and vibration, upright and sealed. The high-alcohol 
 
 - Related: [mezcal](ref:mezcal), [agave](ref:agave), [distillation](ref:distillation), [peat](ref:smoke), [liqueur](ref:liqueur).
 - To map the category, start with one blanco bacanora and one rested version, compare smoke weight, herbal-citrus and caramel-dried fruit notes, then compare a mezcal side by side for roasting-process differences.
+
+## Related images
+
+![Peat](/media/photos/term-peat-36a70265.jpg)
+
+Image: Peat. Credit: David Stanley from Nanaimo, Canada, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Peat_(49302157252).jpg)). Related image for Bacanora.

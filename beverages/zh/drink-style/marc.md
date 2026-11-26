@@ -75,6 +75,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 马克酒
 
 法国对葡萄果渣蒸馏酒的称呼，勃艮第与香槟最著名；与意大利 grappa 同类，但法规、原料与陈年习惯不同，风格更质朴。
@@ -155,3 +156,9 @@ marc 的年份通常指葡萄采收年份，不是蒸馏年份；购买时问清
 | 上位风格 | 格拉帕 |
 
 **来源与边界。** 本页关于「马克酒」的关键事实，主要由以下来源交叉核对：European Union（烈酒类别、定义与标签规则）、US TTB（美国威士忌、朗姆与烈酒分类）、Consorzio Nazionale Grappa（Grappa 与葡萄渣蒸馏的原料、蒸馏和陈酿要求）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![格拉帕](/media/photos/drink-style-grappa-b92c5c9d.jpg)
+
+图：格拉帕。图片：Carsten Tolkmit from Kiel, Germany，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_glass_of_tasty_grappa.jpg)）。关联图像：马克酒。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:plymouth-gin
 source_lang: zh
-source_revision: sha256:59f13d6c25f79f382e6b991d72d949dbd6e93094f0a9b50b6dcfdff6408bd19c
-source_sha256: 59f13d6c25f79f382e6b991d72d949dbd6e93094f0a9b50b6dcfdff6408bd19c
+source_revision: sha256:c8be02aa7da22b1824db216a562c929bef1c4c3f082db5b00842594acc033e50
+source_sha256: c8be02aa7da22b1824db216a562c929bef1c4c3f082db5b00842594acc033e50
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -79,6 +79,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Plymouth Gin
 
 Plymouth Gin is a [gin](ref:gin) identified with the English city of Plymouth. What makes it unusual is not the botanical recipe but the origin rule: the name is tied to the Black Friars distillery in Plymouth, and production moved out of the city cannot be called Plymouth Gin. It is softer and earthier than London Dry, and its history is closely tied to the Royal Navy and classic cocktails.![Plymouth Gin image](/media/photos/drink-style-plymouth-gin-fabe1c6a.jpg)
@@ -134,3 +135,9 @@ Begin with the production rule, move on to the strength, and finish with the usu
 **Read alongside.** Put Plymouth Gin next to Gin, London dry gin, Genever: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 For Plymouth Gin, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![Juniper](/media/photos/ingredient-juniper-61255438.jpg)
+
+Image: Juniper. Credit: Fcb981, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Juniperus_osteosperma_1.jpg)). Related image for Plymouth Gin.

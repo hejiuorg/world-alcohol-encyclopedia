@@ -76,6 +76,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 巴塔哥尼亚
 
 阿根廷南部的冷凉葡萄酒产区，核心在 Río Negro 与 Neuquén 河谷；南纬 39–42°、日照长、风大、气候冷凉，以黑皮诺、马尔贝克、霞多丽与起泡酒著称。
@@ -182,3 +183,13 @@ Pinot Noir 温度 14–16°C，用中等口径红酒杯；Malbec 16–18°C，�
 | 国家代码 | AR |
 
 **来源与边界。** 本页关于「巴塔哥尼亚」的关键事实，主要由以下来源交叉核对：Argentina Tourism（阿根廷葡萄酒产区的旅行与地理背景）、Government of Argentina（农业与产区管理框架）、OIV（葡萄酒定义与全球生产框架）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![Argentina：Miraluna Vineyard, Cachi, Argentina (7126977841)（Wikimedia Commons）](/media/photos/region-argentina-454da145.jpg)
+
+图：Argentina：Miraluna Vineyard, Cachi, Argentina (7126977841)（Wikimedia Commons）。图片：Rod Waddington from Kergunyah, Australia，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Miraluna_Vineyard,_Cachi,_Argentina_(7126977841).jpg)）。关联图像：巴塔哥尼亚。
+
+![马尔贝克](/media/photos/variety-malbec-88d109c6.jpg)
+
+图：马尔贝克。图片：Ian L，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Malbec_grapes.jpg)）。关联图像：巴塔哥尼亚。

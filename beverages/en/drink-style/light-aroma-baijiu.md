@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:light-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3111c5536f4eac5ee00cdf669c7998c82048ef3c5a1084165c35e4118cbed6b1
-source_sha256: 3111c5536f4eac5ee00cdf669c7998c82048ef3c5a1084165c35e4118cbed6b1
+source_revision: sha256:7b41d905b1fdece798422d41188a1609fc840377682fe451ee1f14a42875fbc5
+source_sha256: 7b41d905b1fdece798422d41188a1609fc840377682fe451ee1f14a42875fbc5
 legacy_refs: []
 aliases:
   - Light aroma baijiu
@@ -81,6 +81,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Light aroma baijiu
 
 Light aroma baijiu is a baijiu aroma style led by ethyl acetate, with a clean, crisp and short finish. Its typical process uses separate steaming, earthen-jar fermentation and a second clean steaming, and its best-known area is Xinghuacun near Fenyang in Shanxi.![Light aroma baijiu image](/media/photos/drink-style-light-aroma-baijiu-1c3af236.jpg)
@@ -159,3 +160,9 @@ For Light aroma baijiu, begin with the production rule. Then look at the strengt
 - [Fermentation](ref:fermentation): jar fermentation and temperature management.
 - [Distillation](ref:distillation): head and tail cuts in relation to cleanliness.
 - [Fermentation pit](ref:pit): the alternative container to earthen jars.
+
+## Related images
+
+![Sorghum](/media/photos/ingredient-sorghum-879ae613.jpg)
+
+Image: Sorghum. Credit: No machine-readable author provided. Pethan assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg)). Related image for Light aroma baijiu.

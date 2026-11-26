@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:mezcal
 source_lang: zh
-source_revision: sha256:d65915ddb8cd9c94a4bd091a91041bd5017e6c5b4b621d05cc6f6c737e201d54
-source_sha256: d65915ddb8cd9c94a4bd091a91041bd5017e6c5b4b621d05cc6f6c737e201d54
+source_revision: sha256:20b67a06eb8417f97da440be9cc89bbede923be56af5e4eefa006cd0e030ab8b
+source_sha256: 20b67a06eb8417f97da440be9cc89bbede923be56af5e4eefa006cd0e030ab8b
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -145,3 +145,9 @@ With food, smoke suits grilled meat, mole and spicy dishes; acidity and minerali
 Start with the production rule. From there, consider the strength, then the usual serving. That is how a practical judgment about Mezcal is built.
 
 [Tequila](ref:tequila) and [Margarita](ref:margarita) are the two useful reference points for Mezcal. [Tequila](ref:tequila) sets out legal definition; [Margarita](ref:margarita) brings in materials and process. Read them together.
+
+## Related images
+
+![Margarita](/media/photos/cocktail-margarita-d834f379.jpg)
+
+Image: Margarita. Credit: Akke Monasso, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:MargaritaReal.jpg)). Related image for Mezcal.

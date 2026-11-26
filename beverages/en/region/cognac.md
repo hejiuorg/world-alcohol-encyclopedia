@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:cognac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:65c3a5489a5970dddfa1ef8921415fcf1ee47c4caa3014438ffb810f1604fe2b
-source_sha256: 65c3a5489a5970dddfa1ef8921415fcf1ee47c4caa3014438ffb810f1604fe2b
+source_revision: sha256:469516086b51ab3adf76e43757cbc2a6e9c25e2804cb42cd7ecfcc09ca024e12
+source_sha256: 469516086b51ab3adf76e43757cbc2a6e9c25e2804cb42cd7ecfcc09ca024e12
 level: other
 parent_id: region:france
 country_code: FR
@@ -73,6 +73,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images. Grade ages follow current regulation and labels.
 verification_scope: source-verified
 ---
+
 # Cognac
 
 Cognac is a grape brandy region in western France, in the Charente area, and the name of the grape brandy made around it. It is based mainly on Ugni Blanc, distilled twice in pot stills, then aged in French oak to produce the VS, VSOP and XO grades defined by minimum age.
@@ -156,3 +157,13 @@ For Cognac, this region was last checked in 2026; prices, batches and availabili
 - [Brandy](ref:brandy): the wider category of grape and fruit brandies.
 - [Distillation](ref:distillation): the basics of double pot distillation and cuts.
 - [Oak ageing](ref:oak-ageing): the key stage behind Cognac colour and flavour.
+
+## Related images
+
+![Brandy](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+Image: Brandy. Credit: Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)). Related image for Cognac.
+
+![Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.](/media/photos/editorial-oak-ageing-q2.jpg)
+
+Image: Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Cognac.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:china-yellow-wine-museum
 source_lang: zh
-source_revision: sha256:be8dfb51ac156424092c4e7f70b9301d17e53d4e08b331b88e443278d70bb7c8
-source_sha256: be8dfb51ac156424092c4e7f70b9301d17e53d4e08b331b88e443278d70bb7c8
+source_revision: sha256:a83b13f2abc385be7d275ee741c5aff0e2875f844cab0389ccbbff69dae06c34
+source_sha256: a83b13f2abc385be7d275ee741c5aff0e2875f844cab0389ccbbff69dae06c34
 translation_status: reviewed
 subtype: museum
 address: 557 Xia Da Road, Yuecheng District, Shaoxing, Zhejiang, China
@@ -183,3 +183,9 @@ In the old city, walking and short taxi rides work best; bus and metro connectio
 The China Yellow Wine Museum is an entry point for understanding [yellow wine](ref:yellow-wine) and places [Shaoxing](ref:shaoxing) within the rice farming, ritual and urban history of [China](ref:china). For the longer history, read [the history of yellow wine](ref:yellow-history).
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Yellow wine](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+Image: Yellow wine. Credit: udono, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)). Related image for China Yellow Wine Museum.

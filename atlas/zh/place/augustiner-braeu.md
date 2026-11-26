@@ -92,6 +92,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观安排、营业时间与菜单会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 奥古斯丁啤酒厂
 
 ![奥古斯丁啤酒厂 图像](/media/photos/place-augustiner-braeu-91b4e63c.jpg)
@@ -152,3 +153,9 @@ Landsberger Straße 的厂区是生产设施，不是展馆。建筑、装卸区
 - [一杯酒，为什么有地方的味道？](ref:place-and-process)：产地、原料与工艺如何进入酒里。
 
 相关条目：[一杯酒，为什么有地方的味道？](ref:place-and-process)。
+
+## 相关图像
+
+![皇家啤酒屋相关实景照片](/media/photos/place-hofbrauhaus-f739b1b7.jpg)
+
+图：皇家啤酒屋相关实景照片。图片：Burkhard Mücke，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2023-02-03_Hofbr%C3%A4uhaus_am_Platzl_07.jpg)）。关联图像：奥古斯丁啤酒厂。

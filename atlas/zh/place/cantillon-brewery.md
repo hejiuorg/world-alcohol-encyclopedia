@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、票价与闭馆日会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 康帝隆酒厂
 
 ![康帝隆酒厂相关实景照片](/media/photos/place-cantillon-brewery-f3b0c65c.jpg)
@@ -144,3 +145,9 @@ verification_scope: source-verified
 | 城市/国家 | 布鲁塞尔 / 比利时 |
 | 营业状态 | 已核验营业 |
 | 官网 | cantillon.be |
+
+## 相关图像
+
+![酸啤酒](/media/photos/drink-style-sour-beer-4b0d00b2.jpg)
+
+图：酸啤酒。图片：Bernt Rostad，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Norwegian_sour_beer.jpg)）。关联图像：康帝隆酒厂。

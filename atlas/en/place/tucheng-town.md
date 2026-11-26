@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:tucheng-town
 source_lang: zh
-source_revision: sha256:c1c5d922473813350778ec3dcb4a06b3f3217aba1a95e75f8cd6665a57e0126b
-source_sha256: c1c5d922473813350778ec3dcb4a06b3f3217aba1a95e75f8cd6665a57e0126b
+source_revision: sha256:0f2ff1810b735da3b4ae220a7ac63c8af4a79c092be7c6f8318f1593dc03efde
+source_sha256: 0f2ff1810b735da3b4ae220a7ac63c8af4a79c092be7c6f8318f1593dc03efde
 translation_status: reviewed
 subtype: museum
 address: Tucheng Town, Xishui County, Zunyi, Guizhou, China
@@ -68,24 +68,24 @@ sources:
     title: 习水县人民政府 — 县情概况
     url: https://www.xsx.gov.cn/zjxs/xsgk/jj2023/202605/t20260525_90206553.html
     publisher: 习水县人民政府
-    note: 用于核对习水县的地理位置、行政区划与酱香型白酒产区信息；未复制原文。
+    note: 用于核对习水县的地理位置、行政区划与酱香型白酒产区信息；未复制原文.
     accessed: 2026-11-25
   - key: xijiu-about
     title: 习酒 — 公司简介
     url: https://www.gzxijiu.com/about/introduction?menuId=r_5uFQaERX42fDKDI7O2B
     publisher: 贵州习酒股份有限公司
-    note: 用于核对习酒产地、习酒镇与酱香型白酒工艺的公开介绍；未复制原文。
+    note: 用于核对习酒产地、习酒镇与酱香型白酒工艺的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: zunyi-gov
     title: 遵义市人民政府
     url: https://www.zunyi.gov.cn/
     publisher: 遵义市人民政府
-    note: 用于核对习水县属遵义市管辖的行政区划与公开城市信息；未复制原文。
+    note: 用于核对习水县属遵义市管辖的行政区划与公开城市信息；未复制原文.
     accessed: 2026-11-25
   - key: gb2260
     title: GB/T 2260-2007 中华人民共和国行政区划代码
     publisher: 国家标准化管理委员会
-    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文。
+    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -101,7 +101,7 @@ Tucheng is not a tourist street living on the “old town” label alone. It beg
 
 ![Tucheng Old Town (Xishui) bilingual editorial visual card](/media/figures/specific/place-tucheng-town.svg)
 
-图：Tucheng Old Town (Xishui) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Tucheng Old Town (Xishui) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers who want both the Chishui salt town and Four Crossings history; pairs with Xijiu for two days.
@@ -160,9 +160,17 @@ This page does not present Tucheng as a "baijiu sight". It is for understanding 
 
 ## References
 
-- 习水县人民政府 — 县情概况 — https://www.xsx.gov.cn/zjxs/xsgk/jj2023/202605/t20260525_90206553.html (习水县人民政府, checked 2026-11-25)
-- 习酒 — 公司简介 — https://www.gzxijiu.com/about/introduction?menuId=r_5uFQaERX42fDKDI7O2B (贵州习酒股份有限公司, checked 2026-11-25)
-- 遵义市人民政府 — https://www.zunyi.gov.cn/ (遵义市人民政府, checked 2026-11-25)
-- GB/T 2260-2007 中华人民共和国行政区划代码 (国家标准化管理委员会, checked 2026-11-25)
+- xsx.gov.cn — official source — https://www.xsx.gov.cn/zjxs/xsgk/jj2023/202605/t20260525_90206553.html (checked 2026-11-25)
+- gzxijiu.com — official source — https://www.gzxijiu.com/about/introduction?menuId=r_5uFQaERX42fDKDI7O2B (checked 2026-11-25)
+- zunyi.gov.cn — official source — https://www.zunyi.gov.cn/ (checked 2026-11-25)
+- Official source — official source —  (checked 2026-11-25)
 
 Related entries: [Xijiu Distillery](ref:distillery), [Xishui Xijiu route](ref:route), [Guizhou](ref:region), [China](ref:regioncn), [History of Chinese wine](ref:history), [sauce-aroma baijiu](ref:style), [First baijiu guide](ref:guide), [Xijiu](ref:brand).
+
+## Related images
+
+![Xijiu](/media/photos/brand-xijiu-0e1061d4.jpg)
+
+Image: Xijiu. Credit: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E4%B8%80%E6%AC%BE%E4%B9%A0%E9%85%92.jpg)). Related image for Tucheng Old Town (Xishui).
+
+The administrative division reference is the 2007 edition of GB/T 2260.

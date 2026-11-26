@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:qingdao-beer-trail
 source_lang: zh
-source_revision: sha256:48822b6781f880bb5b4e9e8ff2a3852e39a3092d83cdb2bc807213fd3f125eab
-source_sha256: 48822b6781f880bb5b4e9e8ff2a3852e39a3092d83cdb2bc807213fd3f125eab
+source_revision: sha256:68e32bb6d13bb7f16f2293791a5c10ebd43e828a668a93d750dc8afb3d7cc62d
+source_sha256: 68e32bb6d13bb7f16f2293791a5c10ebd43e828a668a93d750dc8afb3d7cc62d
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -53,12 +53,6 @@ sources:
     url: http://gzw.qingdao.gov.cn/xwzx/qydt/202609/t20260911_10727553.shtml
     publisher: Qingdao Municipal SASAC
     note: Used to check that the museum sits inside the still-operating plant and that Hall B's glass corridor overlooks production; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: qingdao-gov-street
-    title: Sailing Qingdao — Dengzhou Road Beer Street — Qingdao Government
-    url: http://www.qingdao.gov.cn/yfqd/
-    publisher: Qingdao Municipal People's Government
-    note: Used to check the Yan'an 2nd Road–Shouguang Road extent, the 710-metre length, the number of businesses and the brewery's location; no source text is reproduced.
     accessed: 2026-11-08
   - key: qingdao-culture-street
     title: "Fresh beer and local food: a beer festival that never ends — Qingdao Culture and Tourism Bureau"
@@ -166,3 +160,13 @@ Set consumption boundaries. The museum and plant are for visiting, not for openi
 This route puts industrial history, production and nightlife on one street: the museum for where it came from, the old plant for how it is made now, the beer street for how it is consumed. For background, read the [Tsingtao Beer Museum](ref:museum), [Tsingtao Brewery](ref:brewery) and [Dengzhou Road Beer Street](ref:beer-street) entries. With half a day, keep the museum and one meal.
 
 Opening hours, tickets, menus and bookings follow official channels; pages verified 2026-11-08.
+
+## Related images
+
+![The red-brick courtyard at the Tsingtao Brewery site on Dengzhou Road, with TSINGTAO lettering on the chimney and the green can-shaped installation.](/media/photos/place-tsingtao-brewery-7493ff9a.jpg)
+
+Image: The red-brick courtyard at the Tsingtao Brewery site on Dengzhou Road, with TSINGTAO lettering on the chimney and the green can-shaped installation.. Credit: Suginami, CC0 1.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_Museum_inside_2024.jpg)). Related image for Qingdao Beer Trail: museum, old brewery and Dengzhou Road.
+
+![Tsingtao Brewery Company Limited](/media/photos/producer-tsingtao-8b8ef272.jpg)
+
+Image: Tsingtao Brewery Company Limited. Credit: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_No._1_Factory_(20250919130654).jpg)). Related image for Qingdao Beer Trail: museum, old brewery and Dengzhou Road.

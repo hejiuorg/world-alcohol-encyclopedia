@@ -81,6 +81,7 @@ rights:
   note: 本页配图为维基共享资源的“特撰 真澄”本酿造实拍照片，按 CC BY-SA 4.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 本酿造
 
 本酿造是[清酒](ref:sake)八个特定名称之一，常被一句“加了酒精”草草概括。这句话只说对了一半：它确实允许添加酿造酒精，但添加量有法定上限，精米步合与麹米比例也有门槛。把这三个条件放在一起看，本酿造才是一个完整的类别，而不是“纯米酒的兑水版”。
@@ -168,3 +169,9 @@ verification_scope: source-verified
 | 一句话定位 | 日本清酒的特定名称类别之一，精米步合上限 70%、麹米使用比例不低于 15%，并允许添加不超过白米重量 10% 的酿造酒精；口感通常比纯米酒更清爽利落，但本酿造不是质量等级 |
 | 上位风格 | 清酒 |
 | 香气家族 | 清爽米香 |
+
+## 相关图像
+
+![纯米酒相关实景照片](/media/photos/drink-style-junmai-sake-c56e7eb1.jpg)
+
+图：纯米酒相关实景照片。图片：Nisiguti，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Matsui_Sake_Brewery%27s_Sake_20211122.jpg)）。关联图像：本酿造。

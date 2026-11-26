@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:fruit-brandy
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6235b2a61f22c046de3f58219833c1dbe624c304f455f3669f54b45befd7a17d
-source_sha256: 6235b2a61f22c046de3f58219833c1dbe624c304f455f3669f54b45befd7a17d
+source_revision: sha256:617b2cbc85be118118a22923f1e44a6def6b1f138b57bb36463518abf4615226
+source_sha256: 617b2cbc85be118118a22923f1e44a6def6b1f138b57bb36463518abf4615226
 related:
   - relation: about
     target_id: drink-style:brandy
@@ -162,3 +162,9 @@ Store away from light, heat and vibration, upright and sealed. High alcohol lets
 - To map the palate boundaries, start with one pear spirit and one cherry spirit, compare fruit aroma, stone-almond note and alcohol structure at the same temperature in the same glass, then move to a berry or plum version.
 
 [Brandy](ref:brandy) and [Cherry](ref:cherry) answer different questions about Fruit Brandy / Eau-de-vie: legal definition and materials and process. Read them as a pair rather than as alternatives.
+
+## Related images
+
+![Cherry: Cherry 18th march 2025 (Wikimedia Commons)](/media/photos/ingredient-cherry-9772de58.jpg)
+
+Image: Cherry: Cherry 18th march 2025 (Wikimedia Commons). Credit: Natashadonoh, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cherry_18th_march_2025.jpg)). Related image for Fruit Brandy / Eau-de-vie.

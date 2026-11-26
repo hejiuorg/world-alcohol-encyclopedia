@@ -76,6 +76,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-21
 ---
+
 # 玛格丽特河葡萄酒路线
 
 这条路线以法塞尔与露纹两座 1970 年代先锋酒庄为锚点，从珀斯南下约三小时，把“海洋性气候、砾石土、Art Series 酒标与露天音乐会”放进同一天。全程约 80 公里，适合住在玛格丽特河镇、用一整天慢慢走，而不是从珀斯当日往返。
@@ -150,3 +151,13 @@ updated_at: 2026-11-21
 | 站数 | 2 |
 | 交通 | 自驾 |
 | 停靠顺序 | 法塞尔酒庄、露纹酒庄 |
+
+## 相关图像
+
+![Vasse Felix：Vasse Felix Winery（Wikimedia Commons）](/media/photos/place-vasse-felix-038a6f36.jpg)
+
+图：Vasse Felix：Vasse Felix Winery（Wikimedia Commons）。图片：Mark Pegrum，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vasse_Felix_Winery.jpg)）。关联图像：玛格丽特河葡萄酒路线。
+
+![霞多丽](/media/photos/variety-chardonnay-efde6838.jpg)
+
+图：霞多丽。图片：Jenavive at English Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)）。关联图像：玛格丽特河葡萄酒路线。

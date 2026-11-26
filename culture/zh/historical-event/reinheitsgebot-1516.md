@@ -84,6 +84,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；图片为 CC BY-SA 3.0，已署名。来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 德国啤酒纯净法 1516：一部地方条例如何变成国家符号
 
 1516 年 4 月 23 日，巴伐利亚公爵威廉四世与他的弟弟路德维希十世在因戈尔施塔特颁布一部《州法》。其中一段规定，今后在巴伐利亚的城市、集市与乡村，酿造啤酒只能使用大麦、啤酒花与水。这段文字后来被称为“啤酒纯净法”（Reinheitsgebot）。它并不是一部横空出世的“德国啤酒宪法”，而是一部地方性食品与价格条例的一部分；但它在此后五百年里，逐渐成为德国啤酒最著名的身份标签。
@@ -131,3 +132,9 @@ verification_scope: source-verified
 - [德国](ref:germany)：联邦制、州法与啤酒市场的区域背景。
 - [巴伐利亚](ref:bavaria)：纯净法诞生地与德国啤酒文化核心区。
 - [唯森小麦啤酒](ref:weihenstephan)：理解巴伐利亚修道院啤酒与小麦啤酒传统的样本。
+
+## 相关图像
+
+![唯森小麦白啤相关实景照片](/media/photos/drink-germany-weihenstephaner-hefe-weissbier-bcee0d33.jpg)
+
+图：唯森小麦白啤相关实景照片。图片：JIP，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Weihenstephaner_Hefe_Weissbier_aboard_Viking_Mariella.jpg)）。关联图像：德国啤酒纯净法 1516：一部地方条例如何变成国家符号。

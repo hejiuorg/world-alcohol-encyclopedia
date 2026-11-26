@@ -15,8 +15,8 @@ legacy_refs: []
 translation_of: region:highlands
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cdc298b15b97795533a1316d819bce971d35f65cc54c1bce1a883dcd7d701f9e
-source_sha256: cdc298b15b97795533a1316d819bce971d35f65cc54c1bce1a883dcd7d701f9e
+source_revision: sha256:a6c2b77378c90a5fa74a13653ee35b611256e0f8e0ca64b508992a228b5d43c9
+source_sha256: a6c2b77378c90a5fa74a13653ee35b611256e0f8e0ca64b508992a228b5d43c9
 aliases:
   - Highlands
   - Highland whisky region
@@ -86,6 +86,7 @@ rights:
   note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Highlands
 
 The Scottish Highlands is the largest Scotch whisky region by area, running from the northern and western mainland to the eastern boundary and including the islands outside [Islay](ref:islay). It is both a legal region name and a loose set of flavour impressions; treating Highland as one style is the most common way to misread it.
@@ -145,3 +146,13 @@ The Highlands is a broad Scottish whisky region, with coastal, island and inland
 - [Distillation](ref:distillation): pot distillation and cuts.
 - [Oak ageing](ref:oak-ageing): how cask type and maturation shape style.
 - [Barley](ref:barley): malted barley as a whisky raw material.
+
+## Related images
+
+![Category image for Islay](/media/photos/q2-place-scotch-whisky-experience-fa14dbdc.jpg)
+
+Image: Category image for Islay. Credit: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=98613535)). Related image for Highlands.
+
+![Category image for Speyside](/media/photos/place-glenfiddich-distillery-d6ab0496.jpg)
+
+Image: Category image for Speyside. Credit: Coldupnorth, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenfiddich_Distillery_View.jpg)). Related image for Highlands.

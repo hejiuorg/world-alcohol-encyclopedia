@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:cachaca
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8c4acac3f0c46f3b3a90cf806319913e0ee2b83988cd948560f301a8f3a1bd56
-source_sha256: 8c4acac3f0c46f3b3a90cf806319913e0ee2b83988cd948560f301a8f3a1bd56
+source_revision: sha256:f0c19c8e225c69a4c00cf2cc02b619a5ad780ccfb08f8ba543a394d7b67fcfc2
+source_sha256: f0c19c8e225c69a4c00cf2cc02b619a5ad780ccfb08f8ba543a394d7b67fcfc2
 legacy_refs: []
 parent_style_id: drink-style:rum
 aroma_family: Fruit / sugarcane
@@ -161,3 +161,9 @@ First, that cachaça is a type of rum. The raw materials, rules and protected na
 - [Distillation](ref:distillation): how pot and column stills shape cachaça.
 - [Sugarcane](ref:sugarcane): the crop and the importance of pressing quickly.
 - [Fermentation](ref:fermentation): wild yeast versus selected cultures.
+
+## Related images
+
+![Harvested sugarcane stalks cut into sections, showing nodes and internodes.](/media/photos/ingredient-sugarcane-64425b4f.jpg)
+
+Image: Harvested sugarcane stalks cut into sections, showing nodes and internodes.. Credit: ruurmo, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cut_sugarcane.jpg)). Related image for Cachaça.

@@ -100,6 +100,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览批次与价格会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 干露酒庄
 
 从圣地亚哥向南，车行约 45 分钟进入皮尔克，路边的杨树、灌溉渠与葡萄园逐渐取代城市。干露酒庄的院子在迈坡谷的冲积平原上，入口并不张扬，但一进去就能看到 1883 年的旧酒库、Casa Don Melchor 与后来加建的 Centro del Vino。它不是一个“家族小庄”，而是智利葡萄酒工业化、出口化与品牌化的缩影；理解它，最好把“品牌”与“土地”分开看：一边是 Casillero del Diablo 这样的全球商品，一边是 Don Melchor 这样来自 Puente Alto 特定地块的旗舰酒。酒庄的参观路线也把品鉴室与生产区分开，避免把工业流程当成主题公园。
@@ -155,3 +156,9 @@ Casillero del Diablo 这类日常红葡萄酒建议 15–17°C，开瓶即饮，
 - 同类对照：[maipo](ref:maipo)、[chile](ref:chile)、[cabernet-sauvignon](ref:cabernet)、[carmenere](ref:carmenere)、[red-wine](ref:red)、[oak-ageing](ref:oak)。
 - 背景阅读：[maipo](ref:maipo)、[chile](ref:chile)。
 关于干露酒庄，本页不绘制参观地图；开放时间、年份与价格以酒庄官网为准。
+
+## 相关图像
+
+![佳美娜](/media/photos/variety-carmenere-eb814fed.jpg)
+
+图：佳美娜。图片：Lebowskyclone，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:CarmenereW.jpg)）。关联图像：干露酒庄。

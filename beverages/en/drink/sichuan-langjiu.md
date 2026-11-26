@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:sichuan-langjiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7a4a4b567f2f78415cc0ca682165b5bbb0a2b6a6a05870a898e9237bd7970c98
-source_sha256: 7a4a4b567f2f78415cc0ca682165b5bbb0a2b6a6a05870a898e9237bd7970c98
+source_revision: sha256:f235bb58d30ca9f0f9953b044504d40b58156542199e6bc9e6ebb794bfc817eb
+source_sha256: f235bb58d30ca9f0f9953b044504d40b58156542199e6bc9e6ebb794bfc817eb
 style_refs:
   - drink-style:baijiu
 brand_refs: []

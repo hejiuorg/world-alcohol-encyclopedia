@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:sonoma
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4040176857c70549863ef094cb1e04b48077b52a1a2db66921cc419eeb3d3776
-source_sha256: 4040176857c70549863ef094cb1e04b48077b52a1a2db66921cc419eeb3d3776
+source_revision: sha256:0447e3142a97048fb7a49aec0eadd4260476254aa7b53fbab6ad8103abf89a8d
+source_sha256: 0447e3142a97048fb7a49aec0eadd4260476254aa7b53fbab6ad8103abf89a8d
 level: other
 parent_id: region:usa
 country_code: US
@@ -94,6 +94,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Sonoma
 
 Sonoma is the wine region of Sonoma County, California, known for varied microclimates and a dense set of AVAs, running from the cool Pacific coast to warm inland valleys.
@@ -186,3 +187,13 @@ Put [Wine](ref:wine)'s geographic boundary next to [Red wine](ref:red-wine)'s cl
 - [Vintage](ref:vintage): vintage variation, drought and wildfire in Sonoma.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Terroir](/media/photos/term-terroir-c440d7e4.jpg)
+
+Image: Terroir. Credit: Friedrich Petersdorff, CC BY-SA 2.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)). Related image for Sonoma.
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Sonoma.

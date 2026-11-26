@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:zunyi
 source_lang: zh
-source_revision: sha256:a3882c428c4674b358541f6d125fcee9c91e633555f398b00fff0dc56ed7ca70
-source_sha256: a3882c428c4674b358541f6d125fcee9c91e633555f398b00fff0dc56ed7ca70
+source_revision: sha256:d3fec7646a0829fc6479fc1097d2b806c8dc9d11cdfdd7ff527b2176b0e0118c
+source_sha256: d3fec7646a0829fc6479fc1097d2b806c8dc9d11cdfdd7ff527b2176b0e0118c
 translation_status: reviewed
 level: city
 parent_id: region:guizhou
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. Third-party images are credited in the captions.
 verification_scope: source-verified
 ---
+
 # Zunyi
 
 Zunyi is in northern Guizhou, bordering Chongqing to the north, Sichuan to the west, Guiyang to the south and Tongren and Qiandongnan to the east. The Chishui River runs from south to north through western Zunyi and cuts a deep valley around Maotai Town in Renhuai. The core area of sauce-aroma baijiu lies along this valley. Zunyi's public story is often shared between revolutionary history and Maotai liquor, but to understand the production area you need to see valley climate, the seasonal rhythm of qu making and grain loading, and the spatial layout of the distilleries together.
@@ -139,3 +140,13 @@ Fourth, "empty-cup fragrance" is not the only standard. Cleanliness, balance and
 - For the shared language of sauce aroma, read [Sauce-aroma baijiu](ref:sauce).
 - To compare Guizhou with Sichuan production areas, read [Guizhou](ref:guizhou) and [China](ref:china).
 - To place Maotai Town on a Chishui River journey, read [Maotai Town liquor route](ref:route) first, then check Renhuai accommodation and return transport.
+
+## Related images
+
+![A street view of Maotai town in Renhuai, Guizhou, where valley terrain and climate are tightly bound to sauce-aroma production](/media/photos/place-maotai-distillery-bf022cc0.jpg)
+
+Image: A street view of Maotai town in Renhuai, Guizhou, where valley terrain and climate are tightly bound to sauce-aroma production. Credit: Wahsaw, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Streetview_of_Maotai(Moutai)_Town,_Renhuai_City,_Zunyi,_Guizhou.jpg)). Related image for Zunyi.
+
+![Sauce-aroma baijiu](/media/photos/drink-style-sauce-aroma-baijiu-1c3af236.jpg)
+
+Image: Sauce-aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Zunyi.

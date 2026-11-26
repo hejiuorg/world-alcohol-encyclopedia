@@ -88,6 +88,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 卢瓦尔河谷
 
 卢瓦尔河谷是法国西部沿卢瓦尔河分布的葡萄酒产区带，从大西洋沿岸的南特一直延伸到内陆的中央-卢瓦尔。它不是单一产区，而是一组气候、土壤与品种各不相同的法定产区，涵盖干白、甜酒、红葡萄酒与起泡酒。
@@ -168,3 +169,13 @@ verification_scope: source-verified
 **适用边界。** 对「卢瓦尔河谷」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「卢瓦尔河谷」最近核对于 2026-11-05；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![桑塞尔](/media/photos/drink-france-sancerre-1c3af8de.jpg)
+
+图：桑塞尔。图片：Wikimedia Commons contributor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sancerre_france.jpg)）。关联图像：卢瓦尔河谷。
+
+![武弗雷](/media/photos/drink-france-vouvray-6ecace6d.jpg)
+
+图：武弗雷。图片：Croquant，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vouvray_%C3%A9glise.jpg)）。关联图像：卢瓦尔河谷。

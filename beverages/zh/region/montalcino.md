@@ -78,6 +78,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 蒙塔希诺
 
 蒙塔希诺（Montalcino）是意大利托斯卡纳锡耶纳省蒙塔希诺市镇的红葡萄酒保证法定产区（DOCG），以 100% 桑娇维塞酿造的布鲁奈罗（Brunello）著称。它的法定范围只有一个市镇，却因土壤、海拔与坡向的差异，在同一套规范下呈现出相当多样的风格。
@@ -150,3 +151,13 @@ Brunello 颜色为明亮的石榴红，香气浓郁而持久，常见灌木丛�
 - [红葡萄酒](ref:red-wine)：蒙塔希诺的类别、单宁与酿造概览。
 - [橡木桶陈年](ref:oak-ageing)：桶型、桶龄与微氧化的作用。
 - [风土](ref:terroir)：海拔、坡向与土壤差异的讨论框架。
+
+## 相关图像
+
+![“托斯卡纳”页面配图：Tuscany vineyard。摄影：cova69，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
+
+图：Tuscany vineyard。摄影：cova69，CC BY 2.0，来自 Wikimedia Commons。。图片：cova69，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=1393578)）。关联图像：蒙塔希诺。
+
+![桑娇维塞](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
+
+图：桑娇维塞。图片：Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VIVC10680_SANGIOVESE_Cluster_in_the_field_20354.jpg)）。关联图像：蒙塔希诺。

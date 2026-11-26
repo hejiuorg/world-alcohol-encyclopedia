@@ -93,6 +93,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 老式艾尔/棕色艾尔
 
 老式艾尔（Old Ale）与棕色艾尔（Brown Ale）是英国传统艾尔的两个相邻方向：老式艾尔是酒精度偏高、可桶陈或瓶陈的麦芽甜型浓艾尔，棕色艾尔则是中度酒精度、麦芽烤面包与焦糖风味的日常英式艾尔；两者都以英式麦芽、传统艾尔酵母与较低苦度为底色。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 学习一类英式艾尔，可以先喝最标准的基准款，再试一个换强度或麦芽的变体，最后接触一个长陈极端款；三步之后，风格边界会比读定义更清楚。
 
 - 相关条目：[english-ale](ref:english-ale)、[beer](ref:beer)、[barley](ref:barley)、[fermentation](ref:fermentation)、[vintage](ref:vintage)。
+
+## 相关图像
+
+![英式艾尔类型示意图](/media/photos/theme-beer.jpg)
+
+图：英式艾尔类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：老式艾尔/棕色艾尔。

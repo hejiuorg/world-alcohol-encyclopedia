@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:henschke
 source_lang: zh
-source_revision: sha256:8fe11a296050641a03a6502b9a60fd3402df8053afd3899307dcaf43a41b5797
-source_sha256: 8fe11a296050641a03a6502b9a60fd3402df8053afd3899307dcaf43a41b5797
+source_revision: sha256:02ebcd05d99a3f8eef920cfa2ee374c8b57bad34cd33c2188ff120238cb56ab6
+source_sha256: 02ebcd05d99a3f8eef920cfa2ee374c8b57bad34cd33c2188ff120238cb56ab6
 translation_status: reviewed
 subtype: winery-visitor
 address: 1428 Keyneton Road, Keyneton, South Australia 5353, Australia
@@ -88,6 +88,7 @@ rights:
   note: Third-party trademarks, labels, menus, images and quoted texts are not covered by this licence; opening hours, booking rules and wines change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Henschke
 
 Henschke stands at Keyneton in Eden Valley, reached by a climb from the Barossa floor. Its cellar door is modest and its cellars do not win on scale. What carries the reputation is a pair of old-vine Shiraz sites, six generations of family records, and a narrative that puts site ahead of brand. A visitor who treats the estate only as a place to taste Hill of Grace misses the most valuable part: how altitude, old vines and family memory overlap on one hillside.![Henschke photograph](/media/photos/q2-place-henschke-95496df3.jpg)
@@ -143,3 +144,9 @@ First, Henschke is not a Barossa Valley floor winery. It sits at Keyneton in Ede
 ## References
 
 This entry was checked against Henschke's official contact, home and family history pages, and Wine Australia's Barossa Valley material. Page verified 2026-11-09. To place this stop in a day, see the [Barossa wine trail](ref:route); for variety and style background, see [Shiraz](ref:shiraz) and [red wine](ref:red-wine). Opening hours, booking rules and wines are subject to official channels.
+
+## Related images
+
+![Related photograph of Barossa](/media/photos/region-barossa-cae6ecd8.jpg)
+
+Image: Related photograph of Barossa. Credit: No machine-readable author provided. ScottDavis assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tanunda.jpg)). Related image for Henschke.

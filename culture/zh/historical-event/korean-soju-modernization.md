@@ -74,6 +74,7 @@ rights:
   note: 第三方政府文件、企业页面、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 韩国烧酒史：从蒸馏酒到绿色瓶
 
 今天的韩国烧酒通常指绿色玻璃瓶里的透明液体：低价、低度、入口甜，适合在烤肉店与聚餐场合反复举杯。但它与历史上用大米蒸馏而成的烧酒并不是同一种工艺。两条线索在 20 世纪中叶分叉：一条是延续数百年的谷物蒸馏传统，以安东烧酒为代表；另一条是 1965 年粮食政策之下诞生的工业稀释式烧酒。理解这段历史，关键不在于“哪种更正宗”，而在于粮食、税收与工业化如何先后改写了同一名称下的饮品。
@@ -146,3 +147,9 @@ verification_scope: source-verified
 补充阅读：[1855年波尔多分级：一张为世博会赶出的名单](ref:c-extra-1)、[1952年全国评酒会：八大名酒与评选制度的起点](ref:c-extra-2)。
 
 相关条目：[烧酒](ref:soju)。
+
+## 相关图像
+
+![1855年波尔多分级：一张为世博会赶出的名单类别配图](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
+
+图：1855年波尔多分级：一张为世博会赶出的名单类别配图。图片：Benjamin Zingg, Switzerland，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)）。关联图像：韩国烧酒史：从蒸馏酒到绿色瓶。

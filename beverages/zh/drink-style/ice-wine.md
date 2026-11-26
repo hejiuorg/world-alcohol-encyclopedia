@@ -80,6 +80,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 冰酒
 
 冰酒（ice wine，德语 Eiswein）是一种在藤上自然结冰的葡萄酿成的甜型[葡萄酒](ref:wine)，属于[甜酒](ref:dessert-wine)的一类。葡萄留在枝头直到冬季气温降到冰点以下，采收后在冻结状态下压榨，果肉中的水分以冰晶形式留在压榨机里，流出的只是少量高度浓缩的汁液。它的甜不来自加糖，也不来自贵腐菌，而来自物理性的脱水与冻结。理解冰酒，要同时理解温度、时间与风险。
@@ -147,3 +148,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「冰酒」的关键事实，主要由以下来源交叉核对：Deutsches Weininstitut (DWI)（德国冰酒的采收温度、历史与产量比例）、VQA Ontario（安大略 VQA 的产地认证与冰酒生产框架）、European Union（欧盟葡萄酒类别、地理标志与标签规则）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「冰酒」与「甜酒」、「雷司令」、「德国」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![晚收（late harvest）](/media/photos/term-late-harvest-fde1a4f5.jpg)
+
+图：晚收（late harvest）。图片：Agne27，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Late_harvest_Semillon.jpg)）。关联图像：冰酒。

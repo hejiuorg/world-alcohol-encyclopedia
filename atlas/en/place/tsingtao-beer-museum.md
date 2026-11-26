@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:tsingtao-beer-museum
 source_lang: zh
-source_revision: sha256:bede9d56402423d56828c52e5042c7be2c5fb413c14be9bfc9e686535a33e813
-source_sha256: bede9d56402423d56828c52e5042c7be2c5fb413c14be9bfc9e686535a33e813
+source_revision: sha256:4a12c21d5ca00d43c28c9017ac593eb58c16d8b9fe8995f2ce1756dc14dcc406
+source_sha256: 4a12c21d5ca00d43c28c9017ac593eb58c16d8b9fe8995f2ce1756dc14dcc406
 translation_status: reviewed
 subtype: museum
 address: 青岛市市北区登州路56号
@@ -214,3 +214,9 @@ Closing time changes with the season: last entry is 16:30 in winter and as late 
 The Tsingtao Beer Museum grounds the industrial history of [beer](ref:beer) in a specific city: German-style buildings, old equipment and urban consumption together form part of the modern beer story of [China](ref:china). It differs from a European monastery brewery or a village pub visit and is closer to a combination of industrial heritage and brand museum.
 
 Further reading: [Tsingtao Brewery Company Limited](ref:c-extra-1), [Tsingtao Beer](ref:c-extra-2), [A Ginjinha](ref:c-extra-3).
+
+## Related images
+
+![Tsingtao Brewery Company Limited](/media/photos/producer-tsingtao-8b8ef272.jpg)
+
+Image: Tsingtao Brewery Company Limited. Credit: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_No._1_Factory_(20250919130654).jpg)). Related image for Tsingtao Beer Museum.

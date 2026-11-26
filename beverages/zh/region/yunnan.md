@@ -92,6 +92,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 云南
 
 云南位于中国西南，葡萄酒产区可以分为两个截然不同的世界：一个是迪庆香格里拉高原上的德钦，葡萄园沿金沙江与澜沧江的干旱河谷分布，海拔从 1800 米一直到 2800 米；另一个是红河州弥勒的低海拔坝区，葡萄园高度约 1480 米。把这两个地方放在同一页，是因为它们共同构成云南葡萄酒的地理跨度，而不是因为它们的风格相同。
@@ -159,3 +160,13 @@ verification_scope: source-verified
 - [葡萄](ref:grape)：酿酒葡萄的结构与成熟指标。
 - [发酵](ref:fermentation)：控温发酵与浸皮萃取对风格的影响。
 - [橡木桶陈年](ref:oak-ageing)：新桶与旧桶对高原葡萄酒的影响。
+
+## 相关图像
+
+![中国类别配图](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+图：中国类别配图。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)）。关联图像：云南。
+
+![霞多丽](/media/photos/variety-chardonnay-efde6838.jpg)
+
+图：霞多丽。图片：Jenavive at English Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)）。关联图像：云南。

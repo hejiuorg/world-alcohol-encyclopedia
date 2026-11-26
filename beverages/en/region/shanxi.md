@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:shanxi
 source_lang: zh
-source_revision: sha256:6db120e2479569491a2362a6e37329bcfd79741ceb7fe407694092c6365c2a47
-source_sha256: 6db120e2479569491a2362a6e37329bcfd79741ceb7fe407694092c6365c2a47
+source_revision: sha256:11d29861d7857c664325bf61898f8d24e8b925e968213c773745349c742b8801
+source_sha256: 11d29861d7857c664325bf61898f8d24e8b925e968213c773745349c742b8801
 translation_status: reviewed
 level: province
 parent_id: region:china
@@ -167,3 +167,13 @@ Fifth, that a group standard can replace a national standard. A group standard i
 - [Fermentation](ref:fermentation): how loading temperature, moisture and qu quantity control fermentation.
 - [Distillation](ref:distillation): how head and tail cuts relate to light-aroma cleanliness.
 - [Fenjiu Group](ref:fenjiu): the representative producer at Xinghua Village.
+
+## Related images
+
+![Light aroma baijiu](/media/photos/drink-style-light-aroma-baijiu-1c3af236.jpg)
+
+Image: Light aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Shanxi.
+
+![Sorghum](/media/photos/ingredient-sorghum-879ae613.jpg)
+
+Image: Sorghum. Credit: No machine-readable author provided. Pethan assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg)). Related image for Shanxi.

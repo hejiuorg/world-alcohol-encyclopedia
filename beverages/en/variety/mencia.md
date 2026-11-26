@@ -22,8 +22,8 @@ tags:
 translation_of: variety:mencia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:32ee2b1915c7115608a78146237f67899a8cd1521995396a26ac0a2fe36cebeb
-source_sha256: 32ee2b1915c7115608a78146237f67899a8cd1521995396a26ac0a2fe36cebeb
+source_revision: sha256:faaafc0e1247cf29dde2e44bf2f6312d7a8004e52764356e84c1c2ea0195ef51
+source_sha256: faaafc0e1247cf29dde2e44bf2f6312d7a8004e52764356e84c1c2ea0195ef51
 related:
   - relation: about
     target_id: region:bierzo
@@ -96,6 +96,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Mencía
 
 Mencía is an indigenous red grape of the western Iberian Peninsula, centered in northwest Spain's Bierzo and in Galicia's Ribeira Sacra, Valdeorras and Monterrei. Aromatic, with bright acidity and fine, moderate tannin, it shows black cherry, raspberry, violet, dried herb and slate mineral; from an obscure bulk blending grape in the late twentieth century it was revived into one of the most talked-about native reds of Iberia (ref:bierzo).
@@ -156,3 +157,9 @@ On the label, separate DO district, entry bottling from single-village or single
 Start with where it is grown. From there, consider how it is labelled, then whether the style is dry or sweet. That is how a practical judgment about Mencía is built.
 
 [Bierzo](ref:bierzo) and [Red wine](ref:red) are the nearest useful comparisons: one clarifies variety character, the other tests regional performance.
+
+## Related images
+
+![Bierzo](/media/photos/region-bierzo-de87f9ed.jpg)
+
+Image: Bierzo. Credit: Fogar Mozárabe, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Arquitectura_tradicional_de_El_Bierzo.jpg)). Related image for Mencía.

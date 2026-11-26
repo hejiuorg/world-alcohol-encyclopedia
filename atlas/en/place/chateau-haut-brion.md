@@ -97,9 +97,10 @@ verification_scope: source-verified
 translation_of: place:chateau-haut-brion
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7f64ad75bf699564c42142c3c34405f81bba192772e86f0ba1aa071f143978b7
-source_sha256: 7f64ad75bf699564c42142c3c34405f81bba192772e86f0ba1aa071f143978b7
+source_revision: sha256:db27965dbba94d093841ea702c3abab2f94ec4730ab3a0bbb70e36f02e2fe547
+source_sha256: db27965dbba94d093841ea702c3abab2f94ec4730ab3a0bbb70e36f02e2fe547
 ---
+
 # Château Haut-Brion
 
 Haut-Brion is not in the Médoc vineyards. It sits in Pessac, on the southern edge of Bordeaux. A fifteen-minute drive from the city centre passes housing, schools and offices before a gravel rise and a 16th-century house appear: streets outside the wall, vines inside. It is the only 1855 first growth outside the Médoc, and one of the earliest Bordeaux wines known to the English, Dutch and Paris markets.![Château Haut-Brion exterior](/media/photos/place-chateau-haut-brion-b7f17baf.jpg)
@@ -169,3 +170,9 @@ With one day, Haut-Brion plus Cité du Vin in central Bordeaux is a relaxed pair
 - Right Bank and sweet wine: [Cheval Blanc](ref:cheval), [Pétrus](ref:petrus), [Yquem](ref:yquem), [Bordeaux region](ref:bordeaux).
 
 Château Haut-Brion is best read by starting with the address, moving to the current opening status, and ending with what the place is known for.
+
+## Related images
+
+![The main house of Château Margaux](/media/photos/place-chateau-margaux-bb3c2fe1.jpg)
+
+Image: The main house of Château Margaux. Credit: David Perez, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chateau_Margaux_01_by-dpc.jpg)). Related image for Château Haut-Brion.

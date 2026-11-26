@@ -24,8 +24,8 @@ tags:
 translation_of: region:haut-medoc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6058e0cc87b86a127ce0a9a9b756397200a20bd00692114811f65c6154d67882
-source_sha256: 6058e0cc87b86a127ce0a9a9b756397200a20bd00692114811f65c6154d67882
+source_revision: sha256:d6a52136fa8554d885ef181a32af0cd4bb92e230e673f9b6fb067b7b47cbb3ab
+source_sha256: d6a52136fa8554d885ef181a32af0cd4bb92e230e673f9b6fb067b7b47cbb3ab
 related:
   - relation: about
     target_id: region:bordeaux
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Haut-Médoc
 
 A broad AOC in the northern Médoc on Bordeaux’s left bank, running from Blanquefort to Saint-Seurin-de-Cadourne and surrounding six communal AOCs including Margaux, Saint-Julien, Pauillac and Saint-Estèphe; Cabernet Sauvignon on gravel ridges dominates, and the area holds many of the 1855 classed growths.
@@ -156,3 +157,13 @@ Haut-Médoc runs from Blanquefort in the south to Saint-Seurin in the north, gen
 - Haut-Médoc’s white wines are rare and are usually sold under a village name or as Vin de France, not under the Haut-Médoc AOC.
 
 [Bordeaux](ref:bordeaux) and [Merlot](ref:merlot) are the two useful reference points for Haut-Médoc. [Bordeaux](ref:bordeaux) sets out geographic boundary; [Merlot](ref:merlot) brings in climate and soil. Read them together.
+
+## Related images
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Haut-Médoc.
+
+![Photograph for Cabernet Sauvignon: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+Image: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13318021)). Related image for Haut-Médoc.

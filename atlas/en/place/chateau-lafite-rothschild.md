@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:chateau-lafite-rothschild
 source_lang: zh
-source_revision: sha256:4b09c4e9b2f01ea28b414282072719d44b1737e9955bbbc0a00fbc85a9af44f7
-source_sha256: 4b09c4e9b2f01ea28b414282072719d44b1737e9955bbbc0a00fbc85a9af44f7
+source_revision: sha256:348630c1d5616615e7986fa98ac87359f212dc029b9e4e6e130c65ec679873bf
+source_sha256: 348630c1d5616615e7986fa98ac87359f212dc029b9e4e6e130c65ec679873bf
 translation_status: reviewed
 subtype: winery-visitor
 address: Château Lafite Rothschild, 33250 Pauillac, France
@@ -159,3 +159,9 @@ Lafite is a reference point for [Bordeaux's left bank](ref:bordeaux) and for [Ca
 Further reading: [Red wine](ref:c-extra-1).
 
 Read [Château Lafite Rothschild](ref:lafite) for the address and space side of Château Lafite Rothschild, and [Wine grading systems: geographical indications, national tiers and estate classifications](ref:grading) for the operating status side. Together they locate it on a map.
+
+## Related images
+
+![Château Lafite Rothschild](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+Image: Château Lafite Rothschild. Credit: PA, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)). Related image for Château Lafite Rothschild.

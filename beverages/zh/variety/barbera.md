@@ -69,6 +69,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 巴贝拉
 
 巴贝拉（Barbera）是意大利皮埃蒙特最重要的红葡萄品种之一。它的特点很明确：颜色深、酸度高、单宁中等，喝起来“有骨架但不涩”。在皮埃蒙特，它常与内比奥罗并列出现，前者提供日常的果味与酸度，后者提供更强的单宁与陈年潜力。巴贝拉也是少数在炎热年份仍能保持酸度的红葡萄，这让它在气候变化下重新受到重视。
@@ -140,3 +141,9 @@ verification_scope: source-verified
 | 代表产区 | 意大利、皮埃蒙特 |
 
 **来源与边界。** 本页关于「巴贝拉」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Oxford University Press（提供关于巴贝拉、皮埃蒙特与酸度风格的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）、Regione Piemonte（皮埃蒙特产区与巴贝拉法定名称的概况）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“皮埃蒙特”页面配图：Piedmont vineyard in autumn。摄影：Giorgio Montersino，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-piedmont-86c6d640.jpg)
+
+图：Piedmont vineyard in autumn。摄影：Giorgio Montersino，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Giorgio Montersino，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=5816942)）。关联图像：巴贝拉。

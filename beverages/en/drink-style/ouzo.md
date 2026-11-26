@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:ouzo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5d11ff49febf63f5385c91c19dd1d4967c8957987a8aa65a870ed89d8dde9718
-source_sha256: 5d11ff49febf63f5385c91c19dd1d4967c8957987a8aa65a870ed89d8dde9718
+source_revision: sha256:76a18754adc02e83ad45e24cb3023f828d66dab4f6a7f566a5bb656d125c397c
+source_sha256: 76a18754adc02e83ad45e24cb3023f828d66dab4f6a7f566a5bb656d125c397c
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: anise, liquorice and mastic
@@ -140,3 +140,9 @@ Greece's tsipouro is a grape-marc distillate, normally without anise, so it is n
 Look first at name and origin: real ouzo says "Ouzo" and names a Greek origin, with at least 37.5% ABV. "100% distillation" usually signals a more concentrated aroma. The shorter the ingredient list, the easier it is to read the style, and the order of mastic, coriander and clove hints at the flavour direction.
 
 Ouzo does not need ageing. Keep the cap tight, store away from light at room temperature, and use it within a reasonable time; prolonged air contact oxidises anethole and dulls the aroma. Do not store it in the freezer, where anethole may separate early and spoil the appearance.
+
+## Related images
+
+![An absinthe gift set: a black Teichenné bottle, a slotted metal sugar spoon and a glass lettered ABSINTHE.](/media/photos/drink-style-absinthe-7d2100d5.jpg)
+
+Image: An absinthe gift set: a black Teichenné bottle, a slotted metal sugar spoon and a glass lettered ABSINTHE.. Credit: Tangopaso, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Absinthe_bottle_with_glass_and_spoon.jpg)). Related image for Ouzo.

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:germany
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:93277a05a1b6e9ecf92dfa7c50080507d37d1979527baeaa7800ed873e379cb7
-source_sha256: 93277a05a1b6e9ecf92dfa7c50080507d37d1979527baeaa7800ed873e379cb7
+source_revision: sha256:2c7743ceb8f6caa04b1ca04861b7ec3b85adcc6e1683d368857e2589065fb9a3
+source_sha256: 2c7743ceb8f6caa04b1ca04861b7ec3b85adcc6e1683d368857e2589065fb9a3
 level: country
 country_code: DE
 legacy_refs: []
@@ -90,6 +90,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Germany
 
 Germany is an important wine- and beer-producing country in central Europe. Wine regions are concentrated on river valleys and slopes in the west and south-west, with Riesling as the signature white variety; beer relies on barley, wheat and water and ranges from monastic traditions to modern craft styles. German wine regions and classification are closely tied to the EU framework.
@@ -186,3 +187,13 @@ Read [Wine](ref:wine) for the geographic boundary side of Germany, and [Red wine
 - [Beer](ref:beer): German beer ingredients and process.
 - [Barley](ref:barley), [wheat](ref:wheat) and [water](ref:water): the base materials of beer and grain drinks.
 - [Fermentation](ref:fermentation) and [oak ageing](ref:oak-ageing): key steps in brewing and maturation.
+
+## Related images
+
+![Wheat](/media/photos/ingredient-wheat-e782d218.jpg)
+
+Image: Wheat. Credit: kallerna, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)). Related image for Germany.
+
+![Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.](/media/photos/ingredient-water-edf289bf.jpg)
+
+Image: Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.. Credit: Jorge Barrios, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)). Related image for Germany.

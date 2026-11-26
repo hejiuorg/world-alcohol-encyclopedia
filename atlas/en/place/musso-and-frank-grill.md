@@ -32,8 +32,8 @@ tags:
 translation_of: place:musso-and-frank-grill
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:747c6bf6e812f8b3d71d3120b8bf52f0649ae7d49ef0c3986a8c9e2147070275
-source_sha256: 747c6bf6e812f8b3d71d3120b8bf52f0649ae7d49ef0c3986a8c9e2147070275
+source_revision: sha256:221cb2e09429ae3df2e22dc19e4101dbeceb3695e9b6fcb3b1a890a404dd1574
+source_sha256: 221cb2e09429ae3df2e22dc19e4101dbeceb3695e9b6fcb3b1a890a404dd1574
 related:
   - relation: about
     target_id: place:hemingway-bar-ritz-paris
@@ -89,6 +89,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1919
 ---
+
 # Musso & Frank Grill
 
 On Hollywood Boulevard, east of the Walk of Fame crowds, a dark green awning and a simple sign mark a restaurant that has been in business since 1919. The windows are old, the waiters wear jackets and ties, and the menu still includes flannel cakes, sand dabs and a proper martini. Musso & Frank Grill is not a museum of old Hollywood, although it can feel like one. It is a working restaurant where the past survives because the routines have not been replaced.
@@ -142,3 +143,11 @@ Leave the restaurant and walk west along Hollywood Boulevard to the Walk of Fame
 - [Understanding a City Through Its Pub](ref:pub-city)
 
 Checked on 2026-11-21 against the Musso & Frank Grill official page. Hours are Tuesday–Saturday 17:00–23:00 and Sunday 16:00–22:00, closed Monday; dinner and weekends are best booked, while the bar usually keeps room for walk-ins. The "oldest in Hollywood" qualifier cannot be dropped, the red uniforms are a service tradition rather than a themed performance, and a drier Martini is not automatically better; the body explains each point. The image shows the full Hollywood Boulevard storefront and roof sign, not the interior.
+
+## Related images
+
+![The brass Bar Hemingway sign at the entrance to the Ritz Paris bar; the room has just 25 seats and no background music. The photograph shows the entrance sign, not the bar interior.](/media/photos/place-hemingway-bar-ritz-paris-3ee551c6.jpg)
+
+Image: The brass Bar Hemingway sign at the entrance to the Ritz Paris bar; the room has just 25 seats and no background music. The photograph shows the entrance sign, not the bar interior.. Credit: Pablo Sanchez, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bar_Hemingway_Ritz.jpg)). Related image for Musso & Frank Grill.
+
+The Green Mill sign reference notes a club that began around 1907; its current building was completed in 1914 and the present space took shape in 1935.

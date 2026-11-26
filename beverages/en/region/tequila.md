@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:tequila
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6acbd89a62651b7cf944216960ed24f6a552920e977983c742680f5f964a10cf
-source_sha256: 6acbd89a62651b7cf944216960ed24f6a552920e977983c742680f5f964a10cf
+source_revision: sha256:53858137636076508efffcbde1d2a0d4dc7f9d27628dda23ce7abeb31ad3e60b
+source_sha256: 53858137636076508efffcbde1d2a0d4dc7f9d27628dda23ce7abeb31ad3e60b
 level: other
 country_code: MX
 legacy_refs: []
@@ -72,6 +72,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images. Regulatory detail follows the current text of NOM-006-SCFI-2012.
 verification_scope: source-verified
 ---
+
 # Tequila region
 
 The tequila protected region is the geographical area Mexico has defined for [tequila](ref:tequila), centred on Jalisco and including specified municipalities in Guanajuato, Michoacán, Nayarit and Tamaulipas. Only products made from blue Weber agave grown inside the region, under the rules, may be labelled tequila.![related photograph of Tequila region](/media/photos/region-tequila-acab835c.jpg)
@@ -154,3 +155,13 @@ For Tequila region, this region was last checked in 2026; prices, batches and av
 - [Mezcal](ref:mezcal): another Mexican agave distillate.
 - [Fermentation](ref:fermentation): the key step that turns agave sugar into alcohol.
 - [Distillation](ref:distillation): the basics of double pot distillation and cuts.
+
+## Related images
+
+![Tequila](/media/photos/drink-style-tequila-827c4596.jpg)
+
+Image: Tequila. Credit: T2O media México, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Paisaje_agavero_de_Jose_Cuervo_en_Tequila,_Jalisco.jpg)). Related image for Tequila region.
+
+![Mezcal](/media/photos/drink-style-mezcal-a77be8ad.jpg)
+
+Image: Mezcal. Credit: ProtoplasmaKid, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg)). Related image for Tequila region.

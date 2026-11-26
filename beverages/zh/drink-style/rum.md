@@ -57,6 +57,12 @@ sources:
     publisher: BJCP
     accessed: 2026-11-21
     note: 用于补充核对条目背景、术语与制度口径；未复制原文。
+  - key: adv-wirspa
+    title: West Indies Rum and Spirits Producers' Association
+    url: https://www.wirspa.com/
+    publisher: WIRSPA
+    note: 用于核对加勒比朗姆的产区、类别与行业口径；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -122,6 +128,28 @@ verification_scope: source-verified
 第五，忽视“农业朗姆”的产地与法规含义。它不只是营销词，通常对应特定的原料与产区规则。
 
 **来源与边界。** 本页关于「朗姆酒」的关键事实，主要由以下来源交叉核对：European Union（朗姆酒的原料类别、最低酒精度与农业朗姆的标注要求）、West Indies Rum and Spirits Producers' Association（加勒比朗姆酒的生产背景与地理标志讨论）、Oxford University Press（提供关于甘蔗烈酒、加勒比产区与朗姆酒风格的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+
+## 进阶判断
+
+![四方朗姆酒厂橡木桶仓库](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+图：四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格。图片：Unknown author Unknown author，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)）。
+
+| 变量 | 路线 | 风味与购买线索 |
+| --- | --- | --- |
+| 原料 | 糖蜜 / 甘蔗汁 | 糖蜜厚、甘蔗汁清 |
+| 蒸馏 | 壶式 / 柱式 | 壶式重、柱式轻 |
+| 陈年 | 热带 / 欧洲 | 热带快、欧洲慢 |
+| 添加 | 加糖 / 香料 | 口感圆润但需看标签 |
+
+**Agricole 和工业朗姆有什么区别？** Agricole 用甘蔗汁发酵，风味更青绿、花香；工业朗姆多用糖蜜，风格更厚、更甜。两者都可能优质，差别在原料与产区传统。
+
+**香料朗姆是“假朗姆”吗？** 不是。香料朗姆是合法类别，但添加糖与香料会改变风味和标签真实性。买的时候看配料、产地与酒精度，不只看“Spiced”。
+
+**朗姆酒的年份可信吗？** 要看标签写的是最低年份、单一桶还是调和。热带陈年与欧洲陈年速度不同，年份数字不能直接跨产区比较。
+
+延伸阅读：[蒸馏](ref:distillation)、[橡木桶陈年](ref:oak-ageing)。
 
 ## 参考资料
 - [蒸馏](ref:distillation)：壶式与柱式蒸馏决定朗姆酒体的基础。

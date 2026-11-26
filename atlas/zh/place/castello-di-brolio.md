@@ -98,6 +98,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放日期、门票、品鉴与餐饮价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 布罗利奥城堡
 
 从 Gaiole in Chianti 往南，公路在山脊与橡树林之间爬升，布罗利奥城堡（Castello di Brolio）的塔楼会先于葡萄园出现。它看起来像一座典型的托斯卡纳城堡，但这里不只是拍照的背景：里卡索利家族在这里拥有土地、经营酒庄、参与佛罗伦萨与锡耶纳的战争，也在 19 世纪写下了现代基安蒂的配方。今天买票进入的是城堡、花园与家族收藏，山脚下的酒 shop 则负责品鉴与卖酒；两件事相关，但不是同一张门票。
@@ -168,3 +169,9 @@ verification_scope: source-verified
 补充阅读：[意大利](ref:c-extra-1)、[安东尼世家经典基安蒂酒庄](ref:c-extra-2)。
 
 相关条目：[托斯卡纳](ref:tuscany)、[葡萄酒](ref:wine)、[一杯酒，为什么有地方的味道？](ref:place-and-process)。
+
+## 相关图像
+
+![“托斯卡纳”页面配图：Tuscany vineyard。摄影：cova69，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
+
+图：Tuscany vineyard。摄影：cova69，CC BY 2.0，来自 Wikimedia Commons。。图片：cova69，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=1393578)）。关联图像：布罗利奥城堡。

@@ -40,8 +40,8 @@ tags:
 translation_of: place:stellenbosch
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:159a75975cddcb89619c1961817a5008af0aa40a9e5f769cb8537e0f6cf481d8
-source_sha256: 159a75975cddcb89619c1961817a5008af0aa40a9e5f769cb8537e0f6cf481d8
+source_revision: sha256:68f8a11e8a9894691423a59fff67579066ab9ccb751dd57d3a5c683bcde72981
+source_sha256: 68f8a11e8a9894691423a59fff67579066ab9ccb751dd57d3a5c683bcde72981
 related:
   - relation: about
     target_id: region:stellenbosch
@@ -96,6 +96,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; winery hours, routes and events may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Stellenbosch
 
 East of Cape Town, the N1 and M12 cross a series of low passes and reach Stellenbosch in about 45 minutes. The centre is Dorp Street under oaks, with white gables, dark wooden windows and stone paving better preserved than in most South African towns; outside, vineyards run along the foot of the Jonkershoek, Simonsberg and Helderberg mountains. This is not “a winery” but a wine destination made of a town, a ward, more than 150 estates and five sub-routes. It is more accurate to read it as a place than as a brand: buildings and museums in the morning, estates in the afternoon, dinner back in town.![Stellenbosch vineyards and mountains](/media/photos/place-stellenbosch-f94fd075.jpg)
@@ -153,3 +154,9 @@ Read [Stellenbosch](ref:stellenbosch) for the address and space side of Stellenb
 | Official site | wineroute.co.za |
 
 **Sources and limits.** The key claims about Stellenbosch are checked against the following sources: Stellenbosch Wine Routes, Visit Stellenbosch, Stellenbosch Tourism. For current products, addresses or opening status, use wineroute.co.za. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Stellenbosch](/media/photos/region-stellenbosch-28865648.jpg)
+
+Image: Stellenbosch. Credit: CJJ2501, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Stellenbosch_aerial_photo_from_north-west_2024-01.jpg)). Related image for Stellenbosch.

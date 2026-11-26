@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:de-halve-maan
 source_lang: zh
-source_revision: sha256:f79cd84e164809c28df31c82c074c8f52508871c163fd8446070014fe26e1c7d
-source_sha256: f79cd84e164809c28df31c82c074c8f52508871c163fd8446070014fe26e1c7d
+source_revision: sha256:82eadade1e7a8c4309e2ff9e85db01cc828816fa31786b222b89b1f66557813a
+source_sha256: 82eadade1e7a8c4309e2ff9e85db01cc828816fa31786b222b89b1f66557813a
 translation_status: reviewed
 subtype: brewery-visitor
 address: Walplein 26, 8000 Brugge, Belgium
@@ -85,6 +85,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; tour prices, times and opening arrangements change, so check official channels.
 verification_scope: source-verified
 ---
+
 # De Halve Maan Brewery
 
 ![related photograph of De Halve Maan Brewery](/media/photos/place-de-halve-maan-46bc86b4.jpg)
@@ -152,3 +153,9 @@ Setting [Beer](ref:beer)'s address and space beside [Cantillon Brewery](ref:cant
 | Official site | halvemaan.be |
 
 **Sources and limits.** The key claims about De Halve Maan Brewery are checked against the following sources: Brouwerij De Halve Maan, Visit Bruges (Used to check the relationship between Walplein, Bruges station and the old-town walking routes). For current products, addresses or opening status, use halvemaan.be. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for De Halve Maan Brewery.

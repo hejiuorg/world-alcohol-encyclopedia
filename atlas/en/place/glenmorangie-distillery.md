@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:glenmorangie-distillery
 source_lang: zh
-source_revision: sha256:88205eaa3da8c3614a742fffc38a3e235385a33e59a8b6c4e2ba983dfef94645
-source_sha256: 88205eaa3da8c3614a742fffc38a3e235385a33e59a8b6c4e2ba983dfef94645
+source_revision: sha256:61735ae3fbdc6305d79f196889b5f11c3ec098769d605667ea173cf13c8e1c73
+source_sha256: 61735ae3fbdc6305d79f196889b5f11c3ec098769d605667ea173cf13c8e1c73
 translation_status: reviewed
 subtype: distillery-visitor
 address: The Distillery, Tain, Ross-shire IV19 1PZ, Scotland
@@ -119,6 +119,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, tour prices and schedules change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Glenmorangie Distillery
 
 Tain sits on the north-east coast of Scotland, looking across the Dornoch Firth. Glenmorangie stands just outside the town, between sea wind and barley fields, and its name comes from Gaelic, usually translated as "Valley of Tranquillity". Two things make it distinctive: the tallest stills in Scotland and the Tarlogie Springs, whose surrounding forest the distillery owns and protects. Put those together and a visit becomes more than a look at copper: it is a lesson in how equipment and water build a light spirit.
@@ -172,3 +173,9 @@ For Glenmorangie Distillery, begin with the address. Then look at the current op
 | City and country | Tain / United Kingdom |
 | Status | verified open |
 | Official site | glenmorangie.com |
+
+## Related images
+
+![Pot still](/media/photos/term-pot-still-665ffa28.jpg)
+
+Image: Pot still. Credit: see Source, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sjb_whiskey_still.jpg)). Related image for Glenmorangie Distillery.

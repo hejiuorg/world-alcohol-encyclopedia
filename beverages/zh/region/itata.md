@@ -98,6 +98,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 伊塔塔谷
 
 伊塔塔谷（Valle del Itata）是智利南部的传统葡萄酒产区，以老藤 País、Moscatel 与 Cinsault 闻名。它不属于中央山谷，而是 Sur 产区内的一个 Subregión，气候更凉、降雨更多，许多葡萄园仍采用旱作。
@@ -194,3 +195,13 @@ País 与 Cinsault 适合禽肉、猪肉与炖菜；Moscatel 适合作为开胃�
 - [年份](ref:vintage)：伊塔塔谷的年份差异与降雨影响。
 - [单一品种](ref:single-varietal)：品种标注的比例规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![年份（vintage）](/media/photos/term-vintage-4b511c38.jpg)
+
+图：年份（vintage）。图片：Chiusi Painter，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)）。关联图像：伊塔塔谷。
+
+![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。关联图像：伊塔塔谷。

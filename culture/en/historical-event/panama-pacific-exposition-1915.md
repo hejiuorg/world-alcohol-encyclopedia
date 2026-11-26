@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:panama-pacific-exposition-1915
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7f9402589362ab7f1cd1f0a99f7d2e3054b2b67419333c11007ec40dfb76999f
-source_sha256: 7f9402589362ab7f1cd1f0a99f7d2e3054b2b67419333c11007ec40dfb76999f
+source_revision: sha256:00b33aeb7159a9d5b95fab0a63ec4e9fd78d27139524d59bb758b8a5e11c0972
+source_sha256: 00b33aeb7159a9d5b95fab0a63ec4e9fd78d27139524d59bb758b8a5e11c0972
 date_text: 20 February to 4 December 1915
 year_start: 1915
 year_end: 1915
@@ -91,6 +91,7 @@ rights:
   note: Third-party translations, images and digitised archival material are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # The 1915 Panama-Pacific International Exposition
 
 The Panama-Pacific International Exposition ran in San Francisco from 20 February to 4 December 1915, about 11 months in all. It nominally celebrated the opening of the Panama Canal, but in practice it was a large international fair for industry, agriculture and colonial goods. China took part with a national pavilion, and alcohol products entered international judging and press coverage.
@@ -155,3 +156,9 @@ Read The 1915 Panama-Pacific International Exposition through the date and setti
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The 1915 Panama-Pacific International Exposition are checked against the following sources: Encyclopaedia Britannica (Used to check the dates, host city and background of the exposition), U.S. National Archives (Used to check federal participation and archival holdings), Xinhua (Used to check the link between the 1952 evaluation and earlier award narratives) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for "1952 National Wine Evaluation: the eight famous wines and the start of a system"](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
+
+Image: Category image for "1952 National Wine Evaluation: the eight famous wines and the start of a system". Credit: M. Weitzel, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingdao_Brewery.jpg)). Related image for The 1915 Panama-Pacific International Exposition.

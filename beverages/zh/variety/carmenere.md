@@ -73,6 +73,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 佳美娜
 
 佳美娜（Carménère）的故事几乎全部围绕“误认”展开：它曾是波尔多混酿的一员，根瘤蚜危机后在欧洲几乎消失，却在智利被当成梅洛种了一百多年，直到 1994 年才被重新识别。这个品种晚熟、颜色深、单宁中等偏厚，既有黑李子的甜熟果味，也有青椒、烟草与黑巧克力的草本和烘烤气息。它既是智利葡萄酒的身份符号，也是理解“品种、气候与法规如何共同塑造风格”的一个好例子(ref:wine)。
@@ -149,3 +150,9 @@ verification_scope: source-verified
 | 代表产区 | 智利、科尔查瓜 |
 
 **来源与边界。** 本页关于「佳美娜」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Oxford University Press（提供关于佳美娜、波尔多与智利种植的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）、Wines of Chile（佳美娜在智利的品种历史、产区与风格概况）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![科尔查瓜类别配图](/media/photos/organization-vinos-de-chile-7a79b0b2.jpg)
+
+图：科尔查瓜类别配图。图片：https://www.chile.gob.cl/india/noticias/lanzamiento-de-wines-of-chile-academy-en-dependencias-de-la-embajada，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vinos_chilenos.jpg)）。关联图像：佳美娜。

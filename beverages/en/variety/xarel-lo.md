@@ -22,8 +22,8 @@ tags:
 translation_of: variety:xarel-lo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2087dba5bd4684e4eaa399775a087eeeb709bd5835f45382d0c93bb7325047c1
-source_sha256: 2087dba5bd4684e4eaa399775a087eeeb709bd5835f45382d0c93bb7325047c1
+source_revision: sha256:5850a0c0bd9fd1819fd584395533cdb3323499584ed12f6f988ad116813b334e
+source_sha256: 5850a0c0bd9fd1819fd584395533cdb3323499584ed12f6f988ad116813b334e
 related:
   - relation: about
     target_id: variety:macabeo
@@ -165,4 +165,10 @@ Planting area, clones and parentage keep updating with variety surveys; for form
 
 - Related: [macabeo](ref:macabeo), [parellada](ref:parellada), [sparkling-wine](ref:sparkling), [white-wine](ref:white), [fermentation](ref:fermentation).
 
-**At a glance:** A core white grape of Penedès and Cava sparkling wine in Spain, high in acidity with green apple, citrus, white flowers and mineral; with Macabeo and Parellada it forms the classic Cava trio. 
+**At a glance:** A core white grape of Penedès and Cava sparkling wine in Spain, high in acidity with green apple, citrus, white flowers and mineral; with Macabeo and Parellada it forms the classic Cava trio.
+
+## Related images
+
+![Macabeo: Maccabeo blanc (Wikimedia Commons)](/media/photos/variety-macabeo-564f2fc6.jpg)
+
+Image: Macabeo: Maccabeo blanc (Wikimedia Commons). Credit: Viala et Vermorel, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Maccabeo_blanc.jpg)). Related image for Xarel·lo.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:campbeltown-whisky-trail
 source_lang: zh
-source_revision: sha256:54836747b2f221d5cfbff21aa9641018407f9ffb454aadd3266632eef1ef097a
-source_sha256: 54836747b2f221d5cfbff21aa9641018407f9ffb454aadd3266632eef1ef097a
+source_revision: sha256:6fae32f95c375863b061b3d2724674aa9bf058dad4c4e94d8bc5d35aa3e6ff9c
+source_sha256: 6fae32f95c375863b061b3d2724674aa9bf058dad4c4e94d8bc5d35aa3e6ff9c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -114,6 +114,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # Campbeltown: two distilleries, two streets
 
 Campbeltown, at the end of the Kintyre peninsula, is the smallest of the five protected Scotch whisky regions. This route covers less than a kilometre in the town centre, from Springbank in Well Close to Glen Scotia on High Street. What lies between the stops is not distance but the arc of a region that boomed, contracted and only recently steadied itself.
@@ -176,3 +177,13 @@ This is the practical version of the [Campbeltown](ref:campbeltown) region page:
 | Stops | 2 |
 | Transport | walk |
 | Stop order | Springbank Distillery、Glen Scotia Distillery |
+
+## Related images
+
+![Springbank Distillery](/media/photos/place-springbank-distillery-b24b4f99.jpg)
+
+Image: Springbank Distillery. Credit: Lirazelf, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Springbank_Distillery,_Campbeltown.jpg)). Related image for Campbeltown: two distilleries, two streets.
+
+![Related photograph of Glen Scotia Distillery](/media/photos/place-glen-scotia-distillery-6c0ba5a9.jpg)
+
+Image: Related photograph of Glen Scotia Distillery. Credit: Abbieclements, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glen_Scotia_Still.jpg)). Related image for Campbeltown: two distilleries, two streets.

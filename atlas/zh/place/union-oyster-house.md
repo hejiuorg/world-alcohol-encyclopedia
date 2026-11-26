@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1826
 ---
+
 # 联合牡蛎屋
 
 从波士顿 Faneuil Hall 往 Union Street 走，砖红色建筑群里有一栋三层半的乔治式老楼，门口挂着“est. 1826”的招牌，橱窗里摆着牡蛎壳与旧照片。这就是联合牡蛎屋（Union Oyster House）。它常被称作“美国连续营业最久的餐厅”，也是 Freedom Trail 上最容易“误以为只是游客店、结果发现真在营业”的一站：楼上是历史，楼下是真正在剥牡蛎、煮龙虾、端浓汤的餐厅。
@@ -133,3 +134,9 @@ founded_year: 1826
 本页于 2026-11-21 核对 Union Oyster House 官方页面。营业时间通常为周日至周四 11:00–21:00、周五至周六 11:00–22:00，酒吧供应到午夜；正餐建议订位，吧台与部分散座先到先得。1826 年是餐厅开业年，建筑主体可追到 18 世纪；“美国最老连续营业餐厅”与生蚝大小、肯尼迪包间的规则，正文已保留限定。本页图片是波士顿 Union Street 的联合牡蛎屋砖砌立面与入口，不是牡蛎吧台；图注已标摄影者与许可，文字许可见文末 rights 字段。
 
 对照阅读：[钟声酒馆](ref:bell)、[波士顿糖蜜洪水 1919：一场工业酒精原料的灾难](ref:molasses)。
+
+## 相关图像
+
+![1919 年 1 月 15 日糖蜜洪水后，波士顿北端高架铁路下的废墟](/media/photos/historical-event-boston-molasses-flood-2636e411.jpg)
+
+图：1919 年 1 月 15 日糖蜜洪水后，波士顿北端高架铁路下的废墟。图片：BPL，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:BostonMolassesDisaster.jpg)）。关联图像：联合牡蛎屋。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:tuscany
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0bf1fa4702c37258386aa113733779a119e334bd612d5490b69491ac35a6f889
-source_sha256: 0bf1fa4702c37258386aa113733779a119e334bd612d5490b69491ac35a6f889
+source_revision: sha256:3afaeb5c7011e13455a55fccf0cabdad2436cd492b27c7ce878cb3ef91e8b250
+source_sha256: 3afaeb5c7011e13455a55fccf0cabdad2436cd492b27c7ce878cb3ef91e8b250
 level: province
 parent_id: region:italy
 country_code: IT
@@ -94,6 +94,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Tuscany
 
 Tuscany (Italian Toscana) lies in central [Italy](ref:italy) and is one of the country's most recognisable wine regions. It is built around [Sangiovese](ref:sangiovese), from the Chianti hills to the hill town of Montalcino and the Tyrrhenian coast at Bolgheri, and is dominated by [red wine](ref:red-wine) while also producing [white wine](ref:white-wine) and a little sparkling wine.![Tuscany photograph](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
@@ -184,3 +185,13 @@ The region's DOCG wines include Chianti Classico, Brunello and Vino Nobile di Mo
 - [Red wine](ref:red-wine) and [white wine](ref:white-wine): the basic categories of Tuscany.
 - [Oak ageing](ref:oak-ageing) and [fermentation](ref:fermentation): key processes behind style.
 - [Wine](ref:wine): an overview of wine categories and origin rules.
+
+## Related images
+
+![Photograph for Chianti Classico: Chianti Classico example bottle - Annata type. Credit: FranzKafka2000, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-drink-italy-chianti-classico-3b4e03f3.jpg)
+
+Image: Chianti Classico example bottle - Annata type. Credit: FranzKafka2000, CC BY-SA 4.0, via Wikimedia Commons.. Credit: FranzKafka2000, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=168690826)). Related image for Tuscany.
+
+![Brunello di Montalcino](/media/photos/drink-italy-brunello-di-montalcino-820d580a.jpg)
+
+Image: Brunello di Montalcino. Credit: O.S, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Montalcino_001.jpg)). Related image for Tuscany.

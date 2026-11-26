@@ -103,6 +103,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；预约规则、开放时间与商品库存会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 山崎蒸馏所
 
 山崎蒸馏所在大阪府三岛郡岛本町山崎，天王山山脚，京都西南。1923 年动工，1924 年开始蒸馏，是日本最早的麦芽威士忌蒸馏厂，由三得利创始人鸟井信治郎推动。他的目标不是复制苏格兰，而是做出适合日本人口味的威士忌。厂址选在山崎，官方强调当地的水与四季气候适合麦芽威士忌的酿造与熟成。今天厂区约 11 万平方米，仍保留建厂初期的威士忌馆建筑。
@@ -158,3 +159,9 @@ verification_scope: source-verified
 对照阅读：[山崎单一麦芽威士忌](ref:yamazaki)、[日本](ref:japan)。
 
 相关条目：[威士忌](ref:whisky)。
+
+## 相关图像
+
+![山崎单一麦芽威士忌相关实景照片](/media/photos/drink-japan-yamazaki-406efb1c.jpg)
+
+图：山崎单一麦芽威士忌相关实景照片。图片：Gentgeen，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Yamazake_single_malt.jpg)）。关联图像：山崎蒸馏所。

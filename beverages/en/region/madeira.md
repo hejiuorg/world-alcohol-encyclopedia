@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:madeira
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ff29c5dcc0ca1371609b7a157f8ade894ffe19eca989238059156912e0d4c435
-source_sha256: ff29c5dcc0ca1371609b7a157f8ade894ffe19eca989238059156912e0d4c435
+source_revision: sha256:b996ed6cd0657908033384eeeab903d538442df54a2c269be8a5ab21104e453b
+source_sha256: b996ed6cd0657908033384eeeab903d538442df54a2c269be8a5ab21104e453b
 level: other
 parent_id: region:portugal
 country_code: PT
@@ -81,6 +81,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Madeira
 
 Madeira is a [fortified-wine](ref:fortified-wine) appellation from the Portuguese island of [Madeira](ref:portugal), known for high acidity, long ageing and a heated oxidative style. The noble varieties Sercial, Verdelho, Bual and Malvasia run from dry to sweet.![Madeira photograph](/media/photos/q2-region-madeira-7efe42cf.jpg)
@@ -177,3 +178,13 @@ Madeira's wines are fortified and heated, either in estufagem tanks or in warm c
 - [Oak ageing](ref:oak-ageing): the containers used in canteiro and long ageing.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
 - [Alcohol by volume](ref:abv): what 18%–20% vol means on a label.
+
+## Related images
+
+![Category image for Portugal](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+Image: Category image for Portugal. Credit: John Hayes from San Antonio, Texas, USA, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=151531010)). Related image for Madeira.
+
+![Fortified wine](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+Image: Fortified wine. Credit: Jon Sullivan, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)). Related image for Madeira.

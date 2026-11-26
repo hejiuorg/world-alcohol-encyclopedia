@@ -24,8 +24,8 @@ tags:
 translation_of: region:yarra-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4206759934acaa31626041c33eb132f78131b985edfb83440225f227587021fe
-source_sha256: 4206759934acaa31626041c33eb132f78131b985edfb83440225f227587021fe
+source_revision: sha256:d5ccd84cca88acce2563af2d270544b7047690226fcda952327f9a5fd4182094
+source_sha256: d5ccd84cca88acce2563af2d270544b7047690226fcda952327f9a5fd4182094
 related:
   - relation: about
     target_id: region:australia
@@ -150,4 +150,14 @@ The Yarra Valley is a popular Melbourne wine-country destination, with weekend m
 - Related: [australia](ref:australia), [pinot-noir](ref:pinot), [chardonnay](ref:chardonnay), [white-wine](ref:white), [red-wine](ref:red).
 - Check GI rules, opening hours and tasting bookings on Wine Australia or the Yarra Valley association website before travelling.
 
-**In brief:** A cool-climate region northeast of Melbourne, Victoria, planted from 1838 and one of Australia’s earliest wine districts; known for Pinot Noir, Chardonnay and Shiraz, it received GI status in the 1990s and leans toward Burgundy and the Northern Rhône in style. 
+**In brief:** A cool-climate region northeast of Melbourne, Victoria, planted from 1838 and one of Australia’s earliest wine districts; known for Pinot Noir, Chardonnay and Shiraz, it received GI status in the 1990s and leans toward Burgundy and the Northern Rhône in style.
+
+## Related images
+
+![Photograph for Australia: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-australia-968b262e.jpg)
+
+Image: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=9069567)). Related image for Yarra Valley.
+
+![Pinot Noir](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+Image: Pinot Noir. Credit: Cjp24, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)). Related image for Yarra Valley.

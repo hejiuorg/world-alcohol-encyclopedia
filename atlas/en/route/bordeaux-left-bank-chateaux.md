@@ -103,8 +103,8 @@ stop_ids:
     note: Enter the vat room, cellar and label gallery by reservation and connect classification with art.
 mode: walk-tram-rail
 updated_at: 2026-11-08
-source_sha256: 388a6212a31d991df2dfaed7462164154ae34efbd4c2bc6ea31384c918ee1f64
-source_revision: sha256:388a6212a31d991df2dfaed7462164154ae34efbd4c2bc6ea31384c918ee1f64
+source_sha256: 623c8c9157d7f5ad861578bc7e8b2126e0cd9324c490f1b87579809ddd61c13c
+source_revision: sha256:623c8c9157d7f5ad861578bc7e8b2126e0cd9324c490f1b87579809ddd61c13c
 ---
 
 # Bordeaux left bank: from La Cité du Vin to two Pauillac first growths
@@ -236,3 +236,13 @@ Opening status, bookings and transport are subject to official channels; page ve
 | Children | Often allowed on tours, not tastings | Ask about age limits first |
 
 How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.
+
+## Related images
+
+![Looking up at the Cité du Vin in Bordeaux, its tower wrapped in reflective glass and metal panels.](/media/photos/place-cite-du-vin-c31cf8f4.jpg)
+
+Image: Looking up at the Cité du Vin in Bordeaux, its tower wrapped in reflective glass and metal panels.. Credit: olilynch, CC0 1.0, via Wikimedia Commons ([source page](https://www.flickr.com/photo.gne?id=37500642606)). Related image for Bordeaux left bank: from La Cité du Vin to two Pauillac first growths.
+
+![Château Mouton Rothschild](/media/photos/place-chateau-mouton-rothschild-6c75d53a.jpg)
+
+Image: Château Mouton Rothschild. Credit: Jack ma, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jardin_de_Ch%C3%A2teau_de_Mouton-Rothschild,_Pauillac._2012.jpg)). Related image for Bordeaux left bank: from La Cité du Vin to two Pauillac first growths.

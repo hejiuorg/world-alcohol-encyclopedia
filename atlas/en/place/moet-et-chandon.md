@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:moet-et-chandon
 source_lang: zh
-source_revision: sha256:28f6a732ee705fa559fba926eca4eb8e765978849f68effbd491500809e95650
-source_sha256: 28f6a732ee705fa559fba926eca4eb8e765978849f68effbd491500809e95650
+source_revision: sha256:44576aed3dc2640eaf3d6edf224744646d7d7d963afedd4339a5fa2889e5e385
+source_sha256: 44576aed3dc2640eaf3d6edf224744646d7d7d963afedd4339a5fa2889e5e385
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -175,3 +175,9 @@ For a one-day trip, leave Paris in the morning, reach Épernay around midday, ta
 - [LVMH](ref:lvmh): the brand group behind the house.
 
 Moët & Chandon is best read by starting with the address, moving to the current opening status, and ending with what the place is known for.
+
+## Related images
+
+![Champagne](/media/photos/region-champagne-acf0412f.jpg)
+
+Image: Champagne. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Moët & Chandon.

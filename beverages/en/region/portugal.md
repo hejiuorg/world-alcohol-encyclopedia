@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:portugal
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b2e73f4e44be6633df2b8d08ffa50a9b2bebdc8f8262ed542713a864fdc3339b
-source_sha256: b2e73f4e44be6633df2b8d08ffa50a9b2bebdc8f8262ed542713a864fdc3339b
+source_revision: sha256:568bf03675b039f61b86b7bb5442c482ea139302cd119f3e364c135ee4e6addf
+source_sha256: 568bf03675b039f61b86b7bb5442c482ea139302cd119f3e364c135ee4e6addf
 level: country
 country_code: PT
 legacy_refs: []
@@ -84,6 +84,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Portugal
 
 Portugal lies in the west of the Iberian Peninsula and has a deep wine tradition. Its international image is often tied to fortified wines such as Port and Madeira, but Portugal also makes Douro reds, warm Alentejo styles, fresh Vinho Verde whites and crisp rosés. Native varieties are abundant and are the key to understanding Portuguese wine.
@@ -181,3 +182,13 @@ Start with the appellation and its permitted varieties. From there, consider the
 - [Distillation](ref:distillation): grape spirit and fortification.
 - [Oak ageing](ref:oak-ageing): ageing in Port and Madeira.
 - [Fermentation](ref:fermentation): the base process of wine and fortified wine.
+
+## Related images
+
+![Rosé Wine](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+Image: Rosé Wine. Credit: THOR, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)). Related image for Portugal.
+
+![Fortified wine](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+Image: Fortified wine. Credit: Jon Sullivan, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)). Related image for Portugal.

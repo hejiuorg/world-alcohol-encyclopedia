@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:pfalz
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9d4b645bbec55bc9ea5c2ba1e24213856f8ba9bc01a96e4171dcadc6d18bc3a5
-source_sha256: 9d4b645bbec55bc9ea5c2ba1e24213856f8ba9bc01a96e4171dcadc6d18bc3a5
+source_revision: sha256:7932bc7c129b8e22f53a650b67c0f8dcfaef33a99b788db6450b36871289de49
+source_sha256: 7932bc7c129b8e22f53a650b67c0f8dcfaef33a99b788db6450b36871289de49
 level: other
 parent_id: region:germany
 country_code: DE
@@ -87,6 +87,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Pfalz
 
 Pfalz is the German appellation that runs along the German Wine Route from Bockenheim to Schweigen on the Alsace border, 85 kilometres in length and linking about 130 villages. With about 23,700 hectares in 2025, it is the second largest wine region in Germany.![Pfalz photograph](/media/photos/q2-region-pfalz-be01df2e.jpg)
@@ -182,3 +183,13 @@ Start with the appellation and its permitted varieties. From there, consider the
 - [Acidity](ref:acidity): how Pfalz Riesling balances acidity and body.
 - [Alcohol by volume](ref:abv): how alcohol in a warm region relates to the label.
 - [Oak ageing](ref:oak-ageing): the different oak treatment of Spätburgunder and Dornfelder.
+
+## Related images
+
+![Category image for Germany](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+Image: Category image for Germany. Credit: Renardo la vulpo, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)). Related image for Pfalz.
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Pfalz.

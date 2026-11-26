@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fattoria-felsina
 source_lang: zh
-source_revision: sha256:08f24caad5fc21e5726c96b2edff447ef87e83b3ad54bcf74f878b3443305b82
-source_sha256: 08f24caad5fc21e5726c96b2edff447ef87e83b3ad54bcf74f878b3443305b82
+source_revision: sha256:fe479689bf882b62101f8495e68f4f006149f7955d4d8b02074b3b8992169ae6
+source_sha256: fe479689bf882b62101f8495e68f4f006149f7955d4d8b02074b3b8992169ae6
 translation_status: reviewed
 subtype: winery-visitor
 address: Via del Chianti 101, 53019 Castelnuovo Berardenga (SI), Italy
@@ -71,6 +71,12 @@ sources:
     publisher: Consorzio Vino Chianti Classico
     note: Used to check the Sangiovese percentages, minimum ageing and alcohol levels for Chianti Classico, Riserva and Gran Selezione; no source text is reproduced.
     accessed: 2026-11-08
+  - key: felsina-official
+    title: "Fattoria Fèlsina — official website"
+    url: "https://www.felsina.it/"
+    publisher: "Fattoria Fèlsina"
+    note: "Used to check the estate location, Chianti Classico range and farming information; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -147,3 +153,9 @@ Placed in the context of [Tuscany](ref:tuscany) and [wine](ref:wine), Fèlsina s
 Further reading: [Italy](ref:c-extra-1), [Castello di Brolio](ref:c-extra-2).
 
 Read [Tuscany](ref:tuscany) for the address and space side of Fattoria Fèlsina, and [Why does a drink taste of a place?](ref:place-and-process) for the operating status side. Together they locate it on a map.
+
+## Related images
+
+![Photograph for Italy: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-italy-202d4c25.jpg)
+
+Image: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=35825496)). Related image for Fattoria Fèlsina.

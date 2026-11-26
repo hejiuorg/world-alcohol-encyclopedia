@@ -96,6 +96,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒庄开放时间、路线与活动会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 斯泰伦博斯
 
 从开普敦向东，N1 与 M12 穿过一连串低矮山口，约 45 分钟后进入斯泰伦博斯。镇中心是被橡树遮住的 Dorp Street，白色山墙、深色木窗与石板路保存得比南非多数城镇完整；往外，葡萄园沿着 Jonkershoek、Simonsberg 与 Helderberg 的山脚展开。这里不是“一座酒庄”，而是一个由城镇、产区、150 多家酒庄与五条子路线组成的葡萄酒目的地。把它当作一个地方来读，比把它当作一个品牌更准确：上午看建筑与博物馆，下午去酒庄，晚上回镇上吃饭。
@@ -149,3 +150,9 @@ verification_scope: source-verified
 关于斯泰伦博斯，本页不绘制参观地图；开放时间、年份与价格以酒庄官网为准。
 
 对照阅读：[斯泰伦博斯](ref:stellenbosch)、[白诗南](ref:chenin)。
+
+## 相关图像
+
+![“南非”页面配图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+
+图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Ltz Raptor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4647540)）。关联图像：斯泰伦博斯。

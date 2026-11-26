@@ -31,8 +31,8 @@ tags:
 translation_of: place:bell-in-hand-tavern
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:48e01418518451524570be7249dd5d6083b761c9041e0ea8bd0078535af727fa
-source_sha256: 48e01418518451524570be7249dd5d6083b761c9041e0ea8bd0078535af727fa
+source_revision: sha256:604d8315434c08681faf9c880d6c0a9e25b19cb51f307c0b44262cf28e39953b
+source_sha256: 604d8315434c08681faf9c880d6c0a9e25b19cb51f307c0b44262cf28e39953b
 related:
   - relation: about
     target_id: culture-article:history-of-taverns
@@ -142,3 +142,9 @@ Leave the bar and walk a few minutes to Faneuil Hall and Quincy Market, then eas
 - [New York Historic Pubs Route](ref:ny-route)
 
 Checked on 2026-11-21: the current address at 45 Union Street, the 1795 brand origin and the 1915–1934 closure record were checked against the official site and public sources. "Oldest continuously operating" is not treated as undisputed fact. Image credits and licences are given in the captions.
+
+## Related images
+
+![The brick facade and entrance of the Union Oyster House on Union Street, Boston; the restaurant opened in 1826 in a building whose history reaches back to the 18th century, so the photograph does not show its 1826 appearance](/media/photos/place-union-oyster-house-97a85f13.jpg)
+
+Image: The brick facade and entrance of the Union Oyster House on Union Street, Boston; the restaurant opened in 1826 in a building whose history reaches back to the 18th century, so the photograph does not show its 1826 appearance. Credit: Seasider53, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Union_Oyster_House_2025.jpg)). Related image for Bell in Hand Tavern.

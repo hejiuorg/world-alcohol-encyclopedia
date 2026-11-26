@@ -85,9 +85,10 @@ founded_year: 1670
 translation_of: place:cafe-hoppe
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:238469f98d6811bbebcce9d94e6ab428ca559d7b073de7d93c95d284c91662ca
-source_sha256: 238469f98d6811bbebcce9d94e6ab428ca559d7b073de7d93c95d284c91662ca
+source_revision: sha256:a3fcd2a3fdbfe773783bcd59510230bb5db8d8b7c39dab9e0c27bd60ddef1531
+source_sha256: a3fcd2a3fdbfe773783bcd59510230bb5db8d8b7c39dab9e0c27bd60ddef1531
 ---
+
 # Café Hoppe
 
 On the south-east corner of Spui, two narrow Dutch façades stand joined: No. 18 on the left, green neon “Café HOPPE” against dark brick; No. 20 on the right, red “AMSTEL” and green “HOPPE” side by side. There is no large sign, only a small bar table and a few people standing with beer glasses. Inside, the first zone is the crowded standing bar and the beer taps; further in is the seated salon. Amsterdammers call this kind of place a bruin café (brown café), and Hoppe is the oldest and most complete example.![Café Hoppe twin facades](/media/photos/place-cafe-hoppe-d8b6d53b.jpg)
@@ -158,3 +159,9 @@ Step out of Hoppe onto Spui and the book market; north are Kalverstraat and the 
 | Official site | cafehoppe.com |
 
 **Sources and limits.** The key claims about Café Hoppe are checked against the following sources: Café Hoppe, Amsterdam Now, I amsterdam (Used for the no-music café tradition and Hoppe’s quiet-conversation atmosphere). For current products, addresses or opening status, use cafehoppe.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The 18-square-metre bar of Café De Dokter, with its chandelier and birdcage](/media/photos/place-cafe-de-dokter-8e196633.jpg)
+
+Image: The 18-square-metre bar of Café De Dokter, with its chandelier and birdcage. Credit: Rex Roof, CC BY 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/18199354@N00/3147493495)). Related image for Café Hoppe.

@@ -112,6 +112,7 @@ stop_ids:
 mode: walk-car
 updated_at: 2026-11-08
 ---
+
 # 勃艮第路线：博讷老城、默尔索与酒商文化
 
 这条路线把勃艮第的三处空间排成一个环：博讷老城的慈善医院、默尔索村边的城堡酒庄、以及博讷市内的家族酒商。它们看起来都“很勃艮第”，实际讲的却是三件不同的事——城市如何组织慈善与医疗，乡村庄园如何把地块变成酒，酒商如何在城市里完成买卖、熟成与出口。走完这一圈，比在酒单上记住几个特级园名字更能理解这个产区。
@@ -205,3 +206,13 @@ updated_at: 2026-11-08
 - 想继续读背景，可在内容仓中查阅勃艮第产区、白葡萄酒、红葡萄酒与葡萄酒分级条目；本页不再重复登记引用。
 
 这条路线把博讷主宫医院、默尔索城堡与约瑟夫杜鲁安酒庄串在一天里；三处都需以官网确认当日开放与预约，精确导航用实时地图。页面信息核验于 2026-11-08。
+
+## 相关图像
+
+![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：勃艮第路线：博讷老城、默尔索与酒商文化。
+
+![“默尔索城堡”页面配图：Château de Meursault 003。摄影：Arnaud 25，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-place-chateau-de-meursault-e59c9efc.jpg)
+
+图：Château de Meursault 003。摄影：Arnaud 25，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Arnaud 25，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=18551544)）。关联图像：勃艮第路线：博讷老城、默尔索与酒商文化。

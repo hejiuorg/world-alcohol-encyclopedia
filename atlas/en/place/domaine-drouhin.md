@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:domaine-drouhin
 source_lang: zh
-source_revision: sha256:b81e23b9682d4cfb3c567df7f07a845c7fb35fc91f8b98ef40f81b5c6f7d9e5d
-source_sha256: b81e23b9682d4cfb3c567df7f07a845c7fb35fc91f8b98ef40f81b5c6f7d9e5d
+source_revision: sha256:0b773553a0a3240db21fc5f059148e48d1b878585b1c692997e04a34688dcf18
+source_sha256: 0b773553a0a3240db21fc5f059148e48d1b878585b1c692997e04a34688dcf18
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -173,3 +173,9 @@ For a one-day visit, Drouhin works best as the core of a "Beaune city day" rathe
 - [Château de Meursault](ref:meursault): Meursault whites and a château-style visit.
 
 **In brief:** A family-owned Burgundy house founded in Beaune by Joseph Drouhin in 1880. Its headquarters at 7 Rue d'Enfer sit above cellars with Roman castrum foundations and medieval remains; the estate farms about 100 hectares and offers daily cellar tours and tastings, with a retail Oenothèque at Place du Général Leclerc.
+
+## Related images
+
+![Photograph for Château de Meursault: Château de Meursault 003. Credit: Arnaud 25, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-place-chateau-de-meursault-e59c9efc.jpg)
+
+Image: Château de Meursault 003. Credit: Arnaud 25, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Arnaud 25, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=18551544)). Related image for Maison Joseph Drouhin.

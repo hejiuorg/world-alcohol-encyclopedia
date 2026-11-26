@@ -72,6 +72,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 单一壶式威士忌
 
 单一壶式威士忌（single pot still whiskey）是爱尔兰威士忌中唯一以“发芽大麦与未发芽大麦共同糖化”为核心的类别。名字里的两个限定词各有明确所指：single 指单一酒厂，pot still 指[壶式蒸馏器](ref:pot-still)；它既不表示“单一桶”，也不表示“单一麦芽”。理解这一点，是把它与苏格兰单一麦芽、爱尔兰单一麦芽区分开的前提。
@@ -144,3 +145,9 @@ verification_scope: source-verified
 | 上位风格 | 威士忌 |
 
 **来源与边界。** 本页关于「单一壶式威士忌」的关键事实，主要由以下来源交叉核对：Drinks Ireland — Irish Whiskey Association（单一壶式威士忌的原料比例、壶式蒸馏与陈年要求）、European Union（爱尔兰威士忌作为地理标志与烈酒类别的一般法律框架）、Bord Bia (Irish Food Board)（爱尔兰威士忌类别与产业背景）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![壶式蒸馏器（pot still）](/media/photos/term-pot-still-665ffa28.jpg)
+
+图：壶式蒸馏器（pot still）。图片：see Source，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sjb_whiskey_still.jpg)）。关联图像：单一壶式威士忌。

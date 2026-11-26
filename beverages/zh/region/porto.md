@@ -81,6 +81,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 波特
 
 波特（Porto）是[葡萄牙](ref:portugal)杜罗河谷出产、经强化并在加亚新城或杜罗陈年的甜型[加强酒](ref:fortified-wine)法定产区。它以 Touriga Nacional 等品种酿造，按“单一年份或混酿”与“木桶氧化或瓶中还原”两条轴分为多个类别。
@@ -175,3 +176,13 @@ Vintage 建议温度约 16–18 摄氏度，饮用前醒酒；Tawny 建议温度
 - [橡木桶陈年](ref:oak-ageing)：Tawny 与 Colheita 的氧化路径。
 - [葡萄酒](ref:wine)：理解波特的类别、年份与产地规则的入口。
 - [酒精度](ref:abv)：19%–20% vol 在标签上的含义。
+
+## 相关图像
+
+![杜罗](/media/photos/region-douro-fd8dc772.jpg)
+
+图：杜罗。图片：Vitor Oliveira from Torres Vedras, PORTUGAL，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Rio_Douro_-_Portugal_(32615481975)_(cropped).jpg)）。关联图像：波特。
+
+![葡萄牙类别配图](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+图：葡萄牙类别配图。图片：John Hayes from San Antonio, Texas, USA，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=151531010)）。关联图像：波特。

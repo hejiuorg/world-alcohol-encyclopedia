@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:yunnan
 source_lang: zh
-source_revision: sha256:f527bf8c21c84e351e3bfb706867a972f38a4283c82c6181218b64c8e9a0cb66
-source_sha256: f527bf8c21c84e351e3bfb706867a972f38a4283c82c6181218b64c8e9a0cb66
+source_revision: sha256:9e561ca8415fd524cd9a4ee8a42a8241543dee16cea98d8eaa6e8486b3647ed3
+source_sha256: 9e561ca8415fd524cd9a4ee8a42a8241543dee16cea98d8eaa6e8486b3647ed3
 translation_status: reviewed
 level: province
 parent_id: region:china
@@ -164,3 +164,13 @@ Fifth, confusing a regional brand with a geographical indication. Brand, region,
 - [Grape](ref:grape): the structure and ripeness markers of wine grapes.
 - [Fermentation](ref:fermentation): how temperature control and maceration affect style.
 - [Oak ageing](ref:oak-ageing): how new and old oak affect highland wine.
+
+## Related images
+
+![Category image for China](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+Image: Category image for China. Credit: Gary Todd, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)). Related image for Yunnan.
+
+![Photograph for Cabernet Sauvignon: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+Image: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13318021)). Related image for Yunnan.

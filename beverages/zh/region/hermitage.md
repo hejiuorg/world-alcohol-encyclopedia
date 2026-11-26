@@ -76,6 +76,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 埃米塔日
 
 北罗讷河谷塔恩-埃米塔日镇背后的花岗岩山丘，13 个 lieux-dits 组成；红葡萄酒以西拉为主，白葡萄酒以玛珊与胡珊为主，产量小、陈年潜力长，是罗讷河谷最著名的“山丘”产区之一。
@@ -172,3 +173,13 @@ Chapoutier 的“l’Ermite”与“Le Pavillon”、Jaboulet 的“La Chapelle�
 | 国家代码 | FR |
 
 **来源与边界。** 本页关于「埃米塔日」的关键事实，主要由以下来源交叉核对：INAO（法国原产地与地理标志主管机构）、OIV（葡萄酒定义、产区统计与全球生产框架）、FAO（农业地理、气候与土地利用背景）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![Marsanne：Marsanne - inflorescence（Wikimedia Commons）](/media/photos/variety-marsanne-a4a3b08f.jpg)
+
+图：Marsanne：Marsanne - inflorescence（Wikimedia Commons）。图片：Marianne Casamance，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Marsanne_-_inflorescence.jpg)）。关联图像：埃米塔日。
+
+![“维欧尼”页面配图：Viognier Grape must after pressing。摄影：Ian Brown，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-viognier-0ccec251.jpg)
+
+图：Viognier Grape must after pressing。摄影：Ian Brown，CC BY 2.0，来自 Wikimedia Commons。。图片：Ian Brown，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13317886)）。关联图像：埃米塔日。

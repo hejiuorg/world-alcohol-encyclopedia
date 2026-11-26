@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 帕雷亚达
 
 加泰罗尼亚佩内德斯的白葡萄，卡瓦三大品种之一；酸度高、酒体轻、带青苹果、柑橘与白花，常与沙雷洛、马卡贝奥混酿增加清爽感。
@@ -168,3 +169,9 @@ verification_scope: source-verified
 | 物种 | Vitis vinifera |
 
 **来源与边界。** 本页关于「帕雷亚达」的关键事实，主要由以下来源交叉核对：Julius Kühn-Institut（品种名称、同义词、起源与全球分布）、OIV（葡萄品种与栽培框架）、USDA ARS（植物分类、种质与栽培信息）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![Xarel·lo：Xarel lo Cava grapes（Wikimedia Commons）](/media/photos/variety-xarel-lo-fdfeafb3.jpg)
+
+图：Xarel·lo：Xarel lo Cava grapes（Wikimedia Commons）。图片：batega，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Xarel_lo_Cava_grapes.jpg)）。关联图像：帕雷亚达。

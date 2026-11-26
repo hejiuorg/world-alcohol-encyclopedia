@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: variety:syrah
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:039729b6fd79360fa47eb6a06c7523703f9dd1213a79b6abd92050ce79601e7b
-source_sha256: 039729b6fd79360fa47eb6a06c7523703f9dd1213a79b6abd92050ce79601e7b
+source_revision: sha256:f41a1f295cf314a2e04d5356d6099fa302b3106d664dd76835b26c830ada1503
+source_sha256: f41a1f295cf314a2e04d5356d6099fa302b3106d664dd76835b26c830ada1503
 species: Vitis vinifera
 aliases:
   - Shiraz
@@ -69,6 +69,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Syrah
 
 Syrah is a deeply coloured red grape with generous tannin and typical notes of blackberry, black pepper, violet and smoke. It originated in the Rhône Valley of France, is widely planted in Australia under the name Shiraz, and has become one of Australia's signature red varieties. Syrah can be made as a varietal wine or blended with Grenache and Mourvèdre.![Syrah photograph](/media/photos/q2-variety-syrah-dc13087a.jpg)
@@ -151,3 +152,9 @@ For Syrah, this variety was last checked in 2026; prices, batches and availabili
 - [Red wine](ref:red-wine): the basics of tannin, acidity and ageing.
 - [France](ref:france): the regional background of northern Rhône Syrah.
 - [Penfolds Grange](ref:penfolds): a representative Australian Shiraz.
+
+## Related images
+
+![Related photograph of Penfolds Grange](/media/photos/drink-australia-penfolds-grange-b6a4cf97.jpg)
+
+Image: Related photograph of Penfolds Grange. Credit: Rexness, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Penfold%27s_Grange_(4553358229).jpg)). Related image for Syrah.

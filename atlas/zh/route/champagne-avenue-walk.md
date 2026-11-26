@@ -103,6 +103,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # 香槟路线：埃佩尔奈香槟大道步行
 
 这条路线只有一条街，却需要半天到一天。埃佩尔奈的香槟大道长约一公里半，两侧是 19 世纪宅邸、庭院、酒庄门房与地下酒窖入口；街面看起来安静，地下却是一张超过一百公里的画廊网络。走这条线，重点不是“喝到几杯”，而是把香槟的两套空间——地上的房子与地下的山丘——放在同一双眼睛里。
@@ -196,3 +197,13 @@ updated_at: 2026-11-08
 - 想继续读背景，可在内容仓中查阅香槟产区、起泡酒与“产地与工艺”条目；本页不再重复登记引用。
 
 香槟大道是开放街区，酩悦与巴黎之花的参观则需分别预约；先查两家官网的场次与票价，再用实时地图定位入口。页面核验于 2026-11-08。
+
+## 相关图像
+
+![“埃佩尔奈香槟大道”页面配图：Avenue de champagne épernay 1409027。摄影：G.Garitan，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-avenue-de-champagne-77370346.jpg)
+
+图：Avenue de champagne épernay 1409027。摄影：G.Garitan，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：G.Garitan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=121135039)）。关联图像：香槟路线：埃佩尔奈香槟大道步行。
+
+![酩悦香槟](/media/photos/place-moet-et-chandon-5f14a8b9.jpg)
+
+图：酩悦香槟。图片：Andreas Levers from Potsdam, Germany，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mo%C3%ABt_et_Chandon.jpg)）。关联图像：香槟路线：埃佩尔奈香槟大道步行。

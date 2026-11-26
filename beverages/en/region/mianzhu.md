@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:mianzhu
 source_lang: zh
-source_revision: sha256:acce3ddb90c7572fc7fed362319bcbd8f22e372a62ac3cef0fb063a31ccfbe72
-source_sha256: acce3ddb90c7572fc7fed362319bcbd8f22e372a62ac3cef0fb063a31ccfbe72
+source_revision: sha256:0f427b7585cd5600589e0b84dd74c3fcd64ed59f2c67eb6c79669f1abff3d6d4
+source_sha256: 0f427b7585cd5600589e0b84dd74c3fcd64ed59f2c67eb6c79669f1abff3d6d4
 translation_status: reviewed
 level: city
 parent_id: region:sichuan
@@ -96,6 +96,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. Third-party images are credited in the captions.
 verification_scope: source-verified
 ---
+
 # Mianzhu
 
 Mianzhu is a county-level city administered by Deyang in Sichuan. It sits at the northwestern edge of the Sichuan Basin, where the Longmen Mountains meet the plain. To the southeast lies Deyang's Jingyang District; to the northeast, Anzhou District of Mianyang; to the southwest, Shifang across a river; and to the northwest, the mountain route toward Mao County in Aba Prefecture. The official profile gives an area of 1,246.2 square kilometres, a registered population of 474,293, and 10 towns, 2 subdistricts and 153 villages or communities. Those figures describe a complete county-shaped place, not a single industrial site built around a distillery.
@@ -158,3 +159,13 @@ Fourth, the print village, the Hanwang site and the distillery are not one walki
 - To place Mianzhu on the Sichuan map, read [Sichuan](ref:sichuan), then compare [Yibin](ref:yibin) and [Luzhou](ref:luzhou).
 - For the sauce-aroma route of the Chishui River, read [Guizhou](ref:guizhou) and [sauce-aroma baijiu](ref:sauce); for the northern light-aroma route, read [light-aroma baijiu](ref:light).
 - For the national picture of Chinese liquor geography, read [China](ref:china) and [baijiu](ref:baijiu).
+
+## Related images
+
+![Strong-aroma baijiu](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
+
+Image: Strong-aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Mianzhu.
+
+![Guizhou](/media/photos/region-guizhou-b13939f2.jpg)
+
+Image: Guizhou. Credit: Huangdan2060, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)). Related image for Mianzhu.

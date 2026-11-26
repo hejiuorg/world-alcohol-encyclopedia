@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1862
 ---
+
 # 和平咖啡馆
 
 从巴黎歌剧院正门出来，穿过 Place de l'Opéra 的车流，就能看到和平咖啡馆的绿色遮阳篷与金色门楣。它的位置几乎好得过分：一边是 Garnier 歌剧院，一边是 Grand Hôtel，背后是 Boulevard des Capucines 与 Grands Boulevards 的百货公司。游客在这里喝第一杯咖啡、看歌剧院立面、等一场演出；巴黎人则把它当作歌剧院街区的地标，知道它什么时候最吵、什么时候适合坐在露台上看人。
@@ -151,3 +152,9 @@ founded_year: 1862
 - 相关条目：[丁香园咖啡馆](ref:closerie)、[利普啤酒馆](ref:lipp)、[圆顶咖啡馆](ref:coupole)、[圣日耳曼文学咖啡馆路线](ref:saint-germain)、[巴黎丽兹 Hemingway 酒吧](ref:hemingway)
 
 对照阅读：[丁香园咖啡馆](ref:closerie)、[圆顶咖啡馆](ref:coupole)。
+
+## 相关图像
+
+![Brasserie Lipp 的彩釉瓷砖立面与遮阳篷，151 boulevard Saint-Germain](/media/photos/place-brasserie-lipp-1bdb69a3.jpg)
+
+图：Brasserie Lipp 的彩釉瓷砖立面与遮阳篷，151 boulevard Saint-Germain。图片：Daniel Cruz Valle，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Brasserie_Lipp,_Paris_17_September_2016.jpg)）。关联图像：和平咖啡馆。

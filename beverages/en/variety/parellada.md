@@ -22,8 +22,8 @@ tags:
 translation_of: variety:parellada
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:dc689f7e2646ab1ec94626a243838c7abf0751df9b44e56023f45e0645f1c137
-source_sha256: dc689f7e2646ab1ec94626a243838c7abf0751df9b44e56023f45e0645f1c137
+source_revision: sha256:a03acddd7db0bd07c4c185dc59e58fcb5f31db6b79791c7d922c7418d4635111
+source_sha256: a03acddd7db0bd07c4c185dc59e58fcb5f31db6b79791c7d922c7418d4635111
 related:
   - relation: about
     target_id: variety:xarel-lo
@@ -78,6 +78,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Parellada
 
 A white grape of Penedès, Catalonia, one of Cava’s three main varieties; high in acidity, light in body, with green apple, citrus and white flowers, often blended with Xarel·lo and Macabeo for freshness.
@@ -148,3 +149,9 @@ Compare Parellada, Macabeo and Xarel·lo in the same Cava blend, then a still Pa
 [Xarel·lo](ref:xarello) and [Sparkling wine](ref:sparkling) are the nearest useful comparisons: one clarifies variety character, the other tests regional performance.
 
 Parellada grows mainly in the Penedès hills and is one of the three base varieties of Cava, together with Macabeo and Xarel·lo. It brings acidity and a light floral note rather than weight, which is why Cava blends rely on Xarel·lo for structure and Parellada for freshness. The variety is sensitive to drought and yields unevenly, so growers often keep it on higher, cooler sites. Still Cava is a rarity; most Parellada goes into sparkling base wines, where its neutrality is an advantage. A Cava label rarely names the proportion of each variety, so the blend is a producer choice rather than a fixed recipe. For a still white, look for Penedès or Catalonia on the label and expect a lean, green-apple profile.
+
+## Related images
+
+![Xarel·lo: Xarel lo Cava grapes (Wikimedia Commons)](/media/photos/variety-xarel-lo-fdfeafb3.jpg)
+
+Image: Xarel·lo: Xarel lo Cava grapes (Wikimedia Commons). Credit: batega, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Xarel_lo_Cava_grapes.jpg)). Related image for Parellada.

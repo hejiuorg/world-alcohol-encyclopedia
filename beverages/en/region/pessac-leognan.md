@@ -25,8 +25,8 @@ tags:
 translation_of: region:pessac-leognan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:269a8532deb7cd05a9be51b2642e00e0770763a5a9459ffcd75a4f111e203fdf
-source_sha256: 269a8532deb7cd05a9be51b2642e00e0770763a5a9459ffcd75a4f111e203fdf
+source_revision: sha256:5df0c3a0de0faf7343bf012c1ccc8946b73efe52deedf90ce6f65a38f5ae630c
+source_sha256: 5df0c3a0de0faf7343bf012c1ccc8946b73efe52deedf90ce6f65a38f5ae630c
 related:
   - relation: about
     target_id: region:bordeaux
@@ -105,6 +105,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Pessac-Léognan
 
 Pessac-Léognan lies south of Bordeaux city, the northern section of the Graves district that became an independent AOC in 1987. On gravel ridges it makes both red and white wines: reds are Bordeaux blends led by Cabernet Sauvignon, whites blend Sauvignon Blanc and Sémillon, and the district ranks among the most respected sources of dry white wine in Bordeaux.
@@ -184,3 +185,13 @@ Arrive on time for appointments and keep out of working cellars. During harvest 
 **At a glance:** A Bordeaux left-bank AOC split from Graves in 1987, covering ten communes south of the city; known for gravel mounds, both red and white wines and estates such as Haut-Brion and La Mission Haut-Brion, it is Bordeaux’s most urban and accessible fine-wine district.
 
 Start with the appellation and its permitted varieties. From there, consider the vintage and the producer, then how the wine is labelled. That is how a practical judgment about Pessac-Léognan is built.
+
+## Related images
+
+![Related photograph of Sauvignon Blanc](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+Image: Related photograph of Sauvignon Blanc. Credit: Geolina163 + 1971markus, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)). Related image for Pessac-Léognan.
+
+![Photograph for Cabernet Sauvignon: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+Image: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13318021)). Related image for Pessac-Léognan.

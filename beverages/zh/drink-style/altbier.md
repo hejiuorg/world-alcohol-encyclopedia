@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 阿尔特啤酒
 
 阿尔特啤酒是德国杜塞尔多夫及莱茵兰地区的传统顶层发酵啤酒，发酵后经低温贮藏熟成，铜棕色、麦芽干净、酒花苦度中高，工艺介于艾尔与拉格之间；名字里的 Alt 意为“老”，指采用拉格普及之前的传统上层发酵方法。
@@ -141,3 +142,9 @@ verification_scope: source-verified
 认识阿尔特啤酒，可以先从一款常规强度的杜塞尔多夫风格入手理解麦芽与苦度骨架，再比较一款外地产区的瓶装版本，最后试一次强款 Sticke；三档对照之后，发酵方式、贮藏熟成与强度带来的差别会比较清楚。
 
 - 相关条目：[beer](ref:beer)、[barley](ref:barley)、[hop](ref:hop)、[fermentation](ref:fermentation)、[germany](ref:germany)。
+
+## 相关图像
+
+![啤酒花](/media/photos/ingredient-hop-72c4eef7.jpg)
+
+图：啤酒花。图片：LuckyStarr，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg)）。关联图像：阿尔特啤酒。

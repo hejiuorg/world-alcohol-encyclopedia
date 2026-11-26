@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:gin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0dd3be7ff08da25ed1081cca7feaffad0f0cef0175843dc1c2bbcd58884a0503
-source_sha256: 0dd3be7ff08da25ed1081cca7feaffad0f0cef0175843dc1c2bbcd58884a0503
+source_revision: sha256:97381a4dc0993253fc9becf18575b311482e3a60dbb6de779a36d9176e29bf69
+source_sha256: 97381a4dc0993253fc9becf18575b311482e3a60dbb6de779a36d9176e29bf69
 legacy_refs: []
 aliases:
   - Gin
@@ -64,6 +64,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Gin
 
 Gin is a distilled spirit whose core flavour comes from juniper. Its technical skeleton is "neutral alcohol plus a botanical blend plus [distillation](ref:distillation)"; its flavour skeleton is "juniper-led with the other botanicals modifying it". Understanding these two layers matters more than memorising a brand.
@@ -133,3 +134,9 @@ Fifth, ignoring strength and version. Markets and versions can differ in specifi
 - [Distillation](ref:distillation): the key step that brings botanical aromas into the liquid.
 - [Vodka](ref:vodka): a spirit that also starts from neutral alcohol but pursues neutrality.
 - [Negroni](ref:negroni): a classic cocktail built on a gin skeleton.
+
+## Related images
+
+![Vodka](/media/photos/drink-style-vodka-415ef8e0.jpg)
+
+Image: Vodka. Credit: Ashley Pomeroy, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Smirnoff_Red_Label_8213.jpg)). Related image for Gin.

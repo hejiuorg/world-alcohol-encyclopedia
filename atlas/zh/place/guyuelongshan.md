@@ -92,6 +92,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约、品鉴与展销活动会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 古越龙山（中央酒库与绍兴酒参观）
 
 古越龙山是绍兴黄酒最有辨识度的企业之一，但“去古越龙山参观”并不是去看一片葡萄园。它更像一次关于时间的参观：在越城区钱陶公路一带的中央酒库里，成排陶坛装着不同年份的原酒，空气里是陶土、酒香与潮湿库房混合的气味。理解这座酒库，也就理解了绍兴黄酒为什么把“陈”看得那么重。
@@ -139,3 +140,9 @@ verification_scope: source-verified
 古越龙山是理解[黄酒](ref:yellow-wine)的一条产业入口，也把[绍兴](ref:shaoxing)的水网、稻作与仓储传统放在同一处。把它放回[中国](ref:china)的黄酒版图，再看[黄酒史](ref:yellow-history)，会更容易理解“冬酿”和“陈贮”为什么是这套工艺的关键词。
 
 补充阅读：[浙江省](ref:c-extra-1)。
+
+## 相关图像
+
+![浙江省](/media/photos/region-zhejiang-44cfa641.jpg)
+
+图：浙江省。图片：EditQ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E6%9D%AD%E5%B7%9E%E9%92%B1%E6%B1%9F%E6%96%B0%E5%9F%8E_4_(cropped).jpg)）。关联图像：古越龙山（中央酒库与绍兴酒参观）。

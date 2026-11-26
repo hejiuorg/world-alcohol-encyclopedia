@@ -79,6 +79,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 韩国
 
 韩国位于朝鲜半岛南部，酒类版图以烧酒最具代表性。烧酒是蒸馏酒，米酒是发酵酒，啤酒与葡萄酒则在现代消费市场中占有一席之地。理解韩国酒，需要把传统发酵酒、工业化蒸馏酒与现代进口酒分开看，而不是用一个“韩国酒”的概念概括。
@@ -174,3 +175,13 @@ verification_scope: source-verified
 | 国家代码 | KR |
 
 **来源与边界。** 本页关于「韩国」的关键事实，主要由以下来源交叉核对：Republic of Korea — MFDS（韩国食品与酒类标签、安全管理的公开信息）、Statistics Korea（韩国酒类生产、消费与行业统计的公开信息）、Oxford University Press（提供关于烧酒、韩国传统酒与饮用文化的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。](/media/photos/editorial-saccharification-q2.jpg)
+
+图：谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：韩国。
+
+![烧酒](/media/photos/drink-style-soju-8b1cabb3.jpg)
+
+图：烧酒。图片：Graham Hills，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Soju.jpg)）。关联图像：韩国。

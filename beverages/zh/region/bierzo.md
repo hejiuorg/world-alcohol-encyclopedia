@@ -88,6 +88,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 比埃尔索
 
 比埃尔索（Bierzo）是西班牙莱昂省西部的葡萄酒法定产区，一个被山地包围的盆地，以 Mencía 红酒、板岩坡地与老藤著称。它在 1989 年正式成为 DO，却是西班牙西北部最晚获得制度承认的老产区之一。
@@ -168,3 +169,13 @@ DO 规则规定了允许品种、产量上限与酒标标注方式。酒标须�
 - [年份](ref:vintage)：年份差异与老藤的稳定性。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
 - [干型](ref:dry)：干型与残糖风格的区分。
+
+## 相关图像
+
+![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+
+图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：比埃尔索。
+
+![年份（vintage）](/media/photos/term-vintage-4b511c38.jpg)
+
+图：年份（vintage）。图片：Chiusi Painter，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)）。关联图像：比埃尔索。

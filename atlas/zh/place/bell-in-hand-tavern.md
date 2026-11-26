@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1795
 ---
+
 # 钟声酒馆
 
 在波士顿 Union Street 靠近 Faneuil Hall 的一侧，有一间门面不宽、招牌却很好认的酒馆：黑底金字的横匾上画着一只手握铃铛，下面是“Bell in Hand Tavern”。它夹在现代办公楼与游客商店之间，门口常常有人举着手机拍照，也有人直接推门进去喝一杯。钟声酒馆（Bell in Hand）是波士顿最常被称作“老酒馆”的地方之一，但它的故事并不是一条从 1795 年笔直延伸到今天的直线，而是一条不断迁址、停业、改名、再开张的折线。
@@ -131,3 +132,9 @@ founded_year: 1795
 - [纽约历史酒馆路线](ref:ny-route)
 
 最后核对：45 Union Street 的现址、1795 年品牌起点与 1915–1934 年停业记录按官网与公开资料查于 2026-11-21；“最老连续营业”不作为无争议史实。本页是“喝酒去”的波士顿酒馆条目，中文与英文版同步；文字许可见上方 rights 字段，图片署名与许可见各图注。
+
+## 相关图像
+
+![波士顿 Union Street 的 Union Oyster House 砖砌立面与入口；餐厅 1826 年开业，所在建筑的历史可追到 18 世纪，照片不是 1826 年开业当天的原貌](/media/photos/place-union-oyster-house-97a85f13.jpg)
+
+图：波士顿 Union Street 的 Union Oyster House 砖砌立面与入口；餐厅 1826 年开业，所在建筑的历史可追到 18 世纪，照片不是 1826 年开业当天的原貌。图片：Seasider53，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Union_Oyster_House_2025.jpg)）。关联图像：钟声酒馆。

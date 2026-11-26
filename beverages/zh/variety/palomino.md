@@ -78,6 +78,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 帕洛米诺
 
 帕洛米诺（Palomino）是西班牙安达卢西亚的白葡萄，也是雪莉酒最主要的品种。它本身并不"香"：酸度低、糖分不高、风味中性，单喝往往平淡。但正是这种中性，让它在赫雷斯的酒窖里成为生物陈酿与氧化陈酿的空白画布。理解帕洛米诺，重点不在葡萄本身，而在加强、陈酿与索莱拉系统如何把一款朴素的白酒变成从 Fino 到 Oloroso 的完整谱系（ref:fortified-wine）。
@@ -144,3 +145,9 @@ Fino 与 Manzanilla 适合配橄榄、伊比利亚火腿、炸鱼、海鲜与西
 - [索莱拉](ref:solera)：雪莉的混合陈年系统。
 
 相关条目：[葡萄酒](ref:wine)、[加强葡萄酒](ref:fortified-wine)。
+
+## 相关图像
+
+![酒花（flor）](/media/photos/term-flor-f79b3e31.jpg)
+
+图：酒花（flor）。图片：El Pantera，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:FLOR-ValdiviaJerez59.jpg)）。关联图像：帕洛米诺。

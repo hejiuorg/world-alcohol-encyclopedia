@@ -97,6 +97,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 美国
 
 美国是北美重要的酒类生产国，葡萄酒、威士忌与啤酒都形成了规模化产业。葡萄酒的核心在加州，俄勒冈与华盛顿也有鲜明风格；烈酒以肯塔基的波本威士忌最具代表性；啤酒则从工业拉格到精酿啤酒都有广泛市场。美国的产区标识与欧洲的原产地命名制度不同，理解这一点是读懂美国酒标的前提。
@@ -189,3 +190,13 @@ verification_scope: source-verified
 - [啤酒](ref:beer)：精酿啤酒的风格基础。
 - [赤霞珠](ref:cabernet)、[霞多丽](ref:chardonnay)与[梅洛](ref:merlot)：美国常见品种。
 - [杰克丹尼](ref:jackdaniels)：田纳西威士忌的代表酒款。
+
+## 相关图像
+
+![杰克丹尼老7号](/media/photos/drink-usa-jackdaniels-1ab6c621.jpg)
+
+图：杰克丹尼老7号。图片：Ben Jacobson ( Kranar Drogin )，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)）。关联图像：美国。
+
+![浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+图：浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理。图片：Ich，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)）。关联图像：美国。

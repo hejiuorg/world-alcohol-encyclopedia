@@ -92,6 +92,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开馆时间、休馆日与展示内容会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 白鹤酒造资料馆
 
 从阪神住吉站出来，沿住宅区走五分钟，会看到一栋深色木墙、白灰泥腰线、传统瓦顶的长屋式酒藏。它不像“企业博物馆”那样有玻璃幕墙与导览大厅，而是把一栋真正运作过的酒藏原样留下来：木梁、灰泥、桶架、曲室与蒸米场都还在，只是工人换成了等身大人偶。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 - 清酒路线对照：[菊正宗酒造纪念馆](ref:kiku)、[Hakushika 酒博物馆](ref:hakushika)、[Gekkeikan Okura 酒博物馆](ref:gekkeikan)、[Kamotsuru](ref:kamotsuru)、[日本酒藏路线](ref:route)。
 
 对照阅读：[菊正宗酒造纪念馆](ref:kiku)、[月桂冠大仓纪念馆](ref:gekkeikan)。
+
+## 相关图像
+
+![菊正宗酒造纪念馆本馆外观；这座源自 1659 年御影本嘉纳家宅邸的酒藏于 1960 年移筑至此](/media/photos/place-kiku-masamune-museum-bf70596a.jpg)
+
+图：菊正宗酒造纪念馆本馆外观；这座源自 1659 年御影本嘉纳家宅邸的酒藏于 1960 年移筑至此。图片：Oilstreet，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kikumasamune_Kobe_Japan01-r.jpg)）。关联图像：白鹤酒造资料馆。

@@ -84,6 +84,7 @@ rights:
   note: 第三方绘画、商标与图片不在本许可内；图片为公有领域，已在图注署名。来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 威士忌暴乱 1791：美国早期联邦税与边疆政治
 
 1791 年，美国联邦政府为了偿还独立战争债务，对蒸馏酒开征消费税。对东部商人来说，这是一项财政政策；对阿巴拉契亚山以西的农户来说，它却直接打在唯一能把谷物运往市场的产品上。谷物体积大、运输难，蒸馏成威士忌后重量轻、体积小、不易腐坏，也能当作地方货币使用。于是，一项联邦税在边疆被理解为对生存方式的攻击。1794 年的武装抗议与联邦 militia 的西进，后来被称为“威士忌暴乱”。
@@ -131,3 +132,9 @@ verification_scope: source-verified
 - [杰克丹尼](ref:jack)：田纳西威士忌与美国蒸馏传统。
 - [美国](ref:usa)：联邦税制、州权与酒类监管的区域背景。
 - [美国禁酒令](ref:prohibition)：另一场联邦政府与饮酒行为的正面冲突。
+
+## 相关图像
+
+![水牛足迹相关实景照片](/media/photos/drink-usa-buffalo-trace-7f77e73d.jpg)
+
+图：水牛足迹相关实景照片。图片：Jaimin Trivedi，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Buffalo_Trace_Distillery_Barrel_Aging_Warehouse_(outside).jpg)）。关联图像：威士忌暴乱 1791：美国早期联邦税与边疆政治。

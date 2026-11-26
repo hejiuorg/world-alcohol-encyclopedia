@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:trappist-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:566702ce5ba54b88f532a7e685e4aea2370a6c1419fd84adf23d3db941a125eb
-source_sha256: 566702ce5ba54b88f532a7e685e4aea2370a6c1419fd84adf23d3db941a125eb
+source_revision: sha256:81c74a9142a001c0af9c3e1e56d95bf575d8915e86c19f3835a504b2743b3185
+source_sha256: 81c74a9142a001c0af9c3e1e56d95bf575d8915e86c19f3835a504b2743b3185
 parent_style_id: drink-style:abbey-beer
 aroma_family: Malt and yeast esters
 legacy_refs: []
@@ -83,6 +83,7 @@ rights:
   note: Third-party style guidelines, the ATP mark, trademarks, images and quoted text are outside this licence; sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # Trappist Beer
 
 Trappist beer is not a style defined by colour or strength but a group of [beers](ref:beer) bound by rules of place and supervision: it must be brewed inside a Trappist monastery, made by monks or under their oversight, with proceeds used for the monastery and for social work. Only six breweries may currently use the Authentic Trappist Product (ATP) mark, and they are located in [Belgium](ref:belgium) and the Netherlands.![Trappist Beer editorial illustration](/media/figures/specific/visual-074-drink-style-trappist-beer.svg)
@@ -140,3 +141,9 @@ Read [Abbey beer](ref:abbey-beer) for the legal definition side of Trappist Beer
 | Aroma family | Malt and yeast esters |
 
 **Sources and limits.** The key claims about Trappist Beer are checked against the following sources: International Trappist Association, Beer Judge Certification Program, Brewers Association and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Yeast](/media/photos/ingredient-yeast-bf0b8d88.jpg)
+
+Image: Yeast. Credit: Masur, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg)). Related image for Trappist Beer.

@@ -61,6 +61,12 @@ sources:
     title: "《The Oxford Companion to Spirits and Cocktails》威士忌条目"
     publisher: "Oxford University Press"
     note: 由原条目末尾参考资料迁移，未逐条复核访问日期。
+  - key: adv-swa
+    title: Scotch Whisky Association — Production and labelling
+    url: https://www.scotch-whisky.org.uk/
+    publisher: Scotch Whisky Association
+    note: 用于核对苏格兰威士忌的原料、蒸馏、陈年与标签规则；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -125,6 +131,28 @@ verification_scope: source-verified
 对照阅读：[橡木桶陈酿](ref:oak-ageing)、[啤酒](ref:beer)。
 
 **来源与边界。** 本页关于「威士忌」的关键事实，主要由以下来源交叉核对：Scotch Whisky Association（苏格兰威士忌的法定产区、原料、蒸馏与最低陈年要求）、Irish Whiskey Association（爱尔兰威士忌的地理标志与基本工艺边界）、U.S. Alcohol and Tobacco Tax and Trade Bureau（美国威士忌（包括波本与黑麦）的标识与法定类别）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+
+## 进阶判断
+
+![艾尔郡威士忌桶陈仓库](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+图：艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量。图片：Rosser1954 Roger Griffith，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)）。
+
+| 变量 | 对风味的影响 | 标签线索 |
+| --- | --- | --- |
+| 桶型 | 香草、香料、干果 | 波本桶 / 雪莉桶 |
+| 泥煤 | 烟熏、酚类 | ppm、产区 |
+| 酒精度 | 强度与香气释放 | 原桶强度 / 稀释 |
+| 年份 | 陈年与桶内变化 | 年龄声明不是唯一 |
+
+**单一麦芽一定比调和好？** 不是。单一麦芽强调单一酒厂的个性，调和强调稳定与组合。好坏取决于具体酒款、桶型与工艺，不取决于类别标签。
+
+**年份越高越好吗？** 不是。陈年会让酒变柔、变复杂，也可能让橡木过重或果味衰退。适饮点取决于酒体、桶型与储存，不是年份数字。
+
+**威士忌一定要加水吗？** 不必。高酒精度原桶强度通常受益于几滴水；低度酒加水可能变薄。先纯饮，再少量加水，比较香气与口感变化。
+
+延伸阅读：[蒸馏](ref:distillation)、[橡木桶陈年](ref:oak-ageing)。
 
 ## 参考资料
 - [蒸馏](ref:distillation)：威士忌从发酵谷物酒变为烈酒的关键。

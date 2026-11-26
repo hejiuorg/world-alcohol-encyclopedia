@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:bourbon
 source_lang: zh
-source_revision: sha256:d76c950095235e38c911e12ee9c5b6929aa22991f6fd15d867df87f4d02478d7
-source_sha256: d76c950095235e38c911e12ee9c5b6929aa22991f6fd15d867df87f4d02478d7
+source_revision: sha256:c7bad93159d6e6274edaa1eb72dd3a2884cf6613ee38df40fe48ad3977c366a1
+source_sha256: c7bad93159d6e6274edaa1eb72dd3a2884cf6613ee38df40fe48ad3977c366a1
 translation_status: reviewed
 parent_style_id: drink-style:whisky
 legacy_refs: []
@@ -152,4 +152,10 @@ Live disputes concern international protection of the name, whether flavoured wh
 
 Neat is the best way to judge the relationship between grain, wood and age. A little water lowers the alcohol sting and opens the aroma; ice cools and dilutes at the same time and suits stronger products. Bourbon is the base of the [Old Fashioned](ref:old-fashioned) and appears in the Whiskey Sour and many other recipes. For the general mechanics of [oak ageing](ref:oak-ageing), see the process entry; for the difference between pot and column distillation, see [pot still](ref:pot-still).
 
-**In brief:** An American whiskey category made mainly from corn and matured in new charred oak; a 51% corn minimum, distillation and barrel-entry limits, and the straight-ageing rules define its legal boundary. 
+**In brief:** An American whiskey category made mainly from corn and matured in new charred oak; a 51% corn minimum, distillation and barrel-entry limits, and the straight-ageing rules define its legal boundary.
+
+## Related images
+
+![A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+Image: A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables. Credit: Rosser1954 Roger Griffith, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)). Related image for Bourbon Whiskey.

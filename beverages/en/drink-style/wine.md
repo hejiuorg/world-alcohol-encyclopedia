@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: drink-style:wine
 source_lang: zh
-source_revision: sha256:21db73bb14b853ff6dd2109d081d86d099467ff6d22992a17b97bd7e2e9246e2
-source_sha256: 21db73bb14b853ff6dd2109d081d86d099467ff6d22992a17b97bd7e2e9246e2
+source_revision: sha256:39fbd637a88210f6a91447d594dc2b68141d51cdec8203ae67e5b6b9660b4a53
+source_sha256: 39fbd637a88210f6a91447d594dc2b68141d51cdec8203ae67e5b6b9660b4a53
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Wine
 
 Wine is an alcoholic drink made by fermenting fresh grapes or grape must. The OIV definition requires it to come entirely from fresh grapes (crushed or not) or grape must through partial or complete alcoholic fermentation, with an actual alcoholic strength of at least 8.5% vol. Under specific climatic, soil, variety or local-tradition conditions, some regional rules allow the minimum total strength to fall to 7% vol. This definition marks the boundary of “wine”, but within that boundary there is enormous stylistic variation.
@@ -144,3 +145,9 @@ For Wine, this style was last checked in 2026; prices, batches and availability 
 - [White wine](ref:white-wine): skin-free fermentation, acidity and lees treatment.
 - [Sparkling wine](ref:sparkling): second fermentation, pressure and sweetness levels.
 - [Fortified wine](ref:fortified): added grape spirit, strength and sweetness.
+
+## Related images
+
+![Château Lafite Rothschild](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+Image: Château Lafite Rothschild. Credit: PA, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)). Related image for Wine.

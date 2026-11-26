@@ -31,8 +31,8 @@ tags:
 translation_of: place:carousel-bar-hotel-monteleone
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:96651447dbac542b0311e9b279d1937a8aa20518943ad99843d6da6837ee92bc
-source_sha256: 96651447dbac542b0311e9b279d1937a8aa20518943ad99843d6da6837ee92bc
+source_revision: sha256:069e966e0301245ae1554f89ece8cde3f26360e5e38c5d6bb8cbb4caee0c57f8
+source_sha256: 069e966e0301245ae1554f89ece8cde3f26360e5e38c5d6bb8cbb4caee0c57f8
 related:
   - relation: about
     target_id: culture-article:time-in-a-cup
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1949
 ---
+
 # The Carousel Bar
 
 In the lobby of Hotel Monteleone on Royal Street, a bar actually revolves. The circular counter is built as a carousel, with painted horses, mirrors, light bulbs and gilded scrollwork around the rim, and the bar itself turns around the room very slowly. On first sitting down, you think the other customers are moving; after a few minutes you realise that you are. It is not a themed restaurant set but a drinking machine installed in 1949 and still running.
@@ -141,3 +142,9 @@ From the hotel, Royal Street's galleries and antiques run north, while St. Louis
 For The Carousel Bar, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
 
 Checked on 2026-11-21 against the official pages of Hotel Monteleone and the Carousel Bar. The bar opens daily 11:00–00:00, does not take reservations, and its 21+ evening rule can change with events; confirm before visiting. The rotating bar was installed in 1949, the canopy added in 1992, and the Vieux Carré created in 1938 by Walter Bergeron. The Capote birth story is qualified in the body. The image shows the painted bar and canopy, not other parts of the hotel.
+
+## Related images
+
+![A Vieux Carré over ice in an Old Fashioned glass; the orange peel and cherry garnish are not visible in this photograph.](/media/photos/cocktail-vieux-carre-1706ef17.jpg)
+
+Image: A Vieux Carré over ice in an Old Fashioned glass; the orange peel and cherry garnish are not visible in this photograph.. Credit: ChodHound, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photo.gne?id=8609713590)). Related image for The Carousel Bar.

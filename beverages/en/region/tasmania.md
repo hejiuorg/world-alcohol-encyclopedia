@@ -25,8 +25,8 @@ tags:
 translation_of: region:tasmania
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:010ccb84a32103a589e6707c88da7497c483a8c9cc6aab9735625f80ed146b1c
-source_sha256: 010ccb84a32103a589e6707c88da7497c483a8c9cc6aab9735625f80ed146b1c
+source_revision: sha256:2a9b6c05edcc978c82b0565e779191c18d9317384165d958eaac78af86344504
+source_sha256: 2a9b6c05edcc978c82b0565e779191c18d9317384165d958eaac78af86344504
 related:
   - relation: about
     target_id: region:australia
@@ -176,3 +176,13 @@ The Tamar Valley spreads tasting rooms along both banks of the Tamar River, suit
 Most island estates are small family businesses: book ahead, arrive on time and stay out of working areas. Mountain roads and tasting-room thresholds are not always accessible; ask about step-free access and restrooms before bringing older relatives or children. For a relaxed first visit, the Coal River Valley half-day from Hobart or the Tamar Valley half-day from Launceston are the shortest entry routes.
 
 - Related: [australia](ref:australia), [pinot-noir](ref:pinot), [chardonnay](ref:chardonnay), [sparkling-wine](ref:sparkling), [white-wine](ref:white).
+
+## Related images
+
+![Sparkling wine](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+Image: Sparkling wine. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Tasmania.
+
+![Photograph for Australia: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-australia-968b262e.jpg)
+
+Image: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=9069567)). Related image for Tasmania.

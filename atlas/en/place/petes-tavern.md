@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:petes-tavern
 source_lang: zh
-source_revision: sha256:920f315f027ca29916ffa5c7d3313641904de6bf4a1ffe31d6704952c8fc1b76
-source_sha256: 920f315f027ca29916ffa5c7d3313641904de6bf4a1ffe31d6704952c8fc1b76
+source_revision: sha256:905bff55eed5f4bdfb1ec3d43938988e1419809af228bcc75b9cfa98978ff759
+source_sha256: 905bff55eed5f4bdfb1ec3d43938988e1419809af228bcc75b9cfa98978ff759
 translation_status: reviewed
 subtype: bar
 address: 129 East 18th Street, New York, NY 10003, USA
@@ -146,3 +146,9 @@ Pete's Tavern is best compared with McSorley's Old Ale House: both claim deep hi
 - [McSorley’s Old Ale House](ref:mcsorleys-old-ale-house)
 
 Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2).
+
+## Related images
+
+![Photograph for Employees Only: File:2019-05-05 Lagavulin Distillery.jpg. Credit: Charlie Marshall, CC BY 2.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.](/media/photos/q2-place-employees-only-460e16a8.jpg)
+
+Image: File:2019-05-05 Lagavulin Distillery.jpg. Credit: Charlie Marshall, CC BY 2.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.. Credit: Charlie Marshall, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)). Related image for Pete's Tavern.

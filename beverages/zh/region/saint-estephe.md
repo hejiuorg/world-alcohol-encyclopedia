@@ -75,6 +75,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 圣埃斯泰夫
 
 梅多克最北端的村庄级 AOC，以黏土与砾石混合的土壤、较高比例的梅洛与更紧的单宁著称；1855 年分级的二级庄 Cos d’Estournel、Montrose 与三级庄 Calon-Ségur 是产区标志。
@@ -183,3 +184,13 @@ Cos d’Estournel 的“G d’Estournel”与正牌、Montrose 的正牌与“Da
 | 国家代码 | FR |
 
 **来源与边界。** 本页关于「圣埃斯泰夫」的关键事实，主要由以下来源交叉核对：INAO（法国原产地与地理标志主管机构）、OIV（葡萄酒定义、产区统计与全球生产框架）、FAO（农业地理、气候与土地利用背景）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![梅洛](/media/photos/variety-merlot-2a33ecba.jpg)
+
+图：梅洛。图片：Felloni claire，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Merlot.jpg)）。关联图像：圣埃斯泰夫。
+
+![红葡萄酒类型示意图](/media/photos/theme-wine-spirits.jpg)
+
+图：红葡萄酒类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：圣埃斯泰夫。

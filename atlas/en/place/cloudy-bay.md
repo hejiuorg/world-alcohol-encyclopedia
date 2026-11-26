@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cloudy-bay
 source_lang: zh
-source_revision: sha256:015cc23d773a5770f7551f754676d32bddd67400653fe98a634f876388f9af2b
-source_sha256: 015cc23d773a5770f7551f754676d32bddd67400653fe98a634f876388f9af2b
+source_revision: sha256:83b5559f6f5daf3700262ed50731cab358d05abb40f8d63c7d771e31811dbb49
+source_sha256: 83b5559f6f5daf3700262ed50731cab358d05abb40f8d63c7d771e31811dbb49
 translation_status: reviewed
 subtype: winery-visitor
 address: 230 Jacksons Road, Blenheim, New Zealand
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, menus, photographs and quoted texts are not covered by this licence; opening hours, booking rules, restaurant times and wines change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Cloudy Bay
 
 Cloudy Bay stands on Jacksons Road in Blenheim, its vines laid over the gravel riverbed of the Wairau Valley and the ridges of the Richmond Ranges behind. It is not an estate that hangs its story on great age: the first vintage was only 1985, relatively young in Marlborough's modern wine history. What it did do was combine Sauvignon Blanc aroma, acidity and a sea-wind narrative clearly enough to become the first stop for many drinkers discovering New Zealand white wine.
@@ -141,3 +142,9 @@ Start with [Marlborough](ref:marlborough) for address and space, then read [Whit
 This entry was checked against Cloudy Bay's official visit page, New Zealand Winegrowers' Cloudy Bay entry and Marlborough region page, and Brancott's official brand page. Page verified 2026-11-09. To place this stop in a day, see the [Marlborough wine trail](ref:route); for variety background, see [Sauvignon Blanc](ref:sauvignon) and [white wine](ref:white-wine). Opening hours, bookings and wines are subject to official channels.
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Vineyard rows in the Wairau Valley, Marlborough, stretching toward the hills.](/media/photos/region-marlborough-7856d272.jpg)
+
+Image: Vineyard rows in the Wairau Valley, Marlborough, stretching toward the hills.. Credit: Jonathan Harker, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wairau_Valley_vineyards_in_the_Marlborough_wine_region,_New_Zealand.jpg)). Related image for Cloudy Bay.

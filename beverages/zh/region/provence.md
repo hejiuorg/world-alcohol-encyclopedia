@@ -95,6 +95,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 普罗旺斯
 
 普罗旺斯是世界上最容易被“桃红”两个字定义的葡萄酒产区，也是被这两个字遮蔽得最厉害的产区之一。它的海岸线从罗讷河口一直延伸到尼斯以西，葡萄园分布在石灰岩丘陵、片岩坡地和沿海平原上；桃红确实占了大头，但邦多勒的慕合怀特红、卡西的白、帕莱特的稀有混酿，才是理解这个产区深度的入口。普罗旺斯不是一个风格统一的品牌，而是一组共享地中海气候、却各有法规与历史的 AOC。
@@ -171,3 +172,13 @@ verification_scope: source-verified
 | 国家代码 | FR |
 
 **来源与边界。** 本页关于「普罗旺斯」的关键事实，主要由以下来源交叉核对：INAO（普罗旺斯各法定产区的范围与规则；由原条目末尾参考资料迁移，未逐条复核访问日期）、European Union（欧盟葡萄酒类别、地理标志与标签规则）、Oxford University Press（提供关于普罗旺斯、普罗旺斯丘与邦多勒的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）等 8 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![桃红葡萄酒](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+图：桃红葡萄酒。图片：THOR，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)）。关联图像：普罗旺斯。
+
+![歌海娜](/media/photos/variety-grenache-69c881eb.jpg)
+
+图：歌海娜。图片：Jules Troncy，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)）。关联图像：普罗旺斯。

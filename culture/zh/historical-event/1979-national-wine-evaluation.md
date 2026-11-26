@@ -104,6 +104,7 @@ rights:
   note: 第三方报道、名单整理与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 1979 年第三届全国评酒会：暗评与香型分组
 
 1979 年，第三届全国评酒会在辽宁大连举行。这一届最值得记住的不是名单，而是方法：样品改用密码编号、评委不知道来源，评选按香型分组，评酒员还要先通过考核。中国白酒的品评从此更像一次受控的比较实验。
@@ -166,3 +167,9 @@ verification_scope: source-verified
 | 历法 | 公历 |
 
 **来源与边界。** 本页关于「1979 年第三届全国评酒会：暗评与香型分组」的关键事实，主要由以下来源交叉核对：新华网（第三届全国评酒会的时间、地点与暗评方法）、中国新闻网（1979 年白酒名酒名单变化；只引短句；1979 年 18 种名酒的品类构成；只引短句）、中国酿酒工业协会（评酒员考核、香型分组与优质酒数量）等 8 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“周恒刚”页面配图：SZ 深圳 Shenzhen 龍崗 Longgang 松柏路 Songbai Road 橫崗街道 Henggang Streets 銀信榮恒商業廣場 YinXin Rong Heng Shopping Mall CoCo One shop China Jewellery n Zhou Liu Fu October 2025 N13P 09。摄影：HSeqao MLSGA，CC0，来自 Wikimedia Commons。](/media/photos/q2-person-zhou-henggang-8ef5b384.jpg)
+
+图：SZ 深圳 Shenzhen 龍崗 Longgang 松柏路 Songbai Road 橫崗街道 Henggang Streets 銀信榮恒商業廣場 YinXin Rong Heng Shopping Mall CoCo One shop China Jewellery n Zhou Liu Fu October 2025 N13P 09。摄影：HSeqao MLSGA，CC0，来自 Wikimedia Commons。。图片：HSeqao MLSGA，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=177355500)）。关联图像：1979 年第三届全国评酒会：暗评与香型分组。

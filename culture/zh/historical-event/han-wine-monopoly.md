@@ -73,6 +73,7 @@ rights:
   note: 第三方点校本、注释、译本与数据库页面不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 汉代酒榷：公元前98年的官营专卖与公元前81年的罢榷
 
 “榷”本指独木桥，引申为官府设关、垄断经营。汉武帝天汉三年，朝廷“初榷酒酤”，把酒的酿造与销售收归官府；昭帝始元六年，朝廷下诏询问贤良文学，同年七月罢榷酤官，改为民间按律申报纳税。前后不足二十年，却成为后世讨论酒类专卖与酒税的常用起点。
@@ -146,3 +147,9 @@ verification_scope: source-verified
 - [中国](ref:china)：中国酒类的产区与品类背景。
 
 相关条目：[中国](ref:china)。
+
+## 相关图像
+
+![商周酒礼：青铜酒器、酒正职官与《酒诰》的饮酒秩序相关实景照片](/media/photos/historical-event-shang-zhou-wine-ritual-e8c47734.jpg)
+
+图：商周酒礼：青铜酒器、酒正职官与《酒诰》的饮酒秩序相关实景照片。图片：Wikimedia Commons contributor，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Clevelandart_1951.151.jpg)）。关联图像：汉代酒榷：公元前98年的官营专卖与公元前81年的罢榷。

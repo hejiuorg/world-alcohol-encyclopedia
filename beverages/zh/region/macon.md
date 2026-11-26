@@ -88,6 +88,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 马贡
 
 马贡（Mâconnais）是勃艮第最南部的白葡萄酒产区，沿索恩河以西的丘陵展开；以霞多丽为主，覆盖马贡、普伊-富赛、圣韦朗、维雷-克莱塞等 AOC，石灰岩坡地、合作社传统与相对宽裕的产量，使它成为进入勃艮第白葡萄酒最容易的入口之一。
@@ -153,3 +154,13 @@ verification_scope: source-verified
 | 层级 | 省/大区 |
 | 所属 | 勃艮第 |
 | 国家代码 | FR |
+
+## 相关图像
+
+![“勃艮第”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：马贡。
+
+![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+图：黑皮诺。图片：Cjp24，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)）。关联图像：马贡。

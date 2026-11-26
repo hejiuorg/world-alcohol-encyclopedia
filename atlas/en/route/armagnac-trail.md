@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:armagnac-trail
 source_lang: zh
-source_revision: sha256:21556e17a6b3d97da298744cdb7705f92f4272b8f7e0d47b9d57db08cff93c24
-source_sha256: 21556e17a6b3d97da298744cdb7705f92f4272b8f7e0d47b9d57db08cff93c24
+source_revision: sha256:ed1e5f723c7086080dffa4d517977ad40fb66fa351cc1f4eac0388b21ff3375c
+source_sha256: ed1e5f723c7086080dffa4d517977ad40fb66fa351cc1f4eac0388b21ff3375c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -143,3 +143,13 @@ A vintage is not a guarantee of quality but a traceable year: ripeness, acidity,
 Both estates are rural and public transport is effectively unavailable, so a car is required. Coming from Bordeaux or Toulouse, take Sorbets first, then head northwest into the Landes for Arthez-d'Armagnac; the drive passes Eauze, Labastide-d'Armagnac, Nogaro and Condom. Eauze is the market town of Armagnac, Labastide-d'Armagnac is a 13th-century bastide, and Condom has the Armagnac museum; use them for supplies and overnight stays rather than forcing them into one day.
 
 Spring and autumn are the most comfortable seasons; harvest falls in October, and winter is distillation, when the cellars are busiest but also coldest. Both stops need booking: Laubade through Rue des Vignerons or by phone, Ognoas within cellar hours, with Saturday afternoon by reservation and weekends and public holidays open 14:00–17:30 from 2 May to 30 September, weekdays 9:00–12:00 and 14:00–17:30. Tasting is free at Ognoas and charged by tour at Laubade; prices, sessions and hours change, so check official channels. Rural roads are unlit at night, so do not drive after tasting. Page verified 2026-11-09.
+
+## Related images
+
+![Related photograph of Domaine d'Ognoas](/media/photos/place-domaine-ognoas-6b370357.jpg)
+
+Image: Related photograph of Domaine d'Ognoas. Credit: Jibi44, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Arthez_domaine_Ognoas.jpg)). Related image for Armagnac trail: single estates of Bas-Armagnac.
+
+![Photograph for France: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.](/media/photos/q2-region-france-338f007d.jpg)
+
+Image: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.. Credit: Mustang Joe, CC0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/63234672@N04/13180177073)). Related image for Armagnac trail: single estates of Bas-Armagnac.

@@ -5,7 +5,7 @@ type: place
 lang: zh
 slug: la-bodeguita-del-medio
 title: 半途小酒馆
-summary: 哈瓦那老城的著名小酒馆，1942 年开业，以莫吉托和文人顾客的墙面签名闻名。
+summary: 哈瓦那老城的著名小酒馆，1942 年开业，以莫吉托和文人顾客的墙面签名闻名；店面狭小、常年拥挤，是游客体验哈瓦那夜生活的地标之一。
 status: reviewed
 revision: 5
 subtype: pub
@@ -80,6 +80,7 @@ city: 哈瓦那
 verification_scope: source-verified
 founded_year: 1942
 ---
+
 # 半途小酒馆
 
 半途小酒馆（La Bodeguita del Medio）在哈瓦那老城 Empedrado 街 207 号，介于 Cuba 街与 San Ignacio 街之间，距离哈瓦那大教堂只有几十米。它 1942 年开业，最初不是酒吧，而是一间叫“La Complaciente”的小杂货店；古巴人安赫尔·马丁内斯·博罗托（Ángel Martínez Borroto）把它买下后改名“Casa Martínez”，卖日常食品，也偶尔给熟客做饭。店名直译是“街区中段的小杂货铺”，这个朴素的来源，比“海明威酒吧”的标签更能解释它的空间：窄、旧、墙面被签名和照片覆盖。
@@ -130,3 +131,9 @@ founded_year: 1942
 | 营业状态 | 已核验营业 |
 
 **来源与边界。** 本页关于「半途小酒馆」的关键事实，主要由以下来源交叉核对：La Bodeguita del Medio（创立时间、地址与历史背景）、Oxford University Press（提供关于莫吉托与哈瓦那酒吧文化的条目）、Palmares Extrahotelera Company（1942 年 Ángel Martínez 接手小店、1950 年定名、招牌莫吉托与克里奥尔菜、营业时间）等 6 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![小佛罗里达酒馆](/media/photos/place-el-floridita-2003d021.jpg)
+
+图：小佛罗里达酒馆。图片：Haydn Blackey，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Floridita_Bar-Restaurant,_Havana.jpg)）。关联图像：半途小酒馆。

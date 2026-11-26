@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:piedmont-barbaresco-trail
 source_lang: zh
-source_revision: sha256:41d989725010cb821fe8c6361a21d7e5dd7474f15f0ed5b31608da5e63b671d7
-source_sha256: 41d989725010cb821fe8c6361a21d7e5dd7474f15f0ed5b31608da5e63b671d7
+source_revision: sha256:58767862dcae77c2b34bd7d55239241e44e55d4e53f6917ae012c7d07836d8ae
+source_sha256: 58767862dcae77c2b34bd7d55239241e44e55d4e53f6917ae012c7d07836d8ae
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -90,6 +90,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # Piedmont Barbaresco trail: Barbaresco to Serralunga
 
 This route joins two villages: Barbaresco and Serralunga d'Alba. Both are in the Langhe, both are built on [Nebbiolo](ref:nebbiolo), and they stand on opposite sides of two legal appellations, Barbaresco and Barolo. The first stop is Gaja, whose address is clear and whose visiting policy is not; the second is Fontanafredda, where the cellars and storytelling village receive visitors by appointment. The drive between them takes about half an hour, and one day is enough, but do not assume that a famous estate is a door that is always open.
@@ -164,3 +165,13 @@ September and October are the busiest weeks for picking and winemaking, and cell
 - [Barolo DOCG — Langhe consortium](https://www.langhevini.it/le-denominazioni-tutelate-dal-consorzio/barolo-docg/): 11 communes, three-year ageing and Riserva rules.
 
 Further reading: [Piedmont](ref:c-extra-1).
+
+## Related images
+
+![Fontanafredda](/media/photos/place-fontanafredda-076ca0df.jpg)
+
+Image: Fontanafredda. Credit: Marchetto da Trieste, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Fontanafredda_-_chiesa_parrocchiale.jpg)). Related image for Piedmont Barbaresco trail: Barbaresco to Serralunga.
+
+![Nebbiolo](/media/photos/variety-nebbiolo-82c1e8bb.jpg)
+
+Image: Nebbiolo. Credit: Hanna, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Close_up_of_Nebbiolo_cluster_in_Italy.jpg)). Related image for Piedmont Barbaresco trail: Barbaresco to Serralunga.

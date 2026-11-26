@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 黑刺李金酒
 
 英国传统金酒利口酒，将黑刺李果实浸泡在金酒中并加糖；酒色深红、甜中带酸，带杏仁与香料，酒精度通常较低。
@@ -158,3 +159,9 @@ Plymouth Sloe Gin 是经典代表，基酒为 Plymouth 金酒，风格平衡；H
 | 上位风格 | 金酒 |
 
 **来源与边界。** 本页关于「黑刺李金酒」的关键事实，主要由以下来源交叉核对：European Union（烈酒类别、定义与标签规则）、US TTB（美国威士忌、朗姆与烈酒分类）、The Gin Guild（Sloe Gin 的浸渍工艺、最低酒度与标签规则）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![Plum：Plum Fruit on Display（Wikimedia Commons）](/media/photos/ingredient-plum-79a542ea.jpg)
+
+图：Plum：Plum Fruit on Display（Wikimedia Commons）。图片：Iwai-Dialax，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Plum_Fruit_on_Display.jpg)）。关联图像：黑刺李金酒。

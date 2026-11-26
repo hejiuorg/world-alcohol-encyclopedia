@@ -87,6 +87,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 斯泰伦博斯
 
 斯泰伦博斯（Stellenbosch）是南非西开普最负盛名的葡萄酒产区，位于开普敦以东约 45 公里，是 Wine of Origin 体系中的 district。它既有 17 世纪的殖民建镇历史，也有南非第一个葡萄酒之路与成熟的高端红酒产业。
@@ -167,3 +168,13 @@ Pinotage 由 Pinot Noir 与 Cinsaut 杂交育成，带有独特的烟熏、香�
 - [年份](ref:vintage)：年份差异与酒标规则。
 - [单一品种](ref:single-varietal)：85% 品种标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![“南非”页面配图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+
+图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Ltz Raptor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4647540)）。关联图像：斯泰伦博斯。
+
+![白诗南](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+图：白诗南。图片：Benjamin Smith，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)）。关联图像：斯泰伦博斯。

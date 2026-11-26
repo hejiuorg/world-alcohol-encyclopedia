@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 苏格兰艾尔
 
 苏格兰艾尔是苏格兰传统顶层发酵啤酒的统称，麦芽主导、酒花苦度偏低，带焦糖、烤面包、太妃糖与干果气息；强度从轻度的 60/- 到厚重的 Wee Heavy 形成完整梯度，与英国艾尔(ref:english-ale)同属不列颠群岛艾尔谱系。
@@ -150,3 +151,9 @@ Wee Heavy 一档的代表包括 Belhaven Wee Heavy、Broughton Old Jock、Gordon
 | --- | --- |
 | 一句话定位 | 苏格兰传统艾尔，麦芽甜、酒体饱满、酒花苦度低，带焦糖、烤面包与干果；从轻度的 60/- 到厚重的 Wee Heavy 都有 |
 | 上位风格 | 英式艾尔 |
+
+## 相关图像
+
+![泥煤（peat）](/media/photos/term-peat-36a70265.jpg)
+
+图：泥煤（peat）。图片：David Stanley from Nanaimo, Canada，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Peat_(49302157252).jpg)）。关联图像：苏格兰艾尔。

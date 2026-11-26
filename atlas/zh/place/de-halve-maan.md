@@ -86,6 +86,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；导览价格、时段与营业安排会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 半月酒厂
 
 ![半月酒厂相关实景照片](/media/photos/place-de-halve-maan-46bc86b4.jpg)
@@ -149,3 +150,9 @@ Brugse Zot Blond 是主力，用四种麦芽与两种香型酒花，酒体金黄
 | 城市/国家 | 布鲁日 / 比利时 |
 | 营业状态 | 已核验营业 |
 | 官网 | halvemaan.be |
+
+## 相关图像
+
+![康帝隆酒厂相关实景照片](/media/photos/place-cantillon-brewery-f3b0c65c.jpg)
+
+图：康帝隆酒厂相关实景照片。图片：Abujoy，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Brasserie_Cantillon_02.jpg)）。关联图像：半月酒厂。

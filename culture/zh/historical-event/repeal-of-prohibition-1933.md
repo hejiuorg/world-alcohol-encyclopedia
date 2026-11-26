@@ -83,6 +83,7 @@ rights:
   note: 第三方文件影像、商标与图片不在本许可内；图片为公有领域，已在图注署名。来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 禁酒令废除 1933：第 21 条修正案与美国酒类监管的重置
 
 1933 年 12 月 5 日，美国代理国务卿威廉·菲利普斯（William Phillips）认证第 21 条宪法修正案获得足够州批准。这条修正案只有三节，核心一句话是：第 18 条修正案“特此废除”。它结束了近 14 年的全国禁酒令，也让美国酒类监管从“联邦全面禁止”转向“联邦征税、州与地方许可”的复杂体系。禁酒令的废除不是一夜之间的“放开”，而是一场持续数年的政治、财政与制度重组。
@@ -141,3 +142,9 @@ verification_scope: source-verified
 | 历法 | 公历 |
 
 **来源与边界。** 本页关于「禁酒令废除 1933：第 21 条修正案与美国酒类监管的重置」的关键事实，主要由以下来源交叉核对：National Archives Museum（第 21 条修正案 1933 年 2 月 20 日提出、12 月 5 日批准，以及它是唯一由州制宪会议批准的修正案）、U.S. Government Publishing Office（1933 年 12 月 5 日认证、36 个州批准与各州批准日期）、Library of Congress / Constitution Annotated（第 21 条修正案废除第 18 条修正案、结束近 14 年全国禁酒的法律效果）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“百威”页面配图：Budweiser bottle close-up。摄影：Sam，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-drink-usa-budweiser-3e34469f.jpg)
+
+图：Budweiser bottle close-up。摄影：Sam，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Sam，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=20085117)）。关联图像：禁酒令废除 1933：第 21 条修正案与美国酒类监管的重置。

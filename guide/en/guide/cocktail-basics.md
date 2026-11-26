@@ -105,6 +105,10 @@ verification_scope: source-verified
 
 A cocktail can roughly be divided into four layers: base spirit, seasoning, dilution and garnish. The base sets the overall direction; the seasoning balances sweet, sour and bitter; dilution determines the strength and temperature on entry; the garnish supplies aroma and shapes the first impression. If any layer is out of balance, it shows in the first sip.
 
+![A cocktail is another way in editorial card](/media/figures/specific/guide-cocktail-basics.svg)
+
+Figure：A cocktail is another way in, a project-made bilingual editorial card. It identifies the topic; it is not an on-site photograph.
+
 Classic recipes are worth learning first because they set out these four layers fairly clearly. The [Negroni](ref:negroni) is equal parts base spirit, bitter and sweet vermouth; sour-style cocktails often follow a "spirit plus acid plus sugar" ratio. Make the standard ratio once before discussing adjustments; it is easier to find the problem than when you improvise from the start.
 
 ## The base spirit provides the frame

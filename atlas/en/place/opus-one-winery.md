@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:opus-one-winery
 source_lang: zh
-source_revision: sha256:c121665c740a8d41fcebcc8b5eea147bdfd1d17913f3a3f4b9bf6ce544ae1df8
-source_sha256: c121665c740a8d41fcebcc8b5eea147bdfd1d17913f3a3f4b9bf6ce544ae1df8
+source_revision: sha256:1c43bdd39c7ac2550d884080e2c72f054e355d49a753075cecd40cb2598300af
+source_sha256: 1c43bdd39c7ac2550d884080e2c72f054e355d49a753075cecd40cb2598300af
 translation_status: reviewed
 subtype: winery-visitor
 address: 7900 St. Helena Highway, Oakville, CA 94562, USA
@@ -168,3 +168,9 @@ From San Francisco, stay a night in Napa if possible, taste in the morning and s
 Opus One is a case study in how [Napa Valley](ref:napa) and [wine](ref:wine) went international: one wine ties two families and two regions' reputations together. For the 1976 blind tasting that first brought Napa into view, read [The 1976 Judgment of Paris](ref:judgment-of-paris).
 
 Further reading: [United States](ref:c-extra-1), [Robert Mondavi Winery](ref:c-extra-2).
+
+## Related images
+
+![Winning bottles from the 1976 Judgment of Paris, a watershed in how California and French wines were evaluated](/media/photos/historical-event-1976-judgment-of-paris-3833ecec.jpg)
+
+Image: Winning bottles from the 1976 Judgment of Paris, a watershed in how California and French wines were evaluated. Credit: Unknown author Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Judgment_of_Paris_1976_Winners_NMAH-2006-7043.jpg)). Related image for Opus One Winery.

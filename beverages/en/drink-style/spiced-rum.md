@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:spiced-rum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9185925a2b58c0b12fcb73d2dd5a88fabe24dc73f929ebd8e6ef542088caf28a
-source_sha256: 9185925a2b58c0b12fcb73d2dd5a88fabe24dc73f929ebd8e6ef542088caf28a
+source_revision: sha256:36ef7168d9e5369adee29d684ffd4a7514d402dd18b448456cc955671d33fab3
+source_sha256: 36ef7168d9e5369adee29d684ffd4a7514d402dd18b448456cc955671d33fab3
 related:
   - relation: about
     target_id: drink-style:rum
@@ -141,3 +141,9 @@ Categories close to spiced rum share the rum base and flavouring craft: [rum](re
 To learn a flavoured spirit, start with the standard benchmark, then a variant that changes spice or sweetness, then a high-strength extreme; after those three steps the boundary is clearer than from definitions alone.
 
 - Related: [rum](ref:rum), [distillation](ref:distillation), [liqueur](ref:liqueur), [proof-and-abv](ref:proof), [maceration](ref:maceration).
+
+## Related images
+
+![A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.](/media/photos/drink-style-rum-ebd00623.jpg)
+
+Image: A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.. Credit: Pinakpani, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottle_of_Captain_Morgan_Rum_01.jpg)). Related image for Spiced Rum.

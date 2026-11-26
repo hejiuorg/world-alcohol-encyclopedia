@@ -85,6 +85,7 @@ rights:
   note: 第三方法规文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 低地
 
 低地（Lowland）是[苏格兰](ref:scotland)威士忌五个受保护产区之一，范围在苏格兰中南部，通常被描述为邓迪与格里诺克一线以南的广阔地带。它常被贴上“清淡、青草、柑橘”的标签，但这只是统计印象：产区里既有坚持三次蒸馏的老酒厂，也有用自家农场大麦做实验的新酒厂，风格跨度并不小。
@@ -147,3 +148,13 @@ verification_scope: source-verified
 | 国家代码 | GB |
 
 **来源与边界。** 本页关于「低地」的关键事实，主要由以下来源交叉核对：UK Government (legislation.gov.uk)（Lowland 作为受保护区域的法定边界与标签限制）、Scotch Whisky Association（低地的地理描述、风格概述与近年新酒厂增长）、Auchentoshan Distillery（酒厂 1823 年建立与三次蒸馏传统）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![单一麦芽苏格兰威士忌](/media/photos/drink-style-single-malt-scotch-9e96a856.jpg)
+
+图：单一麦芽苏格兰威士忌。图片：Sansvase，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)）。关联图像：低地。
+
+![大麦](/media/photos/ingredient-barley-37a96001.jpg)
+
+图：大麦。图片：Cliff from Arlington, Virginia, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)）。关联图像：低地。

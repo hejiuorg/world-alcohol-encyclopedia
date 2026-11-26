@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:armagnac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:256f5541fd186d0d122c69d79e494f986a9d2acc9532d1e1c3ef03c69c645786
-source_sha256: 256f5541fd186d0d122c69d79e494f986a9d2acc9532d1e1c3ef03c69c645786
+source_revision: sha256:edd5e5952664d880ff3fa48fd10ebbc1f455c1e8122c808a7c448fbf873999b7
+source_sha256: edd5e5952664d880ff3fa48fd10ebbc1f455c1e8122c808a7c448fbf873999b7
 level: other
 parent_id: region:france
 country_code: FR
@@ -73,6 +73,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images. Grade ages follow current regulation and labels.
 verification_scope: source-verified
 ---
+
 # Armagnac
 
 Armagnac is a grape brandy region in Gascony, in south-western France. Unlike Cognac's double pot distillation, Armagnac traditionally uses a continuous still, giving a rougher body and more expansive aroma; single-estate and single-vintage bottlings are also more common than in Cognac.![Armagnac image](/media/photos/region-armagnac-e5e16174.jpg)
@@ -154,3 +155,13 @@ For Armagnac, this region was last checked in 2026; prices, batches and availabi
 - [Brandy](ref:brandy): the wider category of grape and fruit brandies.
 - [Distillation](ref:distillation): how continuous and pot distillation differ.
 - [Oak ageing](ref:oak-ageing): the key stage behind Armagnac colour and flavour.
+
+## Related images
+
+![Brandy](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+Image: Brandy. Credit: Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)). Related image for Armagnac.
+
+![Photograph for France: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.](/media/photos/q2-region-france-338f007d.jpg)
+
+Image: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.. Credit: Mustang Joe, CC0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/63234672@N04/13180177073)). Related image for Armagnac.

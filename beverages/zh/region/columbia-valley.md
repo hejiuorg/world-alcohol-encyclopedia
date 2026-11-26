@@ -88,6 +88,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 哥伦比亚谷
 
 哥伦比亚谷（Columbia Valley）是美国华盛顿州最大的葡萄酒产区，也是美国西北部葡萄酒的地理核心。它覆盖华盛顿州中南部与东南部，并延伸进俄勒冈州北部，以灌溉农业、黄土台地与 Cabernet Sauvignon 闻名。
@@ -170,3 +171,13 @@ AVA 只规定地理来源，不规定产量、品种或酿造方式。酒庄可�
 - [风土](ref:terroir)：雨影、黄土与砾石。
 - [单一品种](ref:single-varietal)：品种标注比例规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![美国类别配图](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+图：美国类别配图。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：哥伦比亚谷。
+
+![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：哥伦比亚谷。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:glenlivet-distillery
 source_lang: zh
-source_revision: sha256:d2d61c90ac8aa66ea96b88889d35ec788872477221a423f36f2adca04221c339
-source_sha256: d2d61c90ac8aa66ea96b88889d35ec788872477221a423f36f2adca04221c339
+source_revision: sha256:6db4dbafc9d1f1b099c526528d78015d241891c06524fa69d7326747e499af84
+source_sha256: 6db4dbafc9d1f1b099c526528d78015d241891c06524fa69d7326747e499af84
 translation_status: reviewed
 subtype: distillery-visitor
 address: The Glenlivet Distillery, Ballindalloch, Banffshire AB37 9DB, Scotland, United Kingdom
@@ -133,3 +133,9 @@ Nearby, Aberlour, Craigellachie and Dufftown continue the trail, while Elgin to 
 Further reading: [Whisky](ref:c-extra-1), [A Ginjinha](ref:c-extra-2).
 
 Read The Glenlivet Distillery through the address, then the current opening status, and finally what the place is known for. The sequence matters.
+
+## Related images
+
+![Whisky](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+Image: Whisky. Credit: Guinnog, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)). Related image for The Glenlivet Distillery.

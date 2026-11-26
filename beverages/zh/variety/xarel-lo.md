@@ -98,6 +98,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 沙雷洛
 
 沙雷洛是西班牙加泰罗尼亚佩内德斯的本土白葡萄，也是卡瓦起泡酒经典三元组合之一；酸度高、骨架清晰，带青苹果、柑橘、白花、茴香与矿物咸鲜，既能支撑长龄卡瓦，也越来越多地酿成有结构的静止白葡萄酒。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 沙雷洛的面积、克隆与亲本研究仍随品种调查更新，正式引用以卡瓦监管机构资料、VIVC 登记与加泰罗尼亚官方品种目录为准。
 
 - 相关条目：[macabeo](ref:macabeo)、[parellada](ref:parellada)、[sparkling-wine](ref:sparkling)、[white-wine](ref:white)、[fermentation](ref:fermentation)。
+
+## 相关图像
+
+![Parellada：Temps de verema Parellada la més tardana. - Flickr - Angela Llop（Wikimedia Commons）](/media/photos/variety-parellada-eb01fa11.jpg)
+
+图：Parellada：Temps de verema Parellada la més tardana. - Flickr - Angela Llop（Wikimedia Commons）。图片：Angela Llop from Spain，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Temps_de_verema_Parellada_la_m%C3%A9s_tardana._-_Flickr_-_Angela_Llop.jpg)）。关联图像：沙雷洛。

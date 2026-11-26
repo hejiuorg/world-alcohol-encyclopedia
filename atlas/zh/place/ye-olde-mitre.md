@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1546
 ---
+
 # 老主教冠酒馆
 
 从哈顿花园的珠宝店之间拐进一条几乎只能侧身通过的小巷，走十几步，城市的车声突然退远，眼前出现一栋木饰面小楼和一块不大的庭院。老主教冠（Ye Olde Mitre）就是这样一个地方：它不在大街上，也不靠显眼的招牌招客，第一次来的人常常走过入口又折返。正因为它藏在 Ely Court 里，这间酒馆保存下来的不只是旧木头，还有一种“城市缝隙里的日常”。
@@ -143,3 +144,9 @@ founded_year: 1546
 本页于 2026-11-21 核对 Ye Olde Mitre 官方页面。常见营业时间为周一至周五 11:00–23:00，周末通常不营业，节假日与包场会改时间；入口在 Ely Court 窄巷内，不建议大队人马同时进入。1546 年是地点上的酒馆起始年，现存木构主体主要是 18 世纪；樱桃树传说官方也只用“传说”叙述，正文已保留限定。本页图片是从 Ely Court 窄巷看老主教冠酒馆的砖砌外观，不是店内；图注已逐张署名，图片许可见来源页。
 
 对照阅读：[认识一座城，从一间酒馆开始](ref:pub-city)、[伦敦经典酒吧步行路线](ref:london-route)。
+
+## 相关图像
+
+![Hampstead Heath 北缘的西班牙人客栈与门前道路；酒馆始于 1585 年，现存主体经过多次改建](/media/photos/place-spaniards-inn-hampstead-288696c1.jpg)
+
+图：Hampstead Heath 北缘的西班牙人客栈与门前道路；酒馆始于 1585 年，现存主体经过多次改建。图片：Ewan-M，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Spaniard%27s_Inn,_Hampstead,_2026-07-11.jpg)）。关联图像：老主教冠酒馆。

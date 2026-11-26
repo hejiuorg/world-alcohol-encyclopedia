@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1585
 ---
+
 # 西班牙人客栈
 
 从 Hampstead Heath 的南侧一路向北，草地、池塘与树林逐渐收窄，最后在一条窄路旁出现一栋白墙、黑窗框的两层建筑。它对面是一座小小的收费亭，路的另一侧就是 Heath 的开阔地。西班牙人客栈（The Spaniards Inn）的位置本身就说明了它的来历：它原本是进入主教地产与收费道路的关口，今天则成了伦敦北部最容易被写进文学轶事的酒馆之一。
@@ -141,3 +142,9 @@ founded_year: 1585
 - [兰姆与旗](ref:lamb-flag)
 
 本页于 2026-11-21 核对 Spaniards Inn 官方页面。常见营业时间为周一 12:00–23:00、周二至周六 10:00–23:00、周日 11:30–22:30，天气与节假日会影响花园开放；从 Hampstead 地铁站穿 Heath 步行约 20 分钟。1585 年是酒馆起始年而非现存建筑年代，Turpin、济慈、拜伦与狄更斯的“常客名单”证据强度不同，正文已逐条限定。本页图片是西班牙人客栈的白色外墙与门前道路，不是客房或餐厅内景；图注已逐张署名，图片许可见来源页。花园是否开放仍要看当天天气。
+
+## 相关图像
+
+![科文特花园玫瑰街的兰姆与旗；1958 年砖立面包着可能为 18 世纪早期的木构，原屋可追溯到 1638 年](/media/photos/place-lamb-and-flag-covent-garden-4fa9fcc7.jpg)
+
+图：科文特花园玫瑰街的兰姆与旗；1958 年砖立面包着可能为 18 世纪早期的木构，原屋可追溯到 1638 年。图片：Tanja Müller，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lamb_and_Flag,_Covent_Garden_2025-02-08.jpg)）。关联图像：西班牙人客栈。

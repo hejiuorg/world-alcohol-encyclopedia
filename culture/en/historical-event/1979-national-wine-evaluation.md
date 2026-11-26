@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:1979-national-wine-evaluation
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c244e22bb7afd929be3144b2822b4b5918f53a0284c0c0ed3c26756967b7e5b1
-source_sha256: c244e22bb7afd929be3144b2822b4b5918f53a0284c0c0ed3c26756967b7e5b1
+source_revision: sha256:f51b4b65e587e2ff2949f1fee9344a31769d265462dc7b389709752990593c2a
+source_sha256: f51b4b65e587e2ff2949f1fee9344a31769d265462dc7b389709752990593c2a
 date_text: "1979"
 year_start: 1979
 year_end: 1979
@@ -108,6 +108,7 @@ rights:
   note: Third-party reports, list compilations and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The 1979 third national wine evaluation: blind judging and aroma groups
 
 In 1979 the third national wine evaluation was held in Dalian, Liaoning. What matters about this meeting is less the list than the method: samples were coded, judges did not know their origin, judging was grouped by aroma type, and assessors had to pass an examination first. Chinese baijiu judging became closer to a controlled comparison.
@@ -174,3 +175,9 @@ It is tempting to treat The as 1979 third national wine evaluation: blind judgin
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The 1979 third national wine evaluation: blind judging and aroma groups are checked against the following sources: Xinhua (Used to check the date, venue and blind-judging method of the third evaluation), China News Service (Used to check changes in the 1979 baijiu list; only short phrases are quoted; Used to check the category composition of the 18 famous wines of 1979; only short phrases are quoted), China Alcoholic Drinks Association (Used to check examiner qualification, aroma grouping and the number of quality wines) and 8 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Zhou Henggang: SZ 深圳 Shenzhen 龍崗 Longgang 松柏路 Songbai Road 橫崗街道 Henggang Streets 銀信榮恒商業廣場 YinXin Rong Heng Shopping Mall CoCo One shop China Jewellery n Zhou Liu Fu October 2025 N13P 09. Credit: HSeqao MLSGA, CC0, via Wikimedia Commons.](/media/photos/q2-person-zhou-henggang-8ef5b384.jpg)
+
+Image: SZ 深圳 Shenzhen 龍崗 Longgang 松柏路 Songbai Road 橫崗街道 Henggang Streets 銀信榮恒商業廣場 YinXin Rong Heng Shopping Mall CoCo One shop China Jewellery n Zhou Liu Fu October 2025 N13P 09. Credit: HSeqao MLSGA, CC0, via Wikimedia Commons.. Credit: HSeqao MLSGA, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=177355500)). Related image for The 1979 third national wine evaluation: blind judging and aroma groups.

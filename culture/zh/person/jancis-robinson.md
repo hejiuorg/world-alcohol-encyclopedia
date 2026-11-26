@@ -78,6 +78,12 @@ sources:
     title: "《The Oxford Companion to Wine》，Jancis Robinson 主编"
     publisher: "Oxford University Press"
     note: 由原条目末尾参考资料迁移，未逐条复核访问日期。
+  - key: adv-jancis-site
+    title: JancisRobinson.com — About and tasting notes
+    url: https://www.jancisrobinson.com/about
+    publisher: JancisRobinson.com
+    note: 用于核对作者身份、出版物与评论范围；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -149,6 +155,28 @@ verification_scope: source-verified
 第五，把英国视角当成全球视角。她的写作带有英国媒体与欧洲葡萄酒传统的语境，这一点在读其他产区时必须补上。
 
 相关条目：[英国](ref:uk)。
+
+
+## 进阶判断
+
+![红白葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：红白葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。
+
+| 角色 | 主要产出 | 对行业的影响 |
+| --- | --- | --- |
+| 记者 | 独立评论与专栏 | 提高品鉴透明度 |
+| 主编 | 《牛津葡萄酒指南》 | 整合产区与品种知识 |
+| 地图作者 | 《世界葡萄酒地图》 | 建立产区视觉语言 |
+| 教育者 | 葡萄酒大师课程 | 训练专业判断 |
+
+**Jancis Robinson 是酿酒师吗？** 她主要以葡萄酒作家、评论家与编辑身份工作，不是以酿酒师身份成名。她的影响力来自长期独立评论、编辑与教育，而不是拥有酒庄。
+
+**葡萄酒大师（MW）是什么？** MW 是葡萄酒行业的专业资格，考试覆盖理论、品鉴与实务。它证明系统训练与判断能力，不等于对每一瓶酒都有唯一正确答案。
+
+**她与 Pavie 的争议说明什么？** 说明独立评论会与商业利益、风格偏好冲突。争议本身不是丑闻，关键是有没有披露关系、保留品鉴记录并允许反驳。
+
+延伸阅读：[世界葡萄酒地图](ref:world-atlas)、[葡萄酒](ref:wine)。
 
 ## 另见
 

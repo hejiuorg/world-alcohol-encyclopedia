@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:madeira-wine-route
 source_lang: zh
-source_revision: sha256:9bdddfd315e9ec098abd81cf5d897e82a27afae226c6f30420e88c38dd75d846
-source_sha256: 9bdddfd315e9ec098abd81cf5d897e82a27afae226c6f30420e88c38dd75d846
+source_revision: sha256:1d4cc988d81354aa50c16b29bf3ae4c8b962b3d57f1db74ed9bc7fc1478060bb
+source_sha256: 1d4cc988d81354aa50c16b29bf3ae4c8b962b3d57f1db74ed9bc7fc1478060bb
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -92,6 +92,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # Madeira wine route: two faces of the wine trade in central Funchal
 
 Both stops sit in central Funchal, ten minutes apart on foot: Blandy's Wine Lodge at Avenida Arriaga 28 and Henriques & Henriques at Rua de Ferraz 28. One turned a 17th-century convent into a visitor cellar, using tours to tell a family story from 1811 and the canteiro lofts; the other, founded in 1850, still owns the Quinta Grande vineyard and speaks about control of fruit and ageing. Together they make "why does Madeira last?" a question about process, not an impression of sweet wine.
@@ -170,3 +171,13 @@ Madeira wine route is best read by starting with the order of stops, moving to t
 | Stops | 2 |
 | Transport | walk |
 | Stop order | Blandy's Wine Lodge、Henriques & Henriques |
+
+## Related images
+
+![Category image for Portugal](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+Image: Category image for Portugal. Credit: John Hayes from San Antonio, Texas, USA, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=151531010)). Related image for Madeira wine route: two faces of the wine trade in central Funchal.
+
+![A bottle of Barbeito Verdelho 10-year-old Madeira and a glass of amber wine.](/media/photos/drink-style-madeira-wine-3d5661cf.jpg)
+
+Image: A bottle of Barbeito Verdelho 10-year-old Madeira and a glass of amber wine.. Credit: Origenes.Adamantius, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Madeira_Barbeito_Verdelho_Old_Reserva_-_Bottle_Glass.jpg)). Related image for Madeira wine route: two faces of the wine trade in central Funchal.

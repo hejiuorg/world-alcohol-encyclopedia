@@ -73,6 +73,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 格兰菲迪蒸馏厂
 
 达夫镇（Dufftown）在斯佩塞常被叫作“麦芽威士忌之都”，镇子周围的山谷里散落着多家酒厂。格兰菲迪在镇北的 Fiddich 河谷，入口是一段不算起眼的车道，进去之后才看到游客中心、厂房与远处的山坡。它不算斯佩塞最古老的酒厂，却是把“单一麦芽”从调酒原料变成独立品牌的推手之一；理解这一点，参观才不会只剩拍照与买酒。
@@ -124,3 +125,9 @@ verification_scope: source-verified
 ## 另见
 
 格兰菲迪是[斯佩塞](ref:speyside)产区最容易进入的入口之一；想理解单一麦芽与调和酒的关系，可先读[苏格兰威士忌](ref:scotch)与[威士忌入门](ref:whisky-intro)。
+
+## 相关图像
+
+![艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+图：艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量。图片：Rosser1954 Roger Griffith，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)）。关联图像：格兰菲迪蒸馏厂。

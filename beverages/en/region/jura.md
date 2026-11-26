@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:jura
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6118a4649f83e90cad55cfeae555251cff74c8d9c3d07d5e5b1d8533da93356c
-source_sha256: 6118a4649f83e90cad55cfeae555251cff74c8d9c3d07d5e5b1d8533da93356c
+source_revision: sha256:e6afee08aa7b989429562857d5876e7b0d8abc3fa54e68f43e0918ff71562253
+source_sha256: e6afee08aa7b989429562857d5876e7b0d8abc3fa54e68f43e0918ff71562253
 level: other
 parent_id: region:france
 country_code: FR
@@ -93,6 +93,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Jura
 
 Jura is a narrow wine region in eastern France, squeezed between Burgundy and the Swiss border. It is best remembered for vin jaune: a white wine made from Savagnin, aged in old oak barrels without topping up or racking, under a film of yeast, for more than six years. But Jura is not only vin jaune. Light-coloured reds from Poulsard and Trousseau, "non-oxidative" whites from Chardonnay and Savagnin, vin de paille and sparkling wine together make a region with very specific varieties and rules.![Jura photograph](/media/photos/q2-region-jura-de526709.jpg)
@@ -165,3 +166,13 @@ Jura's wines include vin jaune, made from Savagnin and aged under a yeast layer,
 - [White wine](ref:white-wine) and [red wine](ref:red-wine): the two basic categories of Jura.
 - [Vin jaune](ref:yellow-wine): the region's most distinctive oxidative white style.
 - [Chardonnay](ref:chardonnay) and [Pinot Noir](ref:pinot-noir): the international varieties used in Jura.
+
+## Related images
+
+![Photograph for France: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.](/media/photos/q2-region-france-338f007d.jpg)
+
+Image: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.. Credit: Mustang Joe, CC0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/63234672@N04/13180177073)). Related image for Jura.
+
+![Photograph for Burgundy: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+Image: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=65061583)). Related image for Jura.

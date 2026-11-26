@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:gulin-langjiu
 source_lang: zh
-source_revision: sha256:5f30e2891f05ce44db21ee49e4a768a235eb311cf90e5b781cf90a0ad6a03716
-source_sha256: 5f30e2891f05ce44db21ee49e4a768a235eb311cf90e5b781cf90a0ad6a03716
+source_revision: sha256:f25a595b07c47d4b2c37f7945e643e81676fa4fa4e6f7efa86c7d89c3eb5b7ad
+source_sha256: f25a595b07c47d4b2c37f7945e643e81676fa4fa4e6f7efa86c7d89c3eb5b7ad
 translation_status: reviewed
 stop_ids:
   - place_id: place:langjiu-estate
@@ -153,3 +153,13 @@ Alternative: see Erlang town and the Chishui valley without entering the estate,
 - GB/T 2260-2007 Administrative division codes of the People’s Republic of China (Standardization Administration of China, checked 2026-11-25)
 
 Related entries: [Langjiu Estate (Erlang Town)](ref:estate), [Erlang Town (Gulin)](ref:town), [Langjiu](ref:brand), [sauce-aroma baijiu](ref:style), [Guizhou](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Category image for Langjiu](/media/photos/drink-style-light-aroma-baijiu-1c3af236.jpg)
+
+Image: Category image for Langjiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Gulin Erlang Route: Langjiu Estate and the Chishui Valley.
+
+![Sauce-aroma baijiu](/media/photos/drink-style-sauce-aroma-baijiu-1c3af236.jpg)
+
+Image: Sauce-aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Gulin Erlang Route: Langjiu Estate and the Chishui Valley.

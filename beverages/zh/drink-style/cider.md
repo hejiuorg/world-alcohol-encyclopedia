@@ -77,6 +77,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 苹果酒
 
 苹果酒（cider）是以[苹果](ref:apple)汁发酵而成的酒精饮料。它的原料简单，风格跨度却很大：从英国西部带单宁、略带泥土感的干型苹果酒，到法国诺曼底带甜味与气泡的乡村苹果酒，再到加拿大魁北克浓缩苹果汁发酵的冰苹果酒，都可以归入同一大类。它和[啤酒](ref:beer)、[葡萄酒](ref:wine)一样属于发酵酒，但原料与发酵逻辑不同。
@@ -146,3 +147,9 @@ verification_scope: source-verified
 苹果酒也可以用于调酒，但它的酸度与气泡会改变配方平衡。作为日常饮品，应注意酒精度与饮用量；未成年人不应饮酒。
 
 相关条目：[啤酒](ref:beer)。
+
+## 相关图像
+
+![一个鲜食红苹果。酿酒用苹果通常更小、更酸或更涩，与鲜食苹果的育种目标不同。](/media/photos/ingredient-apple-9b1f2b38.jpg)
+
+图：一个鲜食红苹果。酿酒用苹果通常更小、更酸或更涩，与鲜食苹果的育种目标不同。。图片：Abhijit Tembhekar，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_Apple.jpg)）。关联图像：苹果酒。

@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1772
 ---
+
 # 兰姆与旗
 
 科文特花园的玫瑰街（Rose Street）并不宽，兰姆与旗（The Lamb & Flag）的门面就夹在几条小巷之间。它没有大橱窗，也没有把历史写成广告牌；第一次来的人往往从 Lazenby Court 或 Rose Street 绕到门口，才发现这间看起来不大的酒馆，背后连着科文特花园最粗粝的一段过去：赤手拳赛、文学恩怨、市场搬运工与剧院演员，都曾在这几条街里进出。
@@ -143,3 +144,9 @@ founded_year: 1772
 本页于 2026-11-21 核对 Lamb & Flag 官方页面。酒馆周一至周六 12:00–23:00、周日 12:00–22:30，节假日会调整；楼上餐厅建议订位，地面层只喝饮料通常可直接进。1623 年“伦敦最老”的说法与 1772 年首次记载、1958 年立面之间的差异，正文已保留限定；“血桶”是 19 世纪拳赛绰号，不是今天的治安描述。本页图片是兰姆与旗酒馆的玫瑰街门面，不是店内或菜品；图注已逐张署名，图片许可见来源页。订位与菜单以官网当日信息为准。
 
 对照阅读：[认识一座城，从一间酒馆开始](ref:pub-city)、[伦敦经典酒吧步行路线](ref:london-route)。
+
+## 相关图像
+
+![从 Ely Court 窄巷看老主教冠酒馆的临街外观；酒馆 1546 年已有记载，现存建筑主体为 18 世纪，照片不是 1546 年原物。](/media/photos/place-ye-olde-mitre-f7b2f11e.jpg)
+
+图：从 Ely Court 窄巷看老主教冠酒馆的临街外观；酒馆 1546 年已有记载，现存建筑主体为 18 世纪，照片不是 1546 年原物。。图片：Ewan Munro from London, UK，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ye_Olde_Mitre,_Hatton_Garden,_EC1_(4140007697).jpg)）。关联图像：兰姆与旗。

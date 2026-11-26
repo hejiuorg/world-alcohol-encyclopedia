@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:mount-gay-distillery
 source_lang: zh
-source_revision: sha256:fdf3edc7eff78a9f9ffc2551997f1043dc9bb3e4c6fc60ecd1f3c0a30057d5c7
-source_sha256: fdf3edc7eff78a9f9ffc2551997f1043dc9bb3e4c6fc60ecd1f3c0a30057d5c7
+source_revision: sha256:2ecddbd13118902e9b39aeb1f062356a042f5e3fbb09583535acd8d230d8d782
+source_sha256: 2ecddbd13118902e9b39aeb1f062356a042f5e3fbb09583535acd8d230d8d782
 translation_status: reviewed
 subtype: distillery-visitor
 address: Mount Gay Distillery, Mount Gay, Saint Lucy, Barbados
@@ -150,3 +150,9 @@ The rules are stricter than at the southern visitor centre: all guests must be 1
 The northern distillery can be combined with St Nicholas Abbey on the east coast and [Foursquare Rum Distillery](ref:foursquare-rum-distillery) in the south-east, but the three are far apart and public transport is limited, so hire a car and driver. For a light tasting, stay at the southern visitor centre; for working equipment and warehouses, the northern site is irreplaceable. Always appoint a driver who is not drinking; spitting is normal at tastings, and Barbados has clear drink-drive limits.
 
 Set Mount Gay beside Foursquare and two versions of Barbados appear: one tells continuity through an old estate, an old well and double distillation, the other tells modernity through a converted sugar factory, open-house visits and a "no additives" stance. Read both, then return to the [rum](ref:rum) and [Barbados](ref:barbados) pages, and the route becomes more than a checklist.
+
+## Related images
+
+![The barrel warehouse at Foursquare Rum Distillery, where tropical ageing and cask type shape rum style](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+Image: The barrel warehouse at Foursquare Rum Distillery, where tropical ageing and cask type shape rum style. Credit: Unknown author Unknown author, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)). Related image for Mount Gay Distillery.

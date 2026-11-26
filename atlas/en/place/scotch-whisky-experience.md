@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:scotch-whisky-experience
 source_lang: zh
-source_revision: sha256:321e6655faad1b5d41dfcade08c83668ef518871a51c3f35d2da688177382fd3
-source_sha256: 321e6655faad1b5d41dfcade08c83668ef518871a51c3f35d2da688177382fd3
+source_revision: sha256:c6d16ab5fd81c60e9621909fad0538054c50a18d2a45fcc028bd981c8035edb5
+source_sha256: c6d16ab5fd81c60e9621909fad0538054c50a18d2a45fcc028bd981c8035edb5
 translation_status: reviewed
 subtype: museum
 address: 354 Castlehill, Edinburgh EH1 2NE, Scotland
@@ -92,6 +92,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, prices and exhibits change, so check official channels.
 verification_scope: source-verified
 ---
+
 # The Scotch Whisky Experience
 
 The Scotch Whisky Experience sits at the top of Edinburgh's Royal Mile, directly beside Edinburgh Castle, at 354 Castlehill. Visitors often file it under "things to do in Edinburgh", but it is better understood as a permanent exhibition about Scotch whisky. There is no mash tun and no working still; instead, interactive displays, guided tours and tastings connect regions, process, regulation and bottles into one narrative. When it opened in 1988 it was financed by 19 Scotch whisky companies, and that origin explains its stance: not a showroom for one brand, but a window on the whole industry.
@@ -149,3 +150,9 @@ On a route, the centre pairs well with Edinburgh Castle, Camera Obscura, the Gra
 | Official site | scotchwhiskyexperience.co.uk |
 
 **Sources and limits.** The key claims about The Scotch Whisky Experience are checked against the following sources: The Scotch Whisky Experience (Used to check the Castlehill address, daily opening hours, tour formats and prices; Used to check tour, restaurant and shop hours and ticket prices). For current products, addresses or opening status, use scotchwhiskyexperience.co.uk. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Speyside](/media/photos/place-glenfiddich-distillery-d6ab0496.jpg)
+
+Image: Category image for Speyside. Credit: Coldupnorth, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenfiddich_Distillery_View.jpg)). Related image for The Scotch Whisky Experience.

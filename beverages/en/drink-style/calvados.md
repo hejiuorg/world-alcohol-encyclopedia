@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:calvados
 source_lang: zh
-source_revision: sha256:e87150e7d05eefaa540dc590a85c51bf09350f7eb6e479e90599383ab3565bae
-source_sha256: e87150e7d05eefaa540dc590a85c51bf09350f7eb6e479e90599383ab3565bae
+source_revision: sha256:d9e287dc8fa93eedac02eda21b4ae1b547f816e0e07a4b6d35f9a2594fd92a7a
+source_sha256: d9e287dc8fa93eedac02eda21b4ae1b547f816e0e07a4b6d35f9a2594fd92a7a
 translation_status: reviewed
 legacy_refs: []
 parent_style_id: drink-style:brandy
@@ -82,6 +82,7 @@ rights:
   note: The lead image is a photograph of Daron Calvados XO from Wikimedia Commons, used under CC BY-SA 3.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Calvados
 
 Calvados is a Norman [brandy](ref:brandy) distilled from cider, perry or a blend of the two. Its boundary is clear: the fruit must come from Norman orchards, it must first be fermented into an alcoholic cider, and that cider must then be distilled. It is neither a fortified cider nor an apple-flavoured brandy that anyone may make; the name is reserved for spirit produced in the defined area under appellation rules.
@@ -143,3 +144,9 @@ In cocktails, Calvados supplies apple and pear fruit while keeping the backbone 
 | Aroma family | fruit/floral/oak |
 
 **Sources and limits.** The key claims about Calvados are checked against the following sources: Calvados France (the names, areas, raw materials and distillation methods of the three AOCs), INAO (the official framework of French appellation control), European Union (the boundaries between marc, fruit spirits and geographical-indication spirits) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Cognac](/media/photos/drink-style-cognac-b2c89cad.jpg)
+
+Image: Cognac. Credit: Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)). Related image for Calvados.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:satsuma-shochu-meijigura
 source_lang: zh
-source_revision: sha256:e796651983a542e609d5d0571141265c6215d45b856ae1d29750027c15d8618c
-source_sha256: e796651983a542e609d5d0571141265c6215d45b856ae1d29750027c15d8618c
+source_revision: sha256:da07cea69e8a4f641e2504fbeca51460f29eb3ba9aecb126286f63bc4dbf54df
+source_sha256: da07cea69e8a4f641e2504fbeca51460f29eb3ba9aecb126286f63bc4dbf54df
 translation_status: reviewed
 subtype: distillery-visitor
 address: 鹿児島県枕崎市立神本町26
@@ -152,3 +152,9 @@ To combine a brewery visit with the producing landscape, put Makurazaki harbour,
 - [The kingdom of shochu](https://www.kagoshima-kankou.com/gourmet/shochu/siru), Kagoshima Prefectural Visitors Bureau, checked for Kagoshima shochu culture and production background.
 
 Page verified on 2026-11-09; hours, visit arrangements and product information are subject to official channels.
+
+## Related images
+
+![Rice](/media/photos/ingredient-rice-0ee2019c.jpg)
+
+Image: Rice. Credit: China News Service, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg)). Related image for Satsuma Shochu Meijigura.

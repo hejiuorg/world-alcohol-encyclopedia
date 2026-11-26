@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:fushimi
 source_lang: zh
-source_revision: sha256:cb8831fcd58df895df267d5692d69d97c30d3fc49be28523352c5dd80a0a2624
-source_sha256: cb8831fcd58df895df267d5692d69d97c30d3fc49be28523352c5dd80a0a2624
+source_revision: sha256:876af7e767e1b19ec062ad6339c7d9e1953b076e369a7b19d5b610a56c4bba5b
+source_sha256: 876af7e767e1b19ec062ad6339c7d9e1953b076e369a7b19d5b610a56c4bba5b
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -178,3 +178,13 @@ Fifth, "Fushimi" is not a quality grade. The place name explains origin and hist
 - Gekkeikan, "The History of Ginjo": https://www.gekkeikan.co.jp/enjoy/sake/industry/industry04.html
 - Gekkeikan Okura Sake Museum, "The Surrounding Landscape": https://www.gekkeikan.co.jp/enjoy/museum/fushimi/sightseeing/
 - Kizakura, "Kizakura Memorial Hall and Kappa Gallery": https://kizakura.co.jp/restaurant/country/memorial/index.html
+
+## Related images
+
+![Related photograph of Ginjo sake](/media/photos/drink-style-ginjo-sake-4e3c0fe6.jpg)
+
+Image: Related photograph of Ginjo sake. Credit: halfrain, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8_(Junmai_Ginjo)_(15656231855).jpg)). Related image for Fushimi.
+
+![Editorial illustration of kimoto and yamahai starter mash: rice koji and steam in a wooden vat, turned with a bamboo rake; AI-assisted, not a photograph.](/media/photos/editorial-kimoto-yamahai-q2.jpg)
+
+Image: Editorial illustration of kimoto and yamahai starter mash: rice koji and steam in a wooden vat, turned with a bamboo rake; AI-assisted, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Fushimi.

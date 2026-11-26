@@ -88,6 +88,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、参观产品与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 比索尔酒庄
 
 比索尔（Bisol1542）在瓦尔多比亚德内的圣斯特凡诺，地址是 Via Follo 33。它把“家族”写成品牌核心：官方叙述称家族在普罗塞克核心地带的活动可追溯到 16 世纪，并以 1542 年作为 Bisol1542 的起点；同一片坡地上，家族已经延续了二十多代。2014 年，酒庄加入 Lunelli 集团，但历史酒窖、葡萄园与品牌仍以比索尔的名字运转。对访客来说，这里既是酒庄，也是理解“陡坡普罗塞克”为什么贵的入口。
@@ -157,3 +158,9 @@ verification_scope: source-verified
 - [Prosecco.it — DOCG](https://www.prosecco.it/en/conegliano-valdobbiadene-prosecco-superiore-docg/)：1969 年 DOC、2009 年 DOCG 与质检标签。
 
 补充阅读：[威尼托](ref:c-extra-1)、[起泡酒](ref:c-extra-2)、[原产地命名（appellation）](ref:c-extra-3)。
+
+## 相关图像
+
+![“威尼托”页面配图：Vineyard, San Giorgio di Valpolicella, Veneto, Italy。摄影：Unknown photographer，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-veneto-011f6328.jpg)
+
+图：Vineyard, San Giorgio di Valpolicella, Veneto, Italy。摄影：Unknown photographer，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Unknown photographer，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=354325)）。关联图像：比索尔酒庄。

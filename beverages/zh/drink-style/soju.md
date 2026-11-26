@@ -60,6 +60,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 烧酒
 
 烧酒（soju）是朝鲜半岛的传统酒类，今天既指传承蒸馏工艺的地方烧酒，也指占据大众市场的稀释型烧酒。两者共用同一个名称，却在原料、工艺、风味与价格上差别很大。理解烧酒，先要分清这两种产品，再谈品牌与喝法。
@@ -126,3 +127,9 @@ verification_scope: source-verified
 - [白酒](ref:baijiu)：中国谷物蒸馏酒，可与蒸馏型烧酒对照。
 - [清酒](ref:sake)：日本发酵米酒，与烧酒属于不同酒类。
 - [酒精度](ref:abv)：理解烧酒标签上 ABV 标注的基础概念。
+
+## 相关图像
+
+![清酒](/media/photos/drink-style-sake-c84f8e77.jpg)
+
+图：清酒。图片：Intforce，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Overflowing_sake_glass_in_masu.jpg)）。关联图像：烧酒。

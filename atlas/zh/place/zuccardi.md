@@ -88,6 +88,7 @@ rights:
   note: 第三方商标、酒标、菜单、图片与引用文本不在本许可内；迈普基地是否接待访客未获官网确认，营业状态因此标为 unknown，不提供 verified_at；参观与餐厅规则以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 苏卡尔迪酒庄
 
 苏卡尔迪是门多萨最常见的姓氏之一，也是一个把“家族企业”做成多品牌体系的样本。它 1963 年创立，商业档案地址在迈普的 Ruta Provincial 33, Km 7,5，Santa Julia 产品线就从这里生长出来；而今天官网重点展示的参观与餐厅，却在 Uco Valley 的 Paraje Altamira。理解这个酒庄，必须把“家族基地”和“当前接待中心”分开看，否则很容易把两个地方混成一张地图上的同一个点。
@@ -153,3 +154,9 @@ Uco Valley 的 Zuccardi Valle de Uco 位于 Paraje Altamira，酒庄建筑与 Fi
 ## 参考资料
 
 本页依据苏卡尔迪官方旅游页与官网入口、阿根廷国家旅游推广机构的苏卡尔迪页面、Wines of Argentina 的家族档案以及其整理的 INV 数据核验，页面核验日期 2026-11-09。迈普基地的营业状态未能由官网确认，标为 unknown；Uco 的参观与餐厅规则以官方渠道为准。
+
+## 相关图像
+
+![卡氏家族酒庄](/media/photos/place-catena-zapata-2526204a.jpg)
+
+图：卡氏家族酒庄。图片：ArgentinaWineTourism…，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:ALTURA_Argentina_Wine_Tourism_-_Bodega_Catena_Zapata_-_panoramio.jpg)）。关联图像：苏卡尔迪酒庄。

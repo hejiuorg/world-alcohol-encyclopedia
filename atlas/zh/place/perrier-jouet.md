@@ -105,6 +105,7 @@ verified_at: 2026-11-08
 founded_year: 1811
 verification_scope: source-verified
 ---
+
 # 巴黎之花
 
 巴黎之花（Perrier-Jouët）在埃佩尔奈的香槟大道，访客常去的两个地址是 26 Avenue de Champagne 的 Cellier Belle Epoque 与 11 Avenue de Champagne 的 Maison Belle Epoque。前者是餐厅、香槟酒吧与精品店，后者是创始家族旧宅，今天用于艺术收藏与高级餐饮体验。它不是一座以“地下酒窖参观”为主的酒庄：官方明确说明部分品鉴体验不含酒窖导览，参访的重点是霞多丽、艺术新风格（Art Nouveau）与餐桌体验。
@@ -160,3 +161,9 @@ Cellier Belle Epoque 在 26 Avenue de Champagne，空间更接近“全日餐厅
 - [酩悦香槟](ref:moet-et-chandon)：同一座城市里的另一种香槟参观。
 - [保乐力加](ref:pernod-ricard)：巴黎之花所属的集团背景。
 - [葡萄酒与绘画](ref:wine-and-painting)：酒标、艺术与消费文化的关系。
+
+## 相关图像
+
+![兰斯山特雷派伊的葡萄园，香槟区白垩土与坡向的典型景观](/media/photos/region-champagne-712da84c.jpg)
+
+图：兰斯山特雷派伊的葡萄园，香槟区白垩土与坡向的典型景观。图片：Havang(nl)，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tr%C3%A9pail,_vignes_au_pied_de_la_Montagne_de_Reims.JPG)）。关联图像：巴黎之花。

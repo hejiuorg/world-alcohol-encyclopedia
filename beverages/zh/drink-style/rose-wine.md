@@ -86,6 +86,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 桃红葡萄酒
 
 桃红葡萄酒是[葡萄酒](ref:wine)的一种，用红葡萄品种酿成，但果汁与果皮的接触时间很短，只提取少量颜色与单宁。它既不是“红葡萄酒兑白葡萄酒”的简单产物，也不是一个甜度等级；颜色深浅、香气和口感取决于品种、[浸渍](ref:maceration)方式、发酵温度与是否保留[残糖](ref:residual-sugar)。
@@ -155,3 +156,9 @@ OIV 对静止葡萄酒的糖分等级给出可核查的阈值：干型最高为 
 开瓶后应冷藏并尽快饮用，尤其是低酒精度、低单宁的风格；接触空气后香气会迅速衰减。
 
 对照阅读：[葡萄酒](ref:wine)、[白葡萄酒](ref:white-wine)。
+
+## 相关图像
+
+![苹果酸-乳酸发酵](/media/photos/process-malolactic-fermentation-2d4ece59.jpg)
+
+图：苹果酸-乳酸发酵。图片：Agne27，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Malolactic_spotting.JPG)）。关联图像：桃红葡萄酒。

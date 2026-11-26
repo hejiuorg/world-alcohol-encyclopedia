@@ -39,8 +39,8 @@ tags:
 translation_of: place:chateau-montelena
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bc072ad6f3889c2017d0a4dc17a5bb76bdd22b723347ebfb27a9fd799ed6946f
-source_sha256: bc072ad6f3889c2017d0a4dc17a5bb76bdd22b723347ebfb27a9fd799ed6946f
+source_revision: sha256:da8272177cc18d94571eb3b01e4983f6afe1e28e64ec73f8265382ae63e7e837
+source_sha256: da8272177cc18d94571eb3b01e4983f6afe1e28e64ec73f8265382ae63e7e837
 related:
   - relation: about
     target_id: region:napa-valley
@@ -95,6 +95,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; hours and tasting policies should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Chateau Montelena
 
 Calistoga sits at Napa’s northern end, below Mount St. Helena, where evening fog clears earlier than on the valley floor. Tubbs Lane runs west from town to a grey stone “chateau” with a lawn and pond in front and vineyards behind. Montelena feels less like a winery than a nineteenth-century country estate: stone walls, a tower, arches and clipped trees. Its fame also comes from the 1976 Judgment of Paris, but in the white category: the 1973 Chardonnay placed first. Together with Stag’s Leap’s red wine result, these two outcomes turned Napa from an emerging region into a name on the world wine map.
@@ -154,3 +155,9 @@ Read Chateau Montelena through the address, then the current opening status, and
 | Official site | montelena.com |
 
 **Sources and limits.** The key claims about Chateau Montelena are checked against the following sources: Chateau Montelena Winery (the winery Chardonnay's vinification, French-oak ageing and style description; the Estate Cabernet blend proportions, 20 months in French oak, 28% new oak and ageing style). For current products, addresses or opening status, use montelena.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for United States](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+Image: Category image for United States. Credit: Luke, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)). Related image for Chateau Montelena.

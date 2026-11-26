@@ -84,6 +84,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、价格与菜单会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # Café Pushkin
 
 在莫斯科特维尔林荫道的起点附近，一栋浅色巴洛克式宅邸的窗前常停着车。推门进去，先看到的是深色木柜、成排旧书、黄铜仪器与穿着制服的侍者；再往里，才是餐桌与烛台。这里看起来像一座十九世纪贵族宅第，但它并不是从普希金时代营业至今的老店——它生于 1999 年，是一个把文学想象做成空间的现代餐厅。
@@ -162,3 +163,9 @@ Café Pushkin 的节奏更像“坐下来吃一顿”，而不是“喝一杯就
 - 跨城对照：[Café de la Paix](ref:paix)、[La Coupole](ref:coupole)、[Brasserie Lipp](ref:lipp)、[Café Central](ref:central)、[New York Café](ref:newyork)。
 
 对照阅读：[和平咖啡馆](ref:paix)、[利普啤酒馆](ref:lipp)。
+
+## 相关图像
+
+![Café de la Paix 面向 Opéra Garnier 的日间立面与遮阳篷，5 Place de l'Opéra](/media/photos/place-cafe-de-la-paix-7cafc69d.jpg)
+
+图：Café de la Paix 面向 Opéra Garnier 的日间立面与遮阳篷，5 Place de l'Opéra。图片：Arthur Weidmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_la_Paix_1.jpg)）。关联图像：Café Pushkin。

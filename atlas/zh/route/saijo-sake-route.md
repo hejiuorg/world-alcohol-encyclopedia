@@ -84,6 +84,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-09
 ---
+
 # 广岛西条酒藏路线
 
 广岛西条酒藏路线不是一条跨县的长途公路线，而是一段可以用脚走完的街区路线：从贺茂鹤的一号藏出发，沿酒藏通走到贺茂泉的延寿藏，两站都在 JR 西条站步行圈内。它成立的理由不是“景点多”，而是七家酒造公司在约 1.5 公里范围内并排设厂，形成罕见的产业聚落；走一趟，能同时看到仍在出酒的厂房、供参观的旧藏与周末营业的试饮窗口。
@@ -165,3 +166,13 @@ updated_at: 2026-11-09
 - [日本酒の分類](https://japansake.or.jp/sake/about-sake/classification-of-sake/)，日本酒造组合中央会，核验吟酿与纯米吟酿标签规则。
 
 页面核验日期 2026-11-09；开放时间、见学安排与活动日期以官方渠道为准。
+
+## 相关图像
+
+![生酛与山废酒母的编辑插图：木桶中的米麹与蒸汽、竹耙翻拌；画面为 AI 辅助绘制，不是酒厂实拍。](/media/photos/editorial-kimoto-yamahai-q2.jpg)
+
+图：生酛与山废酒母的编辑插图：木桶中的米麹与蒸汽、竹耙翻拌；画面为 AI 辅助绘制，不是酒厂实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：广岛西条酒藏路线。
+
+![贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。](/media/photos/place-kamoizumi-1a83eed9.jpg)
+
+图：贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。。图片：Lumi iori，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamoizumi_shuzou.jpg)）。关联图像：广岛西条酒藏路线。

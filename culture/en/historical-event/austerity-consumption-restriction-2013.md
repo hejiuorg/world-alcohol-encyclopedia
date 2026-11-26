@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:austerity-consumption-restriction-2013
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:67f68c91a94082d26a643567b958d7eb85fa3cbe31226d212b5f4708b98cf9fa
-source_sha256: 67f68c91a94082d26a643567b958d7eb85fa3cbe31226d212b5f4708b98cf9fa
+source_revision: sha256:0014261231184b303cf1be17504205bcbdeabb5fc6b3bef608910a49f85575c2
+source_sha256: 0014261231184b303cf1be17504205bcbdeabb5fc6b3bef608910a49f85575c2
 date_text: From 2013
 year_start: 2013
 year_end: 2013
@@ -104,6 +104,7 @@ rights:
   note: Third-party reports, statistical material and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The 2013 restrictions on official consumption and the baijiu adjustment
 
 On 4 December 2012 the Political Bureau of the 18th Central Committee approved the eight-point rules on improving work style and maintaining close ties with the masses; the document was issued on 11 December. In 2013 a series of detailed rules on official spending, official receptions and government buildings followed, and official banquets and the official use of alcohol contracted quickly. Premium baijiu, long dependent on government and business occasions, was hit first, and the industry moved from its "golden decade" into an adjustment period.
@@ -164,3 +165,9 @@ The usual confusion is to treat The 2013 restrictions on official consumption an
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The 2013 restrictions on official consumption and the baijiu adjustment are checked against the following sources: gov.cn (Used to check the release date of the eight-point rules and their requirements on official receptions; Used to check that the regulations were approved on 29 October 2013 and published in November), Xinhua (Used to check the management of official spending and the contraction of official consumption in 2013), China Alcoholic Drinks Association (Used to check baijiu output, sales and price changes in 2013) and 10 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for The 2012 baijiu plasticiser incident](/media/photos/place-xianheng-hotel-329475b5.jpg)
+
+Image: Category image for The 2012 baijiu plasticiser incident. Credit: Jiong Sheng, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)). Related image for The 2013 restrictions on official consumption and the baijiu adjustment.

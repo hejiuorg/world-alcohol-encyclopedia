@@ -25,8 +25,8 @@ tags:
 translation_of: region:macon
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:831299691111e076a47ea85a059702cb658c4c41f9050c5c7f09ccc38f7f6cd3
-source_sha256: 831299691111e076a47ea85a059702cb658c4c41f9050c5c7f09ccc38f7f6cd3
+source_revision: sha256:a5a1711657cc13323ad4c85b748be04f2941811f2aa7026b89ebec5f86e61377
+source_sha256: a5a1711657cc13323ad4c85b748be04f2941811f2aa7026b89ebec5f86e61377
 related:
   - relation: about
     target_id: region:burgundy
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Mâconnais
 
 The Mâconnais is southern Burgundy’s white-wine region, spread over the hills west of the Saône. Chardonnay dominates across the Mâcon, Pouilly-Fuissé, Saint-Véran and Viré-Clessé appellations; limestone slopes, a cooperative tradition and relatively generous output make it one of the easiest entry points to Burgundy white.![Mâconnais](/media/photos/region-macon-7ea4592a.jpg)
@@ -151,3 +152,13 @@ Spring and autumn are the best seasons for the slopes and blossom; harvest, in S
 - The Mâconnais sits close to Beaujolais and the Charolais; check current opening hours and booking options on BIVB or estate websites before travelling.
 
 **At a glance:** The southern Burgundy white-wine region, dominated by Chardonnay and covering Mâcon, Pouilly-Fuissé, Saint-Véran and Viré-Clessé; limestone and clay slopes, a cooperative tradition and higher volumes make it one of the most accessible entry points to Burgundy white.
+
+## Related images
+
+![Pinot Noir](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+Image: Pinot Noir. Credit: Cjp24, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)). Related image for Mâconnais.
+
+![Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.](/media/photos/editorial-oak-ageing-q2.jpg)
+
+Image: Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Mâconnais.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:provence-rose-trail
 source_lang: zh
-source_revision: sha256:8108c8479677ab5fe5f91ae8286bda68ae726df0d86cb3e7912928991a5bd1a6
-source_sha256: 8108c8479677ab5fe5f91ae8286bda68ae726df0d86cb3e7912928991a5bd1a6
+source_revision: sha256:077c2fb3d33b1ab6492e4273396f575f8902aabd933a0d13cd65d571a30ef47c
+source_sha256: 077c2fb3d33b1ab6492e4273396f575f8902aabd933a0d13cd65d571a30ef47c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -169,3 +169,13 @@ Begin with the order of stops, move on to the distance and opening hours, and fi
 - [Vins de Provence — CIVP](https://www.vinsdeprovence.com/): the three Provence appellations and the wine-tourism entry.
 
 Further reading: [Provence](ref:c-extra-1).
+
+## Related images
+
+![Related photograph of Château Miraval](/media/photos/place-chateau-miraval-261f44a3.jpg)
+
+Image: Related photograph of Château Miraval. Credit: Hernandlucas, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Miraval_3.jpg)). Related image for Provence rosé trail: Taradeau to Correns.
+
+![Rosé Wine](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+Image: Rosé Wine. Credit: THOR, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)). Related image for Provence rosé trail: Taradeau to Correns.

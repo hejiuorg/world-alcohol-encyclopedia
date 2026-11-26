@@ -32,8 +32,8 @@ tags:
 translation_of: place:vesuvio-cafe
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ba55452c1343988e520471786abd02db92475627f91a26ae970ab00f24779c56
-source_sha256: ba55452c1343988e520471786abd02db92475627f91a26ae970ab00f24779c56
+source_revision: sha256:6fc85f41ba03a842b8219ad03b480c48ec6af51c90f162a3eef2271c34a29df2
+source_sha256: 6fc85f41ba03a842b8219ad03b480c48ec6af51c90f162a3eef2271c34a29df2
 related:
   - relation: about
     target_id: place:buena-vista-cafe
@@ -89,6 +89,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1948
 ---
+
 # Vesuvio Café
 
 In San Francisco's North Beach, Columbus Avenue runs between the coffee houses and the strip clubs, and a narrow two-story building carries a painted sign that reads “Vesuvio Café.” The entrance is easy to miss; the bar is narrow, the stairs are steep, and the room often feels full. Across a small alley is City Lights, the bookstore that published Allen Ginsberg's Howl and became the anchor of the Beat literary scene. Vesuvio and City Lights are usually described together, and the alley between them is now named for Jack Kerouac.![The facade and sign of Vesuvio Café in North Beach, San Francisco](/media/photos/place-vesuvio-cafe-1be238eb.jpg)
@@ -158,3 +159,9 @@ Checked on 2026-11-21: the address at 255 Columbus Avenue, the adjacency to City
 | Official site | vesuvio.com |
 
 **Sources and limits.** The key claims about Vesuvio Café are checked against the following sources: Vesuvio Café (Used for the address, current hours and the bar's Beat-generation positioning; no text copied; Used for the cocktail list and the house drink names; recipes and prices change), National Trust for Historic Preservation, City Lights (Used only for the bookstore's 1953 founding and its position across Jack Kerouac Alley; not for bar operations). For current products, addresses or opening status, use vesuvio.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The Buena Vista Café at the corner of Hyde and Beach streets in San Francisco; the first-floor saloon opened in 1916 in a former boarding house, Irish coffee was introduced in 1952, and this is a 2025 street view](/media/photos/place-buena-vista-cafe-bba07ce2.jpg)
+
+Image: The Buena Vista Café at the corner of Hyde and Beach streets in San Francisco; the first-floor saloon opened in 1916 in a former boarding house, Irish coffee was introduced in 1952, and this is a 2025 street view. Credit: BriefEdits, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Buena_Vista_Cafe,_exterior,_San_Francisco_(May_2025)_03.jpg)). Related image for Vesuvio Café.

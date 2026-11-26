@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:barbados-rum-trail
 source_lang: zh
-source_revision: sha256:bd20ae2e6639d8fa91a5734d02b27562ccff5f95bad40bc2903ab3c5f706fc9a
-source_sha256: bd20ae2e6639d8fa91a5734d02b27562ccff5f95bad40bc2903ab3c5f706fc9a
+source_revision: sha256:49757668d985d57c1ccbe70d93b0d58031854b92b4d22912c1c3f75d01cda007
+source_sha256: 49757668d985d57c1ccbe70d93b0d58031854b92b4d22912c1c3f75d01cda007
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -159,3 +159,13 @@ Taste neat, then add water. Watch alcohol, sweetness and wood: fast sweetness wi
 Return to [Barbados](ref:barbados): cane, sugar factories, the port and rum form one chain. After this drive, a glass tells you whether you are tasting water, molasses, distillation, or a well-told history.
 
 **Short definition:** From Mount Gay in the north of Saint Lucy to Foursquare in the south-east of Saint Philip, about an hour apart. One stop explains continuity through a 1703 well and pot-plus-column distillation; the other explains transparency through an open-house sugar factory and a no-added-sugar position.
+
+## Related images
+
+![Category image for Barbados](/media/photos/place-foursquare-rum-distillery-c949ec7b.jpg)
+
+Image: Category image for Barbados. Credit: Unknown author Unknown author, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery.jpg)). Related image for Barbados rum trail: Saint Lucy and Saint Philip.
+
+![A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.](/media/photos/drink-style-rum-ebd00623.jpg)
+
+Image: A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.. Credit: Pinakpani, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottle_of_Captain_Morgan_Rum_01.jpg)). Related image for Barbados rum trail: Saint Lucy and Saint Philip.

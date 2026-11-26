@@ -96,6 +96,7 @@ stop_ids:
 mode: walk-metro-rail
 updated_at: 2026-11-08
 ---
+
 # 巴伐利亚啤酒路线：慕尼黑到班贝格
 
 这条路线把巴伐利亚啤酒文化的三种空间放在一起：慕尼黑老城的州营啤酒大厅、慕尼黑西侧的家族啤酒厂厂区，以及班贝格老城里以烟熏啤酒为招牌的历史酒馆。两站在慕尼黑，一站在班贝格，中间隔着一段铁路。它适合愿意把一天半到两天交给啤酒的人，不适合想在半天内“打卡三城”的人。
@@ -204,3 +205,13 @@ updated_at: 2026-11-08
 相关条目：[皇家啤酒屋](ref:hofbrauhaus)、[奥古斯丁啤酒厂](ref:augustiner)、[施伦克拉烟熏啤酒馆](ref:schlenkerla)。
 
 慕尼黑到班贝格的啤酒路线涉及多地铁路与酒馆营业时间；各店菜单、价格与预约以官方渠道为准，出发前查 DB 班次。核验于 2026-11-08。
+
+## 相关图像
+
+![施伦克拉烟熏啤酒馆](/media/photos/place-schlenkerla-60ff74fd.jpg)
+
+图：施伦克拉烟熏啤酒馆。图片：User:Mattes，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Schlenkerla_-_Nasenschild_in_Bamberg.JPG)）。关联图像：巴伐利亚啤酒路线：慕尼黑到班贝格。
+
+![皇家啤酒屋相关实景照片](/media/photos/place-hofbrauhaus-f739b1b7.jpg)
+
+图：皇家啤酒屋相关实景照片。图片：Burkhard Mücke，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2023-02-03_Hofbr%C3%A4uhaus_am_Platzl_07.jpg)）。关联图像：巴伐利亚啤酒路线：慕尼黑到班贝格。

@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:muscat
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:89aee47f4171f8fe975cbdb6697398c5bd3f833feafb87a93f91f02deaf8d11e
-source_sha256: 89aee47f4171f8fe975cbdb6697398c5bd3f833feafb87a93f91f02deaf8d11e
+source_revision: sha256:17f83034ca2457d879eb714375222e414f65503ef4b67c2cff4e086fe12400e1
+source_sha256: 17f83034ca2457d879eb714375222e414f65503ef4b67c2cff4e086fe12400e1
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -83,6 +83,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Muscat
 
 Muscat is not a single variety but an old and varied family of grapes spread across Europe and the Mediterranean. What unites it is aroma: orange blossom, grape, honey and citrus are usually obvious even in youth, and the wines rarely need age to be recognised. That aromatic power is why Muscat appears in almost every wine form—dry white, sweet white, lightly sparkling, fully sparkling, fortified sweet wine and even raisin wine. The first question to ask of any bottle is which Muscat it contains.
@@ -148,3 +149,9 @@ First, that Muscat is one variety; it is a large family with many names. Second,
 - [Fortification](ref:fortification): the key process behind vins doux naturels and fortified Muscat.
 - [Alsace](ref:alsace): a leading region for dry Muscat.
 - [Italy](ref:italy): the heartland of Moscato and Zibibbo.
+
+## Related images
+
+![Aroma](/media/photos/term-aroma-6bfbd007.jpg)
+
+Image: Aroma. Credit: Jan Brueghel the Elder / Peter Paul Rubens, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jan_Brueghel_d._O._-_Allegorie_van_de_geur.jpg)). Related image for Muscat.

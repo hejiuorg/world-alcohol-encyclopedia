@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:perry
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b3bae36d861eb55ea2fdde8032a231cc9af3e534cbdf7c958551829aec0737b4
-source_sha256: b3bae36d861eb55ea2fdde8032a231cc9af3e534cbdf7c958551829aec0737b4
+source_revision: sha256:ac112a62487ba3fae5a64b2878abbdb7481b21064557556fa18fcba107b6309d
+source_sha256: ac112a62487ba3fae5a64b2878abbdb7481b21064557556fa18fcba107b6309d
 legacy_refs: []
 parent_style_id: drink-style:cider
 aroma_family: pear, blossom and tannin
@@ -142,3 +142,9 @@ Perry is not for long cellaring, especially low-alcohol, low-tannin versions. St
 Further reading: [Abbey beer](ref:c-extra-1).
 
 Start with the production rule. From there, consider the strength, then the usual serving. That is how a practical judgment about Perry is built.
+
+## Related images
+
+![Cider](/media/photos/drink-style-cider-f3bc26a6.jpg)
+
+Image: Cider. Credit: ChuckDabs, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Midwest_hard_cider.jpg)). Related image for Perry.

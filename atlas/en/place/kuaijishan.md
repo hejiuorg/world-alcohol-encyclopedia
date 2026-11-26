@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kuaijishan
 source_lang: zh
-source_revision: sha256:c4f26fd0198a083d18c2b3651cce2732a067ed76254cdeeff8c0397575ae1ae2
-source_sha256: c4f26fd0198a083d18c2b3651cce2732a067ed76254cdeeff8c0397575ae1ae2
+source_revision: sha256:c0c45eec5596ee6f43c6fa3685ecb3c6c8d245143863b6f6f6330de347dfb8d6
+source_sha256: c0c45eec5596ee6f43c6fa3685ecb3c6c8d245143863b6f6f6330de347dfb8d6
 translation_status: reviewed
 subtype: winery-visitor
 address: 2579 Yangshao Road, Hutang Subdistrict, Keqiao District, Shaoxing, Zhejiang, China
@@ -138,3 +138,9 @@ Kuaijishan turns the craft of [yellow wine](ref:yellow-wine) into a park beside 
 Further reading: [Zhejiang Province](ref:c-extra-1).
 
 **Short definition:** Kuaijishan Shaoxing Rice Wine Co. is based at 2579 Yangshao Road in Hutang Subdistrict, Keqiao District, beside Jian Lake. Its park combines a yellow-wine museum, a guided factory visit and a tasting centre; book through the Kuaijishan Yellow Wine Museum WeChat account.
+
+## Related images
+
+![Yellow wine](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+Image: Yellow wine. Credit: udono, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)). Related image for Kuaijishan: yellow-wine park and brewery visit.

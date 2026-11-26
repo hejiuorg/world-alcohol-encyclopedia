@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:maotai-distillery
 source_lang: zh
-source_revision: sha256:e6d0e2153f91bff867a892e41ba17f5df1dd32eff745f3ee927a8336f67fd580
-source_sha256: e6d0e2153f91bff867a892e41ba17f5df1dd32eff745f3ee927a8336f67fd580
+source_revision: sha256:f985c5d41640df0a81edd3fc858074fd414d4f9f13ab6906ac9fe643b332fad0
+source_sha256: f985c5d41640df0a81edd3fc858074fd414d4f9f13ab6906ac9fe643b332fad0
 translation_status: reviewed
 subtype: distillery-visitor
 address: Maotai Town, Renhuai, Zunyi, Guizhou, China
@@ -102,6 +102,12 @@ sources:
     publisher: Guizhou Provincial Department of Transport
     note: Used to check the trial operation of the airport–town tourist shuttle, the flat fare of 5 yuan per person and the method for checking schedules; routes and fares may change, and no source text is reproduced.
     accessed: 2026-11-08
+  - key: adv-moutai-official
+    title: Kweichow Moutai — Official company information
+    url: https://www.moutaichina.com/
+    publisher: Kweichow Moutai Co., Ltd.
+    note: Used to check company, product and public visit information; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -179,6 +185,28 @@ Moutai is a 53% ABV sauce-aroma baijiu. Its typical style is described as a prom
 Buying means separating "drinking" from "collecting". For everyday drinking, use official self-operated stores, specialist stores and official online channels. For collecting or gifting, confirm the year, batch, packaging and invoice, and keep the receipt; prices vary by product, vintage and channel. Do not buy from people selling at the gate, unknown WeChat groups or "internal channels"; if you suspect a counterfeit, keep the evidence and report it to the market regulator.
 
 The Culture City has paid tastings and a shop, useful before buying, but a museum tasting is only about 10 millilitres: the point is aroma and first impression, not "a glass". Do not drive afterwards; use a designated driver or taxi. Families can focus on the galleries and old-town streets.
+
+
+## Advanced judgment
+
+![Street view of Maotai town, Renhuai, Guizhou](/media/photos/place-maotai-distillery-bf022cc0.jpg)
+
+Figure: A street view of Maotai town in Renhuai, Guizhou, where valley terrain and climate are tightly bound to sauce-aroma production. Image: Wahsaw, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Streetview_of_Maotai(Moutai)_Town,_Renhuai_City,_Zunyi,_Guizhou.jpg)).
+
+| Purpose | Suitable arrangement | Watch out for |
+| --- | --- | --- |
+| Visit | Book museum and permitted areas | Production floors are usually closed |
+| Buy | Official channels and authorised shops | Authentication, invoice and batch |
+| Learn | Craft exhibits and tastings | Separate explanation from advertising |
+| Day trip | Half to one day | No drink-driving, no entering workshops |
+
+**Can visitors walk into any Maotai distillery?** No. Production areas involve food safety and process confidentiality; usually only museums, cultural sites or booked routes are open. Check official booking information and avoid “inside channel” offers.
+
+**Does Maotai town only produce Moutai?** No. The town has multiple distilleries and brands; Moutai is the most prominent product. Check producer, origin, standard and authentication, not just the place name.
+
+**When is the best time to visit Maotai?** Avoid the hottest and coldest extremes; spring and autumn are more comfortable. Production milestones such as grain loading or spirit drawing are informative, but floors may not be open. Check weather, transport and bookings first.
+
+Further reading: [Baijiu](ref:baijiu) and [Guizhou](ref:guizhou).
 
 ## Getting to Maotai, seasons and etiquette
 

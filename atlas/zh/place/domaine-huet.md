@@ -79,6 +79,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 休埃酒庄
 
 休埃酒庄（Domaine Huet）在法国卢瓦尔河谷的武弗雷（Vouvray），地址是 11 rue de la Croix Buisée。它以白诗南（Chenin Blanc）闻名，三十公顷葡萄园分成三块核心地：Haut-Lieu、Le Mont 与 Clos du Bourg。休埃不是一座以游客动线为核心的酒庄，酒窖、办公与接待混在同一处；因此到访前先确认能否接待，比直接按地址找过去更稳妥。
@@ -154,3 +155,9 @@ Le Mont 于 1957 年加入，坡向朝南，燧石与绿黏土给酒更锋利的
 | 官网 | domainehuet.com |
 
 **来源与边界。** 本页关于「休埃酒庄」的关键事实，主要由以下来源交叉核对：Domaine Huet（1928 年创立、30 公顷、三块葡萄园与生物动力法表述）、Domaine Huet / L'Echansonne Huet Distribution（11 rue de la Croix Buisée, 37210 Vouvray 地址与法定代表；页面未列出固定参观时段，故营业状态标为 unknown）、InterLoire（武弗雷法定风格、白诗南与卢瓦尔产区说明）等 4 条来源。产品、地址或营业状态变化较快时，以 domainehuet.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![白诗南](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+图：白诗南。图片：Benjamin Smith，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)）。关联图像：休埃酒庄。

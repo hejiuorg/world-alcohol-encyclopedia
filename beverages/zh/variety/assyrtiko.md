@@ -71,6 +71,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 阿斯蒂科
 
 阿斯蒂科（Assyrtiko）是希腊爱琴海岛屿圣托里尼的标志性白葡萄，也是少数能在强烈日照、强风与贫瘠火山土上同时保持高酸度与浓郁度的品种。它的酒通常为干型，酒体中等到饱满，带有柠檬、青苹果、火石与海盐的气息；在圣托里尼，它还与当地独特的篮状整枝、沙质火山土和自根老藤联系在一起。近二十年，阿斯蒂科从"希腊地方品种"变成国际市场上被认真对待的白葡萄之一，也是少数能让高酸与成熟度并存的品种。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 - [发酵](ref:fermentation)：干白与甜酒风格分化的工艺基础。
 
 相关条目：[葡萄酒](ref:wine)、[白葡萄酒](ref:white-wine)、[酸度（acidity）](ref:acidity)。
+
+## 相关图像
+
+![酸度（acidity）](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+图：酸度（acidity）。图片：Chemicalinterest，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)）。关联图像：阿斯蒂科。

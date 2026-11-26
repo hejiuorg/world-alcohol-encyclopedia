@@ -78,6 +78,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 蜂蜜酒
 
 蜂蜜酒（mead，也称蜜酒）是以[蜂蜜](ref:honey)和水为糖源、经酵母[发酵](ref:fermentation)得到的酒精饮料。它的原料只有蜂蜜、水与酵母时称为传统蜂蜜酒；加入水果、香料、果汁或焦化蜂蜜后，会形成一整个风格家族。蜂蜜酒不属于啤酒，也不完全等同于[葡萄酒](ref:wine)，但它和[苹果酒](ref:cider)一样，属于以农产品发酵而来的佐餐或休闲酒。
@@ -147,3 +148,9 @@ verification_scope: source-verified
 饮用温度通常低于室温、高于冰镇：过冷会封闭花香，过热会突出酒精。开瓶后应冷藏并尽快饮用，尤其是低酒精度、低酸度的产品。
 
 对照阅读：[葡萄酒](ref:wine)、[酒精度（ABV）](ref:abv)。
+
+## 相关图像
+
+![蜂蜜](/media/photos/ingredient-honey-79e37da8.jpg)
+
+图：蜂蜜。图片：Scott Bauer, USDA ARS，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg)）。关联图像：蜂蜜酒。

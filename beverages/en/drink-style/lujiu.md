@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:lujiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6976885b939e16410458ce9be3bb312067b05d776b948ac36f66dcbd283afdb0
-source_sha256: 6976885b939e16410458ce9be3bb312067b05d776b948ac36f66dcbd283afdb0
+source_revision: sha256:d22c1e9245b57057e252afa94c92e65d1dccacf3b2808a7719604e8c3ec8acef
+source_sha256: d22c1e9245b57057e252afa94c92e65d1dccacf3b2808a7719604e8c3ec8acef
 legacy_refs: []
 aliases:
   - Lujiu
@@ -77,6 +77,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Lujiu
 
 Lujiu is a major branch of Chinese compounded liquor. Under GB/T 27588-2011, Lujiu, it is made from a base of distilled spirit, fermented wine or food-grade alcohol with edible or medicinal-and-food materials, blended, mixed or reprocessed, and the style of the base has been changed. It is a beverage, not a medicine.![Lujiu thematic illustration](/media/figures/specific/drink-style-lujiu.svg)
@@ -152,3 +153,9 @@ The usual confusion is to treat Lujiu as a particular brand. Check what it is fi
 - [Baijiu](ref:baijiu): the most common distilled base.
 - [Blending](ref:blending): recipe building and flavour balance.
 - [Alcohol by volume](ref:abv): the basic concept behind label declarations.
+
+## Related images
+
+![Thematic illustration for Compounded liquor](/media/photos/theme-beer.jpg)
+
+Image: Thematic illustration for Compounded liquor. Project-made bilingual editorial figure, not an on-site photograph. Related image for Lujiu.

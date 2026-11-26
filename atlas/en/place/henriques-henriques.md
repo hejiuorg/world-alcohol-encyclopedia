@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:henriques-henriques
 source_lang: zh
-source_revision: sha256:72c8a20ac2be2421391f9e27e7cd3c1e4444d883189df78eb3555daf33d346dd
-source_sha256: 72c8a20ac2be2421391f9e27e7cd3c1e4444d883189df78eb3555daf33d346dd
+source_revision: sha256:35f4c4e1157703ceafdd4181718fe1396501023820a63d258cef8952300876b4
+source_sha256: 35f4c4e1157703ceafdd4181718fe1396501023820a63d258cef8952300876b4
 translation_status: reviewed
 subtype: winery-visitor
 address: Avenida da Autónoma 10, 9300-138 Câmara de Lobos, Madeira, Portugal
@@ -100,6 +100,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; visiting hours, tastings and wines change, so confirm with official channels.
 verification_scope: source-verified
 ---
+
 # Henriques & Henriques
 
 Henriques & Henriques, usually H&H, stands in Câmara de Lobos west of Funchal, at Avenida da Autónoma 10. Many guides place it in Funchal, but the cellar is in the neighbouring town, 15 to 20 minutes by car. There is no museum route like Blandy's: this is a working ageing, bottling and sales cellar, with a short, dense visit and a tasting that starts with the three-year wines.
@@ -161,3 +162,9 @@ The comparison with [Blandy's Wine Lodge](ref:blandy) and [Madeira](ref:madeiraw
 | Official site | henriquesehenriques.pt |
 
 **Sources and limits.** The key claims about Henriques & Henriques are checked against the following sources: Henriques & Henriques, Vinhos, S.A., Madeira Wine Company (Used to check the basics of stopping fermentation, fortification, residual sugar and heat ageing). For current products, addresses or opening status, use henriquesehenriques.pt. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Related photograph of Blandy's Wine Lodge](/media/photos/place-blandys-wine-lodge-f07dd2e8.jpg)
+
+Image: Related photograph of Blandy's Wine Lodge. Credit: H. Zell, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Blandy%27s_Wine_Lodge_-_Funchal_03.jpg)). Related image for Henriques & Henriques.

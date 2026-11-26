@@ -22,8 +22,8 @@ tags:
 translation_of: variety:vermentino
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8566d2c085998b9b7f1b8b677142839c368310858aad9e440a121c7b7e7f4556
-source_sha256: 8566d2c085998b9b7f1b8b677142839c368310858aad9e440a121c7b7e7f4556
+source_revision: sha256:8cdd6f3640ffeffbccc269d8a6bf641eb91c2dcf8fa34f22bb48ef127b43517a
+source_sha256: 8cdd6f3640ffeffbccc269d8a6bf641eb91c2dcf8fa34f22bb48ef127b43517a
 related:
   - relation: about
     target_id: drink-style:white-wine
@@ -146,3 +146,9 @@ A common misreading is to treat Vermentino as one fixed flavour tag. Warm lowlan
 The most direct way to understand the variety is to compare a Gallura dry white, a Ligurian Pigato and a Provence Rolle blend in the same vintage, noting how acidity, bitterness and mineral differ among them. It connects to the winemaking approach of [white-wine](ref:white), the coastal [terroir](ref:terroir), the choices of [fermentation](ref:fermentation) and the use of [oak-ageing](ref:oak).
 
 - Related: [white-wine](ref:white), [terroir](ref:terroir), [fermentation](ref:fermentation), [chardonnay](ref:chardonnay), [oak-ageing](ref:oak).
+
+## Related images
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Vermentino.

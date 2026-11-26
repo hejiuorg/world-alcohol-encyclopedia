@@ -22,8 +22,8 @@ tags:
 translation_of: variety:piquepoul
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4190ececfb26d3ac455121ecbec81c4e7941186471177c23bf7abdf78aaa911c
-source_sha256: 4190ececfb26d3ac455121ecbec81c4e7941186471177c23bf7abdf78aaa911c
+source_revision: sha256:101eaebc83fb9c20a489fc45fcda5222631b8804f58c7e73c60482ad49a5a236
+source_sha256: 101eaebc83fb9c20a489fc45fcda5222631b8804f58c7e73c60482ad49a5a236
 related:
   - relation: about
     target_id: drink-style:white-wine
@@ -96,6 +96,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Piquepoul
 
 Piquepoul (also Picpoul, Picapoll) is an ancient white grape of southern France's Languedoc, best expressed in Picpoul de Pinet AOP on the shores of the Étang de Thau. Late-ripening with naturally high acidity, it makes pale green-gold wines of lemon, green apple and white flower over a saline, iodine mineral note, the archetypal Mediterranean "sea-air" dry white, long matched with Bouzigues oysters and lagoon shellfish (ref:white).
@@ -154,3 +155,9 @@ On the label, separate Picpoul de Pinet AOP from other bottlings, standard cuvé
 - To compare standard and Patience tiers, taste two bottlings from the same estate and vintage and contrast lees texture, citrus depth and the length of the saline finish.
 
 **Short definition:** A white grape of Languedoc, France, centred on Picpoul de Pinet; high acidity, lemon, sea salt and white flowers, it suits oysters and seafood and represents the Mediterranean “sea-air” white.
+
+## Related images
+
+![Terroir](/media/photos/term-terroir-c440d7e4.jpg)
+
+Image: Terroir. Credit: Friedrich Petersdorff, CC BY-SA 2.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)). Related image for Piquepoul.

@@ -73,6 +73,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 莫尼耶皮诺
 
 莫尼耶皮诺（Pinot Meunier）是香槟三大法定品种中最容易被低估的一个。它是黑皮诺的深色变异，果皮深、果肉白，发芽与成熟都偏早，在香槟马恩河谷的黏土坡地上表现稳定。长期以来，它被视为给混酿增加果味与圆润度的“配角”；近二十年，单酿莫尼耶与“黑中白”香槟的兴起，让人们重新认识它的价值。
@@ -130,3 +131,9 @@ verification_scope: source-verified
 - [法国](ref:france)：法国葡萄酒的产区与法规框架。
 
 相关条目：[葡萄酒](ref:wine)、[起泡酒](ref:sparkling-wine)、[调配](ref:blending)。
+
+## 相关图像
+
+![兰斯山特雷派伊的葡萄园，香槟区白垩土与坡向的典型景观](/media/photos/region-champagne-712da84c.jpg)
+
+图：兰斯山特雷派伊的葡萄园，香槟区白垩土与坡向的典型景观。图片：Havang(nl)，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tr%C3%A9pail,_vignes_au_pied_de_la_Montagne_de_Reims.JPG)）。关联图像：莫尼耶皮诺。

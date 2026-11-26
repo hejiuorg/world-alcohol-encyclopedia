@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 遵义市
 
 遵义位于贵州省北部，北接重庆，西邻四川，南连贵阳，东靠铜仁与黔东南。赤水河从南向北穿过遵义西部，在仁怀市茅台镇一带形成深切河谷。酱香型白酒的核心产区就分布在这条河谷里。遵义的城市叙事常被红色历史与茅台酒同时占据，但真正理解产区，需要把河谷气候、制曲下沙节律与酒厂空间放在一起看。
@@ -134,3 +135,13 @@ verification_scope: source-verified
 - 想理解酱香型的共同语言，读[酱香型白酒](ref:sauce)。
 - 想比较贵州与四川产区，读[贵州](ref:guizhou)与[中国](ref:china)的产区条目。
 - 想把茅台镇放进赤水河旅行，先读[茅台镇酒旅路线](ref:route)，再查仁怀住宿与返程。
+
+## 相关图像
+
+![贵州仁怀茅台镇街景，河谷地形、气候与酱香酒生产高度绑定](/media/photos/place-maotai-distillery-bf022cc0.jpg)
+
+图：贵州仁怀茅台镇街景，河谷地形、气候与酱香酒生产高度绑定。图片：Wahsaw，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Streetview_of_Maotai(Moutai)_Town,_Renhuai_City,_Zunyi,_Guizhou.jpg)）。关联图像：遵义市。
+
+![贵州省](/media/photos/region-guizhou-b13939f2.jpg)
+
+图：贵州省。图片：Huangdan2060，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)）。关联图像：遵义市。

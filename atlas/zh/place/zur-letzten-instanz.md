@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC0，署名与许可见正文图注。营业时间、价格与菜单以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 最后一审餐厅
 
 柏林米特区（Mitte）的瓦伊森街（Waisenstraße）不长，一侧是旧城墙遗迹，一侧是低矮的老房子。14–16 号门口挂着“Seit 1621”的牌子，里面是 Zur letzten Instanz——字面意思是“最后一审”，常被译作“最后审判餐厅”或“最后一审餐厅”。它不是宫殿式的豪华餐厅，而是一栋把柏林历史压缩在木梁、砖地、旋转楼梯与瓷砖炉里的老房子。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 - [中央咖啡馆](ref:cafe-central)：维也纳的文学咖啡馆，说明“老店”不只有一种形态。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[博廷餐厅](ref:botin)、[金色和平餐厅](ref:freden)。
+
+## 相关图像
+
+![斯德哥尔摩老城的金色和平餐厅](/media/photos/place-den-gyldene-freden-ee676e50.jpg)
+
+图：斯德哥尔摩老城的金色和平餐厅。图片：Holger.Ellgaard，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Den_Gyldene_Freden_2013a.jpg)）。关联图像：最后一审餐厅。

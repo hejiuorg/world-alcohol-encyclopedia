@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink-style:beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c495c17b553256492aaf32c3b96abd7c13dbbd5bca893c6f18baa82f0998f8a8
-source_sha256: c495c17b553256492aaf32c3b96abd7c13dbbd5bca893c6f18baa82f0998f8a8
+source_revision: sha256:5bbb60589b2a6957cfcd53447d1a8168d7293a5523023e984507a82044ad33f5
+source_sha256: 5bbb60589b2a6957cfcd53447d1a8168d7293a5523023e984507a82044ad33f5
 legacy_refs: []
 aliases:
   - Beer
@@ -57,6 +57,12 @@ sources:
     note: Consulted for entries on brewing ingredients, fermentation and the history of beer styles; no source text is reproduced.
     accessed: 2026-11-04
     url: https://global.oup.com/academic/product/the-oxford-companion-to-beer-9780195367133
+  - key: adv-brewers
+    title: Brewers Association — Beer style guidelines
+    url: https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/
+    publisher: Brewers Association
+    note: Used to check beer style families, sensory language and commercial style conventions; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -129,6 +135,28 @@ Begin with the production rule, move on to the strength, and finish with the usu
 Start with [Oak ageing](ref:oak-ageing) for legal definition, then read [GB/T 17204-2021 Terminology and classification of alcoholic beverages](ref:gbt-17204) for materials and process. Seeing both keeps Beer from being confused with a neighbouring idea.
 
 **Sources and limits.** The key claims about Beer are checked against the following sources: Beer Judge Certification Program (style families, fermentation methods and the descriptive boundaries of representative styles), Brewers Association (US craft-brewing definitions and style discussion; no text is reproduced), Industry body (beer's position in beverage-alcohol classification and related terminology) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+
+## Advanced judgment
+
+![Hefeweizen and kristallweizen](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+Figure: Hefeweizen and kristallweizen, two treatments within the same wheat-beer family. Image: Ich, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)).
+
+| Style family | Fermentation | Serving temperature | Buying clue |
+| --- | --- | --- | --- |
+| Lager | Bottom | 4–8°C | Packaging date, crispness |
+| Wheat beer | Top | 6–10°C | Yeast aroma, haze |
+| IPA | Top | 8–12°C | Hop variety, bitterness |
+| Stout / porter | Top | 10–13°C | Roasted malt, body |
+
+**Is cloudy beer spoiled?** Not necessarily. Wheat beer, unfiltered lager and dry-hopped beer can be hazy; judge by packaging date, storage temperature and whether there is a clear sour or stale note.
+
+**Is a more bitter IPA better?** No. Bitterness reflects hopping and isomerisation; aroma, bitterness quality and finish matter as much. High bitterness can also mask malt or fermentation faults.
+
+**Does the beer glass matter?** Yes, but without mystique. A tapered glass concentrates aroma; a straight glass suits easy drinking. Cleanliness, no grease and correct volume matter more; temperature comes before glass shape.
+
+Further reading: [beverage classification](ref:gbt-17204) and [alcohol by volume](ref:abv).
 
 ## Further reading
 

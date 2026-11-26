@@ -31,8 +31,8 @@ tags:
 translation_of: place:delmonicos
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3cccf383d76319ea8100dea6b11df447304cc49b6fa3b781a10eb0991479a5cf
-source_sha256: 3cccf383d76319ea8100dea6b11df447304cc49b6fa3b781a10eb0991479a5cf
+source_revision: sha256:051c597f1dcf61268a92e16781d978895fc8a3d2083d5aadca1128782e6b48dc
+source_sha256: 051c597f1dcf61268a92e16781d978895fc8a3d2083d5aadca1128782e6b48dc
 related:
   - relation: about
     target_id: route:new-york-historic-pubs
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1837
 ---
+
 # Delmonico's
 
 In Manhattan's financial district, Beaver, South William and William streets meet at a sharp triangle, and Delmonico's curved portico sits on the point. By day the neighbourhood is full of bankers and exchange workers crossing with briefcases; by evening the streets empty quickly and warm light comes through the colonnade. The building is not the 1837 original but an eight-storey structure rebuilt in 1890–91. The story of "America's fine dining house," however, really did grow from this address.
@@ -145,3 +146,9 @@ Read Delmonico's through the address, then the current opening status, and final
 Checked on 2026-11-21 against Delmonico's official pages. The restaurant sits in the Financial District; weekday lunch and dinner are best booked ahead, and menu prices and market dishes change, so confirm on the official site. 1837 is the founding year, the present building dates to 1890–91 and was listed as a landmark in 1996. The claim to be the first American fine restaurant, and the Eggs Benedict story, are qualified in the body rather than treated as archival fact. The image shows the curved corner portico, not a dish or the interior.
 
 The Delmonico's site dates to 1835.
+
+## Related images
+
+![The street facade and entrance of Keens Steakhouse on West 36th Street, New York; the building merges three former townhouses, with the pipe collection inside.](/media/photos/place-keens-steakhouse-5a9b011d.jpg)
+
+Image: The street facade and entrance of Keens Steakhouse on West 36th Street, New York; the building merges three former townhouses, with the pipe collection inside.. Credit: ajay_suresh, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Keens_Steakhouse_(54821833498).jpg)). Related image for Delmonico's.

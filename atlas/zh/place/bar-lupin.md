@@ -92,6 +92,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、价格与菜单会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # Bar Lupin
 
 从银座并木通拐进一条小巷，抬头会看到一块红底白字的旧招牌：戴礼帽、单片眼镜的男子侧身举着酒杯，下面写着 “Lupin”。顺着狭窄的楼梯下到地下一层，推开门，噪声突然消失：深色木吧台、黄铜灯、旧镜、墙上的黑白照片，十几把高脚凳。这里不是《文豪野犬》的主题店，而是一间从 1928 年活到今天的文坛酒吧；动漫只是后来叠加的一层读者。
@@ -149,3 +150,9 @@ Bar Lupin 1928 年 10 月 3 日开业，创始人是高崎雪子。她在昭和�
 - さんたつ 文章：<https://san-tatsu.jp/articles/524680/>，用于核对 1944 年休业、战后重开、1972 年大楼重建与吧台保存、太宰座位、樱桃忌献杯与营业时间。
 - JNTO 文章：<https://www.japan.travel/en/de/story/japanische-literatur-reise/>，用于交叉核对 1928 年开业与文豪常客。
 - 同城条目：[Star Bar Ginza](ref:star)、[Kamiya Bar](ref:kamiya)、[Bar High Five](ref:highfive)、[American Bar Savoy](ref:savoy)、[东京酒吧路线](ref:route)。
+
+## 相关图像
+
+![东京浅草的神谷酒吧](/media/photos/place-kamiya-bar-80e491ca.jpg)
+
+图：东京浅草的神谷酒吧。图片：Kakidai，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamiya_bar_at_Asakusa_Tokyo.JPG)）。关联图像：Bar Lupin。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:jimo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:16fa6356e548c268106063f8fb5ea2d241ba75c0ac59bfd490dec7ab16be44ea
-source_sha256: 16fa6356e548c268106063f8fb5ea2d241ba75c0ac59bfd490dec7ab16be44ea
+source_revision: sha256:7f1b33dce87c38eb01ff44af70c227c215721200a7c7ab7f23f3eca05d6bf574
+source_sha256: 7f1b33dce87c38eb01ff44af70c227c215721200a7c7ab7f23f3eca05d6bf574
 level: other
 parent_id: region:china
 country_code: CN
@@ -85,6 +85,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Jimo
 
 Jimo is in the southwest of the Shandong Peninsula and is now the Jimo District of Qingdao. It is the representative region for northern millet huangjiu. Local production combines millet, summer-made aged wheat qu and the jiaomi method to create a style distinct from the glutinous-rice huangjiu of [Shaoxing](ref:shaoxing). [Jimo Laojiu](ref:jimo-laojiu) is the most representative product of this tradition.![Jimo photograph](/media/photos/q2-region-jimo-08067dae.jpg)
@@ -164,3 +165,13 @@ For Jimo, this region was last checked in 2026; prices, batches and availability
 - [Shaoxing](ref:shaoxing): a contrasting rice-based huangjiu region.
 - [GB/T 13662-2018 Huangjiu](ref:gbt-13662-2018): the standard basis for classification and technical requirements.
 - [China](ref:china): the national regional background.
+
+## Related images
+
+![Shaoxing](/media/photos/region-shaoxing-e9a43f19.jpg)
+
+Image: Shaoxing. Credit: Zhangzhugang, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)). Related image for Jimo.
+
+![Qu making](/media/photos/process-qu-making-ff7ff7ce.jpg)
+
+Image: Qu making. Credit: Uranassbandit, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hongqu_3.jpg)). Related image for Jimo.

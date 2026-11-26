@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:famous-wine-price-liberalization-1988
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:42fc1c0ea8b65791ab35cbeb8b741a564c245f21b988655550ab2bcdaf2b322b
-source_sha256: 42fc1c0ea8b65791ab35cbeb8b741a564c245f21b988655550ab2bcdaf2b322b
+source_revision: sha256:f2929287e8d225a5a2687235faaa9d89ced86293d90244b30d453a285208d5a7
+source_sha256: f2929287e8d225a5a2687235faaa9d89ced86293d90244b30d453a285208d5a7
 date_text: July 1988
 year_start: 1988
 year_end: 1988
@@ -102,6 +102,7 @@ rights:
   note: Third-party yearbooks, reports and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The 1988 liberalisation of famous-wine prices
 
 On 16 July 1988 the State Council issued the Notice on Doing a Good Job in Liberalising Famous Cigarette and Wine Prices and Raising Some Tobacco and Alcohol Prices (Guofa 1988 No. 44), deciding to liberalise the prices of thirteen famous cigarettes and thirteen famous wines. With State Council approval, the measure took effect nationwide on 28 July. Until then, ex-factory and retail prices of famous wines had long been fixed by the state; afterwards enterprises set prices according to supply and demand. It was a key step from planned pricing toward market pricing.
@@ -164,3 +165,9 @@ Read [China](ref:china) for the date side of The 1988 liberalisation of famous-w
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The 1988 liberalisation of famous-wine prices are checked against the following sources: China Price Press, Xinhua (Used to check the relationship between price reform and the evaluation system), China Alcoholic Drinks Association (Used to check production, sales and channel changes after liberalisation) and 8 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for "The 1989 fifth national wine evaluation: seventeen famous wines and the end of the system"](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
+
+Image: Category image for "The 1989 fifth national wine evaluation: seventeen famous wines and the end of the system". Credit: M. Weitzel, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingdao_Brewery.jpg)). Related image for The 1988 liberalisation of famous-wine prices.

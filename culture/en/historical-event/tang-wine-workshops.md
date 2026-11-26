@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:tang-wine-workshops
 source_lang: zh
-source_revision: sha256:a3266d84d6404f7e5e2e63f5d6cab60fd15a417b6cec5c7f4e1af17cb896e03c
-source_sha256: a3266d84d6404f7e5e2e63f5d6cab60fd15a417b6cec5c7f4e1af17cb896e03c
+source_revision: sha256:034cec55c3f42b5ecad1ee5cf73a14e87625d8a0d1241140465cb808d06eb498
+source_sha256: 034cec55c3f42b5ecad1ee5cf73a14e87625d8a0d1241140465cb808d06eb498
 translation_status: reviewed
 aliases:
   - 唐代酒坊
@@ -148,3 +148,9 @@ The comparison with [China](ref:china) and [The Han Wine Monopoly: State Trading
 - [The Han wine monopoly](ref:han-monopoly): an earlier model of state monopoly.
 - [Song wine tax](ref:song-tax): offices, quotas and private brewing made into a system.
 - [China](ref:china): background on regions and categories of Chinese alcohol.
+
+## Related images
+
+![Category image for "Song Wine Tax: State Offices, Private Quotas and Fiscal Dependence"](/media/photos/place-xianheng-hotel-329475b5.jpg)
+
+Image: Category image for "Song Wine Tax: State Offices, Private Quotas and Fiscal Dependence". Credit: Jiong Sheng, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)). Related image for Tang Wine Workshops: Licensed Houses, State Workshops and State Shops.

@@ -81,6 +81,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1894
 ---
+
 # New York Café
 
 从 Blaha Lujza tér 地铁站出来，沿着 Erzsébet körút 走三分钟，就能看到 New York Palace 的深色立面与“NEW YORK CAFÉ”的金色字母。推门进去，第一眼不是桌子，而是穹顶：镀金灰泥、壁画、吊灯与大理石柱把空间撑得像一座歌剧院，服务生端着银盘穿过人群，钢琴声在拱顶下被放大。它被称为“世界最美咖啡馆”，这个称号既是赞美，也是压力——因为来看穹顶的人，往往比来喝咖啡的人多。
@@ -145,3 +146,9 @@ New York Café 的菜单是“匈牙利经典 + 奥匈帝国怀旧”的组合�
 - 同城的 `place:gerbeaud` 是布达佩斯另一套“皇家甜点店”叙事，`place:cafe-central`、`place:cafe-hawelka`、`place:cafe-sperl` 代表维也纳咖啡馆的不同类型。
 - 若把中欧咖啡馆串成路线，读 `route:vienna-coffee-house-evening` 与 `place:gerbeaud`。
 - 相关条目：[Gerbeaud](ref:gerbeaud)、[Café Central](ref:central)、[Café Hawelka](ref:hawelka)、[Café Sperl](ref:sperl)、[维也纳咖啡馆之夜路线](ref:vienna-route)
+
+## 相关图像
+
+![Vörösmarty tér 7–8 号的 Gerbeaud 店面，圣诞树前的临街入口](/media/photos/place-gerbeaud-659ea878.jpg)
+
+图：Vörösmarty tér 7–8 号的 Gerbeaud 店面，圣诞树前的临街入口。图片：Random photos 1989，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Budapest,_V%C3%B6r%C3%B6smarty_t%C3%A9r_7-8,_Gerbeaud-h%C3%A1z,_kar%C3%A1csonyfa,_1.jpg)）。关联图像：New York Café。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:quinta-do-noval
 source_lang: zh
-source_revision: sha256:7260f126f52ce6cd2a9160319ab6d0ec6c846b6a176e4d17cfb536ecda9a4462
-source_sha256: 7260f126f52ce6cd2a9160319ab6d0ec6c846b6a176e4d17cfb536ecda9a4462
+source_revision: sha256:175d0f0efad37959c92fa8e21934c914f23151a6ca3aa750bf60dfa2a67e8ec5
+source_sha256: 175d0f0efad37959c92fa8e21934c914f23151a6ca3aa750bf60dfa2a67e8ec5
 translation_status: reviewed
 subtype: winery-visitor
 address: Quinta do Noval, Vale de Mendiz, 5085-110 Pinhão, Portugal
@@ -99,6 +99,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; visits, wines and declarations change, so confirm with the estate.
 verification_scope: source-verified
 ---
+
 # Quinta do Noval
 
 Quinta do Noval stands at Vale de Mendiz near Pinhão in Portugal's Douro Valley, at 5085-110 Pinhão. It is a Port house named after its vineyard, which it calls the only historic Port shipper to do so. The name appears in land records in 1715, but the estate people discuss today is largely the post-1894 rebuilding: schist terraces, foot treading in stone lagares, long cask ageing, and a small ungrafted plot called Nacional.
@@ -172,3 +173,9 @@ A common mistake is to treat Quinta do Noval as a brand or a region. Start with 
 | Official site | quintadonoval.com |
 
 **Sources and limits.** The key claims about Quinta do Noval are checked against the following sources: Quinta do Noval Vinhos, S.A., Instituto dos Vinhos do Douro e Porto. For current products, addresses or opening status, use quintadonoval.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Quinta do Crasto](/media/photos/region-douro-fd8dc772.jpg)
+
+Image: Category image for Quinta do Crasto. Credit: Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rio_Douro_-_Portugal_(32615481975)_(cropped).jpg)). Related image for Quinta do Noval.

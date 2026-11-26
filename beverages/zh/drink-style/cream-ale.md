@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 奶油艾尔
 
 美国淡色艾尔，常加玉米或大米降低麦芽厚度，口感清爽、泡沫细、苦度低；名字里的“奶油”指质地，不是奶油味。
@@ -150,3 +151,9 @@ Genesee Cream Ale 是美国东北部最常见的商业代表，风格清淡、�
 | 上位风格 | 啤酒 |
 
 **来源与边界。** 本页关于「奶油艾尔」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（啤酒风格的定义、参数与典型特征）、Brewers Association（美国啤酒风格、原料与行业分类）、CAMRA（英国传统啤酒与艾尔风格）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![啤酒花](/media/photos/ingredient-hop-72c4eef7.jpg)
+
+图：啤酒花。图片：LuckyStarr，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg)）。关联图像：奶油艾尔。

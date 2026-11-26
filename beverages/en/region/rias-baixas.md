@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:rias-baixas
 source_lang: zh
-source_revision: sha256:3a4eb60a046ba8c7e6b0573780dbe038a142fbb2a35e10ab7fec9facc9f081ff
-source_sha256: 3a4eb60a046ba8c7e6b0573780dbe038a142fbb2a35e10ab7fec9facc9f081ff
+source_revision: sha256:b82d889f5b1278fd14eae0d66e7f7ee6d29d41434a8ec0653a86b79af6cbb920
+source_sha256: b82d889f5b1278fd14eae0d66e7f7ee6d29d41434a8ec0653a86b79af6cbb920
 translation_status: reviewed
 level: other
 parent_id: region:spain
@@ -92,6 +92,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Rías Baixas
 
 Rías Baixas is a wine denomination in Galicia, north-west Spain, based mainly in Pontevedra province and known for its Atlantic climate, granite soils and Albariño. It is not a single estate but a DO built from five sub-zones, and it only took its present legal name in 1988.
@@ -172,3 +173,13 @@ There are four common misconceptions. First, that the region has only one variet
 - [Dry](ref:dry): dry styles versus residual sugar.
 - [Lees ageing](ref:lees-ageing): how extended lees contact changes texture.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Photograph for Albariño: Albarino Vineyards. Credit: chicadelatele, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-albarino-978c9e47.jpg)
+
+Image: Albarino Vineyards. Credit: chicadelatele, CC BY 2.0, via Wikimedia Commons.. Credit: chicadelatele, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=4106753)). Related image for Rías Baixas.
+
+![Editorial illustration of lees ageing: wine layered above fine lees, with a racking tube and sample glass; AI-assisted illustration, not a photograph.](/media/photos/editorial-lees-ageing-q2.jpg)
+
+Image: Editorial illustration of lees ageing: wine layered above fine lees, with a racking tube and sample glass; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Rías Baixas.

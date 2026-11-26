@@ -23,8 +23,8 @@ tags:
 translation_of: route:mclaren-vale-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:afedf97f419025391d479a2367bd978e7bf5e4c209213c51c47ef91c7937817e
-source_sha256: afedf97f419025391d479a2367bd978e7bf5e4c209213c51c47ef91c7937817e
+source_revision: sha256:0a56ddac465c73e52162a63035f3540710e7ffa355e2f9cab3609e90c717a869
+source_sha256: 0a56ddac465c73e52162a63035f3540710e7ffa355e2f9cab3609e90c717a869
 related:
   - relation: about
     target_id: place:darenberg
@@ -80,6 +80,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-21
 ---
+
 # McLaren Vale Wine Route
 
 A day trip from Adelaide to McLaren Vale: first d’Arenberg for century-old vines and the Cube, then Wirra Wirra for an 1894 stone cellar and Church Block, with a meal and a stretch of coast in between. The loop is about 80 kilometres; the point is not how many cellar doors you collect but how history, architecture, varieties and sea air compare within one day.
@@ -143,3 +144,13 @@ This route does not draw a map or provide live prices; roads, hours and booking 
 **Short definition:** South from Adelaide into McLaren Vale, anchored by d’Arenberg and Wirra Wirra; a day of Mediterranean climate, century-old stone cellars, Shiraz and multi-variety blends, and the contemporary “Cube” architecture.
 
 Begin with the order of stops, move on to the distance and opening hours, and finish with whether it works as a fixed itinerary. That order keeps the reading of McLaren Vale Wine Route practical.
+
+## Related images
+
+![Related photograph of Wirra Wirra](/media/photos/place-wirra-wirra-f7a0e1f9.jpg)
+
+Image: Related photograph of Wirra Wirra. Credit: No Swan So Fine, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wirra_Wirra_Vineyards,_Strout_Road,_McLaren_Vale_07.jpg)). Related image for McLaren Vale Wine Route.
+
+![Category image for d’Arenberg](/media/photos/region-mclaren-vale-6de98a30.jpg)
+
+Image: Category image for d’Arenberg. Credit: Rexness from Melbourne, Australia, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Trellised_vines,_Coriole_Vineyard,_McLaren_Vale_South_Australia_(6177503952).jpg)). Related image for McLaren Vale Wine Route.

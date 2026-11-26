@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:rioja-haro-bodegas
 source_lang: zh
-source_revision: sha256:085745b24ca3fb0856558a9e48ca8b33dfb9fc755aa46797a7fc4963f055fd69
-source_sha256: 085745b24ca3fb0856558a9e48ca8b33dfb9fc755aa46797a7fc4963f055fd69
+source_revision: sha256:60283b884f338d4879ab64619049b8739b2f3ad44303566bb627e8605b03c1e2
+source_sha256: 60283b884f338d4879ab64619049b8739b2f3ad44303566bb627e8605b03c1e2
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -171,3 +171,13 @@ With time for only two, keep López de Heredia and La Rioja Alta for tradition a
 - [CVNE](ref:cvne): 1879, the Aldea del Vino, Cune and Imperial.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.
+
+## Related images
+
+![Photograph for CVNE: CVNE bodega Imperial 2. Credit: Txo, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-place-cvne-2d81cddc.jpg)
+
+Image: CVNE bodega Imperial 2. Credit: Txo, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Txo, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=83638963)). Related image for Rioja: three century-old bodegas by Haro station.
+
+![Photograph for Rioja: A Rioja Vineyard - panoramio. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-rioja-e8334a87.jpg)
+
+Image: A Rioja Vineyard - panoramio. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=56546384)). Related image for Rioja: three century-old bodegas by Haro station.

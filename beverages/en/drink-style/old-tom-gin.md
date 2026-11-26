@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:old-tom-gin
 source_lang: zh
-source_revision: sha256:2bdc2b008ed9bd4186d58bfe21b55d0368108af651d48d6a40cb1fbdaa92c979
-source_sha256: 2bdc2b008ed9bd4186d58bfe21b55d0368108af651d48d6a40cb1fbdaa92c979
+source_revision: sha256:fc30e5e5cee2c8909af0040e71587c875f31109dcc638e4e7a58a93c0ad040f9
+source_sha256: fc30e5e5cee2c8909af0040e71587c875f31109dcc638e4e7a58a93c0ad040f9
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Old Tom Gin
 
 Old Tom gin is a sweetened [gin](ref:gin) style popular in England in the eighteenth and nineteenth centuries. Its definition lives in history rather than law: sugar, syrup or sweet botanicals such as liquorice are added to a distilled gin, making the body rounder, softer and easier to drink than the later London Dry. Today's Old Tom is not "London Dry in vintage packaging" but a reinterpretation of a sweet gin tradition.![Old Tom Gin editorial illustration](/media/figures/specific/visual-073-drink-style-old-tom-gin.svg)
@@ -133,3 +134,9 @@ The three can be arranged as a historical line: genever is the earlier malt-wine
 **Sources and limits.** The key claims about Old Tom Gin are checked against the following sources: The Gin Guild (the historical period, sources of sweetness and style features of Old Tom gin), European Union (gin categories and the fact that Old Tom is not an EU legal category), Beefeater Gin (modern Old Tom sweetening and revival methods) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Old Tom Gin, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![Genever](/media/photos/drink-style-genever-69222f55.jpg)
+
+Image: Genever. Credit: Wikimedia Commons contributor, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hollandse_Graanjenever_0495.JPG)). Related image for Old Tom Gin.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:guinness-storehouse
 source_lang: zh
-source_revision: sha256:1fa837b185d1323ed3d3ea02d80c0026acd04971e83da71a72ba650a35a6c77f
-source_sha256: 1fa837b185d1323ed3d3ea02d80c0026acd04971e83da71a72ba650a35a6c77f
+source_revision: sha256:4bfcfc832b0e1486f44973cd9277046b2d9d8221df7d0939e0dcaa18d64147d8
+source_sha256: 4bfcfc832b0e1486f44973cd9277046b2d9d8221df7d0939e0dcaa18d64147d8
 translation_status: reviewed
 subtype: museum
 address: St. James's Gate, Dublin 8, D08 VF8H, Ireland
@@ -88,6 +88,7 @@ rights:
   note: Third-party trademarks, advertising material, photographs and quoted texts are not covered by this licence; hours, prices and displays change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Guinness Storehouse: Telling the Black Stuff at St. James's Gate
 
 The Guinness Storehouse stands at St. James's Gate in Dublin, postcode Dublin 8, D08 VF8H. Many visitors treat it as a brewery tour, but it is a visitor centre: exhibition, tasting and rooftop bar occupy an old fermentation building, while the working brewery continues next door. Ordinary tickets do not enter the brewhouse, and keeping the two apart sharpens what you actually see.
@@ -155,3 +156,9 @@ The usual confusion is to treat Guinness Storehouse as a brand or a region. Chec
 | Official site | guinness-storehouse.com |
 
 **Sources and limits.** The key claims about Guinness Storehouse: Telling the Black Stuff at St. James's Gate are checked against the following sources: Guinness Storehouse (Used to check the St. James's Gate address, the Dublin 8 postcode and the visitor entrance; Used to check weekday, Saturday and Sunday opening hours and last admission times), UNESCO (the entry's background, terminology and regulatory context). For current products, addresses or opening status, use guinness-storehouse.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Stout](/media/photos/drink-style-stout-5ced0da8.webp)
+
+Image: Stout. Credit: 55belgianbeerfan, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)). Related image for Guinness Storehouse: Telling the Black Stuff at St. James's Gate.

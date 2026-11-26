@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:rye-whiskey
 source_lang: zh
-source_revision: sha256:2a9afd3c08a29a03ffce4078abb21b3d3710206f6727b94f0fa360678bf9a810
-source_sha256: 2a9afd3c08a29a03ffce4078abb21b3d3710206f6727b94f0fa360678bf9a810
+source_revision: sha256:c2f087a9937e177dffd3e5c4143e7c2c667d83356481b937e5fca0ac3fc0c687
+source_sha256: c2f087a9937e177dffd3e5c4143e7c2c667d83356481b937e5fca0ac3fc0c687
 translation_status: reviewed
 parent_style_id: drink-style:whisky
 legacy_refs: []
@@ -86,6 +86,7 @@ rights:
   note: Third-party regulations, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Rye Whiskey
 
 Rye whiskey is whiskey built on rye as its main grain. In the United States it comes with a checkable federal threshold: at least 51% rye in the fermented mash, distillation no higher than 160 proof (80% ABV), barrel entry no higher than 125 proof (62.5% ABV), new charred oak, and bottling at no less than 80 proof (40% ABV). In Canada, "rye" tells a different story: it is often simply a synonym for Canadian Whisky and promises nothing about how much rye is in the bottle.![Rye Whiskey image](/media/photos/drink-style-rye-whiskey-ef0809d6.jpg)
@@ -141,3 +142,9 @@ First, that rye whiskey must be 100% rye. US law asks for only 51%. Second, that
 When buying, check the country and the category name first, then the rye share if the distillery discloses it, the age and the strength. Rye also follows the basic mechanics of [oak maturation](ref:oak-ageing): cask type and new-oak intensity set the direction of extraction, and time is only one variable. Drink in moderation, adults only.
 
 **At a glance:** A whiskey built on rye as its main grain and matured in new charred oak; US rules require at least 51% rye and straight rye needs two years, while Canada treats Canadian Rye Whisky as the same standard as Canadian Whisky, with no minimum rye share.
+
+## Related images
+
+![A Manhattan in a coupe, with deep amber liquid and a cherry on a pick laid across the rim.](/media/photos/cocktail-manhattan-648a58c7.jpg)
+
+Image: A Manhattan in a coupe, with deep amber liquid and a cherry on a pick laid across the rim.. Credit: naotakem, CC BY 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photo.gne?id=6992048786)). Related image for Rye Whiskey.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:ireland-whiskey-trail
 source_lang: zh
-source_revision: sha256:2db2384faa2e7333331587e17a141ce32903324fb6c28ff01ed49ea86bf73344
-source_sha256: 2db2384faa2e7333331587e17a141ce32903324fb6c28ff01ed49ea86bf73344
+source_revision: sha256:157e8756727955d7eeffc2443e535e0ce7f7369e708487859a084bee9991005a
+source_sha256: 157e8756727955d7eeffc2443e535e0ce7f7369e708487859a084bee9991005a
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -178,3 +178,13 @@ Crossing the border adds detail. Northern Ireland uses pounds and miles per hour
 This route is the itinerary version of the [Ireland](ref:ireland) region page: the region entry sets out the legal boundary of distilling and ageing on the island, the raw material rules for pot still whiskey and the triple distillation tradition, while the route lets you see those rules as past, interruption and restart in three buildings. For style, [Irish whiskey](ref:irish-whiskey) separates blend, single malt, single grain and single pot still, while [pot still](ref:pot-still) explains why one set of equipment produces a thick, oily, spicy body.
 
 [Bushmills Distillery](ref:bushmills) explains stop order; [Kilbeggan Distillery](ref:kilbeggan) adds transport. Put Irish whiskey between them before deciding what it is.
+
+## Related images
+
+![Irish whiskey](/media/photos/drink-style-irish-whiskey-60f1511e.jpg)
+
+Image: Irish whiskey. Credit: Hammersbach, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:GoodIrishWhiskeys.jpg)). Related image for Irish whiskey: coast, city and midlands.
+
+![Kilbeggan Distillery](/media/photos/place-kilbeggan-distillery-e85cf20f.jpg)
+
+Image: Kilbeggan Distillery. Credit: Whisky lover, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Old_Kilbeggan_Distillery_-_Low_Res.jpg)). Related image for Irish whiskey: coast, city and midlands.

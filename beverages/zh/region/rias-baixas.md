@@ -88,6 +88,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 下海湾
 
 下海湾（Rías Baixas）是西班牙西北部加利西亚的葡萄酒法定产区，主体位于蓬特韦德拉省，以海洋性气候、花岗岩土壤与 Albariño 白葡萄闻名。它不是单一葡萄园，而是由五个子区拼成的 DO，1988 年才以现在的名称获得法定产区地位。
@@ -170,3 +171,13 @@ Albariño 是产区的绝对主导品种，果皮较厚、酸度高、香气以�
 - [干型](ref:dry)：干型与残糖风格的区分。
 - [酒泥陈酿](ref:lees-ageing)：延长酒泥接触对质地的影响。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![“阿尔巴利诺”页面配图：Albarino Vineyards。摄影：chicadelatele，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-albarino-978c9e47.jpg)
+
+图：Albarino Vineyards。摄影：chicadelatele，CC BY 2.0，来自 Wikimedia Commons。。图片：chicadelatele，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4106753)）。关联图像：下海湾。
+
+![酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。](/media/photos/editorial-lees-ageing-q2.jpg)
+
+图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：下海湾。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:repeal-of-prohibition-1933
 source_lang: zh
-source_revision: sha256:0d2bd70542ee34908666ccc365b2c90ca39399ee877ebca9bec8e12876ee7545
-source_sha256: 0d2bd70542ee34908666ccc365b2c90ca39399ee877ebca9bec8e12876ee7545
+source_revision: sha256:38fb2573973fb33e079ec690a8e1d367fa5ae1515097321babbca6b9837520a1
+source_sha256: 38fb2573973fb33e079ec690a8e1d367fa5ae1515097321babbca6b9837520a1
 translation_status: reviewed
 legacy_refs: []
 date_text: 20 February–5 December 1933
@@ -88,6 +88,7 @@ rights:
   note: Third-party document images, trademarks and images are not covered by this licence; the image is in the public domain and is credited. Sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # The Repeal of Prohibition in 1933: The Twenty-first Amendment and the Rebuilding of American Alcohol Regulation
 
 On 5 December 1933 Acting Secretary of State William Phillips certified that the Twenty-first Amendment had received enough state approvals. The amendment has only three sections; its core sentence is that the Eighteenth Amendment is "hereby repealed". It ended nearly fourteen years of national Prohibition and moved American alcohol regulation from federal prohibition to a complex system of federal taxation and state and local licensing. Repeal was not a one-night liberalisation but a years-long political, fiscal and institutional reconstruction.![Joint resolution proposing the Twenty-first Amendment](/media/photos/historical-event-repeal-of-prohibition-1933-f9594766.jpg)
@@ -142,3 +143,9 @@ One: "President Roosevelt repealed Prohibition by executive order." Repeal requi
 | Date | 20 February–5 December 1933 |
 | Place | United States |
 | Calendar | Gregorian |
+
+## Related images
+
+![Photograph for Budweiser: Budweiser bottle close-up. Credit: Sam, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-drink-usa-budweiser-3e34469f.jpg)
+
+Image: Budweiser bottle close-up. Credit: Sam, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Sam, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=20085117)). Related image for The Repeal of Prohibition in 1933: The Twenty-first Amendment and the Rebuilding of American Alcohol Regulation.

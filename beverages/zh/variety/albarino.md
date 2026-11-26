@@ -79,6 +79,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 阿尔巴利诺
 
 阿尔巴利诺（Albariño）是西班牙加利西亚沿海的代表性白葡萄，也是葡萄牙绿酒产区里被称为 Alvarinho 的同一个品种。它生长在大西洋气候的湿润角落，果皮较厚、酸度高，酒里常有柠檬、青苹果、白花与湿石头的味道，收尾带一点咸鲜感。与许多以果香取胜的白葡萄不同，阿尔巴利诺的魅力在于酸度、香气与质地的结合；它既能做清爽的年轻酒，也能通过酒泥接触与橡木陈年获得更复杂的层次(ref:wine)。
@@ -153,3 +154,9 @@ verification_scope: source-verified
 | 代表产区 | 西班牙、绿酒 |
 
 **来源与边界。** 本页关于「阿尔巴利诺」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Oxford University Press（提供关于阿尔巴利诺、里亚斯·拜萨斯与酸度的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）、Consejo Regulador de la D.O. Rías Baixas（里亚斯·拜萨斯子产区、品种规则与风格概况）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![绿酒](/media/photos/region-vinho-verde-50b7848c.jpg)
+
+图：绿酒。图片：Feliciano Guimarães，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vindimadores_em_vinha_de_enforcado_15.jpg)）。关联图像：阿尔巴利诺。

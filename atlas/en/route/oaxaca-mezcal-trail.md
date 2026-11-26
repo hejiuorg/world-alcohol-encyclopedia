@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:oaxaca-mezcal-trail
 source_lang: zh
-source_revision: sha256:113c7e9391ee8c425bcdb0dde2b9b0babe59401649375e91a16f9777a7ac75f6
-source_sha256: 113c7e9391ee8c425bcdb0dde2b9b0babe59401649375e91a16f9777a7ac75f6
+source_revision: sha256:a9064e84792a203f336f7ae88ebc0afb1846a62653db8494cdd99511702b624a
+source_sha256: a9064e84792a203f336f7ae88ebc0afb1846a62653db8494cdd99511702b624a
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -90,6 +90,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # Oaxaca Mezcal Trail
 
 This route has only two stops, yet it connects the two ends of mezcal: first [Mezcaloteca](ref:mezcaloteca) in central Oaxaca city, to build coordinates of variety and village; then [Real Minero](ref:real-minero) in Santa Catarina Minas, to see earthen pits, wooden mallets and clay pots. The first does not distil; the second still does. Between them lie the Espadín fields of the central valleys, the palenques of Santiago Matatlán and the floor set by NOM-070.![Oaxaca Mezcal Trail category image](/media/photos/region-oaxaca-ab7acd22.jpg)
@@ -146,3 +147,13 @@ To read Oaxaca Mezcal Trail, start with the order of stops, then the distance an
 | Stop order | Mezcaloteca: A Tasting Archive in Central Oaxaca、Real Minero: Clay Pots and Seeds in Santa Catarina Minas |
 
 **Sources and limits.** The key claims about Oaxaca Mezcal Trail are checked against the following sources: Mezcaloteca, Real Minero, Consejo Mexicano Regulador de la Calidad del Mezcal and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Real Minero: Clay Pots and Seeds in Santa Catarina Minas: File:Abraham Minero, Edu Oriol, Juan Carlos Pérez y David Mateos.JPG. Credit: Campeones 2008, CC0, via Wikimedia Commons.](/media/photos/q2-place-real-minero-palenque-6c69c2ba.jpg)
+
+Image: Clay Pots and Seeds in Santa Catarina Minas: File:Abraham Minero, Edu Oriol, Juan Carlos Pérez y David Mateos.JPG. Credit: Campeones 2008, CC0, via Wikimedia Commons.. Credit: Campeones 2008, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=15773790)). Related image for Oaxaca Mezcal Trail.
+
+![Related photograph of Mezcaloteca: A Tasting Archive in Central Oaxaca](/media/photos/place-mezcaloteca-251b8e9f.jpg)
+
+Image: Related photograph of Mezcaloteca: A Tasting Archive in Central Oaxaca. Credit: https://www.flickr.com/photos/bexwalton/, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mezcaloteca.jpg)). Related image for Oaxaca Mezcal Trail.

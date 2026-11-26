@@ -90,6 +90,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观价格、时段与酒款会变化，以酒厂官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 福塔莱萨酒厂：把 1873 年的作坊重新点火
 
 福塔莱萨（Destilería La Fortaleza）在哈利斯科州特基拉镇（Tequila）的塔巴斯科街 153 号，坐在镇子高处，能俯看旧日竞争对手的厂房。它常被称作“时间胶囊”：砖砌炉、塔霍纳石磨、木制发酵槽与两只原装铜壶都还在用，产量却小得必须预约才能进门。理解这座酒厂的关键，不是“老”，而是“停过、修过、又开起来”——它把家族史、旧设备与[龙舌兰酒](ref:tequila)的商品化放在同一条时间线上。
@@ -147,3 +148,9 @@ verification_scope: source-verified
 把这站放进更大的语境，可以接着读[场所与工艺](ref:place-process)条目，理解“酒厂作为生产现场”与“酒厂作为叙事空间”的区别；再沿龙舌兰谷线路走访大厂与小厂，比较规模、设备与风味。
 
 把 Fortaleza 放回龙舌兰谷的小厂传统，可对照[龙舌兰酒](ref:tequila)与[龙舌兰（龙舌兰属）](ref:agave)。
+
+## 相关图像
+
+![龙舌兰酒](/media/photos/drink-style-tequila-827c4596.jpg)
+
+图：龙舌兰酒。图片：T2O media México，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Paisaje_agavero_de_Jose_Cuervo_en_Tequila,_Jalisco.jpg)）。关联图像：福塔莱萨酒厂：把 1873 年的作坊重新点火。

@@ -25,8 +25,8 @@ tags:
 translation_of: region:okanagan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bc283dcd703466faa619845c352ab9c24a4fa78d51308369ac5e5bfef71711e9
-source_sha256: bc283dcd703466faa619845c352ab9c24a4fa78d51308369ac5e5bfef71711e9
+source_revision: sha256:5ffaad80d5859c49d60848704297485103309672c3fb8459cda6114d5b371d40
+source_sha256: 5ffaad80d5859c49d60848704297485103309672c3fb8459cda6114d5b371d40
 related:
   - relation: about
     target_id: region:canada
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Okanagan Valley
 
 The Okanagan Valley is a long lake valley in southern British Columbia, Canada, running from semi-desert country in the north to the US border in the south. The lake moderates temperature and summer sun is long; the valley is known for Pinot Gris, Merlot, Cabernet Sauvignon, Pinot Noir and icewine, and is Canada’s second-largest wine region after Niagara.
@@ -153,3 +154,13 @@ In summer, combine tastings with lake cruises, cycling and orchard visits; winte
 - Winter cold varies year to year; check icewine volumes, opening hours and tasting bookings on the BC Wine Institute or estate websites before travelling.
 
 **Short definition:** A long lake valley in southern British Columbia, Canada, running from desert-like country near the north to the US border in the south; the lake moderates temperature and sunlight is long, and the valley is known for Pinot Gris, Merlot, Cabernet and icewine, Canada’s second-largest wine region.
+
+## Related images
+
+![Whisky maturation barrels at the Forty Creek Distillery in Ontario](/media/photos/region-canada-0fcdbd9d.jpg)
+
+Image: Whisky maturation barrels at the Forty Creek Distillery in Ontario. Credit: Gogerr, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Whisky_maturation_in_barrels_at_the_Forty_Creek_Distillery.jpg)). Related image for Okanagan Valley.
+
+![Ice Wine](/media/photos/drink-style-ice-wine-1300193a.jpg)
+
+Image: Ice Wine. Credit: Mya, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Frozen_grapes_in_Luxembourg.jpg)). Related image for Okanagan Valley.

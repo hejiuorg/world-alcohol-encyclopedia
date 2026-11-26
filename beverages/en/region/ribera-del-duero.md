@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:ribera-del-duero
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d83b6f0b5e9f391ec3e3627d4cacddf60a7ab5061ebac61fb2963d16a550c7a6
-source_sha256: d83b6f0b5e9f391ec3e3627d4cacddf60a7ab5061ebac61fb2963d16a550c7a6
+source_revision: sha256:025feb095228dac2ff117021b6334b275ba5f56acd6a8300efb11691a91962d1
+source_sha256: 025feb095228dac2ff117021b6334b275ba5f56acd6a8300efb11691a91962d1
 level: other
 parent_id: region:spain
 country_code: ES
@@ -88,6 +88,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Ribera del Duero
 
 Ribera del Duero is a wine appellation along the Duero river in Castilla y León, [Spain](ref:spain), based on [Tempranillo](ref:tempranillo), known locally as Tinto Fino. Vineyards sit on a high plateau at about 700–1000 metres, and the [red wines](ref:red-wine) are known for structure, ripe fruit and oak ageing.![Ribera del Duero photograph](/media/photos/q2-region-ribera-del-duero-0ea66dff.jpg)
@@ -177,3 +178,13 @@ The usual confusion is to treat Ribera del Duero as an administrative place name
 - [Fermentation](ref:fermentation): the basic step of winemaking.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
 - [Alcohol by volume](ref:abv): what 13.5%–15% vol means on a label.
+
+## Related images
+
+![Photograph for Tempranillo: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+Image: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=16191821)). Related image for Ribera del Duero.
+
+![Grenache](/media/photos/variety-grenache-69c881eb.jpg)
+
+Image: Grenache. Credit: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)). Related image for Ribera del Duero.

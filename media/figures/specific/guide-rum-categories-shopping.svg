@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#F6F0E4"/>
+  <rect x="0" y="0" width="18" height="675" fill="#7A4A2E"/>
+  <circle cx="1040" cy="128" r="170" fill="#7A4A2E" opacity="0.10"/>
+  <circle cx="1040" cy="128" r="128" fill="none" stroke="#7A4A2E" stroke-width="2" opacity="0.35"/>
+  <text x="82" y="76" font-family="Georgia, 'Noto Serif SC', serif" font-size="22" letter-spacing="3" fill="#6B6258">实用指南 / GUIDE</text>
+  <text x="82" y="190" font-family="'Noto Serif SC', Georgia, serif" font-size="58" font-weight="700" fill="#1E2420">朗姆酒分类与选购</text>
+  <text x="84" y="330" font-family="Georgia, 'Noto Serif SC', serif" font-size="26" fill="#6B6258">Rum categories and shopping</text>
+  <line x1="82" y1="382" x2="820" y2="382" stroke="#7A4A2E" stroke-width="2" opacity="0.45"/>
+  <text x="84" y="450" font-family="'Noto Sans SC', Arial, sans-serif" font-size="26" fill="#1E2420">01  先分清原料与类型</text>
+  <text x="84" y="510" font-family="'Noto Sans SC', Arial, sans-serif" font-size="26" fill="#1E2420">02  颜色不等于陈年</text>
+  <text x="84" y="570" font-family="'Noto Sans SC', Arial, sans-serif" font-size="26" fill="#1E2420">03  按纯饮或调酒选</text>
+  <text x="84" y="642" font-family="Georgia, serif" font-size="18" fill="#6B6258">HEJIU.ORG · 双语编辑视觉卡 / bilingual editorial card</text>
+</svg>

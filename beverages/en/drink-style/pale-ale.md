@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:pale-ale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:17f2e94fef20678ece2cab10d544fb2e58db36c7c06d45d5db6328c01008f916
-source_sha256: 17f2e94fef20678ece2cab10d544fb2e58db36c7c06d45d5db6328c01008f916
+source_revision: sha256:d4380da125281bbe8a1d6a0a55e01223345cbccbb5dcb81a4f57cbdd25a07ed8
+source_sha256: d4380da125281bbe8a1d6a0a55e01223345cbccbb5dcb81a4f57cbdd25a07ed8
 parent_style_id: drink-style:english-ale
 aroma_family: Hops and malt
 legacy_refs: []
@@ -83,6 +83,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # Pale Ale
 
 Pale ale is a family within [beer](ref:beer) built on pale malt, top fermentation and clearly readable hop aroma. At one end sits the bitter and cask ale tradition of [English ale](ref:english-ale); at the other, the American Pale Ale that craft brewers rebuilt in the 1980s with Cascade and similar hops. What places a beer in this family is not a colour swatch but whether the malt backbone can support the hops and whether the finish stays clean.
@@ -142,3 +143,9 @@ For Pale Ale, begin with the production rule, then the strength, and finish with
 | Aroma family | Hops and malt |
 
 **Sources and limits.** The key claims about Pale Ale are checked against the following sources: Beer Judge Certification Program, Brewers Association, Campaign for Real Ale and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Malting](/media/photos/process-malting-631cf059.jpg)
+
+Image: Malting. Credit: Lakeworther, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Highland_park_malting_floor.jpg)). Related image for Pale Ale.

@@ -83,6 +83,7 @@ rights:
   note: 第三方版画、商标与图片不在本许可内；图片为公有领域，已在图注署名。来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 金酒热与金酒法：18 世纪英国烈酒危机
 
 18 世纪前半叶的伦敦，廉价金酒在城市贫民区迅速扩散。它比啤酒更烈，比进口烈酒更便宜，又能被小作坊大量生产，因而在谷物价格、战争财政与贫困问题的交织中被放大成一场社会危机。所谓“金酒热”并不是一种酒突然流行那么简单，它同时是税收政策、城市化、贫困救济与道德宣传共同制造的公共议题。1736 年与 1751 年的立法，则是英国国家试图把这种“廉价烈酒”纳入监管的两次关键尝试。
@@ -130,3 +131,9 @@ verification_scope: source-verified
 - [老汤姆金酒](ref:old-tom)：18 至 19 世纪英国金酒的甜型传统。
 - [英国](ref:uk)：理解议会立法与城市酒馆文化的区域背景。
 - [苏格兰威士忌税制](ref:scotch)：另一个关于烈酒、税收与走私的英国案例。
+
+## 相关图像
+
+![伦敦干金](/media/photos/drink-style-london-dry-gin-abe0a9c8.jpg)
+
+图：伦敦干金。图片：Decatur Wine & Spirits，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)）。关联图像：金酒热与金酒法：18 世纪英国烈酒危机。

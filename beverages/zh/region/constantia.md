@@ -113,6 +113,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 康斯坦提亚
 
 康斯坦提亚（Constantia）是开普敦市区南侧的葡萄酒产区，也是南非葡萄酒历史的起点。它以海风、花岗岩坡地与 Muscat 甜酒闻名，但今天的酒款远不止历史上的那一种甜酒。
@@ -203,3 +204,13 @@ Sauvignon Blanc 建议 8–10 摄氏度，Chardonnay 建议 10–12 摄氏度，
 - [年份](ref:vintage)：康斯坦提亚的年份差异。
 - [单一品种](ref:single-varietal)：85% 品种标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![“赛美蓉”页面配图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-semillon-f7547db4.jpg)
+
+图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。。图片：Imprimerie A. Bellier & Cie - Bordeaux，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94839238)）。关联图像：康斯坦提亚。
+
+![白诗南](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+图：白诗南。图片：Benjamin Smith，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)）。关联图像：康斯坦提亚。

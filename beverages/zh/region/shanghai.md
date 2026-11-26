@@ -93,6 +93,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 上海市
 
 上海市位于中国东部沿海、长江入海口，是直辖市。在酒类版图上，上海既是巨大的消费市场，也有自己的黄酒生产传统：金山区枫泾一带是产区核心，“上海老酒”是这一产区最具辨识度的品类名称。
@@ -181,3 +182,13 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「上海市」的关键事实，主要由以下来源交叉核对：上海市人民政府（行政区划与公开的城市信息）、国家市场监督管理总局、国家标准化管理委员会（黄酒的术语、分类与标签要求；未复制标准原文；饮料酒分类与术语；未复制标准原文）、上海市农业农村委员会（上海市农业与地方食品产业信息）等 7 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「上海市」与「中国」、「黄酒」、「绍兴市」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![绍兴市](/media/photos/region-shaoxing-e9a43f19.jpg)
+
+图：绍兴市。图片：Zhangzhugang，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)）。关联图像：上海市。
+
+![糯米](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+图：糯米。图片：국립국어원，CC BY-SA 2.0 kr，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)）。关联图像：上海市。

@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY-SA 3.0，署名与许可见正文图注。营业时间、价格与定休日以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 神谷酒吧
 
 浅草雷门通上，有一栋红砖与白色招牌的老建筑，门口写着“Kamiya Bar”与“创业明治十三年”。这就是神谷酒吧（神谷バー），东京浅草最著名的老酒吧，也是日本最早的“bar”之一。它不像银座的现代鸡尾酒吧那样安静、昂贵，而是把一杯“电气布兰”（Denki Bran）、几碟下酒菜、喧闹的浅草日常与 140 多年的历史放在同一个空间里。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 - [中央咖啡馆](ref:cafe-central)：维也纳的文学咖啡馆，另一种“作家常客”传统。
 
 相关条目：[星光酒吧（银座）](ref:star-bar)、[白兰地](ref:brandy)、[利口酒](ref:liqueur)。
+
+## 相关图像
+
+![“星光酒吧（银座）”页面配图：File:YamazakiDistillery 01.jpg。摄影：Ujigis，CC BY-SA 4.0，来自 项目图库（已授权实景照片）。该图用于说明相关类别，并非该对象的官方产品图。](/media/photos/q2-place-star-bar-ginza-5aef3a60.jpg)
+
+图：File:YamazakiDistillery 01.jpg。摄影：Ujigis，CC BY-SA 4.0，来自 项目图库（已授权实景照片）。该图用于说明相关类别，并非该对象的官方产品图。。图片：Ujigis，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)）。关联图像：神谷酒吧。

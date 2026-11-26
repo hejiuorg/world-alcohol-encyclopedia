@@ -40,8 +40,8 @@ tags:
 translation_of: place:stags-leap-wine-cellars
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:02bffb82380e9b7fdbdd268b41afaf21f10c5cc6a9bb1853e93c78c326c687d4
-source_sha256: 02bffb82380e9b7fdbdd268b41afaf21f10c5cc6a9bb1853e93c78c326c687d4
+source_revision: sha256:f8c5dc9bd94495947d588e3529afa959a6f4bcb9f7d2b623c0a12ce1514de90b
+source_sha256: f8c5dc9bd94495947d588e3529afa959a6f4bcb9f7d2b623c0a12ce1514de90b
 related:
   - relation: about
     target_id: region:napa-valley
@@ -96,6 +96,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; hours, tasting fees and reservation policies may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Stag's Leap Wine Cellars
 
 Silverado Trail runs along Napa’s eastern side, narrow and fast, with estate entrances often after a short climb. Stag’s Leap Wine Cellars is surrounded by oaks and olives, with the volcanic palisades of the Stags Leap District behind. It is famous not for its buildings but for a bottle of 1973 S.L.V. Cabernet Sauvignon. In 1976, in a blind tasting in Paris, it placed first among the reds, with judges drawn from the top of the French wine world. The event later called the Judgment of Paris changed California’s place in the international market. Today the visit is a quiet tasting room, underground caves and two core vineyards, not a victory monument.![Stag’s Leap Wine Cellars entrance sign](/media/photos/place-stags-leap-wine-cellars-57c31723.jpg)
@@ -155,3 +156,9 @@ For Stag's Leap Wine Cellars, begin with the address. Then look at the current o
 **Sources and limits.** The key claims about Stag's Leap Wine Cellars are checked against the following sources: Stag’s Leap Wine Cellars (5766 Silverado Trail, Napa CA 94558, telephone 707.261.6410 and booked tastings), Stags Leap District Winegrowers Association. For current products, addresses or opening status, use stagsleapwinecellars.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Stag's Leap Wine Cellars, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![Napa Valley](/media/photos/region-napa-valley-777f1f74.webp)
+
+Image: Napa Valley. Credit: Unknown author Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:TTB_Map_Napa_Valley_AVA.png)). Related image for Stag's Leap Wine Cellars.

@@ -103,6 +103,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观项目、时间与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 贝灵哲酒庄
 
 贝灵哲酒庄在纳帕谷圣赫勒拿镇主街的北端，入口不算张扬，但一走进去就能看到与 29 号公路沿线多数现代酒庄不同的东西：一栋 1884 年的莱茵别墅、一座 1876 年的老酒厂，以及在坡地下手工开凿的酒窖。它由德国美因茨移民贝灵哲兄弟创立，2026 年迎来 150 周年。今天它既是参观景点，也是仍在生产 Private Reserve 赤霞珠的酒庄。
@@ -175,3 +176,9 @@ verification_scope: source-verified
 补充阅读：[美国](ref:c-extra-1)、[罗伯特·蒙大维酒庄](ref:c-extra-2)。
 
 相关条目：[纳帕谷](ref:napa)、[葡萄酒](ref:wine)、[美国禁酒令：1920年至1933年的实验与废止](ref:prohibition)。
+
+## 相关图像
+
+![美国禁酒令时期，执法人员将酒桶中的酒倒入下水道。](/media/photos/historical-event-us-prohibition-3cc2932a.jpg)
+
+图：美国禁酒令时期，执法人员将酒桶中的酒倒入下水道。。图片：Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:5_Prohibition_Disposal(9).jpg)）。关联图像：贝灵哲酒庄。

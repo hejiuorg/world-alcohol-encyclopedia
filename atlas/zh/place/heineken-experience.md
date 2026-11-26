@@ -83,6 +83,7 @@ rights:
   note: 本页配图为维基共享资源的喜力体验馆实拍照片，按 CC BY-SA 4.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 喜力体验馆：老啤酒厂的第二次生命
 
 从阿姆斯特丹市中心往南，沿着 Singelgracht 运河走到 Stadhouderskade 78，会看到一排 19 世纪工业建筑，门口挂着喜力的绿色标志。这里不是一座仍在出酒的工厂，而是喜力最古老的啤酒厂在 1988 年停产后改造的体验馆。它把品牌史、酿造流程与品鉴打包成一条室内动线，适合想在城市里快速理解“荷兰拉格”与喜力这个品牌的游客，但它不能替代真正的生产参观。
@@ -140,3 +141,9 @@ verification_scope: source-verified
 它也有明显的局限。展线以品牌为中心，历史被剪辑成易读的故事，工艺被压缩成互动装置；想看真实生产，应该去仍在运转的酒厂，而不是这里。把体验馆与城市里的酒馆、酒厂放在一起看，才能理解喜力如何从阿姆斯特丹的一家啤酒厂变成全球品牌，以及这座城市的工业遗产如何被重新使用。
 
 相关条目：[啤酒](ref:beer)、[拉格啤酒](ref:lager)、[荷兰](ref:netherlands)。
+
+## 相关图像
+
+![“荷兰”页面配图：Vineyard Dassemus (Chaam, Netherlands, July 2020) - 2 (50522232027)。摄影：Bruno Rijsman，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-netherlands-01d9680b.jpg)
+
+图：Vineyard Dassemus (Chaam, Netherlands, July 2020) - 2 (50522232027)。摄影：Bruno Rijsman，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Bruno Rijsman，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=101342530)）。关联图像：喜力体验馆：老啤酒厂的第二次生命。

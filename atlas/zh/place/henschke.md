@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、酒标、菜单、图片与引用文本不在本许可内；开放时间、预约规则与酒款会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 亨施克酒庄
 
 亨施克在伊甸谷的基内顿，离巴罗萨谷底有一段爬升。它的门市不大，酒窖也不以规模取胜；真正撑起名声的是两块老藤西拉葡萄园、六代人的家族记录，以及一套把“地块”讲得比“品牌”更重要的叙事。到访者如果只把这里当成“喝 Hill of Grace 的地方”，会错过它最有价值的部分：海拔、老藤与家族记忆如何在同一片山坡上叠合。
@@ -142,3 +143,9 @@ verification_scope: source-verified
 ## 参考资料
 
 本页依据亨施克官方联系页、官网首页与家族史页，以及 Wine Australia 的巴罗萨谷资料核验，页面核验日期 2026-11-09。若要把这一站放进行程，可继续读[巴罗萨葡萄酒路线](ref:route)；关于品种与风格背景，见[西拉](ref:shiraz)与[红葡萄酒](ref:red-wine)。开放时间、预约规则与酒款以官方渠道为准。
+
+## 相关图像
+
+![巴罗萨相关实景照片](/media/photos/region-barossa-cae6ecd8.jpg)
+
+图：巴罗萨相关实景照片。图片：No machine-readable author provided. ScottDavis assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tanunda.jpg)）。关联图像：亨施克酒庄。

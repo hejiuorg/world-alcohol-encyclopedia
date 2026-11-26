@@ -89,6 +89,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、导览价格与天气安排会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 乐加维林蒸馏厂
 
 乐加维林在艾雷岛南岸的 Lagavulin Bay，Port Ellen 以东约 2 英里，A846 沿海公路旁，邻近 Dunyveg 城堡遗址。1816 年由 John Johnston 创立，是苏格兰最古老的蒸馏厂之一。此前这一带已有非法蒸馏的传统；合法化后，乐加维林把重泥煤、慢发酵与长陈酿变成稳定风格。今天酒厂属于 Diageo，但参观体验仍以酒厂本身为主。官方把酒名读作“Laga-VOO-lin”，重音在第二音节。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 | 城市/国家 | Port Ellen / 英国 |
 | 营业状态 | 已核验营业 |
 | 官网 | malts.com |
+
+## 相关图像
+
+![苏格兰威士忌](/media/photos/drink-style-scotch-whisky-9e96a856.jpg)
+
+图：苏格兰威士忌。图片：Sansvase，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)）。关联图像：乐加维林蒸馏厂。

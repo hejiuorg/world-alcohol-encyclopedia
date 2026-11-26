@@ -66,6 +66,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 赤霞珠
 
 赤霞珠（Cabernet Sauvignon）是重要的红葡萄品种，学名 Vitis vinifera。遗传研究显示，它的亲本是品丽珠（Cabernet Franc）与白苏维翁（Sauvignon Blanc）。这个组合解释了它兼具品丽珠的结构与白苏维翁的香气特征。赤霞珠果粒小、皮厚、色深，晚熟，单宁与色素含量较高，是世界上种植最广的红葡萄品种之一。
@@ -134,3 +135,9 @@ verification_scope: source-verified
 - [拉菲古堡](ref:lafite)：波亚克以赤霞珠为主的代表酒款。
 - [红葡萄酒](ref:red-wine)：红葡萄酒的浸渍、单宁与陈年框架。
 - [葡萄酒](ref:wine)：理解赤霞珠的类别、年份与产地规则的入口。
+
+## 相关图像
+
+![拉菲古堡红葡萄酒](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+图：拉菲古堡红葡萄酒。图片：PA，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)）。关联图像：赤霞珠。

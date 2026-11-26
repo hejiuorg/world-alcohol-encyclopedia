@@ -87,6 +87,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 巴伐利亚
 
 巴伐利亚（Bavaria）是德国南部最大的联邦州，也是世界上啤酒法规最著名的地区之一。慕尼黑、纽伦堡、班贝格与拜罗伊特各自有清晰的啤酒传统，从清澈的拉格到烟熏啤酒、小麦啤酒与浓烈双料博克。理解巴伐利亚啤酒，既要看 1516 年的《啤酒纯度法》，也要看它今天如何被解释、被例外、被绕开。
@@ -150,3 +151,13 @@ verification_scope: source-verified
 | 国家代码 | DE |
 
 **来源与边界。** 本页关于「巴伐利亚」的关键事实，主要由以下来源交叉核对：Bavarian State Ministry（《啤酒纯度法》的历史背景、现行适用范围与巴伐利亚啤酒产业）、Deutscher Brauer-Bund（德国啤酒法规、风格与产业概况）、Oxford University Press（提供关于德国啤酒、拉格与小麦啤酒的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）等 8 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![小麦啤酒](/media/photos/drink-style-wheat-beer-5513b4e6.jpg)
+
+图：小麦啤酒。图片：Takeaway，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2013_Augustiner_Weissbier_Munich_pub.jpg)）。关联图像：巴伐利亚。
+
+![拉格啤酒](/media/photos/drink-style-lager-7d0e4091.jpg)
+
+图：拉格啤酒。图片：Lars Curfs ( Grashoofd )，CC BY-SA 3.0 nl，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bitburger_Glass.JPG)）。关联图像：巴伐利亚。

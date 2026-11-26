@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:guyuelongshan
 source_lang: zh
-source_revision: sha256:8875f5c3a2aef5f8346734078dff587c76c838856d2d26091c18849ec6b0bac8
-source_sha256: 8875f5c3a2aef5f8346734078dff587c76c838856d2d26091c18849ec6b0bac8
+source_revision: sha256:45c2920cf932c3a1a82f905a4b97b423eb2f198a289a94e02c00d797909deb87
+source_sha256: 45c2920cf932c3a1a82f905a4b97b423eb2f198a289a94e02c00d797909deb87
 translation_status: reviewed
 subtype: winery-visitor
 address: Qiantao Road, Yuecheng District, Shaoxing, Zhejiang, China (Guyuelongshan Central Cellar)
@@ -144,3 +144,9 @@ The cellar is a production and storage site, not a bar. Do not enter without per
 Guyuelongshan is an industrial gateway into [yellow wine](ref:yellow-wine) and places [Shaoxing](ref:shaoxing)'s waterways, rice farming and storage traditions in one site. Set it within the wider map of [China](ref:china) and read [the history of yellow wine](ref:yellow-history) to see why winter brewing and cellaring are the keywords of this craft.
 
 Further reading: [Zhejiang Province](ref:c-extra-1).
+
+## Related images
+
+![Zhejiang Province](/media/photos/region-zhejiang-44cfa641.jpg)
+
+Image: Zhejiang Province. Credit: EditQ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E6%9D%AD%E5%B7%9E%E9%92%B1%E6%B1%9F%E6%96%B0%E5%9F%8E_4_(cropped).jpg)). Related image for Guyuelongshan: the central cellar and a Shaoxing wine visit.

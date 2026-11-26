@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:alsace
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:15eaadaa4ef3b8db04719c21f12065197b067d6f57ac443844973202bae008a6
-source_sha256: 15eaadaa4ef3b8db04719c21f12065197b067d6f57ac443844973202bae008a6
+source_revision: sha256:efb1520f1aab3012c4f87bbc81042ff1710c4d0228552be83757a57e2ef784af
+source_sha256: efb1520f1aab3012c4f87bbc81042ff1710c4d0228552be83757a57e2ef784af
 legacy_refs: []
 level: other
 parent_id: region:france
@@ -87,6 +87,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Alsace
 
 Alsace is a wine region in north-eastern France, east of the Vosges and on the west bank of the Rhine, facing Germany across the river. It is dominated by white wines, often labelled by variety rather than by place, and has Grand Cru, late-harvest and botrytised-selection tiers.![Alsace image](/media/photos/region-alsace-15887179.jpg)
@@ -166,3 +167,13 @@ Alsace lies east of the Vosges and west of the Rhine, and its rain shadow makes 
 **Sources and limits.** The key claims about Alsace are checked against the following sources: INAO (Used to check the French appellation system and its administering body), European Union (Used to check EU wine categories, geographical indications and labelling rules), Oxford University Press (Consulted for entries on the Alsace region, its grands crus and its sweet-wine designations) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Alsace, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![Related photograph of Alsace Riesling](/media/photos/drink-france-alsace-riesling-1fe46fd5.jpg)
+
+Image: Related photograph of Alsace Riesling. Credit: Michal Osmenda from Brussels, Belgium, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2010_Riesling_Vieilles_Vignes_from_Elsa_Barabos,_Obernai,_Alsace_(6711020535).jpg)). Related image for Alsace.
+
+![Related photograph of Alsace Gewürztraminer](/media/photos/drink-france-alsace-gewurztraminer-9b3b358b.jpg)
+
+Image: Related photograph of Alsace Gewürztraminer. Credit: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Gewurztraminer_(Andlau,_Alsace).jpg)). Related image for Alsace.

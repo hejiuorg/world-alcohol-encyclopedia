@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:springbank-distillery
 source_lang: zh
-source_revision: sha256:3f3a26e9882cd3cfa289fc338bea66a29eaf9523dc543cff3bf4bbf706112061
-source_sha256: 3f3a26e9882cd3cfa289fc338bea66a29eaf9523dc543cff3bf4bbf706112061
+source_revision: sha256:ce7f7b1515560ccf024651e3c7cf2b40244bee621319b5f81598607947a8e8eb
+source_sha256: ce7f7b1515560ccf024651e3c7cf2b40244bee621319b5f81598607947a8e8eb
 translation_status: reviewed
 subtype: distillery-visitor
 address: Springbank Distillery, Well Close, Campbeltown PA28 6ET, Scotland, United Kingdom
@@ -95,6 +95,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded. Opening hours, tour prices and schedules change; confirm with official channels.
 verification_scope: source-verified
 ---
+
 # Springbank Distillery
 
 Springbank sits on Well Close in the centre of Campbeltown, a short turn off Longrow. Mash house, still house, warehouses, bottling line and visitor centre share one block, and local people walk past the door every day. In 1828 Archibald Mitchell took out a licence on ground that had already been used for illicit distillation, and Springbank became the 14th licensed distillery in Campbeltown. It is still owned by the Mitchell family line through J&A Mitchell, one of only three distilleries left in Campbeltown, and one of the few in Scotland that malts, mashes, distils, matures and bottles entirely on site.![Springbank Distillery image](/media/photos/place-springbank-distillery-b24b4f99.jpg)
@@ -140,3 +141,9 @@ The address is Springbank Distillery, Well Close, Campbeltown PA28 6ET. Drivers 
 | Official site | springbank.scot |
 
 **Sources and limits.** The key claims about Springbank Distillery are checked against the following sources: J&A Mitchell & Co. Ltd (the distillery address, brands and current visit entry point; no text copied; tour duration, price and booking method; no text copied). For current products, addresses or opening status, use springbank.scot. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Malting](/media/photos/process-malting-631cf059.jpg)
+
+Image: Malting. Credit: Lakeworther, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Highland_park_malting_floor.jpg)). Related image for Springbank Distillery.

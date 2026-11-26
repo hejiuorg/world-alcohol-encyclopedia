@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:carmenere
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9a1232ec61fb17a320e9968274fc7c7fe1f9725f18c6184ec5eb69ca18aa3415
-source_sha256: 9a1232ec61fb17a320e9968274fc7c7fe1f9725f18c6184ec5eb69ca18aa3415
+source_revision: sha256:257b45addc64704d7d4af7c46722fa3c047cbe21ac0fe5c95538ca1a06ef562e
+source_sha256: 257b45addc64704d7d4af7c46722fa3c047cbe21ac0fe5c95538ca1a06ef562e
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -76,6 +76,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Carménère
 
 Carménère's story is a story of mistaken identity. It was once part of the Bordeaux blend, almost vanished from Europe after phylloxera, and then spent more than a century in Chile labelled as Merlot before being identified again in 1994. The variety ripens late, colours deeply and carries tannin that is firm but rounder than Cabernet Sauvignon. Its flavours move between sweet black plum and the greener notes of bell pepper, paprika and tobacco. Carménère is both Chile's signature grape and a clear lesson in how variety, climate and regulation combine to shape a wine (ref:wine).
@@ -144,3 +145,9 @@ Start with [Wine](ref:wine) for variety character, then read [Chile](ref:chile) 
 - [Chile](ref:chile): the variety's most important modern region.
 - [Colchagua](ref:colchagua): the core sub-region for Chilean Carménère.
 - [Oak ageing](ref:oak-ageing): the process behind its spice and structure.
+
+## Related images
+
+![Category image for Colchagua](/media/photos/organization-vinos-de-chile-7a79b0b2.jpg)
+
+Image: Category image for Colchagua. Credit: https://www.chile.gob.cl/india/noticias/lanzamiento-de-wines-of-chile-academy-en-dependencias-de-la-embajada, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vinos_chilenos.jpg)). Related image for Carménère.

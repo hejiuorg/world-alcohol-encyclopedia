@@ -24,8 +24,8 @@ tags:
 translation_of: region:mclaren-vale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:30c85ffc084b608f6f6dd288df35e1926f920ba6f368e15a241982b282ea2185
-source_sha256: 30c85ffc084b608f6f6dd288df35e1926f920ba6f368e15a241982b282ea2185
+source_revision: sha256:a5dfaf6ddd8305677c1087218f4752110ab031be2a2c21dc5ae276f56b34e874
+source_sha256: a5dfaf6ddd8305677c1087218f4752110ab031be2a2c21dc5ae276f56b34e874
 related:
   - relation: about
     target_id: region:australia
@@ -174,3 +174,13 @@ Most estates have a restaurant and tasting room. Arrive on time for appointments
 - Related: [australia](ref:australia), [syrah](ref:syrah), [cabernet-sauvignon](ref:cabernet), [red-wine](ref:red), [oak-ageing](ref:oak).
 
 **Short definition:** A region in the northern Fleurieu Peninsula, South Australia, with a Mediterranean climate, old vines and diverse soils; known for Shiraz, Grenache, Cabernet Sauvignon and Chardonnay, it received GI status in 1997 and represents Australia’s warm-climate style.
+
+## Related images
+
+![Photograph for Syrah: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+Image: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=114429512)). Related image for McLaren Vale.
+
+![Photograph for Australia: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-australia-968b262e.jpg)
+
+Image: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=9069567)). Related image for McLaren Vale.

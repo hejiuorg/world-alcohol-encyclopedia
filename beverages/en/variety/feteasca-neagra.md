@@ -22,8 +22,8 @@ tags:
 translation_of: variety:feteasca-neagra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:264a0c1dc5e87aa15f8afa6002627a26e2742bd87a51e194df2b4cae1fc17e4f
-source_sha256: 264a0c1dc5e87aa15f8afa6002627a26e2742bd87a51e194df2b4cae1fc17e4f
+source_revision: sha256:9d82f88b0c8933fe0da0cf32dccb501dd7be8df996a599c4afd56506e1f6e504
+source_sha256: 9d82f88b0c8933fe0da0cf32dccb501dd7be8df996a599c4afd56506e1f6e504
 related:
   - relation: about
     target_id: variety:pinot-noir
@@ -158,3 +158,9 @@ The most common mistake is treating "Fetească" as one variety. Fetească Albă 
 - To compare the Dealu Mare and Recaș terroirs, the most direct exercise is to taste two single-variety Fetească Neagră wines of the same vintage and sweetness, then compare acidity brightness, tannin texture and fruit concentration.
 
 For Fetească Neagră, begin with where it is grown, then how it is labelled, and finish with whether the style is dry or sweet; that order keeps the account grounded.
+
+## Related images
+
+![Photograph for Syrah: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+Image: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=114429512)). Related image for Fetească Neagră.

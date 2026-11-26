@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:stellenbosch
 source_lang: zh
-source_revision: sha256:3e6c1d1daa18d2ee449f84e135bc43d785a87efe7ba3db84e63602690854fb84
-source_sha256: 3e6c1d1daa18d2ee449f84e135bc43d785a87efe7ba3db84e63602690854fb84
+source_revision: sha256:9f7a015a835eb1b6785f4b287c0a17336fc8d992b54c2efbd035fc68be759954
+source_sha256: 9f7a015a835eb1b6785f4b287c0a17336fc8d992b54c2efbd035fc68be759954
 translation_status: reviewed
 level: other
 parent_id: region:south-africa
@@ -91,6 +91,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Stellenbosch
 
 Stellenbosch is the Western Cape's best-known wine district, about 45 km east of Cape Town and a legally defined district within the Wine of Origin system. It combines a colonial founding history with South Africa's first wine route and a mature premium red-wine industry.
@@ -171,3 +172,13 @@ Four misconceptions recur. First, treating 1971 as the year the WO scheme began:
 - [Vintage](ref:vintage): vintage variation and labelling rules.
 - [Single varietal](ref:single-varietal): the 85% variety labelling rule.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Photograph for South Africa: Vineyards in the Cederberg - South Africa. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+
+Image: Vineyards in the Cederberg - South Africa. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=4647540)). Related image for Stellenbosch.
+
+![Chenin Blanc](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+Image: Chenin Blanc. Credit: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)). Related image for Stellenbosch.

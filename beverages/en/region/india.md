@@ -24,8 +24,8 @@ tags:
 translation_of: region:india
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1b13a882676710bef0aae42bb51cedffbae68317fecb35a6f582f3f04843c3ef
-source_sha256: 1b13a882676710bef0aae42bb51cedffbae68317fecb35a6f582f3f04843c3ef
+source_revision: sha256:11dd3df68f7a6740e73ea000a7a77491a64e59a5efe814b0e0515da55722a665
+source_sha256: 11dd3df68f7a6740e73ea000a7a77491a64e59a5efe814b0e0515da55722a665
 related:
   - relation: about
     target_id: region:scotland
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; spirit regulations, labels and regional boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # India
 
 The national Indian whisky region, among the world’s largest by volume; materials include molasses neutral spirit, grain and malt, with styles from mass-market blends to single malts, and a tropical climate that ages whisky very fast.![Amrut Indian Single Malt Whisky bottle](/media/photos/region-india-0b81c3f3.jpg)
@@ -164,3 +165,13 @@ A bottle can be mass-market and still well made; judge the liquid and the label 
 
 - Related: [scotland](ref:scotland), [whisky](ref:whisky), [barley](ref:barley), [distillation](ref:distillation), [terroir](ref:terroir).
 - This region provides no map, prices or opening hours; confirm before travelling.
+
+## Related images
+
+![Category image for Scotland](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+Image: Category image for Scotland. Credit: Alan Jamieson, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)). Related image for India.
+
+![A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+Image: A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables. Credit: Rosser1954 Roger Griffith, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)). Related image for India.

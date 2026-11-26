@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、价格与菜单会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # In ’t Aepjen
 
 从阿姆斯特丹中央车站往南走几分钟，Zeedijk 街口会突然收窄。黑色木板的立面、白色的窗框、门楣上金色的 “In ’t Aepjen”，还有橱窗里一排排猴子玩偶与旧酒瓶，让这间店在红灯区边缘显得像一块被时间留下的木刻。它不是一个被复原出来的“荷兰主题酒吧”，而是一栋真的在十六世纪中叶建成的木构房屋，底层从 1980 年代后期才变成咖啡馆。
@@ -152,3 +153,9 @@ In ’t Aepjen 的核心是荷兰棕色咖啡馆的日常：啤酒、jenever 与
 - Amsterdam Tourism 的 In ’t Aepjen 文章：<https://amsterdamtourism.net/in-t-aepjen/>，用于核对猴子传说属民间故事与参考营业时间。
 - Atlas Obscura 的 In’t Aepjen 页面：<https://www.atlasobscura.com/places/in-t-aepjen>，用于核对地址、坐标与传说的流行版本；不要把其中的 1519 年当成档案事实。
 - 同城条目：[Café Hoppe](ref:hoppe)、[Café De Dokter](ref:dokter)、[Heineken Experience](ref:heineken)；跨城对照：[Cantillon](ref:cantillon)、[A Brasileira](ref:brasileira)。
+
+## 相关图像
+
+![阿姆斯特丹喜力体验馆的砖砌厂房立面，屋顶立着绿色 Heineken 标志。](/media/photos/place-heineken-experience-6ed3e1de.jpg)
+
+图：阿姆斯特丹喜力体验馆的砖砌厂房立面，屋顶立着绿色 Heineken 标志。。图片：Steven Lek，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Heineken_Experience_Amsterdam_2018_3.jpg)）。关联图像：In ’t Aepjen。

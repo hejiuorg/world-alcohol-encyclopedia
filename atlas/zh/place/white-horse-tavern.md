@@ -5,7 +5,7 @@ type: place
 lang: zh
 slug: white-horse-tavern
 title: 白马酒馆
-summary: 纽约格林威治村的历史酒馆，1880 年开业，因诗人迪伦·托马斯等文人顾客闻名。
+summary: 纽约格林威治村的历史酒馆，1880 年开业，因诗人迪伦·托马斯等文人顾客闻名；木质内饰与老式酒馆氛围保留至今，是村内代表性的文学地标。
 status: reviewed
 revision: 5
 subtype: pub
@@ -87,6 +87,7 @@ city: 纽约
 verification_scope: source-verified
 founded_year: 1880
 ---
+
 # 白马酒馆
 
 白马酒馆（White Horse Tavern）位于纽约曼哈顿西村 567 Hudson Street，1880 年开业。它最初是哈德逊河码头工人下班后喝酒的地方，1950 年代逐渐变成作家、艺术家与音乐人的聚集地。今天它最出名的标签是“迪伦·托马斯的最后一站”：1953 年 11 月 3 日，这位威尔士诗人在这里喝酒，几天后去世。关于那晚“连喝十八杯威士忌”的说法流传极广，但目击者的说法从六杯到八杯不等，十八杯更像传说，而不是可核实的数据。
@@ -146,3 +147,9 @@ founded_year: 1880
 | 官网 | whitehorsetavern1880.com |
 
 **来源与边界。** 本页关于「白马酒馆」的关键事实，主要由以下来源交叉核对：White Horse Tavern（创立时间、地址与历史背景；1880 年创立、码头工人客群、1950 年代文学艺术客群与店内原始木结构、锡制天花板）、City of New York（格林威治村与文学酒吧背景）、Bing Maps（坐标 40.73571, -74.00620 与 567 Hudson Street 门牌）。产品、地址或营业状态变化较快时，以 whitehorsetavern1880.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![麦克索利老麦酒馆](/media/photos/place-mcsorleys-old-ale-house-e0695349.jpg)
+
+图：麦克索利老麦酒馆。图片：Leonard J. DeFrancisci，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:McSorley%27s_Old_Ale_House_001_crop.jpg)）。关联图像：白马酒馆。

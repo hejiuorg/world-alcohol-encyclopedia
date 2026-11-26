@@ -78,6 +78,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 苦精
 
 苦精（bitters）是一种高浓度、以苦味植物为核心的酒精调味液。它通常不直接大口饮用，而是按滴、按 dash 或按几毫升加入鸡尾酒，像厨师用盐和胡椒一样调整整杯酒的香气、苦味和长度。它的酒精度通常不低，风味却极其浓缩；理解苦精，关键不是“苦不苦”，而是“它在整杯酒里做什么”。
@@ -139,3 +140,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「苦精」的关键事实，主要由以下来源交叉核对：Angostura（1824 年配方起源、特立尼达生产与 1831 年鸡尾酒配方记载）、Sazerac Company（新奥尔良苦精与 19 世纪调酒传统）、European Union（苦味烈酒类别与最低酒精度 15% vol 的法定门槛）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「苦精」与「利口酒」、「阿玛罗」、「味美思」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![一瓶 Amaro Montenegro 与一杯琥珀色阿玛罗，瓶身标签标着 Amaro Montenegro 与 Product of Italy。](/media/photos/drink-style-amaro-3d4ee5a9.jpg)
+
+图：一瓶 Amaro Montenegro 与一杯琥珀色阿玛罗，瓶身标签标着 Amaro Montenegro 与 Product of Italy。。图片：Shabbychef，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Amaro_Montenegro.jpg)）。关联图像：苦精。

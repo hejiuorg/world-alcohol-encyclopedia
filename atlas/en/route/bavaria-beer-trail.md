@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:bavaria-beer-trail
 source_lang: zh
-source_revision: sha256:b518bd55cba3f4998ece329f869007778daed9761a38d0d019f7363c460ed1e3
-source_sha256: b518bd55cba3f4998ece329f869007778daed9761a38d0d019f7363c460ed1e3
+source_revision: sha256:a529642e88c9118cbabbc09be167d056ef258823c4cb697ed73ade6c4698a4db
+source_sha256: a529642e88c9118cbabbc09be167d056ef258823c4cb697ed73ade6c4698a4db
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -205,3 +205,13 @@ Fifth, read the historical dates correctly. The Hofbräuhaus's 1589 is the found
 Sixth, this route describes the structure of the route and verifiable facts only. It does not provide live opening status, trains or fares, a map or coordinates: the three venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation and trains, use live map and rail enquiry services and follow on-site signage.
 
 Further reading: [Alsace Grand Cru trail: Kaysersberg and Riquewihr](ref:c-extra-1), [Armagnac trail: single estates of Bas-Armagnac](ref:c-extra-2).
+
+## Related images
+
+![Related photograph of Hofbräuhaus](/media/photos/place-hofbrauhaus-f739b1b7.jpg)
+
+Image: Related photograph of Hofbräuhaus. Credit: Burkhard Mücke, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2023-02-03_Hofbr%C3%A4uhaus_am_Platzl_07.jpg)). Related image for Bavaria beer trail: Munich to Bamberg.
+
+![Schlenkerla](/media/photos/place-schlenkerla-60ff74fd.jpg)
+
+Image: Schlenkerla. Credit: User:Mattes, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Schlenkerla_-_Nasenschild_in_Bamberg.JPG)). Related image for Bavaria beer trail: Munich to Bamberg.

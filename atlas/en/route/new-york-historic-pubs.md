@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:new-york-historic-pubs
 source_lang: zh
-source_revision: sha256:6483d1a8da59251a41c8d78ff750f6d604d3a798da1de079e8df7ab1cff4cf72
-source_sha256: 6483d1a8da59251a41c8d78ff750f6d604d3a798da1de079e8df7ab1cff4cf72
+source_revision: sha256:5d53f7c06653d6a62f46de5d796866b9ee7474da28057c6afc2bb7f008f2961c
+source_sha256: 5d53f7c06653d6a62f46de5d796866b9ee7474da28057c6afc2bb7f008f2961c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -207,3 +207,13 @@ Sixth, this route describes the structure of the route and verifiable facts only
 Further reading: [Alsace Grand Cru trail: Kaysersberg and Riquewihr](ref:c-extra-1), [Armagnac trail: single estates of Bas-Armagnac](ref:c-extra-2).
 
 Checked on 2026-11-08. This route describes route structure and verifiable facts only; it does not provide live opening status, a map or coordinates. The three venues' latitude and longitude remain empty in the content repository because no verifiable coordinate source was found, so the project rule is not to draw a schematic map. The East Village to Gramercy order is a reading order; use a live map and on-site signs for navigation.
+
+## Related images
+
+![McSorley’s Old Ale House](/media/photos/place-mcsorleys-old-ale-house-e0695349.jpg)
+
+Image: McSorley’s Old Ale House. Credit: Leonard J. DeFrancisci, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:McSorley%27s_Old_Ale_House_001_crop.jpg)). Related image for New York historic pubs: East Village to Gramercy.
+
+![Photograph for White Horse Tavern: White Horse Tavern PA. Credit: Smallbones, CC0, via Wikimedia Commons.](/media/photos/q2-place-white-horse-tavern-b0f0ef12.jpg)
+
+Image: White Horse Tavern PA. Credit: Smallbones, CC0, via Wikimedia Commons.. Credit: Smallbones, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13351900)). Related image for New York historic pubs: East Village to Gramercy.

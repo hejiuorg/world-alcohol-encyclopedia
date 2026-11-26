@@ -71,6 +71,7 @@ year_end: 1855
 calendar: 公历
 place_refs: []
 ---
+
 # 1855年波尔多分级：一张为世博会赶出的名单
 
 1855年4月18日，波尔多的经纪人交出一份名单，把当地最好的红葡萄酒与甜葡萄酒分成若干等级。这份名单原本是巴黎世界博览会葡萄酒展陈的配套说明，后来却成了波尔多最常被引用的质量坐标之一。理解它，关键不是背下五个等级的名字，而是弄清楚：谁做的、为什么做、依据什么、后来又改过什么。
@@ -160,3 +161,9 @@ place_refs: []
 - [拉菲](ref:lafite)：一级庄在名单与市场中的位置。
 - [赤霞珠](ref:cabernet-sauvignon)：梅多克红葡萄酒的主要品种。
 - [风土](ref:terroir)：地块、气候与品质之间的关系。
+
+## 相关图像
+
+![拉菲古堡红葡萄酒](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+图：拉菲古堡红葡萄酒。图片：PA，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)）。关联图像：1855年波尔多分级：一张为世博会赶出的名单。

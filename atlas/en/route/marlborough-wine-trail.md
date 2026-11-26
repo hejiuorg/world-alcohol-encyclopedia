@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:marlborough-wine-trail
 source_lang: zh
-source_revision: sha256:6e379fc4a39a6ae515f326d63a1a9b88f3f42d29175643fd7988db8006fbc1b1
-source_sha256: 6e379fc4a39a6ae515f326d63a1a9b88f3f42d29175643fd7988db8006fbc1b1
+source_revision: sha256:b4e2b34e1db9df52096e9b5d2497e8f625db3490bd7485a10964bb8239088c96
+source_sha256: b4e2b34e1db9df52096e9b5d2497e8f625db3490bd7485a10964bb8239088c96
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -136,3 +136,13 @@ Book the two stops separately: Cloudy Bay recommends booking its cellar door, an
 ## References
 
 This route was checked against Cloudy Bay's official visit page, New Zealand Winegrowers' Marlborough region page and 2026 release, the Yealands entry in the New Zealand Winegrowers directory, and Brancott's official brand page. Page verified 2026-11-09. Opening hours, booking rules, wines and prices change, so check each official channel.
+
+## Related images
+
+![Cloudy Bay](/media/photos/place-cloudy-bay-7d8861af.jpg)
+
+Image: Cloudy Bay. Credit: Crackerbuzz at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rarangi_Beach.jpg)). Related image for Marlborough wine trail: Wairau gravel to Awatere sea wind.
+
+![Photograph for Yealands: File:Moss Bridge, Yealands Redmayne.jpg. Credit: Barbara Carr, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-place-yealands-31110670.jpg)
+
+Image: File:Moss Bridge, Yealands Redmayne.jpg. Credit: Barbara Carr, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Barbara Carr, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=41189386)). Related image for Marlborough wine trail: Wairau gravel to Awatere sea wind.

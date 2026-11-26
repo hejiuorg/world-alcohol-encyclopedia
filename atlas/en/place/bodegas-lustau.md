@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:bodegas-lustau
 source_lang: zh
-source_revision: sha256:f40b3e1ce9f63419096a4fa98cd7d26f127cc73f1c62f62a0c342d78ee967ca1
-source_sha256: f40b3e1ce9f63419096a4fa98cd7d26f127cc73f1c62f62a0c342d78ee967ca1
+source_revision: sha256:93351449fab944ced41fccb28b32348519757cc0743d142139e42236af60b846
+source_sha256: 93351449fab944ced41fccb28b32348519757cc0743d142139e42236af60b846
 translation_status: reviewed
 subtype: winery-visitor
 address: Calle Arcos 53, 11402 Jerez de la Frontera, Cádiz, Spain
@@ -171,3 +171,9 @@ All three include tasting; the difference is the level of wine and the length, n
 **Driving**: the old town is made for walking, but do not drive after a tasting. Spit everything, or appoint a driver who is not drinking; Spain has clear drink-drive limits and local enforcement sets the detail.
 
 To place this stop in a wider context, read the [Jerez](ref:jerez) region page and the [Sherry](ref:sherry) style page, then compare the entries on [solera](ref:solera), [flor](ref:flor) and [fortification](ref:fortification). For another house that turns urban cellars into the main event, read [González Byass](ref:gb). The two are close enough to combine on foot or with a short drive into half a day.
+
+## Related images
+
+![Photograph for Bodegas González Byass: Jardines de las Bodegas González Byass - IMG 20220811 230512. Credit: El Pantera, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-place-gonzalez-byass-bodega-72eea18a.jpg)
+
+Image: Jardines de las Bodegas González Byass - IMG 20220811 230512. Credit: El Pantera, CC BY-SA 4.0, via Wikimedia Commons.. Credit: El Pantera, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=121644467)). Related image for Bodegas Lustau.

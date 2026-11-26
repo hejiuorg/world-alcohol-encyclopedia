@@ -78,6 +78,7 @@ rights:
   note: 第三方论文、档案说明、地图与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 葡萄根瘤蚜大流行：一场重塑欧洲葡萄园的危机
 
 葡萄根瘤蚜大流行是 19 世纪下半叶葡萄酒史上影响最深的生态灾难之一。一种原产北美、体长不足一毫米的根瘤蚜，随引进的葡萄苗木进入欧洲，在数十年间摧毁大片葡萄园。它迫使欧洲人重新思考“葡萄该怎么种”，也间接改变了品种结构、苗木产业、产区制度与[葡萄酒](ref:wine)的供给格局。
@@ -137,3 +138,9 @@ verification_scope: source-verified
 - FranceArchives，La vigne et le vin，https://francearchives.gouv.fr/fr/article/128963263
 - HAL / INRAE，The Plagues of the Vine，https://hal.inrae.fr/hal-05304641/file/FrancoisDelmotte_conf-clos-vougeot_HAL.pdf
 - Bureau National Interprofessionnel de l'Armagnac，Grape varieties and terroirs — Baco，http://www.armagnac.fr/grape-varieties-and-terroirs
+
+## 相关图像
+
+![法国 AOC 制度（1935）：原产地控制命名的诞生类别配图](/media/photos/place-cafe-procope-e1f880f0.jpg)
+
+图：法国 AOC 制度（1935）：原产地控制命名的诞生类别配图。图片：Jean-Marie Hullot from France，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Le_Procope_1,_Paris_2010.jpg)）。关联图像：葡萄根瘤蚜大流行：一场重塑欧洲葡萄园的危机。

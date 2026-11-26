@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:saint-julien
 source_lang: zh
-source_revision: sha256:dc820ca27b4300d01f207de3820ef2f6ec67fa8f4c1c7e6660bc967f75b198ba
-source_sha256: dc820ca27b4300d01f207de3820ef2f6ec67fa8f4c1c7e6660bc967f75b198ba
+source_revision: sha256:2129f7df29d2cb8fdcf24eca3a66bdcd18b2994e7f4237f3b2e1b4602a29fd4a
+source_sha256: 2129f7df29d2cb8fdcf24eca3a66bdcd18b2994e7f4237f3b2e1b4602a29fd4a
 translation_status: reviewed
 level: city
 parent_id: region:france
@@ -82,6 +82,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Saint-Julien
 
 Saint-Julien is a red-wine appellation on the left bank of the Gironde between Pauillac and Margaux, recognised as an AOC on 14 November 1936. Its vineyard area is modest, yet it contains 11 classified growths from 1855, 5 of them second growths, and the commune has no first growth at all; this dense structure without a summit is what most clearly separates it from Pauillac and Margaux.
@@ -152,3 +153,13 @@ Read Saint-Julien through the appellation and its permitted varieties, then the 
 - [Merlot](ref:merlot): softening the middle and adding earlier fruit.
 - [Red wine](ref:red-wine): an overview of still red wine and winemaking.
 - [Oak ageing](ref:oak-ageing): how barrel ageing shapes tannin and aroma.
+
+## Related images
+
+![Photograph for France: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.](/media/photos/q2-region-france-338f007d.jpg)
+
+Image: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.. Credit: Mustang Joe, CC0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/63234672@N04/13180177073)). Related image for Saint-Julien.
+
+![Thematic illustration for Red wine](/media/photos/theme-wine-spirits.jpg)
+
+Image: Thematic illustration for Red wine. Project-made bilingual editorial figure, not an on-site photograph. Related image for Saint-Julien.

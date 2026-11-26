@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产量、配额与参观政策会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 罗曼尼康帝酒庄
 
 从沃恩-罗曼尼村中心往北，D974 公路两侧的葡萄园被低矮石墙切成一块一块。Romanée-Conti 只有 1.81 公顷，坡地朝东偏南，站在路边几乎看不出它与邻居的差别。它的名气与面积完全不成比例，而酒庄本身没有游客中心、没有 cellar door，只有一扇常闭的铁门。理解罗曼尼康帝，最好先把“神话”放一边，从土地、家族与极低产量开始。
@@ -146,3 +147,9 @@ DRC 的酒单可以按三组理解。核心是两块独占园：Romanée-Conti �
 - 同产区对照：[Louis Jadot](ref:jadot)、[Château de Meursault](ref:meursault)、[Hospices de Beaune](ref:hospices)、[勃艮第特级园路线](ref:route)。
 - 背景阅读：[勃艮第产区](ref:burgundy)。
 - 若对“土地如何进入酒”的方法论感兴趣，可继续看项目中的产地与工艺条目；本页不提供地图，也不鼓励未经许可的庄内拍摄。
+
+## 相关图像
+
+![“勃艮第路线：博讷老城、默尔索与酒商文化”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-route-burgundy-grands-crus-drive-9d3b5378.jpg)
+
+图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：罗曼尼康帝酒庄。

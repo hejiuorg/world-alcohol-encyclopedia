@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: variety:sauvignon-blanc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c6a25e53bf3246f71020aade89454aba07d64c2d9bdb49252aa47268fc65baa8
-source_sha256: c6a25e53bf3246f71020aade89454aba07d64c2d9bdb49252aa47268fc65baa8
+source_revision: sha256:19709358141d395f94e0cba8177e46a235b680978ca3ed769f066e243581dc07
+source_sha256: 19709358141d395f94e0cba8177e46a235b680978ca3ed769f066e243581dc07
 species: Vitis vinifera
 aliases:
   - Sauvignon
@@ -70,6 +70,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Sauvignon Blanc
 
 Sauvignon Blanc is one of the most aromatic white grape varieties. Its skins are relatively thin and its acidity high, and it often shows citrus, grass, gooseberry and tropical notes; cool regions make it fresh, while warm regions push it toward tropical fruit. It can be made as a varietal wine or blended with Sémillon and other varieties.![related photograph of Sauvignon Blanc](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
@@ -150,3 +151,9 @@ For Sauvignon Blanc, this variety was last checked in 2026; prices, batches and 
 - [White wine](ref:white-wine): the basics of white winemaking and style.
 - [Bordeaux](ref:bordeaux): the regional background of Sauvignon Blanc and Sémillon blends.
 - [France](ref:france): the national framework for the Loire and Bordeaux regions.
+
+## Related images
+
+![Photograph for France: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.](/media/photos/q2-region-france-338f007d.jpg)
+
+Image: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.. Credit: Mustang Joe, CC0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/63234672@N04/13180177073)). Related image for Sauvignon Blanc.

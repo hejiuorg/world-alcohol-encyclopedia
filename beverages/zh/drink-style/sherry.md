@@ -81,6 +81,7 @@ rights:
   note: 本页配图为维基共享资源的 Lustau 酒窖实拍照片，按 CC BY-SA 4.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 雪莉
 
 雪莉（Sherry）是西班牙南部赫雷斯地区的加强葡萄酒。它的特殊之处不在于“加了酒精”，而在于加强之后的两条陈酿路径：一条在酒花（flor）覆盖下进行生物陈酿，得到极干、轻盈、带面包与杏仁香气的菲诺；另一条在氧气中陈酿，得到颜色深、带坚果与焦糖风味的奥罗索。再加上索莱拉系统的逐级调配，雪莉形成了一套与普通葡萄酒完全不同的时间逻辑。
@@ -186,3 +187,9 @@ verification_scope: source-verified
 - [酒花](ref:flor)：生物陈酿的核心酵母膜。
 - [帕洛米诺](ref:palomino)：雪莉的主要葡萄品种。
 - [赫雷斯](ref:jerez)：雪莉的法定产区与风土背景。
+
+## 相关图像
+
+![酒花（flor）](/media/photos/term-flor-f79b3e31.jpg)
+
+图：酒花（flor）。图片：El Pantera，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:FLOR-ValdiviaJerez59.jpg)）。关联图像：雪莉。

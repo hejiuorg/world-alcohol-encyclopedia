@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:kagoshima-shochu-route
 source_lang: zh
-source_revision: sha256:8adb56cb08e3a65b951fe408f09d19a9360d7d3630954647797c54d08a3dcf05
-source_sha256: 8adb56cb08e3a65b951fe408f09d19a9360d7d3630954647797c54d08a3dcf05
+source_revision: sha256:52b8a904bcd72c8853f5b25e5ed3895d1a295180d380c97e8fae412c6879bfce
+source_sha256: 52b8a904bcd72c8853f5b25e5ed3895d1a295180d380c97e8fae412c6879bfce
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -168,3 +168,13 @@ Meijigura is free to enter, but groups and visits should call ahead; Kirishima F
 - [Table 5, liquor tax rates](https://www.nta.go.jp/taxes/sake/shiori-gaikyo/shiori/2026/pdf/05_01.pdf), National Tax Agency, checked for the shochu tax base at 20 degrees.
 
 Page verified on 2026-11-09; hours, tour sessions and opening arrangements are subject to official channels.
+
+## Related images
+
+![Related photograph of Satsuma Shochu Meijigura](/media/photos/place-satsuma-shochu-meijigura-dc51a493.jpg)
+
+Image: Related photograph of Satsuma Shochu Meijigura. Credit: Sakaori ( talk ), CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Satsuma_Shuzo%27s_Kedogawa_Shochu_factory_and_museum,_Meijigura.JPG)). Related image for Kagoshima shochu route: Makurazaki to Miyakonojo.
+
+![Bottled examples of Amami kokuto shochu, a regional type of Japanese shochu.](/media/photos/drink-style-shochu-f0b3c090.jpg)
+
+Image: Bottled examples of Amami kokuto shochu, a regional type of Japanese shochu.. Credit: Hhaithait, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg)). Related image for Kagoshima shochu route: Makurazaki to Miyakonojo.

@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:assyrtiko
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1bcef2d27ce4fd83175bfe130762b0de6a7e16df41905cafa1c68328d1441a45
-source_sha256: 1bcef2d27ce4fd83175bfe130762b0de6a7e16df41905cafa1c68328d1441a45
+source_revision: sha256:fe8b42c71a3e59d97375445afff0661ec418884820da5eff1d793744eff7a366
+source_sha256: fe8b42c71a3e59d97375445afff0661ec418884820da5eff1d793744eff7a366
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -148,3 +148,9 @@ First, that Assyrtiko is always sweet; Vinsanto is one branch, and dry white is 
 - [Acidity](ref:acidity): the structural key to Assyrtiko.
 - [Terroir](ref:terroir): the framework for discussing Santorini's soil and sea wind.
 - [Fermentation](ref:fermentation): the process behind its dry and sweet styles.
+
+## Related images
+
+![Wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Image: Wine. Credit: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Related image for Assyrtiko.

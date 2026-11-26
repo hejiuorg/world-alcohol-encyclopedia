@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:tokyo-bar-route
 source_lang: zh
-source_revision: sha256:6b052da42eabde53c3fb0c626ced2d7fddf9dc751709cf5af81b7bbcc359d57d
-source_sha256: 6b052da42eabde53c3fb0c626ced2d7fddf9dc751709cf5af81b7bbcc359d57d
+source_revision: sha256:5d39aeb7fefba08cc86130c09ad84924ab31bd23995aea591a70dc4fd3b3865f
+source_sha256: 5d39aeb7fefba08cc86130c09ad84924ab31bd23995aea591a70dc4fd3b3865f
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -190,3 +190,13 @@ The route does not guarantee any day's opening. If the first stop is full, do no
 Page verified on 2026-11-09; hours, booking rules and prices are subject to official channels.
 
 Further reading: [Alsace Grand Cru trail: Kaysersberg and Riquewihr](ref:c-extra-1).
+
+## Related images
+
+![Photograph for Star Bar Ginza: File:YamazakiDistillery 01.jpg. Credit: Ujigis, CC BY-SA 4.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.](/media/photos/q2-place-star-bar-ginza-5aef3a60.jpg)
+
+Image: File:YamazakiDistillery 01.jpg. Credit: Ujigis, CC BY-SA 4.0, via the site archive. Category photograph used to illustrate the subject; not an official product image.. Credit: Ujigis, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)). Related image for Tokyo bar route: two bartenders in Ginza.
+
+![Thematic illustration for Stirring](/media/photos/theme-beer.jpg)
+
+Image: Thematic illustration for Stirring. Project-made bilingual editorial figure, not an on-site photograph. Related image for Tokyo bar route: two bartenders in Ginza.

@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 圣酒
 
 圣酒（Vin Santo）是意大利中部、尤其托斯卡纳传统的风干葡萄甜型（也有半干型）葡萄酒：葡萄先在通风处所风干浓缩，缓慢发酵后在小型木桶中长期陈年，酒色金珀，带杏干、葡萄干、无花果、蜂蜜、坚果与焦糖气息，传统上配 cantucci 杏仁饼食用。
@@ -151,3 +152,9 @@ Vin Santo 传统上作为餐后甜酒饮用，适饮温度约 12–15°C，略�
 学习一类特种葡萄酒，可以先喝最标准的基准款，再试一个换品种或甜度的变体，最后接触一个长陈极端款；三步之后，风格边界会比读定义更清楚。
 
 - 相关条目：[dessert-wine](ref:dessert-wine)、[late-harvest](ref:late-harvest)、[oak-ageing](ref:oak)、[tuscany](ref:tuscany)、[wine](ref:wine)。
+
+## 相关图像
+
+![晚收（late harvest）](/media/photos/term-late-harvest-fde1a4f5.jpg)
+
+图：晚收（late harvest）。图片：Agne27，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Late_harvest_Semillon.jpg)）。关联图像：圣酒。

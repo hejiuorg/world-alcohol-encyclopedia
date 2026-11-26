@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:tennessee-whiskey-trail
 source_lang: zh
-source_revision: sha256:a48e6e6f5e538d0808a63928a53e2076df17b3b7c8c085a17edc9429c599b0f8
-source_sha256: a48e6e6f5e538d0808a63928a53e2076df17b3b7c8c085a17edc9429c599b0f8
+source_revision: sha256:ab982c766cbb0b3217ec28924237fcda796914d92a6201c0f2594a13fdce5e27
+source_sha256: ab982c766cbb0b3217ec28924237fcda796914d92a6201c0f2594a13fdce5e27
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -78,6 +78,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # Tennessee whiskey trail: Lynchburg and Cascade Hollow
 
 Tennessee whiskey is often described as bourbon with a charcoal filter, and that is only half right. The grain and cask rules come close to bourbon, but the charcoal step, the requirement to finish in Tennessee and the brands' own choices make the category stand on its own. This route takes two places: Jack Daniel's in Lynchburg and George Dickel at Cascade Hollow. They are half an hour to forty minutes apart, make the same kind of spirit, and give two answers, one at ambient temperature and one chilled.!["Tennessee whiskey trail: Lynchburg and Cascade Hollow" category image](/media/photos/q2-region-tennessee-acaafa61.jpg)
@@ -143,3 +144,13 @@ Tennessee whiskey trail is best approached through the order of stops, then the 
 **Sources and limits.** The key claims about Tennessee whiskey trail: Lynchburg and Cascade Hollow are checked against the following sources: Jack Daniel's, George Dickel, Tennessee Whiskey Trail (Used to check the spread of Tennessee distilleries, how visits are linked and the booking entry) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 **Read alongside.** Put Tennessee whiskey trail: Lynchburg and Cascade Hollow next to Jack Daniel's Distillery, George Dickel Distillery, Tennessee: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this route first, then return to those entries; the links become coordinates, not decoration.
+
+## Related images
+
+![Category image for United States](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+Image: Category image for United States. Credit: Luke, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)). Related image for Tennessee whiskey trail: Lynchburg and Cascade Hollow.
+
+![Jack Daniel's Distillery](/media/photos/place-jack-daniels-distillery-1ab6c621.jpg)
+
+Image: Jack Daniel's Distillery. Credit: Ben Jacobson ( Kranar Drogin ), CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)). Related image for Tennessee whiskey trail: Lynchburg and Cascade Hollow.

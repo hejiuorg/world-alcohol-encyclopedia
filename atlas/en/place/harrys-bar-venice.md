@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:harrys-bar-venice
 source_lang: zh
-source_revision: sha256:0bcab7ab56f77f6adcb94b0a4489a7b20faf9d778ee5fa6643407924178a9fb0
-source_sha256: 0bcab7ab56f77f6adcb94b0a4489a7b20faf9d778ee5fa6643407924178a9fb0
+source_revision: sha256:dd95b6f3be62ed6a0851dd8c9521abaacb0e170dde0a0621849db46544909ffe
+source_sha256: dd95b6f3be62ed6a0851dd8c9521abaacb0e170dde0a0621849db46544909ffe
 translation_status: reviewed
 subtype: pub
 address: Calle Vallaresso 1323, 30124 Venezia, Italy
@@ -150,3 +150,9 @@ If you have time for only one stop, put Harry's Bar in the early evening, when t
 - [Venice San Marco two-bar walk](ref:venice-route): the two stops as a short walking route.
 
 To read Harry's Bar Venice, start with the address, then the current opening status, then what the place is known for; no single check settles it.
+
+## Related images
+
+![Piazza San Marco in Venice at dusk, with the campanile and the Procuratie framing the square.](/media/photos/route-venice-san-marco-two-bars-5def5f8f.jpg)
+
+Image: Piazza San Marco in Venice at dusk, with the campanile and the Procuratie framing the square.. Credit: Matthias Süßen, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(Venice)_at_night-msu-2021-6449-.jpg)). Related image for Harry's Bar Venice.

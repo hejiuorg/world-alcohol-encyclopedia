@@ -24,8 +24,8 @@ tags:
 translation_of: region:coonawarra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:82806f470d97f792f0c0cc6cf42628d22b83865b2f08e2464c7fb021a0e551eb
-source_sha256: 82806f470d97f792f0c0cc6cf42628d22b83865b2f08e2464c7fb021a0e551eb
+source_revision: sha256:f9d01d8567f00f86dba4726251fb1384acb5374e54e461d72a69dcd2ffe26f62
+source_sha256: f9d01d8567f00f86dba4726251fb1384acb5374e54e461d72a69dcd2ffe26f62
 related:
   - relation: about
     target_id: region:australia
@@ -171,3 +171,13 @@ Most estates run cellar-door tastings, and flagship releases and weekends are be
 - Related: [australia](ref:australia), [cabernet-sauvignon](ref:cabernet), [merlot](ref:merlot), [red-wine](ref:red), [oak-ageing](ref:oak).
 
 [Australia](ref:australia) explains geographic boundary; [Merlot](ref:merlot) adds climate and soil. Put Coonawarra between them before deciding what it is.
+
+## Related images
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Coonawarra.
+
+![Photograph for Australia: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-australia-968b262e.jpg)
+
+Image: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=9069567)). Related image for Coonawarra.

@@ -25,8 +25,8 @@ tags:
 translation_of: region:islands
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:21c952c16360aab1acb3cc24eb69d29f60a89513cc0e9937a207edc7bf553842
-source_sha256: 21c952c16360aab1acb3cc24eb69d29f60a89513cc0e9937a207edc7bf553842
+source_revision: sha256:8ece0b8a407665d3a3b3a36a614a953f0d03b98f394b33a87bcf97827b2215c2
+source_sha256: 8ece0b8a407665d3a3b3a36a614a953f0d03b98f394b33a87bcf97827b2215c2
 related:
   - relation: about
     target_id: region:scotland
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; spirit regulations, labels and regional boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Islands
 
 The “Islands” of Scotch whisky are not a legal region but a grouping of island distilleries outside Islay, including Arran, Jura, Skye, Lewis and Orkney; styles range from light and floral to peated and maritime, so no single flavour defines them.
@@ -168,3 +169,13 @@ Small island batches often sell only at the distillery or online, so check stock
 
 - Related: [scotland](ref:scotland), [whisky](ref:whisky), [barley](ref:barley), [distillation](ref:distillation), [peat-phenol-ppm](ref:peat).
 - This region provides no map, prices or opening hours; confirm before travelling.
+
+## Related images
+
+![A peat bog below Doune Hill in the Luss Hills, Scotland; a peatland scene, not a PPM measuring instrument and not a sample of any bottled whisky](/media/photos/term-peat-phenol-ppm-f712837c.jpg)
+
+Image: A peat bog below Doune Hill in the Luss Hills, Scotland; a peatland scene, not a PPM measuring instrument and not a sample of any bottled whisky. Credit: Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_peat_bog_below_the_top_of_Doune_Hill,_Luss_Hills,_Scotland.jpg)). Related image for Islands.
+
+![Barley](/media/photos/ingredient-barley-37a96001.jpg)
+
+Image: Barley. Credit: Cliff from Arlington, Virginia, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)). Related image for Islands.

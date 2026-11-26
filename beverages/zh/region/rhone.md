@@ -93,6 +93,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 罗讷河谷
 
 罗讷河谷是法国东南部沿罗讷河分布的葡萄酒产区，从维埃纳（Vienne）向南延伸到阿维尼翁（Avignon）。北部是狭窄的陡坡地带，南部是开阔的谷地，两地在气候、土壤、品种与法规上差异明显，共同构成法国第二大葡萄酒产区带。
@@ -171,3 +172,13 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「罗讷河谷」的关键事实，主要由以下来源交叉核对：INAO（罗讷河谷各法定产区的范围、品种与法规框架；由原条目末尾参考资料迁移，未逐条复核访问日期）、Inter Rhône（南北罗讷的分区、气候、土壤与代表产区；由原条目末尾参考资料迁移，未逐条复核访问日期）、Oxford University Press（提供关于罗讷河谷、叙拉与歌海娜的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「罗讷河谷」与「法国」、「红葡萄酒」、「西拉」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![圣约瑟夫](/media/photos/drink-france-saint-joseph-fc228dea.jpg)
+
+图：圣约瑟夫。图片：Guido Reni，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Saint_Joseph_with_the_Infant_Jesus_by_Guido_Reni,_c_1635.jpg)）。关联图像：罗讷河谷。
+
+![克罗兹-埃米塔日](/media/photos/drink-france-crozes-hermitage-80511622.jpg)
+
+图：克罗兹-埃米塔日。图片：VM PHOTOS FRANCE，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VM_PHOTOS_CROZES_PLACE_DE_LA_MAIRIE.jpg)）。关联图像：罗讷河谷。

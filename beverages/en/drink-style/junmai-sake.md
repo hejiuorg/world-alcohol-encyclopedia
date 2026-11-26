@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:junmai-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:47fbb7b7192c9fa2491e5b89a90c1665eb63d2c1ca94a5b8c94f7542365d5859
-source_sha256: 47fbb7b7192c9fa2491e5b89a90c1665eb63d2c1ca94a5b8c94f7542365d5859
+source_revision: sha256:903a03d9965fd4d47dc7f0467e1b433a1507fa1723271a0fdffacc353ce1dbe1
+source_sha256: 903a03d9965fd4d47dc7f0467e1b433a1507fa1723271a0fdffacc353ce1dbe1
 legacy_refs: []
 aliases:
   - Junmai
@@ -79,6 +79,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Junmai sake
 
 Junmai sake is a category of [sake](ref:sake) made only from rice, rice koji and water, with no added brewing alcohol. Its sub-categories, junmai ginjo and junmai daiginjo, correspond to lower polishing ratios and longer fermentation at lower temperatures. Understanding junmai means separating the raw-material rule from the polishing-ratio rule.![related photograph of Junmai sake](/media/photos/drink-style-junmai-sake-c56e7eb1.jpg)
@@ -161,3 +162,9 @@ For Junmai sake, this style was last checked in 2026; prices, batches and availa
 - [Rice](ref:rice): the difference between sake rice and table rice.
 - [Kimoto and yamahai](ref:kimoto-yamahai): sake-mother routes often paired with junmai.
 - [Japan](ref:japan): the regional and national background.
+
+## Related images
+
+![Qu making](/media/photos/process-qu-making-ff7ff7ce.jpg)
+
+Image: Qu making. Credit: Uranassbandit, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hongqu_3.jpg)). Related image for Junmai sake.

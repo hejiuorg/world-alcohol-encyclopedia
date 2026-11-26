@@ -31,8 +31,8 @@ tags:
 translation_of: place:casa-labra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:906e216393925dbbea3d6489c5c1595577cbf0d15162bb89d5fdb55985f11897
-source_sha256: 906e216393925dbbea3d6489c5c1595577cbf0d15162bb89d5fdb55985f11897
+source_revision: sha256:931afe62b795fde31e107a8b9a464e3e14b83c645f72b87efae44c8996bf35f2
+source_sha256: 931afe62b795fde31e107a8b9a464e3e14b83c645f72b87efae44c8996bf35f2
 related:
   - relation: about
     target_id: place:els-quatre-gats
@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1860
 ---
+
 # Casa Labra
 
 From Puerta del Sol, turn north into Calle de Tetuán. A few dozen metres along, an old glass sign and a curved wooden facade appear, with people standing at the door eating fried fish. Casa Labra is not a restaurant with menus, waiters and tablecloths; it is an old tavern where you eat standing up: a zinc counter, small marble tables, sayings and old photographs on the wall, and freshly fried bacalao piled behind the counter. It is a minute from Puerta del Sol, yet keeps the rhythm of a nineteenth-century Madrid taberna.
@@ -163,3 +164,9 @@ For Casa Labra, begin with the address. Then look at the current opening status,
 | Official site | casalabra.es |
 
 **Sources and limits.** The key claims about Casa Labra are checked against the following sources: Casa Labra (Used to cross-check 1860, 1879, the Molina family, bacalao and the hours), Puerta del Sol (Used for the Puerta del Sol location, zinc counter, marble tables, curved wooden facade and wall sayings), Restaurantes Centenarios de Madrid (Used to cross-check the 1860 opening, the 1947 Molina takeover and the 2010 150th anniversary). For current products, addresses or opening status, use casalabra.es. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The Art Nouveau facade and "MAJESTIC" sign of Café Majestic, Rua de Santa Catarina 112](/media/photos/place-cafe-majestic-c4f8fe17.jpg)
+
+Image: The Art Nouveau facade and "MAJESTIC" sign of Café Majestic, Rua de Santa Catarina 112. Credit: Maragato1976, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Majestic_(Porto).jpg)). Related image for Casa Labra.

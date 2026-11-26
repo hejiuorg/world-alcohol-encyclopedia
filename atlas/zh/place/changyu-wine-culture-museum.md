@@ -92,6 +92,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、票务与展陈会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 张裕酒文化博物馆
 
 张裕酒文化博物馆在烟台市芝罘区大马路 56 号，建在张裕公司的老厂区里。张裕由张弼士于 1892 年创办，博物馆则在 1992 年、也就是张裕百年之际正式启用。馆方称它为中国首家葡萄酒专业博物馆，今天同时挂着国家一级博物馆、国家 4A 级旅游景区和首批国家工业旅游示范基地等身份。它不是一座酒庄，而是一座把企业史、工业遗产和葡萄酒消费放在同一条时间线上的博物馆。
@@ -186,3 +187,9 @@ verification_scope: source-verified
 补充阅读：[烟台张裕葡萄酿酒股份有限公司](ref:c-extra-1)、[张裕葡萄酒](ref:c-extra-2)、[A Ginjinha](ref:c-extra-3)。
 
 相关条目：[葡萄酒](ref:wine)、[中国](ref:china)、[烟台张裕葡萄酿酒股份有限公司](ref:c-extra-1)。
+
+## 相关图像
+
+![“张裕葡萄酒”页面配图：Guang Lu Di in Dabu. Built in 1908, former residence of Cheong Fatt Tze who was the founder of Changyu Wine (19324457523)。摄影：Yun Huang Yong from Harbord, Australia，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-drink-shandong-changyu-6443ebbb.jpg)
+
+图：Guang Lu Di in Dabu. Built in 1908, former residence of Cheong Fatt Tze who was the founder of Changyu Wine (19324457523)。摄影：Yun Huang Yong from Harbord, Australia，CC BY 2.0，来自 Wikimedia Commons。。图片：Yun Huang Yong from Harbord, Australia，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=140102273)）。关联图像：张裕酒文化博物馆。

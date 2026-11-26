@@ -71,6 +71,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 安徽省
 
 安徽省位于中国东部，长江与淮河自西向东横贯省境，把全省大致分为淮北平原、江淮丘陵与皖南山区三部分。安徽是白酒生产大省，皖北的浓香与兼香风格尤为集中，亳州古井镇是古井贡酒的产地。
@@ -152,3 +153,13 @@ verification_scope: source-verified
 **并读。** 把「安徽省」与「中国」、「白酒」、「浓香型白酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「安徽省」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![古井贡酒](/media/photos/brand-gujing-gongjiu-ef9d4a5d.jpg)
+
+图：古井贡酒。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gujing_Gongjiu_at_a_supermarket_in_Beijing_(20241109164639).jpg)）。关联图像：安徽省。
+
+![浓香型白酒](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
+
+图：浓香型白酒。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)）。关联图像：安徽省。

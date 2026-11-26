@@ -81,6 +81,7 @@ stop_ids:
 mode: rail
 updated_at: 2026-11-08
 ---
+
 # 比利时啤酒路线：兰比克与布鲁日城市艾尔
 
 这条路线只有两站，却跨了两座城市：布鲁塞尔西南安德莱赫特的康帝隆，和布鲁日老城的半月酒厂。前者把麦汁交给空气里的野生微生物，后者把选育好的酵母收进发酵罐；一个依赖时间与不可控，一个依赖设备与配方。两座城市之间乘火车约一小时，一天可以完成。它适合愿意早起、接受酸味、不把“比利时啤酒”当成单一味道的人。
@@ -139,3 +140,13 @@ updated_at: 2026-11-08
 补充阅读：[兰比克](ref:c-extra-1)。
 
 相关条目：[兰比克](ref:c-extra-1)、[康帝隆酒厂](ref:cantillon)、[半月酒厂](ref:halve-maan)。
+
+## 相关图像
+
+![兰比克](/media/photos/drink-style-lambic-e4a01a2a.jpg)
+
+图：兰比克。图片：Paul Hermans at Dutch Wikipedia，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bieren_uit_de_streek_rond_brussel.jpg)）。关联图像：比利时啤酒路线：兰比克与布鲁日城市艾尔。
+
+![贵兹](/media/photos/drink-style-gueuze-32f50b06.webp)
+
+图：贵兹。图片：Strangerhappenings，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Oude_Gueuze_bottle.png)）。关联图像：比利时啤酒路线：兰比克与布鲁日城市艾尔。

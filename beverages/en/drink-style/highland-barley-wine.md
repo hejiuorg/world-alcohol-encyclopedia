@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:highland-barley-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c3be3ce1598f961b3ebd871b5e2ef5b4fff5bcc7cac53bb8ad135d23718214f0
-source_sha256: c3be3ce1598f961b3ebd871b5e2ef5b4fff5bcc7cac53bb8ad135d23718214f0
+source_revision: sha256:c8de52dc516cf7a02115f4b290bac44ea781ef527cfe648212b339aad8410571
+source_sha256: c8de52dc516cf7a02115f4b290bac44ea781ef527cfe648212b339aad8410571
 legacy_refs: []
 aroma_family: highland barley, tsampa and yoghurt
 aliases:
@@ -147,3 +147,9 @@ Fermented barley wine with a sour, mouldy or gassy smell should be discarded. Di
 Further reading: [Abbey beer](ref:c-extra-1).
 
 [Barley](ref:barley) and [Distillation](ref:distillation) are the two useful reference points for Highland Barley Wine. [Barley](ref:barley) sets out legal definition; [Distillation](ref:distillation) brings in materials and process. Read them together.
+
+## Related images
+
+![Abbey beer](/media/photos/drink-style-abbey-beer-276b4dc3.jpg)
+
+Image: Abbey beer. Credit: BLloydT, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_wall_of_Belgian_beer_bottles_at_the_Bruges_beer_experience.jpg)). Related image for Highland Barley Wine.

@@ -25,8 +25,8 @@ tags:
 translation_of: region:andong
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:27f94b47e033a2773502e16d739cf2d72e8de9b1d2e76aca582a387d6d5dc909
-source_sha256: 27f94b47e033a2773502e16d739cf2d72e8de9b1d2e76aca582a387d6d5dc909
+source_revision: sha256:cba65437a8d17134dab3482be24b538312640038e2ebe7dfbf533628ba730627
+source_sha256: cba65437a8d17134dab3482be24b538312640038e2ebe7dfbf533628ba730627
 related:
   - relation: about
     target_id: region:south-korea
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; spirit regulations, labels and regional boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Andong
 
 A traditional soju region in Andong, North Gyeongsang Province, South Korea, built on rice, nuruk and pot distillation; Andong Soju is a designated intangible cultural heritage, high in alcohol and rich in rice and culture aroma, a representative of Korean traditional drink.![White ceramic Andong soju bottles](/media/photos/region-andong-a866c9fa.jpg)
@@ -166,3 +167,13 @@ A final note: the best traditional bottles are often small batches, not the loud
 
 - Related: [south-korea](ref:south-korea), [soju](ref:soju), [rice](ref:rice), [fermentation](ref:fermentation), [terroir](ref:terroir).
 - This region provides no map, prices or opening hours; confirm before travelling.
+
+## Related images
+
+![Soju](/media/photos/drink-style-soju-8b1cabb3.jpg)
+
+Image: Soju. Credit: Graham Hills, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Soju.jpg)). Related image for Andong.
+
+![Terroir](/media/photos/term-terroir-c440d7e4.jpg)
+
+Image: Terroir. Credit: Friedrich Petersdorff, CC BY-SA 2.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)). Related image for Andong.

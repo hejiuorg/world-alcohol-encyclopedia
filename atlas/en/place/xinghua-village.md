@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:xinghua-village
 source_lang: zh
-source_revision: sha256:646e705cd15a76d6aaf98dd491ed202787409fa37b615046d145093dfbd032d9
-source_sha256: 646e705cd15a76d6aaf98dd491ed202787409fa37b615046d145093dfbd032d9
+source_revision: sha256:5df067909bd3e459ce617d7f25a61cd97420dafb5843a61c6a0c0c418a32dd5b
+source_sha256: 5df067909bd3e459ce617d7f25a61cd97420dafb5843a61c6a0c0c418a32dd5b
 translation_status: reviewed
 subtype: distillery-visitor
 address: Fenjiu plant, Xinghua Village, Fenyang, Lyuliang, Shanxi, China
@@ -69,25 +69,25 @@ sources:
     title: 汾酒博物馆 — 汾酒集团
     url: https://www.fenjiu.com.cn/OnlineTour/2023-01-06/296.html
     publisher: 山西杏花村汾酒集团
-    note: 用于核对汾酒博物馆的展陈、景区开放与杏花村产区信息；未复制原文。
+    note: 用于核对汾酒博物馆的展陈、景区开放与杏花村产区信息；未复制原文.
     accessed: 2026-11-25
   - key: fenjiu-workshop
     title: 老作坊博物馆 — 汾酒集团
     url: https://www.fenjiu.com.cn/OnlineTour/2023-01-06/297.html
     publisher: 山西杏花村汾酒集团
-    note: 用于核对汾酒老作坊遗址、原址恢复与文物保护信息；未复制原文。
+    note: 用于核对汾酒老作坊遗址、原址恢复与文物保护信息；未复制原文.
     accessed: 2026-11-25
   - key: ncha-fenjiu
     title: 汾酒博物馆 — 全国博物馆年度报告
     url: http://nb.ncha.gov.cn/museumdetail.html?msg=ee70a34121f3498ca08d4ddede4701e5&nianfen=2022
     publisher: 国家文物局全国博物馆年度报告信息系统
-    note: 用于核对汾酒博物馆的开放、展厅与藏品信息；未复制原文。
+    note: 用于核对汾酒博物馆的开放、展厅与藏品信息；未复制原文.
     accessed: 2026-11-25
   - key: fenjiu-history
     title: 汾酒集团发展史 — 杏花村遗址与酒博物馆
     url: https://www.fenjiu.com.cn/developmentHistory/index.html
     publisher: 山西杏花村汾酒集团
-    note: 用于核对杏花村酿酒史、老作坊遗址与博物馆沿革；未复制原文。
+    note: 用于核对杏花村酿酒史、老作坊遗址与博物馆沿革；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -103,7 +103,7 @@ verification_scope: source-verified
 
 ![Xinghua Village (Fenyang) bilingual editorial visual card](/media/figures/specific/place-xinghua-village.svg)
 
-图：Xinghua Village (Fenyang) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Xinghua Village (Fenyang) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers who want light-aroma baijiu and the poetry-and-liquor story; pairs with Fenyang, Pingyao or Taiyuan.
@@ -161,9 +161,15 @@ This page does not present Xinghua as the "only home of light aroma". It works a
 
 ## References
 
-- 汾酒博物馆 — 汾酒集团 — https://www.fenjiu.com.cn/OnlineTour/2023-01-06/296.html (山西杏花村汾酒集团, checked 2026-11-25)
-- 老作坊博物馆 — 汾酒集团 — https://www.fenjiu.com.cn/OnlineTour/2023-01-06/297.html (山西杏花村汾酒集团, checked 2026-11-25)
-- 汾酒博物馆 — 全国博物馆年度报告 — http://nb.ncha.gov.cn/museumdetail.html?msg=ee70a34121f3498ca08d4ddede4701e5&nianfen=2022 (国家文物局全国博物馆年度报告信息系统, checked 2026-11-25)
-- 汾酒集团发展史 — 杏花村遗址与酒博物馆 — https://www.fenjiu.com.cn/developmentHistory/index.html (山西杏花村汾酒集团, checked 2026-11-25)
+- fenjiu.com.cn — official source — https://www.fenjiu.com.cn/OnlineTour/2023-01-06/296.html (checked 2026-11-25)
+- fenjiu.com.cn — official source — https://www.fenjiu.com.cn/OnlineTour/2023-01-06/297.html (checked 2026-11-25)
+- nb.ncha.gov.cn — official source — http://nb.ncha.gov.cn/museumdetail.html?msg=ee70a34121f3498ca08d4ddede4701e5&nianfen=2022 (checked 2026-11-25)
+- fenjiu.com.cn — official source — https://www.fenjiu.com.cn/developmentHistory/index.html (checked 2026-11-25)
 
 Related entries: [Fenjiu Museum](ref:museum), [Fenyang Xinghua route](ref:route), [Fenjiu](ref:brand), [Fenjiu Group](ref:producer), [light-aroma baijiu](ref:style), [Shanxi](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Fenjiu](/media/photos/brand-fenjiu-3fd2e1c8.jpg)
+
+Image: Fenjiu. Credit: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_(20241109164541).jpg)). Related image for Xinghua Village (Fenyang).

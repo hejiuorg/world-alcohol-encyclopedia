@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:craft-beer-rise-2015
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c0baf724737938cc618b9614b8df37891ceb29cdf9d64196f142b2be5823cedb
-source_sha256: c0baf724737938cc618b9614b8df37891ceb29cdf9d64196f142b2be5823cedb
+source_revision: sha256:f478ad59e241ad3c5e5c02dc36842347bb3ddf751e030fe8ff7ddc3b95af8bce
+source_sha256: f478ad59e241ad3c5e5c02dc36842347bb3ddf751e030fe8ff7ddc3b95af8bce
 date_text: Around 2015
 year_start: 2013
 year_end: 2017
@@ -100,6 +100,7 @@ rights:
   note: Third-party reports, statistical material and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The rise of Chinese craft beer around 2015
 
 Around 2015 craft beer in China moved from a very small circle into more cities. Small breweries, taprooms, craft bars and beer festivals appeared, and domestic brands coexisted with imported craft beer. It was not a centrally planned movement but a dispersed growth driven by practitioners, consumers and urban commercial space. "Rise" is more accurate than "invention", because home-brewing communities, importers and small breweries had been accumulating experience for years.
@@ -162,3 +163,9 @@ Setting [China](ref:china)'s date beside [United States](ref:usa)'s place makes 
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The rise of Chinese craft beer around 2015 are checked against the following sources: China Alcoholic Drinks Association (Used to check the statistical treatment and industry description of craft beer), National Bureau of Statistics (Used to check output changes among large beer enterprises), Xinhua (Used to check the emergence of craft bars, beer festivals and small breweries) and 9 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Thematic illustration for A small label, plenty of clues](/media/photos/theme-route.jpg)
+
+Image: Thematic illustration for A small label, plenty of clues. Project-made bilingual editorial figure, not an on-site photograph. Related image for The rise of Chinese craft beer around 2015.

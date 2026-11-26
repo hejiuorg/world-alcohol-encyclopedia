@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:baijiu-medicinal
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:249f920b7b2b04341e79db894ce7d5bb828be738e8cfce2e35effd38eabe28a1
-source_sha256: 249f920b7b2b04341e79db894ce7d5bb828be738e8cfce2e35effd38eabe28a1
+source_revision: sha256:ef79ed51f09419741728ba46a43af7b145751b9bfd0f5154aa4aab3ee0d9d914
+source_sha256: ef79ed51f09419741728ba46a43af7b145751b9bfd0f5154aa4aab3ee0d9d914
 legacy_refs: []
 aliases:
   - Health liquor
@@ -67,6 +67,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. This style is not medical or legal advice, and compliance judgments should follow current regulations and regulator guidance.
 verification_scope: source-verified
 ---
+
 # Medicinal liquor
 
 "Health liquor" usually means a compounded liquor made with a distilled spirit or [yellow wine](ref:yellow-wine) as the base, plus food-medicine ingredients, edible medicinal herbs or extracts. It belongs to the food or health-food category, not to medicine. In China, a health-function claim must meet health-food registration or filing rules, and ordinary compounded liquor may not claim to treat disease.
@@ -139,3 +140,9 @@ Start with the production rule. From there, consider the strength, then the usua
 - [Yellow wine](ref:yellow-wine): another common base with a different flavour and strength.
 
 Further reading: [Lujiu](ref:c-extra-1).
+
+## Related images
+
+![Qu making](/media/photos/process-qu-making-ff7ff7ce.jpg)
+
+Image: Qu making. Credit: Uranassbandit, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hongqu_3.jpg)). Related image for Medicinal liquor.

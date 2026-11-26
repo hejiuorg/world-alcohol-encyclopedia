@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:heaven-hill-distillery
 source_lang: zh
-source_revision: sha256:689b95fdfebc8edb7d8263b12b2344ebd80725891a25be4f4fa7a1b92a40bc33
-source_sha256: 689b95fdfebc8edb7d8263b12b2344ebd80725891a25be4f4fa7a1b92a40bc33
+source_revision: sha256:46b07ffe877249c8a9e5cf1b0ef2174fcd47c3f1ae65d473d89dc56a63f242c2
+source_sha256: 46b07ffe877249c8a9e5cf1b0ef2174fcd47c3f1ae65d473d89dc56a63f242c2
 translation_status: reviewed
 subtype: distillery-visitor
 address: 1311 Gilkey Run Rd, Bardstown, KY 40004, USA
@@ -129,6 +129,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, tour prices, schedules and production plans change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Heaven Hill Distillery
 
 The address at 1311 Gilkey Run Road in Bardstown is Heaven Hill's visitor centre, the Heaven Hill Bourbon Experience, not the still house. Every tour assembles here and takes a shuttle to the Springs distillery two miles away; visitors cannot enter the production site on their own. Heaven Hill is one of America's largest family-owned distillers, founded in 1935 by the five Shapira brothers and local Bardstown investors.
@@ -182,3 +183,9 @@ Start with the address. From there, consider the current opening status, then wh
 | Official site | heavenhilldistillery.com |
 
 **Sources and limits.** The key claims about Heaven Hill Distillery are checked against the following sources: Heaven Hill Distillery, Heaven Hill Brands, Barlist and 12 sources in total. For current products, addresses or opening status, use heavenhilldistillery.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Angel's share](/media/photos/term-angels-share-8d1e928f.jpg)
+
+Image: Angel's share. Credit: Gerard Prins, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Oak-wine-barrel-at-toneleria-nacional-chile.jpg)). Related image for Heaven Hill Distillery.

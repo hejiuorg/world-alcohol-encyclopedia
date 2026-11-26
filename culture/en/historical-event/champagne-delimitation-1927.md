@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:champagne-delimitation-1927
 source_lang: zh
-source_revision: sha256:8f65c522d88836a3f75a436e4e0b660964b6f53ddbb82730fa72add30cc4ca08
-source_sha256: 8f65c522d88836a3f75a436e4e0b660964b6f53ddbb82730fa72add30cc4ca08
+source_revision: sha256:69b2800ae251b88f56f21ff6c720a5c693d907729a4c87ca5ffe8778af2dc9f6
+source_sha256: 69b2800ae251b88f56f21ff6c720a5c693d907729a4c87ca5ffe8778af2dc9f6
 translation_status: reviewed
 aliases:
   - 香槟划界
@@ -152,3 +152,9 @@ Fifth, the map question needs stating. This essay draws no map of the Champagne 
 - [History of world wine](ref:world-wine-history): global wine trade before origin systems.
 
 Further reading: [The 1855 Bordeaux Classification: A List Produced for a World's Fair](ref:c-extra-1). Bordeaux ranked estates; Champagne's 1927 law ranked communes and parcels, a useful contrast in how place names become property.
+
+## Related images
+
+![Related photograph of Comité Champagne: How Growers and Houses Manage a Region Together](/media/photos/organization-comite-champagne-b103fb0a.jpg)
+
+Image: Related photograph of Comité Champagne: How Growers and Houses Manage a Region Together. Credit: Bonnedame, Raphaël-Frédéric (1843-1870). Fonction indéterminée Cornu, Fernand (18..-19..?). Fonction indéterminée Testulat-Gaspar, A. (18..-18..? ; cartographe), Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Carte_viticole_%26_vinicole_de_la_Champagne_-_dress%C3%A9e_par_les_soins_de_MM._Bonnedame_%26_Fils,_directeurs_du_journal_%22Le_Vigneron_Champenois%22_;_dessin%C3%A9e_par_Fernand_Cornu_Sous_les_auspices_du_Comit%C3%A9_Vinicole_Central..._-_btv1b53020922z.jpg)). Related image for The 1927 Champagne Delimitation: Names, Parcels and a Boundary War.

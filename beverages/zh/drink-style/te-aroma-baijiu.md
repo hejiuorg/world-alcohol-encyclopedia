@@ -92,6 +92,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 特香型白酒
 
 特香型常被概括为“三香具备犹不靠”：有浓香的窖香、清香的净爽、酱香的焦香，却又不在任何一香里安身。这句话听起来玄，落到工艺上却很具体：大米为骨，面粉、麦麸和酒糟培制的大曲为魂，红褚条石窖池为床。三样东西凑在一起，才有了特香型的骨架。
@@ -182,3 +183,9 @@ verification_scope: source-verified
 - [制曲](ref:qu-making)：面麸曲的组成与作用。
 - [发酵](ref:fermentation)：红褚条石窖池的固态发酵。
 - [蒸馏](ref:distillation)：固态蒸馏与分段摘酒。
+
+## 相关图像
+
+![大米](/media/photos/ingredient-rice-0ee2019c.jpg)
+
+图：大米。图片：China News Service，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg)）。关联图像：特香型白酒。

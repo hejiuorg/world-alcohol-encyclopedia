@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 格德约
 
 西班牙西北部 Valdeorras、Ribeiro 与 Monterrei 的白葡萄，带柑橘、白花、矿物与坚果，酸度中高、质地饱满；可酿清爽型或橡木桶型。
@@ -173,3 +174,9 @@ Valdeorras 的板岩土壤与河谷气候让格德约保留酸度与矿物；Rib
 | 物种 | Vitis vinifera |
 
 **来源与边界。** 本页关于「格德约」的关键事实，主要由以下来源交叉核对：Julius Kühn-Institut（品种名称、同义词、起源与全球分布）、OIV（葡萄品种与栽培框架）、USDA ARS（植物分类、种质与栽培信息）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：格德约。

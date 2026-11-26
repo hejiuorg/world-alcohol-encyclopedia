@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 玛珊
 
 北罗讷河谷的白葡萄，常与胡珊混酿；酒体饱满、酸度低、带蜂蜜、蜂蜡、坚果与白花，陈年后更显圆润，是埃米塔日白葡萄酒的主要品种。
@@ -165,3 +166,9 @@ verification_scope: source-verified
 | 代表产区 | 罗讷河谷 |
 
 **来源与边界。** 本页关于「玛珊」的关键事实，主要由以下来源交叉核对：Julius Kühn-Institut（品种名称、同义词、起源与全球分布）、OIV（葡萄品种与栽培框架）、USDA ARS（植物分类、种质与栽培信息）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![Roussanne：Roussanne（Wikimedia Commons）](/media/photos/variety-roussanne-68283587.jpg)
+
+图：Roussanne：Roussanne（Wikimedia Commons）。图片：Jules Troncy，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Roussanne.jpg)）。关联图像：玛珊。

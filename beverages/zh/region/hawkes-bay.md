@@ -94,6 +94,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 霍克斯湾
 
 霍克斯湾位于新西兰北岛东海岸，是新西兰第二大葡萄酒产区，气候温暖干燥、日照长；以波尔多式赤霞珠/梅洛混酿、西拉与霞多丽著称，赫里塔加平原上的 Gimblett Gravels 砾石土是红葡萄酒的核心风土。
@@ -165,3 +166,13 @@ Trinity Hill 1993 年创立，Homage 西拉是新西兰西拉标杆之一；Chur
 - 相关条目：[new-zealand](ref:new-zealand)、[cabernet-sauvignon](ref:cabernet)、[syrah](ref:syrah)、[chardonnay](ref:chardonnay)、[red-wine](ref:red)。
 
 相关条目：[新西兰](ref:new-zealand)、[赤霞珠](ref:cabernet)、[西拉](ref:syrah)。
+
+## 相关图像
+
+![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：霍克斯湾。
+
+![霞多丽](/media/photos/variety-chardonnay-efde6838.jpg)
+
+图：霞多丽。图片：Jenavive at English Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)）。关联图像：霍克斯湾。

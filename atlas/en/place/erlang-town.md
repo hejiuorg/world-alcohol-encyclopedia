@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:erlang-town
 source_lang: zh
-source_revision: sha256:a8acf743927ac5221a901a4635ccb9726b98d56f97f36c9e86d6e387676796ff
-source_sha256: a8acf743927ac5221a901a4635ccb9726b98d56f97f36c9e86d6e387676796ff
+source_revision: sha256:f903595e4e40737a8da6a3cacebb96d95cf486101fa4c2f36e3b16fada9ca30b
+source_sha256: f903595e4e40737a8da6a3cacebb96d95cf486101fa4c2f36e3b16fada9ca30b
 translation_status: reviewed
 subtype: distillery-visitor
 address: Erlang Town, Gulin County, Luzhou, Sichuan, China
@@ -69,24 +69,24 @@ sources:
     title: 古蔺县人民政府 — 行政区划与人口
     url: https://www.gulin.gov.cn/mlgl/zjgl/hzqhyrk
     publisher: 古蔺县人民政府
-    note: 用于核对古蔺县的行政区划、地理位置与人口信息；未复制原文。
+    note: 用于核对古蔺县的行政区划、地理位置与人口信息；未复制原文.
     accessed: 2026-11-25
   - key: luzhou-gov-gulin
     title: 泸州市人民政府
     url: https://www.luzhou.gov.cn/
     publisher: 泸州市人民政府
-    note: 用于核对古蔺县属泸州市管辖的行政区划与公开城市信息；未复制原文。
+    note: 用于核对古蔺县属泸州市管辖的行政区划与公开城市信息；未复制原文.
     accessed: 2026-11-25
   - key: langjiu-about
     title: 郎酒 — 郎酒集团
     url: https://www.langjiu.cn/
     publisher: 四川郎酒集团有限责任公司
-    note: 用于核对郎酒产地、二郎镇与酱香型白酒的公开介绍；未复制原文。
+    note: 用于核对郎酒产地、二郎镇与酱香型白酒的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: gb2260
     title: GB/T 2260-2007 中华人民共和国行政区划代码
     publisher: 国家标准化管理委员会
-    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文。
+    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -102,7 +102,7 @@ Erlang is often treated merely as “the town where Langjiu Estate sits”, but 
 
 ![Erlang Town (Gulin) bilingual editorial visual card](/media/figures/specific/place-erlang-town.svg)
 
-图：Erlang Town (Gulin) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Erlang Town (Gulin) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers on a Sichuan–Guizhou liquor route who need an overnight stop; pairs with Langjiu Estate, Xijiu and Tucheng.
@@ -154,9 +154,17 @@ This page does not present Erlang as a must-tick attraction. It works as a stop 
 
 ## References
 
-- 古蔺县人民政府 — 行政区划与人口 — https://www.gulin.gov.cn/mlgl/zjgl/hzqhyrk (古蔺县人民政府, checked 2026-11-25)
-- 泸州市人民政府 — https://www.luzhou.gov.cn/ (泸州市人民政府, checked 2026-11-25)
-- 郎酒 — 郎酒集团 — https://www.langjiu.cn/ (四川郎酒集团有限责任公司, checked 2026-11-25)
-- GB/T 2260-2007 中华人民共和国行政区划代码 (国家标准化管理委员会, checked 2026-11-25)
+- gulin.gov.cn — official source — https://www.gulin.gov.cn/mlgl/zjgl/hzqhyrk (checked 2026-11-25)
+- luzhou.gov.cn — official source — https://www.luzhou.gov.cn/ (checked 2026-11-25)
+- langjiu.cn — official source — https://www.langjiu.cn/ (checked 2026-11-25)
+- Official source — official source —  (checked 2026-11-25)
 
 Related entries: [Langjiu Estate](ref:estate), [Gulin Langjiu route](ref:route), [Guizhou](ref:region), [China](ref:regioncn), [sauce-aroma baijiu](ref:style), [Langjiu](ref:brand), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Guizhou](/media/photos/region-guizhou-b13939f2.jpg)
+
+Image: Guizhou. Credit: Huangdan2060, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)). Related image for Erlang Town (Gulin).
+
+The administrative division reference is the 2007 edition of GB/T 2260.

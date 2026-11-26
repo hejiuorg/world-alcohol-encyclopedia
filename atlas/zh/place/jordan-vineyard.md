@@ -96,6 +96,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与价格会变化，出行前以官网为准。"
 verification_scope: source-verified
 ---
+
 # 乔丹酒庄
 
 乔丹是亚历山大谷最像波尔多酒庄的美国酒庄之一：1972 年由来自丹佛的 Tom 与 Sally Jordan 创立，只做一款亚历山大谷赤霞珠和一款俄罗斯河谷霞多丽，用一座 5.8 万平方英尺的法式城堡把酿酒、餐饮与待客放在同一个屋檐下。
@@ -181,3 +182,9 @@ Jordan Estate 约 1,200 英亩，其中约四分之三是自然栖息地：橡�
 - 相关条目：[sonoma](ref:sonoma)、[usa](ref:usa)、[cabernet-sauvignon](ref:cabernet)、[chardonnay](ref:chardonnay)、[oak-ageing](ref:oak)。
 - 本页不提供实时价格、套餐库存或营业状态；参观前以酒庄官网与亚历山大谷葡萄酒协会为准。
 - 想把乔丹喝明白，可以同一趟对比它家的赤霞珠与霞多丽，再各选一瓶亚历山大谷、俄罗斯河谷的其他酒庄做对照，理解“谷地 vs 海岸”的成熟度与酸度差异。
+
+## 相关图像
+
+![美国类别配图](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+图：美国类别配图。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：乔丹酒庄。

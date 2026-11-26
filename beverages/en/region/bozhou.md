@@ -11,8 +11,8 @@ revision: 3
 translation_of: region:bozhou
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2ee4691e2e04b8bcd766bee30b89916ae20ea08a195c15acdea26d4830b5ac21
-source_sha256: 2ee4691e2e04b8bcd766bee30b89916ae20ea08a195c15acdea26d4830b5ac21
+source_revision: sha256:dac792ecd9b16d18c560a142cfb720bccdd94f9a5218de69660ad07b36d2e138
+source_sha256: dac792ecd9b16d18c560a142cfb720bccdd94f9a5218de69660ad07b36d2e138
 level: city
 parent_id: region:anhui
 country_code: CN
@@ -71,6 +71,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Bozhou
 
 Bozhou is a prefecture-level city in northwestern Anhui, with the Guo River running through it. Gujing Town in Qiaocheng District is the home of Gujing Gongjiu and the Gujing Wine Culture Museum. Bozhou is also known as a centre for Chinese medicinal materials, and pharmacy and distilling together shape the local economy.![Bozhou image](/media/photos/region-bozhou-5fcc3ce2.jpg)
@@ -151,3 +152,13 @@ Read Bozhou through the appellation and its permitted varieties, then the vintag
 - [China](ref:china): the country-level organisation of regions and drinks.
 - [Gujing Gongjiu](ref:gujing): the representative brand of Gujing Town.
 - [Gujing Wine Culture Museum](ref:gujing-museum): the place to visit and its exhibition information.
+
+## Related images
+
+![Anhui](/media/photos/region-anhui-ad268e10.jpg)
+
+Image: Anhui. Credit: xiquinhosilva, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mount-huangshan_53319732882_o.jpg)). Related image for Bozhou.
+
+![Gujing Gongjiu](/media/photos/brand-gujing-gongjiu-ef9d4a5d.jpg)
+
+Image: Gujing Gongjiu. Credit: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Gujing_Gongjiu_at_a_supermarket_in_Beijing_(20241109164639).jpg)). Related image for Bozhou.

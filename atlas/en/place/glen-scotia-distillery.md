@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:glen-scotia-distillery
 source_lang: zh
-source_revision: sha256:d51aeb9e79020c4725573709601488d1c07d9fd9f7ea31c349791017a9afafa3
-source_sha256: d51aeb9e79020c4725573709601488d1c07d9fd9f7ea31c349791017a9afafa3
+source_revision: sha256:aab57f653ab0787f175990067fbd4f744899c20eda2e1cab2c6afa17d74833f7
+source_sha256: aab57f653ab0787f175990067fbd4f744899c20eda2e1cab2c6afa17d74833f7
 translation_status: reviewed
 subtype: distillery-visitor
 address: Glen Scotia Distillery, 12 High Street, Campbeltown PA28 6DS, Scotland, United Kingdom
@@ -89,6 +89,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded. Tour prices, schedules and opening arrangements change; confirm with official channels.
 verification_scope: source-verified
 ---
+
 # Glen Scotia Distillery
 
 Glen Scotia stands at 12 High Street in Campbeltown, with the town's main street at its door, the harbour a few minutes south and Longrow to the north. Stone walls, narrow doors, low warehouses and working equipment sit close together, and the visit feels like entering a distillery that has been part of the town for more than a century. The site was founded as Scotia in 1832 and now belongs to Loch Lomond Group. It is one of only three distilleries still operating in Campbeltown.![related photograph of Glen Scotia Distillery](/media/photos/place-glen-scotia-distillery-6c0ba5a9.jpg)
@@ -134,3 +135,9 @@ Begin with the address, move on to the current opening status, and finish with w
 | Official site | glenscotia.com |
 
 **Sources and limits.** The key claims about Glen Scotia Distillery are checked against the following sources: Glen Scotia / Loch Lomond Group (tour types, durations, prices, days and the complimentary Double Cask dram; no text copied; brands, expressions and the visit entry point; no text copied), Loch Lomond Group. For current products, addresses or opening status, use glenscotia.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Campbeltown: Glen Scotia Distillery, Campbeltown. Credit: Lirazelf, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-region-campbeltown-f346e241.jpg)
+
+Image: Glen Scotia Distillery, Campbeltown. Credit: Lirazelf, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Lirazelf, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=62323489)). Related image for Glen Scotia Distillery.

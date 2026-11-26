@@ -98,6 +98,7 @@ rights:
   note: 本页配图为马尔堡怀劳谷的葡萄园实拍，按 CC BY 4.0 使用，具体见图片图注。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 马尔堡
 
 马尔堡（Marlborough）是新西兰最大的葡萄酒产区，位于南岛东北端。它以 Sauvignon Blanc 打开国际市场，也生产 Pinot Noir、Chardonnay 与芳香型白葡萄酒。凉爽而日照充足的气候、低降雨与排水良好的土壤，是理解马尔堡风格的关键。
@@ -192,3 +193,13 @@ Sauvignon Blanc 适合海鲜、沙拉、山羊奶酪与亚洲料理；Pinot Noir
 - [年份](ref:vintage)：马尔堡的年份差异与降雨影响。
 - [单一品种](ref:single-varietal)：85% 品种标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![酸度（acidity）](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+图：酸度（acidity）。图片：Chemicalinterest，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)）。关联图像：马尔堡。
+
+![橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。](/media/photos/editorial-oak-ageing-q2.jpg)
+
+图：橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：马尔堡。

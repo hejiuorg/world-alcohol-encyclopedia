@@ -25,8 +25,8 @@ tags:
 translation_of: region:puglia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4bee0916d42e0c13ee3cde5643ef45c1f9929066d863f1080220f6cb34f94d93
-source_sha256: 4bee0916d42e0c13ee3cde5643ef45c1f9929066d863f1080220f6cb34f94d93
+source_revision: sha256:ab0fdfd320f2c6bbb77fb733a14e9769b68c379e09b872c5d89d951ea36f6a2c
+source_sha256: ab0fdfd320f2c6bbb77fb733a14e9769b68c379e09b872c5d89d951ea36f6a2c
 related:
   - relation: about
     target_id: region:italy
@@ -152,3 +152,13 @@ The Salento coast offers old towns, olive groves and beaches, and visits can com
 
 - Related: [italy](ref:italy), [barbera](ref:barbera), [red-wine](ref:red), [rose-wine](ref:rose), [oak-ageing](ref:oak).
 - Puglia is hot and dry in summer; check opening hours, tasting bookings and road conditions on the regional wine body or estate websites before travelling.
+
+## Related images
+
+![Barbera](/media/photos/variety-barbera-e133d946.jpg)
+
+Image: Barbera. Credit: Agne27, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barbera_cluster.JPG)). Related image for Puglia.
+
+![Photograph for Italy: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-italy-202d4c25.jpg)
+
+Image: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=35825496)). Related image for Puglia.

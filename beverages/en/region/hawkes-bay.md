@@ -25,8 +25,8 @@ tags:
 translation_of: region:hawkes-bay
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:39f3a2cf73dd71660362e3aaccc53e7b0e6a79b1d53ae89b4e023be797eb3a4b
-source_sha256: 39f3a2cf73dd71660362e3aaccc53e7b0e6a79b1d53ae89b4e023be797eb3a4b
+source_revision: sha256:071ce7f60a371856d73484f5b4b46a519b849022c38edef6ea3553034099fd27
+source_sha256: 071ce7f60a371856d73484f5b4b46a519b849022c38edef6ea3553034099fd27
 related:
   - relation: about
     target_id: region:new-zealand
@@ -175,3 +175,13 @@ Most estates have a cellar door and restaurant. Arrive on time for appointments 
 - Related: [new-zealand](ref:new-zealand), [cabernet-sauvignon](ref:cabernet), [syrah](ref:syrah), [chardonnay](ref:chardonnay), [red-wine](ref:red).
 
 To read Hawke's Bay, start with the appellation and its permitted varieties, then the vintage and the producer, then how the wine is labelled; no single check settles it.
+
+## Related images
+
+![Photograph for Syrah: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+Image: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=114429512)). Related image for Hawke's Bay.
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Hawke's Bay.

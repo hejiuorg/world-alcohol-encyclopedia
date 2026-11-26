@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:columbia-valley
 source_lang: zh
-source_revision: sha256:40b475fdcaecb25b2b02d6658db6a217ffde36ed89f503073341bd97aeda7963
-source_sha256: 40b475fdcaecb25b2b02d6658db6a217ffde36ed89f503073341bd97aeda7963
+source_revision: sha256:3996e95f63fdd73d50cf8ebba30e2d8d32a6a3253d3a6d4e89a420259d19f3a0
+source_sha256: 3996e95f63fdd73d50cf8ebba30e2d8d32a6a3253d3a6d4e89a420259d19f3a0
 translation_status: reviewed
 level: other
 parent_id: region:usa
@@ -92,6 +92,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Columbia Valley
 
 Columbia Valley is the largest wine region in Washington State and the geographic core of wine in the American north-west. It covers central and south-eastern Washington and reaches into north-central Oregon, and is defined by irrigated farming, loess plateaus and Cabernet Sauvignon.
@@ -167,3 +168,13 @@ For Columbia Valley, begin with the appellation and its permitted varieties. The
 - [Terroir](ref:terroir): rain shadow, loess and gravel.
 - [Single varietal](ref:single-varietal): variety labelling shares.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Photograph for Cabernet Sauvignon: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+Image: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13318021)). Related image for Columbia Valley.
+
+![Photograph for Syrah: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+Image: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=114429512)). Related image for Columbia Valley.

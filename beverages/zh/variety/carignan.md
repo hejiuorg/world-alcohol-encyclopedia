@@ -87,6 +87,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 佳丽酿
 
 地中海西部的红葡萄，原产西班牙阿拉贡一带，在法国朗格多克、西班牙加泰罗尼亚与意大利撒丁岛广泛种植；老藤低产时酸度高、单宁强、带香料与泥土。
@@ -144,3 +145,9 @@ verification_scope: source-verified
 - 相关条目：[syrah](ref:syrah)、[red-wine](ref:red)、[terroir](ref:terroir)、[oak-ageing](ref:oak)、[vintage](ref:vintage)。
 
 对照阅读：[西拉](ref:syrah)、[风土（terroir）](ref:terroir)。
+
+## 相关图像
+
+![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：佳丽酿。

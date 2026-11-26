@@ -97,6 +97,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；整修进度、参观安排与酒款配额会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 拉菲古堡
 
 拉菲古堡在波尔多左岸的波亚克（Pauillac），是 1855 年梅多克分级的一级庄。官方把名字追溯到加斯科方言“La Hite”（小山脊）；17 世纪起，这一带的山脊被开垦为葡萄园。1868 年，詹姆斯·德·罗斯柴尔德男爵购入酒庄，此后一直由罗斯柴尔德家族经营。官方称它在拿破仑三世万国博览会的评比中获得“一级中的一级”（First of the First）。今天它是 Domaines Barons de Rothschild (Lafite) 的核心酒庄，不是独立品牌。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 对照阅读：[拉菲古堡红葡萄酒](ref:lafite)、[葡萄酒分级体系：地理标志、国家等级与酒庄分级](ref:grading)。
 
 相关条目：[波尔多](ref:bordeaux)。
+
+## 相关图像
+
+![波亚克产区](/media/photos/drink-france-pauillac-b1ede2c2.jpg)
+
+图：波亚克产区。图片：Anthony Baratier，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:La_mairie_de_Pauillac_vue_depuis_le_port_de_plaisance.jpg)）。关联图像：拉菲古堡。

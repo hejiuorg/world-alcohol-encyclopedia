@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:sake-modernization
 source_lang: zh
-source_revision: sha256:65f326f1e81278055bcf326c61ef8a478033f23a0fa15bbdbb6f09f8f9d3f8a3
-source_sha256: 65f326f1e81278055bcf326c61ef8a478033f23a0fa15bbdbb6f09f8f9d3f8a3
+source_revision: sha256:46bfe7fb055504d84cd4db906f2ef819a388e47b9bc2398008710aca7de64259
+source_sha256: 46bfe7fb055504d84cd4db906f2ef819a388e47b9bc2398008710aca7de64259
 translation_status: reviewed
 aliases:
   - 日本酒近代化
@@ -150,3 +150,9 @@ Fifth, the origin of ginjo is disputed. The technical elements of rice polishing
 - [Japan Sake and Shochu Makers Association](ref:jsa): the industry body and the source of the statistics.
 
 Further reading: [The 1855 Bordeaux Classification: A List Produced for a World's Fair](ref:c-extra-1), [1952 National Wine Evaluation: the eight famous wines and the start of a system](ref:c-extra-2).
+
+## Related images
+
+![Category image for "The 1855 Bordeaux Classification: A List Produced for a World's Fair"](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
+
+Image: Category image for "The 1855 Bordeaux Classification: A List Produced for a World's Fair". Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)). Related image for The Modernisation of Japanese Sake: Tax, Research Institute and Grades.

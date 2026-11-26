@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:weihenstephan-brewery
 source_lang: zh
-source_revision: sha256:790f016b1ceecd7f2494ec63a53931eef1ec128d1202c0c974572821da39f68a
-source_sha256: 790f016b1ceecd7f2494ec63a53931eef1ec128d1202c0c974572821da39f68a
+source_revision: sha256:96416ac51e898c6e7cdcf9ac780de137f69a16c9e48180303e2c627050640fba
+source_sha256: 96416ac51e898c6e7cdcf9ac780de137f69a16c9e48180303e2c627050640fba
 translation_status: reviewed
 subtype: brewery-visitor
 address: Alte Akademie 2, 85354 Freising, Germany
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; tour times, prices and opening arrangements change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Weihenstephan Brewery
 
 ![related photograph of Weihenstephan Brewery](/media/photos/place-weihenstephan-brewery-a3316b19.jpg)
@@ -142,3 +143,9 @@ Its Helles is a clean, pale lager and its Vitus a strong wheat beer, both brewed
 | Official site | weihenstephaner.de |
 
 **Sources and limits.** The key claims about Weihenstephan Brewery are checked against the following sources: Bayerische Staatsbrauerei Weihenstephan, Bräustüberl Weihenstephan, Stadt Freising (Used to check the relationship between the town, its transport and the brewery on the hill west of the centre). For current products, addresses or opening status, use weihenstephaner.de. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Wheat beer](/media/photos/drink-style-wheat-beer-5513b4e6.jpg)
+
+Image: Wheat beer. Credit: Takeaway, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2013_Augustiner_Weissbier_Munich_pub.jpg)). Related image for Weihenstephan Brewery.

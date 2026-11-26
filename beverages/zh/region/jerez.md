@@ -85,6 +85,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 赫雷斯
 
 赫雷斯（Jerez）是[西班牙](ref:spain)安达卢西亚加的斯省南部的[加强酒](ref:fortified-wine)产区，包含赫雷斯-谢雷斯-雪莉与曼萨尼亚-桑卢卡尔-德巴拉梅达两个法定产区。它以帕洛米诺为主，用 solera 与 criaderas 的叠桶系统熟成。
@@ -180,3 +181,13 @@ Fino 与曼萨尼亚适合搭配海鲜、橄榄、火腿与炸物；Oloroso 适�
 | 国家代码 | ES |
 
 **来源与边界。** 本页关于「赫雷斯」的关键事实，主要由以下来源交叉核对：Consejo Regulador（赫雷斯的产区、品种、强化酒精度与生物/氧化陈酿路径；由原条目末尾参考资料迁移，未逐条复核访问日期）、Junta de Andalucía（曼萨尼亚必须在桑卢卡尔-德巴拉梅达酒窖中生物陈酿至少两年；由原条目末尾参考资料迁移，未逐条复核访问日期）、European Union（欧盟加强酒类别、地理标志与标签规则）等 7 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![加强葡萄酒](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+图：加强葡萄酒。图片：Jon Sullivan，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)）。关联图像：赫雷斯。
+
+![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+
+图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：赫雷斯。

@@ -11,8 +11,8 @@ revision: 2
 parent_style_id: drink-style:wine
 translation_of: drink-style:red-wine
 source_lang: zh
-source_revision: sha256:40fe51698943d9f936764bf406f829d2444af715421fd4bbc00bd0d1b06c55b4
-source_sha256: 40fe51698943d9f936764bf406f829d2444af715421fd4bbc00bd0d1b06c55b4
+source_revision: sha256:7a74c9b9654b4145264ab840e3a9d74f5af1198b338eb10dabe0eaf9525f5a92
+source_sha256: 7a74c9b9654b4145264ab840e3a9d74f5af1198b338eb10dabe0eaf9525f5a92
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -65,6 +65,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Red wine
 
 Red wine is made from dark-skinned grape varieties. Its colour comes from anthocyanins in the skins, and its tannin from skins, seeds and stems. The biggest difference from white wine is not the colour of the raw material but whether the liquid stays in contact with the skins during fermentation: red wine is usually fermented with skins, extracting colour, tannin and aroma during maceration.
@@ -141,3 +142,9 @@ Start with [Wine](ref:wine) for legal definition, then read [Romanée-Conti](ref
 - [Wine](ref:wine): an overview of still, sparkling, fortified and sweet wines.
 - [Château Lafite Rothschild](ref:lafite): a Cabernet-based Bordeaux blend.
 - [Romanée-Conti](ref:romanee-conti): a Burgundy Pinot Noir grand cru.
+
+## Related images
+
+![Romanée-Conti](/media/photos/drink-france-romaneeconti-4a67bacc.jpg)
+
+Image: Romanée-Conti. Credit: Wikipedro, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vosne-Roman%C3%A9e,_le_Domaine_de_la_Roman%C3%A9e-Conti.jpg)). Related image for Red wine.

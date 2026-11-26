@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:cafe-de-flore
 source_lang: zh
-source_revision: sha256:ff85826d44f50b0727a7aff19fc90df8590f72c1115f829aedde5768cd326460
-source_sha256: ff85826d44f50b0727a7aff19fc90df8590f72c1115f829aedde5768cd326460
+source_revision: sha256:73ccffe419d58156f451b3163e7d708e9274b8e70ce57895c928ea76b12c1a46
+source_sha256: 73ccffe419d58156f451b3163e7d708e9274b8e70ce57895c928ea76b12c1a46
 translation_status: reviewed
 subtype: pub
 address: 172 Boulevard Saint-Germain, 75006 Paris
@@ -85,6 +85,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Café de Flore
 
 Café de Flore (Huāshén Kāfēi Guǎn) occupies the corner of Boulevard Saint-Germain and Rue Saint-Benoît in the sixth arrondissement of Paris, at 172 Boulevard Saint-Germain. It opened in 1887, and its name comes from a small sculpture of Flora that stood across the boulevard. Like Les Deux Magots, it is often called a literary café. What sets Flore apart is its corner position, the stage-like effect of its red banquettes and mirrors, and a younger, more irreverent literary prize.![Café de Flore image](/media/photos/place-cafe-de-flore-11d5edba.jpg)
@@ -142,3 +143,9 @@ Coffee houses and bars are both part of a city’s public life; [Pub and city](r
 Begin with the address, move on to the current opening status, and finish with what the place is known for. That order keeps the reading of Café de Flore practical.
 
 Start with [Reading a city through its bars](ref:pub-and-city) for address and space, then read [Saint-Germain-des-Prés literary cafés: a half-day walk](ref:route-saint-germain) for operating status. Seeing both keeps Café de Flore from being confused with a neighbouring idea.
+
+## Related images
+
+![Les Deux Magots](/media/photos/place-les-deux-magots-262de577.jpg)
+
+Image: Les Deux Magots. Credit: Cheng-en Cheng from Taichung City, Taiwan, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Les_Deux_Magots,_25_September_2019.jpg)). Related image for Café de Flore.

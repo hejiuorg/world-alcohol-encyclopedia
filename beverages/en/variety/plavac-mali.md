@@ -22,8 +22,8 @@ tags:
 translation_of: variety:plavac-mali
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a84eafa41257c843cb46a0bb415ca87aba510c2ed8c5ef70f0ef351490cbc3d0
-source_sha256: a84eafa41257c843cb46a0bb415ca87aba510c2ed8c5ef70f0ef351490cbc3d0
+source_revision: sha256:845b0929ab81b6f40c2c8684d50cf4213496a8cac80becaf38e82f626f1e599f
+source_sha256: 845b0929ab81b6f40c2c8684d50cf4213496a8cac80becaf38e82f626f1e599f
 related:
   - relation: about
     target_id: variety:zinfandel
@@ -154,3 +154,9 @@ The most direct comparison is to taste a Dingač slope wine, a Postup wine and a
 - Related: [zinfandel](ref:zinfandel), [red-wine](ref:red), [terroir](ref:terroir), [oak-ageing](ref:oak), [vintage](ref:vintage).
 
 [Zinfandel](ref:zinfandel) and [Terroir](ref:terroir) are the two useful reference points for Plavac Mali. [Zinfandel](ref:zinfandel) sets out variety character; [Terroir](ref:terroir) brings in regional performance. Read them together.
+
+## Related images
+
+![Zinfandel](/media/photos/variety-zinfandel-8a623213.jpg)
+
+Image: Zinfandel. Credit: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ripe_Zinfandel_grapes_in_Dry_Creek_Valley-8958.jpg)). Related image for Plavac Mali.

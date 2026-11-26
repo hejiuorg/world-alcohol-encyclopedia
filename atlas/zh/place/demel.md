@@ -87,6 +87,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1786
 ---
+
 # Demel
 
 Kohlmarkt 是维也纳最贵的一条步行街，橱窗里是珠宝、手表与瓷器；14 号的 Demel 却把整条街的注意力拉回糖、奶油与咖啡。门口的木制橱窗像一座小型舞台，蛋糕、糖果与季节装饰一层层堆到玻璃前；推门进去，洛可可式的白金色装饰、镜面、吊灯与深色木柜台把街道的明亮挡在外面。这里不是“顺路喝一杯”的咖啡馆，而是维也纳皇家糖果店传统的现场版本。
@@ -144,3 +145,9 @@ Demel 不接受预订，排队与堂食节奏是体验的一部分；把 Sachert
 - WienTourismus 的 Demel 页面：<https://www.wien.info/de/essen-trinken/cafes/demel-344266>，用于核对营业时间、全女性服务与 Demelinerinnen 传统。
 - 同城的 `place:cafe-sacher` 是 Sachertorte 的另一套叙事；`place:cafe-central`、`place:cafe-hawelka`、`place:cafe-sperl` 代表不同类型的维也纳咖啡馆。
 - 相关条目：[Café Sacher](ref:sacher)、[Café Central](ref:central)、[Café Hawelka](ref:hawelka)、[Café Sperl](ref:sperl)、[维也纳咖啡馆之夜路线](ref:vienna-route)
+
+## 相关图像
+
+![斯佩尔咖啡馆](/media/photos/place-cafe-sperl-42b350aa.jpg)
+
+图：斯佩尔咖啡馆。图片：Bahnfrend，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Sperl,_front,_2006.JPG)）。关联图像：Demel。

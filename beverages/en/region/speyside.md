@@ -15,8 +15,8 @@ legacy_refs: []
 translation_of: region:speyside
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:45d73f972f3678355cc6a71e9b34cd580d099e08f98715438cd3958c34e6e03a
-source_sha256: 45d73f972f3678355cc6a71e9b34cd580d099e08f98715438cd3958c34e6e03a
+source_revision: sha256:5d2a0770807a4f411f874a0d9f5b4aff6420430d32d81bc0161738f6b8dc7fc9
+source_sha256: 5d2a0770807a4f411f874a0d9f5b4aff6420430d32d81bc0161738f6b8dc7fc9
 aliases:
   - Speyside
   - Spey valley
@@ -78,6 +78,7 @@ rights:
   note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Speyside
 
 Speyside lies in north-east Scotland, centred on the River Spey and its tributary valleys. It has the densest concentration of distilleries in Scotland, with about 50 distilleries packed into a narrow belt from Glenlivet to Rothes, Dufftown and Keith. It is both a protected locality recognised by the Scotch Whisky Regulations 2009 and one of the market's most familiar style labels; those two identities need separating.
@@ -131,3 +132,13 @@ For Speyside, begin with the appellation and its permitted varieties. Then look 
 - [Oak ageing](ref:oak-ageing): bourbon and sherry casks and their effect on style.
 - [Fermentation](ref:fermentation): fermentation time and flavour precursors.
 - [Barley](ref:barley): malted barley as a whisky raw material.
+
+## Related images
+
+![Barley](/media/photos/ingredient-barley-37a96001.jpg)
+
+Image: Barley. Credit: Cliff from Arlington, Virginia, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)). Related image for Speyside.
+
+![Category image for Scotland](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+Image: Category image for Scotland. Credit: Alan Jamieson, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)). Related image for Speyside.

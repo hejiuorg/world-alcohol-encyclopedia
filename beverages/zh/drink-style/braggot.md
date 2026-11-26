@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 啤酒蜂蜜酒
 
 蜂蜜与麦芽共同发酵的混合酒，介于蜂蜜酒与啤酒之间；酒花可加可不加，风格从淡色轻盈到深色高酒精度都有。
@@ -154,3 +155,9 @@ braggot 的碳酸可以很低，像静置蜜酒；开瓶前先看是否有沉淀
 | 上位风格 | 蜂蜜酒 |
 
 **来源与边界。** 本页关于「啤酒蜂蜜酒」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（蜂蜜酒类型、甜度与酒精度框架）、National Honey Board（蜂蜜原料与蜂蜜酒背景）、American Mead Makers Association（蜂蜜酒与 braggot 的原料、发酵和分类背景）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![蜂蜜](/media/photos/ingredient-honey-79e37da8.jpg)
+
+图：蜂蜜。图片：Scott Bauer, USDA ARS，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg)）。关联图像：啤酒蜂蜜酒。

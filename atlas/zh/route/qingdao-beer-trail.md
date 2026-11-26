@@ -50,12 +50,6 @@ sources:
     publisher: 青岛市人民政府国有资产监督管理委员会
     note: 用于核对博物馆位于仍在运转的老厂区内、B 馆玻璃廊道可看生产全过程；未复制原文。
     accessed: 2026-11-08
-  - key: qingdao-gov-street
-    title: 扬帆青岛 — 登州路啤酒街 — 青岛政务网
-    url: http://www.qingdao.gov.cn/yfqd/
-    publisher: 青岛市人民政府
-    note: 用于核对啤酒街东起延安二路、西至寿光路、街长约 710 米、门店数量与青岛啤酒厂位置；未复制原文。
-    accessed: 2026-11-08
   - key: qingdao-culture-street
     title: 新鲜啤酒特色美食 这里被称为永不落幕的啤酒节 — 青岛市文化和旅游局
     url: http://whlyj.qingdao.gov.cn/wlzx/202112/t20211227_4147013.shtml
@@ -87,6 +81,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # 青岛啤酒路线：博物馆、老厂区与登州路啤酒街
 
 青岛啤酒的参观体验有一条很短的动线：进博物馆看历史，走到玻璃廊道看生产，出门右转就是啤酒街。三站都在登州路 56 号一带，步行就能串起来，但它们回答的问题完全不同。博物馆讲“青岛啤酒从哪里来”，老厂区讲“它现在还在怎么生产”，啤酒街讲“它怎样进入一座城市的夜晚”。把这三层分开，半天就不会只变成“喝了一杯”。
@@ -163,3 +158,13 @@ updated_at: 2026-11-08
 这条路线把啤酒的工业史、生产现场与城市夜生活放在同一条街上：博物馆看“从哪里来”，老厂区看“现在怎么做”，啤酒街看“怎么被喝掉”。想先读场馆背景，可以继续看[青岛啤酒博物馆](ref:museum)、[青岛啤酒厂](ref:brewery)与[登州路啤酒街](ref:beer-street)的条目；若时间只够半天，保留博物馆与一顿啤酒街的午饭，把夜宵留到下次。
 
 开放时间、票务、菜单与预约以各官方渠道为准，页面核验日期 2026-11-08。
+
+## 相关图像
+
+![青岛啤酒厂登州路厂区的红砖院落，烟囱与绿色啤酒罐装置上可见 TSINGTAO 字样。](/media/photos/place-tsingtao-brewery-7493ff9a.jpg)
+
+图：青岛啤酒厂登州路厂区的红砖院落，烟囱与绿色啤酒罐装置上可见 TSINGTAO 字样。。图片：Suginami，CC0 1.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_Museum_inside_2024.jpg)）。关联图像：青岛啤酒路线：博物馆、老厂区与登州路啤酒街。
+
+![青岛啤酒股份有限公司](/media/photos/producer-tsingtao-8b8ef272.jpg)
+
+图：青岛啤酒股份有限公司。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_No._1_Factory_(20250919130654).jpg)）。关联图像：青岛啤酒路线：博物馆、老厂区与登州路啤酒街。

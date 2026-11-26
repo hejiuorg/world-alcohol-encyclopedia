@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:jameson-bow-street
 source_lang: zh
-source_revision: sha256:7d28ef8f42f53b971e53b07d3044a07619697b77a06fb22f20ed71503b4f87a3
-source_sha256: 7d28ef8f42f53b971e53b07d3044a07619697b77a06fb22f20ed71503b4f87a3
+source_revision: sha256:c317c20346d71c7771715ddf70f9e462464d8fcb32c651cff0f28deb6a39bd81
+source_sha256: c317c20346d71c7771715ddf70f9e462464d8fcb32c651cff0f28deb6a39bd81
 translation_status: reviewed
 subtype: distillery-visitor
 address: Bow St, Smithfield, Dublin 7, D07 N9VH, Ireland
@@ -92,6 +92,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, tour prices and schedules change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Jameson Distillery Bow St.
 
 Bow Street distillery stands in Smithfield, Dublin 7, a short walk from the north bank of the Liffey, and it is a former distillery turned visitor experience. John Jameson founded it in 1780, and it grew into a six-acre city works employing hundreds of craftspeople. After the last pot still run in 1970, production moved to Midleton in County Cork, and the old site reopened as a visitor centre in 1997. You can still see the buildings, the copper and the warehouses, but you will not see whiskey being made.![Jameson Distillery Bow St. image](/media/photos/place-jameson-bow-street-c01b6f6b.jpg)
@@ -151,3 +152,9 @@ The comparison with [Bushmills Distillery](ref:bushmills) and [Ireland](ref:irel
 | Official site | jamesonwhiskey.com |
 
 **Sources and limits.** The key claims about Jameson Distillery Bow St. are checked against the following sources: Jameson (Used to check the Bow St address, coordinates, opening hours, Luas access and parking advice; Used to check the 1780 founding, the last pot still run in 1970 and the 1997 reopening as a visitor centre), The Spirits Business (Used to check the 1997 conversion and the refurbishment completed in 2017). For current products, addresses or opening status, use jamesonwhiskey.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Related photograph of Bushmills Distillery](/media/photos/place-bushmills-distillery-53905a77.jpg)
+
+Image: Related photograph of Bushmills Distillery. Credit: Reading Tom, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bushmills_Whiskey_Distillery_02.jpg)). Related image for Jameson Distillery Bow St..

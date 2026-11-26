@@ -84,6 +84,7 @@ rights:
   note: 第三方论文、照片与图片不在本许可内；图片为 CC0，已署名。来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 贾湖酒遗存 7000 BCE：中国最早的发酵饮料证据
 
 在河南舞阳的贾湖村，考古学家发现了新石器时代早期的村落、稻作遗迹、骨笛与大量陶器。2004 年，一个中美联合研究团队在《美国国家科学院院刊》（PNAS）发表论文：他们从贾湖陶器内壁的残留物中，检测出稻米、蜂蜜与山楂或葡萄类水果的化学特征，认为这些陶器曾盛装一种混合发酵饮料，年代可早至公元前第七千年。这是中国迄今最早的直接化学证据之一，也改变了人们对中国酒史起点的想象。
@@ -134,3 +135,9 @@ Patrick McGovern 是美国宾夕法尼亚大学考古与人类学博物馆的考
 - [黄酒](ref:yellow)：中国谷物酿酒的另一条重要脉络。
 - [商周酒祭](ref:shang)：贾湖之后，酒与青铜礼器的制度化。
 - [汉代酒榷](ref:han)：中国古代酒类国家专卖与税收的早期形态。
+
+## 相关图像
+
+![商周酒礼：青铜酒器、酒正职官与《酒诰》的饮酒秩序相关实景照片](/media/photos/historical-event-shang-zhou-wine-ritual-e8c47734.jpg)
+
+图：商周酒礼：青铜酒器、酒正职官与《酒诰》的饮酒秩序相关实景照片。图片：Wikimedia Commons contributor，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Clevelandart_1951.151.jpg)）。关联图像：贾湖酒遗存 7000 BCE：中国最早的发酵饮料证据。

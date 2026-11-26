@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:grappa
 source_lang: zh
-source_revision: sha256:308866136b289af2512609922c6da15ab7f56cd934218d7d721bf665c78f567f
-source_sha256: 308866136b289af2512609922c6da15ab7f56cd934218d7d721bf665c78f567f
+source_revision: sha256:7c2b1270174403cceabef0a7a04b9a59c0e66c56b6abe3491cd17773d91e690b
+source_sha256: 7c2b1270174403cceabef0a7a04b9a59c0e66c56b6abe3491cd17773d91e690b
 translation_status: reviewed
 legacy_refs: []
 parent_style_id: drink-style:brandy
@@ -82,6 +82,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Grappa
 
 Grappa is Italy's pomace brandy: it is made from the skins, seeds and stems left after pressing grapes, fermented or partly fermented and then distilled directly, rather than from wine. That narrow definition explains its whole character. Grappa is not a synonym for "Italian brandy" and not wine run through a still a second time; it works with a by-product that would otherwise be discarded and pulls the grape aroma back out of it.
@@ -145,3 +146,9 @@ For Grappa, begin with the production rule. Then look at the strength, and final
 | Aroma family | fruit/floral/herbal |
 
 **Sources and limits.** The key claims about Grappa are checked against the following sources: Consorzio Nazionale Grappa (the legal raw material, Italian origin requirements and GI types for grappa; minimum strength, age wording and origin rules), European Union (the marc-spirit category and the GI framework), Italia — Presidenza del Consiglio dei Ministri (the 12-month ageing rule and the 18-month threshold for riserva and stravecchia). Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Pisco](/media/photos/drink-style-pisco-f6bd686b.jpg)
+
+Image: Pisco. Credit: Cocktailmarler, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Range_of_Pisco.jpg)). Related image for Grappa.

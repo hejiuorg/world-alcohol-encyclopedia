@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 玉米威士忌
 
 美国以玉米为主要原料的威士忌，法规要求至少 80% 玉米；可未经陈年或仅短暂陈年，风味带玉米甜、谷物与轻微辛辣。
@@ -158,3 +159,9 @@ Mellow Corn 的标签明确写“corn whiskey”，酒精度 50% ABV；Balcones 
 | 上位风格 | 威士忌 |
 
 **来源与边界。** 本页关于「玉米威士忌」的关键事实，主要由以下来源交叉核对：European Union（烈酒类别、定义与标签规则）、US TTB（美国威士忌、朗姆与烈酒分类）、US Government（美国蒸馏酒身份标准、玉米威士忌的原料与陈酿要求）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+图：艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量。图片：Rosser1954 Roger Griffith，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)）。关联图像：玉米威士忌。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:baden
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:915d6faeaae1acc2498f790fdd98f2181b39fc542bf9f292ee302defa4941eeb
-source_sha256: 915d6faeaae1acc2498f790fdd98f2181b39fc542bf9f292ee302defa4941eeb
+source_revision: sha256:fbbb7f2d56baa5d5658b6dc7766aa4b1cc090c5605df91cf573a52ae4c67e5d1
+source_sha256: fbbb7f2d56baa5d5658b6dc7766aa4b1cc090c5605df91cf573a52ae4c67e5d1
 level: other
 parent_id: region:germany
 country_code: DE
@@ -86,6 +86,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Baden
 
 Baden is the appellation of south-west Germany, running about 400 kilometres from Tauberfranken in the north along the Rhine plain to Lake Constance in the south and covering about 15,100 hectares in 2025. It is Germany's southernmost appellation and the third largest wine region in the country.
@@ -181,3 +182,13 @@ Baden is best approached through the appellation and its permitted varieties, th
 - [Acidity](ref:acidity): how the acidity of Baden whites relates to food pairing.
 - [Alcohol by volume](ref:abv): alcohol differences across varieties and styles on the label.
 - [Oak ageing](ref:oak-ageing): the role of oak in Spätburgunder ageing.
+
+## Related images
+
+![Category image for Germany](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+Image: Category image for Germany. Credit: Renardo la vulpo, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)). Related image for Baden.
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Baden.

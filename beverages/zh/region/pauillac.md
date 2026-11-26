@@ -77,6 +77,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 波亚克
 
 波亚克（Pauillac）是法国吉伦特省梅多克半岛中段、吉伦特河口左岸的红葡萄酒法定产区，1936 年 11 月 14 日获得 AOC 地位。葡萄园建立在被溪流切割的砾石台地之上，1855 年分级中的拉菲、拉图与木桐三座一级庄都位于此，这种集中度在梅多克村庄中独一无二。
@@ -154,3 +155,13 @@ Pauillac 只能用于来自划定地块、并在区内完成发酵与陈年的�
 - [梅洛](ref:merlot)：柔化酒体与提供早熟果味的角色。
 - [红葡萄酒](ref:red-wine)：波亚克的类别、单宁与酿造概览。
 - [橡木桶陈年](ref:oak-ageing)：桶型、桶龄与微氧化的作用。
+
+## 相关图像
+
+![梅洛](/media/photos/variety-merlot-2a33ecba.jpg)
+
+图：梅洛。图片：Felloni claire，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Merlot.jpg)）。关联图像：波亚克。
+
+![橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。](/media/photos/editorial-oak-ageing-q2.jpg)
+
+图：橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：波亚克。

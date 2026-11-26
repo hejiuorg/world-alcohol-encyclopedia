@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:trebbiano
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fd73e1d59a852105f8668689129e5da3091b34fbc5c44df26e007a3e2c751c7e
-source_sha256: fd73e1d59a852105f8668689129e5da3091b34fbc5c44df26e007a3e2c751c7e
+source_revision: sha256:f8748901f4519ef653eea3b3f398ac72bef5e3af4a5476cee34c36dba0f711cf
+source_sha256: f8748901f4519ef653eea3b3f398ac72bef5e3af4a5476cee34c36dba0f711cf
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -148,3 +148,9 @@ First, that Trebbiano is a single variety; it is a family of names with differen
 - [Cognac](ref:cognac): the most important distilling region for Ugni Blanc.
 - [Armagnac](ref:armagnac): the other brandy built on the grape.
 - [Acidity](ref:acidity): why it suits both light whites and distillation.
+
+## Related images
+
+![Cognac](/media/photos/region-cognac-b2c89cad.jpg)
+
+Image: Cognac. Credit: Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)). Related image for Trebbiano.

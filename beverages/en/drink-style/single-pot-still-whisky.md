@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:single-pot-still-whisky
 source_lang: zh
-source_revision: sha256:838708a8e6446e6aacca5d2c80c0416acdf5f4b760dcc345df87031653f00823
-source_sha256: 838708a8e6446e6aacca5d2c80c0416acdf5f4b760dcc345df87031653f00823
+source_revision: sha256:e2ae4ecf3ea7a391229ad9a93e096d851e58e523953abbedcda610860aaab6e4
+source_sha256: e2ae4ecf3ea7a391229ad9a93e096d851e58e523953abbedcda610860aaab6e4
 translation_status: reviewed
 parent_style_id: drink-style:whisky
 legacy_refs: []
@@ -77,6 +77,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Single Pot Still Whiskey
 
 Single pot still whiskey is the one Irish whiskey category built on mashing malted and unmalted barley together. The two qualifiers in the name are precise: single means one distillery, and pot still means a [pot still](ref:pot-still). It says nothing about a single cask and nothing about single malt. That distinction is the starting point for separating it from Scotch single malt and Irish single malt.
@@ -149,3 +150,9 @@ Read [Whisky](ref:whisky) for the legal definition side of Single Pot Still Whis
 | Parent style | Whisky |
 
 **Sources and limits.** The key claims about Single Pot Still Whiskey are checked against the following sources: Drinks Ireland — Irish Whiskey Association, European Union (Used to check the general legal framework for Irish whiskey as a geographical indication and spirit category), Bord Bia (Irish Food Board) (Used to check Irish whiskey categories and industry background) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.](/media/photos/editorial-oak-ageing-q2.jpg)
+
+Image: Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Single Pot Still Whiskey.

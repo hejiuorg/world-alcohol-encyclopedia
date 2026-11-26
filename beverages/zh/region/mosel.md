@@ -84,6 +84,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 摩泽尔
 
 摩泽尔（Mosel）是德国摩泽尔河及其支流萨尔（Saar）、鲁维尔（Ruwer）河谷的法定产区，以陡峭板岩坡地上的雷司令著称。它是德国 13 个法定产区中最靠北的一批，也是低酒精度、高酸度雷司令的代表。
@@ -177,3 +178,13 @@ Prädikatswein 按采收时的葡萄汁含糖量（°Oe）分为六级，逐级�
 - [酸度](ref:acidity)：摩泽尔雷司令高酸度的来源与作用。
 - [酒精度](ref:abv)：7%–9% vol 在标签与风格上的含义。
 - [橡木桶陈年](ref:oak-ageing)：Fuder 大桶作为容器而非风味来源的角色。
+
+## 相关图像
+
+![德国类别配图](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+图：德国类别配图。图片：Renardo la vulpo，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)）。关联图像：摩泽尔。
+
+![白葡萄酒类型示意图](/media/photos/theme-wine-spirits.jpg)
+
+图：白葡萄酒类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：摩泽尔。

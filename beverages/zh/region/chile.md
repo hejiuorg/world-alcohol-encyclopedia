@@ -89,6 +89,7 @@ rights:
   note: 本页配图为智利安第斯山麓的葡萄园实拍，按 CC BY-SA 2.0 使用，具体见图片图注。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 智利
 
 智利是南美洲西海岸的狭长葡萄酒生产国，葡萄园夹在安第斯山脉与太平洋之间，从北部的沙漠边缘延伸到南部的凉爽地区。
@@ -175,3 +176,13 @@ Maipo 的 Cabernet Sauvignon 建议 16–18 摄氏度，Casablanca 的 Sauvignon
 - [年份](ref:vintage)：智利的年份差异与厄尔尼诺影响。
 - [单一品种](ref:single-varietal)：智利的品种比例与酒标标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![葡萄](/media/photos/ingredient-grape-2d929148.jpg)
+
+图：葡萄。图片：Vyacheslav Argenberg，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)）。关联图像：智利。
+
+![酸度（acidity）](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+图：酸度（acidity）。图片：Chemicalinterest，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)）。关联图像：智利。

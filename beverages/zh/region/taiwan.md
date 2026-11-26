@@ -77,6 +77,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒种法规、标签与产区划分会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 中国台湾地区
 
 中国台湾地区的威士忌与酒类产区，宜兰、南投等地有蒸馏厂；亚热带气候使陈年速度极快，Kavalan、Omar 等品牌在国际比赛中受到关注。
@@ -158,3 +159,13 @@ verification_scope: source-verified
 **并读。** 把「中国台湾地区」与「中国」、「威士忌」、「大麦」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「中国台湾地区」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![大麦](/media/photos/ingredient-barley-37a96001.jpg)
+
+图：大麦。图片：Cliff from Arlington, Virginia, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)）。关联图像：中国台湾地区。
+
+![威士忌](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+图：威士忌。图片：Guinnog，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)）。关联图像：中国台湾地区。

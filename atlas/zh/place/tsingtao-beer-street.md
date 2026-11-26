@@ -54,12 +54,6 @@ references:
   - key: place-and-process
     target_id: culture-article:place-and-process
 sources:
-  - key: qingdao-gov-street
-    title: 扬帆青岛 — 登州路啤酒街 — 青岛政务网
-    url: http://www.qingdao.gov.cn/yfqd/
-    publisher: 青岛市人民政府
-    note: 用于核对登州路啤酒街东起延安二路、西至寿光路、街长约 710 米、门店数量与青岛啤酒厂位置；未复制原文。
-    accessed: 2026-11-08
   - key: qingdao-culture-street
     title: 新鲜啤酒特色美食 这里被称为永不落幕的啤酒节 — 青岛市文化和旅游局
     url: http://whlyj.qingdao.gov.cn/wlzx/202112/t20211227_4147013.shtml
@@ -72,6 +66,12 @@ sources:
     publisher: 大众网
     note: 用于核对 2005 年开街、约 700 米街区、40 多家海鲜大排档与啤酒餐车、明码标价监督；未复制原文。
     accessed: 2026-11-08
+  - key: tsingtao-museum
+    title: 青岛啤酒博物馆 — 官方页面
+    url: https://www.tsingtaomuseum.com/category/1773519016732667906
+    publisher: 青岛啤酒博物馆
+    note: 用于核对博物馆与登州路啤酒街的位置关系；未复制原文。
+    accessed: 2026-11-08
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -79,6 +79,7 @@ rights:
   note: 第三方商标、菜单、图片与引用文本不在本许可内；营业时间、价格、摊位与活动会变化，以现场公示与官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 青岛啤酒街（登州路）
 
 登州路啤酒街是青岛最容易“喝进去”的一处城市空间：白天它是一条普通的老城街道，傍晚灯亮起来，海鲜大排档、啤酒屋与临街餐车把桌子摆到路边，扎啤杯碰撞的声音从街头传到街尾。它和青岛啤酒博物馆只隔几步路，但两者是两套体验：博物馆看的是工业史与生产，啤酒街做的是餐饮与夜生活。
@@ -136,3 +137,9 @@ verification_scope: source-verified
 | 城市/国家 | 青岛市 / 中国 |
 | 营业状态 | 已核验营业 |
 | 官网 | whlyj.qingdao.gov.cn |
+
+## 相关图像
+
+![青岛啤酒博物馆](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
+
+图：青岛啤酒博物馆。图片：M. Weitzel，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tsingdao_Brewery.jpg)）。关联图像：青岛啤酒街（登州路）。

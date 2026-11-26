@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:josef-groll
 source_lang: zh
-source_revision: sha256:c55f15e1dab94c9dc88fac5f7b04904b5c31380d9cd61b66da4100a69640e955
-source_sha256: c55f15e1dab94c9dc88fac5f7b04904b5c31380d9cd61b66da4100a69640e955
+source_revision: sha256:6207d74cdec768872aed5d1c5095a695011c2b827c9bd41f8ea22031097de548
+source_sha256: 6207d74cdec768872aed5d1c5095a695011c2b827c9bd41f8ea22031097de548
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1813
@@ -55,7 +55,7 @@ sources:
     accessed: 2026-11-20
   - key: pu-arguments
     title: Pilsner Urquell — Our Arguments
-    url: https://www.pilsnerurquell.com/our-arguments
+    url: https://www.pilsnerurquell.com/stories
     publisher: Plzeňský Prazdroj
     note: Used to check the golden body, triple decoction, open fermentation, oak casks and long cold maturation; no source text is reproduced.
     accessed: 2026-11-20

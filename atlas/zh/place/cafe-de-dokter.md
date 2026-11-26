@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1798
 ---
+
 # Café De Dokter
 
 从 Spui 广场往南，拐进 Rozenboomsteeg 这条几乎只能容两个人并排走的小巷，4 号门上挂着一块不显眼的招牌：“Café De Dokter”。推门进去，空间小到会让人先愣一下：一张吧台、几把高脚凳、墙上密密麻麻的旧钟、鸟笼、医疗器械、老照片与吊灯，几乎没有转身的余地。它不是“设计成复古”的酒吧，而是把两百多年的杂物原样留着，让时间自己变成装修。
@@ -154,3 +155,9 @@ De Dokter 的核心是 jenever，尤其是自家配方的“Dokters Recept”（
 - Foursquare 的 De Dokter 页面：<https://foursquare.com/v/de-dokter/4bc0a1ef4cdfc9b618219321>，用于核对地址与营业时间冲突。
 - 同城的 `place:cafe-hoppe` 是“双空间”酒吧，`place:heineken-experience` 是啤酒品牌博物馆，`place:de-halve-maan` 与 `place:cantillon-brewery` 是比利时啤酒文化样本。
 - 相关条目：[Café Hoppe](ref:hoppe)、[Heineken Experience](ref:heineken)、[De Halve Maan](ref:halve-maan)、[Cantillon](ref:cantillon)、[Casa Labra](ref:labra)
+
+## 相关图像
+
+![Spui 18–20 号的 Café Hoppe 双立面，绿色霓虹与 Amstel 招牌](/media/photos/place-cafe-hoppe-d8b6d53b.jpg)
+
+图：Spui 18–20 号的 Café Hoppe 双立面，绿色霓虹与 Amstel 招牌。图片：Marcelmulder68，CC BY-SA 3.0 nl，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Spui_nr._18_en_20.jpg)）。关联图像：Café De Dokter。

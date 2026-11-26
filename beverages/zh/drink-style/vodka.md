@@ -61,6 +61,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 伏特加
 
 伏特加（vodka）是以谷物、马铃薯、糖蜜等农产品为原料，经发酵、[蒸馏](ref:distillation)，再通过过滤或处理得到的中性烈酒。它并不必然是“完全无味”的：原料、蒸馏方式、过滤强度与微量残留都会影响口感，只是这些差异通常比威士忌或金酒更细微。
@@ -130,3 +131,9 @@ verification_scope: source-verified
 - [金酒](ref:gin)：同样以中性酒精为基、但以杜松子与植物香气为目标的烈酒。
 
 补充阅读：[水](ref:c-extra-1)。
+
+## 相关图像
+
+![过滤（filtration）示意图](/media/photos/term-filtration-c974bd5e.webp)
+
+图：过滤（filtration）示意图。图片：Wikiwayman，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:FilterDiagram.svg)）。关联图像：伏特加。

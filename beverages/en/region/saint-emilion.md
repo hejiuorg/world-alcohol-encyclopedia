@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:saint-emilion
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:93ebfb32af5875b22ad3da6307965667879260be685fa6a614720d13d628fdc4
-source_sha256: 93ebfb32af5875b22ad3da6307965667879260be685fa6a614720d13d628fdc4
+source_revision: sha256:df822d7ae74905620010b05688737b704a44ab5946627a2b06073090cf32e928
+source_sha256: df822d7ae74905620010b05688737b704a44ab5946627a2b06073090cf32e928
 level: other
 parent_id: region:bordeaux
 country_code: FR
@@ -165,3 +165,13 @@ Sixth, looking only at rank and not at vintage or the estate's choices. The list
 - [Cabernet Franc](ref:cabernet-franc): the blending variety that adds flowers and structure.
 - [Red wine](ref:red-wine): the main drink style of Saint-Émilion.
 - [Terroir](ref:terroir): how plateau, slope and soil shape style.
+
+## Related images
+
+![Cabernet Franc](/media/photos/variety-cabernet-franc-2d40c732.jpg)
+
+Image: Cabernet Franc. Credit: Viala et Vermorel, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cabernet-franc.jpg)). Related image for Saint-Émilion.
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Saint-Émilion.

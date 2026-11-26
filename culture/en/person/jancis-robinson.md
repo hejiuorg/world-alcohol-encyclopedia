@@ -34,8 +34,8 @@ related:
 translation_of: person:jancis-robinson
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1b57ebaac4c89d79d802653995e27ac967add14a33bfc427081af2090d64e917
-source_sha256: 1b57ebaac4c89d79d802653995e27ac967add14a33bfc427081af2090d64e917
+source_revision: sha256:162b4a307d900e562fd3c0c1723c3960afb18f2427b0bac72d05ffe31b9afdfb
+source_sha256: 162b4a307d900e562fd3c0c1723c3960afb18f2427b0bac72d05ffe31b9afdfb
 references:
   - key: wine
     target_id: drink-style:wine
@@ -83,6 +83,12 @@ sources:
     title: The Oxford Companion to Wine, edited by Jancis Robinson
     publisher: Oxford University Press
     note: Migrated from the former reference list at the end of the article; access date not re-verified.
+  - key: adv-jancis-site
+    title: JancisRobinson.com — About and tasting notes
+    url: https://www.jancisrobinson.com/about
+    publisher: JancisRobinson.com
+    note: Used to check the author's role, publications and review scope; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -150,6 +156,28 @@ Third, treating MW as a degree. The Master of Wine is a qualification and title 
 Fourth, treating her scores as absolute standards. Her value lies in method: place, year and craft before preference.
 
 Fifth, treating a British perspective as a global one. Her writing carries the context of the British press and the European wine tradition, which must be supplemented when reading about other regions.
+
+
+## Advanced judgment
+
+![Red and white wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Figure: Red and white wine. Image: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)).
+
+| Role | Main output | Effect on the trade |
+| --- | --- | --- |
+| Journalist | Independent criticism and columns | More transparent tasting |
+| Editor | The Oxford Companion to Wine | Integrated regional and variety knowledge |
+| Map author | The World Atlas of Wine | A visual language for regions |
+| Educator | Master of Wine study | Professional judgement training |
+
+**Is Jancis Robinson a winemaker?** She is known primarily as a wine writer, critic and editor, not as a winemaker. Her influence comes from decades of independent criticism, editing and education rather than estate ownership.
+
+**What is the Master of Wine qualification?** MW is a professional wine qualification covering theory, tasting and practice. It certifies systematic training and judgement, not a single correct answer for every bottle.
+
+**What does the Pavie dispute show?** It shows that independent criticism can collide with commercial interests and style preferences. The issue is disclosure, tasting records and openness to reply, not disagreement itself.
+
+Further reading: [The World Atlas of Wine](ref:world-atlas) and [Wine](ref:wine).
 
 ## See also
 

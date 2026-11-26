@@ -67,6 +67,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 黑皮诺
 
 黑皮诺是红葡萄品种中最难栽培、也最容易反映产地差异的品种之一。它的果粒小、皮薄、色浅，单宁细腻，酸度较高；在勃艮第表现为细致的红色果香与矿物感，在香槟则常作为起泡酒的调配成分。它的风格跨度很大，从轻盈易饮到复杂陈年都能成立。
@@ -149,3 +150,9 @@ verification_scope: source-verified
 **适用边界。** 对「黑皮诺」而言，品种表现随产区、气候与克隆选择变化；同名品种在不同国家可能指不同材料。
 
 **更新提示。** 「黑皮诺」最近核对于 2026-11-04；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
+
+## 相关图像
+
+![罗曼尼·康帝](/media/photos/drink-france-romaneeconti-4a67bacc.jpg)
+
+图：罗曼尼·康帝。图片：Wikipedro，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vosne-Roman%C3%A9e,_le_Domaine_de_la_Roman%C3%A9e-Conti.jpg)）。关联图像：黑皮诺。

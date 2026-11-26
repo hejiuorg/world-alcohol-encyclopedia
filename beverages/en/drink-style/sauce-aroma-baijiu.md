@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:sauce-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8e9759660a174b7832a022fbce57f65e3d14f378d656f94f137fc10cb6c134c6
-source_sha256: 8e9759660a174b7832a022fbce57f65e3d14f378d656f94f137fc10cb6c134c6
+source_revision: sha256:517458082e7d948915fedf3129c8b1c89aa050ccdc55650eb6ed9952a8114456
+source_sha256: 517458082e7d948915fedf3129c8b1c89aa050ccdc55650eb6ed9952a8114456
 legacy_refs: []
 aliases:
   - Jiang-flavour baijiu
@@ -120,6 +120,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Sauce-aroma baijiu
 
 Sauce-aroma baijiu is one style within [baijiu](ref:baijiu), marked by high-temperature qu, high-temperature stacking, stone pits with mud bottoms, multi-round fermentation and long storage. Its aroma is usually described as prominent sauce aroma, elegant and delicate, full-bodied and long-finishing, but the style name itself is not a quality grade.![Sauce-aroma baijiu image](/media/photos/drink-style-sauce-aroma-baijiu-1c3af236.jpg)
@@ -196,3 +197,9 @@ Fifth, equating sauce aroma with the Guizhou region. Region is an important clue
 - [Moutai](ref:moutai): a representative product page for sauce aroma.
 - [Langjiu](ref:langjiu): a sauce-aroma product page from the Sichuan side of the Chishui River.
 - [GB/T 26760-2011 Jiang-flavour Chinese spirits](ref:gbt-26760-2011): the older standard fully replaced by GB/T 10781.4-2024.
+
+## Related images
+
+![Editorial illustration of stacked fermentation: grain mounds and steam in a brick fermentation room; AI-assisted illustration, not a photograph.](/media/photos/editorial-stacked-fermentation-q2.jpg)
+
+Image: Editorial illustration of stacked fermentation: grain mounds and steam in a brick fermentation room; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Sauce-aroma baijiu.

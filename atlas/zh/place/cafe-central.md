@@ -5,7 +5,7 @@ type: place
 lang: zh
 slug: cafe-central
 title: 中央咖啡馆
-summary: 维也纳历史悠久的文学咖啡馆，1876 年开业，以咖啡、蛋糕和知识分子顾客闻名。
+summary: 维也纳历史悠久的文学咖啡馆，1876 年开业，位于市中心圣斯蒂芬大教堂附近；以咖啡、蛋糕和知识分子顾客闻名，是维也纳咖啡文化的代表场所之一。
 status: reviewed
 revision: 5
 subtype: pub
@@ -76,6 +76,7 @@ city: 维也纳
 verification_scope: source-verified
 founded_year: 1876
 ---
+
 # 中央咖啡馆
 
 > **到访信息**
@@ -145,3 +146,9 @@ founded_year: 1876
 补充阅读：[A Ginjinha](ref:c-extra-1)。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[花神咖啡馆](ref:cafe-de-flore)、[A Ginjinha](ref:c-extra-1)。
+
+## 相关图像
+
+![认识一座城，从一间酒馆开始类型示意图](/media/photos/theme-asian.jpg)
+
+图：认识一座城，从一间酒馆开始类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：中央咖啡馆。

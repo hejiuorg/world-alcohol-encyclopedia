@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:cream-ale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8cc06762f0ccc6e754389b7a663539fc009f90921c37102933df10f48140687e
-source_sha256: 8cc06762f0ccc6e754389b7a663539fc009f90921c37102933df10f48140687e
+source_revision: sha256:071af03c9550cc5e2a750122eb6b1ec19fac8828416e7c8655e2d1e83b485b8a
+source_sha256: 071af03c9550cc5e2a750122eb6b1ec19fac8828416e7c8655e2d1e83b485b8a
 related:
   - relation: about
     target_id: drink-style:beer
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Cream Ale
 
 A pale American ale, often with corn or rice to lighten the malt body, crisp with fine foam and low bitterness; “cream” refers to texture, not cream flavour.
@@ -166,3 +167,9 @@ Cream ale is an American pale beer brewed with lager yeast or a mixed fermentati
 | Parent style | Beer |
 
 **Sources and limits.** The key claims about Cream Ale are checked against the following sources: Beer Judge Certification Program (beer-style definitions, parameters and typical characteristics), Brewers Association (US beer styles, ingredients and industry classifications), CAMRA (traditional British beer and ale styles) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Barley](/media/photos/ingredient-barley-37a96001.jpg)
+
+Image: Barley. Credit: Cliff from Arlington, Virginia, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)). Related image for Cream Ale.

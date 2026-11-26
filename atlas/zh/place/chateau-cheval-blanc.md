@@ -99,6 +99,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；分级状态、参观政策与年份供应会变化，以官方信息为准。
 verification_scope: source-verified
 ---
+
 # 白马酒庄
 
 从 Saint-Émilion 镇中心往西北，葡萄园在右手展开，地面从石灰岩坡地变成了黏土与砾石的缓坡。白马酒庄的主楼藏在一排树后面，白色石材、灰色屋顶、一个细尖的塔楼；门前有一片水塘，倒影里是树与天空。它没有圣埃美隆镇内那些“明信片角度”的密集感，反而像一座被葡萄园包围的乡间宅邸。真正让它在建筑史里被记住的，是主楼旁边那组白色混凝土的波浪形酒窖。
@@ -166,3 +167,9 @@ Le Petit Cheval 可以开瓶 30–60 分钟，配烤鸡、炖牛肉、香肠与�
 - 左岸对照：[Margaux](ref:margaux)、[Latour](ref:latour)、[Haut-Brion](ref:hautbrion)、[Lafite](ref:lafite)、[左岸酒庄路线](ref:route)。
 
 对照阅读：[柏图斯酒庄](ref:petrus)、[拉图酒庄](ref:latour)。
+
+## 相关图像
+
+![“波尔多左岸路线：从葡萄酒城到波亚克两座一级庄”页面配图：The CBS Wine team at the 2012 Left Bank Bordeaux Cup。摄影：Netapp Inc，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-route-bordeaux-left-bank-chateaux-3b197628.jpg)
+
+图：The CBS Wine team at the 2012 Left Bank Bordeaux Cup。摄影：Netapp Inc，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Netapp Inc，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=21313721)）。关联图像：白马酒庄。

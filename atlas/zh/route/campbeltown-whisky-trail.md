@@ -110,6 +110,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # 坎贝尔镇威士忌路线：两条街之间的两家酒厂
 
 坎贝尔镇（Campbeltown）在苏格兰西海岸琴泰半岛的末端，是苏格兰威士忌五个法定产区里面积最小的一个。这条路线不安排长途驾驶，也不追求一天看三家：它只在镇中心走不到一公里，从 Well Close 的云顶走到 High Street 的格兰帝。两站之间隔着的不是距离，而是一百多年里这个产区从繁荣、收缩到重新站稳的全过程。
@@ -169,3 +170,13 @@ updated_at: 2026-11-08
 这条路线是[坎贝尔镇](ref:campbeltown)产区页的“落地版”：产区页解释法定范围、历史与风格，路线页告诉你在哪两栋建筑之间能看到这些结论。往上一层是[苏格兰威士忌](ref:scotland)的法规框架，往下则是[单一麦芽](ref:single-malt)的工艺细节——发麦、蒸馏次数、桶型与陈年。读完再走，参观时更容易把讲解听成一条因果链，而不是一堆年份。
 
 相关条目：[云顶酒厂](ref:springbank)。
+
+## 相关图像
+
+![云顶酒厂](/media/photos/place-springbank-distillery-b24b4f99.jpg)
+
+图：云顶酒厂。图片：Lirazelf，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Springbank_Distillery,_Campbeltown.jpg)）。关联图像：坎贝尔镇威士忌路线：两条街之间的两家酒厂。
+
+![“坎贝尔镇”页面配图：Glen Scotia Distillery, Campbeltown。摄影：Lirazelf，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-campbeltown-f346e241.jpg)
+
+图：Glen Scotia Distillery, Campbeltown。摄影：Lirazelf，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Lirazelf，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=62323489)）。关联图像：坎贝尔镇威士忌路线：两条街之间的两家酒厂。

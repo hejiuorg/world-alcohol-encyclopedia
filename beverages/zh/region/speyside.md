@@ -74,6 +74,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 斯佩塞
 
 斯佩塞（Speyside）在苏格兰东北部，以斯佩河及其支流谷地为核心。这里的酒厂密度居苏格兰之首，约 50 家蒸馏厂集中在从格伦利维特到罗斯、达夫敦与基思的狭长地带。它既是《2009 年苏格兰威士忌条例》承认的受保护地方名称，也是市场上最常见的风格标签之一；这两层身份需要分开理解。
@@ -136,3 +137,13 @@ verification_scope: source-verified
 | 层级 | 其他 |
 | 所属 | 苏格兰 |
 | 国家代码 | GB |
+
+## 相关图像
+
+![苏格兰类别配图](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+图：苏格兰类别配图。图片：Alan Jamieson，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)）。关联图像：斯佩塞。
+
+![艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+图：艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量。图片：Rosser1954 Roger Griffith，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)）。关联图像：斯佩塞。

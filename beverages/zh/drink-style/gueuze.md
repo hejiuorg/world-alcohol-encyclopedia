@@ -81,6 +81,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 贵兹
 
 贵兹（gueuze，也写作 geuze）是[比利时](ref:belgium)[啤酒](ref:beer)中把不同年份的[兰比克](ref:lambic)混合后装瓶、让残余糖在瓶中再次[发酵](ref:fermentation)的一类。它不是一种“加酸”的啤酒，而是把年轻酒与老年酒的结构拼在一起：年轻酒带来可发酵糖与活跃酵母，老年酒带来酸度、谷仓气息与复杂度。成品干爽、气泡细密，酸度明亮但不刺喉。
@@ -144,3 +145,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「贵兹」的关键事实，主要由以下来源交叉核对：Brasserie Cantillon（兰比克酿造、橡木桶陈放与贵兹混酿的公开工艺信息）、Beer Judge Certification Program（贵兹的酸度、气泡、酒精度与风味描述框架）、Brewers Association（美国精酿行业对兰比克与贵兹的公开分类表述）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「贵兹」与「兰比克」、「酸啤酒」、「啤酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![酸啤酒](/media/photos/drink-style-sour-beer-4b0d00b2.jpg)
+
+图：酸啤酒。图片：Bernt Rostad，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Norwegian_sour_beer.jpg)）。关联图像：贵兹。

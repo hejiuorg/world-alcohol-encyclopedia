@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: historical-event:cocktail-revival-1980s
 source_lang: zh
-source_revision: sha256:0e84c4a44355d58bb762a2a670cab112752f9b26213c029b126072a22a436663
-source_sha256: 0e84c4a44355d58bb762a2a670cab112752f9b26213c029b126072a22a436663
+source_revision: sha256:4f3698f66aca7aa2d308794d453ff7dd0ba856a2e11dd141b776710af3e916ca
+source_sha256: 4f3698f66aca7aa2d308794d453ff7dd0ba856a2e11dd141b776710af3e916ca
 translation_status: reviewed
 aliases:
   - 鸡尾酒复兴
@@ -94,6 +94,7 @@ rights:
   note: Third-party interviews, trademarks, recipes and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # The Cocktail Revival (1980s): From the Rainbow Room to Craft Bartending
 
 In the 1970s sweet pre-mixes and disco culture pushed classic recipes into the background. In 1987, when the Rainbow Room reopened in New York, Dale DeGroff returned to Jerry Thomas's 1862 approach: fresh juice, house-made syrup, large ice and a restrained menu. That revival, framed as getting the classics right, grew into the craft cocktail movement of the 1990s.
@@ -147,3 +148,9 @@ Read The Cocktail Revival (1980s) through the date and setting, then the documen
 [United States](ref:usa) and [Founding of the International Bartenders Association (1951): A Round Table of Seven Guilds](ref:iba) are the two useful reference points for The Cocktail Revival (1980s). [United States](ref:usa) sets out date; [Founding of the International Bartenders Association (1951): A Round Table of Seven Guilds](ref:iba) brings in place. Read them together.
 
 **Sources and limits.** The key claims about The Cocktail Revival (1980s): From the Rainbow Room to Craft Bartending are checked against the following sources: Rockefeller Center, European Bartender School, Dale DeGroff (Used to check the author's identity, books and teaching; no recipes are reproduced) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Dale DeGroff](/media/photos/person-dale-degroff-fa7c8cd6.jpg)
+
+Image: Dale DeGroff. Credit: Editor B, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:D%C3%A9gustation_d%27Armagnac_aux_USA.jpg)). Related image for The Cocktail Revival (1980s): From the Rainbow Room to Craft Bartending.

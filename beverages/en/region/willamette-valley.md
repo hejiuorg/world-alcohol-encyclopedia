@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:willamette-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:921845c82d9948e4e5a14036dc12d3030d4826a2328dd5d2f5e6268534342565
-source_sha256: 921845c82d9948e4e5a14036dc12d3030d4826a2328dd5d2f5e6268534342565
+source_revision: sha256:401db22888bb6bbb3d9f8e3a5d1e1d2219fa260fb9e906c6b6f2d110511b3cce
+source_sha256: 401db22888bb6bbb3d9f8e3a5d1e1d2219fa260fb9e906c6b6f2d110511b3cce
 level: other
 parent_id: region:usa
 country_code: US
@@ -93,6 +93,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Willamette Valley
 
 Willamette Valley is Oregon's leading wine region, known for Pinot Noir in a cool climate and often described as the American region closest in style to Burgundy.![Willamette Valley image](/media/photos/region-willamette-valley-2f0dfd25.jpg)
@@ -201,3 +202,13 @@ Put [Wine](ref:wine)'s geographic boundary next to [Red wine](ref:red-wine)'s cl
 - [Vintage](ref:vintage): vintage variation and autumn rain in Willamette Valley.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Willamette Valley.
+
+![Terroir](/media/photos/term-terroir-c440d7e4.jpg)
+
+Image: Terroir. Credit: Friedrich Petersdorff, CC BY-SA 2.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)). Related image for Willamette Valley.

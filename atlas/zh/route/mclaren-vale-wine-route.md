@@ -76,6 +76,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-21
 ---
+
 # 麦克拉伦谷葡萄酒路线
 
 这是一条从阿德莱德出发、当天往返的麦克拉伦谷路线：先到达伦堡看百年老藤与“魔方”，再去维拉维拉看 1894 年的石造酒窖与教堂块混酿，中间留一顿饭和一段海岸线。全程约 80 公里，重点不是酒庄数量，而是把“历史、建筑、品种与海风”放在同一天里对照。
@@ -146,3 +147,13 @@ updated_at: 2026-11-21
 | 站数 | 2 |
 | 交通 | 自驾 |
 | 停靠顺序 | 达伦堡酒庄、维拉维拉酒庄 |
+
+## 相关图像
+
+![维拉维拉酒庄相关实景照片](/media/photos/place-wirra-wirra-f7a0e1f9.jpg)
+
+图：维拉维拉酒庄相关实景照片。图片：No Swan So Fine，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wirra_Wirra_Vineyards,_Strout_Road,_McLaren_Vale_07.jpg)）。关联图像：麦克拉伦谷葡萄酒路线。
+
+![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：麦克拉伦谷葡萄酒路线。

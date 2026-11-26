@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:luzhou
 source_lang: zh
-source_revision: sha256:b383cc31af0c75c08968bd88c9bd9c68d979b94332d6a89e9f36542f581854ac
-source_sha256: b383cc31af0c75c08968bd88c9bd9c68d979b94332d6a89e9f36542f581854ac
+source_revision: sha256:7cdd8e2643e9034f04ee1a0a42e3f03054dd5040ea8c552d30bf089814ac9582
+source_sha256: 7cdd8e2643e9034f04ee1a0a42e3f03054dd5040ea8c552d30bf089814ac9582
 translation_status: reviewed
 level: city
 parent_id: region:sichuan
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. Third-party images are credited in the captions.
 verification_scope: source-verified
 ---
+
 # Luzhou
 
 Luzhou lies at the south-eastern edge of the Sichuan Basin, where the Yangtze and Tuo rivers meet. Compared with Yibin's river junction, Luzhou feels more like an old Yangtze port: the Tuo brought inland goods, while the Yangtze linked the city with Chongqing and Yibin. Luzhou Laojiao's old cellars are distributed within the urban area, so the distillery and city life sit unusually close together for a Chinese baijiu production centre.
@@ -139,3 +140,13 @@ Fourth, "aged aroma" is not the only criterion. Cleanliness, balance and length 
 - For the shared language of strong aroma, read [Strong-aroma baijiu](ref:strong).
 - To compare the two southern Sichuan liquor cities, use the [Sichuan](ref:sichuan) overview and the [China](ref:china) production-area map, then plan a two-city route.
 - To place Luzhou on a Yangtze journey, check transport between Yibin and Chongqing before deciding how long to stay.
+
+## Related images
+
+![Luzhou Laojiao](/media/photos/brand-luzhou-laojiao-0e97e137.jpg)
+
+Image: Luzhou Laojiao. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)). Related image for Luzhou.
+
+![Sichuan](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+Image: Sichuan. Credit: FISU, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)). Related image for Luzhou.

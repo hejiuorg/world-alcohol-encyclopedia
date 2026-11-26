@@ -89,6 +89,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1733
 ---
+
 # 吉利咖啡馆
 
 在佛罗伦萨 Piazza della Repubblica 靠 Via Roma 的转角，吉利咖啡馆的橙色遮阳篷和深色木门很容易被游客错过。它不像领主广场旁那些把历史写在招牌上的餐厅，也不靠网红橱窗招客；推门进去，先看到的是胡桃木柜台、老式挂钟、镜面与一排排甜点盒。这里是佛罗伦萨仍然在营业的最老咖啡馆之一，但它首先是一门从 1733 年做到今天的甜点与咖啡生意，而不是一座只供参观的老房子。
@@ -159,3 +160,9 @@ Gilli 的空间是“旧咖啡馆 + 现代餐饮”的叠层。底层的主厅�
 - 相关条目：[罗马希腊咖啡馆](ref:greco)、[圣卡洛咖啡馆](ref:san-carlo)、[都灵 Al Bicerin](ref:bicerin)、[Camparino in Galleria](ref:camparino)、[维也纳咖啡馆之夜](ref:vienna)
 
 对照阅读：[罗马希腊咖啡馆](ref:greco)、[阿尔比切林咖啡馆](ref:bicerin)。
+
+## 相关图像
+
+![罗马康多蒂街的希腊咖啡馆](/media/photos/place-antico-caffe-greco-632435ad.jpg)
+
+图：罗马康多蒂街的希腊咖啡馆。图片：Elisabetta Stringhi from Italia，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Antico_caff%C3%A9_greco_(14869700159).jpg)）。关联图像：吉利咖啡馆。

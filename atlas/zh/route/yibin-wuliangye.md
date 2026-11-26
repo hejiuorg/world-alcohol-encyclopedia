@@ -149,3 +149,13 @@ verification_scope: source-verified
 - 四川省网上红色基地 — 五粮液酒文化博物馆 — https://hsjd.scdjw.com.cn/cover01.html?id=116（四川省网上红色基地，核对 2026-11-25）
 
 相关条目：[五粮液酒文化博览馆](ref:museum)、[五粮液酒厂（十里酒城）](ref:estate)、[五粮液](ref:brand)、[浓香型白酒](ref:style)、[四川省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![五粮液](/media/photos/brand-wuliangye-27081149.jpg)
+
+图：五粮液。图片：东京村子，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E4%BA%94%E7%B2%AE%E6%B6%B2%E6%97%97%E8%88%B0%E5%BA%97_-_panoramio.jpg)）。关联图像：宜宾五粮液路线：从酒文化博览馆到十里酒城。
+
+![浓香型白酒](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
+
+图：浓香型白酒。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)）。关联图像：宜宾五粮液路线：从酒文化博览馆到十里酒城。

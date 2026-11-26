@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:plasticizer-scandal-2012
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:47ae859d19b55ad0b60e88e335c88d12c3479a312afcb58d0c0f4b5a740aff3c
-source_sha256: 47ae859d19b55ad0b60e88e335c88d12c3479a312afcb58d0c0f4b5a740aff3c
+source_revision: sha256:b1efcf5253dbe362c7b77a8e18cf964f7ac293558ff696adb40ce54752ace670
+source_sha256: b1efcf5253dbe362c7b77a8e18cf964f7ac293558ff696adb40ce54752ace670
 date_text: November 2012
 year_start: 2012
 year_end: 2012
@@ -111,6 +111,7 @@ rights:
   note: Third-party reports, test reports and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The 2012 baijiu plasticiser incident
 
 In November 2012 a baijiu sample sent to a laboratory by journalists was found to contain 1.08 mg/kg of the plasticiser dibutyl phthalate (DBP). The company involved was Jiugui liquor of Hunan. Against the 0.3 mg/kg limit then used as a reference, the result was reported as 260% above the limit. The affair quickly became an industry-wide crisis of trust; regulators carried out checks, and firms altered production lines and packaging materials. The core problem was not one company but plastic contact materials in baijiu production and a gap in the standards.
@@ -172,3 +173,9 @@ For The 2012 baijiu plasticiser incident, begin with the date and setting, then 
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The 2012 baijiu plasticiser incident are checked against the following sources: Xinhua (Used to check the timing, the company involved and the regulatory response), Former General Administration of Quality Supervision, Inspection and Quarantine (Used to check the scope of sampling and inspection), China Alcoholic Drinks Association (Used to check industry remediation and the standards debate after the incident) and 11 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for The 2013 restrictions on official consumption and the baijiu adjustment](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
+
+Image: Category image for The 2013 restrictions on official consumption and the baijiu adjustment. Credit: M. Weitzel, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingdao_Brewery.jpg)). Related image for The 2012 baijiu plasticiser incident.

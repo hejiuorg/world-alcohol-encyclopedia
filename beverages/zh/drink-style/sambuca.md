@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 桑布卡
 
 桑布卡是意大利茴香风味甜利口酒，以八角茴香为主香，配合糖与中性烈酒，法定最低酒精度 38%；经典款透明清亮，传统喝法配咖啡豆或加水变浑浊，餐后饮用居多。
@@ -143,3 +144,9 @@ verification_scope: source-verified
 - 相关条目：[liqueur](ref:liqueur)、[italy](ref:italy)、[distillation](ref:distillation)、[proof-and-abv](ref:proof)、[maceration](ref:maceration)。
 
 对照阅读：[利口酒](ref:liqueur)、[蒸馏](ref:distillation)。
+
+## 相关图像
+
+![Old Rip Van Winkle 波本酒瓶与标签；标签是酒精度/Proof 标示的实际载体，不是比重计或测量仪器](/media/photos/term-proof-and-abv-bfb3bc09.jpg)
+
+图：Old Rip Van Winkle 波本酒瓶与标签；标签是酒精度/Proof 标示的实际载体，不是比重计或测量仪器。图片：Joe Hall from Oakland, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Old_Rip_Van_Winkle_Whiskey_301243232.jpg)）。关联图像：桑布卡。

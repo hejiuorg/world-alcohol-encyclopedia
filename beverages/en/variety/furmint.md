@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:furmint
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:937336c4de329aba5623ee0aeae12d1aae61d0b128ff4e497f6cf147e5c4d6a3
-source_sha256: 937336c4de329aba5623ee0aeae12d1aae61d0b128ff4e497f6cf147e5c4d6a3
+source_revision: sha256:3df0575c643115d197ab6223e94db820114360234238082f7c42700739e503e7
+source_sha256: 3df0575c643115d197ab6223e94db820114360234238082f7c42700739e503e7
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -79,6 +79,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Furmint
 
 Furmint is the most important white grape of Tokaj in Hungary and one of the most misunderstood varieties in the world. Most drinkers know it only through luscious botrytised sweet wine, yet the grape is high in acidity, thick-skinned and late-ripening, and can make dry whites of real tension. The fog and rivers of Tokaj, noble rot and oak shaped the honeyed apricot of Aszú; the dry Furmint revival of recent decades has brought the variety's citrus, smoke and saline side to the fore.
@@ -144,3 +145,9 @@ First, that Tokaj is only sweet; dry Furmint has centuries of history and has be
 - [Late harvest](ref:late-harvest): the picking logic behind sweet Furmint.
 - [Acidity](ref:acidity): the frame of both dry and sweet Furmint.
 - [Fermentation](ref:fermentation): the process behind styles from dry white to Aszú.
+
+## Related images
+
+![Late harvest](/media/photos/term-late-harvest-fde1a4f5.jpg)
+
+Image: Late harvest. Credit: Agne27, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Late_harvest_Semillon.jpg)). Related image for Furmint.

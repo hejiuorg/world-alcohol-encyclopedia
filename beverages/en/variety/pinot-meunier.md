@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:pinot-meunier
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bdb4477feb3007c31a1e69516fb7cba5c78eb103180da42e7caa56c85ced7244
-source_sha256: bdb4477feb3007c31a1e69516fb7cba5c78eb103180da42e7caa56c85ced7244
+source_revision: sha256:0c29e6373e489092d058f6f29ddde9a52e9fc05dc0a429ffcf1f61162b29c27f
+source_sha256: 0c29e6373e489092d058f6f29ddde9a52e9fc05dc0a429ffcf1f61162b29c27f
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -133,3 +133,9 @@ First, that Pinot Meunier is an inferior grape; good single-varietal examples ca
 - [Blending](ref:blending): the key to Champagne assemblage.
 - [Champagne](ref:champagne): the core region for Pinot Meunier.
 - [France](ref:france): the regional and legal framework of French wine.
+
+## Related images
+
+![Vineyard at Trépail on the Montagne de Reims, a typical Champagne landscape of chalk soil and slope aspect](/media/photos/region-champagne-712da84c.jpg)
+
+Image: Vineyard at Trépail on the Montagne de Reims, a typical Champagne landscape of chalk soil and slope aspect. Credit: Havang(nl), CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tr%C3%A9pail,_vignes_au_pied_de_la_Montagne_de_Reims.JPG)). Related image for Pinot Meunier.

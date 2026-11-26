@@ -11,8 +11,8 @@ revision: 2
 legacy_refs: []
 translation_of: guide:wine-storage
 source_lang: zh
-source_revision: sha256:ccae7394803243b5783c93e08845ee49f18a2cdc4dd417502e5f39ee3a01da39
-source_sha256: ccae7394803243b5783c93e08845ee49f18a2cdc4dd417502e5f39ee3a01da39
+source_revision: sha256:417c86e86cfb7a820abd6117c4660ca0e9c2f1d4a8074581ffe32256ee9bd4fd
+source_sha256: 417c86e86cfb7a820abd6117c4660ca0e9c2f1d4a8074581ffe32256ee9bd4fd
 translation_status: reviewed
 aliases:
   - Wine storage
@@ -185,3 +185,20 @@ Fourth, learn to read labels and bottle condition, and distinguish "drink soon" 
 | After opening | Refrigerate, drink within 3–5 days | Leaving it out overnight |
 
 How to use: narrow by setting first, then adjust for budget and taste; this is a starting table, not a score.
+
+## Frequently asked questions
+
+### Can a domestic fridge store wine long term?
+
+No. A fridge is cold, dry, vibrates from the compressor and fluctuates when opened. It is fine for chilling a bottle you will drink soon, or for keeping an open bottle for 3–5 days. For long-term storage, use a stable, dark, vibration-free wine fridge or cellar.
+
+### Is mould on the cork safe?
+
+It depends where the mould is. A little mould on the outer neck can be wiped off and usually does not affect the wine. If mould has penetrated the cork, or the wine smells of wet cardboard, mustiness or is strangely flat, do not drink it. Smell the bottle first.
+
+### How long can a bottle age?
+
+There is no single answer. Fresh whites and most sparkling wines are usually for drinking within 1–3 years; structured reds may go 5–15 years; sweet whites and fortified wines can last much longer. Ordinary table wine is not for long cellaring. Judge by structure, vintage, alcohol, acidity and storage, not price alone.
+
+> **Next:** Set separate storage spots for [red wine](ref:red), [white wine](ref:white) and [sparkling wine](ref:sparkling); if you plan to drink soon, read [temperature and chilling](ref:ice-temp).
+

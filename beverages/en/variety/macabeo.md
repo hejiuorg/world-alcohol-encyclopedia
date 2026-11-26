@@ -22,8 +22,8 @@ tags:
 translation_of: variety:macabeo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c3f577c9fc354f85561ebba2fcc6d62bcd12a9e0cfe3528298f709eba544a88b
-source_sha256: c3f577c9fc354f85561ebba2fcc6d62bcd12a9e0cfe3528298f709eba544a88b
+source_revision: sha256:79758d3bf3b6577eecc681db11268943edffa6a4ad91a0083d486b0eca31ac7e
+source_sha256: 79758d3bf3b6577eecc681db11268943edffa6a4ad91a0083d486b0eca31ac7e
 related:
   - relation: about
     target_id: region:rioja
@@ -153,3 +153,9 @@ On the label, read region (DOCa Rioja, DO Cava or a specific Catalan district), 
 
 - Related: [rioja](ref:rioja), [white-wine](ref:white), [sparkling-wine](ref:sparkling), [fermentation](ref:fermentation), [terroir](ref:terroir).
 - To compare the Cava and Rioja routes, taste a fresh Cava and an oak-aged Rioja white from the same vintage and contrast fruit concentration, acidity brightness and nutty mineral layers.
+
+## Related images
+
+![Photograph for Rioja: A Rioja Vineyard - panoramio. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-rioja-e8334a87.jpg)
+
+Image: A Rioja Vineyard - panoramio. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=56546384)). Related image for Macabeo.

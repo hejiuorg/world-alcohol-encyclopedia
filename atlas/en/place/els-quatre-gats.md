@@ -31,8 +31,8 @@ tags:
 translation_of: place:els-quatre-gats
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ecac01bf89cc8d49a024804936cfb6b8e91e1eb5b345649f7da7d46e276a947f
-source_sha256: ecac01bf89cc8d49a024804936cfb6b8e91e1eb5b345649f7da7d46e276a947f
+source_revision: sha256:5477e8f2e0f6b6c738ea6d591f6ffdb5860844b9353323a5aa01c299572cedf7
+source_sha256: 5477e8f2e0f6b6c738ea6d591f6ffdb5860844b9353323a5aa01c299572cedf7
 related:
   - relation: about
     target_id: place:casa-labra
@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1897
 ---
+
 # Els Quatre Gats
 
 From the lanes beside Barcelona Cathedral, turn into Carrer de Montsió and a narrow building with a pointed roof, brick-and-stone facade and Modernista ironwork appears; Els Quatre Gats occupies its ground floor. A "4 GATS" sign hangs at the door, and inside are dark wood, mirrors, posters and brass lamps. It is not the noisy tourist café of Las Ramblas but a tavern from 1900 with the pause button pressed: the menu, wall decorations and furniture all remind you that this was a stronghold of Catalan Modernisme.![Brick facade and sign of Els Quatre Gats](/media/photos/place-els-quatre-gats-56f88aa3.jpg)
@@ -157,3 +158,9 @@ Read [Casa Labra](ref:labra) for the address and space side of Els Quatre Gats, 
 | Official site | 4gats.com |
 
 **Sources and limits.** The key claims about Els Quatre Gats are checked against the following sources: Els Quatre Gats (Used for the Carrer de Montsió 3 address and the Tuesday-to-Sunday hours), Museu Picasso de Barcelona (Used for Picasso's relationship with Els Quatre Gats, his presence in 1899–1900 and his exhibition there), Ruta del Modernisme (Used for Puig i Cadafalch's Casa Martí, the Modernisme context and the 1897 opening). For current products, addresses or opening status, use 4gats.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The curved wooden facade and "Restaurante" sign of Casa Labra, Calle de Tetuán 12](/media/photos/place-casa-labra-19738080.jpg)
+
+Image: The curved wooden facade and "Restaurante" sign of Casa Labra, Calle de Tetuán 12. Credit: Midir, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Casa_labra.jpg)). Related image for Els Quatre Gats.

@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:palomino
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9bf5d1765a5fb77ecdde3a078189459ed50b2103cb8f60fa8ba3981bfadbfa41
-source_sha256: 9bf5d1765a5fb77ecdde3a078189459ed50b2103cb8f60fa8ba3981bfadbfa41
+source_revision: sha256:cb22195df7cbb63d1472fc1ab91d27e9f25c08a5efec9daddda202510ad4ec65
+source_sha256: cb22195df7cbb63d1472fc1ab91d27e9f25c08a5efec9daddda202510ad4ec65
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -147,3 +147,9 @@ First, that Palomino is a sweet grape; it is dry and neutral, and sweetness come
 - [Fortification](ref:fortification): the step that sets the wine's path.
 - [Flor](ref:flor): the yeast film behind biological ageing.
 - [Solera](ref:solera): the blending system used for ageing.
+
+## Related images
+
+![Jerez](/media/photos/region-jerez-6c8a748e.jpg)
+
+Image: Jerez. Credit: Annie and Andrew, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:(Jerez_de_la_Frontera)_DSC_0560_(6271831479)_(cropped).jpg)). Related image for Palomino.

@@ -17,6 +17,13 @@
 - [Whisky for beginners](whisky-intro.md) — A beginner's route into whisky, starting with single malt versus blended Scotch, a decision table for a first bottle, and notes on age, strength, serving and common myths.
 - [Wine Storage: Temperature, Humidity, Light and Vibration](wine-storage.md) — The core of wine storage is stability; temperature, humidity, light, vibration and air all change a wine's condition, and short-term keeping, opened-bottle storage and long-term ageing should be handled differently by wine type and intention.
 
+- [白酒送礼 1000 元以上怎么选](baijiu-gift-1000-plus.md) — 把千元以上的白酒送礼拆成关系、场景、价格带、酒体与渠道五个判断：先定送给谁、什么场合，再把预算放在可核验的酒体与来源上，而不是盒子或“内部酒”说法。
+- [威士忌送礼预算怎么分](whisky-gift-budget.md) — 把威士忌送礼拆成预算、类型、年份、包装与渠道五个判断：300 到 3000 元各有合适的选择，先看收礼人怎么喝，再决定单一麦芽、调和、桶强还是礼盒。
+- [葡萄酒送礼预算怎么分](wine-gift-budget.md) — 把葡萄酒送礼拆成收礼人、预算、产区、年份与运输五个判断：200 到 3000 元各有合适的选择，先确认对方喝不喝，再决定红、白、起泡与包装。
+- [黄酒怎么温、怎么喝](huangjiu-warm-serving.md) — 把黄酒温饮拆成温度、器皿、类型、配菜与保存五个判断：温到 40–50°C 左右而不是煮沸，按干型、半干、半甜、甜型调整，附水浴做法、加料与开瓶后保存。
+- [清酒开瓶后怎么保存](sake-storage-after-opening.md) — 把清酒开瓶后的保存拆成温度、光线、空气、类型与饮用窗口五个判断：冷藏避光、尽量少空气，纯米与吟酿通常 2–4 周内喝完，生酒与低酒精度更短。
+- [朗姆酒分类与选购](rum-categories-shopping.md) — 把朗姆酒选购拆成原料、颜色、陈年、糖分与用途五个判断：白朗姆适合调酒，金朗姆与陈年朗姆适合纯饮，农业朗姆看甘蔗汁，海军与高度朗姆看强度与场合。
+
 Entries not marked `reviewed` are migration previews and are excluded from production search.
 - [Choosing a 300–800 RMB Baijiu Gift](baijiu-gift-300-800.md) — Break a 300–800 RMB baijiu gift into five decisions: occasion, aroma, bottle size, packaging and channel. Decide whether the recipient drinks, how many people will share it and whether a gift box is needed, then put the budget into the liquor rather than the box, with common pitfalls and verification steps.
 - [Yellow Wine for Gifts and for Yourself](huangjiu-gift-and-self.md) — Separate yellow-wine gifts from everyday drinking: gifts depend on type, age, size and packaging; self-drinking depends on sweetness, bottle size, storage after opening and food pairing. Understand dry, semi-dry, semi-sweet and sweet, and the relations among Jiafan, Huadiao and Xiangxue before choosing a bottle.
@@ -32,3 +39,9 @@ Entries not marked `reviewed` are migration previews and are excluded from produ
 - [Planning a Whisky Distillery Trip](whisky-distillery-travel.md) — Plan a whisky distillery trip in the order region, transport, booking, tour, tasting and buying. Scotland’s islands and Highlands, Japan’s Yamazaki and Yoichi, the US and Ireland each have their own rhythm. Choose one main line, then add distilleries; do not plan from straight-line map distance.
 - [Budgeting a Wine-Region Trip](wine-region-budget.md) — Split a wine-region trip into transport, lodging, tasting fees, food, wine purchases and insurance. Choose region and season first, then plan around two visits a day with a half-day buffer; budget backwards from the total, not just airfare.
 - [Yellow Wine at the Jiangnan Table](huangjiu-jiangnan-table.md) — Put yellow wine back at the Jiangnan table: from Shaoxing, Suzhou and Shanghai home cooking and seasonal rhythms, explain how dry, semi-dry, semi-sweet and sweet types pair; then cover warming, vessels, wine houses and regional routes in a dish–wine–temperature map.
+- [How to choose sparkling wine: Champagne, Cava, Prosecco and Crémant](sparkling-wine-buying.md) — A buyer's guide to sparkling wine by category, budget, sweetness, vintage and label, with opening, pouring and pairing notes.
+- [Fortified wine: Port, Sherry and Madeira](fortified-wine-intro.md) — An introduction to fortified wine by type, sweetness, oxidation, shelf life and pairing, covering Port, Sherry, Madeira and Marsala.
+- [Vintage and drinking window: beyond the year on the label](wine-vintage-drinking-window.md) — How vintage records weather and winemaking choices, and how to judge a drinking window by wine type, structure, condition and storage.
+- [Sake temperature: from chilled to warm](sake-temperature.md) — A practical guide to sake temperature bands, style matching, water-bath warming, vessels and food pairing.
+- [Whisky with water and ice: small, staged, comparative](whisky-water-and-ice.md) — How water and ice change whisky aroma, texture and alcohol heat, with strength bands, mizuwari, highball and a tasting order.
+- [A minimum home bar: 6 bottles, 8 tools, 1 set of ice](home-bar-minimum.md) — A beginner's minimum home bar built from a short menu: six bottles, eight tools, one ice system, citrus and a staged budget.

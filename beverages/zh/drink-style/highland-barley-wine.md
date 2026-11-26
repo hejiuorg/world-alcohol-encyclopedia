@@ -71,6 +71,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 青稞酒
 
 青稞酒是青藏高原以青稞为原料的一类酒的总称，既包括藏族家庭日常饮用的低度发酵酒 chang，也包括青海互助等地以蒸馏方式生产的青稞白酒。前者浑浊、微甜、带乳酸感，酒精度通常只有 3% 到 5%；后者清澈、酒精度常在 40% 以上，讲究“清蒸清烧四次清”的工艺。
@@ -144,3 +145,9 @@ Chang 的魅力在于“活”：酒液里有未完全沉降的米粒与酵母�
 对照阅读：[大麦](ref:barley)、[蒸馏](ref:distillation)。
 
 相关条目：[发酵](ref:fermentation)。
+
+## 相关图像
+
+![修道院啤酒](/media/photos/drink-style-abbey-beer-276b4dc3.jpg)
+
+图：修道院啤酒。图片：BLloydT，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_wall_of_Belgian_beer_bottles_at_the_Bruges_beer_experience.jpg)）。关联图像：青稞酒。

@@ -5,7 +5,7 @@ type: drink
 lang: zh
 slug: sichuan-langjiu
 title: 郎酒
-summary: 产自四川古蔺赤水河畔的白酒品牌，兼有酱香与浓香产品，青花郎等酱香产品较为知名。
+summary: 产自四川古蔺赤水河畔的白酒品牌，兼有酱香与浓香产品；青花郎、红花郎是酱香主线，郎牌特曲等覆盖浓香与宴席场景，产地与茅台镇隔河相望。
 status: reviewed
 revision: 3
 style_refs:

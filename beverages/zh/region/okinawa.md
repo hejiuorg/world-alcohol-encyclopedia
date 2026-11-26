@@ -77,6 +77,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒种法规、标签与产区划分会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 冲绳
 
 日本冲绳县的泡盛产区，以稻米与黑曲霉（black koji）为原料，经单式蒸馏与长期陈年；泡盛是日本最古老的蒸馏酒之一，那霸、首里与石垣岛是主要产地。
@@ -160,3 +161,13 @@ verification_scope: source-verified
 **适用边界。** 对「冲绳」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「冲绳」最近核对于 2026-11-22；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![清酒瓶装，精米步合、酒度与日本酒度常决定选购判断](/media/photos/drink-style-sake-de6a3028.jpg)
+
+图：清酒瓶装，精米步合、酒度与日本酒度常决定选购判断。图片：koutalou，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)）。关联图像：冲绳。
+
+![日本类别配图](/media/photos/place-kamotsuru-a0074234.jpg)
+
+图：日本类别配图。图片：OS6，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)）。关联图像：冲绳。

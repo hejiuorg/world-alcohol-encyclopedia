@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kamiya-bar
 source_lang: zh
-source_revision: sha256:56f02b104201ab4e37e88320de6a368ca850cd056ee84012d79e7f46b340d19e
-source_sha256: 56f02b104201ab4e37e88320de6a368ca850cd056ee84012d79e7f46b340d19e
+source_revision: sha256:1cad005fb4f2dc13b93d7a547ab8ae755f398c80019e7ca66983c8efaaf4da57
+source_sha256: 1cad005fb4f2dc13b93d7a547ab8ae755f398c80019e7ca66983c8efaaf4da57
 translation_status: reviewed
 subtype: pub
 address: 1-1-1 Asakusa, Taito-ku, Tokyo 111-0032, Japan
@@ -171,3 +171,9 @@ Asakusa is extremely crowded at weekends and on holidays, and people queue for p
 - [Café Central](ref:cafe-central): a Viennese literary café, another version of the "writers' regulars" tradition.
 
 For Kamiya Bar, begin with the address, then the current opening status, and finish with what the place is known for; that order keeps the account grounded.
+
+## Related images
+
+![Thematic illustration for Liqueur](/media/photos/theme-beer.jpg)
+
+Image: Thematic illustration for Liqueur. Project-made bilingual editorial figure, not an on-site photograph. Related image for Kamiya Bar.

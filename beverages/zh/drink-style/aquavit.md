@@ -73,6 +73,7 @@ rights:
   note: 本页配图为维基共享资源的 Lysholm Linie 阿夸维特实拍照片，按 CC0 1.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 阿夸维特
 
 阿夸维特（aquavit，北欧常写作 akvavit 或 akevitt）是以葛缕子籽或莳萝为核心香料的北欧烈酒。它可以是无色透明的，也可以是经橡木桶陈年的琥珀色；酒精度通常从 37.5% 起，常见装瓶在 40% 左右。它不是伏特加加了香精，也不是金酒的北方变体：葛缕子与莳萝的组合、北欧的谷物或马铃薯基酒，以及圣诞餐桌上的 snaps 仪式，共同构成了它的身份。
@@ -136,3 +137,9 @@ Aquavit 这个名字来自拉丁语 aqua vitae，意思是“生命之水”。�
 阿夸维特不适合长期陈放，橡木桶风味在瓶中不会继续发展。若香气变平淡或出现明显氧化味，说明已过最佳状态。用它做鸡尾酒时，记得减少其他香料的比例，否则葛缕子会迅速占据整杯酒。
 
 相关条目：[利口酒](ref:liqueur)、[蒸馏](ref:distillation)、[壶式蒸馏器（pot still）](ref:pot-still)。
+
+## 相关图像
+
+![伏特加](/media/photos/drink-style-vodka-415ef8e0.jpg)
+
+图：伏特加。图片：Ashley Pomeroy，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Smirnoff_Red_Label_8213.jpg)）。关联图像：阿夸维特。

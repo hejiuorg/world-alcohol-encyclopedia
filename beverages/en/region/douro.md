@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:douro
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bd5a93e9f3e75ccb764d1a86b8f1201449cd65ef7f752d1eb422bdeef4bf88fc
-source_sha256: bd5a93e9f3e75ccb764d1a86b8f1201449cd65ef7f752d1eb422bdeef4bf88fc
+source_revision: sha256:8b18fb512872a45ca196fdf605a4b55c9e3c87bf5b2a59498824f63ba712e20c
+source_sha256: 8b18fb512872a45ca196fdf605a4b55c9e3c87bf5b2a59498824f63ba712e20c
 level: other
 parent_id: region:portugal
 country_code: PT
@@ -87,6 +87,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Douro
 
 Douro is a wine appellation in the Douro valley of north-east [Portugal](ref:portugal), demarcated in 1756 as one of the world's earliest wine regions. It makes both [Porto](ref:porto) base wine and structured dry [red](ref:red-wine) and [white](ref:white-wine) wines.![Douro image](/media/photos/region-douro-fd8dc772.jpg)
@@ -186,3 +187,13 @@ A common mistake is to treat Douro as an administrative place name. Start with w
 - [Fermentation](ref:fermentation) and [oak ageing](ref:oak-ageing): the basic process steps for Douro wines.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
 - [Alcohol by volume](ref:abv): what 13%–14.5% vol means on a label.
+
+## Related images
+
+![Porto](/media/photos/region-porto-c256c7e1.jpg)
+
+Image: Porto. Credit: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG)). Related image for Douro.
+
+![Category image for Portugal](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+Image: Category image for Portugal. Credit: John Hayes from San Antonio, Texas, USA, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=151531010)). Related image for Douro.

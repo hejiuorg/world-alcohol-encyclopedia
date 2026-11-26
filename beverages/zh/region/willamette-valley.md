@@ -89,6 +89,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 威拉米特谷
 
 威拉米特谷（Willamette Valley）是俄勒冈州最主要的葡萄酒产区，以冷凉气候下的 Pinot Noir 闻名，也是美国最接近勃艮第风格的产区之一。
@@ -192,3 +193,13 @@ Pinot Noir 适合禽肉、蘑菇、三文鱼与清淡红肉；Pinot Gris 适合�
 - [年份](ref:vintage)：威拉米特谷的年份差异与秋季降雨。
 - [单一品种](ref:single-varietal)：威拉米特谷的品种比例与酒标标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：威拉米特谷。
+
+![年份（vintage）](/media/photos/term-vintage-4b511c38.jpg)
+
+图：年份（vintage）。图片：Chiusi Painter，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)）。关联图像：威拉米特谷。

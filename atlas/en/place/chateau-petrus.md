@@ -95,9 +95,10 @@ verification_scope: source-verified
 translation_of: place:chateau-petrus
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2a1b88b3ae39cf66fbcf4ab523ac3e1a85814cdd7179b46da3717b49ab3d0fca
-source_sha256: 2a1b88b3ae39cf66fbcf4ab523ac3e1a85814cdd7179b46da3717b49ab3d0fca
+source_revision: sha256:a293edb8a06ae7cf924003a5260553a5640f5d73cfd5d9588827d11acf8c6422
+source_sha256: a293edb8a06ae7cf924003a5260553a5640f5d73cfd5d9588827d11acf8c6422
 ---
+
 # Château Pétrus
 
 Petrus has no castle to photograph. It sits at the edge of the Pomerol plateau at 3 route de Lussac: a low wall, a few farm buildings, a small domed tower and a sign reading “PETRVS”. The vineyard runs from the wall to the horizon, and the dark clay reflects the rain. It looks like an ordinary farm, yet it produces one of the world’s scarcest and most expensive Merlots.
@@ -166,3 +167,9 @@ With half a day, the Pomerol plateau plus Saint-Émilion village is a sensible p
 - Left Bank comparisons: [Margaux](ref:margaux), [Latour](ref:latour), [Haut-Brion](ref:hautbrion), [Lafite](ref:lafite), [left-bank trail](ref:route).
 
 **In brief:** Petrus in Pomerol is an 11.4-hectare vineyard on the appellation’s highest blue-clay plateau, planted 100% Merlot since 2010. It makes one grand vin, no second wine, and about 30,000 bottles a year. There is no château-style mansion and no 1855 classification, because Pomerol has no official classification. Madame Loubat began buying shares in 1925; the Moueix family acquired a majority in 1969 and bought 4.5 hectares from Gazin. The estate offers no public visits or tastings.
+
+## Related images
+
+![Château d’Yquem and its vineyard](/media/photos/place-chateau-dyquem-7d20592f.jpg)
+
+Image: Château d’Yquem and its vineyard. Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27Yquem.jpg)). Related image for Château Pétrus.

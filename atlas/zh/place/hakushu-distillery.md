@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与导览内容会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 白州蒸馏所
 
 白州蒸馏所在山梨县北杜市白州町，地址是鸟原 2913-1，背后就是南阿尔卑斯。三得利把它称作“森林中的蒸馏所”，这不是修辞：厂区被大片林地包围，参观动线会穿过树影、听到鸟叫，远处才是厂房。它建于 1973 年，是继山崎之后三得利的第二座麦芽[日本威士忌](ref:japanese-whisky)蒸馏所。与山崎的城市边缘位置不同，白州从一开始就把“自然环境”写进生产逻辑：水、空气、湿度与森林，都是酒体的一部分。
@@ -134,3 +135,9 @@ verification_scope: source-verified
 | 官网 | suntory.co.jp |
 
 **来源与边界。** 本页关于「白州蒸馏所」的关键事实，主要由以下来源交叉核对：Suntory Spirits Limited（地址、营业时间、最后入场时间、休业日与参观预约入口；南阿尔卑斯天然水、森林公园工厂、鸟类保护区、木桶发酵槽与多形状蒸馏器）。产品、地址或营业状态变化较快时，以 suntory.co.jp 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![山崎蒸馏所](/media/photos/place-yamazaki-distillery-4c3f8155.jpg)
+
+图：山崎蒸馏所。图片：Ujigis，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)）。关联图像：白州蒸馏所。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:usa
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a7879cc87386fd59b555f1fd193f7ca37acb9923029e74e4a993cd7dae284dd9
-source_sha256: a7879cc87386fd59b555f1fd193f7ca37acb9923029e74e4a993cd7dae284dd9
+source_revision: sha256:6c6cbb1e28aebcbadb87eac5f6dd6bae24dd893b53b89251e40ebd3a0ba3d026
+source_sha256: 6c6cbb1e28aebcbadb87eac5f6dd6bae24dd893b53b89251e40ebd3a0ba3d026
 level: country
 country_code: US
 legacy_refs: []
@@ -187,3 +187,13 @@ Begin with the appellation and its permitted varieties, move on to the vintage a
 - [Beer](ref:beer): the stylistic base of craft beer.
 - [Cabernet Sauvignon](ref:cabernet), [Chardonnay](ref:chardonnay) and [Merlot](ref:merlot): common American varieties.
 - [Jack Daniel's](ref:jackdaniels): a representative Tennessee whiskey.
+
+## Related images
+
+![Jack Daniel's Old No. 7](/media/photos/drink-usa-jackdaniels-1ab6c621.jpg)
+
+Image: Jack Daniel's Old No. 7. Credit: Ben Jacobson ( Kranar Drogin ), CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)). Related image for United States.
+
+![Hefeweizen and kristallweizen, two treatments within the same wheat-beer family](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+Image: Hefeweizen and kristallweizen, two treatments within the same wheat-beer family. Credit: Ich, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)). Related image for United States.

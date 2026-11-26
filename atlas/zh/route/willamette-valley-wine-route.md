@@ -44,6 +44,8 @@ references:
     target_id: drink-style:red-wine
   - key: pinot
     target_id: variety:pinot-noir
+  - key: drouhin
+    target_id: place:domaine-drouhin-oregon
 sources:
   - key: wv-board
     title: "Willamette Valley — Oregon Wine Board"
@@ -57,6 +59,12 @@ sources:
     publisher: "Willamette Valley Wineries Association"
     note: "用于核对酒庄地图、路线与访问信息；未复制原文。"
     accessed: 2026-11-21
+  - key: willamette-valley
+    title: "Willamette Valley — 官方旅游网站"
+    url: "https://www.willamettevalley.org/"
+    publisher: "Willamette Valley Visitors Association"
+    note: "用于核对威拉米特谷产区、城镇与路线背景；未复制原文。"
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -71,6 +79,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-21
 ---
+
 # 威拉米特谷葡萄酒路线
 
 这条路线从波特兰南下，以 Dundee Hills 的杜鲁安俄勒冈与艾瑞两座酒庄为锚点：上午看勃艮第资本如何在 1987 年落地，下午回到 1965 年 David Lett 的原始地块，一天里读完俄勒冈黑皮诺的“两个起点”。全程约 100 公里，适合自驾，从波特兰出发约四十分钟。
@@ -130,6 +139,48 @@ Dundee Hills 在谷地北段，朝东的坡面白天接受阳光、下午有微�
 相关条目：[杜鲁安俄勒冈酒庄](ref:ddo)、[艾瑞酒庄](ref:eyrie)、[威拉米特谷](ref:willamette)。
 
 两座酒庄的预约时段并不连在一起，午后转场要预留山路车程；采收季临时封路时，以酒庄当天的通知为准。
+
+
+
+## 决策表：一天怎么分段
+
+| 分段 | 时间 | 车程 | 停留 | 适合谁 |
+| --- | --- | --- | --- | --- |
+| 波特兰 → Dundee Hills | 9:00–9:45 | 约 45 分钟 | — | 自驾、当日往返 |
+| 杜鲁安俄勒冈 | 9:45–12:00 | — | 约 2 小时 15 分 | 想比较 Dundee Hills 与 Eola-Amity Hills |
+| 午餐：Dundee / Dayton | 12:00–13:30 | — | 约 1 小时 30 分 | 全部 |
+| Dundee → McMinnville | 13:30–13:55 | 约 25 分钟 | — | 自驾 |
+| 艾瑞酒庄 | 13:55–15:30 | — | 约 1 小时 30 分 | 想看 1965 年起点与老藤 |
+| McMinnville 老城 / Carlton | 15:30–17:30 | 20–30 分钟 | 约 2 小时 | 想多喝一间或逛街 |
+| 返回波特兰 | 17:30–18:30 | 约 1 小时 | — | 当日往返 |
+
+两家酒庄都必须预约；这是一条“两家刚好、三家太赶”的路线，不是打卡清单。
+
+## 相关图像
+
+![杜鲁安俄勒冈酒庄相关实景照片](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+图：杜鲁安俄勒冈酒庄相关实景照片。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：威拉米特谷葡萄酒路线。
+
+!["艾瑞酒庄"类别配图](/media/photos/region-willamette-valley-2f0dfd25.jpg)
+
+图："艾瑞酒庄"类别配图。图片：Rvannatta ( talk · contribs ) Image edits: Peteforsyth ( talk · contribs )，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wvatbethel1.jpg)）。关联图像：威拉米特谷葡萄酒路线。
+
+## 常见问题
+
+### 一天够吗？
+
+够，但只适合两家。杜鲁安与艾瑞各留 1.5–2 小时，加上午餐与车程，已经占满一天。想看第三家，建议在 Dundee 或 McMinnville 住一晚，把 Yamhill-Carlton 或 Eola-Amity Hills 放到第二天。
+
+### 没车怎么办？
+
+这条路线公共交通班次少，酒庄之间打车也不稳定；不建议只靠公交。可以包车、参加小团，或提前预约接送，并把两家酒庄的时间固定下来。喝酒的人不要自驾。
+
+### 酒庄怎么预约？
+
+两家都要求提前预约，杜鲁安品鉴通常 10:00–15:00，艾瑞的时段与规则以官网为准。不要临时到门口要求参观；预约时说明人数、是否品鉴、是否需要讲解，并确认取消政策。
+
+> **下一步：** 先读[杜鲁安俄勒冈](ref:drouhin)与[艾瑞](ref:eyrie)两页，理解两家酒庄的差异；再读[威拉米特谷](ref:willamette)产区页与[黑皮诺](ref:pinot)品种页，把路线放回风土背景。
 
 
 ## 延伸阅读与另见

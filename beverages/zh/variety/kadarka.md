@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 卡达卡
 
 匈牙利与巴尔干的红葡萄，酒色浅、酸度高、单宁低，带红樱桃、香料与胡椒；曾是匈牙利最重要的红葡萄，现为 Szekszárd 与 Eger 的传统品种。
@@ -170,3 +171,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「卡达卡」的关键事实，主要由以下来源交叉核对：Julius Kühn-Institut（品种名称、同义词、起源与全球分布）、OIV（葡萄品种与栽培框架）、USDA ARS（植物分类、种质与栽培信息）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「卡达卡」与「蓝弗兰克」、「红葡萄酒」、「风土（terroir）」放在一起读时，先确认它们是同一层级还是上下游关系：先确认品种身份与允许产区，再比较成熟期、抗性、克隆与酿造表现。本页负责给出品种的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于品种本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![Blaufränkisch：Ried Neuberg Blaufränkisch（Wikimedia Commons）](/media/photos/variety-blaufrankisch-8d884b99.jpg)
+
+图：Blaufränkisch：Ried Neuberg Blaufränkisch（Wikimedia Commons）。图片：Geolina163，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ried_Neuberg_Blaufr%C3%A4nkisch.jpg)）。关联图像：卡达卡。

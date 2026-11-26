@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:canadian-whisky
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:018e1fefc2fb079103a52f59626f8e2edc200cfe9f2c6c3aac7884194826f273
-source_sha256: 018e1fefc2fb079103a52f59626f8e2edc200cfe9f2c6c3aac7884194826f273
+source_revision: sha256:da4f59e6100affed19cb4a488919b69fc76bf3ce1bbe8b200db11033108ff7fc
+source_sha256: da4f59e6100affed19cb4a488919b69fc76bf3ce1bbe8b200db11033108ff7fc
 related:
   - relation: about
     target_id: drink-style:whisky
@@ -171,3 +171,9 @@ Store away from light, heat and vibration, upright. The high-alcohol, caramel-fi
 
 - Related: [whisky](ref:whisky), [rye](ref:rye), [oak-ageing](ref:oak), [canada](ref:canada), [liqueur](ref:liqueur).
 - To map the category, start with one corn-base mainstream blend and one high-rye pot-still version, compare sweetness, spice and wood structure, then try a double-barrel or long-aged sample.
+
+## Related images
+
+![Rye](/media/photos/ingredient-rye-a305521c.jpg)
+
+Image: Rye. Credit: LSDSL, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ear_of_rye.jpg)). Related image for Canadian Whisky.

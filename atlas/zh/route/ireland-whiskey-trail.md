@@ -109,6 +109,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # 爱尔兰威士忌路线：海岸、城市与中部小镇
 
 爱尔兰岛上的威士忌旅行很容易被写成“都柏林一日游”。这条路线把范围拉开：从北海岸的布什米尔斯出发，南下都柏林弓街，再折向中部 Westmeath 郡的基尔伯根。三站之间是两种货币、两套道路限速与三种酒厂状态——一座仍在生产，一座已停产改作展馆，一座靠社区修复重新出酒。
@@ -174,3 +175,13 @@ updated_at: 2026-11-08
 这条路线是[爱尔兰](ref:ireland)产区页的行程版：产区页讲清“爱尔兰岛蒸馏与陈年”的法律边界、壶式蒸馏酒的原料要求与三次蒸馏传统，路线页则让你在三座厂房里看到这些规则的过去、中断与重启。风格上，读[爱尔兰威士忌](ref:irish-whiskey)能分清调和、单一麦芽、单一谷物与单一壶式；读[壶式蒸馏器](ref:pot-still)能理解为什么同一套设备会做出厚、油、带香料的酒体。
 
 对照阅读：[布什米尔斯酒厂](ref:bushmills)、[基尔伯根酒厂](ref:kilbeggan)。
+
+## 相关图像
+
+![爱尔兰威士忌](/media/photos/drink-style-irish-whiskey-60f1511e.jpg)
+
+图：爱尔兰威士忌。图片：Hammersbach，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:GoodIrishWhiskeys.jpg)）。关联图像：爱尔兰威士忌路线：海岸、城市与中部小镇。
+
+![基尔伯根酒厂](/media/photos/place-kilbeggan-distillery-e85cf20f.jpg)
+
+图：基尔伯根酒厂。图片：Whisky lover，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Old_Kilbeggan_Distillery_-_Low_Res.jpg)）。关联图像：爱尔兰威士忌路线：海岸、城市与中部小镇。

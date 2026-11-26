@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:london-beer-flood
 source_lang: zh
-source_revision: sha256:6445456c2cfc526d9781964280a6bf657f5a61efceb430c9c22eea7341cd7b03
-source_sha256: 6445456c2cfc526d9781964280a6bf657f5a61efceb430c9c22eea7341cd7b03
+source_revision: sha256:05046922b1fa514f9d656bdc8ebff844b8f24b7a0bd6b6a09899e0cd7a7ff0c4
+source_sha256: 05046922b1fa514f9d656bdc8ebff844b8f24b7a0bd6b6a09899e0cd7a7ff0c4
 translation_status: reviewed
 legacy_refs: []
 date_text: 17 October 1814
@@ -86,6 +86,7 @@ rights:
   note: Third-party prints, trademarks and images are not covered by this licence; the image is in the public domain and is credited. Sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # The London Beer Flood of 1814: Giant Vats, Porter and the St Giles Slum
 
 On the afternoon of 17 October 1814, a disaster that sounds almost absurd today struck Meux's Horse Shoe Brewery on Tottenham Court Road. A gigantic wooden vat filled with fermenting porter burst, the beer broke through the brewery's back wall and poured into the St Giles slum. Beer is not water. It carried malt residue, splintered wood and fermentation gas, and its impact was strong enough to bring down houses. The disaster killed several people and became one of the heaviest safety lessons of the nineteenth-century London brewing industry.![Etching of Meux's Horse Shoe Brewery](/media/photos/historical-event-london-beer-flood-6a5711fe.jpg)
@@ -131,3 +132,9 @@ One: "People went into the streets to drink free beer." The wave entered houses,
 - [Scotch whisky excise](ref:scotch): another history of British alcohol taxation, smuggling and enforcement.
 
 Start with the date and setting. From there, consider the documented consequences, then how later accounts treat it. That is how a practical judgment about The London Beer Flood of 1814 is built.
+
+## Related images
+
+![Category image for "A Tax History of Scotch Whisky: From the 1644 Excise to the 1823 Excise Act"](/media/photos/q2-producer-diageo-fcb11737.jpg)
+
+Image: Category image for "A Tax History of Scotch Whisky: From the 1644 Excise to the 1823 Excise Act". Credit: Bill Kasman, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=150169452)). Related image for The London Beer Flood of 1814: Giant Vats, Porter and the St Giles Slum.

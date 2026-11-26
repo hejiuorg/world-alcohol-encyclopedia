@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:lowland
 source_lang: zh
-source_revision: sha256:771329066ad8d4f55ecd4e5d49b2c9b3fae4742b716fd4560f46c7bf79b6a285
-source_sha256: 771329066ad8d4f55ecd4e5d49b2c9b3fae4742b716fd4560f46c7bf79b6a285
+source_revision: sha256:9669b20a5d074d5e0eef085768cf0c0b8a6e00787ee0000b2d4af42b7a9b74b2
+source_sha256: 9669b20a5d074d5e0eef085768cf0c0b8a6e00787ee0000b2d4af42b7a9b74b2
 translation_status: reviewed
 level: other
 parent_id: region:scotland
@@ -89,6 +89,7 @@ rights:
   note: Third-party regulations, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Lowland
 
 Lowland is one of the five protected regions of [Scottish](ref:scotland) whisky, covering the south and centre of the country, usually described as the land south of a line between Dundee and Greenock. It is often labelled grassy, citrusy and light, but that is a statistical impression: the region contains old distilleries committed to triple distillation as well as newcomers experimenting with their own farm barley, and the stylistic range is wider than the shorthand suggests.
@@ -151,3 +152,13 @@ Read Lowland through the appellation and its permitted varieties, then the vinta
 | Country code | GB |
 
 **Sources and limits.** The key claims about Lowland are checked against the following sources: UK Government (legislation.gov.uk) (Used to check the legal boundary and labelling restrictions for Lowland as a protected region), Scotch Whisky Association, Auchentoshan Distillery (Used to check the distillery's 1823 foundation and its triple-distillation tradition) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Single Malt Scotch Whisky](/media/photos/drink-style-single-malt-scotch-9e96a856.jpg)
+
+Image: Single Malt Scotch Whisky. Credit: Sansvase, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)). Related image for Lowland.
+
+![Whisky](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+Image: Whisky. Credit: Guinnog, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)). Related image for Lowland.

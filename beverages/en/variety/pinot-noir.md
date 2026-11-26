@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: variety:pinot-noir
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:29f14f1c7f793d85ff4fcb46ca91e4dd0644d9429703780743010a6bfb2d7369
-source_sha256: 29f14f1c7f793d85ff4fcb46ca91e4dd0644d9429703780743010a6bfb2d7369
+source_revision: sha256:f6765698dd7a67ff0425270bedb05d11c099d1c8600d2444d7364df997e7ca51
+source_sha256: f6765698dd7a67ff0425270bedb05d11c099d1c8600d2444d7364df997e7ca51
 species: Vitis vinifera
 aliases:
   - Pinot Nero
@@ -70,6 +70,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Pinot Noir
 
 Pinot Noir is one of the most difficult red varieties to grow and one of the most transparent to site. Its berries are small, its skins thin, its colour pale, its tannin fine and its acidity high. In Burgundy it shows detailed red fruit and minerality; in Champagne it is often a blending component for sparkling wine. Its style spans a wide range, from light and easy to complex and long-lived.![Pinot Noir image](/media/photos/variety-pinot-noir-e434879f.jpg)
@@ -152,3 +153,9 @@ For Pinot Noir, this variety was last checked in 2026; prices, batches and avail
 - [Red wine](ref:red-wine): the basics of tannin, acidity and ageing.
 - [Sparkling wine](ref:sparkling): Pinot Noir's role in Champagne blends.
 - [Romanée-Conti](ref:romaneeconti): a representative Burgundian Pinot Noir.
+
+## Related images
+
+![Romanée-Conti](/media/photos/drink-france-romaneeconti-4a67bacc.jpg)
+
+Image: Romanée-Conti. Credit: Wikipedro, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vosne-Roman%C3%A9e,_le_Domaine_de_la_Roman%C3%A9e-Conti.jpg)). Related image for Pinot Noir.

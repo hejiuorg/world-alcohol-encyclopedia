@@ -80,6 +80,7 @@ city: 巴黎
 verification_scope: source-verified
 founded_year: 1885
 ---
+
 # 双叟咖啡馆
 
 双叟咖啡馆（Les Deux Magots）位于巴黎第六区圣日耳曼德佩广场 6 号，正对圣日耳曼德佩教堂。它通常被介绍为“文学咖啡馆”，但更准确的说法是：一家由十九世纪商铺改造而来、至今仍在营业的咖啡馆，同时也是文学奖的颁发机构。店名里的“双叟”不是比喻，而是店内柱子上方两尊中国商人木雕像；它们原本属于同址的丝绸与新奇商品店，咖啡馆在 1885 年接手了这处空间。官方把历史从 1884 年算起，并在 2024 年做了 140 周年回顾。
@@ -139,3 +140,9 @@ founded_year: 1885
 | 官网 | lesdeuxmagots.fr |
 
 **来源与边界。** 本页关于「双叟咖啡馆」的关键事实，主要由以下来源交叉核对：Les Deux Magots（地址、历史与营业信息；1884 年起的官方历史叙事、1914 年改造与 2024 年 140 周年回顾）、Office de Tourisme de Paris（街区背景与咖啡馆文化）、Base Adresse Nationale（data.gouv.fr）（门牌地址的官方地理编码坐标 48.85424, 2.33320（十进制五位））。产品、地址或营业状态变化较快时，以 lesdeuxmagots.fr 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![花神咖啡馆](/media/photos/place-cafe-de-flore-11d5edba.jpg)
+
+图：花神咖啡馆。图片：Celette，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore,_172_boulevard_Saint-Germain,_Paris_6e.jpg)）。关联图像：双叟咖啡馆。

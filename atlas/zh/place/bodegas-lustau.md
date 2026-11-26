@@ -91,6 +91,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观价格、时段与酒款会变化，以酒庄官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 埃米利奥·卢士涛酒庄
 
 埃米利奥·卢士涛酒庄（Bodegas Lustau）在赫雷斯-德拉弗龙特拉市中心的阿科斯街 53 号，是雪莉酒三角区里少数同时在赫雷斯、圣玛丽亚港与桑卢卡尔-德巴拉梅达三地陈年的酒庄。它的历史常被压缩成“1896 年创立”，但更准确的说法是：它从一家 almacenista（只为大酒商供酒的储酒行）起家，用了半个世纪才走到台前，又用几十年把“储酒行留下的老酒”做成了自己的品牌。今天走进阿科斯街，看到的是六座 19 世纪的大教堂式酒窖，而不是一座新建的游客中心。
@@ -169,3 +170,9 @@ solera 不是一只桶，而是一组按级排列的桶。最老的一层叫 sol
 把这一站放进更大的语境，可以先读[赫雷斯](ref:jerez)产区页与[雪莉酒](ref:sherry)风格页，再对照[solera](ref:solera)、[flor](ref:flor)与[加强](ref:fortification)三条工艺条目；想比较另一家把“城市酒窖”做成参观主线的酒庄，可以读[冈萨雷斯·比亚斯](ref:gb)。两家相距不远，步行或短途车程即可串成半天。
 
 相关条目：[冈萨雷斯·比亚斯酒庄](ref:gb)、[赫雷斯](ref:jerez)。
+
+## 相关图像
+
+![赫雷斯](/media/photos/region-jerez-6c8a748e.jpg)
+
+图：赫雷斯。图片：Annie and Andrew，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:(Jerez_de_la_Frontera)_DSC_0560_(6271831479)_(cropped).jpg)）。关联图像：埃米利奥·卢士涛酒庄。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:london-dry-gin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6769654faaec7ba6fb03f6a12e6ba6f242fc1428e56cc50a5fa9060e23ed34d4
-source_sha256: 6769654faaec7ba6fb03f6a12e6ba6f242fc1428e56cc50a5fa9060e23ed34d4
+source_revision: sha256:c8c9e9ea0d89b8b0e212414458bb0815ee85bb1f64047fdc51bc195766b3cceb
+source_sha256: c8c9e9ea0d89b8b0e212414458bb0815ee85bb1f64047fdc51bc195766b3cceb
 legacy_refs: []
 aliases:
   - London Dry Gin
@@ -73,6 +73,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # London dry gin
 
 London dry gin is the most representative dry style of [gin](ref:gin). Its core is not production in London but a process constraint: flavour must come from redistribution, juniper must dominate, and sugar and colouring are strictly limited. The name is a category concept, not proof of origin.
@@ -157,3 +158,9 @@ For London dry gin, this style was last checked in 2026; prices, batches and ava
 - [Distillation](ref:distillation): the key step that brings botanicals into the spirit.
 - [Vodka](ref:vodka): a spirit also based on neutral alcohol but aiming at neutrality.
 - [Alcohol by volume](ref:abv): the basic measure for comparing gin with other spirits.
+
+## Related images
+
+![Gin](/media/photos/drink-style-gin-abe0a9c8.jpg)
+
+Image: Gin. Credit: Decatur Wine & Spirits, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)). Related image for London dry gin.

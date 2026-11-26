@@ -94,6 +94,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # 波特与杜罗路线：从萨布罗萨的老藤到皮尼昂的国家园
 
 这条路线沿杜罗河右岸由西向东，从萨布罗萨（Sabrosa）Gouvinhas 的克拉斯托，到皮尼昂（Pinhão）的诺瓦尔，自驾通常在半小时到一小时之间。两站都在片岩坡地上，都同时做波特与杜罗 DOC 干型酒，但对“连续性”的解释不同：克拉斯托讲的是同一片地里老藤混种与家族接力，诺瓦尔讲的是那一小块未嫁接的 Nacional 与 20 世纪初的梯田改造。把两端放在一天里，“片岩、梯田、混种”三件事就能串成一条可以比较的线。
@@ -165,3 +166,13 @@ Nacional 是这一站的核心。它是一小块未嫁接的葡萄园，面积�
 对照阅读：[克拉斯托酒庄](ref:crasto)、[杜罗](ref:c-extra-1)。
 
 相关条目：[诺瓦尔酒庄](ref:noval)。
+
+## 相关图像
+
+![“诺瓦尔酒庄”页面配图：Quinta do Noval wine shop 1。摄影：sanjorgepinho，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-quinta-do-noval-57d2f219.jpg)
+
+图：Quinta do Noval wine shop 1。摄影：sanjorgepinho，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：sanjorgepinho，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94306217)）。关联图像：波特与杜罗路线：从萨布罗萨的老藤到皮尼昂的国家园。
+
+![波特](/media/photos/region-porto-c256c7e1.jpg)
+
+图：波特。图片：Diego Delso，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG)）。关联图像：波特与杜罗路线：从萨布罗萨的老藤到皮尼昂的国家园。

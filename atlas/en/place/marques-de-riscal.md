@@ -39,8 +39,8 @@ tags:
 translation_of: place:marques-de-riscal
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8b72a27712cb1f0a2fee19f1e632d582ee1d3bfcb0b0c1f52c7bbd2f5c572f5b
-source_sha256: 8b72a27712cb1f0a2fee19f1e632d582ee1d3bfcb0b0c1f52c7bbd2f5c572f5b
+source_revision: sha256:93cd66ec3ffd68bf2c2276d019c09531cdadae9c1503466964759ef0c5ab546c
+source_sha256: 93cd66ec3ffd68bf2c2276d019c09531cdadae9c1503466964759ef0c5ab546c
 related:
   - relation: about
     target_id: place:muga
@@ -95,6 +95,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; hotel, visits and prices may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Marqués de Riscal
 
 Driving south from Bilbao into the hills of Rioja Alavesa, just as the roofs of Elciego and the vineyards meet, a titanium wave appears. It is Frank Gehry’s hotel for Marqués de Riscal, opened in 2006: a ribbon lifted by the wind over nineteenth-century cellars and vines. Riscal is not simply an old winery with a new landmark. Its history, wines and architecture map three Rioja transitions: bulk to bottled wine, tradition to modern ageing, and wine to cultural tourism.
@@ -166,3 +167,9 @@ Marqués de Riscal is best read by starting with the address, moving to the curr
 | Official site | marquesderiscal.com |
 
 **Sources and limits.** The key claims about Marqués de Riscal are checked against the following sources: Marqués de Riscal (Frank Gehry's design, the 2006 opening, 61 rooms, the Caesar spa, the restaurant and estate experiences; the division between estate visits, cellar and tasting experiences, the hotel and the City of Wine). For current products, addresses or opening status, use marquesderiscal.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The Muga building and barrels in Haro’s station district](/media/photos/place-muga-9a8e4ddb.jpg)
+
+Image: The Muga building and barrels in Haro’s station district. Credit: Zarateman, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Haro_-_Bodegas_Muga_1b.jpg)). Related image for Marqués de Riscal.

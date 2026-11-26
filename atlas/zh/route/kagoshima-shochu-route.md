@@ -86,6 +86,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 鹿儿岛烧酒路线
 
 鹿儿岛烧酒路线把两座性质不同的烧酒设施放在同一趟自驾里：枕崎的花渡川蒸馏所明治藏，是仍靠甕与人力运转的老藏；都城市志比田町的雾岛工厂花园，是设计过的步行工厂与观光园区。两站都用甘薯，却分别展示“单式蒸馏的传统工序”与“规模化生产的体验化表达”。一条线走完，能把芋烧酒的原料、曲、蒸馏与度数一次讲清楚。
@@ -164,3 +165,13 @@ KIRISHIMA WALK FACTORY 每天五个场次：10:00、11:00、13:30、14:30、15:3
 - [酒税率一覧表](https://www.nta.go.jp/taxes/sake/shiori-gaikyo/shiori/2026/pdf/05_01.pdf)，国税厅，核验烧酒以 20 度为基准的课税结构。
 
 页面核验日期 2026-11-09；开馆时间、见学场次与营业安排以官方渠道为准。
+
+## 相关图像
+
+![萨摩酒造明治藏相关实景照片](/media/photos/place-satsuma-shochu-meijigura-dc51a493.jpg)
+
+图：萨摩酒造明治藏相关实景照片。图片：Sakaori ( talk )，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Satsuma_Shuzo%27s_Kedogawa_Shochu_factory_and_museum,_Meijigura.JPG)）。关联图像：鹿儿岛烧酒路线。
+
+![大米](/media/photos/ingredient-rice-0ee2019c.jpg)
+
+图：大米。图片：China News Service，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg)）。关联图像：鹿儿岛烧酒路线。

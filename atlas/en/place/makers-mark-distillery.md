@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:makers-mark-distillery
 source_lang: zh
-source_revision: sha256:43114f6524f8c960b902aa0d5c6d1dfb9d967660eaf46646bdcc2f143ad5e10f
-source_sha256: 43114f6524f8c960b902aa0d5c6d1dfb9d967660eaf46646bdcc2f143ad5e10f
+source_revision: sha256:3d65edadba1831f501dd18a9c004abd04fb0efaa0fd31c43ff67a0d4ac1cb65f
+source_sha256: 3d65edadba1831f501dd18a9c004abd04fb0efaa0fd31c43ff67a0d4ac1cb65f
 translation_status: reviewed
 subtype: distillery-visitor
 address: 3350 Burks Spring Rd, Loretto, KY 40037, USA
@@ -119,6 +119,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, tour prices, menus and booking rules change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Maker's Mark Distillery
 
 Loretto sits in the rolling hills of central Kentucky, not far from Bardstown. Maker's Mark calls its site Star Hill Farm, and the name is not a later tourism addition: when the Samuels family chose the land in the 1950s, they wanted the limestone-filtered spring water and the watershed that came with it. What visitors see today is a working farm-distillery where sheep, wagyu cattle, solar-powered warehouses, hand-rotated barrels and red wax coexist. Its National Historic Landmark status has not stopped production.
@@ -174,3 +175,9 @@ Start with the address. From there, consider the current opening status, then wh
 | Official site | makersmark.com |
 
 **Sources and limits.** The key claims about Maker's Mark Distillery are checked against the following sources: Maker's Mark Distillery (Used to check the distillery address, Kentucky Bourbon Trail membership and visitor hours), Prestige Malts (Used to check the coordinates 37.648384, -85.349526, rounded to four decimals here), Unattributed (Migrated from the former reference list at the end of the article; access date not re-verified). For current products, addresses or opening status, use makersmark.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.](/media/photos/editorial-oak-ageing-q2.jpg)
+
+Image: Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Maker's Mark Distillery.

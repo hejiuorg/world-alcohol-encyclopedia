@@ -82,6 +82,7 @@ rights:
   note: 本页配图为卢埃达马丁桑乔葡萄园实拍，按 CC BY-SA 4.0 使用，具体见图片图注。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 卢埃达
 
 卢埃达（Rueda）是西班牙卡斯蒂利亚-莱昂的法定白葡萄酒产区，位于杜埃罗河上游的高平原上。它靠 Verdejo 建立起国际声誉，并在 1980 年成为该自治区第一个 DO，是理解西班牙现代白葡萄酒的关键产区。
@@ -162,3 +163,13 @@ Verdejo 在卢埃达的种植历史已超过十个世纪。它皮较厚、酸度
 - [酒泥陈酿](ref:lees-ageing)：延长酒泥接触对质地的影响。
 - [干型](ref:dry)：干型与残糖风格的区分。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。](/media/photos/editorial-lees-ageing-q2.jpg)
+
+图：酒泥陈酿的编辑插图：酒液与底部细酒泥分层，取样管与酒杯用于说明倒罐；AI 辅助绘制，不是实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：卢埃达。
+
+![“丹魄”页面配图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：卢埃达。

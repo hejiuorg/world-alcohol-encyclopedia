@@ -86,6 +86,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 西班牙
 
 西班牙是南欧葡萄酒生产大国，葡萄种植面积广、产区层级多。它的酒类版图既有以丹魄为核心的里奥哈红葡萄酒，也有卡瓦起泡酒、赫雷斯加强酒与加利西亚的白葡萄酒。理解西班牙，需要把品种、产区、分级与陈年传统放在一起看。
@@ -177,3 +178,13 @@ verification_scope: source-verified
 - [丹魄](ref:tempranillo)：里奥哈与杜埃罗河岸的核心品种。
 - [歌海娜](ref:grenache)：西班牙东北部与南部的常见品种。
 - [橡木桶陈年](ref:oak-ageing)：里奥哈红葡萄酒的桶陈传统。
+
+## 相关图像
+
+![白兰地](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+图：白兰地。图片：Didier Descouens，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)）。关联图像：西班牙。
+
+![“丹魄”页面配图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：西班牙。

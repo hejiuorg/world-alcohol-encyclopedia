@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、门票与展陈会变化，以博物馆或古巴旅游官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 圣地亚哥朗姆酒博物馆
 
 圣地亚哥朗姆酒博物馆（Museo del Ron）在圣地亚哥-德古巴老城的圣巴西利奥街 358 号，夹在皮奥·罗萨多街与圣费利克斯街之间。它占着一栋 1889 年建成的两层宅邸，1996 年 6 月 24 日作为朗姆酒博物馆开放，用六个展厅、一条旧装瓶线与一座酒馆，讲古巴东部——尤其是圣地亚哥——的朗姆酒产业。与哈瓦那那座由 Havana Club 运营的品牌博物馆相比，这里更小、更地方，也更像一座城市产业记忆的陈列室。
@@ -138,3 +139,9 @@ verification_scope: source-verified
 如果只去一座，第一次到古巴、想快速建立框架的人可以选哈瓦那；已经在东部、想理解圣地亚哥为什么自称“摇篮”的人，应该来这座。参观前读一遍[产地与工艺](ref:place-and-process)，再看展线，会更容易把甘蔗、糖蜜、蒸馏与陈年连成一条线。
 
 相关条目：[朗姆酒](ref:rum)、[甘蔗](ref:sugarcane)。
+
+## 相关图像
+
+![一瓶 Captain Morgan 原味朗姆酒，深色酒液与品牌标签。](/media/photos/drink-style-rum-ebd00623.jpg)
+
+图：一瓶 Captain Morgan 原味朗姆酒，深色酒液与品牌标签。。图片：Pinakpani，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bottle_of_Captain_Morgan_Rum_01.jpg)）。关联图像：圣地亚哥朗姆酒博物馆。

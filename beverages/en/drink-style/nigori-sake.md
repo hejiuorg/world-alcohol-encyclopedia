@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:nigori-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5eae638973a5baf85c5927fb8217265f66d5496101c95b2e801fdd001b9323f8
-source_sha256: 5eae638973a5baf85c5927fb8217265f66d5496101c95b2e801fdd001b9323f8
+source_revision: sha256:5d6082fa3da0ba3e0e763c16aca26fe9abd751cb8c54ce33e0aa528b28b98817
+source_sha256: 5d6082fa3da0ba3e0e763c16aca26fe9abd751cb8c54ce33e0aa528b28b98817
 related:
   - relation: about
     target_id: drink-style:sake
@@ -79,6 +79,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Nigori Sake
 
 A cloudy sake style from Japan that retains rice solids and lees after rough filtration; it is sweet, creamy and needs refrigeration, shaking before pouring and quick consumption after opening.
@@ -154,3 +155,9 @@ Compare a clear junmai, a light ginjo nigori and a thick junmai nigori at simila
 - [Fermentation](ref:fermentation): koji and yeast activity.
 - [Filtration](ref:filtration): the boundary between clear and cloudy sake.
 - [Japan](ref:japan): sake regions and culture.
+
+## Related images
+
+![Diagram of Filtration](/media/photos/term-filtration-c974bd5e.webp)
+
+Image: Diagram of Filtration. Credit: Wikiwayman, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:FilterDiagram.svg)). Related image for Nigori Sake.

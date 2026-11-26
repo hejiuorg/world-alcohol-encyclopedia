@@ -61,6 +61,12 @@ sources:
     title: "《The Oxford Companion to Spirits and Cocktails》清酒条目"
     publisher: "Oxford University Press"
     note: 由原条目末尾参考资料迁移，未逐条复核访问日期。
+  - key: adv-jss
+    title: Japan Sake and Shochu Makers Association — Sake knowledge
+    url: https://www.jss.or.jp/en/
+    publisher: Japan Sake and Shochu Makers Association
+    note: 用于核对清酒原料、精米步合、类别与侍酒温度；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -129,6 +135,28 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「清酒」的关键事实，主要由以下来源交叉核对：Japan Sake and Shochu Makers Association（清酒分类与标示）、National Tax Agency of Japan（清酒的法定标示、原料与酒精度范围；日本酒类分类与清酒制造状况的公开资料）、Oxford University Press（提供关于清酒酿造、侍酒与历史的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「清酒」与「制曲」、「蒸馏」、「烧酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+
+## 进阶判断
+
+![清酒瓶装](/media/photos/drink-style-sake-de6a3028.jpg)
+
+图：清酒瓶装，精米步合、酒度与日本酒度常决定选购判断。图片：koutalou，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)）。
+
+| 指标 | 含义 | 选购影响 |
+| --- | --- | --- |
+| 精米步合 | 米磨去的比例 | 越低越轻盈、香气更集中 |
+| 纯米 / 本酿造 | 原料与添加酒精 | 决定风格与法规类别 |
+| 日本酒度 | 干甜倾向 | 配餐与温度选择 |
+| 生酒 / 杀菌 | 是否加热杀菌 | 保存条件与新鲜度 |
+
+**生酒一定比熟酒好吗？** 不一定。生酒新鲜、香气活，但必须冷藏并且尽快喝；熟酒稳定、适合运输与常温短存。买生酒要看冷链，不是只看“生”字。
+
+**纯米酒和吟酿酒怎么选？** 纯米酒强调米香与醇厚，吟酿强调低温发酵的果香与轻盈。先看精米步合与酵母，再看口味；不要用“纯米”当质量等级。
+
+**清酒为什么要试不同温度？** 温度会改变香气释放、甜感与酒精感。同一瓶酒冰镇时更紧、更清爽，升温后米香与醇厚感更明显；先小杯试，再决定。
+
+延伸阅读：[制曲](ref:qu-making)、[烧酒](ref:soju)。
 
 ## 参考资料
 - [制曲](ref:qu-making)：理解米曲在清酒糖化中的作用。

@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:liqueur
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:33a14a7ff44ff92e63c10e5a38804734ed6d9b70b211a17a4c1620f21efd3f35
-source_sha256: 33a14a7ff44ff92e63c10e5a38804734ed6d9b70b211a17a4c1620f21efd3f35
+source_revision: sha256:cc1084e42b8f9a0fc0df94b5b117460e59d097eef4315bd285774b6352decb23
+source_sha256: cc1084e42b8f9a0fc0df94b5b117460e59d097eef4315bd285774b6352decb23
 legacy_refs: []
 aliases:
   - Liqueur
@@ -65,6 +65,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. No third-party images are used on this style.
 verification_scope: source-verified
 ---
+
 # Liqueur
 
 Liqueur is a sweetened spirit made by adding sugar and flavouring materials such as fruit, herbs, nuts or cream to a base spirit. Its structure can be summarised as "base spirit plus flavour extraction plus sweetening", and differences in those three stages decide whether the product is a clear citrus cordial, a thick cream liqueur or a bittersweet herbal drink.![Liqueur thematic illustration](/media/figures/specific/drink-style-liqueur.svg)
@@ -135,3 +136,9 @@ Start with [Distillation](ref:distillation) for legal definition, then read [Neg
 - [Distillation](ref:distillation): the key step for flavour extraction and a clear body.
 - [Brandy](ref:brandy): a grape distillate often used as the base of liqueurs.
 - [Negroni](ref:negroni): an example of a liqueur carrying a structural role in a classic recipe.
+
+## Related images
+
+![A Negroni in a rocks glass, with red liquid, ice, an orange slice and a black straw.](/media/photos/cocktail-negroni-52212d3c.jpg)
+
+Image: A Negroni in a rocks glass, with red liquid, ice, an orange slice and a black straw.. Credit: Sudhertzen, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Negroni_(cocktail).jpg)). Related image for Liqueur.

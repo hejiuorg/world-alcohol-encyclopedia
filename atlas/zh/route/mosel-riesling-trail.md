@@ -81,6 +81,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 摩泽尔雷司令路线：中摩泽尔与萨尔的两座陡坡酒庄
 
 摩泽尔的葡萄酒地图沿河展开，真正决定路线的不是行政区，而是坡向、板岩与河湾。这条两站路线把中摩泽尔（Mittelmosel）的贝恩卡斯特-库斯与上游萨尔（Saar）河谷的维尔廷根连在一起：前者看板岩坡地上的酒庄如何把地块装进酒标，后者看一座 1797 年以来由同一家族经营的庄园如何把一座山做成一个名字。两站都以[雷司令](ref:riesling)为核心，都能看到[橡木桶](ref:oak-ageing)与不锈钢罐的组合，却给出两种关于“陡”的答案。
@@ -143,3 +144,13 @@ updated_at: 2026-11-09
 | 站数 | 2 |
 | 交通 | 自驾 |
 | 停靠顺序 | 卢森博士酒庄、伊贡·米勒酒庄 |
+
+## 相关图像
+
+![卢森博士酒庄](/media/photos/place-dr-loosen-b7cab628.jpg)
+
+图：卢森博士酒庄。图片：Weingut Dr Loosen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ernst_Loosen.jpg)）。关联图像：摩泽尔雷司令路线：中摩泽尔与萨尔的两座陡坡酒庄。
+
+![伊贡·米勒酒庄](/media/photos/place-egon-muller-1c0adf7b.jpg)
+
+图：伊贡·米勒酒庄。图片：KarleHorn，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Egon_Mueller_2018.jpg)）。关联图像：摩泽尔雷司令路线：中摩泽尔与萨尔的两座陡坡酒庄。

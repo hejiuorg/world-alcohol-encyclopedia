@@ -82,6 +82,7 @@ rights:
   note: 第三方照片、商标与图片不在本许可内；图片为公有领域，已在图注署名。来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 波士顿糖蜜洪水 1919：一场工业酒精原料的灾难
 
 1919 年 1 月 15 日中午，波士顿北端的居民听到一阵低沉的轰鸣，起初以为是高架列车经过。几分钟后，一座高约 50 英尺的钢制储罐裂开，约 230 万加仑糖蜜像一堵墙一样冲进街区。糖蜜不是水，它黏稠、沉重，能抬起房屋、掀翻铁轨，也能把人困在废墟里。事故造成 21 人死亡、150 人受伤，成为美国工业史上最著名的灾难之一。
@@ -138,3 +139,9 @@ Purity Distilling 与母公司 USIA 是储罐的建设与运营方；公司财�
 | 时间 | 1919 年 1 月 15 日 |
 | 地点 | 美国 |
 | 历法 | 公历 |
+
+## 相关图像
+
+![巴巴多斯类别配图](/media/photos/place-foursquare-rum-distillery-c949ec7b.jpg)
+
+图：巴巴多斯类别配图。图片：Unknown author Unknown author，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery.jpg)）。关联图像：波士顿糖蜜洪水 1919：一场工业酒精原料的灾难。

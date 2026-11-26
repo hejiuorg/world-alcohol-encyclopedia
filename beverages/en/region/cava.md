@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:cava
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5fd9806b5d69972e6e018fb3443e3eba980cd8b0e7a0657bfb589cd625ef68f9
-source_sha256: 5fd9806b5d69972e6e018fb3443e3eba980cd8b0e7a0657bfb589cd625ef68f9
+source_revision: sha256:2131eccc83259e0c7fc9b3806a7dafb5810d946cad51be49e91a44b6a240958c
+source_sha256: 2131eccc83259e0c7fc9b3806a7dafb5810d946cad51be49e91a44b6a240958c
 level: other
 parent_id: region:spain
 country_code: ES
@@ -84,6 +84,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Cava
 
 Cava is the Spanish appellation for traditional-method [sparkling wine](ref:sparkling-wine). The name covers Penedès in Catalonia and several other authorised areas, with Macabeo, Xarel·lo and Parellada as the main varieties, often supplemented by [Chardonnay](ref:chardonnay) and [Pinot Noir](ref:pinot-noir).![Cava photograph](/media/photos/q2-region-cava-52ba8e0a.jpg)
@@ -174,3 +175,13 @@ For Cava, begin with the appellation and its permitted varieties. Then look at t
 - [Fermentation](ref:fermentation): the logic of the first fermentation and the second in bottle.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
 - [Alcohol by volume](ref:abv): what 11.5%–12.5% vol means on a label.
+
+## Related images
+
+![Grenache](/media/photos/variety-grenache-69c881eb.jpg)
+
+Image: Grenache. Credit: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)). Related image for Cava.
+
+![Photograph for Spain: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-spain-732e598a.jpg)
+
+Image: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=17458062)). Related image for Cava.

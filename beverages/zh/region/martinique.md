@@ -81,6 +81,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。AOC 规则细节以 INAO 现行文本为准。
 verification_scope: source-verified
 ---
+
 # 马提尼克
 
 马提尼克是加勒比海小安的列斯群岛中的法属岛屿，位于多米尼克与圣卢西亚之间。它最特殊的地方不在风景，而在制度：1996 年 11 月 5 日的法国法令为“Rhum de la Martinique”建立了原产地命名控制（AOC），这是朗姆酒世界中第一个以产地与工艺同时约束的 AOC。理解马提尼克，需要把火山、甘蔗带、发酵时限与克里奥尔柱式蒸馏器放在同一套规则里看。
@@ -157,3 +158,13 @@ AOC 规定甘蔗品种须属于 Saccharum officinarum 与 Saccharum spontaneum �
 - [蒸馏](ref:distillation)：连续蒸馏与壶式蒸馏的基本原理。
 - [发酵](ref:fermentation)：甘蔗汁发酵与风味前体。
 - [橡木桶陈年](ref:oak-ageing)：陈年农业朗姆的桶型与风味。
+
+## 相关图像
+
+![四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+图：四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格。图片：Unknown author Unknown author，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)）。关联图像：马提尼克。
+
+![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：马提尼克。

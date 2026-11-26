@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY 3.0，署名与许可见正文图注。营业时间与价格以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 哈维尔卡咖啡馆
 
 从圣斯蒂芬大教堂往南走两分钟，拐进多罗特街（Dorotheergasse），会看到一块不新的招牌：Café Hawelka。门面不大，橱窗里堆着报纸，桌椅挤得很近，墙上挂着画和旧照片。它没有维也纳大咖啡馆的宏大拱顶，也没有“必须打卡”的橱窗陈列，却常被当作维也纳咖啡馆文化里“还活着”的那一类：家族经营、价格普通、允许一个人坐很久。
@@ -159,3 +160,9 @@ verification_scope: source-verified
 - [罗马希腊咖啡馆](ref:greco)：已停业的意大利历史咖啡馆，说明“有名”与“仍在营业”是两件事。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[中央咖啡馆](ref:cafe-central)、[斯拉维亚咖啡馆](ref:slavia)。
+
+## 相关图像
+
+![布拉格斯拉维亚咖啡馆的装饰艺术风格内景](/media/photos/place-cafe-slavia-ae96d5d5.jpg)
+
+图：布拉格斯拉维亚咖啡馆的装饰艺术风格内景。图片：Fred Romero from Paris, France，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Praha_-_Kav%C3%A1rna_Slavia.jpg)）。关联图像：哈维尔卡咖啡馆。

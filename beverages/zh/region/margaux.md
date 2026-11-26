@@ -78,6 +78,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。页面图片的许可与作者见 image-manifest.json。
 verification_scope: source-verified
 ---
+
 # 玛歌
 
 玛歌（Margaux）是吉伦特河口左岸、梅多克南段的红葡萄酒法定产区，1954 年 8 月 10 日获得 AOC 地位。产区由 Margaux、Cantenac、Labarde、Arsac 与 Soussans 五个公社组成，以砾石丘脊上香气细腻、单宁柔和的赤霞珠混酿著称；1855 年分级中，这里拥有一座一级庄与五座二级庄。
@@ -159,3 +160,13 @@ Margaux 只适用于来自划定地块、并在区内完成发酵与陈年的静
 - [红葡萄酒](ref:red-wine)：玛歌的类别、单宁与酿造概览。
 - [风土](ref:terroir)：土壤、地形与微气候如何组合成地块特征。
 - [橡木桶陈年](ref:oak-ageing)：桶陈对香气与单宁整合的影响。
+
+## 相关图像
+
+![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：玛歌。
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：玛歌。

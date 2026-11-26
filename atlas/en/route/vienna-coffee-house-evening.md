@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:vienna-coffee-house-evening
 source_lang: zh
-source_revision: sha256:c304541dcf870b110034d3f9791868c2764db6d34238408d7241435a26e3d722
-source_sha256: c304541dcf870b110034d3f9791868c2764db6d34238408d7241435a26e3d722
+source_revision: sha256:b006a3de5459955f83f38583027cc49f767a623ad7e102b57b0c9e1caac25644
+source_sha256: b006a3de5459955f83f38583027cc49f767a623ad7e102b57b0c9e1caac25644
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -187,3 +187,13 @@ Fourth, treat the famous names as background. Café Central's Trotsky, Freud and
 Fifth, this route describes the structure of the route and verifiable facts only: as checked on 8 November 2026 Café Central was still under renovation with no confirmed reopening date, and Café Sperl's hours follow its official page. The two venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 Further reading: [Reading a city through its bars](ref:c-extra-1), [Time in a cup](ref:c-extra-2), [A history of drinking vessels: how the cup changed the drink](ref:c-extra-3).
+
+## Related images
+
+![Related photograph of A history of drinking vessels: how the cup changed the drink](/media/photos/article-history-of-vessels-41083e86.jpg)
+
+Image: Related photograph of A history of drinking vessels: how the cup changed the drink. Credit: VasuVR, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:SW45-B-18-Bern_History_Museum_Humorous_drinking_vessels_3D.jpg)). Related image for Vienna coffee-house evening: Café Central to Café Sperl.
+
+![Café Central](/media/photos/place-cafe-central-2af7dbed.jpg)
+
+Image: Café Central. Credit: User:Florian Prischl, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Palais_Ferstel.jpg)). Related image for Vienna coffee-house evening: Café Central to Café Sperl.

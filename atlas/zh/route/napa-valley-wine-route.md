@@ -102,6 +102,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # 纳帕谷路线：1976 年巴黎审判之后的现代酒庄带
 
 纳帕谷的酒庄路线很容易变成“一天喝五家”。这条路线只安排三家，因为它们能回答同一个问题：1976 年巴黎审判之后，纳帕如何从“美国产酒地”变成“世界葡萄酒版图上的名字”。蒙大维是推手，Opus One 是跨大西洋的合资实验，贝灵哲则是被现代叙事覆盖的老酒庄。三站都在 St Helena Highway 沿线，车程很短，但时间跨度超过一百年。
@@ -195,3 +196,13 @@ Opus One 提供“合资”的样本。1979 年，蒙大维与菲利普·德·�
 - 想继续读背景，可在内容仓中查阅纳帕谷产区、葡萄酒与“产地与工艺”条目；本页不再重复登记引用。
 
 纳帕谷酒庄多需预约，1976 年巴黎审判相关点位与现代酒庄带也不在同一处；以各酒庄官网确认场次，精确导航用实时地图。核验于 2026-11-08。
+
+## 相关图像
+
+![“罗伯特·蒙大维酒庄”页面配图：Robert Mondavi winery。摄影：Greg Dunham from Kirkland, WA, USA，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-place-robert-mondavi-winery-9a1f1a11.jpg)
+
+图：Robert Mondavi winery。摄影：Greg Dunham from Kirkland, WA, USA，CC BY 2.0，来自 Wikimedia Commons。。图片：Greg Dunham from Kirkland, WA, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=2945111)）。关联图像：纳帕谷路线：1976 年巴黎审判之后的现代酒庄带。
+
+![作品一号酒庄](/media/photos/place-opus-one-winery-fc1d0ae3.jpg)
+
+图：作品一号酒庄。图片：No machine-readable author provided. Cszmurlo assumed (based on copyright claims).，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Opus-One-Szmurlo.jpg)）。关联图像：纳帕谷路线：1976 年巴黎审判之后的现代酒庄带。

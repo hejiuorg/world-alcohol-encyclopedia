@@ -103,8 +103,8 @@ stop_ids:
     note: End at Laphroaig, see the floor maltings and shore warehouses, and separate peat, sea and medicinal notes.
 mode: walk-bus
 updated_at: 2026-11-08
-source_sha256: 8791493ad228b6278f134cafa2de7480830e91f6bb4e5c5090181d22c3a0181c
-source_revision: sha256:8791493ad228b6278f134cafa2de7480830e91f6bb4e5c5090181d22c3a0181c
+source_sha256: 7e952ad6e4edae0ee71b1a4adbaeec8ca0a2fbf3e4bf255dc03fbfc9ffaae58a
+source_revision: sha256:7e952ad6e4edae0ee71b1a4adbaeec8ca0a2fbf3e4bf255dc03fbfc9ffaae58a
 ---
 
 # Islay: three peat distilleries on the south coast
@@ -225,3 +225,13 @@ Westwards the route reaches Port Charlotte and Bruichladdich; northwards, Bowmor
 - For background, consult the Islay region, Scotch whisky and place-and-process entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.
+
+## Related images
+
+![Related photograph of Ardbeg Distillery](/media/photos/place-ardbeg-distillery-1e249969.jpg)
+
+Image: Related photograph of Ardbeg Distillery. Credit: Rappilio, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ardbeg_whiskybrennerei_islay_schottland_16.06.2007.JPG)). Related image for Islay: three peat distilleries on the south coast.
+
+![Category image for Islay](/media/photos/q2-place-scotch-whisky-experience-fa14dbdc.jpg)
+
+Image: Category image for Islay. Credit: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=98613535)). Related image for Islay: three peat distilleries on the south coast.

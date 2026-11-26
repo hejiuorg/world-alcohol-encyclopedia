@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:porto-douro-route
 source_lang: zh
-source_revision: sha256:a45a33d7f709672cd96785ee1ca219bb3e843053f4b307bbb52b4a27ce5c0ace
-source_sha256: a45a33d7f709672cd96785ee1ca219bb3e843053f4b307bbb52b4a27ce5c0ace
+source_revision: sha256:b80bc0cca4a60b10ca36882a94c9d2ac12cabc2aef8009e1247b565f376b7e6f
+source_sha256: b80bc0cca4a60b10ca36882a94c9d2ac12cabc2aef8009e1247b565f376b7e6f
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -98,6 +98,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # Porto and Douro route: old vines at Sabrosa, the Nacional block at Pinhão
 
 This route follows the Douro's right bank from Quinta do Crasto at Gouvinhas in Sabrosa to Quinta do Noval near Pinhão, usually 30 minutes to an hour by car. Both work schist slopes and make Port and dry Douro DOC, yet they explain continuity differently: Crasto speaks of mixed old vines and a family relay, Noval of a small ungrafted block and the terrace rebuilding of the 20th century. Put both in one day and schist, terraces and field blends become comparable.![Porto and Douro route: old vines at Sabrosa, the Nacional block at Pinhão photograph](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
@@ -174,3 +175,13 @@ Further reading: [Douro](ref:c-extra-1), [Porto](ref:c-extra-2), [Portugal](ref:
 | Stop order | Quinta do Crasto、Quinta do Noval |
 
 **Sources and limits.** The key claims about Porto and Douro route: old vines at Sabrosa, the Nacional block at Pinhão are checked against the following sources: Quinta do Crasto, Quinta do Noval (Used to check 1715, 1894, 1931 and 1993 and the terrace rebuilding; no text copied), IVDP (Used to check the Douro and Port denomination framework and categories; no text copied) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Porto](/media/photos/region-porto-c256c7e1.jpg)
+
+Image: Porto. Credit: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG)). Related image for Porto and Douro route: old vines at Sabrosa, the Nacional block at Pinhão.
+
+![Port](/media/photos/drink-style-port-a4535e5c.jpg)
+
+Image: Port. Credit: cezzie901, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:View_of_Nam_Harbor_from_Busan_Tower.jpg)). Related image for Porto and Douro route: old vines at Sabrosa, the Nacional block at Pinhão.

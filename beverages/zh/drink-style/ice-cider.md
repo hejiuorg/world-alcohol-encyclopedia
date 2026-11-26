@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 冰苹果酒
 
 加拿大魁北克起源的甜型苹果酒，用自然冷冻或冷冻浓缩的苹果汁发酵，酒精度与甜度都高；带苹果、焦糖、蜂蜜与酸度。
@@ -154,3 +155,9 @@ verification_scope: source-verified
 | 上位风格 | 苹果酒 |
 
 **来源与边界。** 本页关于「冰苹果酒」的关键事实，主要由以下来源交叉核对：Ecocert（魁北克冰苹果酒 IGP 的天然冷冻浓缩、原料与生产区域要求）、European Union（欧盟葡萄酒类别、地理标志与标签规则）、Wine Institute（美国葡萄酒与甜酒分类背景）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![一个鲜食红苹果。酿酒用苹果通常更小、更酸或更涩，与鲜食苹果的育种目标不同。](/media/photos/ingredient-apple-9b1f2b38.jpg)
+
+图：一个鲜食红苹果。酿酒用苹果通常更小、更酸或更涩，与鲜食苹果的育种目标不同。。图片：Abhijit Tembhekar，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_Apple.jpg)）。关联图像：冰苹果酒。

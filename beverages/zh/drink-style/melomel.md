@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 果蜜酒
 
 果蜜酒（melomel）是在蜂蜜酒（mead）中加入水果、果汁或果皮参与发酵的一类；水果提供酸度、香气、颜色，也带入部分单宁与糖分。按 BJCP 比赛分类，它分成苹果梨类 cyser、葡萄类 pyment、浆果类、核果类与其他水果类；甜度从干型到甜型，酒体从轻到饱满，酒精度分 hydromel 3.5–7.5%、standard 7.5–14.0%、sack 14.0–18.0% 三档。
@@ -146,3 +147,9 @@ BJCP 的 M2 类目把果蜜酒再分五路：M2A cyser 用苹果或梨、榅桲�
 
 - 相关条目：[honey-wine](ref:honey-wine)、[honey](ref:honey)、[fermentation](ref:fermentation)、[cherry](ref:cherry)、[apple](ref:apple)。
 - 想建立品类边界，可以先喝一支 cyser 和一支浆果蜜酒，对比果酸、单宁与蜂蜜甜感的差别，再尝试 pyment 或核果版本。
+
+## 相关图像
+
+![Cherry：Cherry 18th march 2025（Wikimedia Commons）](/media/photos/ingredient-cherry-9772de58.jpg)
+
+图：Cherry：Cherry 18th march 2025（Wikimedia Commons）。图片：Natashadonoh，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cherry_18th_march_2025.jpg)）。关联图像：果蜜酒。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:real-minero-palenque
 source_lang: zh
-source_revision: sha256:b7614ebad63658403ef86822231f388f16beaa5c066dc5a88b02f083e549526b
-source_sha256: b7614ebad63658403ef86822231f388f16beaa5c066dc5a88b02f083e549526b
+source_revision: sha256:1680c1ac646ea6e24dafa0f0d2da3a83e11f2f169c2c8c9cd7e75750a745b312
+source_sha256: 1680c1ac646ea6e24dafa0f0d2da3a83e11f2f169c2c8c9cd7e75750a745b312
 translation_status: reviewed
 subtype: distillery-visitor
 address: Iturbide S/N, Santa Catarina Minas, Oaxaca, México
@@ -100,6 +100,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are outside this licence; tour prices, times and releases change, so confirm with the producer's official channels.
 verification_scope: source-verified
 ---
+
 # Real Minero: Clay Pots and Seeds in Santa Catarina Minas
 
 Real Minero's palenque stands on Iturbide street, with no house number, in Santa Catarina Minas at the southern edge of Oaxaca's central valleys. It is not a demonstration plant but a working family site: earthen-pit roasting, hand crushing with a wooden mallet and double distillation in clay pots. It is also a concrete entry to [mezcal](ref:mezcal) and the [Oaxaca](ref:oaxaca) region.
@@ -173,3 +174,9 @@ Start with the address. From there, consider the current opening status, then wh
 | Official site | realminero.com.mx |
 
 **Sources and limits.** The key claims about Real Minero: Clay Pots and Seeds in Santa Catarina Minas are checked against the following sources: Real Minero, Consejo Mexicano Regulador de la Calidad del Mezcal (Used to check the 1994 mezcal appellation, NOM-070-SCFI-2016 and the 100% agave requirement), Gobierno del Estado de Oaxaca (Used to check the Oaxaca mezcal route and the context of agave maturity and palenque visits). For current products, addresses or opening status, use realminero.com.mx. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Oaxaca](/media/photos/region-oaxaca-ab7acd22.jpg)
+
+Image: Oaxaca. Credit: Prsjl, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Oaxaqa_(41).jpg)). Related image for Real Minero: Clay Pots and Seeds in Santa Catarina Minas.

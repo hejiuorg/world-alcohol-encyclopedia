@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:1984-national-wine-evaluation
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fc7f5ea900e898ed0259152f821cb8111141dc0074602c5633800abd54c4aa2c
-source_sha256: fc7f5ea900e898ed0259152f821cb8111141dc0074602c5633800abd54c4aa2c
+source_revision: sha256:2244451f77dbbdf5ae2de467a9368a735462b768564e243cb022a10677ab242e
+source_sha256: 2244451f77dbbdf5ae2de467a9368a735462b768564e243cb022a10677ab242e
 date_text: "1984"
 year_start: 1984
 year_end: 1984
@@ -102,6 +102,7 @@ rights:
   note: Third-party reports, list compilations and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The 1984 fourth national wine evaluation: the thirteen famous wines
 
 In 1984 the fourth national wine evaluation was held in Taiyuan, Shanxi, organised by the China Food Industry Association. It selected 26 national famous wines, 13 of them baijiu, later known in the market as the thirteen famous wines. The expansion reflected growing output and more categories, and turned "famous wine" from a scarce title into a group with a clear hierarchy.
@@ -166,3 +167,9 @@ Start with the date and setting. From there, consider the documented consequence
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The 1984 fourth national wine evaluation: the thirteen famous wines are checked against the following sources: Xinhua (Used to check the date, venue and number of famous wines at the fourth evaluation), China News Service (Used to check the composition of the 1984 thirteen famous baijiu; only short phrases are quoted), China Alcoholic Drinks Association (Used to check the numbers and category distribution of famous and quality wines) and 8 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Strong-aroma baijiu](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
+
+Image: Strong-aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for The 1984 fourth national wine evaluation: the thirteen famous wines.

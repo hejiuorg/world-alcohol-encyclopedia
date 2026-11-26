@@ -79,6 +79,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 麝香
 
 麝香（Muscat）不是单一品种，而是一个横跨欧亚、成员众多的古老品种群。它最鲜明的共同点是香气：花香、葡萄香、蜂蜜与柑橘往往在年轻时就非常突出，几乎不需要陈年就能被辨认。也正因为香气强，麝香被用来酿几乎所有形态的葡萄酒——干白、甜白、微起泡、全起泡、加强甜酒，甚至葡萄干酒。理解麝香的关键，是先分清眼前的是“哪一个麝香”。
@@ -154,3 +155,9 @@ verification_scope: source-verified
 | 一句话定位 | 麝香是一个古老而庞大的葡萄家族，小粒麝香香气最浓，亚历山大麝香果粒更大；从阿尔萨斯干白、意大利莫斯卡托微起泡到法国与澳洲的加强甜酒，风格跨度极大，核心是浓郁的花香与葡萄香 |
 | 物种 | Vitis vinifera |
 | 代表产区 | 阿尔萨斯、意大利 |
+
+## 相关图像
+
+![香气（aroma）](/media/photos/term-aroma-6bfbd007.jpg)
+
+图：香气（aroma）。图片：Jan Brueghel the Elder / Peter Paul Rubens，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jan_Brueghel_d._O._-_Allegorie_van_de_geur.jpg)）。关联图像：麝香。

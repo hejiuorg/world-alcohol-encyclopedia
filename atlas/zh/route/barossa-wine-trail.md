@@ -91,6 +91,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 巴罗萨葡萄酒路线
 
 这条路线把两个看似不在同一张地图上的点连起来：阿德莱德山麓的奔富玛吉尔庄园，以及伊甸谷基内顿的亨施克酒庄。前者在城市边缘，后者在丘陵深处；它们共享巴罗萨的移民史与西拉传统，却分别站在谷底热量与高海拔凉爽的两端。把车程控制在一小时内，就能在一天里读完海拔、老藤与试验精神这三条线索。
@@ -148,3 +149,13 @@ Wine Australia 的记录显示，巴罗萨仍有 1843 年种植的 Shiraz，被�
 ## 参考资料
 
 本页依据奔富的 Magill Estate 门市页、联系页与品牌历史页，亨施克的联系页与家族史页，以及 Wine Australia 的 Barossa Valley 产区资料核验，页面核验日期 2026-11-09。开放时间、体验价格、预约规则与酒款会变化，以各官方渠道为准。
+
+## 相关图像
+
+![奔富玛吉尔庄园相关实景照片](/media/photos/place-penfolds-magill-estate-1196d528.jpg)
+
+图：奔富玛吉尔庄园相关实景照片。图片：Bahnfrend，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Penfolds_Magill_Estate,_2014(2).JPG)）。关联图像：巴罗萨葡萄酒路线。
+
+![“亨施克酒庄”页面配图：Henschke Ruth Stolperstein Magdeburg。摄影：Adnon，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-henschke-95496df3.jpg)
+
+图：Henschke Ruth Stolperstein Magdeburg。摄影：Adnon，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Adnon，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=90422028)）。关联图像：巴罗萨葡萄酒路线。

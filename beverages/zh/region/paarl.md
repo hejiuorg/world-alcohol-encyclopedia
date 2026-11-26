@@ -94,6 +94,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 帕尔
 
 帕尔是西开普省的葡萄酒产区，位于开普敦东北约 60 公里，伯格河穿谷而过，两侧为 Drakenstein 与 Paarl 花岗岩山体。产区以皮诺塔吉、白诗南、赤霞珠、西拉与霞多丽见长，汇集 KWV、Nederburg、Fairview 等历史酒庄，是开普酒乡历史最厚、酒庄最集中的地带之一。
@@ -169,3 +170,13 @@ KWV 是产区体量最大的名字之一，1918 年以合作社起家，帕尔�
 | 层级 | 省/大区 |
 | 所属 | 南非 |
 | 国家代码 | ZA |
+
+## 相关图像
+
+![皮诺塔吉](/media/photos/variety-pinotage-5dc171a5.jpg)
+
+图：皮诺塔吉。图片：Please note: This photo can be reproduced. Please quote the source as indicated below: Doris Schneider, Julius Kühn-Institut (JKI), Federal Research Centre for ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VIVC9286_PINOTAGE_Full_plant_3638.jpg)）。关联图像：帕尔。
+
+![“南非”页面配图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+
+图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Ltz Raptor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4647540)）。关联图像：帕尔。

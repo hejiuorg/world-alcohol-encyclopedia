@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:chateauneuf-du-pape
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1e43182ceb59d4f9022295c3ad865a3c87409d53097d42a462110c8e2426ea00
-source_sha256: 1e43182ceb59d4f9022295c3ad865a3c87409d53097d42a462110c8e2426ea00
+source_revision: sha256:ccaebff0d9c280792e43c2e6b4e3ca65190eefd34721cb355822927fb83506aa
+source_sha256: ccaebff0d9c280792e43c2e6b4e3ca65190eefd34721cb355822927fb83506aa
 level: other
 parent_id: region:rhone
 country_code: FR
@@ -78,6 +78,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Châteauneuf-du-Pape
 
 Châteauneuf-du-Pape is an appellation in the Southern [Rhône](ref:rhone), north of Avignon, with vineyards spread across the plateaus and hills of the Rhône's left bank. Its first impression is often "full-bodied, spicy, high in alcohol", but what really shapes the style is the heat of the stone-covered plateaus, the drying mistral and a blending tradition built on [Grenache](ref:grenache).
@@ -135,3 +136,13 @@ For Châteauneuf-du-Pape, begin with the appellation and its permitted varieties
 - [Red wine](ref:red-wine): the main drink style of the appellation.
 - [Fermentation](ref:fermentation): how maceration and whole clusters shape style.
 - [Terroir](ref:terroir): how stones, soil and wind affect ripening.
+
+## Related images
+
+![Rhône Valley](/media/photos/region-rhone-df823b9c.jpg)
+
+Image: Rhône Valley. Credit: Béa at French Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Thain1.jpg)). Related image for Châteauneuf-du-Pape.
+
+![Grenache](/media/photos/variety-grenache-69c881eb.jpg)
+
+Image: Grenache. Credit: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)). Related image for Châteauneuf-du-Pape.

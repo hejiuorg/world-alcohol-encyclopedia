@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:les-deux-magots
 source_lang: zh
-source_revision: sha256:f51565171c2ff702608302321d2cd5287e7d96940240ac78f35cbab13c72ce96
-source_sha256: f51565171c2ff702608302321d2cd5287e7d96940240ac78f35cbab13c72ce96
+source_revision: sha256:3b268f5a09d7f01dacfb6b6eef918a000c3e62dd5d70f950e03214263d1dc494
+source_sha256: 3b268f5a09d7f01dacfb6b6eef918a000c3e62dd5d70f950e03214263d1dc494
 translation_status: reviewed
 subtype: pub
 address: 6 Place Saint-Germain-des-Prés, 75006 Paris
@@ -85,6 +85,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Les Deux Magots
 
 Les Deux Magots (Shuāng Sǒu Kāfēi Guǎn) stands at 6 Place Saint-Germain-des-Prés in the sixth arrondissement of Paris, facing the Romanesque church of Saint-Germain-des-Prés. It is usually described as a literary café, but a more precise description is this: a café converted from a nineteenth-century shop, still trading, and also the body that awards a literary prize. The two “magots” in the name are not a metaphor. They are wooden statues of Chinese merchants perched above a pillar inside the café, relics of the silk and novelty shop that once occupied the address. The café took over the space in 1885. Its official history begins in 1884, and the house marked 140 years in 2024.
@@ -136,3 +137,9 @@ Coffee houses and bars are both part of a city’s public life; [Pub and city](r
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Les Deux Magots is built.
 
 [Reading a city through its bars](ref:pub-and-city) and [Saint-Germain-des-Prés literary cafés: a half-day walk](ref:route-saint-germain) are the two useful reference points for Les Deux Magots. [Reading a city through its bars](ref:pub-and-city) sets out address and space; [Saint-Germain-des-Prés literary cafés: a half-day walk](ref:route-saint-germain) brings in operating status. Read them together.
+
+## Related images
+
+![Thematic illustration for Reading a city through its bars](/media/photos/theme-asian.jpg)
+
+Image: Thematic illustration for Reading a city through its bars. Project-made bilingual editorial figure, not an on-site photograph. Related image for Les Deux Magots.

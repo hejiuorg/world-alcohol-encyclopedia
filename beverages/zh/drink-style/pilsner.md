@@ -82,6 +82,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 皮尔森啤酒
 
 皮尔森啤酒（Pilsner）是起源于捷克波希米亚城市比尔森（Plzeň）的淡色拉格，以极软的水质、萨兹酒花、浅色麦芽与低温下层发酵为特征。它既是一段具体的历史风格，也在许多国家被用作淡色拉格的代称，这两种用法应当分开理解。在[啤酒](ref:beer)的家族里，它属于拉格一支。
@@ -160,3 +161,9 @@ verification_scope: source-verified
 **适用边界。** 对「皮尔森啤酒」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
 
 **更新提示。** 「皮尔森啤酒」最近核对于 2026-11-05；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
+
+## 相关图像
+
+![“皮尔森之源”页面配图：Pilsner Urquell 330mL Bottle。摄影：Latterdaystan，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-drink-czech-pilsnerurquell-60fa905b.jpg)
+
+图：Pilsner Urquell 330mL Bottle。摄影：Latterdaystan，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Latterdaystan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=92861055)）。关联图像：皮尔森啤酒。

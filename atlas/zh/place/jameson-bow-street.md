@@ -94,6 +94,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 尊美醇弓街酒厂
 
 弓街酒厂在都柏林 7 区的 Smithfield，离利菲河北岸不远，是一处把“旧酒厂”改造成游客体验的场所。它在 1780 年由 John Jameson 创立，曾是一座占地六英亩、雇有数百名工匠的城市酒厂；1970 年最后一次壶式蒸馏之后，生产迁往科克的 Midleton，这里在 1997 年改为游客中心。今天你能看到厂房、铜器与仓库，却看不到正在出酒的生产线——把这个前提弄清楚，参观才不会失望。
@@ -151,3 +152,9 @@ Jameson Original 是典型的[调和](ref:blending)爱尔兰威士忌：壶式�
 | 官网 | jamesonwhiskey.com |
 
 **来源与边界。** 本页关于「尊美醇弓街酒厂」的关键事实，主要由以下来源交叉核对：Jameson（Bow St 地址、坐标、开放时间、LUAS 与停车提示；1780 年创立、1970 年最后一次壶式蒸馏与 1997 年改为游客中心）、The Spirits Business（1997 年改为游客中心与 2017 年完成的展馆改造）。产品、地址或营业状态变化较快时，以 jamesonwhiskey.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![布什米尔斯酒厂相关实景照片](/media/photos/place-bushmills-distillery-53905a77.jpg)
+
+图：布什米尔斯酒厂相关实景照片。图片：Reading Tom，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bushmills_Whiskey_Distillery_02.jpg)）。关联图像：尊美醇弓街酒厂。

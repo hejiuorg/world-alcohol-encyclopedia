@@ -86,8 +86,8 @@ verification_scope: source-verified
 translation_of: place:in-t-aepjen
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d82b8967f003acfcfa861d82b2c780c7ccef113a9ad8d16fbe8c6b532e42f1fa
-source_sha256: d82b8967f003acfcfa861d82b2c780c7ccef113a9ad8d16fbe8c6b532e42f1fa
+source_revision: sha256:49cca1fccf9e164fb8a996cf9141c409dd3cc722a2aa76a220e59ff6b0656c04
+source_sha256: 49cca1fccf9e164fb8a996cf9141c409dd3cc722a2aa76a220e59ff6b0656c04
 ---
 
 # In ’t Aepjen
@@ -165,3 +165,9 @@ Do not drive this line: central Amsterdam is almost impossible to park in, and Z
 - Nearby entries: [Café Hoppe](ref:hoppe), [Café De Dokter](ref:dokter), [Heineken Experience](ref:heineken); cross-city contrasts: [Cantillon](ref:cantillon), [A Brasileira](ref:brasileira).
 
 Begin with the address, move on to the current opening status, and finish with what the place is known for. That order keeps the reading of In ’t Aepjen practical.
+
+## Related images
+
+![The brick façade of the Heineken Experience in Amsterdam, with the green Heineken sign on the roof.](/media/photos/place-heineken-experience-6ed3e1de.jpg)
+
+Image: The brick façade of the Heineken Experience in Amsterdam, with the green Heineken sign on the roof.. Credit: Steven Lek, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Heineken_Experience_Amsterdam_2018_3.jpg)). Related image for In ’t Aepjen.

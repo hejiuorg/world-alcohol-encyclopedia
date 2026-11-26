@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:mianzhu-jiannanchun
 source_lang: zh
-source_revision: sha256:7f3928c83325f16d11b3158486ce6331d6bb54d47297bf81b0df90598460d700
-source_sha256: 7f3928c83325f16d11b3158486ce6331d6bb54d47297bf81b0df90598460d700
+source_revision: sha256:8f7d8499208cdbfe3fd97ac6f765450e9731a460febfdd4080014f24d70c95e0
+source_sha256: 8f7d8499208cdbfe3fd97ac6f765450e9731a460febfdd4080014f24d70c95e0
 translation_status: reviewed
 stop_ids:
   - place_id: place:jiannanchun-cellars
@@ -155,3 +155,13 @@ Alternative: see only the Jiannanchun workshop site and return to Mianzhu old to
 - GB/T 2260-2007 Administrative division codes of the People’s Republic of China (Standardization Administration of China, checked 2026-11-25)
 
 Related entries: [Jiannanchun workshop site](ref:cellars), [Mianzhu New Year Picture Village](ref:village), [Jiannanchun](ref:brand), [strong-aroma baijiu](ref:style), [Sichuan](ref:region), [Wine and painting](ref:art), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Related photograph of Wine and painting: four ways to look at a drinking scene](/media/photos/article-wine-and-painting-fb6d1391.jpg)
+
+Image: Related photograph of Wine and painting: four ways to look at a drinking scene. Credit: Natasha Khaitan, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_making_process_-_Deccan_Painting_-19th_Century.jpg)). Related image for Mianzhu Route: Jiannanchun Workshop and New Year Pictures.
+
+![Photograph for Jiannanchun: 剑南春酒坊遗址国保碑. Credit: Nekitarc, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-brand-jiannanchun-47515a5f.jpg)
+
+Image: 剑南春酒坊遗址国保碑. Credit: Nekitarc, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Nekitarc, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=44292018)). Related image for Mianzhu Route: Jiannanchun Workshop and New Year Pictures.

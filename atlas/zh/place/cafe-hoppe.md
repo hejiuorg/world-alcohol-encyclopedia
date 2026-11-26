@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1670
 ---
+
 # Café Hoppe
 
 Spui 广场的东南角，两栋窄窄的荷兰式立面连在一起：左边是 18 号，绿色霓虹“Café HOPPE”挂在深色砖墙上；右边是 20 号，红色“AMSTEL”与绿色“HOPPE”并排。门口没有大招牌，只有一张小吧桌和几个端着啤酒杯站着的人。推门进去，先是 standing bar 的拥挤与啤酒龙头，再往里走，才是坐着喝的 salon。阿姆斯特丹人把这种店叫 bruin café（棕色咖啡馆），Hoppe 是其中最老、也最完整的一间。
@@ -156,3 +157,9 @@ Hoppe 的核心是 jenever 与啤酒。jenever 是荷兰的杜松子酒，通常
 - I amsterdam 的“不放音乐咖啡馆”页面：<https://iamsterdam.nl/zien-en-doen/cafes-zonder-muziek>，用于核对 Hoppe 的安静传统。
 - 同城的 `place:cafe-de-dokter` 是 18 平方米的微型酒吧，`place:heineken-experience` 是啤酒品牌博物馆，`place:de-halve-maan` 与 `place:cantillon-brewery` 是比利时啤酒文化样本。
 - 相关条目：[Café De Dokter](ref:dokter)、[Heineken Experience](ref:heineken)、[De Halve Maan](ref:halve-maan)、[Cantillon](ref:cantillon)、[A Brasileira](ref:brasileira)
+
+## 相关图像
+
+![Café De Dokter 18 平方米的吧台、吊灯与鸟笼](/media/photos/place-cafe-de-dokter-8e196633.jpg)
+
+图：Café De Dokter 18 平方米的吧台、吊灯与鸟笼。图片：Rex Roof，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/18199354@N00/3147493495)）。关联图像：Café Hoppe。

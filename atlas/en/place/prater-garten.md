@@ -85,9 +85,10 @@ founded_year: 1837
 translation_of: place:prater-garten
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9038309ef9c528b55b77912891f76927bbe387137b451f8fec8853ed7399a10a
-source_sha256: 9038309ef9c528b55b77912891f76927bbe387137b451f8fec8853ed7399a10a
+source_revision: sha256:2473df15e1c74d2c79e9411a4b7379d90026d85d6989332633d5490a510bb06d
+source_sha256: 2473df15e1c74d2c79e9411a4b7379d90026d85d6989332633d5490a510bb06d
 ---
+
 # Prater Garten
 
 From U2 Eberswalder Straße, walk two minutes along Kastanienallee and an old Berlin Rundbogen building appears, red “PRATER” letters on its façade. Behind the gateway is not another street but a whole courtyard shaded by chestnut trees: long wooden tables, red-and-white parasols, gravel, and the clatter of beer glasses. It is minutes from Mauerpark and the cafés of Kastanienallee, yet feels like a piece of countryside the city forgot to build over. This is the everyday life of Berlin’s oldest beer garden.
@@ -146,3 +147,9 @@ North of Prater are Mauerpark’s Sunday flea market and open-air karaoke; south
 - Berlin.de’s Prater Garten page: <https://www.berlin.de/restaurants/biergarten/9241029-3621819-prater-garten.html>, for “Berlin’s oldest beer garden”, the chestnut tables and the address.
 - The nearby `place:zur-letzten-instanz` is an old Berlin tavern; `place:hofbrauhaus`, `place:augustiner-braeu`, `place:schlenkerla`, and `place:de-halve-maan` represent other German/Belgian beer cultures.
 - Related entries: [Zur letzten Instanz](ref:instanz), [Hofbräuhaus](ref:hofbrauhaus), [Augustiner-Bräu](ref:augustiner), [Schlenkerla](ref:schlenkerla), [De Halve Maan](ref:halve-maan)
+
+## Related images
+
+![Zur letzten Instanz in Berlin](/media/photos/place-zur-letzten-instanz-79c166c4.jpg)
+
+Image: Zur letzten Instanz in Berlin. Credit: Julia Roessing, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zur_letzten_Instanz_Restaurant_Berlin_2026-09-29.jpg)). Related image for Prater Garten.

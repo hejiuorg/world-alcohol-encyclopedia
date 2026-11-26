@@ -85,6 +85,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 卢瓦尔白诗南路线：武弗雷与萨韦尼耶尔
 
 白诗南（Chenin Blanc）在卢瓦尔河中段有两种完全不同的性格：武弗雷（Vouvray）把它做成从干型到贵腐、从静止到起泡的全套；萨韦尼耶尔（Savennières）则把它收进更窄的干型与陈年框架。这条两站路线从武弗雷的休埃酒庄出发，沿河南下到萨韦尼耶尔的塞朗河畔坡地，用同一品种的两种极端，解释[白诗南](ref:chenin)为什么难写、也为什么值得专门跑一趟。
@@ -147,3 +148,13 @@ updated_at: 2026-11-09
 | 站数 | 2 |
 | 交通 | 自驾 |
 | 停靠顺序 | 休埃酒庄、塞朗河畔坡地酒庄 |
+
+## 相关图像
+
+![休埃酒庄](/media/photos/place-domaine-huet-0a5b40db.jpg)
+
+图：休埃酒庄。图片：jamesonf，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vouvray_AOC_moelleux_Domaine_Huet_1985.jpg)）。关联图像：卢瓦尔白诗南路线：武弗雷与萨韦尼耶尔。
+
+![塞朗河畔坡地酒庄相关实景照片](/media/photos/place-coulee-de-serrant-1c813658.jpg)
+
+图：塞朗河畔坡地酒庄相关实景照片。图片：Tomas er，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Coul%C3%A9e_de_Serrant_and_Clos_de_la_Bergerie.jpg)）。关联图像：卢瓦尔白诗南路线：武弗雷与萨韦尼耶尔。

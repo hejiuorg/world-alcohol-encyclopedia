@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:albarino
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cdf46d91c2c8c5ae905d72b4258ff861d5136fdf3b1f49b24c14d4691a93b0c9
-source_sha256: cdf46d91c2c8c5ae905d72b4258ff861d5136fdf3b1f49b24c14d4691a93b0c9
+source_revision: sha256:9feb59cbe1c6c2d1f82cb7a9e807e1f2dbcd6af4fb9973b5d816e4ae4e43e7d9
+source_sha256: 9feb59cbe1c6c2d1f82cb7a9e807e1f2dbcd6af4fb9973b5d816e4ae4e43e7d9
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -83,6 +83,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Albariño
 
 Albariño is the white grape of Spain's Atlantic northwest and the same variety that Portugal calls Alvarinho. It grows in the wet, cool corner of Galicia and northern Portugal, where thick skins and high acidity help it survive rain and humidity. The wines typically smell of lemon, green apple, white flowers and wet stone, with a saline note on the finish. Unlike many white grapes that rely on fruit alone, Albariño is valued for the interplay of acidity, aroma and texture; it can be crisp and young or, with lees contact and careful ageing, deeper and more complex (ref:wine).
@@ -147,3 +148,9 @@ First, that Albariño is Riesling; no close parentage has been confirmed, and th
 - [Spain](ref:spain): the regional framework that includes Rías Baixas.
 - [Vinho Verde](ref:vinho-verde): the Portuguese home of Alvarinho.
 - [Acidity](ref:acidity): the measure that defines Albariño's fresh style.
+
+## Related images
+
+![Vinho Verde](/media/photos/region-vinho-verde-50b7848c.jpg)
+
+Image: Vinho Verde. Credit: Feliciano Guimarães, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vindimadores_em_vinha_de_enforcado_15.jpg)). Related image for Albariño.

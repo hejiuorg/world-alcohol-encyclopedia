@@ -97,6 +97,7 @@ rights:
   note: 第三方采访稿、商标、配方与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 鸡尾酒复兴（1980 年代）：从彩虹厅到手工调酒
 
 1970 年代的鸡尾酒市场被甜味预调与迪斯科文化占据，古典配方退到背景。1987 年，戴尔·德格罗夫（Dale DeGroff）在纽约彩虹厅重新开业时回到杰里·托马斯 1862 年的做法：鲜榨果汁、现做糖浆、大块冰与克制的酒单。这场以“把经典做对”为口号的复兴，后来演变为 1990 年代的手工调酒运动。
@@ -157,3 +158,9 @@ verification_scope: source-verified
 | 历法 | 公历 |
 
 **来源与边界。** 本页关于「鸡尾酒复兴（1980 年代）：从彩虹厅到手工调酒」的关键事实，主要由以下来源交叉核对：Rockefeller Center（1987 年德格罗夫参与彩虹厅重开、在 30 Rock 65 层主持 Rainbow Promenade 酒吧并恢复被遗忘的鸡尾酒；属场地运营方的采访稿）、European Bartender School（交叉核对德格罗夫在 1970 年代入行、1980 年代末至 1990 年代在彩虹厅实践、以及“King Cocktail”称号的来源；属调酒学校的介绍文章）、Dale DeGroff（作者身份、著作与教学信息；未复制配方）等 6 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![戴尔·德格罗夫](/media/photos/person-dale-degroff-fa7c8cd6.jpg)
+
+图：戴尔·德格罗夫。图片：Editor B，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:D%C3%A9gustation_d%27Armagnac_aux_USA.jpg)）。关联图像：鸡尾酒复兴（1980 年代）：从彩虹厅到手工调酒。

@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:gueuze
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6f129a3b7b9d1a6b8b16137036a89cdb9d9380190745d04bcb7a8adf85cdacce
-source_sha256: 6f129a3b7b9d1a6b8b16137036a89cdb9d9380190745d04bcb7a8adf85cdacce
+source_revision: sha256:72509e9de17c16a7ce0c7dd8cb43d6afbf2e005abd4d371befd6d3d7c4f54ff1
+source_sha256: 72509e9de17c16a7ce0c7dd8cb43d6afbf2e005abd4d371befd6d3d7c4f54ff1
 parent_style_id: drink-style:lambic
 aroma_family: Sour and wild yeast
 legacy_refs: []
@@ -84,6 +84,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # Gueuze
 
 Gueuze, also written geuze, is a type of [Belgian](ref:belgium) [beer](ref:beer) made by blending [lambic](ref:lambic) of different ages, bottling the blend and letting residual sugar referment in the bottle. It is not a beer with acid added; it joins the structure of young and old beer: the young supplies fermentable sugar and active yeast, the old supplies acidity, barnyard notes and complexity. The finished beer is dry, finely sparkling and brightly sour without being harsh.
@@ -149,3 +150,9 @@ For Gueuze, begin with the production rule, then the strength, and finish with t
 | Aroma family | Sour and wild yeast |
 
 **Sources and limits.** The key claims about Gueuze are checked against the following sources: Brasserie Cantillon, Beer Judge Certification Program, Brewers Association (Used to check public US craft industry categories for lambic and gueuze; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Sour beer](/media/photos/drink-style-sour-beer-4b0d00b2.jpg)
+
+Image: Sour beer. Credit: Bernt Rostad, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Norwegian_sour_beer.jpg)). Related image for Gueuze.

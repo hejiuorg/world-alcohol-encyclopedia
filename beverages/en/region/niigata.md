@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:niigata
 source_lang: zh
-source_revision: sha256:3937bbb1fcdb4928d3a7e3661e9a842867e326a3633d9e3b942dacd854923146
-source_sha256: 3937bbb1fcdb4928d3a7e3661e9a842867e326a3633d9e3b942dacd854923146
+source_revision: sha256:d7f761d08a3fc4c0ff52ce0fb8137af45fc5e2f8178b8d197fe7f3b8f04de3aa
+source_sha256: d7f761d08a3fc4c0ff52ce0fb8137af45fc5e2f8178b8d197fe7f3b8f04de3aa
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -190,3 +190,13 @@ Fifth, "Niigata" is not a legal appellation grade. It is a prefecture-level indu
 - National Tax Agency, "Notice Establishing Labelling Standards for the Manufacturing Method and Quality of Sake": https://www.nta.go.jp/taxes/sake/hyoji/seishu/kokuji891122/03.htm
 - Hakkaisan Brewery, "Hakkaisan's Commitment": https://www.hakkaisan.co.jp/vision
 - Niigata Sake Brewers Association, "Uonuma Shuzo Co., Ltd.": https://www.niigata-sake.or.jp/kuramoto/uonuma
+
+## Related images
+
+![Related photograph of Junmai sake](/media/photos/drink-style-junmai-sake-c56e7eb1.jpg)
+
+Image: Related photograph of Junmai sake. Credit: Nisiguti, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Matsui_Sake_Brewery%27s_Sake_20211122.jpg)). Related image for Niigata.
+
+![Editorial illustration of kimoto and yamahai starter mash: rice koji and steam in a wooden vat, turned with a bamboo rake; AI-assisted, not a photograph.](/media/photos/editorial-kimoto-yamahai-q2.jpg)
+
+Image: Editorial illustration of kimoto and yamahai starter mash: rice koji and steam in a wooden vat, turned with a bamboo rake; AI-assisted, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Niigata.

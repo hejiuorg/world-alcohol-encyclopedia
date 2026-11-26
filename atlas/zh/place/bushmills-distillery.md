@@ -89,6 +89,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 布什米尔斯酒厂
 
 布什米尔斯（Bushmills）是北爱尔兰安特里姆郡北海岸的一个村庄，酒厂就在村内的布斯河（River Bush）边，距离巨人之路约两英里。它对外最响亮的身份是“世界最古老的持照威士忌酒厂”，依据是 1608 年的一张蒸馏执照；但今天你看到的厂房、游客中心与 1608 酒吧，是后来逐步建成和翻修的。把执照年代、建厂年代与现存建筑年代分开，是理解这个地方的起点，也能解释为什么它既像一处工业遗址，又仍是一个正常运转的生产单位。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 | 官网 | bushmills.eu |
 
 **来源与边界。** 本页关于「布什米尔斯酒厂」的关键事实，主要由以下来源交叉核对：Bushmills（2 Distillery Road 地址、礼品店与 1608 酒吧开放时间、儿童与团体规定；1608 年蒸馏执照、三次蒸馏与 100% 发芽大麦的官方表述）、Tourism Ireland（导览时段、票价区间与团体预约提示）、Tourism NI（村庄位置、安特里姆海岸与巨人之路的距离关系）。产品、地址或营业状态变化较快时，以 bushmills.eu 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![尊美醇弓街酒厂](/media/photos/place-jameson-bow-street-c01b6f6b.jpg)
+
+图：尊美醇弓街酒厂。图片：Lingual Friendulum，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jameson_distillery_2.jpg)）。关联图像：布什米尔斯酒厂。

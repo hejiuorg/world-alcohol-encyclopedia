@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:ginjo-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5ec526402b681f85644d5f4fec5d028357405eeed26d7bff422da41102f310ee
-source_sha256: 5ec526402b681f85644d5f4fec5d028357405eeed26d7bff422da41102f310ee
+source_revision: sha256:9c209615e20523fa8b4e081c140570b922f467f329f48ad9f585adedf45ae8a6
+source_sha256: 9c209615e20523fa8b4e081c140570b922f467f329f48ad9f585adedf45ae8a6
 legacy_refs: []
 parent_style_id: drink-style:sake
 aroma_family: floral and fruity
@@ -78,6 +78,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Ginjo sake
 
 When the word ginjo appears on a label, most drinkers think first of a strong aroma and a high price. It is above all a process name: the mash is held cooler than usual and kept there longer, so the esters made by yeast stay in the liquid. A polishing ratio of 60% is only the entry ticket. The temperature curve, the yeast and the sake mother decide the style.![related photograph of Ginjo sake](/media/photos/drink-style-ginjo-sake-4e3c0fe6.jpg)
@@ -158,3 +159,9 @@ Pair it with light food: white fish, shellfish, sushi, steamed dishes, tofu. Str
 - [Fermentation](ref:fermentation): how cool, long fermentation shapes aroma.
 - [Rice](ref:rice): the difference between sake rice and table rice.
 - [Japan](ref:japan): the regional and national background.
+
+## Related images
+
+![Bottled sake; polishing ratio, alcohol content and sake meter value often drive the buying decision](/media/photos/drink-style-sake-de6a3028.jpg)
+
+Image: Bottled sake; polishing ratio, alcohol content and sake meter value often drive the buying decision. Credit: koutalou, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)). Related image for Ginjo sake.

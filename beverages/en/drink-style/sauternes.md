@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:sauternes
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:725ba7edd51c7eaf6269ab55bbb18430d79e01dec462fc1399d6694aab8939fc
-source_sha256: 725ba7edd51c7eaf6269ab55bbb18430d79e01dec462fc1399d6694aab8939fc
+source_revision: sha256:68cb1b36db771bad3f14b66a53e6f3912cf9449cc5d127966f826f67afb358a1
+source_sha256: 68cb1b36db771bad3f14b66a53e6f3912cf9449cc5d127966f826f67afb358a1
 legacy_refs: []
 parent_style_id: drink-style:dessert-wine
 aroma_family: Honey / apricot / citrus peel
@@ -81,6 +81,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Sauternes
 
 Sauternes is the botrytised sweet white of southern [Bordeaux](ref:bordeaux), in the Gironde, and one of the easiest sweet wines in the world to name. Its identity is not a single estate but the result of a small river, a fungus and a classification working together. Autumn fog from the Ciron river lets noble rot develop in the vineyards, [Sémillon](ref:semillon) gives body and honeyed texture, [Sauvignon Blanc](ref:sauvignon-blanc) gives acidity and citrus, and oak and bottle age decide whether the final wine is fresh or rich.![related photograph of Sauternes](/media/photos/drink-style-sauternes-b29c0c10.jpg)
@@ -146,3 +147,9 @@ The best vintages are those with enough botrytis and enough acidity to keep the 
 | Aroma family | Honey / apricot / citrus peel |
 
 **Sources and limits.** The key claims about Sauternes are checked against the following sources: Conseil Interprofessionnel du Vin de Bordeaux (the Bordeaux regional, variety and sweet-wine framework; no original text is reproduced), INAO (the French appellation system and the administration of the Sauternes AOC; no original text is reproduced), Conseil des Grands Crus Classés en 1855 (the terroir, appellation data and 1855 classification of Sauternes and Barsac; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Sémillon: Sémillon - Joseph Daurel. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons.](/media/photos/q2-variety-semillon-f7547db4.jpg)
+
+Image: Sémillon - Joseph Daurel. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons.. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=94839238)). Related image for Sauternes.

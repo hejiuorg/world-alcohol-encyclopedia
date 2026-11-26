@@ -75,6 +75,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 马丁堡
 
 马丁堡是新西兰北岛怀拉拉帕谷地南端的精品葡萄酒产区，也是新西兰现代黑皮诺的重要起点；葡萄园集中在马丁堡台地，村庄小、酒庄密，冷凉气候与砾石土壤让酒风偏咸鲜、结构感强。
@@ -149,3 +150,13 @@ Ata Rangi 是产区最具代表性的名字之一，旗舰黑皮诺来自 1980 �
 - 相关条目：[new-zealand](ref:new-zealand)、[pinot-noir](ref:pinot)、[chardonnay](ref:chardonnay)、[red-wine](ref:red)、[white-wine](ref:white)。
 - 本页不提供地图、实时营业时间或价格；出行前以产区协会与酒庄官网为准。
 - 想理解“台地”与“Te Muna”的差别，最有效的方法是在同一趟行程里各选一家酒庄，点同一品种、同一年份，记录香气、酸度与单宁的差异。
+
+## 相关图像
+
+![“新西兰”页面配图：New Zealand - Vineyard - 9878。摄影：Jorge Royan，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-new-zealand-02bcf61e.jpg)
+
+图：New Zealand - Vineyard - 9878。摄影：Jorge Royan，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Jorge Royan，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=15897982)）。关联图像：马丁堡。
+
+![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+图：黑皮诺。图片：Cjp24，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)）。关联图像：马丁堡。

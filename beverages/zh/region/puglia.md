@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 普利亚
 
 普利亚（Puglia，英语称 Apulia）是意大利半岛“靴跟”，东西临海，地中海阳光、石灰岩与红土、老藤灌木与 Masseria 农庄构成其形象；红葡萄以黑曼罗、普里米蒂沃与黑博比诺为主，萨伦托半岛与曼杜里亚是核心。
@@ -145,3 +146,13 @@ verification_scope: source-verified
 - 普利亚夏季炎热干燥，出行前可在大区酒业机构或酒庄官网核对当年开放时间、品鉴预约与公路路况。
 
 相关条目：[意大利](ref:italy)、[巴贝拉](ref:barbera)、[红葡萄酒](ref:red)。
+
+## 相关图像
+
+![巴贝拉](/media/photos/variety-barbera-e133d946.jpg)
+
+图：巴贝拉。图片：Agne27，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Barbera_cluster.JPG)）。关联图像：普利亚。
+
+![“意大利”页面配图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-italy-202d4c25.jpg)
+
+图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：普利亚。

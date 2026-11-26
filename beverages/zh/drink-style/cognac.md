@@ -78,6 +78,7 @@ rights:
   note: 第三方标准文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 干邑
 
 干邑的核心不是“高级白兰地”四个字，而是一套可以逐项检查的制度：葡萄种在哪个村、用哪些品种、什么时候蒸馏、用什么形状的壶、在什么桶里放多久、瓶中最年轻的原酒几岁。任何一项不达标，酒就不能叫 Cognac。把它当成地理标志来读，比当成品牌来读更接近事实。
@@ -165,3 +166,9 @@ VS 与 VSOP 适合加冰或调酒，Sidecar、French Connection 都以干邑为�
 | 香气家族 | 果香/花香/橡木 |
 
 **来源与边界。** 本页关于「干邑」的关键事实，主要由以下来源交叉核对：BNIC（干邑的产区范围、允许品种、夏朗德壶式蒸馏、陈年与等级规则）、European Union（葡萄白兰地与地理标志烈酒的定义框架）、Oxford University Press（提供关于干邑、夏朗德蒸馏器与酒龄标示的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“特雷比奥罗（白玉霓）”页面配图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。摄影：Gabriele Cantini，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-trebbiano-8254babe.jpg)
+
+图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。摄影：Gabriele Cantini，CC BY 2.0，来自 Wikimedia Commons。。图片：Gabriele Cantini，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=19365493)）。关联图像：干邑。

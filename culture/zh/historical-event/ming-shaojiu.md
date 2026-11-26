@@ -78,6 +78,7 @@ rights:
   note: 第三方点校本、注释、译本与数据库页面不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 明代烧酒：从药用到北方日常
 
 明代（1368—1644）的烧酒，已经不是元代那种刚刚传入的异域烈酒，但它也没有立刻取代黄酒。宴席上仍以黄酒为多，烧酒更多出现在北方日常、药方、行旅与暑月饮用之中。李时珍在《本草纲目》里把烧酒单列成条，既记录“甑蒸取露”的工艺，也记录“大毒”的警告；这条文献后来成为叙述明代烧酒的核心依据。
@@ -149,3 +150,9 @@ verification_scope: source-verified
 - [中国](ref:china)：中国酒类的产区与品类背景。
 
 相关条目：[中国酒史纲：从谷物发酵到国家名酒](ref:chinese-wine-history)。
+
+## 相关图像
+
+!["元代蒸馏酒传入：阿剌吉与烧酒的到来"类别配图](/media/photos/place-xianheng-hotel-329475b5.jpg)
+
+图："元代蒸馏酒传入：阿剌吉与烧酒的到来"类别配图。图片：Jiong Sheng，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)）。关联图像：明代烧酒：从药用到北方日常。

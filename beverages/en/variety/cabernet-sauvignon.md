@@ -13,8 +13,8 @@ species: Vitis vinifera
 translation_of: variety:cabernet-sauvignon
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3e89380cc871342af0662186436331c3b974f96753baeab2dcba9a997c7bceb0
-source_sha256: 3e89380cc871342af0662186436331c3b974f96753baeab2dcba9a997c7bceb0
+source_revision: sha256:86140a3b32869a50012e09b83a98f21bb81752c2b1d73103e2beb0c06a083ccd
+source_sha256: 86140a3b32869a50012e09b83a98f21bb81752c2b1d73103e2beb0c06a083ccd
 aliases:
   - Cabernet Sauvignon
 tags:
@@ -140,3 +140,9 @@ Fifth, a variety label always means a high proportion. Variety labelling in blen
 - [Château Lafite Rothschild](ref:lafite): a left-bank representative based mainly on Cabernet.
 - [Red wine](ref:red-wine): maceration, tannin and ageing framework for red wines.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
+
+## Related images
+
+![Château Lafite Rothschild](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+Image: Château Lafite Rothschild. Credit: PA, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)). Related image for Cabernet Sauvignon.

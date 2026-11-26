@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:jiangsu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:380b6c8143851a7b4b95869ae5a0bbbf207811353f5b1cd7cbe3127ae4878fcf
-source_sha256: 380b6c8143851a7b4b95869ae5a0bbbf207811353f5b1cd7cbe3127ae4878fcf
+source_revision: sha256:d9940dd81a573999770916202a9b31ff0bd43810410960692f3c6f27a33da290
+source_sha256: d9940dd81a573999770916202a9b31ff0bd43810410960692f3c6f27a33da290
 legacy_refs: []
 level: province
 parent_id: region:china
@@ -88,6 +88,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Jiangsu Province
 
 Jiangsu lies on the east coast of China along the lower Yangtze. In the map of alcoholic drinks it has both a strong aroma baijiu industry, represented by Yanghe and Shuanggou, and yellow wine traditions represented by Danyang sealed-jar wine and Wuxi Huiquan wine. This region focuses on the yellow wine regions and mentions baijiu only where necessary.
@@ -165,3 +166,13 @@ The comparison with [China](ref:china) and [Glutinous rice](ref:glutinous-rice) 
 - [Glutinous rice](ref:glutinous-rice) and [wheat](ref:wheat): the base material and the qu material of Jiangsu yellow wine.
 - [Water](ref:water): how water quality shapes yellow wine style.
 - [Qu making](ref:qu-making) and [fermentation](ref:fermentation): wheat qu and jar fermentation.
+
+## Related images
+
+![Glutinous rice](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+Image: Glutinous rice. Credit: 국립국어원, CC BY-SA 2.0 kr, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)). Related image for Jiangsu Province.
+
+![Wheat](/media/photos/ingredient-wheat-e782d218.jpg)
+
+Image: Wheat. Credit: kallerna, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)). Related image for Jiangsu Province.

@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观安排、售酒时间与酒款会变化，以酒庄回复为准。
 verification_scope: source-verified
 ---
+
 # CVNE 酒庄
 
 从阿罗火车站出来，沿着 Barrio de la Estación 走几分钟，会先看到一片被石墙与铁门围住的老厂区，门口写着 CVNE。它的全名是 Compañía Vinícola del Norte de España（西班牙北方酿酒公司），当地人更常把它读成“Cune”。1879 年，Real de Asúa 兄弟从外地来到阿罗，在这片靠近铁路的地方建厂；一个多世纪过去，酒庄仍由创始家族的后代经营，厂区也仍在原址运转。它不是一座被改造成博物馆的空壳，而是“老建筑里继续酿酒”的样本。
@@ -157,3 +158,9 @@ Cune 是酒庄最广为人知的品牌，产品从 Crianza、Reserva 到 Gran Re
 | 城市/国家 | 阿罗 / 西班牙 |
 | 营业状态 | 已核验营业 |
 | 官网 | cvne.com |
+
+## 相关图像
+
+![酒窖与储存：温度、湿度、光照与时间相关实景照片](/media/photos/article-cellar-and-storage-de086b17.jpg)
+
+图：酒窖与储存：温度、湿度、光照与时间相关实景照片。图片：Deepsphotography，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:The_Cellars_in_Direlton_Castle.JPG)）。关联图像：CVNE 酒庄。

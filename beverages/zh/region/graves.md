@@ -88,6 +88,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 格拉夫
 
 格拉夫是波尔多左岸南部的历史产区，从波尔多市郊向南延伸到朗贡一带；名字来自砾石（graves），红白兼产，以 1953 年格拉夫分级著称，佩萨克-雷奥良 1987 年从中独立为更严格的红白 AOC。
@@ -143,3 +144,13 @@ verification_scope: source-verified
 - 格拉夫列级庄参观多需提前预约，出行前可在佩萨克-雷奥良产区委员会或酒庄官网核对当年开放时间与品鉴预约方式。
 
 对照阅读：[波尔多](ref:bordeaux)、[长相思](ref:sauvignon)。
+
+## 相关图像
+
+![长相思相关实景照片](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：格拉夫。
+
+![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：格拉夫。

@@ -101,6 +101,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观政策与年份供应会变化，以官方联系为准。
 verification_scope: source-verified
 ---
+
 # 侯伯王酒庄
 
 侯伯王不在梅多克的葡萄园里，它在 Bordeaux 市南郊的 Pessac。从市中心开车十几分钟，穿过住宅区、学院与办公楼，突然出现一片砾石坡地与一座 16 世纪的宅邸；墙外是街道，墙内是葡萄园。它是 1855 年一级庄里唯一不在梅多克的酒庄，也是最早被英国人、荷兰人与巴黎市场认识的波尔多酒之一。
@@ -178,3 +179,9 @@ verification_scope: source-verified
 - 右岸与甜酒：[Cheval Blanc](ref:cheval)、[Pétrus](ref:petrus)、[Yquem](ref:yquem)、[波尔多产区](ref:bordeaux)。
 
 对照阅读：[玛歌酒庄](ref:margaux)、[拉菲古堡](ref:lafite)。
+
+## 相关图像
+
+![玛歌酒庄主楼正面](/media/photos/place-chateau-margaux-bb3c2fe1.jpg)
+
+图：玛歌酒庄主楼正面。图片：David Perez，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chateau_Margaux_01_by-dpc.jpg)）。关联图像：侯伯王酒庄。

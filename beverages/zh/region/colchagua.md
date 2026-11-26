@@ -100,6 +100,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 科尔查瓜
 
 科尔查瓜（Colchagua）是智利中央山谷南部的重要葡萄酒产区，以 Cabernet Sauvignon、Carmenère 与 Merlot 的红葡萄酒为主，也生产 Syrah 与沿海白葡萄酒。它的法定层级是 Zona，而不是独立的 Región 或 Subregión。
@@ -197,3 +198,13 @@ Cabernet Sauvignon 与 Carmenère 适合红肉、烤肉与炖菜；Syrah 适合�
 - [年份](ref:vintage)：科尔查瓜的年份差异与干旱影响。
 - [单一品种](ref:single-varietal)：品种标注的比例规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：科尔查瓜。
+
+![长相思相关实景照片](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：科尔查瓜。

@@ -98,6 +98,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 玛格丽特河
 
 玛格丽特河（Margaret River）是西澳大利亚州西南角的葡萄酒产区，以 Cabernet Sauvignon 混酿与 Chardonnay 闻名。它三面环海、地理上高度孤立，海洋对气候的影响比澳大利亚多数产区更强。
@@ -188,3 +189,13 @@ Cabernet Sauvignon 适合红肉、烤肉与硬质奶酪；Chardonnay 适合海�
 - [年份](ref:vintage)：玛格丽特河的年份差异与降雨影响。
 - [单一品种](ref:single-varietal)：85% 品种标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![“赛美蓉”页面配图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-semillon-f7547db4.jpg)
+
+图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。。图片：Imprimerie A. Bellier & Cie - Bordeaux，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94839238)）。关联图像：玛格丽特河。
+
+![葡萄](/media/photos/ingredient-grape-2d929148.jpg)
+
+图：葡萄。图片：Vyacheslav Argenberg，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)）。关联图像：玛格丽特河。

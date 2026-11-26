@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、体验价格与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 基尔伯根酒厂
 
 基尔伯根（Kilbeggan）在[爱尔兰](ref:ireland)中部 Westmeath 郡的小镇上，Lower Main Street 从酒厂门口经过。酒厂的砖砌烟囱是镇子的地标，从远处就能看见；厂房沿 Brosna 河展开，水轮、旧磨坊与仓库仍在原位。1757 年，Matthias McManus 在此取得蒸馏执照，酒厂最初叫 Brusna Distillery。它经历过火灾、停业与社区自救，2007 年恢复蒸馏，今天由 Beam Suntory 旗下的 Cooley 体系运营。
@@ -136,3 +137,9 @@ Distillery Experience 约 90 分钟，走完老厂区后有四款威士忌的大
 **来源与边界。** 本页关于「基尔伯根酒厂」的关键事实，主要由以下来源交叉核对：Kilbeggan Distillery / Beam Suntory（1757 年执照、体验项目、Warehouse Bar、商店与季节开放时间；酒厂名称、品牌与参观入口）、Beam Suntory。产品、地址或营业状态变化较快时，以 kilbeggandistillery.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「基尔伯根酒厂」与「爱尔兰」、「爱尔兰威士忌」、「壶式蒸馏器（pot still）」放在一起读时，先确认它们是同一层级还是上下游关系：先确认地址与营业状态，再比较历史、空间与点单体验。本页负责给出场所的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于场所本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![爱尔兰](/media/photos/region-ireland-6c11da34.jpg)
+
+图：爱尔兰。图片：Jeff Schmaltz，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ireland_(MODIS).jpg)）。关联图像：基尔伯根酒厂。

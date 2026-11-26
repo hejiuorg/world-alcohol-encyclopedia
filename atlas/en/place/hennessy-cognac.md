@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:hennessy-cognac
 source_lang: zh
-source_revision: sha256:e8565174eeacbba5a246ca75f97639981d2954c31a43bac0d30e2b5593a18024
-source_sha256: e8565174eeacbba5a246ca75f97639981d2954c31a43bac0d30e2b5593a18024
+source_revision: sha256:92c3a8a7277ef01fe65d569eba6d4292afcb5cd0909020c1c37f8545ab11cc81
+source_sha256: 92c3a8a7277ef01fe65d569eba6d4292afcb5cd0909020c1c37f8545ab11cc81
 translation_status: reviewed
 subtype: distillery-visitor
 address: Quai Richard Hennessy, 16100 Cognac, France
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; hours, prices and tour formats change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Hennessy in Cognac
 
 Hennessy is one of the oldest and largest cognac houses, founded in 1765 on the Charente in Cognac by the Irishman Richard Hennessy. What visitors see today is not a single distillery building but a visit system anchored on the Quai Richard Hennessy: historic cellars, ageing and blending rooms, a boutique, and a route that can approach the old town from the river. Three strands need separating: the trading house's commercial history, a craft built around blending, and a visitor programme designed as a ladder of products.![Hennessy in Cognac photograph](/media/photos/q2-place-hennessy-cognac-f2436160.jpg)
@@ -147,3 +148,9 @@ Hennessy in Cognac is best read by starting with the address, moving to the curr
 | City and country | Cognac / France |
 | Status | verified open |
 | Official site | hennessy.com |
+
+## Related images
+
+![Category image for LVMH](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+Image: Category image for LVMH. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Hennessy in Cognac.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:u-zlateho-tygra
 source_lang: zh
-source_revision: sha256:6cbef17d1f2bc1e566059e699132ecc671d09cbf8446d2be4a1377b667746025
-source_sha256: 6cbef17d1f2bc1e566059e699132ecc671d09cbf8446d2be4a1377b667746025
+source_revision: sha256:d00a31894ccdfaacb4c66f0978d63a182f09168f7462d19b4cdf157aaf20b03f
+source_sha256: d00a31894ccdfaacb4c66f0978d63a182f09168f7462d19b4cdf157aaf20b03f
 translation_status: reviewed
 subtype: pub
 address: Husova 17, 110 00 Praha 1, Czechia
@@ -168,3 +168,9 @@ Husova is narrow and people often stand outside with a drink, so allow space whe
 - [Pilsner](ref:pilsner): the beer style the Golden Tiger sells, and the bitterness and foam behind it.
 - [Beer](ref:beer): raw materials, fermentation and serving, for understanding beer-hall culture.
 - [Café Hawelka](ref:hawelka): a Viennese family café and another version of the "writers' regulars" tradition.
+
+## Related images
+
+![The Art Deco interior of Café Slavia, Prague](/media/photos/place-cafe-slavia-ae96d5d5.jpg)
+
+Image: The Art Deco interior of Café Slavia, Prague. Credit: Fred Romero from Paris, France, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Praha_-_Kav%C3%A1rna_Slavia.jpg)). Related image for U Zlatého tygra.

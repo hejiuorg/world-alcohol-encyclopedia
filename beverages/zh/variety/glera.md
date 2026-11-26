@@ -70,6 +70,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 格莱拉
 
 格莱拉（Glera）是意大利东北部的白葡萄品种，也是普罗塞克（Prosecco）起泡酒的核心。它的故事有一半写在葡萄园里，另一半写在名称制度里：2009 年之前，品种与酒都叫 Prosecco；此后品种正式改称 Glera，酒名保留 Prosecco，产区边界也被重新划定。理解这段改名史，是理解这款酒为何在全球市场迅速扩张的前提。
@@ -142,3 +143,9 @@ verification_scope: source-verified
 | 代表产区 | 意大利 |
 
 **来源与边界。** 本页关于「格莱拉」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Consorzio Tutela Prosecco DOC（普罗塞克的产地范围、品种比例与风格分类）、Oxford University Press（提供关于格莱拉、普罗塞克与威尼托的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![普罗塞克](/media/photos/drink-italy-prosecco-6e982221.jpg)
+
+图：普罗塞克。图片：Sandstein，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Prosecco_di_Conegliano_bottle_and_glass.jpg)）。关联图像：格莱拉。

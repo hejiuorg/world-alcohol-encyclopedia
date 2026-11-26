@@ -149,3 +149,13 @@ verification_scope: source-verified
 - 汾酒集团发展史 — 杏花村遗址与酒博物馆 — https://www.fenjiu.com.cn/developmentHistory/index.html（山西杏花村汾酒集团，核对 2026-11-25）
 
 相关条目：[汾酒博物馆](ref:museum)、[杏花村镇（汾阳）](ref:village)、[汾酒](ref:brand)、[清香型白酒](ref:style)、[山西省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![山西](/media/photos/region-shanxi-f5edb84f.jpg)
+
+图：山西。图片：Underbar dk，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Yanmenguan3.JPG)）。关联图像：汾阳路线：汾酒与杏花村。
+
+![汾酒博物馆藏 1915 年巴拿马万国博览会一等金质奖章](/media/photos/place-fenjiu-museum-efad0f85.webp)
+
+图：汾酒博物馆藏 1915 年巴拿马万国博览会一等金质奖章。图片：汾酒集团文化中心，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E8%A5%BF%E6%B1%BE%E9%85%92%E8%8D%A3%E8%8E%B71915%E5%B9%B4%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E7%9A%84%E2%80%9C%E4%B8%80%E7%AD%89%E9%87%91%E8%B4%A8%E5%A4%A7%E5%A5%96%E7%AB%A0%E2%80%9D_%E6%B1%BE%E9%85%92%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F.png)）。关联图像：汾阳路线：汾酒与杏花村。

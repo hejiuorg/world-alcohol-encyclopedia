@@ -72,6 +72,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 米酒
 
 米酒是[中国](ref:china)以[糯米](ref:rice)为主料、加入酒药或甜酒曲、经糖化与发酵得到的低度酒。它最常见的形态是酒酿、醪糟：白色或微黄的浊液，米粒半浮半沉，入口甜、带酸、有轻微气泡，酒精度通常只有 1% 到 15%。它不蒸馏，也不像黄酒那样陈放，价值在新鲜、甜润与米香。
@@ -143,3 +144,9 @@ verification_scope: source-verified
 补充阅读：[修道院啤酒](ref:c-extra-1)。
 
 相关条目：[大米](ref:rice)、[发酵](ref:fermentation)、[残糖（residual sugar）](ref:residual-sugar)。
+
+## 相关图像
+
+![大米](/media/photos/ingredient-rice-0ee2019c.jpg)
+
+图：大米。图片：China News Service，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg)）。关联图像：米酒。

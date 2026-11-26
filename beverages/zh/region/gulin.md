@@ -91,6 +91,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 古蔺县
 
 古蔺县隶属四川省泸州市，位于四川盆地南缘、云贵高原北麓。它的形状很特别：县域像一块半岛，从四川向南嵌入黔北，西与叙永接壤，东南北三面分别与贵州的毕节、金沙、仁怀、习水、赤水相邻。官方口径的面积为 3,185 平方公里，辖 3 个街道、17 个镇、3 个苗族乡，共有 43 个社区和 246 个行政村；2025 年末户籍人口 87.3 万人。
@@ -152,3 +153,13 @@ verification_scope: source-verified
 - 想理解酱香型的共同语言，读[酱香型白酒](ref:sauce)。
 - 想把古蔺放回泸州与四川，读[泸州](ref:luzhou)与[四川](ref:sichuan)；想对照河对岸，读[遵义](ref:zunyi)、[贵州](ref:guizhou)与[习水](ref:xishui)。
 - 想比较浓香与酱香的差异，读[浓香型白酒](ref:strong)；想从国家层级看酒类地理，读[中国](ref:china)与[白酒](ref:baijiu)。
+
+## 相关图像
+
+![酱香型白酒](/media/photos/drink-style-sauce-aroma-baijiu-1c3af236.jpg)
+
+图：酱香型白酒。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)）。关联图像：古蔺县。
+
+![四川省](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+图：四川省。图片：FISU，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)）。关联图像：古蔺县。

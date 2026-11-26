@@ -95,6 +95,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、票务、讲解与活动会变化，以馆方公告为准。
 verification_scope: source-verified
 ---
+
 # 中国黄酒博物馆
 
 中国黄酒博物馆在绍兴古城北部的光相桥畔，地址是越城区下大路 557 号。它由浙江古越龙山绍兴酒股份有限公司投资，2007 年正式开馆；占地约三万平方米，建筑面积约 1.6 万平方米，是国内以中国黄酒历史与文化为主题的专业性大型博物馆。它不是一座把酒瓶摆进玻璃柜的陈列室，而是把酒史、酒俗、酿造技艺、花雕工艺与地下酒窖放在同一条参观动线上的文化场馆。
@@ -175,3 +176,9 @@ verification_scope: source-verified
 补充阅读：[A Ginjinha](ref:c-extra-1)。
 
 相关条目：[黄酒](ref:yellow-wine)、[绍兴市](ref:shaoxing)、[中国](ref:china)。
+
+## 相关图像
+
+![绍兴市](/media/photos/region-shaoxing-e9a43f19.jpg)
+
+图：绍兴市。图片：Zhangzhugang，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)）。关联图像：中国黄酒博物馆。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:korean-soju-modernization
 source_lang: zh
-source_revision: sha256:9c73a7759adb2409bb05d983c6645bdca093a60825d605424aa2bc944cb75f3f
-source_sha256: 9c73a7759adb2409bb05d983c6645bdca093a60825d605424aa2bc944cb75f3f
+source_revision: sha256:bba547091009e58f7b6661bd2fd8d45be76194925308d809816cc57fc1eb3291
+source_sha256: bba547091009e58f7b6661bd2fd8d45be76194925308d809816cc57fc1eb3291
 translation_status: reviewed
 aliases:
   - 韩国烧酒
@@ -145,3 +145,9 @@ A History of Korean Soju is best approached through the date and setting, then t
 - [Korea Alcohol Industry Association](ref:kia): the industry body and its statistics.
 
 Further reading: [The 1855 Bordeaux Classification: A List Produced for a World's Fair](ref:c-extra-1), [1952 National Wine Evaluation: the eight famous wines and the start of a system](ref:c-extra-2).
+
+## Related images
+
+![Category image for "The 1855 Bordeaux Classification: A List Produced for a World's Fair"](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
+
+Image: Category image for "The 1855 Bordeaux Classification: A List Produced for a World's Fair". Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)). Related image for A History of Korean Soju: From Distilled Spirit to the Green Bottle.

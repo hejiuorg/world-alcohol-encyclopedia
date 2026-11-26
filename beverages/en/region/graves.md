@@ -24,8 +24,8 @@ tags:
 translation_of: region:graves
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:64e77ee386bd2b2f51497000f885588091a3994027fc9b1bd0042bde90a7578d
-source_sha256: 64e77ee386bd2b2f51497000f885588091a3994027fc9b1bd0042bde90a7578d
+source_revision: sha256:4f7816fb865320e5fbcd4731f0c7a7000478c5b98298c12d515087ff8dd42512
+source_sha256: 4f7816fb865320e5fbcd4731f0c7a7000478c5b98298c12d515087ff8dd42512
 related:
   - relation: about
     target_id: region:bordeaux
@@ -152,3 +152,13 @@ The district sits close to old Bordeaux and the Saint-Émilion touring route, an
 - Classified Graves estates generally require advance booking; check opening hours and tasting arrangements on the Pessac-Léognan committee or estate websites before travelling.
 
 Graves is best read by starting with the appellation and its permitted varieties, moving to the vintage and the producer, and ending with how the wine is labelled.
+
+## Related images
+
+![Related photograph of Sauvignon Blanc](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+Image: Related photograph of Sauvignon Blanc. Credit: Geolina163 + 1971markus, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)). Related image for Graves.
+
+![Photograph for Cabernet Sauvignon: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+Image: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13318021)). Related image for Graves.

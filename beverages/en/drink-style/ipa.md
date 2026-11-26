@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:ipa
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:47fc45949c5c98e000e2ef521d22b0b3e6f84661b4e00204140652c60461a53a
-source_sha256: 47fc45949c5c98e000e2ef521d22b0b3e6f84661b4e00204140652c60461a53a
+source_revision: sha256:3a32e0b265b1a626d432cf6634e59112ca0aba3809518a6c8812f09cc01f3a72
+source_sha256: 3a32e0b265b1a626d432cf6634e59112ca0aba3809518a6c8812f09cc01f3a72
 legacy_refs: []
 aliases:
   - India pale ale
@@ -85,6 +85,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # India pale ale
 
 India pale ale (IPA) is a top-fermented beer family defined by prominent hop aroma and bitterness. It grew out of the British trade in beer exported to India, took a stable form in Burton and elsewhere in the 19th century, and was redefined by American craft brewing in the late 1970s, spawning American IPA, double IPA and hazy IPA. The key to understanding IPA is to treat bitterness as a tunable parameter, not a quality grade.
@@ -161,3 +162,9 @@ For India pale ale, begin with the production rule. Then look at the strength, a
 - [Bitterness](ref:ibu): what IBU means, how it is measured and where it stops.
 - [Barley](ref:barley): the malt backbone that balances the hops.
 - [Fermentation](ref:fermentation): how top-fermentation temperature shapes aroma.
+
+## Related images
+
+![Craft beer](/media/photos/term-craft-beer-ce03e9bb.jpg)
+
+Image: Craft beer. Credit: Bernt Rostad, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zachariasbryggen_Microbrewery.jpg)). Related image for India pale ale.

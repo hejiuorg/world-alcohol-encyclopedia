@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:marsala
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1c85d24f72472caf5ecdeb89b85bd3c7388cb775ec22e5051b447e3674be24ca
-source_sha256: 1c85d24f72472caf5ecdeb89b85bd3c7388cb775ec22e5051b447e3674be24ca
+source_revision: sha256:860da3163a024942a9c7a7af6e07bfe5f0f459fd993bb5979b933594a435dbf3
+source_sha256: 860da3163a024942a9c7a7af6e07bfe5f0f459fd993bb5979b933594a435dbf3
 related:
   - relation: about
     target_id: drink-style:fortified-wine
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Marsala
 
 A fortified wine from the Marsala district of western Sicily, made from white grapes with added alcohol or cooked wine and oxidative ageing; it ranges from dry to sweet and from amber to ruby.
@@ -154,3 +155,9 @@ Compare a Fine, a Superiore Riserva and a Vergine, keeping the producer and swee
 - [Sicily](ref:sicily): the regional background of Marsala.
 - [Solera](ref:solera): continuous blending and ageing.
 - [Oak ageing](ref:oak): oxidative maturation and barrel type.
+
+## Related images
+
+![Sicily: Old Inzolia vine in vineyard Dietro le Case, Menfi, Sicily (Wikimedia Commons)](/media/photos/region-sicily-6e979fe1.jpg)
+
+Image: Sicily: Old Inzolia vine in vineyard Dietro le Case, Menfi, Sicily (Wikimedia Commons). Credit: Marilena.CantineBarbera, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Old_Inzolia_vine_in_vineyard_Dietro_le_Case,_Menfi,_Sicily.jpg)). Related image for Marsala.

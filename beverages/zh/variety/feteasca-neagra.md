@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 黑姑娘
 
 Fetească Neagră 是罗马尼亚与摩尔多瓦一带的古老原生红葡萄，名字意为“黑姑娘”；集中生长在旧摩尔达维亚公国的 Prut 河谷与喀尔巴阡山前丘陵，果皮厚、成熟晚，酿成的红酒酸度清晰、单宁中高，带黑樱桃、李子、黑莓、香料与泥土气息，是罗马尼亚本土红品种中最受重视的名字之一。
@@ -155,3 +156,9 @@ Fetească Neagră 是罗马尼亚与摩尔多瓦一带的古老原生红葡萄�
 
 - 相关条目：[pinot-noir](ref:pinot)、[syrah](ref:syrah)、[red-wine](ref:red)、[oak-ageing](ref:oak)、[terroir](ref:terroir)。
 - 想比较 Dealu Mare 与 Recaș 的风土差别，最直接的方法是选同一年份、同一甜度的两款单一品种黑姑娘，对比酸度亮度、单宁粗细与果香集中度。
+
+## 相关图像
+
+![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：黑姑娘。

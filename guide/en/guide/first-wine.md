@@ -11,8 +11,8 @@ revision: 2
 translation_of: guide:first-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:aafcb71581de2b0b8669ee90e5326da136ff7d749f3a84688307f3dd7ee4a402
-source_sha256: aafcb71581de2b0b8669ee90e5326da136ff7d749f3a84688307f3dd7ee4a402
+source_revision: sha256:b68e3a7e95e2d53729eac0259ee2869765936fd3355617fa9d55d052b74eedba
+source_sha256: b68e3a7e95e2d53729eac0259ee2869765936fd3355617fa9d55d052b74eedba
 about_refs:
   - drink-style:wine
 audience: Readers buying wine for the first time and unsure where to start on a shelf.
@@ -84,6 +84,12 @@ sources:
     note: Consulted for entries on wine types, regions and varieties; no source text is reproduced.
     accessed: 2026-11-04
     url: https://global.oup.com/academic/product/the-oxford-companion-to-wine-9780198871316
+  - key: adv-wset
+    title: WSET — Wine education and tasting resources
+    url: https://www.wsetglobal.com/
+    publisher: Wine & Spirit Education Trust
+    note: Used to check systematic tasting, serving temperature and wine-education conventions; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -176,6 +182,28 @@ Read Choosing your first wine through what it is, then where it comes from, and 
 **Sources and limits.** The key claims about Choosing your first wine are checked against the following sources: OIV (wine categories, labelling and international technical definitions), WSET (the basic framework for tasting, temperature and label reading), State Administration for Market Regulation and Standardization Administration (the basic Chinese wine standard) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Choosing your first wine, this guide was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+
+## Advanced judgment
+
+![White wine tasting glass](/media/photos/guide-first-wine-030c8359.jpg)
+
+Figure: A white wine tasting glass; a first wine starts with glass shape, temperature and aroma. Image: Tim Parkinson, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:White_wine_tasting_glass.jpg)).
+
+| Occasion | Safer choice | Pitfall to avoid |
+| --- | --- | --- |
+| Drinking alone | Dry white or light-bodied red | High alcohol, heavy oak, packaging over substance |
+| Family dinner | Medium-acidity white or easy red | Too sweet, too heavy, flavours fighting the food |
+| As a gift | Clear region, vintage and producer | Buying a gift box without checking the wine or storage |
+| In a restaurant | Try by the glass, then order a bottle | Opening a bottle before checking temperature |
+
+**Must the first bottle be red?** No. White wine is usually easier with food and easier to serve at the right temperature; red tannin and body can clash with lighter dishes. A bottle you will actually finish matters more than one that looks impressive.
+
+**Is older always better?** No. Most entry-level wines are meant to be drunk young; only wines with enough structure, acidity and concentration repay cellaring. Storage temperature, humidity and light matter more than the number on the label.
+
+**Are supermarket wines always bad?** Not necessarily, but a shorter chain and faster turnover usually mean more controllable condition. Check the producer, vintage, importer and back label, and avoid bottles stored upright in light or heat.
+
+Further reading: [wine](ref:wine) and [red wine](ref:red-wine).
 
 ## Quick comparison: five wine styles for beginners
 

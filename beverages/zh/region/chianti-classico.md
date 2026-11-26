@@ -78,6 +78,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 基安蒂经典
 
 基安蒂经典（Chianti Classico）是意大利托斯卡纳佛罗伦萨与锡耶纳之间的红葡萄酒保证法定产区（DOCG），生产区约 71,800 公顷，以桑娇维塞为主体。它与更大的基安蒂（Chianti）产区自 1996 年起分属两套独立规范，酒标上的黑公鸡标志是它最直观的身份标记。
@@ -154,3 +155,13 @@ Annata 以新鲜酸樱桃、紫罗兰与草本香气为主，酸度明亮、单�
 - [红葡萄酒](ref:red-wine)：基安蒂经典的类别、单宁与酿造概览。
 - [橡木桶陈年](ref:oak-ageing)：桶型、桶龄与微氧化的作用。
 - [风土](ref:terroir)：海拔、坡向与土壤差异的讨论框架。
+
+## 相关图像
+
+![“托斯卡纳”页面配图：Tuscany vineyard。摄影：cova69，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
+
+图：Tuscany vineyard。摄影：cova69，CC BY 2.0，来自 Wikimedia Commons。。图片：cova69，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=1393578)）。关联图像：基安蒂经典。
+
+![桑娇维塞](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
+
+图：桑娇维塞。图片：Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VIVC10680_SANGIOVESE_Cluster_in_the_field_20354.jpg)）。关联图像：基安蒂经典。

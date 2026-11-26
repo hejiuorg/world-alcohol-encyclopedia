@@ -37,8 +37,8 @@ tags:
 translation_of: place:wirra-wirra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:19a26c31941f15947ee46f997ca87247be57a7c2b3920af643181a2c0ac79763
-source_sha256: 19a26c31941f15947ee46f997ca87247be57a7c2b3920af643181a2c0ac79763
+source_revision: sha256:90bee96a0881805b4795ec6808b211ba7003068e991cc47d53dc8d072160b499
+source_sha256: 90bee96a0881805b4795ec6808b211ba7003068e991cc47d53dc8d072160b499
 related:
   - relation: about
     target_id: region:mclaren-vale
@@ -74,6 +74,12 @@ sources:
     publisher: Wine Australia
     note: Used to verify McLaren Vale's location, climate and variety background; no source text is reproduced.
     accessed: 2026-11-21
+  - key: wirra-wirra-official
+    title: "Wirra Wirra — official website"
+    url: "https://www.wirrawirra.com/"
+    publisher: "Wirra Wirra"
+    note: "Used to check the McLaren Vale estate and winery history; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -160,3 +166,9 @@ The best way to understand Wirra Wirra is to compare Church Block with RSW on th
 - Related entries: [mclaren-vale](ref:mclaren-vale), [australia](ref:australia), [red-wine](ref:church-block), [syrah](ref:shiraz), [cabernet-sauvignon](ref:cabernet).
 - This entry does not provide live prices, menus, tasting fees or opening status; check the estate website and Wine Australia before visiting.
 - To understand how Church Block evolved, ask about the blend proportions in the vintage you taste and compare it with a bottle of Original Blend Grenache Shiraz.
+
+## Related images
+
+![McLaren Vale: Trellised vines, Coriole Vineyard, McLaren Vale South Australia (6177503952) (Wikimedia Commons)](/media/photos/region-mclaren-vale-6de98a30.jpg)
+
+Image: McLaren Vale: Trellised vines, Coriole Vineyard, McLaren Vale South Australia (6177503952) (Wikimedia Commons). Credit: Rexness from Melbourne, Australia, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Trellised_vines,_Coriole_Vineyard,_McLaren_Vale_South_Australia_(6177503952).jpg)). Related image for Wirra Wirra.

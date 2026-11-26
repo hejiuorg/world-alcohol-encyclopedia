@@ -85,6 +85,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、价格与菜单会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # À la Mort Subite
 
 从布鲁塞尔大广场往圣于贝尔长廊方向走，拐进一条短而窄的坡道，红色霓虹字 “A la Mort Subite” 会在旧式立面上亮起来。白天，门口摆着藤椅与小白桌；晚上，高窗里透出暖黄的光，拱形镜面把整间厅堂拉得很深。它不是那种把“复古”做成布景的酒吧，而是一间从 1920 年代沿用至今的布鲁塞尔咖啡馆：木头、黄铜、镜面与噪声都还在。
@@ -142,3 +143,9 @@ verification_scope: source-verified
 - 官方荷兰语首页：<https://alamortsubite.com/nl>，用于交叉核对荷兰语地址与营业信息。
 - Around Us 的建筑条目：<https://it.aroundus.com/p/6055765-a-la-mort-subite>，用于核对 1902 年 Piscador、1910 年 Hamesse 改造、1998 年保护身份与新路易十六风格。
 - 同城与跨城条目：[Cantillon](ref:cantillon)、[De Halve Maan](ref:halve-maan)、[Café Hoppe](ref:hoppe)、[Café De Dokter](ref:dokter)、[Prater Garten](ref:prater)。
+
+## 相关图像
+
+![Prater Garten 的栗树荫与长桌，柏林普伦茨劳贝格](/media/photos/place-prater-garten-538dd203.jpg)
+
+图：Prater Garten 的栗树荫与长桌，柏林普伦茨劳贝格。图片：calflier001，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:PRATERGARTEN_BIER_GARTEN_NEAR_TO_ELBERWALDER_STRASSE_U_BAHN_STATION_BERLIN_GERMANY_JUNE_2013_(9058790131).jpg)）。关联图像：À la Mort Subite。

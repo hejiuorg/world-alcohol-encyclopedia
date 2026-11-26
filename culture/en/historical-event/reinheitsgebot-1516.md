@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:reinheitsgebot-1516
 source_lang: zh
-source_revision: sha256:afd09dd98e1305ea8d7a2acf590a8b9be194fa8709d47d3eaf97163859a6dcd8
-source_sha256: afd09dd98e1305ea8d7a2acf590a8b9be194fa8709d47d3eaf97163859a6dcd8
+source_revision: sha256:5eb8d7664a4a85be4b5050dea6508bf71c0003a94067d68fa9960094f270ec22
+source_sha256: 5eb8d7664a4a85be4b5050dea6508bf71c0003a94067d68fa9960094f270ec22
 translation_status: reviewed
 legacy_refs: []
 date_text: 23 April 1516
@@ -137,3 +137,9 @@ One: "Germany had the Reinheitsgebot in 1516." The 1516 rule was Bavarian; Germa
 - [Weihenstephaner Hefe Weissbier](ref:weihenstephan): a reference point for Bavarian monastic and wheat-beer traditions.
 
 **Short definition:** On 23 April 1516 Duke Wilhelm IV and Duke Ludwig X of Bavaria issued a Landesordnung at Ingolstadt requiring beer to be made from barley, hops and water. It was a Bavarian local ordinance, not a German national law, and yeast was not mentioned. Only in 1906 did its scope extend across Germany; it later became a powerful symbol of German brewing.
+
+## Related images
+
+![Related photograph of Weihenstephaner Hefe Weissbier](/media/photos/drink-germany-weihenstephaner-hefe-weissbier-bcee0d33.jpg)
+
+Image: Related photograph of Weihenstephaner Hefe Weissbier. Credit: JIP, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Weihenstephaner_Hefe_Weissbier_aboard_Viking_Mariella.jpg)). Related image for The 1516 Bavarian Reinheitsgebot: How a Local Ordinance Became a National Symbol.

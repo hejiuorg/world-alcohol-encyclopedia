@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:mexico-tequila-trail
 source_lang: zh
-source_revision: sha256:f66039c2a7c8fa612be2a93647c0556b675044e7512184dcf5fc417290409db9
-source_sha256: f66039c2a7c8fa612be2a93647c0556b675044e7512184dcf5fc417290409db9
+source_revision: sha256:b00c3ec2383595d036bc5049729fc50ae565e3130fb640591c110e4013c54a62
+source_sha256: b00c3ec2383595d036bc5049729fc50ae565e3130fb640591c110e4013c54a62
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -89,6 +89,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # Mexico Tequila Trail
 
 This route has only two stops, but together they cover the central questions of tequila: [Casa Herradura](ref:herradura) at Amatitlán and [Fortaleza](ref:fortaleza) in Tequila town. Both sit close together in Jalisco's volcanic lowlands, yet pull in opposite directions: estate scale, modern milling and standardised visits on one side; a tahona, wooden vats and two old copper stills on the other. A car or hired driver is practical, with tour slots and a sober driver settled first.
@@ -149,3 +150,13 @@ Do not drive after drinking. One drink can affect judgement, and these roads lea
 | Stop order | Casa Herradura: The Horseshoe Hacienda of Amatitán、Fortaleza: Relighting the 1873 Workshop |
 
 **Sources and limits.** The key claims about Mexico Tequila Trail are checked against the following sources: Consejo Regulador del Tequila, Tequila Herradura (Used to check the estate address, visit types, duration, prices, the 18-year age limit and online booking), Tequila Fortaleza. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Agave](/media/photos/ingredient-agave-6671c637.jpg)
+
+Image: Agave. Credit: Marc Ryckaert ( MJJR ), CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Agave_americana_R01.jpg)). Related image for Mexico Tequila Trail.
+
+![Photograph for Fortaleza: Relighting the 1873 Workshop: Fortaleza Arena. Credit: Fábio Lima/Portal da Copa/Março de 2013, CC BY 3.0, via Wikimedia Commons.](/media/photos/q2-place-destileria-fortaleza-00599785.jpg)
+
+Image: Relighting the 1873 Workshop: Fortaleza Arena. Credit: Fábio Lima/Portal da Copa/Março de 2013, CC BY 3.0, via Wikimedia Commons.. Credit: Fábio Lima/Portal da Copa/Março de 2013, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=25894204)). Related image for Mexico Tequila Trail.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:bordeaux-vintage-1982
 source_lang: zh
-source_revision: sha256:8a96a681b02829f021f4d3218272a5f5c536956d02db1a4f34ec0e529d05ecdd
-source_sha256: 8a96a681b02829f021f4d3218272a5f5c536956d02db1a4f34ec0e529d05ecdd
+source_revision: sha256:361647c99927c1f23180887d82f1c1befc30c36863ada5d361db5c818f2ffbd1
+source_sha256: 361647c99927c1f23180887d82f1c1befc30c36863ada5d361db5c818f2ffbd1
 translation_status: reviewed
 legacy_refs: []
 date_text: "1982"
@@ -137,3 +137,9 @@ One: "All 1982 Bordeaux was great." The vintage was broadly successful, but esta
 - [The 1976 Judgment of Paris](ref:paris): another cross-region comparison that changed the Bordeaux market narrative.
 
 [Bordeaux](ref:bordeaux) and [Wine](ref:wine) are the two useful reference points for The 1982 Bordeaux Vintage. [Bordeaux](ref:bordeaux) sets out date; [Wine](ref:wine) brings in place. Read them together.
+
+## Related images
+
+![Category image for "1976 Judgment of Paris: California wine beats French estates"](/media/photos/place-chateau-dyquem-7d20592f.jpg)
+
+Image: Category image for "1976 Judgment of Paris: California wine beats French estates". Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27Yquem.jpg)). Related image for The 1982 Bordeaux Vintage: How a Year Became a Turning Point in the Modern Wine Market.

@@ -31,8 +31,8 @@ tags:
 translation_of: place:cafe-majestic
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e8645fb7ad3e2082770dca28335af0815234fec44f925e5ace7b717243a0c6f0
-source_sha256: e8645fb7ad3e2082770dca28335af0815234fec44f925e5ace7b717243a0c6f0
+source_revision: sha256:28720bf280b8732d19b46b1802b381a587a7e2e6547bed237748271907c86b98
+source_sha256: 28720bf280b8732d19b46b1802b381a587a7e2e6547bed237748271907c86b98
 related:
   - relation: about
     target_id: place:els-quatre-gats
@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1922
 ---
+
 # Café Majestic
 
 Rua de Santa Catarina is one of Porto's busy pedestrian streets, crowded with shops, cafés and theatres. At number 112 a white marble facade appears, "MAJESTIC" above the door, brass handles and an old revolving door at the entrance. Inside are dark woodwork, mirrors, a carved ceiling and leather seats, then a glass conservatory linking Santa Catarina with the parallel Passos Manuel. Unlike the Paris cafés that look outward, it wraps the guest inside a 1920s Art Nouveau box.
@@ -163,3 +164,9 @@ Start with [Els Quatre Gats](ref:gats) for address and space, then read [Bar Hem
 | Official site | cafemajestic.com |
 
 **Sources and limits.** The key claims about Café Majestic are checked against the following sources: Café Majestic, Comércio com História, Travel Portugal Now (Used to cross-check the address, hours, space and guest description). For current products, addresses or opening status, use cafemajestic.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The brick facade, iron lanterns and "4 GATS" sign of Els Quatre Gats, Carrer de Montsió 3](/media/photos/place-els-quatre-gats-56f88aa3.jpg)
+
+Image: The brick facade, iron lanterns and "4 GATS" sign of Els Quatre Gats, Carrer de Montsió 3. Credit: Kent Wang from Barcelona, Spain, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Els_Quatre_Gats_(52057359477).jpg)). Related image for Café Majestic.

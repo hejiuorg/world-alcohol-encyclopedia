@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、参观批次与价格会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 路易亚都酒庄
 
 博讷城北的 Route de Savigny 上，一栋 19 世纪的宅邸与相连的发酵间、酒窖组成了路易亚都的日常。门口没有夸张的招牌，只有一块刻着“Maison Louis Jadot”的铜牌。它与罗曼尼康帝是两种完全不同的勃艮第：一边是极少数地块的独占与配额，另一边是从大区级到特级园、从自有园到收购葡萄的庞大酒商体系。理解路易亚都，关键不是“它是不是名庄”，而是“它如何把 200 多公顷葡萄园与上百个 appellation 组织成一个稳定的风格”。
@@ -154,3 +155,9 @@ verification_scope: source-verified
 - 本页不提供地图；参观与商店时间以官方渠道为准。
 
 对照阅读：[罗曼尼康帝酒庄](ref:drc)、[博讷主宫医院](ref:hospices)。
+
+## 相关图像
+
+![沃恩-罗曼尼的 Romanée-Conti 葡萄园石墙与坡地](/media/photos/place-domaine-de-la-romanee-conti-20955f3b.jpg)
+
+图：沃恩-罗曼尼的 Romanée-Conti 葡萄园石墙与坡地。图片：Arnaud 25，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Domaine_de_la_Roman%C3%A9e-Conti_02.JPG)）。关联图像：路易亚都酒庄。

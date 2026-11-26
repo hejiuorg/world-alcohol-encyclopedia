@@ -79,6 +79,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 卡瓦
 
 卡瓦（Cava）是[西班牙](ref:spain)以传统法酿造的[起泡酒](ref:sparkling-wine)法定产区。名称覆盖加泰罗尼亚佩内德斯及多处授权区域，主要品种为马卡贝奥、沙雷洛与帕雷亚达，常加入[霞多丽](ref:chardonnay)与[黑皮诺](ref:pinot-noir)。
@@ -167,3 +168,13 @@ verification_scope: source-verified
 - [发酵](ref:fermentation)：第一次发酵与瓶中二次发酵的基本逻辑。
 - [葡萄酒](ref:wine)：理解卡瓦的类别、年份与产地规则的入口。
 - [酒精度](ref:abv)：11.5%–12.5% vol 在标签上的含义。
+
+## 相关图像
+
+![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+
+图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：卡瓦。
+
+![歌海娜](/media/photos/variety-grenache-69c881eb.jpg)
+
+图：歌海娜。图片：Jules Troncy，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)）。关联图像：卡瓦。

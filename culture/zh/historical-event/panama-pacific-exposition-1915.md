@@ -88,6 +88,7 @@ rights:
   note: 第三方译本、图片与档案数字化内容不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 1915 年巴拿马太平洋万国博览会
 
 1915 年 2 月 20 日至 12 月 4 日，巴拿马太平洋万国博览会在美国旧金山举办，前后持续约 11 个月。它名义上纪念巴拿马运河开通，实际是展示工业、农业与殖民地商品的大型国际展会。中国以国家馆形式参展，酒类产品随之进入国际评比与报道，也在后来的中国酒史中被反复讲述。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 | 历法 | 公历 |
 
 **来源与边界。** 本页关于「1915 年巴拿马太平洋万国博览会」的关键事实，主要由以下来源交叉核对：Encyclopaedia Britannica（会期、举办城市与博览会背景）、U.S. National Archives（联邦参展与档案存藏情况）、新华网（1952 年评酒会与早期获奖叙事的关系）等 6 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![1952年全国评酒会：八大名酒与评选制度的起点类别配图](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
+
+图：1952年全国评酒会：八大名酒与评选制度的起点类别配图。图片：M. Weitzel，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tsingdao_Brewery.jpg)）。关联图像：1915 年巴拿马太平洋万国博览会。

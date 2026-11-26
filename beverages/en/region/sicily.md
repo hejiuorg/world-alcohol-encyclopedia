@@ -25,8 +25,8 @@ tags:
 translation_of: region:sicily
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e61fbf3b094d192f73f1d7cd92d1c61b1b89eb8941c54ca1c5d27f5837545e5c
-source_sha256: e61fbf3b094d192f73f1d7cd92d1c61b1b89eb8941c54ca1c5d27f5837545e5c
+source_revision: sha256:11f3bb609a8c1c37a6eeb521c70138f34bdd0b38292fb2bb25410dfc66419d3c
+source_sha256: 11f3bb609a8c1c37a6eeb521c70138f34bdd0b38292fb2bb25410dfc66419d3c
 related:
   - relation: about
     target_id: region:italy
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Sicily
 
 The largest Mediterranean island and one of Italy’s most productive wine regions; from Marsala fortified wine in the west to Mount Etna in the east, its range is huge, with Nero d’Avola, Catarratto, Grillo and Frappato at the core.![Sicily](/media/photos/region-sicily-6e979fe1.jpg)
@@ -165,3 +166,13 @@ Sicily ranges from Marsala in the west to Mount Etna in the east, with Nero d'Av
 | Level | province or region |
 | Parent | Italy |
 | Country code | IT |
+
+## Related images
+
+![Barbera](/media/photos/variety-barbera-e133d946.jpg)
+
+Image: Barbera. Credit: Agne27, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barbera_cluster.JPG)). Related image for Sicily.
+
+![Photograph for Italy: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-italy-202d4c25.jpg)
+
+Image: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=35825496)). Related image for Sicily.

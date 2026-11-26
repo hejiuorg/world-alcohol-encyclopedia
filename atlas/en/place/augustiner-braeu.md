@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: place:augustiner-braeu
 source_lang: zh
-source_revision: sha256:b7bf449b373ae307b54d7d7208ae9296e6b737c8b03d8cb92db9475945575fcb
-source_sha256: b7bf449b373ae307b54d7d7208ae9296e6b737c8b03d8cb92db9475945575fcb
+source_revision: sha256:0a1d636bc16d8b0a0c914c34c72f2d96c4e25e070080c52b20926378edbec79c
+source_sha256: 0a1d636bc16d8b0a0c914c34c72f2d96c4e25e070080c52b20926378edbec79c
 translation_status: reviewed
 subtype: brewery-visitor
 address: Landsberger Straße 31–35, 80339 Munich, Germany
@@ -159,3 +159,9 @@ If time is short, choose one place to drink: Braustuben for a quiet meal near th
 - [Lager](ref:lager): the technical difference between pale and dark lagers.
 - [Hofbräuhaus](ref:hofbrauhaus): another famous Munich beer hall, useful as a contrast with this brewery site.
 - [Why does a drink taste of a place?](ref:place-and-process): how origin, ingredients and process enter the glass.
+
+## Related images
+
+![Hefeweizen and kristallweizen, two treatments within the same wheat-beer family](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+Image: Hefeweizen and kristallweizen, two treatments within the same wheat-beer family. Credit: Ich, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)). Related image for Augustiner-Bräu.

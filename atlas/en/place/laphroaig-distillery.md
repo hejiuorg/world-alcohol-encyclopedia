@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:laphroaig-distillery
 source_lang: zh
-source_revision: sha256:ece4ae1ce0dab854c9c5e699062f03dca83fd4f2532bdec58e24c5125403331a
-source_sha256: ece4ae1ce0dab854c9c5e699062f03dca83fd4f2532bdec58e24c5125403331a
+source_revision: sha256:68d3cbd73ece13dfa6d55bcb7fa8984bc9894e67b28d76539747bc6bb7601036
+source_sha256: 68d3cbd73ece13dfa6d55bcb7fa8984bc9894e67b28d76539747bc6bb7601036
 translation_status: reviewed
 subtype: distillery-visitor
 address: Laphroaig Distillery, Port Ellen, Isle of Islay, Argyll PA42 7DU, Scotland, United Kingdom
@@ -176,3 +176,9 @@ With only one day, take a Laphroaig tour in the morning, eat in Port Ellen, then
 Laphroaig is a concrete entry point for understanding [Islay](ref:islay) and the [Scotch whisky](ref:scotch) industry; it shows how peat, sea air and warehouse maturation enter a spirit more directly than any flavour wheel. For the wider question of how a place gets into a drink, read [Why does a drink taste of a place?](ref:place-and-process).
 
 Further reading: [Scotland](ref:c-extra-1), [Whisky](ref:c-extra-2).
+
+## Related images
+
+![Category image for Scotland](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+Image: Category image for Scotland. Credit: Alan Jamieson, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)). Related image for Laphroaig Distillery.

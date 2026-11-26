@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:gekkeikan-okura-sake-museum
 source_lang: zh
-source_revision: sha256:9a7b371b832afa4423220411e9688d495cadb827ceca43a4b67475cede6ef8f4
-source_sha256: 9a7b371b832afa4423220411e9688d495cadb827ceca43a4b67475cede6ef8f4
+source_revision: sha256:194998d50974a99697dea7d28b2e660aa323d6fc13f8f9ec238f6bed891ab4a8
+source_sha256: 194998d50974a99697dea7d28b2e660aa323d6fc13f8f9ec238f6bed891ab4a8
 translation_status: reviewed
 subtype: museum
 address: 247 Minamihama-cho, Fushimi-ku, Kyoto 612-8660, Japan
@@ -164,3 +164,9 @@ Kyoto Station is about seven kilometres away, and neither the train nor the driv
 The Gekkeikan Okura Sake Museum is an entry point for understanding [Japan](ref:japan) and the styles of [sake](ref:sake); it places soft water, brewery architecture and brand history in one space. For the technical difference between sake and shochu, read [Sake and shochu: both Japanese, entirely different processes](ref:sake-and-shochu).
 
 Further reading: [Junmai sake](ref:c-extra-1), [A Ginjinha](ref:c-extra-2).
+
+## Related images
+
+![Category image for Japan](/media/photos/place-kamotsuru-a0074234.jpg)
+
+Image: Category image for Japan. Credit: OS6, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)). Related image for Gekkeikan Okura Sake Museum.

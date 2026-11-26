@@ -78,6 +78,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 教皇新堡
 
 教皇新堡（Châteauneuf-du-Pape）是[罗讷河谷](ref:rhone)南部、阿维尼翁以北的法定产区，葡萄园散布在罗讷河左岸的台地与丘陵之间。它给人的第一印象往往是“饱满、香料感强、酒精高”，但真正决定风格的，是鹅卵石台地的热量、密史脱拉风的干燥，以及以[歌海娜](ref:grenache)为骨架的混酿传统。
@@ -144,3 +145,13 @@ verification_scope: source-verified
 | 层级 | 其他 |
 | 所属 | 罗讷河谷 |
 | 国家代码 | FR |
+
+## 相关图像
+
+![罗讷河谷](/media/photos/region-rhone-df823b9c.jpg)
+
+图：罗讷河谷。图片：Béa at French Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Thain1.jpg)）。关联图像：教皇新堡。
+
+![歌海娜](/media/photos/variety-grenache-69c881eb.jpg)
+
+图：歌海娜。图片：Jules Troncy，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)）。关联图像：教皇新堡。

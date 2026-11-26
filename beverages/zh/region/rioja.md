@@ -88,6 +88,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 里奥哈
 
 里奥哈（Rioja）是[西班牙](ref:spain)北部埃布罗河上游的葡萄酒法定产区，以[丹魄](ref:tempranillo)为主。产区分为里奥哈阿尔塔、里奥哈阿拉韦萨与里奥哈东方三个子区，[红葡萄酒](ref:red-wine)按 Crianza、Reserva 与 Gran Reserva 分级陈年。
@@ -177,3 +178,13 @@ verification_scope: source-verified
 - [发酵](ref:fermentation)：葡萄酒酿造的基础环节。
 - [葡萄酒](ref:wine)：理解里奥哈的类别、年份与产地规则的入口。
 - [酒精度](ref:abv)：13%–14.5% vol 在标签上的含义。
+
+## 相关图像
+
+![“丹魄”页面配图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+图：Tempranillo grapes from Rioja Alavesa。摄影：María Jesús Tomé，CC BY 2.0，来自 Wikimedia Commons。。图片：María Jesús Tomé，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=16191821)）。关联图像：里奥哈。
+
+![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+
+图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：里奥哈。

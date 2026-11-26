@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink-style:fruit-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:03932babd6e510d9c8e36c8ce82c92fd06cccd6f44c43cffb7cd80b9e761cf2a
-source_sha256: 03932babd6e510d9c8e36c8ce82c92fd06cccd6f44c43cffb7cd80b9e761cf2a
+source_revision: sha256:f27344f1816252c65f685ebe82c55bcacca75b29a607bdca1972104df0506e62
+source_sha256: f27344f1816252c65f685ebe82c55bcacca75b29a607bdca1972104df0506e62
 legacy_refs: []
 aliases:
   - Fruit wine
@@ -141,3 +141,9 @@ Fruit wine is best read by starting with the production rule, moving to the stre
 - [Distillation](ref:distillation): the step that turns fermented fruit wine into fruit brandy.
 - [Liqueur](ref:liqueur): the neighbouring category built on a spirit base with sugar and flavouring.
 - [Brandy](ref:brandy): the broad family of fruit distillates.
+
+## Related images
+
+![Wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Image: Wine. Credit: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Related image for Fruit wine.

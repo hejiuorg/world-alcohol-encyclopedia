@@ -88,6 +88,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 米香型白酒
 
 米香型是中国白酒里最“轻”的一支：原料只有大米，曲是小曲，发酵走半固态，蒸馏用釜式，香气以乳酸乙酯与 β-苯乙醇为主。它没有浓香的窖泥、酱香的高温多轮次，也不像清香那样用低温大曲与地缸。理解米香型，关键是理解“少即是多”的工艺选择。
@@ -185,3 +186,9 @@ verification_scope: source-verified
 | 一句话定位 | 以大米为主要原料、小曲为糖化发酵剂，经半固态法发酵、蒸馏、陈酿与勾调而成，香气以乳酸乙酯与 β-苯乙醇为主体；现行标准为 GB/T 10781.3-2025，统一按 25.0%–68.0% vol 规定 |
 | 上位风格 | 白酒 |
 | 香气家族 | 米香 |
+
+## 相关图像
+
+![水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。](/media/photos/ingredient-water-edf289bf.jpg)
+
+图：水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。。图片：Jorge Barrios，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)）。关联图像：米香型白酒。

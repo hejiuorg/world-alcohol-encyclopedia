@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: variety:riesling
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:29221e6676bf2d6c111f45b02aa598ee48985f2e165067815d443cf39d0da3fc
-source_sha256: 29221e6676bf2d6c111f45b02aa598ee48985f2e165067815d443cf39d0da3fc
+source_revision: sha256:f58b0fc21f5308b9cd95d793128e342e2616715aedba421290314b81f36e37a3
+source_sha256: f58b0fc21f5308b9cd95d793128e342e2616715aedba421290314b81f36e37a3
 species: Vitis vinifera
 aliases:
   - Rhine Riesling
@@ -70,6 +70,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Riesling
 
 Riesling is one of the white varieties that most clearly expresses site. It has high acidity and clear aroma; when young it shows lime, green apple, white flowers and minerality, and with age it may develop honey and petrol notes. Its sweetness range is very wide, from dry to sweet, so sweetness information on the label deserves more attention than the variety name.
@@ -156,3 +157,9 @@ For Riesling, this variety was last checked in 2026; prices, batches and availab
 - [White wine](ref:white-wine): the basics of white winemaking and style.
 - [Sparkling wine](ref:sparkling): the role of Riesling in sparkling wine.
 - [France](ref:france): the regional background of Alsace Riesling.
+
+## Related images
+
+![Photograph for France: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.](/media/photos/q2-region-france-338f007d.jpg)
+
+Image: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.. Credit: Mustang Joe, CC0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/63234672@N04/13180177073)). Related image for Riesling.

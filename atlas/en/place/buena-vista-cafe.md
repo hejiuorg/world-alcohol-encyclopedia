@@ -32,8 +32,8 @@ tags:
 translation_of: place:buena-vista-cafe
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3b202ecc4238a86c6bf3d86fb85e97feee6d2401e77344f29b365099e2a6d0dd
-source_sha256: 3b202ecc4238a86c6bf3d86fb85e97feee6d2401e77344f29b365099e2a6d0dd
+source_revision: sha256:be442a9e98155f383a1a6db5dd0aee29c4ca825c2ce1d7f2f500df13e0b401cc
+source_sha256: be442a9e98155f383a1a6db5dd0aee29c4ca825c2ce1d7f2f500df13e0b401cc
 related:
   - relation: about
     target_id: cocktail:irish-coffee
@@ -145,3 +145,11 @@ Leave the café and walk along Hyde Street Pier to the San Francisco Maritime Na
 Read [Irish Coffee](ref:irish-coffee) for the address and space side of Buena Vista Café, and [Vesuvio Café](ref:vesuvio) for the operating status side. Together they locate it on a map.
 
 Checked on 2026-11-21: the address at 2765 Hyde Street, the cable-car line location and current opening arrangements were confirmed on the official site. Versions of Irish coffee and the claim that the café invented it are qualified in the body. Image credits and licences are given in the captions.
+
+## Related images
+
+![Irish coffee with hot coffee, Irish whiskey, brown sugar and lightly whipped cream.](/media/photos/cocktail-irish-coffee-b70b8eca.jpg)
+
+Image: Irish coffee with hot coffee, Irish whiskey, brown sugar and lightly whipped cream.. Credit: Andy Li, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Irish_Coffee_-_T_@_Hove_2023-09-07.jpg)). Related image for Buena Vista Café.
+
+Vesuvio Café, opened in 1948, is shown in a 2023 street view as a neighbouring North Beach reference.

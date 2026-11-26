@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kirishima-factory-garden
 source_lang: zh
-source_revision: sha256:3702b415dafaba81f945612a4daa272f9837e4077e2cb5b7a1b5a962f86e787c
-source_sha256: 3702b415dafaba81f945612a4daa272f9837e4077e2cb5b7a1b5a962f86e787c
+source_revision: sha256:fe29a4964e07da480c9b3bbc76b85eb629ba01618e3ccbaa1127e31a37320547
+source_sha256: fe29a4964e07da480c9b3bbc76b85eb629ba01618e3ccbaa1127e31a37320547
 translation_status: reviewed
 subtype: distillery-visitor
 address: 宮崎県都城市志比田町5480番地
@@ -150,3 +150,9 @@ To compare the factory garden with a traditional brewery, put Meijigura in Makur
 - [Kirishima Founder's Memorial Hall Kichisuke](https://www.kirishima-fg.jp/kichisuke/), Kirishima Factory Garden, checked for the 1924 founding office relocation.
 
 Page verified on 2026-11-09; hours, tour sessions and restaurant arrangements are subject to official channels.
+
+## Related images
+
+![Bottled examples of Amami kokuto shochu, a regional type of Japanese shochu.](/media/photos/drink-style-shochu-f0b3c090.jpg)
+
+Image: Bottled examples of Amami kokuto shochu, a regional type of Japanese shochu.. Credit: Hhaithait, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg)). Related image for Kirishima Factory Garden.

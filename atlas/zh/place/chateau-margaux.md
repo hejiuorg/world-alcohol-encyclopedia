@@ -94,6 +94,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观政策、价格与年份供应会变化，以官方预约为准。
 verification_scope: source-verified
 ---
+
 # 玛歌酒庄
 
 从 Bordeaux 往北，D2 公路穿过葡萄园与村庄，进入 Margaux 地界后，路两边的房子变矮，葡萄园变宽。玛歌酒庄的主楼不在路边，要拐进一条林荫车道，经过草地、树丛与低矮的附属建筑，才看到那座新帕拉第奥式的立面：四根 Ionic 柱、三角山花、石阶，以及前面一大片浅色的砾石空地。它看起来像一座乡间宅邸，而不是酒厂；但在这座宅邸背后，是波尔多最贵的红葡萄酒之一。
@@ -161,3 +162,9 @@ Pavillon Rouge 是更实用的日常选择：年轻年份开瓶 30–60 分钟�
 - 官方首页：<https://www.chateau-margaux.com/en/>，用于核对 Grand Vin、Pavillon Rouge、Pavillon Blanc 的产品结构。
 - 左岸对照：[Latour](ref:latour)、[Lafite](ref:lafite)、[Mouton](ref:mouton)、[Haut-Brion](ref:hautbrion)、[左岸酒庄路线](ref:route)。
 - 右岸与甜酒：[Cheval Blanc](ref:cheval)、[Pétrus](ref:petrus)、[Yquem](ref:yquem)、[波尔多产区](ref:bordeaux)。
+
+## 相关图像
+
+![从葡萄园与河口方向看拉图酒庄](/media/photos/place-chateau-latour-e53c6a7a.jpg)
+
+图：从葡萄园与河口方向看拉图酒庄。图片：Gilles Messian from Paris, France，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vue_sur_Ch%C3%A2teau_Latour_en_fin_de_journ%C3%A9e,_Pauillac,_France_(48030411248).jpg)）。关联图像：玛歌酒庄。

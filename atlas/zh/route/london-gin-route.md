@@ -76,6 +76,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-21
 ---
+
 # 伦敦金酒路线
 
 这条路线用两家酒吧读伦敦金酒：萨沃伊酒店的美式酒吧看 19 世纪末到 1930 年代的鸡尾酒传统，圣詹姆斯广场的杜克斯酒吧看一杯桌边调制的马天尼如何成为伦敦的仪式。全程步行约 1.5 公里，重点不是喝多少杯，而是比较同一瓶伦敦干金在不同酒吧里被如何对待。
@@ -142,3 +143,13 @@ updated_at: 2026-11-21
 | 站数 | 2 |
 | 交通 | walk |
 | 停靠顺序 | 萨沃伊美式酒吧、杜克斯酒吧 |
+
+## 相关图像
+
+![金酒](/media/photos/drink-style-gin-abe0a9c8.jpg)
+
+图：金酒。图片：Decatur Wine & Spirits，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)）。关联图像：伦敦金酒路线。
+
+![味美思](/media/photos/drink-style-vermouth-01fdb889.jpg)
+
+图：味美思。图片：Kenneth C. Zirkel，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Four_bottles_of_vermouth.jpg)）。关联图像：伦敦金酒路线。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:champagne
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fc407607128c1ec15481c4fcf6d7edc3b4f5ea6d400113cfc0d94ecc9d35f0c8
-source_sha256: fc407607128c1ec15481c4fcf6d7edc3b4f5ea6d400113cfc0d94ecc9d35f0c8
+source_revision: sha256:00c011b6c65c6ad3c88cf32a175abb3b764016f168fd750e9be9ee010d61ffc9
+source_sha256: 00c011b6c65c6ad3c88cf32a175abb3b764016f168fd750e9be9ee010d61ffc9
 level: other
 parent_id: region:france
 country_code: FR
@@ -87,6 +87,12 @@ sources:
     title: The Oxford Companion to Wine — Champagne and sub-region entries
     publisher: Oxford University Press
     note: Migrated from the former reference list at the end of the article; access date not re-verified.
+  - key: adv-comite-champagne
+    title: Comité Champagne — Champagne information
+    url: https://www.champagne.fr/en/
+    publisher: Comité Interprofessionnel du vin de Champagne
+    note: Used to check Champagne sub-regions, varieties, sweetness and labelling rules; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -94,6 +100,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Champagne
 
 Champagne is the [sparkling wine](ref:sparkling-wine) appellation of the Champagne region in northern France and the only legal home of the protected name Champagne. Vineyards surround Reims and Épernay and extend south to the Côte des Bar. The main varieties are [Chardonnay](ref:chardonnay), [Pinot Noir](ref:pinot-noir) and Pinot Meunier.
@@ -180,8 +187,36 @@ Fourth, believing only Chardonnay can make Champagne. Pinot Noir and Pinot Meuni
 Fifth, treating non-vintage Champagne as low quality. Non-vintage is a blending approach for consistency and is not tied to quality.
 Sixth, treating village classification as a wine rating. Grand cru and premier cru describe historical site reputation, not the level of every bottle.
 
+
+## Advanced judgment
+
+![Vineyard at Trépail, Montagne de Reims, Champagne](/media/photos/region-champagne-712da84c.jpg)
+
+Figure: Vineyard at Trépail on the Montagne de Reims, a typical Champagne landscape of chalk soil and slope aspect. Image: Havang(nl), CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tr%C3%A9pail,_vignes_au_pied_de_la_Montagne_de_Reims.JPG)).
+
+| Sub-region | Main grapes | Style clue |
+| --- | --- | --- |
+| Montagne de Reims | Pinot Noir dominant | Structure, red fruit, ageing potential |
+| Côte des Blancs | Chardonnay | Acidity, florals, minerality |
+| Vallée de la Marne | Meunier dominant | Fruit, suppleness, earlier drinking |
+| Southern vineyards | Chardonnay dominant | Lightness, freshness, value |
+
+**Is Blanc de Blancs always from the Côte des Blancs?** No. Blanc de Blancs means white grapes only, usually Chardonnay in Champagne, but the fruit can come from several sub-regions. The Côte des Blancs is a common source, not the only one.
+
+**Is non-vintage Champagne always inferior to vintage?** No. Non-vintage blends several years for consistency; vintage expresses one year. They serve different aims, not a quality hierarchy.
+
+**How should I choose a Champagne sweetness level?** Start with occasion and food: Brut suits most savoury dishes, Demi-Sec suits desserts and mild heat. Do not reduce “Brut” to “dry”; residual sugar varies between houses.
+
+Further reading: [Sparkling wine](ref:sparkling-wine) and [France](ref:france).
+
 ## Scope note
 
 This region describes the area, sub-regions, varieties, process and labelling rules of Champagne and does not assess individual estates or vintages. The parent region is [France](ref:france); Champagne wine pages record specific producers and products, separate from the region level covered here.
 
 **In brief:** A sparkling wine appellation in northern France, centred on Reims and Épernay, with vineyards in the Montagne de Reims, the Vallée de la Marne, the Côte des Blancs and the Côte des Bar to the south. It is made from Chardonnay, Pinot Noir and Pinot Meunier by the traditional method of in-bottle second fermentation, aged on the lees and labelled by sweetness level.
+
+## Related images
+
+![Moët & Chandon](/media/photos/drink-france-moet-5f14a8b9.jpg)
+
+Image: Moët & Chandon. Credit: Andreas Levers from Potsdam, Germany, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mo%C3%ABt_et_Chandon.jpg)). Related image for Champagne.

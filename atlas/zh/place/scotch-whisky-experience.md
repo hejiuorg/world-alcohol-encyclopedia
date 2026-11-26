@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、票价与展项会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 苏格兰威士忌体验中心
 
 苏格兰威士忌体验中心在爱丁堡城堡脚下、皇家一英里的顶端，地址是 354 Castlehill。它常被游客当成“爱丁堡的一个景点”，实际上更像一间关于苏格兰威士忌的常设展馆：没有糖化槽，也没有正在出酒的蒸馏器，而是用互动装置、导览与品鉴，把产区、工艺、法规和酒款串成一条完整叙事。1988 年开馆时，它由 19 家苏格兰威士忌公司共同出资设立，这个出身决定了它的立场——不是某一家品牌的陈列室，而是整个行业的展示窗口。
@@ -144,3 +145,9 @@ verification_scope: source-verified
 | 官网 | scotchwhiskyexperience.co.uk |
 
 **来源与边界。** 本页关于「苏格兰威士忌体验中心」的关键事实，主要由以下来源交叉核对：The Scotch Whisky Experience（城堡山地址、每日开放时段、导览类型与票价；1988 年开馆、19 家公司合资、代表行业比例与访客构成）。产品、地址或营业状态变化较快时，以 scotchwhiskyexperience.co.uk 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![苏格兰类别配图](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+图：苏格兰类别配图。图片：Alan Jamieson，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)）。关联图像：苏格兰威士忌体验中心。

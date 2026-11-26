@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:scotland-highlands-trail
 source_lang: zh
-source_revision: sha256:014e64d9574d7acbd384cefd8275566a6e4f5e28f6720ef89313ebb794a72358
-source_sha256: 014e64d9574d7acbd384cefd8275566a6e4f5e28f6720ef89313ebb794a72358
+source_revision: sha256:082ccd9b575fd9fe944b9bd853ba65451b45c1db0a28f5772ed8711774a25fc3
+source_sha256: 082ccd9b575fd9fe944b9bd853ba65451b45c1db0a28f5772ed8711774a25fc3
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -87,6 +87,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # Highlands whisky trail: Tain to the Drumochter pass
 
 The Highlands is the largest of Scotland's five protected whisky regions, running from the North Sea coast to the central mountains. Size means variety: two Highland distilleries can produce entirely different bodies. This route takes two, Glenmorangie by the Dornoch Firth and Dalwhinnie south of the Drumochter pass. They sit about two hours apart on the A9, one built around sea air and very tall stills, the other around elevation, worm tubs and a cold climate.
@@ -158,3 +159,13 @@ Further reading: [Highlands](ref:c-extra-1).
 | Stop order | Glenmorangie Distillery、Dalwhinnie Distillery |
 
 **Sources and limits.** The key claims about Highlands whisky trail: Tain to the Drumochter pass are checked against the following sources: Glenmorangie, Diageo / Malts, VisitScotland and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Single Malt Scotch Whisky](/media/photos/drink-style-single-malt-scotch-9e96a856.jpg)
+
+Image: Single Malt Scotch Whisky. Credit: Sansvase, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)). Related image for Highlands whisky trail: Tain to the Drumochter pass.
+
+![Pot still](/media/photos/term-pot-still-665ffa28.jpg)
+
+Image: Pot still. Credit: see Source, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sjb_whiskey_still.jpg)). Related image for Highlands whisky trail: Tain to the Drumochter pass.

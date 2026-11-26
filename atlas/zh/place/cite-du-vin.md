@@ -102,6 +102,7 @@ rights:
   note: 本页配图为 Flickr 的“cite du vin Bordeaux 2017”实拍照片，按 CC0 1.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 波尔多葡萄酒城
 
 波尔多葡萄酒城（La Cité du Vin）在加龙河左岸的巴卡朗码头 134 号，属于 Bassins à Flot 旧港区改造的一部分。它不是一座酒庄，也不是产区协会的陈列室，而是一座以“葡萄酒文明”为主题的城市文化设施。2016 年开馆，建筑由巴黎 XTU 建筑事务所的 Anouk Legendre 与 Nicolas Desmazieres 设计；官方把外形解释为葡萄藤、杯中旋转的酒液与加龙河涡流的结合，立面使用丝网印刷玻璃与穿孔铝板，随光线变化。这个定位决定了参观重点：展览把葡萄酒放在地理、历史、工艺、消费与艺术里，而不是把波尔多名庄排成一面墙。
@@ -164,3 +165,9 @@ verification_scope: source-verified
 补充阅读：[张裕酒文化博物馆](ref:c-extra-1)、[A Ginjinha](ref:c-extra-2)。
 
 相关条目：[葡萄酒](ref:wine)、[波尔多](ref:bordeaux)、[世界酒史纲：从发酵饮料到全球产业](ref:world-wine)。
+
+## 相关图像
+
+![项目配图：张裕酒文化博物馆](/media/photos/theme-winery.jpg)
+
+图：项目配图：张裕酒文化博物馆。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：波尔多葡萄酒城。

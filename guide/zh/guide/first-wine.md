@@ -79,6 +79,12 @@ sources:
     note: 参考其关于葡萄酒类型、产区与品种的条目；未复制原文。
     accessed: 2026-11-04
     url: https://global.oup.com/academic/product/the-oxford-companion-to-wine-9780198871316
+  - key: adv-wset
+    title: WSET — Wine education and tasting resources
+    url: https://www.wsetglobal.com/
+    publisher: Wine & Spirit Education Trust
+    note: 用于核对系统品鉴、侍酒温度与葡萄酒教学口径；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -157,6 +163,28 @@ verification_scope: source-verified
 ## 常见误区
 
 第一，把价格当成品质。第二，把年份越老当成越好。第三，认为甜酒就是劣质酒。第四，用红酒杯装所有酒。第五，开瓶后常温放置一周还继续喝。第六，只看正面标签，不看背标的生产者与进口信息。
+
+
+## 进阶判断
+
+![白葡萄酒品鉴杯](/media/photos/guide-first-wine-030c8359.jpg)
+
+图：白葡萄酒品鉴杯，第一瓶酒先从杯型、温度与闻香建立判断。图片：Tim Parkinson，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:White_wine_tasting_glass.jpg)）。
+
+| 场景 | 更稳的选择 | 要避开的坑 |
+| --- | --- | --- |
+| 独自入门 | 干型白葡萄酒或轻酒体红葡萄酒 | 高酒精、重橡木、只剩包装故事 |
+| 家常晚餐 | 酸度中等的白葡萄酒或易饮红葡萄酒 | 过甜、过重、与菜味互相遮盖 |
+| 送人 | 产区、年份、生产商清楚的酒 | 只买礼盒，不看酒液与储存 |
+| 餐厅 | 先按杯试，再决定整瓶 | 未试温度就开整瓶 |
+
+**第一瓶一定要红葡萄酒吗？** 不必。白葡萄酒通常更容易配菜，温度也更好控制；红葡萄酒的单宁与酒体更容易和口味重的菜冲突。先选你能喝完的一瓶，比选“看起来高级”的一瓶更重要。
+
+**年份越老越好吗？** 不是。大多数入门酒适合年轻时喝；只有结构、酸度和浓度足够的酒才值得陈年。储存温度、湿度与光照，比标签上的年份数字更能决定一瓶酒的状态。
+
+**超市酒一定差吗？** 不一定，但渠道越短、周转越快，酒的状态通常越可控。买之前看生产商、年份、进口商与背标，避开长期直立、受光或靠近热源的产品。
+
+延伸阅读：[葡萄酒](ref:wine)、[红葡萄酒](ref:red-wine)。
 
 ## 关联阅读
 

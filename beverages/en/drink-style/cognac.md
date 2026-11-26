@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:cognac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7e966bc3654f13e6ced8e639c4e3a529e0b48b3419c6aada33173005891496ee
-source_sha256: 7e966bc3654f13e6ced8e639c4e3a529e0b48b3419c6aada33173005891496ee
+source_revision: sha256:6c686f91b36819d073fec70efe88f65430e39a9b394e50857b8bbcdeafd3c89d
+source_sha256: 6c686f91b36819d073fec70efe88f65430e39a9b394e50857b8bbcdeafd3c89d
 legacy_refs: []
 parent_style_id: drink-style:brandy
 aroma_family: fruit/floral/oak
@@ -81,6 +81,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Cognac
 
 Cognac is not simply "premium brandy". It is a set of checks that can be performed one by one: which villages the grapes grew in, which varieties were used, when distillation happened, what shape the still had, how long the spirit sat in which barrel, and how old the youngest eau-de-vie in the blend is. Fail any one and the bottle may not carry the name. Read as a geographical indication rather than a brand, the picture gets much clearer.
@@ -160,3 +161,9 @@ Read [Brandy](ref:brandy) for the legal definition side of Cognac, and [Oak agei
 - [Ugni Blanc](ref:trebbiano): the dominant grape of Cognac.
 - [Cognac region](ref:cognac): boundaries, climate and soils.
 - [Appellation](ref:appellation): the entry point to AOC and GI systems.
+
+## Related images
+
+![Photograph for Trebbiano: Tuscany Vin Santo (holy wine) dried Trebbiano grapes. Credit: Gabriele Cantini, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-trebbiano-8254babe.jpg)
+
+Image: Tuscany Vin Santo (holy wine) dried Trebbiano grapes. Credit: Gabriele Cantini, CC BY 2.0, via Wikimedia Commons.. Credit: Gabriele Cantini, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=19365493)). Related image for Cognac.

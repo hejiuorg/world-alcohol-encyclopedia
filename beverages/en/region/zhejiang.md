@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:zhejiang
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8bf49d9d5afa072cad6ccee29b67dfb1952939d10610e479f3edce41cd882cb7
-source_sha256: 8bf49d9d5afa072cad6ccee29b67dfb1952939d10610e479f3edce41cd882cb7
+source_revision: sha256:784b39aa33fdc7c170176893349e8c1a2bc2117d6f970709b13888ddd60ff931
+source_sha256: 784b39aa33fdc7c170176893349e8c1a2bc2117d6f970709b13888ddd60ff931
 level: province
 parent_id: region:china
 country_code: CN
@@ -88,6 +88,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Zhejiang Province
 
 Zhejiang lies on the south-east coast of China, on the southern wing of the Yangtze delta, with plains, hills and islands. In the map of alcoholic drinks it is the core yellow wine region: [Shaoxing](ref:shaoxing) on the Shaoxing plain brews with glutinous rice, wheat qu and Jian Lake water to make the Jiafan, Yuanhong, Shanniang and Xiangxue families, while Jinhua and Huzhou keep traditions of their own. This region describes the province-level region and its industry; process detail is left to the Shaoxing page.
@@ -154,3 +155,13 @@ A frequent error is to treat Zhejiang Province as an administrative place name. 
 - [Water](ref:water): Jian Lake and local sources in the style.
 - [Qu making](ref:qu-making) and [fermentation](ref:fermentation): wheat qu and jar fermentation.
 - [GB/T 13662-2018, Yellow wine](ref:gbt-13662-2018): the general product standard.
+
+## Related images
+
+![Glutinous rice](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+Image: Glutinous rice. Credit: 국립국어원, CC BY-SA 2.0 kr, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)). Related image for Zhejiang Province.
+
+![Shaoxing](/media/photos/region-shaoxing-e9a43f19.jpg)
+
+Image: Shaoxing. Credit: Zhangzhugang, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)). Related image for Zhejiang Province.

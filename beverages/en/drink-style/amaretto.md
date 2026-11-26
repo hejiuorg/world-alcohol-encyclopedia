@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:amaretto
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:634fe701a20e4ca8b179231360132b2554a302668ffda198f8bf30b194ca3747
-source_sha256: 634fe701a20e4ca8b179231360132b2554a302668ffda198f8bf30b194ca3747
+source_revision: sha256:8ebbb6b89792b15d8f45f8bafd5b8aee6370ee215608809252e53002b9ceaa96
+source_sha256: 8ebbb6b89792b15d8f45f8bafd5b8aee6370ee215608809252e53002b9ceaa96
 related:
   - relation: about
     target_id: drink-style:liqueur
@@ -151,3 +151,9 @@ When buying, read the back label first: whether the flavour source is almond, ap
 Drinks close to amaretto share kernel maceration and sweet-liqueur craft: [liqueur](ref:liqueur) is the broad family it belongs to, [italy](ref:italy) is the background of Saronno, Veneto and Brescia production, [maceration](ref:maceration) draws kernel aroma into the liquid, [distillation](ref:distillation) prepares the base spirit, and [proof-and-abv](ref:proof) is the easiest parameter to compare on the label. To learn a liqueur style, start with the standard benchmark, then a variant that changes an ingredient or sweetness, then an extreme example; the boundary becomes clearer than from definitions alone.
 
 - Related: [liqueur](ref:liqueur), [italy](ref:italy), [maceration](ref:maceration), [distillation](ref:distillation), [proof-and-abv](ref:proof).
+
+## Related images
+
+![An Old Rip Van Winkle bourbon bottle and label; a real example of how strength and proof are declared, not a hydrometer or measuring instrument](/media/photos/term-proof-and-abv-bfb3bc09.jpg)
+
+Image: An Old Rip Van Winkle bourbon bottle and label; a real example of how strength and proof are declared, not a hydrometer or measuring instrument. Credit: Joe Hall from Oakland, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Old_Rip_Van_Winkle_Whiskey_301243232.jpg)). Related image for Amaretto.

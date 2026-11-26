@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:barossa-wine-trail
 source_lang: zh
-source_revision: sha256:5241ba18735a353b3892e343669b183a2456cf7820430158245d443de9857435
-source_sha256: 5241ba18735a353b3892e343669b183a2456cf7820430158245d443de9857435
+source_revision: sha256:c007f4f855743572cf55eb05fc26d2cd45458cba23863907cb4b21f6ed7431fd
+source_sha256: c007f4f855743572cf55eb05fc26d2cd45458cba23863907cb4b21f6ed7431fd
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -148,3 +148,13 @@ Both stops need bookings, but the rhythm differs: Magill releases cellar door an
 ## References
 
 This route was checked against Penfolds' Magill Estate cellar door page, contact page and brand history, Henschke's contact page and family history, and Wine Australia's Barossa Valley material. Page verified 2026-11-09. Opening hours, experience prices, booking rules and wines change, so check each official channel.
+
+## Related images
+
+![Related photograph of Penfolds Magill Estate](/media/photos/place-penfolds-magill-estate-1196d528.jpg)
+
+Image: Related photograph of Penfolds Magill Estate. Credit: Bahnfrend, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Penfolds_Magill_Estate,_2014(2).JPG)). Related image for Barossa wine trail: Magill Estate to Eden Valley.
+
+![Photograph for Henschke: Henschke Ruth Stolperstein Magdeburg. Credit: Adnon, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-place-henschke-95496df3.jpg)
+
+Image: Henschke Ruth Stolperstein Magdeburg. Credit: Adnon, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Adnon, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=90422028)). Related image for Barossa wine trail: Magill Estate to Eden Valley.

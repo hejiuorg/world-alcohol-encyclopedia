@@ -101,6 +101,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观安排、酒款与年份声明会变化，以酒庄官方回复为准。
 verification_scope: source-verified
 ---
+
 # 诺瓦尔酒庄
 
 诺瓦尔酒庄（Quinta do Noval）在葡萄牙杜罗河谷皮尼昂（Pinhão）附近的 Vale de Mendiz，地址是 Quinta do Noval, Vale de Mendiz, 5085-110 Pinhão。它是一座以葡萄园命名的波特酒庄，酒庄自称是唯一仍以自家葡萄园命名历史波特酒商。名字在 1715 年就出现在土地登记里，但今天人们谈论的诺瓦尔，更多是 1894 年重建后的样子：片岩梯田、石 lagar 里的足踩发酵、长时间的木桶陈年，以及那块名为 Nacional 的未嫁接老藤地。
@@ -158,3 +159,9 @@ Nacional 不是另一座酒厂，而是诺瓦尔葡萄园核心的一小块地�
 把这站放进杜罗行程时，可以对照下游的[克拉斯托](ref:crasto)，看两家酒庄如何处理片岩、老藤与波特酒；再读[杜罗](ref:douro)与[波特](ref:porto)两个产区条目，理解为什么历史上的酒液要顺河运到波尔图；工艺上则可延伸阅读[波特酒](ref:port)、[加强](ref:fortification)与[天使份额](ref:angels)。
 
 对照阅读：[克拉斯托酒庄](ref:crasto)、[波特](ref:porto)。
+
+## 相关图像
+
+![克拉斯托酒庄类别配图](/media/photos/region-douro-fd8dc772.jpg)
+
+图：克拉斯托酒庄类别配图。图片：Vitor Oliveira from Torres Vedras, PORTUGAL，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Rio_Douro_-_Portugal_(32615481975)_(cropped).jpg)）。关联图像：诺瓦尔酒庄。

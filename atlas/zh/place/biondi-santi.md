@@ -95,6 +95,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；参观、年份与价格会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 比昂迪-桑蒂酒庄
 
 从蒙塔希诺镇往东北，路在柏树与橄榄林之间上升，最后进入 Greppo 的院子。这里的房子不高，墙上有爬藤，酒窖还是 19 世纪的样子。比昂迪-桑蒂不是一座“城堡酒庄”，它更像一个把时间藏在地下的家族农庄：1888 年，Ferruccio Biondi Santi 在这里产出首批正式标为 Brunello di Montalcino 的酒；今天，酒庄仍以 100% Sangiovese Grosso、老藤与大型斯拉沃尼亚橡木桶陈年为核心。
@@ -168,3 +169,9 @@ Brunello 建议 16–18°C。年轻酒提前 1–2 小时开瓶，或换瓶一�
 关于比昂迪-桑蒂酒庄，本页不绘制参观地图；开放时间、年份与价格以酒庄官网为准。
 
 对照阅读：[安东尼世家经典基安蒂酒庄](ref:antinori)、[费尔西纳庄园](ref:felsina)。
+
+## 相关图像
+
+![安东尼世家酒庄的螺旋楼梯与几何空间](/media/photos/place-antinori-nel-chianti-classico-78daa3d3.jpg)
+
+图：安东尼世家酒庄的螺旋楼梯与几何空间。图片：Repuli，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Angoli_e_geometrie.jpg)）。关联图像：比昂迪-桑蒂酒庄。

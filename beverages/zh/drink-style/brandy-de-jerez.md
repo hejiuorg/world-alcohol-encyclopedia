@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 赫雷斯白兰地
 
 赫雷斯白兰地（Brandy de Jerez）是西班牙安达卢西亚赫雷斯产区受地理标志保护的葡萄酒蒸馏白兰地，以本地葡萄酒蒸馏后，在曾装雪莉酒的美国橡木桶中经 solera 动态系统陈年；风格从年轻果香的 Solera 到陈年复杂的 Solera Gran Reserva 不等，带香草、干果、柑橘、烟草与坚果气息。
@@ -153,3 +154,9 @@ Fundador 是赫雷斯白兰地最具代表性的品牌之一，隶属 Grupo Empe
 学习一类白兰地，可以先喝最标准的基准款，再试一个换等级或桶型的变体，最后接触一个长陈极端款；三步之后，风格边界会比读定义更清楚。
 
 - 相关条目：[brandy](ref:brandy)、[sherry](ref:sherry)、[solera](ref:solera)、[oak-ageing](ref:oak)、[spain](ref:spain)。
+
+## 相关图像
+
+![赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。](/media/photos/drink-style-sherry-876c72cd.jpg)
+
+图：赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。。图片：Anual，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lustau_003An2019.jpg)）。关联图像：赫雷斯白兰地。

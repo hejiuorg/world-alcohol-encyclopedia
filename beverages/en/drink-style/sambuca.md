@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:sambuca
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:debdb0f8ba5edf00778095cd8a75df05219c7ccb2256dca8bf3a6c62bd7db8c0
-source_sha256: debdb0f8ba5edf00778095cd8a75df05219c7ccb2256dca8bf3a6c62bd7db8c0
+source_revision: sha256:44013ad2fb472fce48fbdf0f401f4bb6e1354fcf18727b7d9652adfe922becc1
+source_sha256: 44013ad2fb472fce48fbdf0f401f4bb6e1354fcf18727b7d9652adfe922becc1
 related:
   - relation: about
     target_id: drink-style:liqueur
@@ -149,3 +149,9 @@ To get to know sambuca, start with a classic clear 38% bottling neat, then compa
 Start with the production rule. From there, consider the strength, then the usual serving. That is how a practical judgment about Sambuca is built.
 
 [Liqueur](ref:liqueur) and [Distillation](ref:distillation) are the nearest useful comparisons: one clarifies legal definition, the other tests materials and process.
+
+## Related images
+
+![An Old Rip Van Winkle bourbon bottle and label; a real example of how strength and proof are declared, not a hydrometer or measuring instrument](/media/photos/term-proof-and-abv-bfb3bc09.jpg)
+
+Image: An Old Rip Van Winkle bourbon bottle and label; a real example of how strength and proof are declared, not a hydrometer or measuring instrument. Credit: Joe Hall from Oakland, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Old_Rip_Van_Winkle_Whiskey_301243232.jpg)). Related image for Sambuca.

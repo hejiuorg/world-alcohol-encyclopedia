@@ -84,6 +84,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 大麦酒
 
 大麦酒（Barleywine）是英国传统中的超浓艾尔，以极高的麦芽浓度、较高的酒精度、饱满酒体与明显的陈年潜力为特征。它叫 wine 只是形容强度与饮用方式，原料仍是[大麦](ref:barley)，不是葡萄。英式大麦酒与美式大麦酒共享这个名称，却在酒花、色泽与平衡上分歧明显。
@@ -139,3 +140,9 @@ Barley wine 这个词在 19 世纪的英国出现，用来描述强度接近葡�
 **来源与边界。** 本页关于「大麦酒」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（英式与美式大麦酒的强度、苦度、色度与陈年描述）、Fuller, Smith & Turner（伦敦酒厂历史与烈性艾尔产品线的公开信息）、Oxford University Press（提供关于大麦酒起源、Bass No. 1 与英式烈性艾尔的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「大麦酒」与「英式艾尔」、「帝国世涛」、「淡色艾尔」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![淡色艾尔](/media/photos/drink-style-pale-ale-587ad907.jpg)
+
+图：淡色艾尔。图片：https://www.flickr.com/photos/cogdog/，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:THAT_Brewery_Bearfoot_Pale_Ale.jpg)）。关联图像：大麦酒。

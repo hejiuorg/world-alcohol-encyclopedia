@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 黑达沃拉
 
 西西里最重要的红葡萄，颜色深、单宁中高，带黑莓、黑樱桃、李子与香料；在 Noto、Vittoria 与 Etna 周边表现不同，常与弗拉帕托混酿。
@@ -147,3 +148,9 @@ Cerasuolo di Vittoria 是西西里唯一的 DOCG，位于拉古萨与卡尔塔�
 比较这个品种最直接的方式，是同年份试一支 Cerasuolo di Vittoria 混酿、一支 Noto 单一品种与一支 Etna 或 Regaleali 山地款，对照酸度、果香与单宁粗细。它与 [terroir](ref:terroir) 层面的火山土与山地风土、[oak-ageing](ref:oak) 桶陈选择、[vintage](ref:vintage) 带来的成熟度差异密切相关，也可与弗拉帕托等混酿伙伴的条目对照阅读。
 
 - 相关条目：[sicily](ref:sicily)、[red-wine](ref:red)、[terroir](ref:terroir)、[oak-ageing](ref:oak)、[vintage](ref:vintage)。
+
+## 相关图像
+
+![Sicily：Old Inzolia vine in vineyard Dietro le Case, Menfi, Sicily（Wikimedia Commons）](/media/photos/region-sicily-6e979fe1.jpg)
+
+图：Sicily：Old Inzolia vine in vineyard Dietro le Case, Menfi, Sicily（Wikimedia Commons）。图片：Marilena.CantineBarbera，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Old_Inzolia_vine_in_vineyard_Dietro_le_Case,_Menfi,_Sicily.jpg)）。关联图像：黑达沃拉。

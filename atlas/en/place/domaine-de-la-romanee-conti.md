@@ -39,8 +39,8 @@ tags:
 translation_of: place:domaine-de-la-romanee-conti
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:99887119ee96f3f494c38f33fc39c9c88496cebf764a97a30c26f7abf4ccafbe
-source_sha256: 99887119ee96f3f494c38f33fc39c9c88496cebf764a97a30c26f7abf4ccafbe
+source_revision: sha256:d20e135375913eb7c3ba5c29e8915b2236a38db3968acb276e24d20273e16f13
+source_sha256: d20e135375913eb7c3ba5c29e8915b2236a38db3968acb276e24d20273e16f13
 related:
   - relation: about
     target_id: place:louis-jadot
@@ -157,3 +157,9 @@ For a half day, look at Romanée-Conti and La Tâche, stop at the outside of Ch�
 - Regional comparisons: [Louis Jadot](ref:jadot), [Château de Meursault](ref:meursault), [Hospices de Beaune](ref:hospices), [Burgundy grands crus drive](ref:route).
 - Background: [Burgundy](ref:burgundy).
 - For the wider method of how land enters wine, see the project’s place-and-process entry. This entry provides no map and does not encourage unauthorised filming inside the estate.
+
+## Related images
+
+![The Maison Louis Jadot plaque on Route de Savigny in Beaune](/media/photos/place-louis-jadot-7af969ef.jpg)
+
+Image: The Maison Louis Jadot plaque on Route de Savigny in Beaune. Credit: GFreihalter, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Beaune_Maison_Louis_Jadot_535.jpg)). Related image for Domaine de la Romanée-Conti.

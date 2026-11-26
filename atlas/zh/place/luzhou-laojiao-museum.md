@@ -156,3 +156,9 @@ verification_scope: source-verified
 - 泸州老窖景区旅游攻略 — 泸州本地宝 — http://m.luzhou.bendibao.com/tour/5894.shtm（泸州本地宝，核对 2026-11-25）
 
 相关条目：[泸州老窖窖池群](ref:cellars)、[泸州老窖路线](ref:route)、[泸州老窖](ref:brand)、[泸州老窖集团](ref:producer)、[浓香型白酒](ref:style)、[四川省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![泸州老窖](/media/photos/brand-luzhou-laojiao-0e97e137.jpg)
+
+图：泸州老窖。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)）。关联图像：泸州老窖博物馆（国窖广场）。

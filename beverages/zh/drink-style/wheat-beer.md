@@ -82,6 +82,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 小麦啤酒
 
 小麦啤酒（wheat beer）指以小麦在谷物配方中占较大比例、经上层发酵酿成的啤酒。德国的小麦啤酒以丁香与香蕉酯香、瓶内二次发酵为标志；比利时的 witbier 以橙皮与芫荽籽调味；美国小麦艾尔则更清淡、强调干净与易饮。小麦带来的蛋白质与淀粉特性，直接影响酒体、泡沫与浑浊度。
@@ -157,3 +158,9 @@ verification_scope: source-verified
 **适用边界。** 对「小麦啤酒」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
 
 **更新提示。** 「小麦啤酒」最近核对于 2026-11-05；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
+
+## 相关图像
+
+![比利时类别配图](/media/photos/place-de-halve-maan-46bc86b4.jpg)
+
+图：比利时类别配图。图片：Falk2，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:J33_542_Walplein,_%C2%BBDe_halve_Maan%C2%AB.jpg)）。关联图像：小麦啤酒。

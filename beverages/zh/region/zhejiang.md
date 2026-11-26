@@ -87,6 +87,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 浙江省
 
 浙江省位于中国东南沿海、长江三角洲南翼，境内平原、丘陵与海岛交错。在酒类版图上，浙江是黄酒最核心的产区：绍兴平原上的[绍兴](ref:shaoxing)以糯米、麦曲与鉴湖水酿酒，形成加饭、元红、善酿、香雪等产品体系；金华与湖州也有各自的黄酒传统。本页从省级尺度描述范围与产业，工艺细节以绍兴页为准。
@@ -153,3 +154,13 @@ verification_scope: source-verified
 **并读。** 把「浙江省」与「中国」、「绍兴市」、「黄酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「浙江省」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![绍兴市](/media/photos/region-shaoxing-e9a43f19.jpg)
+
+图：绍兴市。图片：Zhangzhugang，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)）。关联图像：浙江省。
+
+![水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。](/media/photos/ingredient-water-edf289bf.jpg)
+
+图：水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。。图片：Jorge Barrios，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)）。关联图像：浙江省。

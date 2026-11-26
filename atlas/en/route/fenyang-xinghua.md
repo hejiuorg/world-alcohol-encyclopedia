@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:fenyang-xinghua
 source_lang: zh
-source_revision: sha256:47965f60eeb18382a50d9008d356b7a44f4434a060a9aac91754396ccfce7fb7
-source_sha256: 47965f60eeb18382a50d9008d356b7a44f4434a060a9aac91754396ccfce7fb7
+source_revision: sha256:bd9ee0a682bc33a22b78fc126d0b8df5ee8997c3a0446c9743d429f221fe5528
+source_sha256: bd9ee0a682bc33a22b78fc126d0b8df5ee8997c3a0446c9743d429f221fe5528
 translation_status: reviewed
 stop_ids:
   - place_id: place:fenjiu-museum
@@ -154,3 +154,13 @@ Alternative: see only the Fenjiu museum and old workshop and book nearby distill
 - Fenjiu Group history — Xinghua Village site and museum — https://www.fenjiu.com.cn/developmentHistory/index.html (Shanxi Xinghuacun Fenjiu Group, checked 2026-11-25)
 
 Related entries: [Fenjiu Museum](ref:museum), [Xinghua Village (Fenyang)](ref:village), [Fenjiu](ref:brand), [light-aroma baijiu](ref:style), [Shanxi](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Shanxi](/media/photos/region-shanxi-f5edb84f.jpg)
+
+Image: Shanxi. Credit: Underbar dk, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Yanmenguan3.JPG)). Related image for Fenyang Route: Fenjiu and Xinghua Village.
+
+![The 1915 Panama-Pacific exposition gold medal held by the Fenjiu Museum](/media/photos/place-fenjiu-museum-efad0f85.webp)
+
+Image: The 1915 Panama-Pacific exposition gold medal held by the Fenjiu Museum. Credit: 汾酒集团文化中心, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E8%A5%BF%E6%B1%BE%E9%85%92%E8%8D%A3%E8%8E%B71915%E5%B9%B4%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E7%9A%84%E2%80%9C%E4%B8%80%E7%AD%89%E9%87%91%E8%B4%A8%E5%A4%A7%E5%A5%96%E7%AB%A0%E2%80%9D_%E6%B1%BE%E9%85%92%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F.png)). Related image for Fenyang Route: Fenjiu and Xinghua Village.

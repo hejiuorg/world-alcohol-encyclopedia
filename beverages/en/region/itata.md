@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:itata
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7da155450c51325be028a682b1144becee8ddcc3c195b6ace8cceb1ef225fb91
-source_sha256: 7da155450c51325be028a682b1144becee8ddcc3c195b6ace8cceb1ef225fb91
+source_revision: sha256:59a9b7c12f9d17323cd04bd1223d243a7238f354908e6ccd646cf53679ce4af4
+source_sha256: 59a9b7c12f9d17323cd04bd1223d243a7238f354908e6ccd646cf53679ce4af4
 level: other
 parent_id: region:chile
 country_code: CL
@@ -102,6 +102,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Itata Valley
 
 The Itata Valley is a traditional wine region in southern Chile, known for old-vine País, Moscatel and Cinsault. It is not part of the Central Valley but a sub-region of the Sur region, with a cooler climate, more rain and many dry-farmed vineyards.
@@ -203,3 +204,13 @@ For Itata Valley, begin with the appellation and its permitted varieties, then t
 - [Vintage](ref:vintage): vintage variation and rainfall in the Itata Valley.
 - [Single varietal](ref:single-varietal): the variety labelling share.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Itata Valley.
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for Itata Valley.

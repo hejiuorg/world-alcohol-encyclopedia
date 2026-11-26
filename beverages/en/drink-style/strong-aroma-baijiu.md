@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink-style:strong-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4db93d24c724a845b34a2174a3bbfc99c864ec4ea71a3e07aa6acb1586339004
-source_sha256: 4db93d24c724a845b34a2174a3bbfc99c864ec4ea71a3e07aa6acb1586339004
+source_revision: sha256:ca4e6342e00d5b9829d7a3e1a449f815c0ba0b569885ee4d5e7decbd72a33122
+source_sha256: ca4e6342e00d5b9829d7a3e1a449f815c0ba0b569885ee4d5e7decbd72a33122
 parent_style_id: drink-style:baijiu
 aroma_family: strong aroma
 legacy_refs: []
@@ -76,6 +76,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Strong-aroma baijiu
 
 Strong-aroma baijiu is one style within [baijiu](ref:baijiu) and one of the most widely produced and consumed types in the Chinese market. GB/T 10781.1-2021, Quality requirements for baijiu — Part 1: Strong-aroma baijiu, sets out terminology, requirements and testing rules for this category. Understanding the style means understanding the combination of mud pit, continuous grain topping and mixed steaming, not simply memorising the phrase "rich pit aroma".![Strong-aroma baijiu image](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
@@ -141,3 +142,9 @@ Fifth, ignoring the label. The standard, raw materials, producer and region are 
 - [Distillation](ref:distillation): technical background for mixed steaming and spirit extraction.
 - [Luzhou Laojiao](ref:luzhoulaojiao): a product page representing Sichuan strong aroma.
 - [Wuliangye](ref:wuliangye): a product page representing the multi-grain strong-aroma style.
+
+## Related images
+
+![Luzhou Laojiao](/media/photos/drink-sichuan-luzhoulaojiao-0e97e137.jpg)
+
+Image: Luzhou Laojiao. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)). Related image for Strong-aroma baijiu.

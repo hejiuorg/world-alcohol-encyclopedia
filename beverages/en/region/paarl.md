@@ -24,8 +24,8 @@ tags:
 translation_of: region:paarl
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5ce3a4aedf234a68e546d365d3ea39d0df9f93544c1fc4f1bf750fa6f779b370
-source_sha256: 5ce3a4aedf234a68e546d365d3ea39d0df9f93544c1fc4f1bf750fa6f779b370
+source_revision: sha256:149bd2922450a0e2e1bd4f1c9052cddde00a80cdcff986162645dd5bb27d0ce5
+source_sha256: 149bd2922450a0e2e1bd4f1c9052cddde00a80cdcff986162645dd5bb27d0ce5
 related:
   - relation: about
     target_id: region:south-africa
@@ -98,6 +98,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Paarl
 
 Paarl is a wine district in the Western Cape, about 60 kilometres northeast of Cape Town, with the Berg River running through a valley framed by the Drakenstein and Paarl granite mountains. It is known for Pinotage, Chenin Blanc, Cabernet Sauvignon, Shiraz and Chardonnay, and holds historic estates including KWV, Nederburg and Fairview, making it one of the Winelands’ most historically dense and concentrated districts.
@@ -166,3 +167,13 @@ Paarl town is about an hour from Cape Town and sits at the Winelands’ hub towa
 Most estates run tasting rooms; popular sites such as Fairview fill up on weekends and at harvest, so booking ahead is advisable. Harvest falls in the Southern Hemisphere February to March, when some estates hold vintage events. A tasting takes about an hour, so two or three stops plus lunch in a day is comfortable. Without a car, join a wine tour departing Cape Town or Paarl town. Stay out of working vineyards and fermentation rooms, and do not drive after tasting.
 
 - Related: [south-africa](ref:south-africa), [pinotage](ref:pinotage), [chenin-blanc](ref:chenin), [red-wine](ref:red), [white-wine](ref:white).
+
+## Related images
+
+![Pinotage](/media/photos/variety-pinotage-5dc171a5.jpg)
+
+Image: Pinotage. Credit: Please note: This photo can be reproduced. Please quote the source as indicated below: Doris Schneider, Julius Kühn-Institut (JKI), Federal Research Centre for , CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:VIVC9286_PINOTAGE_Full_plant_3638.jpg)). Related image for Paarl.
+
+![Photograph for South Africa: Vineyards in the Cederberg - South Africa. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+
+Image: Vineyards in the Cederberg - South Africa. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=4647540)). Related image for Paarl.

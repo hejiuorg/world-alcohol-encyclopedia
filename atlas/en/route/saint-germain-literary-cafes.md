@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: route:saint-germain-literary-cafes
 source_lang: zh
-source_revision: sha256:ee412e288e0eb8478f5cd439bdc1c5034f8560420f1210d024403e18dd80d7aa
-source_sha256: ee412e288e0eb8478f5cd439bdc1c5034f8560420f1210d024403e18dd80d7aa
+source_revision: sha256:c08c73e3e0828278b3c65247a9671b26d1c31362446c83961eafe5b82581a04b
+source_sha256: c08c73e3e0828278b3c65247a9671b26d1c31362446c83961eafe5b82581a04b
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -85,6 +85,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # Saint-Germain-des-Prés literary cafés: a half-day walk
 
 This route has only two stops, both in the 6th arrondissement of Paris: Les Deux Magots first, then Café de Flore. The two are very close together, almost on opposite sides of the same street corner, so it is not a box-ticking dash but a half-day in which you can sit down, watch the quarter and read a few pages.
@@ -152,3 +153,13 @@ Further reading: [Reading a city through its bars](ref:c-extra-1), [Beyond the b
 | Stop order | Les Deux Magots、Café de Flore |
 
 **Sources and limits.** The key claims about Saint-Germain-des-Prés literary cafés: a half-day walk are checked against the following sources: Les Deux Magots (Used to check the address, opening year and visiting information; Used to check the 1884 founding and the 140th-anniversary page; no source text reproduced), Café de Flore (Used to check the address and visiting information; Used to check the Prix de Flore, founded in 1994, and recent winners; no source text reproduced), Office de Tourisme de Paris (Used to check the background of the Saint-Germain-des-Prés quarter and its café culture). Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Les Deux Magots](/media/photos/place-les-deux-magots-262de577.jpg)
+
+Image: Les Deux Magots. Credit: Cheng-en Cheng from Taichung City, Taiwan, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Les_Deux_Magots,_25_September_2019.jpg)). Related image for Saint-Germain-des-Prés literary cafés: a half-day walk.
+
+![Café de Flore](/media/photos/place-cafe-de-flore-11d5edba.jpg)
+
+Image: Café de Flore. Credit: Celette, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore,_172_boulevard_Saint-Germain,_Paris_6e.jpg)). Related image for Saint-Germain-des-Prés literary cafés: a half-day walk.

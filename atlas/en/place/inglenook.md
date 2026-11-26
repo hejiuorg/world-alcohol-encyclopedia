@@ -40,8 +40,8 @@ tags:
 translation_of: place:inglenook
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:66e507290f43ce43185f7d889d7bf0fc2389211969010980cb2d798b98255d41
-source_sha256: 66e507290f43ce43185f7d889d7bf0fc2389211969010980cb2d798b98255d41
+source_revision: sha256:ac8521516e4feeaa576acd149d9f165f10b9f75a6109301a61b7ed19484e026f
+source_sha256: ac8521516e4feeaa576acd149d9f165f10b9f75a6109301a61b7ed19484e026f
 related:
   - relation: about
     target_id: region:napa-valley
@@ -96,6 +96,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; hours, tasting fees and reservation policies may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Inglenook
 
 Rutherford sits in the middle of Napa Valley, where Highway 29 runs between long vineyards and low stone walls. Inglenook’s entrance is a tree-lined drive ending at an 1882 stone chateau, with a fountain, lawn and tall oaks in front. It looks like a European manor, but the story is American: a Finnish sea captain bought the land in 1879 and applied the capital and discipline of shipping to a winery. In the mid-twentieth century the estate was split, sold and renamed, until the Coppola family bought the pieces back one by one. Today it is both a historic building and a working winery; keep the chateau and the vineyard separate, because the first is memory and the second is wine.![Main staircase at Inglenook](/media/photos/place-inglenook-37b752e4.jpg)
@@ -153,3 +154,9 @@ Read [Napa Valley](ref:napa) for the address and space side of Inglenook, and [C
 | Official site | inglenook.com |
 
 **Sources and limits.** The key claims about Inglenook are checked against the following sources: Inglenook (1991 St Helena Highway, Rutherford, CA 94573, the telephone and reservation line; RC Reserve Syrah, Rutherford, 20 months in oak, 35% new oak and Coppola family management), Napa Valley Vintners. For current products, addresses or opening status, use inglenook.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Cabernet Sauvignon: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+Image: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13318021)). Related image for Inglenook.

@@ -94,6 +94,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；酒庄不开放公众参观，所有权与年份供应会变化。
 verification_scope: source-verified
 ---
+
 # 柏图斯酒庄
 
 柏图斯没有一座可以拍照的城堡。它在 Pomerol 台地的边缘，地址是 3 route de Lussac；门口只有低矮的围墙、几栋农舍式的建筑、一个圆顶的小塔与一块写着 “PETRVS” 的牌子。葡萄园从墙外一直铺到地平线，深色的黏土在雨天会反光。它看起来像一座普通的农场，却是世界上最贵、最稀缺的 Merlot 之一。
@@ -166,3 +167,9 @@ verification_scope: source-verified
 - Cazebonne 深度档案：<https://cazebonne.fr/en/bordeaux-wine-estates/petrus>，用于交叉核对无 cellar door、2018 年 20% 股份、2008 年 Berrouet 与 2014 年新酒窖。
 - 右岸对照：[Cheval Blanc](ref:cheval)、[Yquem](ref:yquem)、[波尔多产区](ref:bordeaux)。
 - 左岸对照：[Margaux](ref:margaux)、[Latour](ref:latour)、[Haut-Brion](ref:hautbrion)、[Lafite](ref:lafite)、[左岸酒庄路线](ref:route)。
+
+## 相关图像
+
+![白马酒庄的老庄主楼](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
+
+图：白马酒庄的老庄主楼。图片：Benjamin Zingg, Switzerland，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)）。关联图像：柏图斯酒庄。

@@ -72,6 +72,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 梅酒
 
 梅酒（umeshu）是把青梅、糖与酒一起放进容器浸渍而成的[日本](ref:japan)甜味利口酒。它不经过发酵，酒精来自基酒，梅子负责酸度、香气与颜色，糖则把酸味托住。成品通常呈浅金色到琥珀色，酒精度在 10% 到 15% 之间，入口甜酸，带明显的杏仁与蜂蜜气息。它与“梅子发酵酒”不是一回事，也不是简单的梅子泡酒。
@@ -143,3 +144,9 @@ verification_scope: source-verified
 补充阅读：[修道院啤酒](ref:c-extra-1)。
 
 相关条目：[利口酒](ref:liqueur)、[日本烧酒](ref:shochu)、[残糖（residual sugar）](ref:residual-sugar)。
+
+## 相关图像
+
+![奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。](/media/photos/drink-style-shochu-f0b3c090.jpg)
+
+图：奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。。图片：Hhaithait，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg)）。关联图像：梅酒。

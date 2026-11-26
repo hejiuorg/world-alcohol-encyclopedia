@@ -82,6 +82,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 馥郁香型白酒
 
 馥郁香型喜欢用一句话介绍自己：“前浓、中清、后酱”。这六个字不是三种香型随意拼贴，而是一条饮用时的时间轴：入口先感到浓香的饱满与窖香，中段转向清香的干净与爽利，收口再出现酱香的焦糊与陈味。要把这条时间轴做出来，靠的是小曲与大曲并用、泥窖发酵与清蒸混入的组合。
@@ -170,3 +171,9 @@ verification_scope: source-verified
 | 一句话定位 | 以粮谷为原料，小曲与大曲并用，经泥窖固态发酵、清蒸混入、陈酿与勾调而成，具有“前浓、中清、后酱”的复合风格；现行标准为 GB/T 10781.11-2021，酒精度 25.0%–68.0% vol |
 | 上位风格 | 白酒 |
 | 香气家族 | 复合香 |
+
+## 相关图像
+
+![大米](/media/photos/ingredient-rice-0ee2019c.jpg)
+
+图：大米。图片：China News Service，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg)）。关联图像：馥郁香型白酒。

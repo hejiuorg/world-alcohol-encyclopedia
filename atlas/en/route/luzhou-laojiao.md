@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:luzhou-laojiao
 source_lang: zh
-source_revision: sha256:0c54d2dca2e36ffbdaa68919db964e42a86408c6c7e62010a75751518af48d6c
-source_sha256: 0c54d2dca2e36ffbdaa68919db964e42a86408c6c7e62010a75751518af48d6c
+source_revision: sha256:8705f20c02941b0d1bb3e801e0f64f935e50b2a1a30248762e5c2cbb2f71e916
+source_sha256: 8705f20c02941b0d1bb3e801e0f64f935e50b2a1a30248762e5c2cbb2f71e916
 translation_status: reviewed
 stop_ids:
   - place_id: place:luzhou-laojiao-museum
@@ -154,3 +154,13 @@ Alternative: see only the museum and the riverfront old town, and book a separat
 - Luzhou Laojiao scenic area guide — Luzhou Bendibao — http://m.luzhou.bendibao.com/tour/5894.shtm (Luzhou Bendibao, checked 2026-11-25)
 
 Related entries: [Luzhou Laojiao Museum (Guojiao Square)](ref:museum), [Luzhou Laojiao cellars](ref:cellars), [Luzhou Laojiao](ref:brand), [strong-aroma baijiu](ref:style), [Sichuan](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Luzhou Laojiao](/media/photos/brand-luzhou-laojiao-0e97e137.jpg)
+
+Image: Luzhou Laojiao. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)). Related image for Luzhou Laojiao Route: Guojiao Square to Living Pits.
+
+![Strong-aroma baijiu](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
+
+Image: Strong-aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Luzhou Laojiao Route: Guojiao Square to Living Pits.

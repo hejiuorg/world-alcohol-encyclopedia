@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:dong-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1b950cfe571b973ee5b7fed55b64860dc8d672e1b16ac5fd2d012c1ec3943bac
-source_sha256: 1b950cfe571b973ee5b7fed55b64860dc8d672e1b16ac5fd2d012c1ec3943bac
+source_revision: sha256:12ff9141ffdbfeb8608962da2eafc1080bbf25cdb90cb19fb57cc2f8593aa3ae
+source_sha256: 12ff9141ffdbfeb8608962da2eafc1080bbf25cdb90cb19fb57cc2f8593aa3ae
 legacy_refs: []
 aliases:
   - Dong aroma baijiu
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Dong aroma baijiu
 
 Dong aroma baijiu, also called medicinal aroma baijiu, is one of the aroma styles in baijiu classification, represented by Dongjiu from Guizhou. Its identity comes from adding a range of herb materials to qu making, plus a process that uses both large qu and small qu and co-distils two mashes. Guizhou local standard DB52/T 550-2013, Dong aroma baijiu, sets the origin, raw materials, process and quality indices for this style.
@@ -160,3 +161,9 @@ Start with the production rule. From there, consider the strength, then the usua
 - [Qu making](ref:qu-making): the principles of combining large and small qu with herbs.
 - [Fermentation](ref:fermentation): how vessel, temperature and rounds shape a compound aroma.
 - [Distillation](ref:distillation): co-distillation of two mashes and graded collection.
+
+## Related images
+
+![Sorghum](/media/photos/ingredient-sorghum-879ae613.jpg)
+
+Image: Sorghum. Credit: No machine-readable author provided. Pethan assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg)). Related image for Dong aroma baijiu.

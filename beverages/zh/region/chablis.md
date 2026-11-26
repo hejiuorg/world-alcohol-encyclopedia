@@ -77,6 +77,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 夏布利
 
 夏布利（Chablis）是[勃艮第](ref:burgundy)最北端的白葡萄酒产区，位于约讷省的塞兰河（Serein）河谷，葡萄园约 5800 公顷。它只以[霞多丽](ref:chardonnay)酿造[白葡萄酒](ref:white-wine)，以偏凉气候下的高酸度与矿物感著称。与金丘不同，这里没有复杂的村庄与园地拼图，而是清晰的四级结构：小夏布利、夏布利、一级园与特级园。
@@ -147,3 +148,13 @@ verification_scope: source-verified
 | 层级 | 其他 |
 | 所属 | 勃艮第 |
 | 国家代码 | FR |
+
+## 相关图像
+
+![“勃艮第”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：夏布利。
+
+![霞多丽](/media/photos/variety-chardonnay-efde6838.jpg)
+
+图：霞多丽。图片：Jenavive at English Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)）。关联图像：夏布利。

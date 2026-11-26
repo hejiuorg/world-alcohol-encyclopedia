@@ -108,6 +108,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；票价、时段与酒款会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 布兰迪葡萄酒庄
 
 布兰迪葡萄酒庄（Blandy's Wine Lodge）在丰沙尔市中心，地址是阿拉加街 28 号。它属于马德拉葡萄酒公司，是布兰迪家族七代人经营马德拉酒的据点。这里不种葡萄，而是把岛上各地送来的酒液陈年、调配、装瓶、品鉴和出售；对游客来说，它也是理解马德拉酒“受热陈年”最方便的一站。走进大门，先闻到的是旧木桶、焦糖和海风混在一起的味道。
@@ -163,3 +164,9 @@ verification_scope: source-verified
 | 城市/国家 | 丰沙尔 / 葡萄牙 |
 | 营业状态 | 已核验营业 |
 | 官网 | blandyswinelodge.com |
+
+## 相关图像
+
+![恩里克斯与恩里克斯酒庄类别配图](/media/photos/q2-region-madeira-7efe42cf.jpg)
+
+图：恩里克斯与恩里克斯酒庄类别配图。图片：anagh，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=53715566)）。关联图像：布兰迪葡萄酒庄。

@@ -79,6 +79,7 @@ rights:
   note: 第三方年表、法令文本与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 日本清酒近代化：酒税、试验所与级別
 
 清酒的“近代化”不是单一发明或单一法令，而是一组并行的变化：国家把酒税变成稳定财源，税法重新定义谁能酿造、酿多少、按什么周期结算；研究机构把发酵从师徒经验变成可分析、可教学的工艺；瓶装、铁路与商标让清酒进入全国市场；级別与表示制度则不断改写消费者判断品质的方式。这些变化从明治初年延伸到平成初年，前后超过一个世纪。
@@ -153,3 +154,9 @@ verification_scope: source-verified
 补充阅读：[1855年波尔多分级：一张为世博会赶出的名单](ref:c-extra-1)、[1952年全国评酒会：八大名酒与评选制度的起点](ref:c-extra-2)。
 
 相关条目：[日本](ref:japan)、[清酒](ref:sake)、[日本酒造组合中央会：清酒、烧酎与味醂的行业组织](ref:jsa)。
+
+## 相关图像
+
+![清酒](/media/photos/drink-style-sake-c84f8e77.jpg)
+
+图：清酒。图片：Intforce，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Overflowing_sake_glass_in_masu.jpg)）。关联图像：日本清酒近代化：酒税、试验所与级別。

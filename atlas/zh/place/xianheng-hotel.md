@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、菜单、房价与活动会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 咸亨酒店
 
 绍兴鲁迅中路 179 号，门口是一块白底黑字的“咸亨酒店”横匾，檐下是青瓷坛与蓝边碗，柜台呈曲尺形，柜端立着“太白遗风”的青龙牌。很多游客来这里，是为了看一眼《孔乙己》里“温两碗酒，要一碟茴香豆”的场景；但咸亨酒店并不是一座把小说封存起来的纪念馆，它同时是酒店、餐厅、宴会场所与旅游地标。理解这一点，才不会在推开大门后发现“怎么和课文里不一样”。
@@ -151,3 +152,9 @@ verification_scope: source-verified
 咸亨酒店是理解[黄酒](ref:yellow-wine)的一条生活入口：酒不是陈列品，而是配茴香豆、臭豆腐与绍兴菜的日常饮料。它所在的[绍兴](ref:shaoxing)是黄酒核心产区，把这家店放回[中国](ref:china)的稻作、水网与礼俗里，会更容易理解“温一碗酒”为什么是一种城市习惯。想读更长的历史脉络，可以继续看[黄酒史](ref:yellow-history)。
 
 补充阅读：[A Ginjinha](ref:c-extra-1)。
+
+## 相关图像
+
+![绍兴市](/media/photos/region-shaoxing-e9a43f19.jpg)
+
+图：绍兴市。图片：Zhangzhugang，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)）。关联图像：咸亨酒店。

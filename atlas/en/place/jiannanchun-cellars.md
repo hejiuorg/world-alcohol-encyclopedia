@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:jiannanchun-cellars
 source_lang: zh
-source_revision: sha256:39377bbabcb9b6b2c4c5e071b883f363afdc0b61dc1650af3e059a8b7c8708e9
-source_sha256: 39377bbabcb9b6b2c4c5e071b883f363afdc0b61dc1650af3e059a8b7c8708e9
+source_revision: sha256:e4048ee32d350101e05c683e036dfc50f6a2612ecff1e15873f80e66fdabb1ff
+source_sha256: e4048ee32d350101e05c683e036dfc50f6a2612ecff1e15873f80e66fdabb1ff
 translation_status: reviewed
 subtype: distillery-visitor
 address: Jiannanchun campus, Mianzhu, Deyang, Sichuan, China
@@ -69,24 +69,24 @@ sources:
     title: 绵竹市人民政府 — 美丽绵竹
     url: https://www.mz.gov.cn/meilimianzhu.htm
     publisher: 绵竹市人民政府
-    note: 用于核对绵竹的地理位置、酒业与年画等城市信息；未复制原文。
+    note: 用于核对绵竹的地理位置、酒业与年画等城市信息；未复制原文.
     accessed: 2026-11-25
   - key: jnc-about
     title: 剑南春 — 关于剑南春
     url: https://www.jnc.cn/about
     publisher: 四川剑南春（集团）有限责任公司
-    note: 用于核对剑南春的产地、历史与浓香型白酒工艺的公开介绍；未复制原文。
+    note: 用于核对剑南春的产地、历史与浓香型白酒工艺的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: deyang-gov
     title: 德阳市人民政府
     url: https://www.deyang.gov.cn/
     publisher: 德阳市人民政府
-    note: 用于核对绵竹属德阳代管的行政区划与公开城市信息；未复制原文。
+    note: 用于核对绵竹属德阳代管的行政区划与公开城市信息；未复制原文.
     accessed: 2026-11-25
   - key: gb2260
     title: GB/T 2260-2007 中华人民共和国行政区划代码
     publisher: 国家标准化管理委员会
-    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文。
+    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -102,7 +102,7 @@ Mianzhu was already known for “Jiannan spring-burnt” liquor in the Tang dyna
 
 ![Jiannanchun Workshop Site (Tianyi Laohao) bilingual editorial visual card](/media/figures/specific/place-jiannanchun-cellars.svg)
 
-图：Jiannanchun Workshop Site (Tianyi Laohao) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Jiannanchun Workshop Site (Tianyi Laohao) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers interested in traditional strong-aroma pits and workshop spaces; pairs with Mianzhu New Year pictures, Deyang or Chengdu.
@@ -154,9 +154,17 @@ This page does not cover the whole Jiannanchun estate. To see modern bottling li
 
 ## References
 
-- 绵竹市人民政府 — 美丽绵竹 — https://www.mz.gov.cn/meilimianzhu.htm (绵竹市人民政府, checked 2026-11-25)
-- 剑南春 — 关于剑南春 — https://www.jnc.cn/about (四川剑南春（集团）有限责任公司, checked 2026-11-25)
-- 德阳市人民政府 — https://www.deyang.gov.cn/ (德阳市人民政府, checked 2026-11-25)
-- GB/T 2260-2007 中华人民共和国行政区划代码 (国家标准化管理委员会, checked 2026-11-25)
+- mz.gov.cn — official source — https://www.mz.gov.cn/meilimianzhu.htm (checked 2026-11-25)
+- jnc.cn — official source — https://www.jnc.cn/about (checked 2026-11-25)
+- deyang.gov.cn — official source — https://www.deyang.gov.cn/ (checked 2026-11-25)
+- Official source — official source —  (checked 2026-11-25)
 
 Related entries: [Mianzhu New Year Picture Village](ref:village), [Mianzhu Jiannanchun route](ref:route), [Jiannanchun](ref:brand), [Jiannanchun Group](ref:producer), [strong-aroma baijiu](ref:style), [Sichuan](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Photograph for Jiannanchun: 剑南春酒坊遗址国保碑. Credit: Nekitarc, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-brand-jiannanchun-47515a5f.jpg)
+
+Image: 剑南春酒坊遗址国保碑. Credit: Nekitarc, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Nekitarc, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=44292018)). Related image for Jiannanchun Workshop Site (Tianyi Laohao).
+
+The administrative division reference is the 2007 edition of GB/T 2260.

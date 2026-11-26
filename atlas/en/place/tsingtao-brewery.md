@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:tsingtao-brewery
 source_lang: zh
-source_revision: sha256:6d719f9b3427d8b312d74e3e116e47c6ee83486e1e67c40964a34c3ec35ace06
-source_sha256: 6d719f9b3427d8b312d74e3e116e47c6ee83486e1e67c40964a34c3ec35ace06
+source_revision: sha256:40f2b6a76cd1c20465a6a7ae3d8f4c352fec3fd22e4e13b11d3a1ea4a42674d1
+source_sha256: 40f2b6a76cd1c20465a6a7ae3d8f4c352fec3fd22e4e13b11d3a1ea4a42674d1
 translation_status: reviewed
 subtype: brewery-visitor
 address: 56 Dengzhou Road, Shibei District, Qingdao, Shandong, China
@@ -141,3 +141,9 @@ The Dengzhou Road plant grounds the German lager tradition of [beer](ref:lager) 
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Tsingtao Brewery (Dengzhou Road plant) is built.
 
 The comparison with [Beer](ref:beer) and [Tsingtao Brewery Company Limited](ref:producer) runs through address and space and operating status. Each answers a different question.
+
+## Related images
+
+![Tsingtao Beer](/media/photos/drink-shandong-tsingtao-37e48279.jpg)
+
+Image: Tsingtao Beer. Credit: Lennartbj, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_in_Qingdao.jpg)). Related image for Tsingtao Brewery (Dengzhou Road plant).

@@ -25,8 +25,8 @@ tags:
 translation_of: region:santa-barbara
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c75012c3ec271649c5a2a6c4bb3773d63d7387ba13daa48db6aac0a018414bbb
-source_sha256: c75012c3ec271649c5a2a6c4bb3773d63d7387ba13daa48db6aac0a018414bbb
+source_revision: sha256:467a1d5fe3f4f87cf257dace8a7bde2dcf14c3b94713adf8b5dc662a85141ff9
+source_sha256: 467a1d5fe3f4f87cf257dace8a7bde2dcf14c3b94713adf8b5dc662a85141ff9
 related:
   - relation: about
     target_id: region:usa
@@ -175,3 +175,13 @@ Most tasting rooms have a bar and restaurant. Arrive on time for appointments an
 - Related: [usa](ref:usa), [pinot-noir](ref:pinot), [chardonnay](ref:chardonnay), [white-wine](ref:white), [red-wine](ref:red).
 
 [United States](ref:usa) and [Chardonnay](ref:chardonnay) are the nearest useful comparisons: one clarifies geographic boundary, the other tests climate and soil.
+
+## Related images
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Santa Barbara County.
+
+![Category image for United States](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+Image: Category image for United States. Credit: Luke, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)). Related image for Santa Barbara County.

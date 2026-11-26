@@ -24,8 +24,8 @@ tags:
 translation_of: route:willamette-valley-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cd1cad9b4dc79cee4950dde9f02a07ed8b71f66f005f68bf4eb4fb496b174150
-source_sha256: cd1cad9b4dc79cee4950dde9f02a07ed8b71f66f005f68bf4eb4fb496b174150
+source_revision: sha256:8367ecca3e0556bb9033496b5fb1e95722374b40186f08aa20a46e7d0821317a
+source_sha256: 8367ecca3e0556bb9033496b5fb1e95722374b40186f08aa20a46e7d0821317a
 related:
   - relation: about
     target_id: place:domaine-drouhin-oregon
@@ -48,6 +48,8 @@ references:
     target_id: drink-style:red-wine
   - key: pinot
     target_id: variety:pinot-noir
+  - key: drouhin
+    target_id: place:domaine-drouhin-oregon
 sources:
   - key: wv-board
     title: Willamette Valley — Oregon Wine Board
@@ -61,6 +63,12 @@ sources:
     publisher: Willamette Valley Wineries Association
     note: Used to verify wine-estate maps, routes and visitor information; no source text is reproduced.
     accessed: 2026-11-21
+  - key: willamette-valley
+    title: "Willamette Valley — official tourism website"
+    url: "https://www.willamettevalley.org/"
+    publisher: "Willamette Valley Visitors Association"
+    note: "Used to check Willamette Valley regions, towns and route context; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -75,6 +83,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-21
 ---
+
 # Willamette Valley Wine Route
 
 A drive south from Portland anchored on two Dundee Hills estates, Domaine Drouhin Oregon and The Eyrie Vineyards: Burgundy capital arriving in 1987 in the morning, David Lett’s original 1965 blocks in the afternoon — the two starting points of Oregon Pinot in one day. The loop is about 100 kilometres and works by car, forty minutes from Portland.
@@ -130,6 +139,48 @@ Allow about forty-five minutes from Portland to Drouhin, twenty-five minutes fro
 Book tastings at both estates, especially weekends and peak season; neither handles large walk-in groups well, so email ahead for more than six people. Spit into the spit bucket and keep driving tastings to one or two; Eyrie’s tasting room is small, so leave large luggage and strollers behind, and Drouhin’s outdoor steps and slopes call for proper shoes.
 
 This route does not draw a map or provide live prices; roads, hours and booking rules change, so check both estate websites and the Oregon Wine Board before leaving. If an estate closes unexpectedly, do not force it — put old-town McMinnville or Carlton in the plan and the day still works.
+
+
+## Decision table: how to split the day
+
+| Segment | Time | Drive | Stop | Best for |
+| --- | --- | --- | --- | --- |
+| Portland → Dundee Hills | 9:00–9:45 | about 45 min | — | self-drive, same-day return |
+| Domaine Drouhin Oregon | 9:45–12:00 | — | about 2 h 15 min | comparing Dundee Hills with Eola-Amity Hills |
+| Lunch: Dundee / Dayton | 12:00–13:30 | — | about 1 h 30 min | everyone |
+| Dundee → McMinnville | 13:30–13:55 | about 25 min | — | self-drive |
+| The Eyrie Vineyards | 13:55–15:30 | — | about 1 h 30 min | seeing the 1965 origin and old vines |
+| McMinnville old town / Carlton | 15:30–17:30 | 20–30 min | about 2 h | an extra tasting or a walk |
+| Return to Portland | 17:30–18:30 | about 1 h | — | same-day return |
+
+Both wineries require bookings; this is a “two is just right, three is rushed” route, not a checklist.
+
+## Related images
+
+![Category image for The Eyrie Vineyards](/media/photos/region-willamette-valley-2f0dfd25.jpg)
+
+Image: Category image for The Eyrie Vineyards. Credit: Rvannatta ( talk · contribs ) Image edits: Peteforsyth ( talk · contribs ), CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wvatbethel1.jpg)). Related image for Willamette Valley Wine Route.
+
+![Pinot Noir](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+Image: Pinot Noir. Credit: Cjp24, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)). Related image for Willamette Valley Wine Route.
+
+## Frequently asked questions
+
+### Is one day enough?
+
+Yes, for two wineries. Give Drouhin and Eyrie 1.5–2 hours each; with lunch and driving, the day is full. For a third winery, stay overnight in Dundee or McMinnville and put Yamhill-Carlton or Eola-Amity Hills on day two.
+
+### What if I do not have a car?
+
+Public transport is sparse and ride-hailing between wineries is unreliable; do not rely on buses alone. Book a driver, join a small tour or arrange transfers in advance, and fix the two winery times. Anyone drinking should not drive.
+
+### How do I book the wineries?
+
+Both require advance booking. Drouhin tastings are usually 10:00–15:00; check Eyrie’s official page for slots and rules. Do not arrive without a booking. State the party size, whether you want a tasting and whether you need a guide, and confirm the cancellation policy.
+
+> **Next:** Read [Domaine Drouhin Oregon](ref:drouhin) and [Eyrie](ref:eyrie) to understand the two estates, then the [Willamette Valley](ref:willamette) region and [Pinot Noir](ref:pinot) pages for the terroir context.
+
 
 ## Further reading and see also
 

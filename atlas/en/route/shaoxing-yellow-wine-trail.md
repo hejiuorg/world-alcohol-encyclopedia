@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:shaoxing-yellow-wine-trail
 source_lang: zh
-source_revision: sha256:5243a4c3cbb841cefc99596fd445091558cb06255b3ec28438f6af004639737c
-source_sha256: 5243a4c3cbb841cefc99596fd445091558cb06255b3ec28438f6af004639737c
+source_revision: sha256:9c7fdcb0005e50744c99bf75949d6e723afc7e5f4a59313dd0c0ed148c128cb5
+source_sha256: 9c7fdcb0005e50744c99bf75949d6e723afc7e5f4a59313dd0c0ed148c128cb5
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -168,3 +168,13 @@ Set drinking boundaries in advance. The museum and cellar are for visiting, not 
 This route puts the history, table and warehouse of yellow wine into one day: the museum for the system, Xianheng for daily life, the cellar for time. For background, read the entries on the [China Yellow Wine Museum](ref:museum), [Xianheng Hotel](ref:xianheng) and [Guyuelongshan](ref:guyuelongshan). With only half a day, keep the museum and Xianheng.
 
 Opening hours, tickets, menus and bookings follow official channels; pages verified 2026-11-08.
+
+## Related images
+
+![Photograph for China Yellow Wine Museum: Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925. Credit: Daderot, CC0, via Wikimedia Commons.](/media/photos/q2-place-china-yellow-wine-museum-bcbf374a.jpg)
+
+Image: Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925. Credit: Daderot, CC0, via Wikimedia Commons.. Credit: Daderot, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=152459715)). Related image for Shaoxing Yellow Wine Trail: museum, Xianheng and the central cellar.
+
+![Xianheng Hotel](/media/photos/place-xianheng-hotel-329475b5.jpg)
+
+Image: Xianheng Hotel. Credit: Jiong Sheng, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)). Related image for Shaoxing Yellow Wine Trail: museum, Xianheng and the central cellar.

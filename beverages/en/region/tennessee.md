@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:tennessee
 source_lang: zh
-source_revision: sha256:20d9844f7ad7300df71fe5e33fbe7ef411a31f7734debc05064406417c168a0a
-source_sha256: 20d9844f7ad7300df71fe5e33fbe7ef411a31f7734debc05064406417c168a0a
+source_revision: sha256:4bd54d3f232e88de7a11657f8c34cff43302b2cb2d7228304cd542bd832de30f
+source_sha256: 4bd54d3f232e88de7a11657f8c34cff43302b2cb2d7228304cd542bd832de30f
 translation_status: reviewed
 level: province
 parent_id: region:usa
@@ -83,6 +83,7 @@ rights:
   note: Third-party regulations, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Tennessee
 
 Tennessee is a state in the south-central United States and the legal home of [Tennessee whiskey](ref:tennessee-whiskey). It is often mistaken for another name for bourbon, but the two do not fully overlap: Tennessee whiskey has its own conditions in state law, yet it is not listed as a separate class in federal rules. Understanding that two-layer structure of state definition and federal labelling is the key to the region.
@@ -134,3 +135,13 @@ First, that Tennessee whiskey is a separate federally defined class. It is bette
 In the glass, look first for vanilla, caramel and roasted corn, then judge the rye spice and the coconut note from the cask. A few drops of water open the aroma; ice suppresses sweetness and suits stronger bottlings. Tennessee whiskey is also a common base for an Old Fashioned or a Highball. Drink in moderation, adults only.
 
 [United States](ref:usa) and [Tennessee whiskey](ref:tennessee-whiskey) are the nearest useful comparisons: one clarifies geographic boundary, the other tests climate and soil.
+
+## Related images
+
+![Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.](/media/photos/editorial-oak-ageing-q2.jpg)
+
+Image: Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Tennessee.
+
+![Category image for United States](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+Image: Category image for United States. Credit: Luke, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)). Related image for Tennessee.

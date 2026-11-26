@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 荷兰
 
 荷兰是欧洲西北部的低地国家，莱茵河、马斯河与斯海尔德河在此入海。谈荷兰酒类，最容易只想到喜力与皮尔森；但荷兰同时有受欧盟保护的传统烈酒 jenever、正在增长的精酿啤酒，以及一个规模不大却持续存在的葡萄酒产业。把这三条线放在一起，才能理解这个国家的酒精版图。
@@ -141,3 +142,13 @@ jenever（荷兰语，英语常写 genever）是荷兰与比利时的传统杜�
 **适用边界。** 对「荷兰」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「荷兰」最近核对于 2026-11-07；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。](/media/photos/ingredient-water-edf289bf.jpg)
+
+图：水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。。图片：Jorge Barrios，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)）。关联图像：荷兰。
+
+![精酿啤酒](/media/photos/term-craft-beer-ce03e9bb.jpg)
+
+图：精酿啤酒。图片：Bernt Rostad，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zachariasbryggen_Microbrewery.jpg)）。关联图像：荷兰。

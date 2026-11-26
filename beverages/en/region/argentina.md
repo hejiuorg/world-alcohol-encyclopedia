@@ -24,8 +24,8 @@ tags:
 translation_of: region:argentina
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9f2c4a10de2098062675dd1b49e3f4a3a5d02d82376a125141328ad46835f6a9
-source_sha256: 9f2c4a10de2098062675dd1b49e3f4a3a5d02d82376a125141328ad46835f6a9
+source_revision: sha256:4369b44eb0f574c4f92a94f8f09f6a96d32bb1e0e51e066335c05ecc166ea4b2
+source_sha256: 4369b44eb0f574c4f92a94f8f09f6a96d32bb1e0e51e066335c05ecc166ea4b2
 related:
   - relation: about
     target_id: region:salta
@@ -153,3 +153,13 @@ To the northwest, Cafayate in Salta is reached along Ruta 40 through canyons and
 - Inland Argentine districts depend on snowmelt irrigation; check current opening times and addresses on estate websites or the INV district directory before travelling.
 
 To read Argentina, start with the appellation and its permitted varieties, then the vintage and the producer, then how the wine is labelled; no single check settles it.
+
+## Related images
+
+![Salta: Angastaco Salta (Wikimedia Commons)](/media/photos/region-salta-ef92d49d.jpg)
+
+Image: Salta: Angastaco Salta (Wikimedia Commons). Credit: CarlosA.Barrio, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Angastaco_Salta.JPG)). Related image for Argentina.
+
+![Malbec](/media/photos/variety-malbec-88d109c6.jpg)
+
+Image: Malbec. Credit: Ian L, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Malbec_grapes.jpg)). Related image for Argentina.

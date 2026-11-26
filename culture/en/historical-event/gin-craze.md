@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:gin-craze
 source_lang: zh
-source_revision: sha256:e827741085ac134cd502473b02e4fb4f0ac5d7e3a67d4d1e879ae52ced8a88bf
-source_sha256: e827741085ac134cd502473b02e4fb4f0ac5d7e3a67d4d1e879ae52ced8a88bf
+source_revision: sha256:ab382a263cfcbf4d396b78426aa5287095107aaea231492345e8d0640b29b780
+source_sha256: ab382a263cfcbf4d396b78426aa5287095107aaea231492345e8d0640b29b780
 translation_status: reviewed
 legacy_refs: []
 date_text: c. 1720s–1751
@@ -134,3 +134,9 @@ One: "The 1751 Gin Act banned gin." It did not prohibit gin outright; it restric
 - [Old Tom gin](ref:old-tom): the sweet British gin tradition of the eighteenth and nineteenth centuries.
 - [United Kingdom](ref:uk): the regional background for parliamentary legislation and urban tavern culture.
 - [Scotch whisky excise](ref:scotch): another British case of spirits, taxation and smuggling.
+
+## Related images
+
+![Category image for "A Tax History of Scotch Whisky: From the 1644 Excise to the 1823 Excise Act"](/media/photos/q2-producer-diageo-fcb11737.jpg)
+
+Image: Category image for "A Tax History of Scotch Whisky: From the 1644 Excise to the 1823 Excise Act". Credit: Bill Kasman, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=150169452)). Related image for The Gin Craze and the Gin Act: Britain's Eighteenth-Century Spirits Crisis.

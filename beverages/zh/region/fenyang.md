@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 汾阳市
 
 汾阳是山西省吕梁市代管的县级市，位于晋中盆地西缘、吕梁山脚下。杏花村在汾阳境内，是汾酒长期使用的产地地名。与川南浓香型产区的湿润气候不同，汾阳属于北方半干旱季风气候，冬季寒冷、春季多风、昼夜温差大。理解汾阳，不能只看“清香”两个字，还要看地缸、气候与高粱之间的关系。
@@ -134,3 +135,13 @@ verification_scope: source-verified
 - 想理解清香型的共同语言，读[清香型白酒](ref:light)。
 - 想比较山西与川南产区，读[山西](ref:shanxi)与[中国](ref:china)的产区条目。
 - 想把汾阳放进晋中旅行，先查平遥、太原之间的交通，再决定住宿地点。
+
+## 相关图像
+
+![山西](/media/photos/region-shanxi-f5edb84f.jpg)
+
+图：山西。图片：Underbar dk，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Yanmenguan3.JPG)）。关联图像：汾阳市。
+
+![汾酒](/media/photos/brand-fenjiu-3fd2e1c8.jpg)
+
+图：汾酒。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_(20241109164541).jpg)）。关联图像：汾阳市。

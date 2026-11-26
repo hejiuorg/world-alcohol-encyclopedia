@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:blandys-wine-lodge
 source_lang: zh
-source_revision: sha256:2311abd6b5ade7b6828c95125d12c4a5296caa4414f2af57e2ec2eb8a1ca10b6
-source_sha256: 2311abd6b5ade7b6828c95125d12c4a5296caa4414f2af57e2ec2eb8a1ca10b6
+source_revision: sha256:132eda6946516e806915c9566a4e7e930dfc6b307b7621dbac727bab67dd7136
+source_sha256: 132eda6946516e806915c9566a4e7e930dfc6b307b7621dbac727bab67dd7136
 translation_status: reviewed
 subtype: winery-visitor
 address: Avenida Arriaga 28, 9000-064 Funchal, Madeira, Portugal
@@ -106,6 +106,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; prices, times and wines change, so confirm with official channels.
 verification_scope: source-verified
 ---
+
 # Blandy's Wine Lodge
 
 Blandy's Wine Lodge sits in the centre of Funchal at Avenida Arriaga 28. It belongs to the Madeira Wine Company and has been the Blandy family's base for seven generations of Madeira. No grapes grow here: wine from across the island is aged, blended, bottled, tasted and sold. It is also the easiest place to understand the heating that defines Madeira.![related photograph of Blandy's Wine Lodge](/media/photos/place-blandys-wine-lodge-f07dd2e8.jpg)
@@ -167,3 +168,9 @@ Blandy's is a Madeira wine house founded in 1811; its Funchal lodge offers tasti
 | Official site | blandyswinelodge.com |
 
 **Sources and limits.** The key claims about Blandy's Wine Lodge are checked against the following sources: Blandy's Wine Lodge / Madeira Wine Company (Used to check the Avenida Arriaga 28 address and telephone +351 291 228 978), Madeira Wine Company (Used to check the more than 650 casks and vats, the family museum and the tasting rooms), Visit Funchal. For current products, addresses or opening status, use blandyswinelodge.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Henriques & Henriques](/media/photos/q2-region-madeira-7efe42cf.jpg)
+
+Image: Category image for Henriques & Henriques. Credit: anagh, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=53715566)). Related image for Blandy's Wine Lodge.

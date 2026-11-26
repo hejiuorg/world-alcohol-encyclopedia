@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:czechia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d3a3b2683220a3033b772fb070e9d99e971b38bdc43091a24c87d56cdada164e
-source_sha256: d3a3b2683220a3033b772fb070e9d99e971b38bdc43091a24c87d56cdada164e
+source_revision: sha256:5df43c7d7cc2406a160c882a77b1107263aed937b88aba7b2cc6f37a2b79131b
+source_sha256: 5df43c7d7cc2406a160c882a77b1107263aed937b88aba7b2cc6f37a2b79131b
 level: country
 country_code: CZ
 legacy_refs: []
@@ -87,6 +87,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Czech Republic
 
 The Czech beer story usually starts in Pilsen in 1842, but what actually made Czech beer was a set of interlocking conditions: soft water in western Bohemia, pale Moravian malt, the fine aroma of Saaz hops from Žatec, cool bottom fermentation and weeks or months of cold lagering. That combination allowed pale lager to appear as a clean, bright, sharply bitter drink, and it has been copied and reworked around the world ever since. Understanding Czech beer means looking at both the history and the local label language, especially the figure "12°".![Czech Republic category image](/media/photos/place-pilsner-urquell-brewery-3c101021.jpg)
@@ -155,3 +156,13 @@ Czech Republic is best approached through the appellation and its permitted vari
 - [Craft beer](ref:craft-beer): the American craft movement set against Pilsner-style lager.
 
 Further reading: [Aconcagua Valley](ref:c-extra-1).
+
+## Related images
+
+![Related photograph of Aconcagua Valley](/media/photos/region-aconcagua-4fe76950.jpg)
+
+Image: Related photograph of Aconcagua Valley. Credit: Bjørn Christian Tørrissen, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg)). Related image for Czech Republic.
+
+![Craft beer](/media/photos/term-craft-beer-ce03e9bb.jpg)
+
+Image: Craft beer. Credit: Bernt Rostad, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zachariasbryggen_Microbrewery.jpg)). Related image for Czech Republic.

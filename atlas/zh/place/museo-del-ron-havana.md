@@ -93,6 +93,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、票价与活动会变化，以博物馆官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 哈瓦那朗姆酒博物馆
 
 哈瓦那朗姆酒博物馆（Museo del Ron Havana Club）在哈瓦那老城的港口大道 262 号，与索尔街（Sol）转角，门面是一栋 18 世纪的殖民时期宅邸。它由 Havana Club 品牌运营，2000 年 3 月 31 日开馆，展线从甘蔗、糖蜜与发酵讲起，经过蒸馏与陈年，最后落到吧台与商店。对第一次到古巴的人来说，这里不是“酒厂参观”，而是一座把朗姆酒放回糖业、港口与城市生活的博物馆。
@@ -144,3 +145,9 @@ verification_scope: source-verified
 哈瓦那的这座博物馆以品牌与城市为中心，圣地亚哥的那座则以东部产业与地方记忆为中心；两座馆合起来，能看到古巴朗姆酒的两条叙事线。无论先去哪一座，都先读[朗姆酒](ref:rum)的基本类别，再带着问题去看展，收获会比被动跟着导览多。
 
 对照阅读：[朗姆酒](ref:rum)、[糖蜜](ref:molasses)。
+
+## 相关图像
+
+![收获后切段的甘蔗茎，可见节与节间。](/media/photos/ingredient-sugarcane-64425b4f.jpg)
+
+图：收获后切段的甘蔗茎，可见节与节间。。图片：ruurmo，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cut_sugarcane.jpg)）。关联图像：哈瓦那朗姆酒博物馆。

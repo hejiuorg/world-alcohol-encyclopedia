@@ -81,6 +81,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # 肯塔基波本路线：法兰克福、巴兹敦与洛雷托的三座厂区
 
 肯塔基波本路线不是一条法定界线。“Kentucky Bourbon Trail”是肯塔基蒸馏者协会的推广项目，成员酒厂散布在全州；决定一条线好不好走的，是厂区距离、预约时段和谁来开车。这一条只取三家：法兰克福的水牛足迹、巴兹敦的天堂山、洛雷托的美格，三站构成一个三角。
@@ -151,3 +152,13 @@ Trace Tour 约 75 分钟，全程无障碍，适合第一次来；Old Taylor Tou
 对照阅读：[水牛足迹酒厂](ref:buffalo-trace)、[美格酒厂](ref:makers-mark)。
 
 肯塔基三座厂区之间以自驾最方便，酒厂参观需提前订票；开放时间、场次与路线以各酒厂官网为准。核验于 2026-11-08。
+
+## 相关图像
+
+![天使分享（angel's share）](/media/photos/term-angels-share-8d1e928f.jpg)
+
+图：天使分享（angel's share）。图片：Gerard Prins，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Oak-wine-barrel-at-toneleria-nacional-chile.jpg)）。关联图像：肯塔基波本路线：法兰克福、巴兹敦与洛雷托的三座厂区。
+
+![水牛足迹酒厂](/media/photos/place-buffalo-trace-distillery-34f70545.jpg)
+
+图：水牛足迹酒厂。图片：Kittugwiki，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Buffalo_Trace_Tower.jpg)）。关联图像：肯塔基波本路线：法兰克福、巴兹敦与洛雷托的三座厂区。

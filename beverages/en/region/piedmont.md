@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:piedmont
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:85621ec349914a797f6be8c8e037391651c379cd8260cf01194d10f02f930d63
-source_sha256: 85621ec349914a797f6be8c8e037391651c379cd8260cf01194d10f02f930d63
+source_revision: sha256:f6bf97be3afc46306374514860e367d1182d7e0ed4728247b202ef26887928af
+source_sha256: f6bf97be3afc46306374514860e367d1182d7e0ed4728247b202ef26887928af
 level: province
 parent_id: region:italy
 country_code: IT
@@ -94,6 +94,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Piedmont
 
 Piedmont (Italian Piemonte) lies in north-west [Italy](ref:italy), bounded by the Alps to the north and west, Liguria to the south and Lombardy to the east. It is one of Italy's leading fine red-wine regions, centred on [Nebbiolo](ref:nebbiolo), while Barbera, Dolcetto and Moscato complete a varied range of varieties.
@@ -182,3 +183,13 @@ Piedmont is in north-west Italy, with Barolo and Barbaresco based on Nebbiolo, a
 - [Red wine](ref:red-wine), [white wine](ref:white-wine) and [sparkling wine](ref:sparkling-wine): three basic categories.
 - [Oak ageing](ref:oak-ageing) and [fermentation](ref:fermentation): key processes behind style.
 - [Wine](ref:wine): an overview of wine categories and origin rules.
+
+## Related images
+
+![Barolo](/media/photos/drink-italy-barolo-bba29a2d.jpg)
+
+Image: Barolo. Credit: Biskuit, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cascin_Adelaide_Barolo_%26_decanter.jpg)). Related image for Piedmont.
+
+![Barbaresco](/media/photos/drink-italy-barbaresco-dc7f512d.jpg)
+
+Image: Barbaresco. Credit: Geographer, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Prunotto_Barbaresco_1967.jpg)). Related image for Piedmont.

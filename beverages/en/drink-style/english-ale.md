@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:english-ale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f713da6c8e3681b277569b242043b5a848cd376ee012e3e4f6749313908d7df0
-source_sha256: f713da6c8e3681b277569b242043b5a848cd376ee012e3e4f6749313908d7df0
+source_revision: sha256:2d977f88f4a97832849dc36a05f18c36f80dda12aaa70aa0e65dd708d449432c
+source_sha256: 2d977f88f4a97832849dc36a05f18c36f80dda12aaa70aa0e65dd708d449432c
 legacy_refs: []
 aliases:
   - English ale
@@ -158,3 +158,9 @@ First, treating ale as one style. It is a broad top-fermented family. Second, tr
 - [Craft beer](ref:craft-beer): the American craft movement set against the British tradition.
 - [Fermentation](ref:fermentation): top fermentation and how temperature shapes aroma.
 - [Barley](ref:barley): the malt base of English ale body.
+
+## Related images
+
+![Craft beer](/media/photos/term-craft-beer-ce03e9bb.jpg)
+
+Image: Craft beer. Credit: Bernt Rostad, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zachariasbryggen_Microbrewery.jpg)). Related image for English ale.

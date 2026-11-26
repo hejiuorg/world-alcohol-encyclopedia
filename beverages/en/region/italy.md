@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:italy
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0047d968395737d83efc3cfb67ab7f8ef87de850414e3446fc4bd16801866c39
-source_sha256: 0047d968395737d83efc3cfb67ab7f8ef87de850414e3446fc4bd16801866c39
+source_revision: sha256:e5f8fabfc1d8260db01a994140277745204d96ed7e61451def29f0557a64845f
+source_sha256: e5f8fabfc1d8260db01a994140277745204d96ed7e61451def29f0557a64845f
 level: country
 country_code: IT
 legacy_refs: []
@@ -86,6 +86,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Italy
 
 Italy is a major wine-producing country in southern Europe, with vineyards in almost all of its 20 regions. Its character is not a single style but a diversity formed by native varieties, local traditions and a classification system: sparkling wine and Nebbiolo at the foot of the Alps in the north, Sangiovese in Tuscany in the centre, and red and sweet wines under the Mediterranean climate of the south and the islands.
@@ -179,3 +180,13 @@ Fifth, that older is always better. Drinking windows depend on the wine's struct
 - [Sangiovese](ref:sangiovese): the core variety of Tuscany.
 - [Sassicaia](ref:sassicaia): a representative wine of Bolgheri.
 - [Oak ageing](ref:oak-ageing): the barrel tradition of Italian reds.
+
+## Related images
+
+![Campari](/media/photos/drink-italy-campari-3f79a94a.jpg)
+
+Image: Campari. Credit: Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottle_of_Campari_(United_States).jpg)). Related image for Italy.
+
+![Sangiovese](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
+
+Image: Sangiovese. Credit: Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:VIVC10680_SANGIOVESE_Cluster_in_the_field_20354.jpg)). Related image for Italy.

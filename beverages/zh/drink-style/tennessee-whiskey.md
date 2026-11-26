@@ -73,6 +73,7 @@ rights:
   note: 第三方标准文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 田纳西威士忌
 
 田纳西威士忌常被当作“换了标签的波本”，这是对它最普遍也最省事的误解。它确实使用与波本相近的谷物配方和新烧焦橡木桶，但美国联邦标准为它单独设了一条产地要求，并要求新酒在入桶之前经糖枫木炭过滤。产地、过滤与陈年三件事叠在一起，才构成这个名称。
@@ -158,3 +159,9 @@ Jack Daniel's Old No. 7 是最广为人知的基础款，风格偏香草、香�
 - [橡木桶陈年](ref:oak-ageing)：新烧焦桶带来的香草、焦糖与木质风味。
 - [玉米](ref:maize)：田纳西威士忌谷物配方的主体。
 - [美国](ref:usa)：美国威士忌的地理与法规背景。
+
+## 相关图像
+
+![一杯波本威士忌，杯壁压印 BOURBON FRONTIER WHISKEY，杯中为琥珀色酒液。](/media/photos/drink-style-bourbon-whiskey-535c276f.jpg)
+
+图：一杯波本威士忌，杯壁压印 BOURBON FRONTIER WHISKEY，杯中为琥珀色酒液。。图片：Markyboy81，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=1001040958)）。关联图像：田纳西威士忌。

@@ -87,6 +87,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 阿根廷
 
 阿根廷是南美洲第二大葡萄酒生产国、按产量计也是全球第五大产酒国，葡萄园沿安第斯山脉东麓从西北高海拔山谷铺到巴塔哥尼亚冷凉河谷；马尔贝克是国际招牌品种，特浓情、赤霞珠、霞多丽、西拉与起泡酒同样构成产区版图。
@@ -143,3 +144,13 @@ verification_scope: source-verified
 - 阿根廷内陆产区依赖融雪灌溉，出行前可在酒庄官网或 INV 公布的产区名录上核对当年开放安排与地址。
 
 对照阅读：[萨尔塔](ref:salta)、[霞多丽](ref:chardonnay)。
+
+## 相关图像
+
+![Salta：Angastaco Salta（Wikimedia Commons）](/media/photos/region-salta-ef92d49d.jpg)
+
+图：Salta：Angastaco Salta（Wikimedia Commons）。图片：CarlosA.Barrio，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Angastaco_Salta.JPG)）。关联图像：阿根廷。
+
+![马尔贝克](/media/photos/variety-malbec-88d109c6.jpg)
+
+图：马尔贝克。图片：Ian L，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Malbec_grapes.jpg)）。关联图像：阿根廷。

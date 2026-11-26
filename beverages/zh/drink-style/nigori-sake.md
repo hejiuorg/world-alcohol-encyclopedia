@@ -75,6 +75,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 浊酒
 
 日本清酒中的“粗滤”类型，保留米曲与酒糟，酒液浑浊、带甜味与乳脂感；需冷藏、饮用前摇匀，开瓶后尽快喝完。
@@ -155,3 +156,9 @@ verification_scope: source-verified
 | 上位风格 | 清酒 |
 
 **来源与边界。** 本页关于「浊酒」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（啤酒风格的定义、参数与典型特征）、Brewers Association（美国啤酒风格、原料与行业分类）、CAMRA（英国传统啤酒与艾尔风格）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![过滤（filtration）示意图](/media/photos/term-filtration-c974bd5e.webp)
+
+图：过滤（filtration）示意图。图片：Wikiwayman，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:FilterDiagram.svg)）。关联图像：浊酒。

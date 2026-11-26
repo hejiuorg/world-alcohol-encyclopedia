@@ -93,6 +93,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 威尼托普罗塞克路线
 
 这条路线从瓦尔多比亚德内的比索尔1542开始，到富马内的阿莱格里尼结束。前者是格雷拉与罐式发酵的起泡酒世界，后者是科维纳与风干葡萄的红酒世界；两地相距约一个半小时，却像跨了两个葡萄酒国家。把两者放在同一天，不是为了多喝几杯，而是为了看清威尼托内部的技术分岔：同样是“意大利东北部”，一个追求压力与新鲜，一个追求浓度与氧化。
@@ -159,3 +160,13 @@ updated_at: 2026-11-09
 - [Prosecco.it — Area of Origin](https://www.prosecco.it/en/area-of-origin/)：15 个市镇、格雷拉、600 小时人工与 2019 年 UNESCO 遗产。
 - [Prosecco.it — DOCG](https://www.prosecco.it/en/conegliano-valdobbiadene-prosecco-superiore-docg/)：1969 年 DOC、2009 年 DOCG 与分类体系。
 - [Grave di Stecca — Nino Franco](https://www.ninofranco.it/it/vini/grave-di-stecca/)：围墙单一园、面积、海拔与罐式发酵。
+
+## 相关图像
+
+![格莱拉](/media/photos/variety-glera-308e7415.jpg)
+
+图：格莱拉。图片：paul Barker Hemings from seregno, 85，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Prosecco_vitigni.jpg)）。关联图像：威尼托普罗塞克路线。
+
+![项目配图：比索尔酒庄](/media/photos/theme-vineyard.jpg)
+
+图：项目配图：比索尔酒庄。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：威尼托普罗塞克路线。

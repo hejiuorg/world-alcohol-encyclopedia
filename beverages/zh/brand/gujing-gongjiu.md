@@ -5,7 +5,7 @@ type: brand
 lang: zh
 slug: gujing-gongjiu
 title: 古井贡酒
-summary: 产自安徽亳州的浓香型白酒品牌，以“年份原浆”系列知名，产品覆盖多个酒精度。
+summary: 产自安徽亳州古井镇的浓香型白酒品牌，以“年份原浆”系列知名；产品覆盖古井贡酒、黄鹤楼等，常见度数从 38 度到 52 度，礼赠与宴席场景都常见。
 status: reviewed
 revision: 3
 producer_refs:

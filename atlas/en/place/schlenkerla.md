@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:schlenkerla
 source_lang: zh
-source_revision: sha256:2088479ca1281e84573546ee58215db78fbf48f67ecf111b34e8da573bdcf802
-source_sha256: 2088479ca1281e84573546ee58215db78fbf48f67ecf111b34e8da573bdcf802
+source_revision: sha256:909fc3c01aecead9feec4fd5427262c58bd9735552b7276d5955d6ea53ac205d
+source_sha256: 909fc3c01aecead9feec4fd5427262c58bd9735552b7276d5955d6ea53ac205d
 translation_status: reviewed
 subtype: pub
 address: Dominikanerstraße 6, 96049 Bamberg, Germany
@@ -151,3 +151,9 @@ Further reading: [A Ginjinha](ref:c-extra-1).
 Read Schlenkerla through the address, then the current opening status, and finally what the place is known for. The sequence matters.
 
 [Beer](ref:beer) explains address and space; [A history of taverns: from wine shops and inns to bars](ref:history-of-taverns) adds operating status. Put Schlenkerla between them before deciding what it is.
+
+## Related images
+
+![The A Ginjinha storefront at Largo de São Domingos 8, with its red sign and standing bar](/media/photos/place-a-ginjinha-c9fe334e.jpg)
+
+Image: The A Ginjinha storefront at Largo de São Domingos 8, with its red sign and standing bar. Credit: Shadowgate, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ginjinha_store.jpg)). Related image for Schlenkerla.

@@ -76,6 +76,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 吟酿
 
 酒标上出现“吟酿”二字时，多数人先想到香气高、价格贵。但它首先是一个工艺名称：把醪放在比常规更低的温度里养更久，让酵母生成的酯类留在酒液中。精米步合 60% 只是这条路的入场券，真正决定风格的，是温度曲线、酵母与酒母的选择。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 | 香气家族 | 花果香 |
 
 **来源与边界。** 本页关于「吟酿」的关键事实，主要由以下来源交叉核对：Japan Sake and Shochu Makers Association（吟酿、纯米吟酿与大吟酿的定义、精米步合门槛与吟酿造工艺）、日本国税庁（清酒特定名称酒的标示条件、精米步合与酿造酒精添加上限；日本酒类的法定分类与清酒制造概况）、Oxford University Press（提供关于吟酿造、吟酿香与清酒历史的条目）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![清酒瓶装，精米步合、酒度与日本酒度常决定选购判断](/media/photos/drink-style-sake-de6a3028.jpg)
+
+图：清酒瓶装，精米步合、酒度与日本酒度常决定选购判断。图片：koutalou，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)）。关联图像：吟酿。

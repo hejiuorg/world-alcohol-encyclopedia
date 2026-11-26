@@ -100,6 +100,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 佩萨克-雷奥良
 
 佩萨克-雷奥良位于波尔多市区以南，是格拉夫（Graves）产区北段 1987 年独立的 AOC，砾石丘上红白兼产：红酒以赤霞珠为主的波尔多混酿，白酒以长相思与赛美蓉调配，是波尔多干白最受推崇的产区之一。
@@ -182,3 +183,13 @@ Smith Haut Lafitte 位于 Martillac，共 56 公顷，红方为 55% 赤霞珠、
 | 层级 | 其他 |
 | 所属 | 波尔多 |
 | 国家代码 | FR |
+
+## 相关图像
+
+![长相思相关实景照片](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：佩萨克-雷奥良。
+
+![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：佩萨克-雷奥良。

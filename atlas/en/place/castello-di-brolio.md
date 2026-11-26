@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:castello-di-brolio
 source_lang: zh
-source_revision: sha256:7dbdc677db5afdba9372091358d62a1778b43cb1956cb4b20e67b38c226dc8fe
-source_sha256: 7dbdc677db5afdba9372091358d62a1778b43cb1956cb4b20e67b38c226dc8fe
+source_revision: sha256:aaf6510c9f8acb16cc869c3765c1617a505f46f2a74aab24b67a66f195752fab
+source_sha256: aaf6510c9f8acb16cc869c3765c1617a505f46f2a74aab24b67a66f195752fab
 translation_status: reviewed
 subtype: winery-visitor
 address: Località Brolio, 53013 Gaiole in Chianti (SI), Italy
@@ -167,3 +167,9 @@ On etiquette: this is private property and a working estate, so do not climb fen
 Placed in the context of [Tuscany](ref:tuscany) and [wine](ref:wine), Brolio is most rewarding as a study of how a castle became a wine estate and how a formula became an appellation; for the relationship between place and process, see [Place and process](ref:place-and-process).
 
 Further reading: [Italy](ref:c-extra-1), [Antinori nel Chianti Classico](ref:c-extra-2).
+
+## Related images
+
+![Photograph for Tuscany: Tuscany vineyard. Credit: cova69, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
+
+Image: Tuscany vineyard. Credit: cova69, CC BY 2.0, via Wikimedia Commons.. Credit: cova69, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=1393578)). Related image for Castello di Brolio.

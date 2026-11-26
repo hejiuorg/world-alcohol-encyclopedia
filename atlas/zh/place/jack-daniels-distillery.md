@@ -101,6 +101,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、票价与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 杰克丹尼酒厂
 
 杰克丹尼在美国田纳西州的小镇林奇堡（Lynchburg），属于摩尔县（Moore County）。它常被当作“美国威士忌”的代名词，但严格说，它生产的是[田纳西威士忌](ref:tnwhiskey)：原料与桶的规定接近[波本](ref:bourbon)，却多了一道糖枫木炭过滤，并且必须在田纳西州境内完成。酒厂的参观动线穿过泉眼、木炭车间、蒸馏与桶库，最后落在品鉴室；理解这套流程，比记住酒标上的名字更重要。
@@ -158,3 +159,9 @@ verification_scope: source-verified
 周边可以逛林奇堡的法院广场、旧监狱与当地餐馆，也可以去 Tims Ford 湖；如果时间充裕，往北到纳什维尔看音乐现场，往南到查塔努加看山脉。把[美国](ref:usa)威士忌的整体地图先读一遍，再决定要不要租车跑两三家酒厂；一天排三家会很赶，两家加一顿午饭更舒服。
 
 对照阅读：[乔治迪克尔酒厂](ref:georgedickel)、[美国](ref:usa)。
+
+## 相关图像
+
+![杰克丹尼老7号](/media/photos/drink-usa-jackdaniels-1ab6c621.jpg)
+
+图：杰克丹尼老7号。图片：Ben Jacobson ( Kranar Drogin )，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)）。关联图像：杰克丹尼酒厂。

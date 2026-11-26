@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:montalcino
 source_lang: zh
-source_revision: sha256:66a81d74716d1525a99a00110f8543ca5d9c7f214aab125ad32b7fe8fcdec3df
-source_sha256: 66a81d74716d1525a99a00110f8543ca5d9c7f214aab125ad32b7fe8fcdec3df
+source_revision: sha256:f88897b0b180adcf64254f13250ce968fe84afc59b891d87f5c63033e586b7e5
+source_sha256: f88897b0b180adcf64254f13250ce968fe84afc59b891d87f5c63033e586b7e5
 translation_status: reviewed
 level: city
 parent_id: region:italy
@@ -155,3 +155,13 @@ Young Brunello often seems tight, with fruit and tannin not yet integrated; afte
 - [Red wine](ref:red-wine): an overview of still red winemaking.
 - [Oak ageing](ref:oak-ageing): cask type, age and micro-oxygenation.
 - [Terroir](ref:terroir): a framework for altitude, aspect and soil.
+
+## Related images
+
+![Sangiovese](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
+
+Image: Sangiovese. Credit: Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:VIVC10680_SANGIOVESE_Cluster_in_the_field_20354.jpg)). Related image for Montalcino.
+
+![Photograph for Italy: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-italy-202d4c25.jpg)
+
+Image: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=35825496)). Related image for Montalcino.

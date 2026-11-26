@@ -148,3 +148,13 @@ verification_scope: source-verified
 - GB/T 2260-2007 中华人民共和国行政区划代码（国家标准化管理委员会，核对 2026-11-25）
 
 相关条目：[习酒厂区（习酒镇）](ref:distillery)、[土城古镇（习水）](ref:tucheng)、[习酒](ref:brand)、[酱香型白酒](ref:style)、[贵州省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![贵州省](/media/photos/region-guizhou-b13939f2.jpg)
+
+图：贵州省。图片：Huangdan2060，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)）。关联图像：习水路线：习酒厂区与土城古镇。
+
+![习酒](/media/photos/brand-xijiu-0e1061d4.jpg)
+
+图：习酒。图片：Lhzss8，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E4%B8%80%E6%AC%BE%E4%B9%A0%E9%85%92.jpg)）。关联图像：习水路线：习酒厂区与土城古镇。

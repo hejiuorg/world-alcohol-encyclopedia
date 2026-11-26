@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:jiahu-alcohol-7000bce
 source_lang: zh
-source_revision: sha256:6a26d7831ac4dfe2e45b879a3e0ae95ea37ad5c1fc604ed47a5cd28d8fdabd27
-source_sha256: 6a26d7831ac4dfe2e45b879a3e0ae95ea37ad5c1fc604ed47a5cd28d8fdabd27
+source_revision: sha256:655d71a41d4fcb9f6491fa732d268d996b2ae6254117caed68d64399394c0eee
+source_sha256: 655d71a41d4fcb9f6491fa732d268d996b2ae6254117caed68d64399394c0eee
 translation_status: reviewed
 legacy_refs: []
 date_text: c. 7000–5700 BCE
@@ -136,3 +136,9 @@ One: "Jiahu found 9000-year-old grape wine." The residues include hawthorn or gr
 - [Han wine monopoly](ref:han): an early form of state monopoly and taxation on alcohol in China.
 
 **Short definition:** Chemical analysis of residues in pottery from the Jiahu site in Wuyang, Henan, found features of a mixed fermentation of rice, honey and hawthorn or grape-like fruit, dated as early as about 7000 BCE. The finding pushed direct chemical evidence for Chinese fermented drinks back in time and showed that early brewing was not a single-grain process but a combination of sugar sources.
+
+## Related images
+
+![Related photograph of Shang and Zhou Wine Ritual: Bronze Vessels, the Wine Officer and the Jiugao](/media/photos/historical-event-shang-zhou-wine-ritual-e8c47734.jpg)
+
+Image: Related photograph of Shang and Zhou Wine Ritual: Bronze Vessels, the Wine Officer and the Jiugao. Credit: Wikimedia Commons contributor, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Clevelandart_1951.151.jpg)). Related image for The Jiahu Alcohol Residues of c. 7000 BCE: The Earliest Chemical Evidence of a Fermented Beverage in China.

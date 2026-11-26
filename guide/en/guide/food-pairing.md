@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: guide:food-pairing
 source_lang: zh
-source_revision: sha256:e2ee98049497172a372128f92a20da5bc975c060470738b768e1382dc2a05eb0
-source_sha256: e2ee98049497172a372128f92a20da5bc975c060470738b768e1382dc2a05eb0
+source_revision: sha256:006c79fd913691ea5a27c2913d2bc0b1124116c27f3dea7cd51608ace67304df
+source_sha256: 006c79fd913691ea5a27c2913d2bc0b1124116c27f3dea7cd51608ace67304df
 translation_status: reviewed
 about_refs:
   - drink-style:wine
@@ -71,6 +71,12 @@ sources:
     publisher: International Organisation of Vine and Wine
     note: Used to check international references on wine and food pairing; no source text is reproduced.
     accessed: 2026-11-07
+  - key: adv-oxford-food
+    title: The Oxford Companion to Wine — food and wine entries
+    url: https://www.oxfordreference.com/display/10.1093/acref/9780198840640.001.0001/acref-9780198840640
+    publisher: Oxford University Press
+    note: Used to check pairing principles, taste interactions and classic combinations; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -89,6 +95,10 @@ verification_scope: source-verified
 ### Look at the plate first
 
 The same sentence, "goes with red meat", produces completely different results for stewed beef and charcoal-grilled steak. Stewed beef has plenty of liquid, little fat and a lighter flavour; grilled meat has a charred surface, heavy fat and high salt. The first needs a fresh, high-acid drink; the second can carry a heavier body and more tannin. The name of the ingredient is only the starting point; the cooking method and sauce decide the flavour.
+
+![Look at the plate before the glass editorial card](/media/figures/specific/guide-food-pairing.svg)
+
+Figure：Look at the plate before the glass, a project-made bilingual editorial card. It identifies the topic; it is not an on-site photograph.
 
 ### Match weight to weight
 
@@ -164,6 +174,28 @@ Third, using high alcohol to fight heat. High alcohol amplifies heat; sweetness,
 Fourth, matching all seafood with white wine. Steaming, raw preparation, braising and grilling need different drinks.
 
 Fifth, ignoring temperature. The same drink can move from "suitable" to "unsuitable" at a different temperature.
+
+
+## Advanced judgment
+
+![A meal with white wine](/media/photos/guide-food-pairing-b4dbce65.jpg)
+
+Figure: A meal with a glass of white wine; pairing is chiefly a balance of weight, acidity and flavour intensity. Image: Jay Wennington jaywennington, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Gourmet_meal_and_white_wine_(Unsplash).jpg)).
+
+| Dish trait | Pairing lever | Workable example |
+| --- | --- | --- |
+| High fat | Acidity or bubbles cut through richness | Dry white, Champagne, crisp beer |
+| Heat | Lower alcohol, a little sweetness, low tannin | Off-dry Riesling, lager |
+| Savory umami | Umami and bubbles add lift | Champagne, sake, dry sherry |
+| Dessert | Wine at least as sweet as the dessert | Sweet wine, Port, botrytis wine |
+
+**Why not pair spicy food with high-alcohol wine?** Alcohol amplifies the heat of capsaicin and makes high tannin taste more bitter. Lower-alcohol, slightly sweet or sparkling wines usually work better than a heavy red.
+
+**Can vinaigrette salads be paired with wine?** Yes, but vinegar can flatten the wine. Use a high-acidity, simple wine, or use less dressing; do not spend a serious bottle on a strong vinaigrette.
+
+**Why does dry wine taste bitter with dessert?** Dessert makes the palate sweeter, so the wine's acidity and tannin stand out as sharp, bitter or hollow. The first rule is that the wine should be at least as sweet as the dessert.
+
+Further reading: [tannin](ref:tannin) and [hotpot](ref:hotpot).
 
 ## Boundary
 

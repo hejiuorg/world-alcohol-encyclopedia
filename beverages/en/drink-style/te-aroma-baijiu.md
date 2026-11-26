@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:te-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d367f43e9ff601000f4dbb0fe6aaacb3a271e1a69904c05d08500759ecb82871
-source_sha256: d367f43e9ff601000f4dbb0fe6aaacb3a271e1a69904c05d08500759ecb82871
+source_revision: sha256:67d9f5c88eca8d5a675e862e54985180ae1c6f46f46cfd5762eddda5871efee3
+source_sha256: 67d9f5c88eca8d5a675e862e54985180ae1c6f46f46cfd5762eddda5871efee3
 legacy_refs: []
 aliases:
   - Texiangxing baijiu
@@ -184,3 +184,9 @@ First, that te-aroma is a blend of strong, light and sauce spirits. It is a comp
 - [Koji making](ref:qu-making): the composition and role of flour-bran koji.
 - [Fermentation](ref:fermentation): solid-state fermentation in red conglomerate stone pits.
 - [Distillation](ref:distillation): solid-state distillation and the cut.
+
+## Related images
+
+![Rice](/media/photos/ingredient-rice-0ee2019c.jpg)
+
+Image: Rice. Credit: China News Service, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg)). Related image for Te-aroma baijiu.

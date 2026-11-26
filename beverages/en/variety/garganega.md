@@ -21,8 +21,8 @@ tags:
 translation_of: variety:garganega
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7525fbd977ccae90f4711af601ae894b545fab3ec164b9d24c80a7e38096baee
-source_sha256: 7525fbd977ccae90f4711af601ae894b545fab3ec164b9d24c80a7e38096baee
+source_revision: sha256:ff60233baff6b23d788a3fe4f149c1d1c3e09aba9a92d0fec0fd07c33c497c04
+source_sha256: ff60233baff6b23d788a3fe4f149c1d1c3e09aba9a92d0fec0fd07c33c497c04
 related:
   - relation: about
     target_id: region:veneto
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Garganega
 
 A white grape of Soave in Veneto, Italy, late-ripening and high-yielding, with lemon, almond, white flowers and mineral; it makes dry Soave, sweet Recioto di Soave and sparkling wine.
@@ -154,3 +155,9 @@ Compare a plain Soave with a Classico and a Superiore, then a dry Soave with a R
 Soave Classico comes from the volcanic hills between Soave and Monteforte d'Alpone, where Garganega ripens more slowly than on the flat plains; the difference shows as a firmer mineral edge and a bitter-almond finish rather than simple orchard fruit. The appellation also allows a small proportion of Trebbiano di Soave in some wines, which adds acidity and perfume, while modern labels increasingly declare 100% Garganega. Recioto di Soave uses the same grape dried on racks until sugar concentrates, and the resulting wine ranges from apricot and honey to candied citrus. When comparing bottles, check whether the label says Soave, Soave Classico or Recioto, and whether the vineyard site is named; those terms describe different ripeness and winemaking choices, not a quality ladder.
 
 The name Garganega also appears in the Veneto as a synonym for other local grapes in older texts, so the scientific name and the appellation rule are the reliable checks.
+
+## Related images
+
+![Photograph for Veneto: Vineyard, San Giorgio di Valpolicella, Veneto, Italy. Credit: Unknown photographer, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-veneto-011f6328.jpg)
+
+Image: Vineyard, San Giorgio di Valpolicella, Veneto, Italy. Credit: Unknown photographer, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Unknown photographer, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=354325)). Related image for Garganega.

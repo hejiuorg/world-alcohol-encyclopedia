@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:rioja
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3097d63ded5801ca2c25a83c602751571158552baad38c5dce3489ddc10f0b07
-source_sha256: 3097d63ded5801ca2c25a83c602751571158552baad38c5dce3489ddc10f0b07
+source_revision: sha256:e78bdc95c9bb8754597aadcb150ab61d7db5f6511f0434c5f90d2e3524c3a7aa
+source_sha256: e78bdc95c9bb8754597aadcb150ab61d7db5f6511f0434c5f90d2e3524c3a7aa
 level: other
 parent_id: region:spain
 country_code: ES
@@ -93,6 +93,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Rioja
 
 Rioja is a wine appellation in the upper Ebro valley of [Spain](ref:spain), based on [Tempranillo](ref:tempranillo). It is divided into Rioja Alta, Rioja Alavesa and Rioja Oriental, and [red wines](ref:red-wine) are classified by Crianza, Reserva and Gran Reserva ageing.![Rioja photograph](/media/photos/q2-region-rioja-e8334a87.jpg)
@@ -190,3 +191,13 @@ Rioja is divided into Alta, Alavesa and Oriental, and its reds are classified by
 - [Fermentation](ref:fermentation): the basic step of winemaking.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
 - [Alcohol by volume](ref:abv): what 13%–14.5% vol means on a label.
+
+## Related images
+
+![Photograph for Tempranillo: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+Image: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=16191821)). Related image for Rioja.
+
+![Photograph for Spain: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-spain-732e598a.jpg)
+
+Image: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=17458062)). Related image for Rioja.

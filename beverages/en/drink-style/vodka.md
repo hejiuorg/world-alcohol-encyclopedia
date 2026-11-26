@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:vodka
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c4536772d6055874def372ae46e0739c16264a6d3fa52fef13eda0b2401a6033
-source_sha256: c4536772d6055874def372ae46e0739c16264a6d3fa52fef13eda0b2401a6033
+source_revision: sha256:3ba8f94a48ec2f6352916ff42e8486df8a34f7dc3a43d93bf8996114acab46ff
+source_sha256: 3ba8f94a48ec2f6352916ff42e8486df8a34f7dc3a43d93bf8996114acab46ff
 legacy_refs: []
 aliases:
   - Vodka
@@ -66,6 +66,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Vodka
 
 Vodka is a neutral spirit made from agricultural materials such as grain, potato or molasses, then fermented, [distilled](ref:distillation) and filtered or treated. It is not necessarily "completely tasteless": raw material, distillation method, filtration strength and trace residues all affect the mouthfeel, though the differences are usually subtler than in whisky or gin.![Vodka image](/media/photos/drink-style-vodka-415ef8e0.jpg)
@@ -137,3 +138,9 @@ For Vodka, this style was last checked in 2026; prices, batches and availability
 - [Gin](ref:gin): a spirit that also starts from neutral alcohol but aims at juniper and botanical aroma.
 
 Further reading: [Water](ref:c-extra-1).
+
+## Related images
+
+![Diagram of Filtration](/media/photos/term-filtration-c974bd5e.webp)
+
+Image: Diagram of Filtration. Credit: Wikiwayman, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:FilterDiagram.svg)). Related image for Vodka.

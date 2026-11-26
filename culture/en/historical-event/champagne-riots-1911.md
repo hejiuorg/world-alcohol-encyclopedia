@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:champagne-riots-1911
 source_lang: zh
-source_revision: sha256:b46bcf05bc3882c1df92d18f65c0ac2c755f84ea3067e1915bc5ca038710e81e
-source_sha256: b46bcf05bc3882c1df92d18f65c0ac2c755f84ea3067e1915bc5ca038710e81e
+source_revision: sha256:73010bdc198cb64b9be5ed738e5f8562fb33d792aa4288d3951df5eb47f6a534
+source_sha256: 73010bdc198cb64b9be5ed738e5f8562fb33d792aa4288d3951df5eb47f6a534
 translation_status: reviewed
 legacy_refs: []
 date_text: January–June 1911
@@ -136,3 +136,9 @@ One: "This was a fight between Champagne houses and farmers." The camps were not
 - [The phylloxera epidemic](ref:phylloxera): the ecological background of the late nineteenth-century Champagne vineyard crisis.
 
 **In brief:** In 1911 Champagne was shaken by large-scale protest over appellation boundaries and grape prices. The 1908 administrative delimitation excluded most of the Aube from Champagne, angering local growers; in April 1911 growers in the Marne attacked merchants suspected of buying Aube grapes. The riots produced a temporary "second Champagne zone" and helped shape the 1927 delimitation.
+
+## Related images
+
+![Champagne](/media/photos/drink-france-champagne-acf0412f.jpg)
+
+Image: Champagne. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for The Champagne Riots of 1911: Appellation Boundaries, Grape Prices and the Identity of Champagne.

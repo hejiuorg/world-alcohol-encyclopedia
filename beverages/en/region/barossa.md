@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:barossa
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0708687be0d1f6ed27f3ca112d00b6bf69e5e10c696ffd1f69d7ffe75d64cb3c
-source_sha256: 0708687be0d1f6ed27f3ca112d00b6bf69e5e10c696ffd1f69d7ffe75d64cb3c
+source_revision: sha256:f63f4b4f57ed6af27fde7bcb1bd6c63cc27b00c2bcac2742a71b635bbd65f55c
+source_sha256: f63f4b4f57ed6af27fde7bcb1bd6c63cc27b00c2bcac2742a71b635bbd65f55c
 level: other
 parent_id: region:australia
 country_code: AU
@@ -100,6 +100,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Barossa
 
 Barossa is South Australia's best-known wine region, north-east of Adelaide, famous for Shiraz, old vines and full-bodied reds. It is not a single GI but a zone made up of the Barossa Valley and Eden Valley regions.![related photograph of Barossa](/media/photos/region-barossa-cae6ecd8.jpg)
@@ -189,3 +190,13 @@ Start with the appellation and its permitted varieties. From there, consider the
 - [Vintage](ref:vintage): vintage variation and drought in Barossa.
 - [Single varietal](ref:single-varietal): the 85% variety labelling rule.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Grenache](/media/photos/variety-grenache-69c881eb.jpg)
+
+Image: Grenache. Credit: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)). Related image for Barossa.
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Barossa.

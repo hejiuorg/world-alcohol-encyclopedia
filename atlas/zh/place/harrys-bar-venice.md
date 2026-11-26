@@ -79,6 +79,7 @@ city: 威尼斯
 verification_scope: source-verified
 founded_year: 1931
 ---
+
 # 哈里酒吧（威尼斯）
 
 ![哈里酒吧入口，门楣标着 1323](/media/photos/place-harrys-bar-venice-ad372cc6.jpg)
@@ -140,3 +141,9 @@ founded_year: 1931
 - [威尼斯圣马可广场两站酒吧路线](ref:venice-route)：步行串联两店的短路线。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[花神咖啡馆（威尼斯）](ref:florian)、[威尼斯圣马可广场两站酒吧路线](ref:venice-route)。
+
+## 相关图像
+
+![傍晚的威尼斯圣马可广场，钟楼与行政官邸大楼围出路线所在的广场空间。](/media/photos/route-venice-san-marco-two-bars-5def5f8f.jpg)
+
+图：傍晚的威尼斯圣马可广场，钟楼与行政官邸大楼围出路线所在的广场空间。。图片：Matthias Süßen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(Venice)_at_night-msu-2021-6449-.jpg)）。关联图像：哈里酒吧（威尼斯）。

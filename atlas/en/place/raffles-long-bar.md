@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:raffles-long-bar
 source_lang: zh
-source_revision: sha256:95ab7711d4d676f0ffef7b69e6beb1bad6ccbc0a5c0bef1c5808461b272a800c
-source_sha256: 95ab7711d4d676f0ffef7b69e6beb1bad6ccbc0a5c0bef1c5808461b272a800c
+source_revision: sha256:a20300fbecc1eb2eb3835c8782e8c1880ba75c1a92e18631121740413e260877
+source_sha256: a20300fbecc1eb2eb3835c8782e8c1880ba75c1a92e18631121740413e260877
 translation_status: reviewed
 subtype: pub
 address: "#02-01 Raffles Arcade, 328 North Bridge Road, Singapore 188719"
@@ -164,4 +164,10 @@ To place this bar in its urban setting, read [Pub and city](ref:pub-and-city), w
 
 Further reading: [Singapore Sling](ref:c-extra-1), [Gin](ref:c-extra-2), [A Ginjinha](ref:c-extra-3), [À la Mort Subite](ref:c-extra-4).
 
-**Short definition:** The storied bar on the second floor of Raffles Arcade in Singapore, where the Singapore Sling was first mixed in 1915, known for its peanut-shell tradition and 1920s Malayan plantation-inspired interior. 
+**Short definition:** The storied bar on the second floor of Raffles Arcade in Singapore, where the Singapore Sling was first mixed in 1915, known for its peanut-shell tradition and 1920s Malayan plantation-inspired interior.
+
+## Related images
+
+![Singapore Sling](/media/photos/cocktail-singapore-sling-882b80ba.jpg)
+
+Image: Singapore Sling. Credit: Paul2520, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Singapore_Sling_and_peanuts_at_the_Raffles_Hotel_Long_Bar_in_Singapore.jpg)). Related image for Raffles Long Bar.

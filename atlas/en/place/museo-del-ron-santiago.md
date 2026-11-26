@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:museo-del-ron-santiago
 source_lang: zh
-source_revision: sha256:c397a6c85092e5c7b2ca3340d6369cedca7cab4d7cea471d93f81d5caf5a9f93
-source_sha256: c397a6c85092e5c7b2ca3340d6369cedca7cab4d7cea471d93f81d5caf5a9f93
+source_revision: sha256:c585c70e0532f1e668cd3e91b8dbd3b4c9d2e8dd71f9530afcf9d3a27a7dbb16
+source_sha256: c585c70e0532f1e668cd3e91b8dbd3b4c9d2e8dd71f9530afcf9d3a27a7dbb16
 translation_status: reviewed
 subtype: museum
 address: Calle Bartolomé Masó 358 (San Basilio), e/ Pío Rosado y San Félix, Santiago de Cuba, Cuba
@@ -140,3 +140,9 @@ The museum sits in the historic centre, near Parque Céspedes, the cathedral, th
 Havana's Museo del Ron Havana Club is brand-run, more international in display, richer in tasting flights and stronger in bar and shop. Santiago's Museo del Ron starts from local industry memory, with more miscellaneous and older exhibits and a closer relationship to the building and the city. They are not substitutes but two ends of the Cuban rum story: one speaks of a brand and a national market, the other of eastern industry and immigrant technology.
 
 If you visit only one, Havana is the quicker way to build a framework on a first trip to Cuba; if you are in the east and want to know why Santiago calls itself the cradle, come here. Read [place and process](ref:place-and-process) before the visit, and the route from cane and molasses through distillation and ageing becomes easier to follow.
+
+## Related images
+
+![Molasses](/media/photos/ingredient-molasses-f347adf2.jpg)
+
+Image: Molasses. Credit: Badagnani, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Blackstrapmolasses.JPG)). Related image for Museo del Ron Santiago de Cuba.

@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:awamori
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fd8d4cfce40f9a99d3e069914bc04ab954161cbaf0d77cb72cce441627c06384
-source_sha256: fd8d4cfce40f9a99d3e069914bc04ab954161cbaf0d77cb72cce441627c06384
+source_revision: sha256:95308eafe825ea767e570b9ab3d71bde2e71dd806335ab31965a1a2a01c790db
+source_sha256: 95308eafe825ea767e570b9ab3d71bde2e71dd806335ab31965a1a2a01c790db
 legacy_refs: []
 parent_style_id: drink-style:shochu
 aroma_family: rice and aged aroma
@@ -158,3 +158,9 @@ Start with the production rule. From there, consider the strength, then the usua
 - [Rice](ref:rice): awamori's single main material.
 - [Fermentation](ref:fermentation): black koji, all-rice koji and the single mash.
 - [Japan](ref:japan): Okinawa and the geography of Japanese drinks.
+
+## Related images
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for Awamori.

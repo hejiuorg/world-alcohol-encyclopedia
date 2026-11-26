@@ -84,6 +84,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 特雷比奥罗（白玉霓）
 
 特雷比奥罗（Trebbiano）是一个容易被误解的名字：它既是意大利广泛种植的一类白葡萄，也是法国干邑与雅文邑的主力品种"白玉霓"（Ugni Blanc）。同一个品种在意大利叫 Trebbiano Toscano，在法国叫 Ugni Blanc，在两地扮演完全不同的角色——意大利用它做清淡的白葡萄酒与甜酒的基酒，法国用它蒸馏成世界上最著名的白兰地之一。理解这个品种，必须同时看这两条线索（ref:white-wine）。
@@ -146,3 +147,9 @@ Trebbiano Toscano 是意大利名，Ugni Blanc 是法国名，两者指同一品
 - [酸度](ref:acidity)：它适合蒸馏与清爽白葡萄酒的共同原因。
 
 相关条目：[葡萄酒](ref:wine)、[白葡萄酒](ref:white-wine)。
+
+## 相关图像
+
+![雅文邑](/media/photos/region-armagnac-e5e16174.jpg)
+
+图：雅文邑。图片：Rama，CC BY-SA 2.0 fr，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Armagnac-img_0465.jpg)）。关联图像：特雷比奥罗（白玉霓）。

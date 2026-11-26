@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:corvina
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c202e3a7b481e5c6ff030b42ea12eaf8f913bea8d71c5851163d3201b195b3ba
-source_sha256: c202e3a7b481e5c6ff030b42ea12eaf8f913bea8d71c5851163d3201b195b3ba
+source_revision: sha256:292b10c6c78fdb47ade71027b8d916849b570b2d239f58885bb795f8420cc8a0
+source_sha256: 292b10c6c78fdb47ade71027b8d916849b570b2d239f58885bb795f8420cc8a0
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -68,6 +68,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Corvina
 
 Corvina is a red grape variety from Veneto, Italy, with relatively thin skins and moderate colour, known for sour cherry, almond and herbal aromas. It is the core variety of Valpolicella and Amarone, usually blended with Corvinone and Rondinella rather than made as a single-variety wine.![Corvina image](/media/photos/variety-corvina-633c9e19.jpg)
@@ -146,3 +147,9 @@ Corvina is the core of Valpolicella and Amarone, usually blended with Corvinone 
 - [Italy](ref:italy): where Veneto sits on the Italian wine map.
 - [Amarone](ref:amarone): the representative wine made from Corvina with dried grapes.
 - [Oak ageing](ref:oak-ageing): how ageing shapes dried-grape reds.
+
+## Related images
+
+![Photograph for Amarone della Valpolicella: A bottle of Amarone della Valpolicella. Credit: Jerzy Kociatkiewicz, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-drink-italy-amarone-della-valpolicella-035ae8e3.jpg)
+
+Image: A bottle of Amarone della Valpolicella. Credit: Jerzy Kociatkiewicz, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Jerzy Kociatkiewicz, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=8844471)). Related image for Corvina.

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:yamanashi
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c64b689ff0111920547b2750d1139f3c16de8a1a07268809adba14b7d5caac26
-source_sha256: c64b689ff0111920547b2750d1139f3c16de8a1a07268809adba14b7d5caac26
+source_revision: sha256:24f088f2c0e1843b0644f8cf7502be3c494a1ec1d7994db8a54052946c20673c
+source_sha256: 24f088f2c0e1843b0644f8cf7502be3c494a1ec1d7994db8a54052946c20673c
 level: province
 parent_id: region:japan
 country_code: JP
@@ -87,6 +87,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Yamanashi
 
 Yamanashi lies in central Honshu, west of Tokyo, and is the most concentrated wine region in Japan. Centred on the Kofu basin and Katsunuma in Koshu city, it makes [white wine](ref:white-wine) from the local flagship variety Koshu, along with a smaller amount of [red wine](ref:red-wine), and holds a special place in Japanese domestic [wine](ref:wine).![Yamanashi category image](/media/photos/place-hakushu-distillery-1ac68207.jpg)
@@ -167,3 +168,13 @@ Yamanashi is best approached through the appellation and its permitted varieties
 - [Red wine](ref:red-wine): the smaller second category in Yamanashi.
 - [Wine](ref:wine): an overview of wine categories and origin rules.
 - [Fermentation](ref:fermentation) and [oak ageing](ref:oak-ageing): key processes behind Koshu style.
+
+## Related images
+
+![Category image for Japan](/media/photos/place-kamotsuru-a0074234.jpg)
+
+Image: Category image for Japan. Credit: OS6, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)). Related image for Yamanashi.
+
+![Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.](/media/photos/editorial-oak-ageing-q2.jpg)
+
+Image: Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Yamanashi.

@@ -31,8 +31,8 @@ tags:
 translation_of: place:ye-olde-mitre
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bcc8ac19e66bbe9e8c4a111bee494862611dd7ac1a6e39226d9ba7f448f40f91
-source_sha256: bcc8ac19e66bbe9e8c4a111bee494862611dd7ac1a6e39226d9ba7f448f40f91
+source_revision: sha256:eef7819be6ecffc5f6130663740ba487ae81f50706671ca462921a24e9d3eb61
+source_sha256: eef7819be6ecffc5f6130663740ba487ae81f50706671ca462921a24e9d3eb61
 related:
   - relation: about
     target_id: culture-article:pub-and-city
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1546
 ---
+
 # Ye Olde Mitre
 
 Turn off Hatton Garden between two jewellery shopfronts, follow a court barely wide enough for two people, and the traffic noise falls away within a dozen steps. A small timber-faced building and a narrow yard appear. This is Ye Olde Mitre: not on a main street, with no large sign to pull people in, and easy to walk past. Because it sits inside Ely Court, what it preserves is not only old woodwork but a particular kind of everyday life in a gap in the city.
@@ -143,3 +144,9 @@ Start with the address. From there, consider the current opening status, then wh
 [Reading a city through its bars](ref:pub-city)'s address and space and [London classic bar walk: three hotel bars and a Fleet Street pub](ref:london-route)'s operating status form a useful pair: the contrast shows where one ends and the other begins.
 
 Checked on 2026-11-21 against the Ye Olde Mitre official page. Normal hours are Monday–Friday 11:00–23:00, weekends are usually closed, and holidays or private hire can change the schedule; the entrance is inside the narrow Ely Court, so large groups should not arrive together. 1546 is the site's starting year and the surviving timber is mainly 18th-century; the cherry-tree story is presented as legend. The image looks from Ely Court at the brick exterior, not the interior.
+
+## Related images
+
+![The Spaniards Inn on the northern edge of Hampstead Heath; the pub dates from 1585, while the present fabric reflects later alterations](/media/photos/place-spaniards-inn-hampstead-288696c1.jpg)
+
+Image: The Spaniards Inn on the northern edge of Hampstead Heath; the pub dates from 1585, while the present fabric reflects later alterations. Credit: Ewan-M, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Spaniard%27s_Inn,_Hampstead,_2026-07-11.jpg)). Related image for Ye Olde Mitre.

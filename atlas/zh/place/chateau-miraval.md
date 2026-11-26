@@ -82,6 +82,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；所有权、产量与销售渠道会变化，酒庄不对外开放，访问前务必以官方渠道确认。
 verification_scope: source-verified
 ---
+
 # 米拉沃酒庄
 
 米拉沃酒庄（Château Miraval）在瓦尔省的科朗斯，是一处被松林、橄榄树与葡萄园包围的私人产业，也是普罗旺斯桃红在国际市场上最有辨识度的名字之一。它对外更像一个“酒标”而不是“景点”：官方问答明确写着庄园不对公众开放，酒款在佩兰家族的品鉴室与指定渠道出售。把它当作一个需要预约才能进入的酒窖，会直接走错方向；把它当作一瓶需要理解产地与工艺的酒，才符合它现在的运作方式。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 - [Côtes de Provence — Vins de Provence](https://www.vinsdeprovence.com/les-appellations/cotes-de-provence)：1977 年 AOP、地理命名与土壤分区。
 
 补充阅读：[葡萄酒](ref:c-extra-1)。
+
+## 相关图像
+
+![普罗旺斯](/media/photos/region-provence-bc066643.jpg)
+
+图：普罗旺斯。图片：Robert Brink，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg)）。关联图像：米拉沃酒庄。

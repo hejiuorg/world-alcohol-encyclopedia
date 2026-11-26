@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:gonzalez-byass-bodega
 source_lang: zh
-source_revision: sha256:c9987627d88d7c398cadb230bb14e100ab22ff23de26097de4ac2fac1410d22c
-source_sha256: c9987627d88d7c398cadb230bb14e100ab22ff23de26097de4ac2fac1410d22c
+source_revision: sha256:f73b81abe28ae29357c9a2b735be06d5ed67c4d6f53616a67ea84c310ad19b7a
+source_sha256: f73b81abe28ae29357c9a2b735be06d5ed67c4d6f53616a67ea84c310ad19b7a
 translation_status: reviewed
 subtype: winery-visitor
 address: Calle Manuel María González 12, 11402 Jerez de la Frontera, Spain
@@ -100,6 +100,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; tour prices, times and wines change, so confirm with the winery's official channels.
 verification_scope: source-verified
 ---
+
 # Bodegas González Byass
 
 González Byass occupies a block of cellars in central Jerez de la Frontera, at Calle Manuel María González 12. Manuel María González Ángel founded the house in 1835 and it is best known for the Fino brand Tío Pepe. Unlike a vineyard estate, this is a piece of the old town: courtyards, cobbled lanes, whitewashed bodegas with high windows, and gardens. A visit explains how Sherry ages biologically and oxidatively inside city buildings.![Bodegas González Byass photograph](/media/photos/q2-place-gonzalez-byass-bodega-72eea18a.jpg)
@@ -159,3 +160,9 @@ Read [Bodegas López de Heredia](ref:lopez) for the address and space side of Bo
 | Official site | gonzalezbyass.com |
 
 **Sources and limits.** The key claims about Bodegas González Byass are checked against the following sources: Bodegas Tío Pepe / González Byass, Consejo Regulador de las Denominaciones de Origen Jerez-Xérès-Sherry y Manzanilla, Mapcarta / OpenStreetMap contributors. For current products, addresses or opening status, use gonzalezbyass.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Bodegas López de Heredia](/media/photos/place-bodegas-lopez-de-heredia-8703f772.jpg)
+
+Image: Bodegas López de Heredia. Credit: Zarateman, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Haro_-_Bodegas_L%C3%B3pez_de_Heredia_Vi%C3%B1a_Tondonia_1.JPG)). Related image for Bodegas González Byass.

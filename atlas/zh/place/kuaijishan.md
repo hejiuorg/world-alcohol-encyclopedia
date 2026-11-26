@@ -86,6 +86,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约、品鉴与活动会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 会稽山（黄酒文化园与厂区参观）
 
 会稽山在绍兴黄酒里是一个“老名字、新园区”的组合。公司注册地在柯桥区湖塘街道杨绍路 2579 号，紧邻鉴湖；园区把黄酒博物馆、厂区参观与体验中心串在一起，既能看展板上的历史，也能在指定路线上看到部分生产空间。它适合想把“绍兴酒怎么做”看具体的人，但需要提前预约，也需要接受“厂区不是自由参观”的边界。
@@ -133,3 +134,9 @@ verification_scope: source-verified
 会稽山把[黄酒](ref:yellow-wine)的工艺落在一座鉴湖边的园区里，也让[绍兴](ref:shaoxing)的“水—米—曲—坛”关系变得具体。把它放回[中国](ref:china)的黄酒版图，再看[黄酒史](ref:yellow-history)，会更容易理解冬酿与陈贮为什么重要。
 
 补充阅读：[浙江省](ref:c-extra-1)。
+
+## 相关图像
+
+![黄酒](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+图：黄酒。图片：udono，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)）。关联图像：会稽山（黄酒文化园与厂区参观）。

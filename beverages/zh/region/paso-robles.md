@@ -76,6 +76,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 帕索罗布尔斯
 
 加州中央海岸北部的 AVA，白天炎热、夜晚凉爽，以仙粉黛、赤霞珠与西拉著称；1983 年获 AVA，现有 11 个子 AVA，石灰岩与冲积土使风格比一般加州酒更紧。
@@ -180,3 +181,13 @@ Tablas Creek 的 Esprit de Tablas、Justin 的 Isosceles、Halter Ranch 的 Côt
 | 国家代码 | US |
 
 **来源与边界。** 本页关于「帕索罗布尔斯」的关键事实，主要由以下来源交叉核对：Wine Institute（加州葡萄酒产区与产业框架）、USDA（农业地理、气候与土地利用背景）、OIV（葡萄酒定义与全球生产框架）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![仙粉黛](/media/photos/variety-zinfandel-8a623213.jpg)
+
+图：仙粉黛。图片：Frank Schulenburg，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ripe_Zinfandel_grapes_in_Dry_Creek_Valley-8958.jpg)）。关联图像：帕索罗布尔斯。
+
+![美国类别配图](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+图：美国类别配图。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：帕索罗布尔斯。

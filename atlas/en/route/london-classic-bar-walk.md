@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:london-classic-bar-walk
 source_lang: zh
-source_revision: sha256:592ea0bd2789e6bb654f60c73bb5f91924676f14cbc5de746844c444baf72f77
-source_sha256: 592ea0bd2789e6bb654f60c73bb5f91924676f14cbc5de746844c444baf72f77
+source_revision: sha256:d7ac1e58b1a2c00ba18e16b860b89fb1c73f99a67c678f81ebe5bc97eba2bb8c
+source_sha256: d7ac1e58b1a2c00ba18e16b860b89fb1c73f99a67c678f81ebe5bc97eba2bb8c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -246,3 +246,13 @@ Fifth, treat the famous names as background, not a promise. The literary and coc
 Sixth, this route describes the structure of the route and verifiable facts only. It does not provide live opening status, a map or coordinates: the four venues' latitude and longitude are left empty in the content repository, and with no verifiable coordinate source the project rule is not to draw a schematic map. For precise navigation, use a live map service and follow on-site signage.
 
 Further reading: [Alsace Grand Cru trail: Kaysersberg and Riquewihr](ref:c-extra-1).
+
+## Related images
+
+![The Connaught Bar](/media/photos/place-the-connaught-bar-a9a51824.jpg)
+
+Image: The Connaught Bar. Credit: Herry Lawford from Stockbridge, UK, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mount_St_(3768612442).jpg)). Related image for London classic bar walk: three hotel bars and a Fleet Street pub.
+
+![Dukes Bar](/media/photos/place-dukes-bar-d9c0fb94.jpg)
+
+Image: Dukes Bar. Credit: Ricardalovesmonuments, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hotel_Dukes_London.jpg)). Related image for London classic bar walk: three hotel bars and a Fleet Street pub.

@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:zinfandel
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e43c630369f543a230ce872e959e221cd9287a3010d5be4cfa1e7923fc827d49
-source_sha256: e43c630369f543a230ce872e959e221cd9287a3010d5be4cfa1e7923fc827d49
+source_revision: sha256:017b798491ecf584e028b6f54498991c3b24d1a9d4036a276e6dadfad1a25f1f
+source_sha256: 017b798491ecf584e028b6f54498991c3b24d1a9d4036a276e6dadfad1a25f1f
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -139,3 +139,9 @@ First, that White Zinfandel comes from a white grape; it is a rosé made from a 
 - [United States](ref:usa): the variety's most important modern region.
 - [Italy](ref:italy): the home of Primitivo and its appellations.
 - [Alcohol by volume](ref:alcohol-by-volume): the measure that explains Zinfandel's high-alcohol profile.
+
+## Related images
+
+![Photograph for Italy: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-italy-202d4c25.jpg)
+
+Image: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=35825496)). Related image for Zinfandel.

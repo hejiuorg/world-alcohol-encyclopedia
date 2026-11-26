@@ -50,7 +50,7 @@ sources:
     accessed: 2026-11-20
   - key: pu-arguments
     title: Pilsner Urquell — Our Arguments
-    url: https://www.pilsnerurquell.com/our-arguments
+    url: https://www.pilsnerurquell.com/stories
     publisher: Plzeňský Prazdroj
     note: 用于核对金色酒体、三重煮沸、开放发酵、橡木桶与长时间冷陈的工艺；未复制原文。
     accessed: 2026-11-20

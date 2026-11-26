@@ -24,8 +24,8 @@ tags:
 translation_of: region:salta
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2694c95e7c0129ecd691f66ffb76ecf1ae7e60498c58d516b48b910c30d88e26
-source_sha256: 2694c95e7c0129ecd691f66ffb76ecf1ae7e60498c58d516b48b910c30d88e26
+source_revision: sha256:56cdf0c6443684c37958530f820ec26126557e67526ab3d8698d432f56ec3058
+source_sha256: 56cdf0c6443684c37958530f820ec26126557e67526ab3d8698d432f56ec3058
 related:
   - relation: about
     target_id: region:argentina
@@ -116,6 +116,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Salta
 
 A high-altitude wine region in northwest Argentina, centred on the Cafayate Valley in Salta; at 1,700–3,000 metres with intense sun and a wide diurnal range, it is known for Torrontés whites and high-altitude Malbec.
@@ -187,3 +188,13 @@ Estates are spread along both sides of the valley: a tasting lasts 60–90 minut
 **In brief:** A high-altitude wine region in northwest Argentina, centred on the Cafayate Valley in Salta; at 1,500–3,100 metres with intense sun and a wide diurnal range, it is known for Torrontés whites and high-altitude Malbec.
 
 Read Salta through the appellation and its permitted varieties, then the vintage and the producer, and finally how the wine is labelled. The sequence matters.
+
+## Related images
+
+![Argentina: Miraluna Vineyard, Cachi, Argentina (7126977841) (Wikimedia Commons)](/media/photos/region-argentina-454da145.jpg)
+
+Image: Argentina: Miraluna Vineyard, Cachi, Argentina (7126977841) (Wikimedia Commons). Credit: Rod Waddington from Kergunyah, Australia, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Miraluna_Vineyard,_Cachi,_Argentina_(7126977841).jpg)). Related image for Salta.
+
+![Malbec](/media/photos/variety-malbec-88d109c6.jpg)
+
+Image: Malbec. Credit: Ian L, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Malbec_grapes.jpg)). Related image for Salta.

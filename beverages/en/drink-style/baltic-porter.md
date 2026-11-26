@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:baltic-porter
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e4ed91d40e98f6492209e60355021413cdfbb927e3025c3dbc358970ecd08a0b
-source_sha256: e4ed91d40e98f6492209e60355021413cdfbb927e3025c3dbc358970ecd08a0b
+source_revision: sha256:8e5390baa2c4503fa22c52c7b186b969e3f607b9d112997dd6974bb13c6a5adb
+source_sha256: 8e5390baa2c4503fa22c52c7b186b969e3f607b9d112997dd6974bb13c6a5adb
 related:
   - relation: about
     target_id: drink-style:porter
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Baltic Porter
 
 A dark, high-gravity beer brewed with lager yeast around the Baltic, with dark chocolate, caramel, dried fruit and liquorice; it shares porter ancestry but is closer to imperial stout in process.
@@ -140,3 +141,9 @@ For a compact study set, compare a Polish, a Lithuanian and a British porter at 
 - [Lager](ref:lager): bottom-fermenting yeast and cold maturation.
 - [Barley](ref:barley): malt and cereal raw material.
 - [Oak ageing](ref:oak): the effect of barrel maturation.
+
+## Related images
+
+![Barley](/media/photos/ingredient-barley-37a96001.jpg)
+
+Image: Barley. Credit: Cliff from Arlington, Virginia, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)). Related image for Baltic Porter.

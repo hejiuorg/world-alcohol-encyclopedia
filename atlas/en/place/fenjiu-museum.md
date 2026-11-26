@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fenjiu-museum
 source_lang: zh
-source_revision: sha256:01238d9d1c203befaccac4f3bb150e03aef7d04c5ed62892e936f290629c709f
-source_sha256: 01238d9d1c203befaccac4f3bb150e03aef7d04c5ed62892e936f290629c709f
+source_revision: sha256:deee8fba80594fe8353edd32c55fe7df5096fb7dd693c860c9ee4fe1578324b7
+source_sha256: deee8fba80594fe8353edd32c55fe7df5096fb7dd693c860c9ee4fe1578324b7
 translation_status: reviewed
 subtype: museum
 address: Xinghuacun, Fenyang, Lüliang, Shanxi 032205, China
@@ -180,3 +180,9 @@ During the Xinghua Festival (usually March–April) and the sealing ceremony, cr
 - [Luzhou Laojiao cellars](ref:luzhou): a strong-aroma living heritage site in Sichuan, a contrast with light-aroma Fenjiu.
 - [Shuijingfang Museum](ref:shuijingfang): a strong-aroma site museum in Chengdu, another "site plus living production" narrative.
 - [Wang Bao He](ref:wang-bao-he): a Shanghai yellow-wine and crab restaurant, another Chinese drinks table.
+
+## Related images
+
+![Light aroma baijiu](/media/photos/drink-style-light-aroma-baijiu-1c3af236.jpg)
+
+Image: Light aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Fenjiu Museum.

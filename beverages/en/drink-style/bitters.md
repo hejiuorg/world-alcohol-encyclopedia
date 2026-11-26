@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:bitters
 source_lang: zh
-source_revision: sha256:bee4ddf22af9f2bab2b52219729ef45838457e5975dff94a3241db681ce7431c
-source_sha256: bee4ddf22af9f2bab2b52219729ef45838457e5975dff94a3241db681ce7431c
+source_revision: sha256:200a8427b01ca3321b89ee619ec7ca8478741b51c3ea2e2a6431ff7f1ccbf835
+source_sha256: 200a8427b01ca3321b89ee619ec7ca8478741b51c3ea2e2a6431ff7f1ccbf835
 translation_status: reviewed
 legacy_refs: []
 parent_style_id: drink-style:liqueur
@@ -82,6 +82,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Bitters
 
 Bitters is a highly concentrated alcoholic flavouring built around bitter plants. It is rarely drunk in quantity; it goes into a cocktail by the dash or by a few millilitres, adjusting aroma, bitterness and length the way a cook uses salt and pepper. Its strength is usually high and its flavour heavily concentrated. To understand bitters, the key question is not "how bitter is it" but "what does it do to the whole drink".
@@ -145,3 +146,9 @@ The comparison with [Liqueur](ref:liqueur) and [Vermouth](ref:vermouth) runs thr
 | Aroma family | bitter/herbal/spice |
 
 **Sources and limits.** The key claims about Bitters are checked against the following sources: Angostura (the 1824 recipe origin, Trinidad production and the 1831 cocktail reference), Sazerac Company (New Orleans bitters and nineteenth-century cocktail tradition), European Union (the bitter-spirit category and the 15% ABV legal threshold) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![A bottle of Amaro Montenegro and a glass of amber amaro, the label reading Amaro Montenegro and Product of Italy.](/media/photos/drink-style-amaro-3d4ee5a9.jpg)
+
+Image: A bottle of Amaro Montenegro and a glass of amber amaro, the label reading Amaro Montenegro and Product of Italy.. Credit: Shabbychef, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Amaro_Montenegro.jpg)). Related image for Bitters.

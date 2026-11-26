@@ -22,8 +22,8 @@ tags:
 translation_of: variety:verdejo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c7bc5b5f45d8aaffe188654d8045e921f4edf1280e53e375473dd7285017228a
-source_sha256: c7bc5b5f45d8aaffe188654d8045e921f4edf1280e53e375473dd7285017228a
+source_revision: sha256:48b21089f82218241e15e22b7ee48568001435051f2210b8be36a3fa8179ca29
+source_sha256: 48b21089f82218241e15e22b7ee48568001435051f2210b8be36a3fa8179ca29
 related:
   - relation: about
     target_id: region:rueda
@@ -78,6 +78,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Verdejo
 
 A white grape of Rueda in Spain, with fennel, citrus, white flowers and herbal notes and crisp acidity; often blended with Sauvignon Blanc or Viognier, it is the core of modern Spanish white wine.
@@ -148,3 +149,9 @@ Read [Rueda](ref:rueda) for the variety character side of Verdejo, and [Viognier
 **In brief:** A white grape of Rueda in Spain, with fennel, citrus, white flowers and herbal notes and crisp acidity; often blended with Sauvignon Blanc or Viognier, it is the core of modern Spanish white wine.
 
 Verdejo is the core white of Rueda, on the high plateau of Castilla y León, where cold nights preserve acidity in a hot, dry summer. The best wines come from old vines on gravel and limestone, and the variety shows fennel, citrus and a bitter herbal finish rather than the tropical fruit of warmer climates. Rueda rules allow blending with Sauvignon Blanc and Viognier, and many commercial wines use that to add aroma; a label that says Verdejo alone is usually more varietal and more acidic. The grape was long used for oxidative wines before the 1970s shift to clean, temperature-controlled fermentation. When comparing bottles, check whether the wine is young and unoaked or aged on lees, because that changes texture more than the variety itself.
+
+## Related images
+
+![Old vines on stony ground at the Martinsancho vineyard in Rueda.](/media/photos/region-rueda-01fdfbdc.jpg)
+
+Image: Old vines on stony ground at the Martinsancho vineyard in Rueda.. Credit: Carlosmartinmm34, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Martinsancho_Vineyard.jpg)). Related image for Verdejo.

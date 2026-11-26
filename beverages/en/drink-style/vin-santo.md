@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:vin-santo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:21642debc98e059c9620b3aa5c38e2228106bc0cb284f6fd59e02ed2d167ef74
-source_sha256: 21642debc98e059c9620b3aa5c38e2228106bc0cb284f6fd59e02ed2d167ef74
+source_revision: sha256:9ac8070135d93e975f311749c6031e46d546ca65a9108c600a973002e933e746
+source_sha256: 9ac8070135d93e975f311749c6031e46d546ca65a9108c600a973002e933e746
 related:
   - relation: about
     target_id: drink-style:dessert-wine
@@ -154,4 +154,10 @@ To learn a special wine, start with the standard benchmark, then a variant that 
 
 - Related: [dessert-wine](ref:dessert-wine), [late-harvest](ref:late-harvest), [oak-ageing](ref:oak), [tuscany](ref:tuscany), [wine](ref:wine).
 
-**At a glance:** A sweet Tuscan “holy wine” made from dried grapes and aged in wood for years; dried apricot, honey, nuts and caramel, traditionally served with cantucci almond biscuits. 
+**At a glance:** A sweet Tuscan “holy wine” made from dried grapes and aged in wood for years; dried apricot, honey, nuts and caramel, traditionally served with cantucci almond biscuits.
+
+## Related images
+
+![Late harvest](/media/photos/term-late-harvest-fde1a4f5.jpg)
+
+Image: Late harvest. Credit: Agne27, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Late_harvest_Semillon.jpg)). Related image for Vin Santo.

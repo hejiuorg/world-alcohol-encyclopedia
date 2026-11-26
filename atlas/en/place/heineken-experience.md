@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:heineken-experience
 source_lang: zh
-source_revision: sha256:c1a502194fe5357c9c22f286c33097e26658e1d9e8bed1ccbb34afc06654d305
-source_sha256: c1a502194fe5357c9c22f286c33097e26658e1d9e8bed1ccbb34afc06654d305
+source_revision: sha256:ec5d63adc1aa5cbf9b129aa52da6ebe228c9d8ceddcc100ed02a9f34ee19ad2d
+source_sha256: ec5d63adc1aa5cbf9b129aa52da6ebe228c9d8ceddcc100ed02a9f34ee19ad2d
 translation_status: reviewed
 subtype: museum
 address: Stadhouderskade 78, 1072 AE Amsterdam, Netherlands
@@ -88,6 +88,7 @@ rights:
   note: The lead image is a photograph of the Heineken Experience from Wikimedia Commons, used under CC BY-SA 4.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Heineken Experience: A Second Life for an Old Brewery
 
 South of central Amsterdam, along the Singelgracht to Stadhouderskade 78, a row of nineteenth-century industrial buildings carries the green Heineken sign. This is not a working brewery: it is the visitor attraction created in Heineken's oldest brewery after production left in 1988. Brand history, brewing and tasting fill one indoor route, useful for a quick grasp of Dutch lager, but no substitute for a production visit.
@@ -159,3 +160,9 @@ Treating Heineken Experience as a brand or a region mixes two different question
 | Official site | heinekenexperience.com |
 
 **Sources and limits.** The key claims about Heineken Experience: A Second Life for an Old Brewery are checked against the following sources: Heineken Experience (Used to check the "oldest brewery" location, the 1988 closure and the interactive-experience framing; Used to check the Stadhouderskade 78 address, daily opening hours, last entry times and tram/metro routes), UNESCO (the entry's background, terminology and regulatory context). For current products, addresses or opening status, use heinekenexperience.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Netherlands: Vineyard Dassemus (Chaam, Netherlands, July 2020) - 2 (50522232027). Credit: Bruno Rijsman, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-netherlands-01d9680b.jpg)
+
+Image: Vineyard Dassemus (Chaam, Netherlands, July 2020) - 2 (50522232027). Credit: Bruno Rijsman, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Bruno Rijsman, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=101342530)). Related image for Heineken Experience: A Second Life for an Old Brewery.

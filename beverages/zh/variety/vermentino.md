@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 维蒙蒂诺
 
 地中海沿岸的白葡萄，在撒丁岛、利古里亚、托斯卡纳与法国普罗旺斯（称 Rolle）种植；带柑橘、白花、海盐与草药，酸度中高，适合海鲜。
@@ -141,3 +142,9 @@ verification_scope: source-verified
 理解这个品种最直接的方式，是在同一年份里比较 Gallura 干白、利古里亚 Pigato 与普罗旺斯 Rolle 混酿，记录三者在酸度、苦感与矿物上的差别。它与 [white-wine](ref:white) 一类的酿造方式、[terroir](ref:terroir) 层面的海岸风土、[fermentation](ref:fermentation) 工艺以及 [oak-ageing](ref:oak) 选择都相互关联。
 
 - 相关条目：[white-wine](ref:white)、[terroir](ref:terroir)、[fermentation](ref:fermentation)、[chardonnay](ref:chardonnay)、[oak-ageing](ref:oak)。
+
+## 相关图像
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：维蒙蒂诺。

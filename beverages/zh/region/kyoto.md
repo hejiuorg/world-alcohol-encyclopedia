@@ -81,6 +81,7 @@ rights:
   note: 第三方组合名录、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 京都
 
 京都首先是[日本](ref:japan)的一座城市，也是一个府。作为[清酒](ref:sake)产区，“京都”既可以指京都市内的酒藏，也可以指整个京都府的酿造传统。本页处理的是府域层面的清酒地理：它把洛中、伏见、京都丹波、宫津、福知山与京丹后峰山等酒藏组合放在同一张地图上，而不是重复伏见的运河与博物馆细节。
@@ -160,3 +161,13 @@ verification_scope: source-verified
 - 佐々木酒造「京都洛中・佐々木酒造株式会社」：https://www.jurakudai.com/
 - 国税庁「清酒の製法品質表示基準を定める件」：https://www.nta.go.jp/taxes/sake/hyoji/seishu/kokuji891122/03.htm
 - Kyoto Travel（京都市公式观光指南）：https://kyoto.travel/
+
+## 相关图像
+
+![纯米酒相关实景照片](/media/photos/drink-style-junmai-sake-c56e7eb1.jpg)
+
+图：纯米酒相关实景照片。图片：Nisiguti，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Matsui_Sake_Brewery%27s_Sake_20211122.jpg)）。关联图像：京都。
+
+![吟酿相关实景照片](/media/photos/drink-style-ginjo-sake-4e3c0fe6.jpg)
+
+图：吟酿相关实景照片。图片：halfrain，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8_(Junmai_Ginjo)_(15656231855).jpg)）。关联图像：京都。

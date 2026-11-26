@@ -38,8 +38,8 @@ tags:
 translation_of: place:williams-selyem
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e2cadae12dafbdd6a26c0ba991509b7ba9b3c50ae8b577bf3ab8fdf7e7e46e4c
-source_sha256: e2cadae12dafbdd6a26c0ba991509b7ba9b3c50ae8b577bf3ab8fdf7e7e46e4c
+source_revision: sha256:9c7567084314f7debd98a6f98bf73e2d00eeb3d593a860b6177ffa9a831c83cf
+source_sha256: 9c7567084314f7debd98a6f98bf73e2d00eeb3d593a860b6177ffa9a831c83cf
 related:
   - relation: about
     target_id: region:sonoma
@@ -75,6 +75,12 @@ sources:
     publisher: Williams Selyem
     note: Used to verify Rochioli, Allen, Porter Bass and Estate wines; no source text is reproduced.
     accessed: 2026-11-21
+  - key: williams-selyem-official
+    title: "Williams Selyem — official website"
+    url: "https://www.williamsselyem.com/"
+    publisher: "Williams Selyem"
+    note: "Used to check the Russian River Valley estate and winery information; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -164,4 +170,10 @@ With half a day, choose Williams Selyem plus Healdsburg and skip a third stop; t
 - This entry does not provide live allocation, stock or opening status; check the estate website and your booking confirmation before visiting.
 - To understand the estate, compare a Russian River Valley bottling with a single vineyard, then set one against a Burgundy Premier Cru to see where “transparent fruit” ends and “earth and spice” begins.
 
-**Short definition:** A pioneer Pinot Noir winery in the Russian River Valley, Sonoma County, founded by Burt Williams and Ed Selyem in a garage in 1981; known for low yields, old vines and a fine style, with visits by appointment. 
+**Short definition:** A pioneer Pinot Noir winery in the Russian River Valley, Sonoma County, founded by Burt Williams and Ed Selyem in a garage in 1981; known for low yields, old vines and a fine style, with visits by appointment.
+
+## Related images
+
+![Sonoma](/media/photos/region-sonoma-a79b1e60.jpg)
+
+Image: Sonoma. Credit: Cullen328, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sonoma_City_Hall_(cropped).jpg)). Related image for Williams Selyem.

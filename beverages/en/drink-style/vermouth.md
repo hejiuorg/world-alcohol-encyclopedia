@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:vermouth
 source_lang: zh
-source_revision: sha256:35c4a585f97d5221365e9753a259eb70194f28f02a464d076dd12362543d505b
-source_sha256: 35c4a585f97d5221365e9753a259eb70194f28f02a464d076dd12362543d505b
+source_revision: sha256:f85400dba5b387e350d6ef8f9be0f317338a647337438b3edb63d33c3345dc2e
+source_sha256: f85400dba5b387e350d6ef8f9be0f317338a647337438b3edb63d33c3345dc2e
 translation_status: reviewed
 parent_style_id: drink-style:fortified-wine
 legacy_refs: []
@@ -82,6 +82,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Vermouth
 
 Vermouth is an aromatised wine: a wine base plus wormwood, clove, cinnamon, citrus peel and other botanicals, fortified according to product type and adjusted for sugar. It has the acidity and fruit of wine and the bitterness and aroma of a spirit, so it can be drunk alone or used in cocktails. Its classic role is as an [aperitif](ref:aperitif), though modern bars also use it as a modifier. Unlike an ordinary [fortified wine](ref:fortified-wine), its core is not a rise in alcohol but a rebuild of the aroma with plants.
@@ -152,3 +153,9 @@ Two arguments recur: how much aromatisation and sweetening still counts as vermo
 | --- | --- |
 | In one line | An aromatised wine based on wine, flavoured with wormwood and other botanicals and fortified by category; EU rules set an actual-alcohol range from 14.5% up to but below 22% and a total-alcohol floor of 17.5%, and dry, w… |
 | Parent style | Fortified wine |
+
+## Related images
+
+![Aperitif](/media/photos/drink-style-aperitif-7af7d066.jpg)
+
+Image: Aperitif. Credit: Wikimedia Commons contributor, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aperitif_Campari_Soda.jpg)). Related image for Vermouth.

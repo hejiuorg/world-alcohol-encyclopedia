@@ -32,8 +32,8 @@ tags:
 translation_of: place:brasserie-lipp
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d69c801498c5ced3a1e4ccad1b0af2dbc81e375f5014ba2cbde8b36a370b8b5d
-source_sha256: d69c801498c5ced3a1e4ccad1b0af2dbc81e375f5014ba2cbde8b36a370b8b5d
+source_revision: sha256:8f64cd74937e33bd4ea531df43e06245e612f5f1addaf2961bf4fe377a06ebc4
+source_sha256: 8f64cd74937e33bd4ea531df43e06245e612f5f1addaf2961bf4fe377a06ebc4
 related:
   - relation: about
     target_id: place:la-closerie-des-lilas
@@ -89,6 +89,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1880
 ---
+
 # Brasserie Lipp
 
 At 151 Boulevard Saint-Germain, a facade covered in glazed floral tiles and an old "BRASSERIE LIPP" sign mark the entrance. Unlike Café de Flore, it does not spill seats onto the pavement; unlike a grand restaurant, it has no doorman. Step through the old revolving door and you find dark woodwork, mirrors, leather banquettes and tightly packed tables. At lunch and dinner there is always someone eating, talking business or watching the room. It is a brasserie, but more than that it is Saint-Germain-des-Prés's political and literary drawing room.![Glazed-tile facade of Brasserie Lipp](/media/photos/place-brasserie-lipp-1bdb69a3.jpg)
@@ -160,3 +161,9 @@ Brasserie Lipp is best approached through the address, then the current opening 
 **Sources and limits.** The key claims about Brasserie Lipp are checked against the following sources: Brasserie Lipp (Used for the 151 boulevard Saint-Germain address and the daily 09:00–02:00 hours), Paris Convention and Visitors Bureau, Groupe Bertrand. For current products, addresses or opening status, use brasserielipp.fr. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Brasserie Lipp, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![The green frontage and sign of La Closerie des Lilas, 171 boulevard du Montparnasse](/media/photos/place-la-closerie-des-lilas-73ad59b7.jpg)
+
+Image: The green frontage and sign of La Closerie des Lilas, 171 boulevard du Montparnasse. Credit: Britchi Mirela, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:La_Closerie_des_Lilas,_Paris.jpg)). Related image for Brasserie Lipp.

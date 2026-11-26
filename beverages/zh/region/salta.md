@@ -112,6 +112,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 萨尔塔
 
 阿根廷西北部的高海拔葡萄酒产区，核心在萨尔塔省的卡法亚特谷；海拔 1,700–3,000 米、日照强、昼夜温差大，以特浓情白葡萄酒与高海拔马尔贝克著称。
@@ -184,3 +185,13 @@ Bodega El Esteco 1892 年创立于卡法亚特，海拔约 1,700 m，是当地�
 | 层级 | 省/大区 |
 | 所属 | 阿根廷 |
 | 国家代码 | AR |
+
+## 相关图像
+
+![Argentina：Miraluna Vineyard, Cachi, Argentina (7126977841)（Wikimedia Commons）](/media/photos/region-argentina-454da145.jpg)
+
+图：Argentina：Miraluna Vineyard, Cachi, Argentina (7126977841)（Wikimedia Commons）。图片：Rod Waddington from Kergunyah, Australia，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Miraluna_Vineyard,_Cachi,_Argentina_(7126977841).jpg)）。关联图像：萨尔塔。
+
+![马尔贝克](/media/photos/variety-malbec-88d109c6.jpg)
+
+图：马尔贝克。图片：Ian L，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Malbec_grapes.jpg)）。关联图像：萨尔塔。

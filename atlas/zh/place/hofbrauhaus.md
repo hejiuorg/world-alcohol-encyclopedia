@@ -75,6 +75,7 @@ city: 慕尼黑
 verification_scope: source-verified
 founded_year: 1589
 ---
+
 # 皇家啤酒屋
 
 ![皇家啤酒屋相关实景照片](/media/photos/place-hofbrauhaus-f739b1b7.jpg)
@@ -140,3 +141,9 @@ founded_year: 1589
 对照阅读：[啤酒](ref:beer)、[奥古斯丁啤酒厂](ref:augustiner)。
 
 把皇家啤酒屋放回慕尼黑啤酒馆传统，可对照[啤酒](ref:beer)与[奥古斯丁啤酒厂](ref:augustiner)。
+
+## 相关图像
+
+![奥古斯丁啤酒厂](/media/photos/place-augustiner-braeu-91b4e63c.jpg)
+
+图：奥古斯丁啤酒厂。图片：Elisa.rolle，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Augustiner-Br%C3%A4u_0004.jpg)）。关联图像：皇家啤酒屋。

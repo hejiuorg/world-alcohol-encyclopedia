@@ -21,8 +21,8 @@ tags:
 translation_of: variety:saperavi
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d8b97aacefe44a80e8d32a1b4f7b7ceebd7f0ae9554a2878c904e751b33dcc4e
-source_sha256: d8b97aacefe44a80e8d32a1b4f7b7ceebd7f0ae9554a2878c904e751b33dcc4e
+source_revision: sha256:36c548af39b524b826f318e864da8bede5a1fc6c5401965a5d9b4da91be7b183
+source_sha256: 36c548af39b524b826f318e864da8bede5a1fc6c5401965a5d9b4da91be7b183
 related:
   - relation: about
     target_id: drink-style:red-wine
@@ -101,6 +101,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Saperavi
 
 Saperavi is Georgia's most important red grape, a rare teinturier variety with red pigment in both flesh and skin. The wine is deep, almost inky, with high acidity and firm tannin; it is made dry, semi-sweet, sweet or fortified, using both traditional qvevri and European methods, and it stands as a national emblem of Georgian wine.
@@ -175,3 +176,9 @@ Planting area, clones and overseas plantings keep updating with variety surveys;
 - Related: [red-wine](ref:red), [terroir](ref:terroir), [oak-ageing](ref:oak), [vintage](ref:vintage), [cabernet-sauvignon](ref:cabernet).
 
 **Short definition:** A red grape from Kakheti, Georgia, known for the deep colour and high acidity that come from its red-fleshed (teinturier) skins; it makes dry, semi-sweet, sweet and fortified wines and is Georgia’s national wine symbol.
+
+## Related images
+
+![Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.](/media/photos/editorial-oak-ageing-q2.jpg)
+
+Image: Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Saperavi.

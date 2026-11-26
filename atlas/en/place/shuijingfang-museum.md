@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:shuijingfang-museum
 source_lang: zh
-source_revision: sha256:4cccaf47143d01d296dc17619df8a72dd9063ba9fc516ffb8e8a47bb5b56f6fd
-source_sha256: 4cccaf47143d01d296dc17619df8a72dd9063ba9fc516ffb8e8a47bb5b56f6fd
+source_revision: sha256:8f773f5842a8cabb56fc767a3ea32e6f5f492f1c11d7aeb488369310ad4fb6f0
+source_sha256: 8f773f5842a8cabb56fc767a3ea32e6f5f492f1c11d7aeb488369310ad4fb6f0
 translation_status: reviewed
 subtype: museum
 address: 19 Shuijing Street, Jinjiang District, Chengdu 610061, China
@@ -174,3 +174,9 @@ Shuijing Street is busy in the evening and at weekends, and Lan Kwai Fong is noi
 - [Luzhou Laojiao cellars](ref:luzhou): another living strong-aroma heritage site in Sichuan, a contrast with Shuijingfang's archaeological site.
 - [Fenjiu Museum](ref:fenjiu): a light-aroma baijiu museum in Xinghuacun, Shanxi, another aroma and narrative.
 - [Wang Bao He](ref:wang-bao-he): a Shanghai yellow-wine and crab restaurant, another Chinese drinks table.
+
+## Related images
+
+![The 1915 Panama-Pacific exposition gold medal held by the Fenjiu Museum](/media/photos/place-fenjiu-museum-efad0f85.webp)
+
+Image: The 1915 Panama-Pacific exposition gold medal held by the Fenjiu Museum. Credit: 汾酒集团文化中心, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E8%A5%BF%E6%B1%BE%E9%85%92%E8%8D%A3%E8%8E%B71915%E5%B9%B4%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E7%9A%84%E2%80%9C%E4%B8%80%E7%AD%89%E9%87%91%E8%B4%A8%E5%A4%A7%E5%A5%96%E7%AB%A0%E2%80%9D_%E6%B1%BE%E9%85%92%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F.png)). Related image for Shuijingfang Museum.

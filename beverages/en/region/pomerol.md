@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:pomerol
 source_lang: zh
-source_revision: sha256:f48faeb9c49acbaf5632d50d47346197885e1febf6f46e2a8a2288d3f39f8934
-source_sha256: f48faeb9c49acbaf5632d50d47346197885e1febf6f46e2a8a2288d3f39f8934
+source_revision: sha256:d0dbed132cd02e882e122c966b769d2f962f12075a538ebe8ccdd35949bb1d76
+source_sha256: d0dbed132cd02e882e122c966b769d2f962f12075a538ebe8ccdd35949bb1d76
 translation_status: reviewed
 level: city
 parent_id: region:france
@@ -82,6 +82,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Pomerol
 
 Pomerol is a red-wine appellation on the right bank of the Dordogne, east of Libourne, recognised as an AOC on 8 December 1936. Its core plateau measures only about 4 km by 3 km, yet it contains one of the most expensive estates on the right bank; unlike the left bank, Pomerol has never created an official classification, so reputation rests entirely on particular estates and parcels.![Pomerol image](/media/photos/region-pomerol-c9aeffc0.jpg)
@@ -152,3 +153,13 @@ With no classification, critics and auction records become important references;
 - [Cabernet Franc](ref:cabernet-franc): adding aroma and structure to right-bank blends.
 - [Red wine](ref:red-wine): an overview of still red wine and winemaking.
 - [Oak ageing](ref:oak-ageing): how new-barrel proportions shape aroma and tannin.
+
+## Related images
+
+![Cabernet Franc](/media/photos/variety-cabernet-franc-2d40c732.jpg)
+
+Image: Cabernet Franc. Credit: Viala et Vermorel, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cabernet-franc.jpg)). Related image for Pomerol.
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Pomerol.

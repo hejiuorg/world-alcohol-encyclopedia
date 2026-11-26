@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:maipo
 source_lang: zh
-source_revision: sha256:3f484d16619e0cb2ed7cde7028269f979c721f8fd0fe242a58152285a9f2c131
-source_sha256: 3f484d16619e0cb2ed7cde7028269f979c721f8fd0fe242a58152285a9f2c131
+source_revision: sha256:acc961a0a575d96b3a33f18484f165db91f162b4db34ea020ebca8a1564b5fcb
+source_sha256: acc961a0a575d96b3a33f18484f165db91f162b4db34ea020ebca8a1564b5fcb
 translation_status: reviewed
 level: other
 parent_id: region:chile
@@ -105,6 +105,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Maipo
 
 Maipo is a legal wine sub-region of Chile's Valle Central, wrapped around the capital, Santiago. It is the birthplace and industrial centre of modern Chilean wine, and it built its reputation on Cabernet Sauvignon.
@@ -187,3 +188,13 @@ Four misconceptions recur. First, treating Maipo as the whole Central Valley: it
 - [Terroir](ref:terroir): altitude, alluvial fans and ocean influence.
 - [Acidity](ref:acidity): how altitude and the day-night range affect acidity.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Carménère](/media/photos/variety-carmenere-eb814fed.jpg)
+
+Image: Carménère. Credit: Lebowskyclone, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:CarmenereW.jpg)). Related image for Maipo.
+
+![A vineyard in the Andean foothills of Chile, with rows of vines running across the slope.](/media/photos/region-chile-7480a4eb.jpg)
+
+Image: A vineyard in the Andean foothills of Chile, with rows of vines running across the slope.. Credit: Beatrice Murch, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)). Related image for Maipo.

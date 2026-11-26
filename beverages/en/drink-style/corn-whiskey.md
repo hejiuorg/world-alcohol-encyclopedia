@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:corn-whiskey
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4ed9ea6aa219de7ce60b73c92f2000017f2dd57713b3f914e18d7f89d0bff339
-source_sha256: 4ed9ea6aa219de7ce60b73c92f2000017f2dd57713b3f914e18d7f89d0bff339
+source_revision: sha256:1d47125ec039155b556d004cdc6b5a88ca2de4e385dd89acd68cadf91a3163d1
+source_sha256: 1d47125ec039155b556d004cdc6b5a88ca2de4e385dd89acd68cadf91a3163d1
 related:
   - relation: about
     target_id: drink-style:whisky
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Corn Whiskey
 
 An American whiskey made from at least 80% corn, which may be unaged or briefly aged; the flavour is corn-sweet, grainy and lightly spicy.
@@ -152,3 +153,9 @@ Compare one clear corn whiskey, one straight corn whiskey and one bourbon at sim
 - [Oak ageing](ref:oak): barrel type, char and flavour.
 - [United States](ref:usa): regional and regulatory background.
 - [Liqueur](ref:liqueur): the boundary with sweetened spirits.
+
+## Related images
+
+![Whisky](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+Image: Whisky. Credit: Guinnog, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)). Related image for Corn Whiskey.

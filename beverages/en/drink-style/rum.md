@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:rum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:85c0db2f904338b5cce6e075d6106b8ba273978838394490cc25e98282ba1bf7
-source_sha256: 85c0db2f904338b5cce6e075d6106b8ba273978838394490cc25e98282ba1bf7
+source_revision: sha256:f5866cc5d3e21bb3e204cf07844a1a07dfd286acc5916062fbe3897e924806c9
+source_sha256: f5866cc5d3e21bb3e204cf07844a1a07dfd286acc5916062fbe3897e924806c9
 legacy_refs: []
 aliases:
   - Rum
@@ -62,6 +62,12 @@ sources:
     publisher: BJCP
     accessed: 2026-11-21
     note: Used to verify the entry's background, terminology and regulatory context; no source text is reproduced.
+  - key: adv-wirspa
+    title: West Indies Rum and Spirits Producers' Association
+    url: https://www.wirspa.com/
+    publisher: WIRSPA
+    note: Used to check Caribbean rum origins, categories and industry conventions; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -129,6 +135,28 @@ Second, assuming darker colour means longer ageing. Caramel colouring darkens th
 Third, treating cachaça as a type of rum. Their legal categories differ.
 Fourth, assuming all rum suits cola. Light white rum and heavy dark rum behave very differently in a mix.
 Fifth, ignoring what "agricole" means in law and origin. It is not only a marketing word and usually corresponds to specific raw-material and regional rules.
+
+
+## Advanced judgment
+
+![Foursquare Rum Distillery barrel warehouse](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+Figure: The barrel warehouse at Foursquare Rum Distillery, where tropical ageing and cask type shape rum style. Image: Unknown author Unknown author, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)).
+
+| Variable | Route | Flavour and buying clue |
+| --- | --- | --- |
+| Raw material | Molasses / cane juice | Molasses is heavier, cane juice brighter |
+| Distillation | Pot / column | Pot is heavier, column is lighter |
+| Ageing | Tropical / European | Tropical is faster, European slower |
+| Additions | Sugar / spice | Smoother texture, but read the label |
+
+**What is the difference between agricole and industrial rum?** Agricole ferments fresh cane juice, giving greener, floral notes; industrial rum usually uses molasses for a heavier, sweeter profile. Both can be excellent; the difference is raw material and regional tradition.
+
+**Is spiced rum fake rum?** No. Spiced rum is a legal category, but added sugar and spice change flavour and label transparency. Check ingredients, origin and strength, not just the word “spiced”.
+
+**Are rum age statements reliable?** Read whether the label states a minimum age, a single cask or a blend. Tropical and European ageing proceed at different rates, so age numbers are not directly comparable across regions.
+
+Further reading: [distillation](ref:distillation) and [oak ageing](ref:oak-ageing).
 
 ## Further reading
 

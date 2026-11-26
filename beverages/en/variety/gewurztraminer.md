@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:gewurztraminer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:dd0e22ab757225899ff331c38fd6e97eba517bece7c60d47cf467de108652068
-source_sha256: dd0e22ab757225899ff331c38fd6e97eba517bece7c60d47cf467de108652068
+source_revision: sha256:c4afafff6caea0c0d1f6354327c660794b48b00ccd3cfa3b6e4d79a044a0adb3
+source_sha256: c4afafff6caea0c0d1f6354327c660794b48b00ccd3cfa3b6e4d79a044a0adb3
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -71,6 +71,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Gewürztraminer
 
 Gewürztraminer is one of the world's most recognisable white grapes: lychee, rose, ginger and cinnamon need almost no training to identify. That recognisability also brings misunderstanding, since many assume it must be sweet or that more aroma means better quality. In fact it is low in acidity and high in alcohol, ranges from dry to botrytised sweet, and balance is the real difficulty.![Gewürztraminer photograph](/media/photos/q2-variety-gewurztraminer-0b4647f6.jpg)
@@ -131,3 +132,9 @@ First, that Gewürztraminer is always sweet; Alsace makes plenty of dry wine. Se
 - [Fermentation](ref:fermentation): how temperature and residual sugar affect aroma.
 
 Further reading: [Aglianico](ref:c-extra-1).
+
+## Related images
+
+![Aglianico](/media/photos/variety-aglianico-d4dec6be.jpg)
+
+Image: Aglianico. Credit: Alexis Kreyder, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aglianico_Viala_Vermorel.jpg)). Related image for Gewürztraminer.

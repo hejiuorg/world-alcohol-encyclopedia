@@ -77,6 +77,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 格拉帕
 
 格拉帕（grappa）是意大利的果渣白兰地：原料是葡萄压榨后留下的皮、籽和梗，经发酵或半发酵后直接蒸馏，而不是用葡萄酒蒸馏。这一定义看似狭窄，却决定了它的全部性格。格拉帕不是“意大利白兰地”的同义词，也不是把葡萄酒再蒸一遍；它处理的是一种通常会被丢弃的副产品，并把其中的葡萄香气重新提取出来。
@@ -138,3 +139,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「格拉帕」的关键事实，主要由以下来源交叉核对：Consorzio Nazionale Grappa（格拉帕的法定原料、意大利产地要求与地理标志类型；最低酒精度、陈年标示与产地规则）、European Union（果渣烈酒类别与地理标志烈酒的框架）、Italia — Presidenza del Consiglio dei Ministri（12 个月陈年与 riserva、stravecchia 的 18 个月门槛）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「格拉帕」与「白兰地」、「皮斯科」、「伏特加」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![皮斯科](/media/photos/drink-style-pisco-f6bd686b.jpg)
+
+图：皮斯科。图片：Cocktailmarler，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Range_of_Pisco.jpg)）。关联图像：格拉帕。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:buffalo-trace-distillery
 source_lang: zh
-source_revision: sha256:2eb88d6c2d10afa3f1ec8293fdc4bbb8848cd2f3a5dfeeeed234a28e2f46f94d
-source_sha256: 2eb88d6c2d10afa3f1ec8293fdc4bbb8848cd2f3a5dfeeeed234a28e2f46f94d
+source_revision: sha256:3a9d711ebf2450def998133a38a2a278907c57c18f8f7cb06fc9426d4c56a9a8
+source_sha256: 3a9d711ebf2450def998133a38a2a278907c57c18f8f7cb06fc9426d4c56a9a8
 translation_status: reviewed
 subtype: distillery-visitor
 address: 113 Great Buffalo Trace, Frankfort, KY 40601, USA
@@ -119,6 +119,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, tour schedules, prices and purchase limits change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Buffalo Trace Distillery
 
 On the Kentucky River north of Frankfort, Buffalo Trace Distillery occupies a site that is still producing: stone warehouses, brick still houses, a bottling line and a visitor centre share the same ground, with no glass case separating "history" from work. It is both a National Historic Landmark and a factory that fills barrels every day, and that living status is the key to understanding what a visit actually shows.
@@ -176,3 +177,9 @@ Louisville is about an hour away. To the west lie [Maker's Mark](ref:makers-mark
 | Official site | buffalotracedistillery.com |
 
 **Sources and limits.** The key claims about Buffalo Trace Distillery are checked against the following sources: Buffalo Trace Distillery (Used to check the National Historic Landmark status and the description of Warehouse X), TopoQuest (Used to check the coordinates 38.218020, -84.868720, rounded to four decimals here), Kentucky Distillers' Association (Used to check the distillery's place on the Kentucky Bourbon Trail and how nearby sites are linked) and 10 sources in total. For current products, addresses or opening status, use buffalotracedistillery.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Kentucky](/media/photos/producer-brown-forman-5ceb6df2.jpg)
+
+Image: Category image for Kentucky. Credit: Nyttend, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Brown-Forman_warehouse_A_and_bottling_house.jpg)). Related image for Buffalo Trace Distillery.

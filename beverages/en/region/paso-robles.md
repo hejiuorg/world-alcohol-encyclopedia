@@ -24,8 +24,8 @@ tags:
 translation_of: region:paso-robles
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fb555ca7aa81b488717ae1f9536587ffdac1dccf2173c20f48f4ff535d0c4756
-source_sha256: fb555ca7aa81b488717ae1f9536587ffdac1dccf2173c20f48f4ff535d0c4756
+source_revision: sha256:485633ab21f4bb8cf932a1d2b3a15c13d5029fae48d77d9e1281e7e647073e08
+source_sha256: 485633ab21f4bb8cf932a1d2b3a15c13d5029fae48d77d9e1281e7e647073e08
 related:
   - relation: about
     target_id: region:usa
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Paso Robles
 
 An AVA in the northern Central Coast of California with hot days and cool nights, known for Zinfandel, Cabernet Sauvignon and Syrah; established in 1983, it has been divided into 11 sub-AVAs since the 2010s, and limestone and alluvial soils give a tighter profile than much of California.![Paso Robles](/media/photos/region-paso-robles-b126d95e.jpg)
@@ -157,3 +158,13 @@ Paso Robles is about 3.5 hours from Los Angeles and 2.5 hours from San Francisco
 Compare Paso Robles with Santa Barbara and Monterey rather than with Napa: the first two show the coastal cooling and limestone influence, while Napa shows a warmer, more sheltered inland model. 
 
 **In brief:** An AVA in the northern Central Coast of California with hot days and cool nights, known for Zinfandel, Cabernet Sauvignon and Syrah; established in 1983, it has been divided into 11 sub-AVAs since the 2010s, and limestone and alluvial soils give a tighter profile than much of California.
+
+## Related images
+
+![Zinfandel](/media/photos/variety-zinfandel-8a623213.jpg)
+
+Image: Zinfandel. Credit: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ripe_Zinfandel_grapes_in_Dry_Creek_Valley-8958.jpg)). Related image for Paso Robles.
+
+![Category image for United States](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+Image: Category image for United States. Credit: Luke, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)). Related image for Paso Robles.

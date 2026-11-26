@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cvne
 source_lang: zh
-source_revision: sha256:a2685d81eaa1666ca75e11b85316f516e18a0faa53ab3d912f1c26cdbdcbcbc5
-source_sha256: a2685d81eaa1666ca75e11b85316f516e18a0faa53ab3d912f1c26cdbdcbcbc5
+source_revision: sha256:04f1864e2f9035cfb6d2c030654d99ca45da021e2c8d22a6f73188e9d7650e12
+source_sha256: 04f1864e2f9035cfb6d2c030654d99ca45da021e2c8d22a6f73188e9d7650e12
 translation_status: reviewed
 subtype: winery-visitor
 address: Calle Barrio de la Estación 2, 26200 Haro, La Rioja, Spain
@@ -85,6 +85,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; visit arrangements, sales hours and wines change, so confirm with the winery.
 verification_scope: source-verified
 ---
+
 # CVNE
 
 Leave Haro station and walk a few minutes along Barrio de la Estación: a walled old winery appears behind iron gates, marked CVNE. The full name is Compañía Vinícola del Norte de España, the Northern Spanish Wine Company, though most people say "Cune". In 1879 the Real de Asúa brothers came to Haro and built here beside the railway; more than a century later the winery is still run by the founders' descendants and still works on the original site. It is not a museum shell but a place where old buildings continue to make wine.
@@ -143,3 +144,9 @@ For CVNE, anyone driving should not drink. The wineries of Rioja are close toget
 The station district supplies the next stops: López de Heredia, La Rioja Alta, Muga and Gómez Cruzado are all within walking distance, though each needs a booking. Haro's old town around Plaza de la Paz has bars and small restaurants for lunch. The Haro Wine Festival on 29 June makes the town extremely busy, so avoid that date for a quiet visit. East lies the Vivanco wine museum at Briones; north are Laguardia and Rioja Alavesa. For how cellars shape flavour, read [Cellar and storage](ref:cellar); for the wider region, start with [Rioja](ref:rioja) and [Wine](ref:wine).
 
 Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2).
+
+## Related images
+
+![Related photograph of Cellars and storage: temperature, humidity, light and time](/media/photos/article-cellar-and-storage-de086b17.jpg)
+
+Image: Related photograph of Cellars and storage: temperature, humidity, light and time. Credit: Deepsphotography, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:The_Cellars_in_Direlton_Castle.JPG)). Related image for CVNE.

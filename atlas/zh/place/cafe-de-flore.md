@@ -80,6 +80,7 @@ city: 巴黎
 verification_scope: source-verified
 founded_year: 1887
 ---
+
 # 花神咖啡馆
 
 花神咖啡馆（Café de Flore）在巴黎第六区，位于圣日耳曼大道与圣伯努瓦街的街角，门牌 172 Boulevard Saint-Germain。它于 1887 年开业，店名来自大道另一侧的一尊花神（Flora）小雕像。与双叟咖啡馆一样，它常被写成“文学咖啡馆”；但花神的独特之处在于街角位置、红色长椅与镜面构成的“舞台感”，以及更年轻、更不客气的花神文学奖。
@@ -145,3 +146,9 @@ founded_year: 1887
 | 城市/国家 | 巴黎 / 法国 |
 | 营业状态 | 已核验营业 |
 | 官网 | cafedeflore.fr |
+
+## 相关图像
+
+![巴黎圣日耳曼德佩的花神咖啡馆，绿色遮阳篷与露天座面向街口。](/media/photos/route-saint-germain-literary-cafes-cfcc43a7.jpg)
+
+图：巴黎圣日耳曼德佩的花神咖啡馆，绿色遮阳篷与露天座面向街口。。图片：DIMSFIKAS，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cafe_de_Flore,_Paris_-_2011.JPG)）。关联图像：花神咖啡馆。

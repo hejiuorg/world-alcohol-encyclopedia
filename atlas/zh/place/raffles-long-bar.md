@@ -77,6 +77,7 @@ city: 新加坡
 verification_scope: source-verified
 founded_year: 1887
 ---
+
 # 莱佛士长廊酒吧
 
 莱佛士长廊酒吧（Long Bar）在莱佛士酒店旁的 Raffles Arcade 二层，不在酒店大堂里。莱佛士酒店于 1887 年开业，酒吧则以 1915 年在这里首次调出的新加坡司令（Singapore Sling）闻名。它的名气太大，排队、拍照和“把花生壳丢在地上”的仪式常常盖过酒本身；理解它为什么长成现在这个样子，比记住一杯酒的配方更有用。
@@ -157,3 +158,9 @@ founded_year: 1887
 补充阅读：[新加坡司令](ref:c-extra-1)、[金酒](ref:c-extra-2)、[A Ginjinha](ref:c-extra-3)、[À la Mort Subite](ref:c-extra-4)。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[新加坡司令](ref:c-extra-1)、[金酒](ref:c-extra-2)。
+
+## 相关图像
+
+![新加坡司令](/media/photos/cocktail-singapore-sling-882b80ba.jpg)
+
+图：新加坡司令。图片：Paul2520，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Singapore_Sling_and_peanuts_at_the_Raffles_Hotel_Long_Bar_in_Singapore.jpg)）。关联图像：莱佛士长廊酒吧。

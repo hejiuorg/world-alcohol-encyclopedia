@@ -91,6 +91,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 新疆
 
 新疆位于中国西北，是中国葡萄种植面积最大的省级行政区之一，也是国产[葡萄酒](ref:wine)的重要原料基地。酿酒葡萄集中在天山北麓、伊犁河谷与焉耆盆地，吐鲁番等传统葡萄区则以制干与鲜食为主。与东部产区相比，新疆的葡萄酒产业更多由大型企业和原料基地主导。
@@ -170,3 +171,13 @@ verification_scope: source-verified
 **并读。** 把「新疆」与「中国」、「赤霞珠」、「梅洛」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「新疆」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![中国类别配图](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+图：中国类别配图。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)）。关联图像：新疆。
+
+![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：新疆。

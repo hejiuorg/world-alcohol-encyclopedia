@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink-style:yellow-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8687336b9a9e9112039609b69cfeecbe84b80660b030c87cd4bb005d0bb5fb73
-source_sha256: 8687336b9a9e9112039609b69cfeecbe84b80660b030c87cd4bb005d0bb5fb73
+source_revision: sha256:e2ac3620ee6fd20f6a845b390156505a01769271d005751e53df2ae1f3c6c798
+source_sha256: e2ac3620ee6fd20f6a845b390156505a01769271d005751e53df2ae1f3c6c798
 legacy_refs: []
 aliases:
   - Huangjiu
@@ -75,6 +75,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Yellow wine
 
 Huangjiu is a traditional Chinese fermented grain wine. It uses rice (glutinous, japonica or indica) as the main material, with wheat qu, starter or red yeast for saccharification and fermentation, followed by pressing, clarification, pasteurisation and ageing. Alcohol is usually 14%–20% ABV; it is fermented, not distilled.
@@ -159,3 +160,9 @@ How to use: narrow by setting first, then adjust for budget and taste; this is a
 - [Baijiu](ref:baijiu): China's other major traditional drink, but on a distilled path.
 - [Distillation](ref:distillation): the key process behind the difference between fermented and distilled drinks.
 - [Oak ageing](ref:oak-ageing): an ageing path different from clay-jar storage.
+
+## Related images
+
+![Qu making](/media/photos/process-qu-making-ff7ff7ce.jpg)
+
+Image: Qu making. Credit: Uranassbandit, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hongqu_3.jpg)). Related image for Yellow wine.

@@ -96,6 +96,7 @@ stop_ids:
 mode: subway-walk
 updated_at: 2026-11-08
 ---
+
 # 纽约历史酒馆路线：东村到格拉梅西
 
 这条路线把纽约曼哈顿下城的三间老酒馆串在一起：东村的麦克索利老麦酒馆、西村的白马酒馆，以及格拉梅西公园旁的皮特酒馆。它们的“老”不是同一种老：一间把“只卖艾尔”坚持成制度，一间背着文学神话，一间是餐厅与酒馆的合体。把它们放在同一个下午到傍晚里，比单独打卡更容易看出纽约如何经营“历史”这件事。
@@ -204,3 +205,13 @@ updated_at: 2026-11-08
 相关条目：[麦克索利老麦酒馆](ref:mcsorleys)、[白马酒馆](ref:white-horse)、[皮特酒馆](ref:petes)。
 
 纽约历史酒馆路线跨东村与格拉梅西，各店营业时间与预约以官网为准；临时包场或活动以店内公告为准。核验于 2026-11-08。
+
+## 相关图像
+
+![“皮特酒馆”页面配图：Pete's Tavern (51708610272)。摄影：ajay_suresh，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-place-petes-tavern-41eaebdf.jpg)
+
+图：Pete's Tavern (51708610272)。摄影：ajay_suresh，CC BY 2.0，来自 Wikimedia Commons。。图片：ajay_suresh，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=112875512)）。关联图像：纽约历史酒馆路线：东村到格拉梅西。
+
+![阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔类别配图](/media/photos/region-alsace-15887179.jpg)
+
+图：阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔类别配图。图片：Jorge Franganillo from Barcelona, Spain，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)）。关联图像：纽约历史酒馆路线：东村到格拉梅西。

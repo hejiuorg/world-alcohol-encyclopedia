@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:state-owned-distilleries-1949
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8e8b870176853c5cca4e071d9c68a3dcbf2cf588ae356187647bfc89278db4c5
-source_sha256: 8e8b870176853c5cca4e071d9c68a3dcbf2cf588ae356187647bfc89278db4c5
+source_revision: sha256:0e9f200c4a95855d38f1a64ffc8bddf627763dc9e16e4e9df85d48fa33b60bce
+source_sha256: 0e9f200c4a95855d38f1a64ffc8bddf627763dc9e16e4e9df85d48fa33b60bce
 date_text: 1949 to 1956
 year_start: 1949
 year_end: 1956
@@ -96,6 +96,7 @@ rights:
   note: Third-party archival compilations, yearbooks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # State-owned distilleries and the alcohol monopoly after 1949
 
 After 1949 the Chinese alcohol industry went through a reorganisation of ownership and management: scattered private workshops were taken over and merged, gradually becoming state-owned or joint state-private plants, while production and sales were brought under a monopoly system. The process was not completed overnight; the pace varied by region and was broadly settled only around 1956.
@@ -156,3 +157,9 @@ The comparison with [China](ref:china) and [Yellow wine](ref:yellow-wine) runs t
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about State-owned distilleries and the alcohol monopoly after 1949 are checked against the following sources: Institute of Economics, Chinese Academy of Social Sciences; China Social Sciences Press, Xinhua (Used to check the relationship between famous-wine enterprises and the evaluation system in the 1950s), China News Service (Used to check accounts of the evaluation system and corporate histories; only short phrases are quoted) and 7 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for "1952 National Wine Evaluation: the eight famous wines and the start of a system"](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
+
+Image: Category image for "1952 National Wine Evaluation: the eight famous wines and the start of a system". Credit: M. Weitzel, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingdao_Brewery.jpg)). Related image for State-owned distilleries and the alcohol monopoly after 1949.

@@ -86,6 +86,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开馆时间、预约规则与展示内容会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 菊正宗酒造纪念馆
 
 从阪神鱼崎站沿着住吉川的散步道往南走，酒藏的白墙与深色木格窗会逐渐出现。菊正宗酒造纪念馆就在鱼崎西町的厂区边上，免费开放，却不像“企业展厅”那样只摆奖杯与广告：它把滩区清酒的工具、酒母、木桶、米与水一层层摊开，让你看到一杯辛口清酒背后的体力活。
@@ -164,3 +165,9 @@ verification_scope: source-verified
 - 纪念馆官网首页：<https://www.kikumasamune.co.jp/kinenkan/>，用于核对“江户・万治二年から三百六十余年”、生酛与整体定位。
 - 樽酒 Meister Factory 中文页：<https://www.kikumasamune.co.jp/tarusake-mf/zh-cn.html>，用于核对工坊性质、吉野杉制桶、参观场次、人数、预约与安全规则。
 - 清酒路线对照：[白鹤酒造资料馆](ref:hakushika)、[Gekkeikan Okura 酒博物馆](ref:gekkeikan)、[Kamotsuru](ref:kamotsuru)、[Kamoizumi](ref:kamoizumi)、[日本酒藏路线](ref:route)。
+
+## 相关图像
+
+![贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。](/media/photos/place-kamoizumi-1a83eed9.jpg)
+
+图：贺茂泉酒造的本社厂房，白色灰泥墙面与深色木格窗。。图片：Lumi iori，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamoizumi_shuzou.jpg)）。关联图像：菊正宗酒造纪念馆。

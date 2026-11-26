@@ -76,6 +76,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 苏格兰
 
 苏格兰位于英国北部，是苏格兰威士忌（Scotch Whisky）的法定产地。苏格兰威士忌不仅是一种酒，也是一套受法律保护的名称与工艺体系：它必须在苏格兰蒸馏和陈年，使用水、发芽大麦（可配合其他谷物）和酵母，并在橡木桶中陈年至少三年，装瓶酒精度不低于 40% vol。
@@ -166,3 +167,13 @@ verification_scope: source-verified
 补充阅读：[阿空加瓜谷](ref:c-extra-1)。
 
 相关条目：[威士忌](ref:whisky)、[麦卡伦18年雪莉桶](ref:macallan)、[格兰菲迪 18 年](ref:glenfiddich)。
+
+## 相关图像
+
+![阿空加瓜谷相关实景照片](/media/photos/region-aconcagua-4fe76950.jpg)
+
+图：阿空加瓜谷相关实景照片。图片：Bjørn Christian Tørrissen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg)）。关联图像：苏格兰。
+
+![威士忌](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+图：威士忌。图片：Guinnog，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)）。关联图像：苏格兰。

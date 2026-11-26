@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:chateau-miraval
 source_lang: zh
-source_revision: sha256:6b13b1a8dbd63ef221886ae099018c53802250e8ec9f9ee315f1a6993747e583
-source_sha256: 6b13b1a8dbd63ef221886ae099018c53802250e8ec9f9ee315f1a6993747e583
+source_revision: sha256:40c2dc8ec5a9840bdc5fed3facb41a294f4dcd2115587e8c9caa26c4a730ea97
+source_sha256: 40c2dc8ec5a9840bdc5fed3facb41a294f4dcd2115587e8c9caa26c4a730ea97
 translation_status: reviewed
 subtype: winery-visitor
 address: Miraval, 83570 Correns, France
@@ -88,6 +88,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; ownership, volumes and sales channels change, and the estate is not open to the public, so confirm details through official channels.
 verification_scope: source-verified
 ---
+
 # Château Miraval
 
 Château Miraval sits in Correns, in the Var, on a private property surrounded by pine woods, olive trees and vineyards. It is also one of the most recognisable names in Provençal rosé on the international market. In practice it behaves more like a label than a destination: the official FAQ states plainly that the estate is not open to the public, and the wines are sold through Famille Perrin's tasting room and selected channels. Treating it as a cellar you can book will send you in the wrong direction; treating it as a bottle whose place and method deserve attention fits the way it now works.
@@ -142,3 +143,9 @@ Begin with the address, move on to the current opening status, and finish with w
 - [Côtes de Provence — Vins de Provence](https://www.vinsdeprovence.com/les-appellations/cotes-de-provence): the 1977 AOP, geographical denominations and soil divisions.
 
 Further reading: [Wine](ref:c-extra-1).
+
+## Related images
+
+![Provence](/media/photos/region-provence-bc066643.jpg)
+
+Image: Provence. Credit: Robert Brink, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg)). Related image for Château Miraval.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:bisola-valdobbiadene
 source_lang: zh
-source_revision: sha256:d07b6c5e78ca5387f8d64f85e2a8de0ed13039c3cc1e586ff03fe81956f30d9e
-source_sha256: d07b6c5e78ca5387f8d64f85e2a8de0ed13039c3cc1e586ff03fe81956f30d9e
+source_revision: sha256:3764690b01074c5af2a5fccc65906fdb07b893f14aa64f0ead67fe611f572a2a
+source_sha256: 3764690b01074c5af2a5fccc65906fdb07b893f14aa64f0ead67fe611f572a2a
 translation_status: reviewed
 subtype: winery-visitor
 address: Via Follo 33, 31049 Valdobbiadene (TV), Italy
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, visit products and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Bisol
 
 Bisol1542 stands in Santo Stefano di Valdobbiadene, at Via Follo 33. It puts the family at the centre of its identity: the official account traces the family's presence in the Prosecco heartland back to the sixteenth century and uses 1542 as the starting point of the Bisol1542 name; more than twenty generations have worked the same slopes. In 2014 the winery joined the Lunelli Group, but the historic cellar, vineyards and brand still operate under the Bisol name. For a visitor it is both a winery and an introduction to why steep-slope Prosecco costs what it does.
@@ -151,3 +152,9 @@ Start with [Glera](ref:glera) for address and space, then read [Veneto](ref:c-ex
 - [Prosecco.it — DOCG](https://www.prosecco.it/en/conegliano-valdobbiadene-prosecco-superiore-docg/): the 1969 DOC, 2009 DOCG and quality-label system.
 
 Further reading: [Veneto](ref:c-extra-1), [Sparkling wine](ref:c-extra-2), [Appellation](ref:c-extra-3).
+
+## Related images
+
+![Photograph for Veneto: Vineyard, San Giorgio di Valpolicella, Veneto, Italy. Credit: Unknown photographer, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-veneto-011f6328.jpg)
+
+Image: Vineyard, San Giorgio di Valpolicella, Veneto, Italy. Credit: Unknown photographer, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Unknown photographer, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=354325)). Related image for Bisol.

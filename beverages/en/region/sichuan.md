@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:sichuan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ecefb3da84b0468595dfbfc0161b94181a1a2d3623134b504658fd9ed3cd747e
-source_sha256: ecefb3da84b0468595dfbfc0161b94181a1a2d3623134b504658fd9ed3cd747e
+source_revision: sha256:3138270d41b1a04a8dadd87f1366a121b2ff4c019114c1414f4f0d590b584cb1
+source_sha256: 3138270d41b1a04a8dadd87f1366a121b2ff4c019114c1414f4f0d590b584cb1
 level: province
 parent_id: region:china
 country_code: CN
@@ -103,6 +103,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Sichuan
 
 Sichuan lies in south-west China, where the basin terrain and humid climate create distinctive conditions for brewing. It is the core region for strong-aroma baijiu, with Yibin, Luzhou, the Chengdu Plain and Qionglai forming an industrial belt and with Wuliangye and Luzhou Laojiao among the leading producers. Sichuan baijiu is built on multi-grain recipes, continuous-culture fermentation and mud-pit aroma, forming a sharp contrast with Guizhou sauce-aroma baijiu.
@@ -195,3 +196,13 @@ Sichuan is best read by starting with the appellation and its permitted varietie
 - [Water](ref:water), [qu making](ref:qu-making), [fermentation](ref:fermentation), [distillation](ref:distillation) and [blending](ref:blending): the core steps of strong-aroma baijiu.
 - [Wuliangye Group](ref:wuliangye) and [Luzhou Laojiao Group](ref:luzhou): representative Sichuan producers.
 - [Wuliangye](ref:wuliangye-drink) and [Guojiao 1573](ref:guojiao): representative products.
+
+## Related images
+
+![Dried maize kernels. Dent or flint maize is typical for brewing; sweet corn is not the main raw material.](/media/photos/ingredient-maize-bc1f8e47.jpg)
+
+Image: Dried maize kernels. Dent or flint maize is typical for brewing; sweet corn is not the main raw material.. Credit: Joel Penner, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Maize_Corn.jpg)). Related image for Sichuan.
+
+![Guojiao 1573](/media/photos/drink-guojiao-1573-0e97e137.jpg)
+
+Image: Guojiao 1573. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)). Related image for Sichuan.

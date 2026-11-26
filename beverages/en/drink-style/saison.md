@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:saison
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:08d12a7c42a6f5689e3cfb0076ea43da839401092ecd15925ce99490d4e3c6e9
-source_sha256: 08d12a7c42a6f5689e3cfb0076ea43da839401092ecd15925ce99490d4e3c6e9
+source_revision: sha256:902422b2e34f0125cb61604afd6373a1d8a34134e21abcfba3e5e84115ecc599
+source_sha256: 902422b2e34f0125cb61604afd6373a1d8a34134e21abcfba3e5e84115ecc599
 parent_style_id: drink-style:beer
 aroma_family: Yeast esters and spice
 legacy_refs: []
@@ -83,6 +83,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # Saison
 
 Saison is a [beer](ref:beer) brewed by Walloon farmhouses in [Belgium](ref:belgium) during the cool season and kept for the summer farm work. It is defined not by colour but by fermentation and palate: high attenuation gives a dry finish, yeast produces pepper, citrus and hay-like aroma, and carbonation is usually lively. Historically it was a low-alcohol drink for farm labour; today it ranges from everyday versions to strong saisons above 8%.![Saison image](/media/photos/drink-style-saison-bd6e3c18.jpg)
@@ -140,3 +141,9 @@ Saison is best approached through the production rule, then the strength, and th
 | Aroma family | Yeast esters and spice |
 
 **Sources and limits.** The key claims about Saison are checked against the following sources: Beer Judge Certification Program, Brewers Association (Used to check public US craft industry categories for saison and farmhouse ale; no original text is reproduced), Oxford University Press and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Yeast](/media/photos/ingredient-yeast-bf0b8d88.jpg)
+
+Image: Yeast. Credit: Masur, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg)). Related image for Saison.

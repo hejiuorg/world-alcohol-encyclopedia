@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 宜宾市
 
 宜宾位于四川盆地南缘，金沙江与岷江在城区合江门一带汇合，以下始称长江。这个“江口”位置决定了宜宾的交通史，也决定了它的酒业史：粮食、曲药、燃料与成品酒都可以沿水路和陆路集散，城市因此长期是川南的商贸节点。今天的宜宾以五粮液最为人熟知，但把宜宾只等同于一个品牌，会漏掉它作为[四川](ref:sichuan)南部产区城市的层次。
@@ -134,3 +135,13 @@ verification_scope: source-verified
 - 想理解浓香型的共同语言，读[浓香型白酒](ref:strong)。
 - 想比较四川与贵州的产区差异，读[四川](ref:sichuan)与[中国](ref:china)的产区条目。
 - 想把宜宾放进一条旅行线，先看泸州老窖与川南交通，再决定是否增加自贡或乐山。
+
+## 相关图像
+
+![浓香型白酒](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
+
+图：浓香型白酒。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)）。关联图像：宜宾市。
+
+![四川省](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+图：四川省。图片：FISU，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)）。关联图像：宜宾市。

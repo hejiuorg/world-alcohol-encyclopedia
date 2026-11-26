@@ -76,6 +76,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 塞朗河畔坡地酒庄
 
 塞朗河畔坡地（La Coulée de Serrant）在法国卢瓦尔萨韦尼耶尔（Savennières），地址是 Château de la Roche aux Moines。它只有 7 公顷，却是一个独立的 AOC——Coulée de Serrant，由乔利（Joly）家族独占。葡萄园位于俯视卢瓦尔河的陡坡上，由西多会修士于 1130 年种植；今天由 Nicolas Joly 家族经营，是法国生物动力法最具标志性的地点之一。
@@ -157,3 +158,9 @@ Coulée de Serrant 是一个只包含 7 公顷的 AOC，全部属于乔利家族
 | 官网 | coulee-de-serrant.com |
 
 **来源与边界。** 本页关于「塞朗河畔坡地酒庄」的关键事实，主要由以下来源交叉核对：SAS Famille Joly（Château de la Roche aux Moines 地址、7 公顷独占 AOC、1130 年种植、三款酒与 1984 年起的生物动力法；西多会起源、乔利家族接手与产区历史叙述）、InterLoire（萨韦尼耶尔与白诗南的法定风格说明）、INAO（AOC 法定边界与标签规则的一般框架）。产品、地址或营业状态变化较快时，以 coulee-de-serrant.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![卢瓦尔河谷](/media/photos/region-loire-d93c2c1f.jpg)
+
+图：卢瓦尔河谷。图片：Wikimedia Commons contributor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Azay_le_rideau.jpg)）。关联图像：塞朗河畔坡地酒庄。

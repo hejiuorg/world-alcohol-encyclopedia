@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:bemelmans-bar
 source_lang: zh
-source_revision: sha256:84a65187adc828f0f31ac9b58f108e5da9da85e456c8297f7a028be61cc36fb5
-source_sha256: 84a65187adc828f0f31ac9b58f108e5da9da85e456c8297f7a028be61cc36fb5
+source_revision: sha256:67c89d498098e6481b9be0849f9e340a53331a01620414580046a7c64926016c
+source_sha256: 67c89d498098e6481b9be0849f9e340a53331a01620414580046a7c64926016c
 translation_status: reviewed
 subtype: bar
 address: 35 East 76th Street, New York, NY 10021, USA
@@ -163,3 +163,9 @@ The 6 train at 77th Street is closest; the M79 crosstown bus runs along 79th Str
 Bemelmans is a New York sample of the relationship between [bars and the city](ref:pub-and-city): a hotel bar, murals, music and a dress code together define an Upper East Side evening. For a New York historic-bar route, see [New York historic pubs](ref:ny-route); for an older Irish saloon, read [McSorley's Old Ale House](ref:mcsorleys); for the post-Prohibition cocktail-bar tradition, read [Employees Only](ref:employees-only).
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Related photograph of New York historic pubs: East Village to Gramercy](/media/photos/route-new-york-historic-pubs-793f3455.jpg)
+
+Image: Related photograph of New York historic pubs: East Village to Gramercy. Credit: Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:86_Bedford_Street_door_to_Chumley%27s.jpg)). Related image for Bemelmans Bar.

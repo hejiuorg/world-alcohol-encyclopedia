@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:mendoza
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8493b1c09e8b07eeb73b26965cba99e779e11c638db4039ee79c6592c747847c
-source_sha256: 8493b1c09e8b07eeb73b26965cba99e779e11c638db4039ee79c6592c747847c
+source_revision: sha256:af2bbf00715f136c3514d5f3ba3826cf565f49796561032b1cdc4ff8b307fdeb
+source_sha256: af2bbf00715f136c3514d5f3ba3826cf565f49796561032b1cdc4ff8b307fdeb
 level: other
 country_code: AR
 legacy_refs: []
@@ -191,3 +191,13 @@ Fifth, assuming Mendoza relies on natural rainfall. It receives about 220 mm a y
 - [Vintage](ref:vintage): vintage variation and frost risk in Mendoza.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Image: Wine. Credit: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Related image for Mendoza.
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Mendoza.

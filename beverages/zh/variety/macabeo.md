@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 马卡贝奥
 
 马卡贝奥（Macabeo）是西班牙种植最广的白葡萄之一，在里奥哈与纳瓦拉称 Viura，在加泰罗尼亚与法国鲁西永称 Macabeu。它产量高、适应性强，酸度中等、香气偏青苹果、白花与柑橘，既是卡瓦起泡酒的基础品种，也是里奥哈白葡萄酒的主角，在不锈钢罐里走清爽路线，经橡木陈酿后则转向蜂蜜、坚果与矿物质感。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 
 - 相关条目：[rioja](ref:rioja)、[white-wine](ref:white)、[sparkling-wine](ref:sparkling)、[fermentation](ref:fermentation)、[terroir](ref:terroir)。
 - 想比较卡瓦与里奥哈两条路线，可同一年份选一款清爽卡瓦与一款橡木陈酿里奥哈白，对比果香浓度、酸度亮度与坚果矿物层次。
+
+## 相关图像
+
+![“里奥哈”页面配图：A Rioja Vineyard - panoramio。摄影：Art Anderson，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-rioja-e8334a87.jpg)
+
+图：A Rioja Vineyard - panoramio。摄影：Art Anderson，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Art Anderson，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=56546384)）。关联图像：马卡贝奥。

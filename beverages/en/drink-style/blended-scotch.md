@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:blended-scotch
 source_lang: zh
-source_revision: sha256:fad1da173fac79ca9dad217dde02252883a6a479367b4355ecf2c61302554593
-source_sha256: fad1da173fac79ca9dad217dde02252883a6a479367b4355ecf2c61302554593
+source_revision: sha256:2274cd91b74f605e394594836555d072b5aff3abfa49cf00ea91c8a204b71719
+source_sha256: 2274cd91b74f605e394594836555d072b5aff3abfa49cf00ea91c8a204b71719
 translation_status: reviewed
 parent_style_id: drink-style:scotch-whisky
 legacy_refs: []
@@ -86,6 +86,7 @@ rights:
   note: Third-party regulations, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Blended Scotch Whisky
 
 Blended Scotch Whisky is the largest category of [Scotch whisky](ref:scotch) by volume: single malt from one or more distilleries is combined with single grain from one or more distilleries to produce something consistent enough to bottle at scale. It is not a loose marketing phrase but a legal category written into the Scotch Whisky Regulations 2009. Blended malt and blended grain, which also carry the word "blended", are two different categories.![related photograph of Blended Scotch Whisky](/media/photos/drink-style-blended-scotch-edf334ed.jpg)
@@ -144,3 +145,9 @@ When buying, confirm the category name first, then look at strength and whether 
 | Parent style | Scotch whisky |
 
 **Sources and limits.** The key claims about Blended Scotch Whisky are checked against the following sources: UK Government (legislation.gov.uk), Scotch Whisky Association (Used to check the category system and export structure of Scotch whisky), Johnnie Walker (Used to check the product structure and presentation of a blended brand) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Related photograph of Johnnie Walker](/media/photos/brand-johnnie-walker-4b62a331.jpg)
+
+Image: Related photograph of Johnnie Walker. Credit: Billy McCrorie, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Johnnie_Walker_Bond,_Kilmarnock.jpg)). Related image for Blended Scotch Whisky.

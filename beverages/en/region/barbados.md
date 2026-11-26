@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:barbados
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c88bb9c2fc7fb4d3c8ebdc381824e17a4b4cb369162242a31b1081a6480e7bd2
-source_sha256: c88bb9c2fc7fb4d3c8ebdc381824e17a4b4cb369162242a31b1081a6480e7bd2
+source_revision: sha256:52a5c1a460e8e95476fd070c53dacb52d2388bf6b92622348a502f6c85c11bdd
+source_sha256: 52a5c1a460e8e95476fd070c53dacb52d2388bf6b92622348a502f6c85c11bdd
 level: country
 country_code: BB
 legacy_refs: []
@@ -72,6 +72,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions. The current status of geographical indications should be checked against official notices.
 verification_scope: source-verified
 ---
+
 # Barbados
 
 Barbados is an island country in the Lesser Antilles of the Caribbean and one of the oldest [rum](ref:rum) regions. It uses molasses, often blending pot and column distillation, then ages the spirit in a tropical climate to produce a more balanced, approachable body than Jamaica's high-ester style.![Barbados category image](/media/photos/place-foursquare-rum-distillery-c949ec7b.jpg)
@@ -154,3 +155,13 @@ For Barbados, this region was last checked in 2026; prices, batches and availabi
 - [Fermentation](ref:fermentation): how time and yeast shape aroma.
 - [Distillation](ref:distillation): how pot and column stills differ.
 - [Oak ageing](ref:oak-ageing): tropical ageing and flavour development.
+
+## Related images
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for Barbados.
+
+![A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.](/media/photos/drink-style-rum-ebd00623.jpg)
+
+Image: A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.. Credit: Pinakpani, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottle_of_Captain_Morgan_Rum_01.jpg)). Related image for Barbados.

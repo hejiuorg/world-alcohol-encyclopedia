@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:japan-whisky-trail
 source_lang: zh
-source_revision: sha256:412fe84b0892ed6b6f1ba7724bdbec88b56e5b333e3037a296102da8c158e4ca
-source_sha256: 412fe84b0892ed6b6f1ba7724bdbec88b56e5b333e3037a296102da8c158e4ca
+source_revision: sha256:14475708a43057df849395dd63a01afe3a8b058ea0c1e28643f84eaaaf8e1b08
+source_sha256: 14475708a43057df849395dd63a01afe3a8b058ea0c1e28643f84eaaaf8e1b08
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -168,3 +168,13 @@ Taste with restraint. Smell first, sip slowly, and use the spittoon if you do no
 This route is the practical version of the [Japan](ref:japan) region page: the region entry sets out labelling rules, raw material and ageing requirements, and the production structure of one company with several distilleries, while the route shows how that structure lands in water, washbacks and stills at Yamazaki and Hakushu. For style, [Japanese whisky](ref:japanese-whisky) separates single malt, blended and grain whisky; [Yamanashi](ref:yamanashi) explains the setting around Hakushu; and [oak ageing](ref:oak-ageing) explains why mizunara became one of the recognisable signatures.
 
 The comparison with [Yamazaki Distillery](ref:yamazaki) and [Japan](ref:japan) runs through stop order and transport. Each answers a different question.
+
+## Related images
+
+![Category image for Japan](/media/photos/place-kamotsuru-a0074234.jpg)
+
+Image: Category image for Japan. Credit: OS6, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)). Related image for Japan's whisky trail: from Yamazaki to Hakushu by rail.
+
+![Japanese whisky](/media/photos/drink-style-japanese-whisky-d17593e0.jpg)
+
+Image: Japanese whisky. Credit: Mikael Leppä, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vintage_Suntory_Tasting.jpg)). Related image for Japan's whisky trail: from Yamazaki to Hakushu by rail.

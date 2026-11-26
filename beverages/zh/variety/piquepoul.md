@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 匹格普勒
 
 匹格普勒（Piquepoul，亦拼 Picpoul、Picapoll）是法国南部朗格多克的古老白葡萄，最著名的表达是地中海 Étang de Thau 湖畔的 Picpoul de Pinet AOP。它晚熟、天然酸度高，酒色浅金黄带绿，柠檬、青苹果、白花之上有明显海盐与碘味矿物感，是地中海“海水感”干白的代表，常年配 Bouzigues 牡蛎与湖海鲜贝（ref:white）。
@@ -157,3 +158,9 @@ Picpoul de Pinet AOP 是朗格多克最大、也是唯一的静止干白单一�
 | --- | --- |
 | 一句话定位 | 法国朗格多克的白葡萄，核心是 Picpoul de Pinet；高酸、柠檬、海盐与白花，适合配牡蛎与海鲜，是地中海“海水感”白葡萄酒的代表 |
 | 物种 | Vitis vinifera |
+
+## 相关图像
+
+![霞多丽](/media/photos/variety-chardonnay-efde6838.jpg)
+
+图：霞多丽。图片：Jenavive at English Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)）。关联图像：匹格普勒。

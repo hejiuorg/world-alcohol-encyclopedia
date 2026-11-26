@@ -84,6 +84,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、体验产品与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 丰塔纳弗雷达酒庄
 
 丰塔纳弗雷达（Fontanafredda）在塞拉伦加达尔巴，是巴罗洛产区里少数能把“王室故事”“大规模有机种植”和“可参观的村庄”放在同一条动线上的酒庄。它的官方叙述把起点定在 1858 年：意大利首位国王维托里奥·埃马努埃莱二世与罗莎·韦尔切拉纳的爱情故事，后来变成一片产业。今天这里的葡萄园约 120 公顷，全部获有机认证，酒窖参观则通过“叙述村”（Villaggio Narrante）统一接待。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 - [Barolo DOCG — 朗格产区协会](https://www.langhevini.it/le-denominazioni-tutelate-dal-consorzio/barolo-docg/)：11 个市镇、陈年与 Riserva 规则。
 
 补充阅读：[皮埃蒙特](ref:c-extra-1)。
+
+## 相关图像
+
+![“皮埃蒙特”页面配图：Piedmont vineyard in autumn。摄影：Giorgio Montersino，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-piedmont-86c6d640.jpg)
+
+图：Piedmont vineyard in autumn。摄影：Giorgio Montersino，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Giorgio Montersino，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=5816942)）。关联图像：丰塔纳弗雷达酒庄。

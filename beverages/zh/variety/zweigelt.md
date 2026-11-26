@@ -98,6 +98,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 茨威格
 
 茨威格是奥地利种植面积最大的红葡萄，1922 年由 Fritz Zweigelt 在克洛斯特新堡杂交育成，亲本为蓝弗兰克与圣劳伦特；早熟、丰产、耐寒，酒色深、单宁柔和，带黑樱桃、紫罗兰与香料气息，风格从轻快年轻酒到橡木陈酿的珍藏款都有。
@@ -159,3 +160,9 @@ verification_scope: source-verified
 茨威格的面积、克隆与海外种植仍随品种调查更新，正式引用以奥地利官方农业机构、VIVC 登记与各 DAC 产区资料为准。
 
 - 相关条目：[blaufrankisch](ref:blaufrankisch)、[st-laurent](ref:st-laurent)、[red-wine](ref:red)、[terroir](ref:terroir)、[oak-ageing](ref:oak)。
+
+## 相关图像
+
+![St. Laurent：HBLA Klosterneuburg St Laurent 1（Wikimedia Commons）](/media/photos/variety-st-laurent-f4032c75.jpg)
+
+图：St. Laurent：HBLA Klosterneuburg St Laurent 1（Wikimedia Commons）。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_St_Laurent_1.jpg)）。关联图像：茨威格。

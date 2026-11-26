@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:sesame-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:43313d80e2c40a2ee25cc6e3ccc3d73dccd51f260391ca8d29bc6575c1b821b6
-source_sha256: 43313d80e2c40a2ee25cc6e3ccc3d73dccd51f260391ca8d29bc6575c1b821b6
+source_revision: sha256:c887eb39e180562a81554868fb50212db4ae964dc2998ca526697ea6ae536dac
+source_sha256: c887eb39e180562a81554868fb50212db4ae964dc2998ca526697ea6ae536dac
 legacy_refs: []
 aliases:
   - Zhimaxiang baijiu
@@ -91,6 +91,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Sesame-aroma baijiu
 
 The name of sesame-aroma baijiu misleads easily: it contains no sesame and is not flavoured with sesame essence. "Sesame aroma" is a metaphor for a roasted, nutty, lightly scorched composite impression. The real source is the microbiology and chemistry of koji making, stacking, the fermentation pit and long storage, above all sulphur compounds, pyrazines and roasted aroma substances.
@@ -174,3 +175,9 @@ For Sesame-aroma baijiu, begin with the production rule. Then look at the streng
 - [Koji making](ref:qu-making): how daqu and fuqu differ.
 - [Fermentation](ref:fermentation): the role of stacking and pit fermentation.
 - [Distillation](ref:distillation): solid-state distillation and the cut.
+
+## Related images
+
+![Wheat](/media/photos/ingredient-wheat-e782d218.jpg)
+
+Image: Wheat. Credit: kallerna, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)). Related image for Sesame-aroma baijiu.

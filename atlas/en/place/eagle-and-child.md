@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:eagle-and-child
 source_lang: zh
-source_revision: sha256:e53732100a936c97844cb0e13c4cd82cda79506cebf8546734be3e8bbf294a46
-source_sha256: e53732100a936c97844cb0e13c4cd82cda79506cebf8546734be3e8bbf294a46
+source_revision: sha256:f1994b5062938b0473ecc2e6e932a5f51c72e3cd9eeb5baa12f140b27e13734c
+source_sha256: f1994b5062938b0473ecc2e6e932a5f51c72e3cd9eeb5baa12f140b27e13734c
 translation_status: reviewed
 subtype: pub
 address: 49 St Giles', Oxford OX1 3LU, United Kingdom
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; opening hours, menus and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # The Eagle and Child
 
 Number 49 St Giles' now feels like a building you read rather than a pub you enter. There is no queue at the door and no bartender polishing glasses. The Eagle and Child has been closed since March 2020; the Ellison Institute of Technology (EIT) bought it in 2023, and in 2025 planning and listed-building consent were granted for a restoration. It remains one of the most frequently pointed-out stops on Oxford's literary map, but "literary landmark" and "working pub" are no longer the same thing here.![The Eagle and Child image](/media/photos/place-eagle-and-child-a9a36408.jpg)
@@ -144,3 +145,9 @@ The beer once served here belongs to the wider family of [beer](ref:beer) styles
 Further reading: [Ye Olde Cheshire Cheese](ref:c-extra-1), [A Ginjinha](ref:c-extra-2), [À la Mort Subite](ref:c-extra-3).
 
 **In brief:** A historic pub on St Giles' in Oxford, famous as a meeting place of the Inklings; closed since 2020, with restoration approved in 2025 and no current pub service.
+
+## Related images
+
+![The hanging sign of Ye Olde Cheshire Cheese on Fleet Street, lettered with the pub’s name and “Rebuilt 1667”.](/media/photos/place-ye-olde-cheshire-cheese-628a8f9d.jpg)
+
+Image: The hanging sign of Ye Olde Cheshire Cheese on Fleet Street, lettered with the pub’s name and “Rebuilt 1667”.. Credit: Images George Rex, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ye_Olde_Cheshire_Cheese_rebuilt_1667_(14276567866).jpg)). Related image for The Eagle and Child.

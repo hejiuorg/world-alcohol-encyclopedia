@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:swartland
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c718d84356e66f3f91a5c230162f108d7d15dc86997e321b091d63ebf3dcbb8e
-source_sha256: c718d84356e66f3f91a5c230162f108d7d15dc86997e321b091d63ebf3dcbb8e
+source_revision: sha256:74686a42bb90d70ecfd5740963dbfee360bd66ddda30cc1480aa78a6c259a92a
+source_sha256: 74686a42bb90d70ecfd5740963dbfee360bd66ddda30cc1480aa78a6c259a92a
 level: other
 parent_id: region:south-africa
 country_code: ZA
@@ -198,3 +198,13 @@ Fifth, that a ward name is a brand or a grade. A ward is simply a smaller legal 
 - [Vintage](ref:vintage): vintage variation in a dryland district.
 - [Single variety](ref:single-varietal): the 85% labelling rule.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Chenin Blanc](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+Image: Chenin Blanc. Credit: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)). Related image for Swartland.
+
+![Grenache](/media/photos/variety-grenache-69c881eb.jpg)
+
+Image: Grenache. Credit: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)). Related image for Swartland.

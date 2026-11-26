@@ -112,6 +112,7 @@ stop_ids:
 mode: rail-walk
 updated_at: 2026-11-08
 ---
+
 # 日本路线：从山崎蒸馏所到伏见、西宫的清酒酒藏
 
 这条路线把两种发酵酒放在一起：山崎的麦芽威士忌与京都、西宫的清酒。它们看起来是两套体系，实际共享同一组条件——水、温度、微生物与木桶。山崎在京都与大阪之间的山麓，伏见在京都南部的水乡，西宫在兵库的滩五乡边缘；三地靠铁路连起来，一天半可以走完，但每一站都值得慢下来。
@@ -209,3 +210,13 @@ updated_at: 2026-11-08
 - 想继续读背景，可在内容仓中查阅日本产区、清酒、威士忌与“清酒与烧酎”条目；本页不再重复登记引用。
 
 山崎蒸馏所、伏见与西宫的清酒酒藏之间靠铁路衔接，见学与品鉴要分别预约；酒藏整修与班次会变，出发前查各官网。核验于 2026-11-08。
+
+## 相关图像
+
+![清酒与烧酎：同为日本酒，工艺完全不同相关实景照片](/media/photos/article-sake-and-shochu-65c06e42.jpg)
+
+图：清酒与烧酎：同为日本酒，工艺完全不同相关实景照片。图片：NevinThompson，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Local_sake_and_shochu_on_display_in_a_shop,_Nagasaki,_April_2015.jpg)）。关联图像：日本路线：从山崎蒸馏所到伏见、西宫的清酒酒藏。
+
+![月桂冠大仓纪念馆相关实景照片](/media/photos/place-gekkeikan-okura-sake-museum-a8b62f22.jpg)
+
+图：月桂冠大仓纪念馆相关实景照片。图片：663highland，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gekkeikan_Okura_Sake_Museum02s4592.jpg)）。关联图像：日本路线：从山崎蒸馏所到伏见、西宫的清酒酒藏。

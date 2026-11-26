@@ -31,8 +31,8 @@ tags:
 translation_of: place:old-absinthe-house
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6c78b4b5181ec342db57c994fde2a9fa1ac749f16eeba27895fe1438de567336
-source_sha256: 6c78b4b5181ec342db57c994fde2a9fa1ac749f16eeba27895fe1438de567336
+source_revision: sha256:fb8ed59a9cc1f870a276bfdf47ae1c7b1138ec8d39725affe1bbb3a351845bba
+source_sha256: fb8ed59a9cc1f870a276bfdf47ae1c7b1138ec8d39725affe1bbb3a351845bba
 related:
   - relation: about
     target_id: culture-article:prohibition
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1806
 ---
+
 # The Old Absinthe House
 
 At the corner of Bourbon and Bienville streets, a two-storey stucco building cuts the intersection at an obtuse angle. By day it looks like any historic building in the French Quarter surrounded by tourist shops; at night the neon and flags outside make "Old Absinthe House" glow. Its story is not the urban legend about whether absinthe drives people mad. It is a more concrete timeline: import house, coffee house, absinthe room, Prohibition, restaurant and bar, all compressed into the same floor tiles.
@@ -141,3 +142,9 @@ From the Old Absinthe House, Bourbon Street runs northeast to Jean Lafitte's Bla
 Read The Old Absinthe House through the address, then the current opening status, and finally what the place is known for. The sequence matters.
 
 Checked on 2026-11-21 against the Old Absinthe House official page. Hours usually run from daytime into late night, drinking is 21+, and Bourbon Street is crowded and often wet at night, so check the official site and the door notice before visiting. The building was completed in 1806, the liquor licence dates to 1835, and the Absinthe House Frappé was created in 1874; the body keeps those timelines separate. The hallucination legend and the fire-and-sugar ritual are not the 19th-century standard method. The image shows the hanging sign, not the bar interior.
+
+## Related images
+
+![Napoleon House at the corner of Chartres and St. Louis streets, New Orleans; the sign reads 1797, while Girod enlarged the main house in 1814](/media/photos/place-napoleon-house-new-orleans-6ffd3cd6.jpg)
+
+Image: Napoleon House at the corner of Chartres and St. Louis streets, New Orleans; the sign reads 1797, while Girod enlarged the main house in 1814. Credit: ajay_suresh, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:The_Napoleon_House_-_New_Orleans_February_2026.jpg)). Related image for The Old Absinthe House.

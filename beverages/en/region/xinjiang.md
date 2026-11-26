@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:xinjiang
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:df805598c1b261914c6b5bdd15382c94730d11cdb66ef4ff0dbd63a9f8fd0a7f
-source_sha256: df805598c1b261914c6b5bdd15382c94730d11cdb66ef4ff0dbd63a9f8fd0a7f
+source_revision: sha256:b2d503080c376fed5cc67e8a038c86117ffa68daf0d61694e33a68c6fbff3312
+source_sha256: b2d503080c376fed5cc67e8a038c86117ffa68daf0d61694e33a68c6fbff3312
 level: province
 parent_id: region:china
 country_code: CN
@@ -92,6 +92,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Xinjiang
 
 Xinjiang lies in north-western China and is one of the country's largest provincial-level grape-growing areas, as well as a key raw-material base for domestic [wine](ref:wine). Wine grapes are concentrated on the northern Tianshan foothills, in the Ili valley and in the Yanqi basin, while traditional grape districts such as Turpan are dominated by raisins and table grapes. Compared with eastern regions, Xinjiang's wine industry is led more by large companies and grape-supply bases.
@@ -171,3 +172,13 @@ The comparison with [China](ref:china) and [Merlot](ref:merlot) runs through geo
 - [Red wine](ref:red-wine) and [white wine](ref:white-wine): the two main product types.
 - [Wine](ref:wine): an overview of wine categories and origin rules.
 - [Fermentation](ref:fermentation) and [oak ageing](ref:oak-ageing): key processes behind Xinjiang style.
+
+## Related images
+
+![Category image for China](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+Image: Category image for China. Credit: Gary Todd, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)). Related image for Xinjiang.
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Xinjiang.

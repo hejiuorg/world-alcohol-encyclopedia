@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:1989-national-wine-evaluation
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d3190ee79e3c92341b385173b2da905eb697b6a7d40b03507e37016ed72d0664
-source_sha256: d3190ee79e3c92341b385173b2da905eb697b6a7d40b03507e37016ed72d0664
+source_revision: sha256:5bab29d9e436fb2ddf5dc31daeb83bb29e78e82c29b4f3061e8483b7d0a0dbd0
+source_sha256: 5bab29d9e436fb2ddf5dc31daeb83bb29e78e82c29b4f3061e8483b7d0a0dbd0
 date_text: January 1989
 year_start: 1989
 year_end: 1989
@@ -96,6 +96,7 @@ rights:
   note: Third-party reports, list compilations and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The 1989 fifth national wine evaluation: seventeen famous wines and the end of the system
 
 In January 1989 the fifth national wine evaluation was held in Hefei, Anhui. It selected 17 national famous wines, all of them baijiu, later known as the seventeen famous wines. It was both the high point of the national evaluations and their end: after this meeting the state held no further national evaluation of the kind, and the famous-wine list was fixed at 1989.!["The 1989 fifth national wine evaluation: seventeen famous wines and the end of the system" category image](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
@@ -154,3 +155,9 @@ One: "The seventeen famous wines were seventeen new brands chosen in 1989." Most
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The 1989 fifth national wine evaluation: seventeen famous wines and the end of the system are checked against the following sources: Xinhua (Used to check the date, venue and number of famous wines at the fifth evaluation), China News Service (Used to check the 1989 seventeen famous baijiu list; only short phrases are quoted), China Alcoholic Drinks Association (Used to check institutional changes after the fifth evaluation) and 7 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for "The 1984 fourth national wine evaluation: the thirteen famous wines"](/media/photos/place-xianheng-hotel-329475b5.jpg)
+
+Image: Category image for "The 1984 fourth national wine evaluation: the thirteen famous wines". Credit: Jiong Sheng, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)). Related image for The 1989 fifth national wine evaluation: seventeen famous wines and the end of the system.

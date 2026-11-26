@@ -83,6 +83,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1919
 ---
+
 # 穆索与弗兰克烤肉馆
 
 好莱坞大道 6600 号段并不安静：星光大道上的游客、销售员、穿着卡通服装的表演者混在一起，霓虹招牌一块接一块。穆索与弗兰克（Musso & Frank Grill）就在这段街上，门面是一栋低矮的米色建筑，屋顶架着绿色手写体招牌，门口两棵棕榈树把影子投在墙上。它没有把“好莱坞”做成主题装饰，而是把好莱坞的旧工作方式保留下来：红色制服侍者、木质卡座、干马天尼、法兰绒蛋糕，以及一种“先让你坐稳，再慢慢上菜”的节奏。
@@ -142,3 +143,9 @@ founded_year: 1919
 - [认识一座城，从一间酒馆开始](ref:pub-city)
 
 本页于 2026-11-21 核对 Musso & Frank Grill 官方页面。营业时间为周二至周六 17:00–23:00、周日 16:00–22:00，周一休息；晚餐与周末建议订位，吧台通常留给散客。餐厅的“好莱坞最老”限定词不能去掉，红色制服是服务传统而非主题表演，干马天尼也不是越干越好，正文已逐条说明。本页图片是好莱坞大道 Musso & Frank Grill 的完整店面与屋顶招牌，不是内景；图注已标摄影者与许可，文字许可见文末 rights 字段。
+
+## 相关图像
+
+![芝加哥 Uptown 区 Broadway 的 Green Mill Cocktail Lounge 霓虹招牌；俱乐部起源于 1907 年前后的 Pop Morse's Roadhouse，现址建筑 1914 年完成，现空间在 1935 年成形](/media/photos/place-green-mill-chicago-eeea5825.jpg)
+
+图：芝加哥 Uptown 区 Broadway 的 Green Mill Cocktail Lounge 霓虹招牌；俱乐部起源于 1907 年前后的 Pop Morse's Roadhouse，现址建筑 1914 年完成，现空间在 1935 年成形。图片：Warren LeMay from Chicago, IL, United States，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Green_Mill_Cocktail_Lounge_Sign,_Broadway,_Uptown,_Chicago,_IL_(54842064706).jpg)）。关联图像：穆索与弗兰克烤肉馆。

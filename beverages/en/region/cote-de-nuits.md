@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:cote-de-nuits
 source_lang: zh
-source_revision: sha256:72355882da557ab559d52eef658fdc3d2f88f0fec4bab81c7a4091942cf0c0f8
-source_sha256: 72355882da557ab559d52eef658fdc3d2f88f0fec4bab81c7a4091942cf0c0f8
+source_revision: sha256:f00ee7707b39776c1446a76b768e7f4e068345595bfb9c9ea81de30c75e4bcbf
+source_sha256: f00ee7707b39776c1446a76b768e7f4e068345595bfb9c9ea81de30c75e4bcbf
 translation_status: reviewed
 level: city
 parent_id: region:france
@@ -82,6 +82,7 @@ rights:
   note: Third-party trademarks, maps and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Côte de Nuits
 
 The Côte de Nuits is the red-wine heart of Burgundy's northern Côte d'Or, running from Marsannay-la-Côte south of Dijon to Corgoloin, a strip of about 40 km. It contains 24 grands crus and Pinot Noir accounts for about 95% of plantings, making it the most direct place to understand Burgundy's red-wine hierarchy and the idea of climat.
@@ -158,3 +159,13 @@ To read Côte de Nuits, start with the appellation and its permitted varieties, 
 - [Red wine](ref:red-wine): an overview of still red wine and winemaking.
 - [Terroir](ref:terroir): the climat idea and site differences.
 - [Oak ageing](ref:oak-ageing): how barrels shape Pinot Noir aroma and texture.
+
+## Related images
+
+![Pinot Noir](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+Image: Pinot Noir. Credit: Cjp24, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)). Related image for Côte de Nuits.
+
+![Terroir](/media/photos/term-terroir-c440d7e4.jpg)
+
+Image: Terroir. Credit: Friedrich Petersdorff, CC BY-SA 2.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)). Related image for Côte de Nuits.

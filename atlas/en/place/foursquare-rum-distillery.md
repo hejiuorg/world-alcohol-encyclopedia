@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:foursquare-rum-distillery
 source_lang: zh
-source_revision: sha256:94559674224dca3b80d9e0e2c622db48934408b68691b68821864ce56c2922e8
-source_sha256: 94559674224dca3b80d9e0e2c622db48934408b68691b68821864ce56c2922e8
+source_revision: sha256:f692097dbe14e184ef5e5e6d033f5eadb9345680c7131727ed7a6fbb19b4c92a
+source_sha256: f692097dbe14e184ef5e5e6d033f5eadb9345680c7131727ed7a6fbb19b4c92a
 translation_status: reviewed
 subtype: distillery-visitor
 address: Foursquare Rum Distillery, Four Roads, Saint Philip, Barbados
@@ -148,3 +148,9 @@ Foursquare combines well with the Mount Gay visitor centre on the south coast an
 Set Foursquare beside [Mount Gay Distillery](ref:mount-gay-distillery) and two Barbados paths appear: one tells continuity through an old estate and double distillation, the other tells modernity through a converted sugar factory, open-house visiting and transparency. Both belong to the [Barbados](ref:barbados) region, but the visits, styles and price bands differ. There is no need to choose sides; walk both, then compare in the glass.
 
 For Foursquare Rum Distillery, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
+
+## Related images
+
+![A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.](/media/photos/drink-style-rum-ebd00623.jpg)
+
+Image: A bottle of Captain Morgan Original Rum, with dark liquid and the brand label.. Credit: Pinakpani, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottle_of_Captain_Morgan_Rum_01.jpg)). Related image for Foursquare Rum Distillery.

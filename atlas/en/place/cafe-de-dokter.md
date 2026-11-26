@@ -85,9 +85,10 @@ founded_year: 1798
 translation_of: place:cafe-de-dokter
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:748c22968ffaf7b456b97ab0486154e9e1ac21ad702b31466974fb92644c9991
-source_sha256: 748c22968ffaf7b456b97ab0486154e9e1ac21ad702b31466974fb92644c9991
+source_revision: sha256:7b2a6077f0645a5c1c450c66efba26db64a7eafa61f1dbc162bd0aeaeef9c57b
+source_sha256: 7b2a6077f0645a5c1c450c66efba26db64a7eafa61f1dbc162bd0aeaeef9c57b
 ---
+
 # Café De Dokter
 
 From Spui, walk south into Rozenboomsteeg, an alley barely wide enough for two people abreast, and at No. 4 a small sign reads “Café De Dokter.” Push the door and the first reaction is a pause: one bar, a few stools, and walls packed with old clocks, birdcages, medical instruments, photographs, and chandeliers. There is almost no room to turn. It is not designed to look vintage; two centuries of objects have simply been left in place until time itself became the décor.
@@ -148,3 +149,9 @@ From De Dokter, two steps north are Spui and [Café Hoppe](ref:hoppe); east are 
 - Related entries: [Café Hoppe](ref:hoppe), [Heineken Experience](ref:heineken), [De Halve Maan](ref:halve-maan), [Cantillon](ref:cantillon), [Casa Labra](ref:labra)
 
 **Short definition:** Café De Dokter at Rozenboomsteeg 4 was founded in 1798 by a surgeon from a nearby hospital, originally as a meeting place for doctors and medical students. At about 18 square metres it is one of Amsterdam’s smallest bars; the same family runs it into the seventh generation, now under Maria and Henry. Antique medical instruments, clocks, birdcages, chandeliers, Dokters Recept jenever, cash-only payment, and no reservations complete its character.
+
+## Related images
+
+![The twin facades of Café Hoppe at Spui 18–20, with green neon and Amstel signs](/media/photos/place-cafe-hoppe-d8b6d53b.jpg)
+
+Image: The twin facades of Café Hoppe at Spui 18–20, with green neon and Amstel signs. Credit: Marcelmulder68, CC BY-SA 3.0 nl, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Spui_nr._18_en_20.jpg)). Related image for Café De Dokter.

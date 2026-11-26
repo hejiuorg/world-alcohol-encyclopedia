@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:napa-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9af2b8c0a634dfe52c0702192d7e194d2e87e777117cea39216a32e6a707529f
-source_sha256: 9af2b8c0a634dfe52c0702192d7e194d2e87e777117cea39216a32e6a707529f
+source_revision: sha256:36ba8c206147936102123910eddb22b1f5893a253b19631c5ac2abcdefe00f5e
+source_sha256: 36ba8c206147936102123910eddb22b1f5893a253b19631c5ac2abcdefe00f5e
 level: other
 parent_id: region:usa
 country_code: US
@@ -94,6 +94,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Napa Valley
 
 Napa Valley is California's best-known wine region, known for Cabernet Sauvignon and a dense system of small appellations.
@@ -183,3 +184,13 @@ For Napa Valley, begin with the appellation and its permitted varieties. Then lo
 - [Vintage](ref:vintage): vintage variation, drought and wildfire in Napa.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Napa Valley.
+
+![Wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Image: Wine. Credit: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Related image for Napa Valley.

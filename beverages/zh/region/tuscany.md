@@ -89,6 +89,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 托斯卡纳
 
 托斯卡纳（Tuscany，意大利语 Toscana）位于[意大利](ref:italy)中部，是意大利最具辨识度的葡萄酒产区之一。它以[桑娇维塞](ref:sangiovese)为核心，从基安蒂的丘陵到蒙塔奇诺的山城，再到第勒尼安海岸的保格利，形成了以[红葡萄酒](ref:red-wine)为主、同时生产[白葡萄酒](ref:white-wine)与少量起泡酒的版图。
@@ -171,3 +172,13 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「托斯卡纳」的关键事实，主要由以下来源交叉核对：Italian Ministry of Agriculture（意大利葡萄酒法定产区与 DOCG 名录；由原条目末尾参考资料迁移，未逐条复核访问日期）、European Commission（托斯卡纳各原产地名称的注册状态与产品规格；由原条目末尾参考资料迁移，未逐条复核访问日期）、Federdoc（意大利产区协会与 DOCG 规则概览；由原条目末尾参考资料迁移，未逐条复核访问日期）等 8 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「托斯卡纳」与「意大利」、「桑娇维塞」、「红葡萄酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![“基安蒂经典”页面配图：Chianti Classico example bottle - Annata type。摄影：FranzKafka2000，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-drink-italy-chianti-classico-3b4e03f3.jpg)
+
+图：Chianti Classico example bottle - Annata type。摄影：FranzKafka2000，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：FranzKafka2000，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=168690826)）。关联图像：托斯卡纳。
+
+![布鲁奈罗](/media/photos/drink-italy-brunello-di-montalcino-820d580a.jpg)
+
+图：布鲁奈罗。图片：O.S，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Montalcino_001.jpg)）。关联图像：托斯卡纳。

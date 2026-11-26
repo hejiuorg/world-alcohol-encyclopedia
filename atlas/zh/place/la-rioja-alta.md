@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观安排、售酒时间与酒款会变化，以酒庄回复为准。
 verification_scope: source-verified
 ---
+
 # 里奥哈阿尔塔酒庄
 
 阿罗（Haro）火车站区（Barrio de la Estación）是一条很短的街：一边是铁路，一边是连成排的老酒厂，砖墙、铁门与酒窖的通风口挤在一起。里奥哈阿尔塔在 Vizcaya 大道 8 号，离洛佩兹雷迪亚只隔几分钟步行。它没有把参观做成“主题乐园”，而是把一间仍在按传统节奏运转的酒庄打开给预约访客看：美国橡木桶、长时间陈酿、缓慢的倒桶，以及一套从 1890 年延续下来的家族股东结构。
@@ -159,3 +160,9 @@ verification_scope: source-verified
 | 城市/国家 | 阿罗 / 西班牙 |
 | 营业状态 | 已核验营业 |
 | 官网 | riojalta.com |
+
+## 相关图像
+
+![酒窖与储存：温度、湿度、光照与时间相关实景照片](/media/photos/article-cellar-and-storage-de086b17.jpg)
+
+图：酒窖与储存：温度、湿度、光照与时间相关实景照片。图片：Deepsphotography，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:The_Cellars_in_Direlton_Castle.JPG)）。关联图像：里奥哈阿尔塔酒庄。

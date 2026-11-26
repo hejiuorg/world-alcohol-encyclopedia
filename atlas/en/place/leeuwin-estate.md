@@ -37,8 +37,8 @@ tags:
 translation_of: place:leeuwin-estate
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:95c0505e6a9943503bd68813c2a0a68ba1c60bd3135461ec78a1cc7b76e56b76
-source_sha256: 95c0505e6a9943503bd68813c2a0a68ba1c60bd3135461ec78a1cc7b76e56b76
+source_revision: sha256:2a46f6fdf73f88e364128b43b9fa2f66e70d667cc19477e7c28cdf3001e692c0
+source_sha256: 2a46f6fdf73f88e364128b43b9fa2f66e70d667cc19477e7c28cdf3001e692c0
 related:
   - relation: about
     target_id: region:margaret-river
@@ -164,3 +164,9 @@ The best way to understand Leeuwin is not to buy many vintages at once but to co
 - Related entries: [margaret-river](ref:margaret-river), [australia](ref:australia), [chardonnay](ref:chardonnay), [syrah](ref:shiraz), [terroir](ref:art).
 - This entry does not provide live prices, menus, concert line-ups or opening status; check the estate website and regional association before visiting.
 - To understand Block 20, ask at the tasting about the fruit proportion, oak time and new-oak percentage in that year’s Art Series Chardonnay, then compare it with Prelude.
+
+## Related images
+
+![Category image for Margaret River](/media/photos/place-vasse-felix-038a6f36.jpg)
+
+Image: Category image for Margaret River. Credit: Mark Pegrum, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vasse_Felix_Winery.jpg)). Related image for Leeuwin Estate.

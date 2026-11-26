@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:armagnac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:42ae46ba5da524c92a25f42e7db4baa4a74a28980a808114697fd9f8ac090884
-source_sha256: 42ae46ba5da524c92a25f42e7db4baa4a74a28980a808114697fd9f8ac090884
+source_revision: sha256:a25e28badae65a315be403142644a6f07b06bb81fed6daf92c7b6ff3d7447e94
+source_sha256: a25e28badae65a315be403142644a6f07b06bb81fed6daf92c7b6ff3d7447e94
 legacy_refs: []
 parent_style_id: drink-style:brandy
 aroma_family: fruit/floral/oak
@@ -81,6 +81,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Armagnac
 
 The easiest thing to remember about Armagnac is its still: the wine passes through once, not twice as in Cognac. That single pass leaves more congeners behind, gives a lower-strength spirit, and makes the aroma broader, heavier and quicker to show itself. Around this "one pass" technique, Gascon producers built a tradition of bottling single vintages, so each year's weather can be preserved on its own.
@@ -166,3 +167,9 @@ It works as a digestif with chocolate, dried fruit, nuts and cheese; in Gascony 
 - [Ugni Blanc](ref:trebbiano): one of the main Armagnac grapes.
 - [Armagnac region](ref:armagnac): soils and styles of the three sub-regions.
 - [Appellation](ref:appellation): the entry point to AOC and GI systems.
+
+## Related images
+
+![Photograph for Trebbiano: Tuscany Vin Santo (holy wine) dried Trebbiano grapes. Credit: Gabriele Cantini, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-trebbiano-8254babe.jpg)
+
+Image: Tuscany Vin Santo (holy wine) dried Trebbiano grapes. Credit: Gabriele Cantini, CC BY 2.0, via Wikimedia Commons.. Credit: Gabriele Cantini, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=19365493)). Related image for Armagnac.

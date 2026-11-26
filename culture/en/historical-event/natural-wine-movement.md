@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:natural-wine-movement
 source_lang: zh
-source_revision: sha256:5017b335b1c63c24dfa95124edfd5ddfca623c442c962725951f82d7a541f2fe
-source_sha256: 5017b335b1c63c24dfa95124edfd5ddfca623c442c962725951f82d7a541f2fe
+source_revision: sha256:88d7f9eed43d19da2b7aa9f9ef83a064976f86e32a62719f940846298376a0b5
+source_sha256: 88d7f9eed43d19da2b7aa9f9ef83a064976f86e32a62719f940846298376a0b5
 translation_status: reviewed
 aliases:
   - 自然葡萄酒运动
@@ -75,6 +75,7 @@ rights:
   note: Third-party charter texts, logos, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # The Natural Wine Movement: From Beaujolais Experiments to a 2020 Label
 
 Natural wine usually means wine made with as little intervention as possible: grapes from organic or ecological farming, indigenous yeasts, no winemaking additives, and no filtration, centrifugation or heat treatment; sulphur is kept very low or omitted altogether. In the second half of the 20th century a small group of winemakers in French Beaujolais tested this approach repeatedly, and it gradually grew from a local practice into an international trend. In 2020 it received, for the first time, a label name recognised by the French state: Vin Méthode Nature.!["The Natural Wine Movement: From Beaujolais Experiments to a 2020 Label" category image](/media/photos/place-cafe-procope-e1f880f0.jpg)
@@ -136,3 +137,9 @@ Fifth, health and quality claims lack consistent evidence. Lower sulphur may red
 - [The French AOC system of 1935](ref:aoc): how appellation rules define "orthodox" wine.
 - [Champagne delimitation (1927)](ref:champagne): another case of boundaries and name protection.
 - [The Bordeaux classification of 1855](ref:bordeaux): a historical comparison of hierarchy and market signals.
+
+## Related images
+
+![Illustration for The 1927 Champagne Delimitation: Names, Parcels and a Boundary War](/media/photos/historical-event-champagne-riots-1911-fde5507b.jpg)
+
+Image: Illustration for The 1927 Champagne Delimitation: Names, Parcels and a Boundary War. Credit: Agence Rol, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Apr%C3%A8s_le_pillage_d%27Ay,_avril_1911_-_btv1b69160215.jpg)). Related image for The Natural Wine Movement: From Beaujolais Experiments to a 2020 Label.

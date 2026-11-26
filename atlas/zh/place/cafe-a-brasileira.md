@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1905
 ---
+
 # A Brasileira
 
 Rua Garrett 的坡道上，A Brasileira 的深绿色遮阳篷与金色字母很难错过。门口一张小圆桌旁，费尔南多·佩索阿的青铜像支着下巴坐着，膝盖上摊着一本书，像是随时会抬头向路过的人要一杯咖啡。游客排队和铜像合影，本地人则绕过人群，推门进入镜面、深色木饰与大理石台面组成的老咖啡馆。它是希亚多最像“城市客厅”的一间店，也是里斯本把文学记忆做成日常生意的最成功案例之一。
@@ -136,3 +137,9 @@ A Brasileira 的招牌是咖啡，尤其是里斯本式的浓缩“bica”。它
 - 同城的 `place:a-ginjinha` 是“站立小杯”，A Brasileira 是“坐席咖啡”，两者可以对照里斯本两种日常。
 - 若继续中欧咖啡馆路线，读 `place:cafe-central`、`place:cafe-hawelka` 与 `route:vienna-coffee-house-evening`。
 - 相关条目：[A Ginjinha](ref:ginjinha)、[Café Majestic](ref:majestic)、[Café Central](ref:central)、[Café Hawelka](ref:hawelka)、[Café de la Paix](ref:paix)
+
+## 相关图像
+
+![Café Majestic 的新艺术正立面与“MAJESTIC”招牌，Rua de Santa Catarina 112](/media/photos/place-cafe-majestic-c4f8fe17.jpg)
+
+图：Café Majestic 的新艺术正立面与“MAJESTIC”招牌，Rua de Santa Catarina 112。图片：Maragato1976，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Majestic_(Porto).jpg)）。关联图像：A Brasileira。

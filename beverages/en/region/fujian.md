@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:fujian
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:628affbcca1285af9b167bfddc5d321ae78fbe416a765d2b3de5cb783e0680ff
-source_sha256: 628affbcca1285af9b167bfddc5d321ae78fbe416a765d2b3de5cb783e0680ff
+source_revision: sha256:418fc7a30e3d41718c55f76befeafcf472789aba5a5c5801d32f7cbaada3bd8f
+source_sha256: 418fc7a30e3d41718c55f76befeafcf472789aba5a5c5801d32f7cbaada3bd8f
 legacy_refs: []
 level: province
 parent_id: region:china
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Fujian Province
 
 Fujian lies on the south-east coast of China, dominated by mountains, hills and a long coastline. In the map of alcoholic drinks its clearest identity is as an important region for hongqu yellow wine: glutinous rice, [red yeast rice](ref:hongqu) and water form the material base, and Fuzhou, Longyan and Gutian each developed a distinct tradition. Fujian also makes baijiu and fruit wines, but hongqu yellow wine is the most recognisable product.![Fujian Province image](/media/photos/region-fujian-84b32a17.jpg)
@@ -153,3 +154,13 @@ Fifth, believing yellow wine must be drunk warm. Temperature is a matter of matc
 - [Red yeast rice](ref:hongqu): the core qu material of Fujian yellow wine.
 - [Glutinous rice](ref:glutinous-rice) and [water](ref:water): the base materials of hongqu yellow wine.
 - [Fermentation](ref:fermentation): temperature and humidity control and fermentation rhythm.
+
+## Related images
+
+![Glutinous rice](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+Image: Glutinous rice. Credit: 국립국어원, CC BY-SA 2.0 kr, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)). Related image for Fujian Province.
+
+![Yellow wine](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+Image: Yellow wine. Credit: udono, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)). Related image for Fujian Province.

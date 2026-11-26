@@ -68,6 +68,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 丹魄
 
 丹魄是西班牙最具代表性的红葡萄品种之一，果皮较厚、成熟较早，带樱桃、李子、皮革与烟草气息。它在里奥哈与杜埃罗河岸常经过橡木桶陈酿，形成结构完整、适合配餐的风格。丹魄也用于酿造桃红葡萄酒，并在西班牙以外逐渐扩展种植。
@@ -151,3 +152,9 @@ verification_scope: source-verified
 **更新提示。** 「丹魄」最近核对于 2026-11-04；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
 
 **编者注。** 本页把「丹魄」作为品种条目处理：定义、流程与关键数字以正文表格为准，与「葡萄酒」、「红葡萄酒」的差异用对照阅读验证；遇到价格、批次或地址，回到页面所列来源核对。
+
+## 相关图像
+
+![桃红葡萄酒](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+图：桃红葡萄酒。图片：THOR，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)）。关联图像：丹魄。

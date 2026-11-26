@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:coulee-de-serrant
 source_lang: zh
-source_revision: sha256:fd64331b185fdea1d79b533161f1b84da095b8d7fe796d1713d430655cd6d38c
-source_sha256: fd64331b185fdea1d79b533161f1b84da095b8d7fe796d1713d430655cd6d38c
+source_revision: sha256:59807f057ff171e83ee30c3d14fcd37d0757a119f53881d219db9065cd56715b
+source_sha256: 59807f057ff171e83ee30c3d14fcd37d0757a119f53881d219db9065cd56715b
 translation_status: reviewed
 subtype: winery-visitor
 address: Château de la Roche aux Moines, 49170 Savennières, France
@@ -82,6 +82,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, bookings and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # La Coulée de Serrant
 
 La Coulée de Serrant stands at Château de la Roche aux Moines in Savennières, in France's Loire Valley. It covers only 7 hectares yet is an appellation in its own right, Coulée de Serrant, a monopole of the Joly family. The vineyard sits on a steep slope above the Loire, was planted by Cistercian monks in 1130 and is now run by the family of Nicolas Joly; it is one of the landmark biodynamic estates in France.![related photograph of La Coulée de Serrant](/media/photos/place-coulee-de-serrant-1c813658.jpg)
@@ -147,3 +148,9 @@ Further reading: [Wine](ref:c-extra-1).
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about La Coulée de Serrant is built.
 
 Start with [Loire Valley](ref:loire) for address and space, then read [White wine](ref:white-wine) for operating status. Seeing both keeps La Coulée de Serrant from being confused with a neighbouring idea.
+
+## Related images
+
+![Loire Valley](/media/photos/region-loire-d93c2c1f.jpg)
+
+Image: Loire Valley. Credit: Wikimedia Commons contributor, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Azay_le_rideau.jpg)). Related image for La Coulée de Serrant.

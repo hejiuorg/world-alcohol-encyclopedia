@@ -81,6 +81,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 卢森博士酒庄
 
 卢森博士酒庄（Weingut Dr. Loosen）在摩泽尔中段的贝恩卡斯特-库斯，具体位置是圣约翰内斯霍夫（St. Johannishof）。它不是一个对游客全天开放的主题公园，而是一座仍在运转的家族酒庄：酒窖、住宅与坡地葡萄园连在一起，门口没有大型游客中心。把它当成“来喝一组板岩雷司令的地方”，比当成“景点”更准确；地址与联系方式可在官方页面核对，坐标以官方渠道为准。
@@ -156,3 +157,9 @@ verification_scope: source-verified
 | 官网 | drloosen.de |
 
 **来源与边界。** 本页关于「卢森博士酒庄」的关键事实，主要由以下来源交叉核对：Weingut Dr. Loosen（St. Johannishof, 54470 Bernkastel/Mosel 地址、电话与邮箱；页面未列出固定参观时段，故营业状态标为 unknown）、Verband Deutscher Prädikatsweingüter（VDP 成员身份与圣约翰内斯霍夫地址）、Mosel Tourismus（酒庄位于贝恩卡斯特-库斯、参观需预约的区域旅游信息）等 4 条来源。产品、地址或营业状态变化较快时，以 drloosen.de 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“摩泽尔”页面配图：Mosel vineyard in Tittenheim。摄影：Phillip Capper，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-mosel-92777993.jpg)
+
+图：Mosel vineyard in Tittenheim。摄影：Phillip Capper，CC BY 2.0，来自 Wikimedia Commons。。图片：Phillip Capper，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4168277)）。关联图像：卢森博士酒庄。

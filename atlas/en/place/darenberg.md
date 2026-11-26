@@ -38,8 +38,8 @@ tags:
 translation_of: place:darenberg
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:06f5c4f75e9001f8db00294f863513b5fa227b71bab2c6bd7673a20f44740133
-source_sha256: 06f5c4f75e9001f8db00294f863513b5fa227b71bab2c6bd7673a20f44740133
+source_revision: sha256:0a91e5b11ecde20b26b3f1c9f8befec8a8814e54653e91d784b1bb98c89dd0f7
+source_sha256: 0a91e5b11ecde20b26b3f1c9f8befec8a8814e54653e91d784b1bb98c89dd0f7
 related:
   - relation: about
     target_id: region:mclaren-vale
@@ -175,3 +175,9 @@ With half a day, choose d’Arenberg plus McLaren Vale town and skip the coast; 
 - Related entries: [mclaren-vale](ref:mclaren-vale), [australia](ref:australia), [shiraz](ref:shiraz), [red-wine](ref:red), [oak-ageing](ref:oak).
 - This entry does not provide live tickets, restaurant availability or opening status; check the estate website before visiting.
 - To understand d’Arenberg, compare Dead Arm with an ordinary McLaren Vale Shiraz, then compare Ironstone Pressings with a Rhône GSM to see what old-vine concentration and multi-variety blending each contribute.
+
+## Related images
+
+![Photograph for Australia: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-australia-968b262e.jpg)
+
+Image: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=9069567)). Related image for d’Arenberg.

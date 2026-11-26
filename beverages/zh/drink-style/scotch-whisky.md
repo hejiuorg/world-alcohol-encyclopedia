@@ -74,6 +74,7 @@ rights:
   note: 第三方法规文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 苏格兰威士忌
 
 苏格兰威士忌是少数把“在哪里、用什么、怎么做、陈多久、装多烈”全部写进法律的烈酒。它的身份不靠营销形容词，而靠一串可核查的门槛：苏格兰境内生产、水与发芽大麦、橡木桶至少三年、装瓶不低于 40% vol、蒸馏酒精度低于 94.8% vol。理解这些门槛，才能理解它为什么既是一个产区概念，也是一个工艺标准。
@@ -146,3 +147,9 @@ verification_scope: source-verified
 - [蒸馏](ref:distillation)：壶式蒸馏与切酒的作用。
 - [大麦](ref:barley)与[水](ref:water)：苏格兰威士忌的基础原料。
 - [酒精度](ref:abv)：理解标签标注的基础概念。
+
+## 相关图像
+
+![水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。](/media/photos/ingredient-water-edf289bf.jpg)
+
+图：水注入玻璃杯。酿造用水还需检测硬度、碱度、矿物离子与微生物指标。。图片：Jorge Barrios，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)）。关联图像：苏格兰威士忌。

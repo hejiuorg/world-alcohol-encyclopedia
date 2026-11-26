@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:ye-olde-cheshire-cheese
 source_lang: zh
-source_revision: sha256:18a961b2226e0d59956f0602e52426cd581b4eec046d998f30f8f3ad98c2e5ed
-source_sha256: 18a961b2226e0d59956f0602e52426cd581b4eec046d998f30f8f3ad98c2e5ed
+source_revision: sha256:c5cb8add1af2c59b3c884bc7ae3bfff817d6ab4decd0459b52fc433d0f5837a7
+source_sha256: c5cb8add1af2c59b3c884bc7ae3bfff817d6ab4decd0459b52fc433d0f5837a7
 translation_status: reviewed
 subtype: pub
 address: 145 Fleet Street, London EC4A 2BP, United Kingdom
@@ -89,6 +89,7 @@ rights:
   note: The lead image is a photograph of the Ye Olde Cheshire Cheese sign from Wikimedia Commons, used under CC BY-SA 2.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Ye Olde Cheshire Cheese
 
 The doorway at 145 Fleet Street is easy to miss. First-time visitors usually pass through a narrow passage before realising they are inside a multi-level pub. Ye Olde Cheshire Cheese is not fascinating because it can claim to be the oldest anything. It is fascinating because several competing layers occupy one building: a reconstruction after the Great Fire of 1666, the memory of Fleet Street's printing and newspaper trade, Samuel Smith's cask ale, and a set of rooms that still functions as a pub rather than a heritage exhibit.
@@ -140,3 +141,9 @@ Further reading: [London classic bar walk: three hotel bars and a Fleet Street p
 For Ye Olde Cheshire Cheese, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
 
 [Beer](ref:beer) and [London classic bar walk: three hotel bars and a Fleet Street pub](ref:c-extra-1) answer different questions about Ye Olde Cheshire Cheese: address and space and operating status. Read them as a pair, not as alternatives.
+
+## Related images
+
+![Inside À la Mort Subite: wood panelling, mirrors, long tables and the crowded atmosphere of an old Brussels café](/media/photos/place-a-la-mort-subite-0e08d4e8.jpg)
+
+Image: Inside À la Mort Subite: wood panelling, mirrors, long tables and the crowded atmosphere of an old Brussels café. Credit: kishjar?, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_La_Mort_Subite.jpg)). Related image for Ye Olde Cheshire Cheese.

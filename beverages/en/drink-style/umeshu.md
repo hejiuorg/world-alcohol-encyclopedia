@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:umeshu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c7a65247aefe0e600d6d717f85e9a5c739879a70b8cc5110fbcd1298ddc83da9
-source_sha256: c7a65247aefe0e600d6d717f85e9a5c739879a70b8cc5110fbcd1298ddc83da9
+source_revision: sha256:021222ebc2c5b3b892a1ae71dd468e72407abd4d7d66efb3284792f65bba86ae
+source_sha256: 021222ebc2c5b3b892a1ae71dd468e72407abd4d7d66efb3284792f65bba86ae
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: green plum, almond and honey
@@ -146,3 +146,9 @@ Look first for "honkaku umeshu" and the ingredient list: only ume, sugar and alc
 Refrigerate after opening, especially low-strength or fruit-rich products; high-alcohol, high-sugar versions can stay cool and dark, but flavour still flattens. For home-made umeshu, use food-grade containers, keep the fruit submerged and avoid sunlight; do not drink it if it smells wrong, looks unusually cloudy or the lid bulges.
 
 Further reading: [Abbey beer](ref:c-extra-1).
+
+## Related images
+
+![Bottled examples of Amami kokuto shochu, a regional type of Japanese shochu.](/media/photos/drink-style-shochu-f0b3c090.jpg)
+
+Image: Bottled examples of Amami kokuto shochu, a regional type of Japanese shochu.. Credit: Hhaithait, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg)). Related image for Umeshu.

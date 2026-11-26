@@ -72,6 +72,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 灰皮诺
 
 灰皮诺（Pinot Gris）是黑皮诺的果皮颜色变种，果实呈现灰粉色而不是紫黑色。它早熟、皮薄、酸度偏低，酿出的酒通常颜色浅、香气以梨与苹果为主。同一个品种在阿尔萨斯可以做得饱满浓郁，在意大利则可以做得清爽轻盈，风格差异主要来自产区与酿造，而不是品种本身。
@@ -147,3 +148,9 @@ verification_scope: source-verified
 | 代表产区 | 意大利、阿尔萨斯 |
 
 **来源与边界。** 本页关于「灰皮诺」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Oxford University Press（提供关于灰皮诺、灰比诺与阿尔萨斯风格的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）、Conseil Interprofessionnel des Vins d'Alsace（阿尔萨斯贵族品种体系与灰皮诺的产区地位）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![阿尔萨斯](/media/photos/region-alsace-15887179.jpg)
+
+图：阿尔萨斯。图片：Jorge Franganillo from Barcelona, Spain，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)）。关联图像：灰皮诺。

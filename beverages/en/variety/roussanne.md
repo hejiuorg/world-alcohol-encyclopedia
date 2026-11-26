@@ -21,8 +21,8 @@ tags:
 translation_of: variety:roussanne
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:aecd1b9ab98a08f4719fa809dcfa9142b4a0f6e3bf7fbbe1e3fb6a596da903ab
-source_sha256: aecd1b9ab98a08f4719fa809dcfa9142b4a0f6e3bf7fbbe1e3fb6a596da903ab
+source_revision: sha256:c7d92fe9ff3cad4bfba78ec8878112de1bcfeb604362071cb404f27a57f18f27
+source_sha256: c7d92fe9ff3cad4bfba78ec8878112de1bcfeb604362071cb404f27a57f18f27
 related:
   - relation: about
     target_id: region:rhone
@@ -89,6 +89,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Roussanne
 
 A white grape of the Northern Rhône, with white flowers, almond, honey and herbal notes, higher acidity and lower yields than Marsanne; usually blended with Marsanne, and also planted in Savoie and Languedoc.
@@ -146,3 +147,9 @@ The most direct comparison is to taste a Hermitage Marsanne–Roussanne blend, a
 - Related: [rhone](ref:rhone), [marsanne](ref:marsanne), [white-wine](ref:white), [oak-ageing](ref:oak), [fermentation](ref:fermentation).
 
 [Rhône Valley](ref:rhone) and [White wine](ref:white) are the nearest useful comparisons: one clarifies variety character, the other tests regional performance.
+
+## Related images
+
+![Marsanne: Marsanne - inflorescence (Wikimedia Commons)](/media/photos/variety-marsanne-a4a3b08f.jpg)
+
+Image: Marsanne: Marsanne - inflorescence (Wikimedia Commons). Credit: Marianne Casamance, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Marsanne_-_inflorescence.jpg)). Related image for Roussanne.

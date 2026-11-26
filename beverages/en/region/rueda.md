@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:rueda
 source_lang: zh
-source_revision: sha256:7635d105a44cd2a34ba6322d09e713813ca8dbb12197dd87baacba68a2d237da
-source_sha256: 7635d105a44cd2a34ba6322d09e713813ca8dbb12197dd87baacba68a2d237da
+source_revision: sha256:462c2ce29272aafd29b1ba6806cb5555ed90131da18ae2677738e43e5f28f7df
+source_sha256: 462c2ce29272aafd29b1ba6806cb5555ed90131da18ae2677738e43e5f28f7df
 translation_status: reviewed
 level: other
 parent_id: region:spain
@@ -86,6 +86,7 @@ rights:
   note: The lead image is a photograph of the Martinsancho vineyard in Rueda, used under CC BY-SA 4.0; see the figure caption. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Rueda
 
 Rueda is a white-wine denomination in Castilla y León, Spain, on the high plains of the upper Duero. It built its international reputation on Verdejo and became the autonomous community's first DO in 1980, making it central to any account of modern Spanish white wine.
@@ -157,3 +158,13 @@ The comparison with [Wine](ref:wine) and [Spain](ref:spain) runs through geograp
 - [Lees ageing](ref:lees-ageing): how extended lees contact changes texture.
 - [Dry](ref:dry): dry styles versus residual sugar.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Editorial illustration of lees ageing: wine layered above fine lees, with a racking tube and sample glass; AI-assisted illustration, not a photograph.](/media/photos/editorial-lees-ageing-q2.jpg)
+
+Image: Editorial illustration of lees ageing: wine layered above fine lees, with a racking tube and sample glass; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Rueda.
+
+![Photograph for Tempranillo: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+Image: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=16191821)). Related image for Rueda.

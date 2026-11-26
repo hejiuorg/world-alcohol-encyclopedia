@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:chianti-classico
 source_lang: zh
-source_revision: sha256:28a5640769d580748f5666aff9aea32ced709f15d9806a98668b9c0c859b78d9
-source_sha256: 28a5640769d580748f5666aff9aea32ced709f15d9806a98668b9c0c859b78d9
+source_revision: sha256:4a1e5795a0500a152f0f22d654c853b951a5941674b8d44337a6022dfd2e2f1f
+source_sha256: 4a1e5795a0500a152f0f22d654c853b951a5941674b8d44337a6022dfd2e2f1f
 translation_status: reviewed
 level: city
 parent_id: region:italy
@@ -159,3 +159,13 @@ Read [Italy](ref:italy) for the geographic boundary side of Chianti Classico, an
 - [Red wine](ref:red-wine): an overview of still red winemaking.
 - [Oak ageing](ref:oak-ageing): cask type, age and micro-oxygenation.
 - [Terroir](ref:terroir): a framework for altitude, aspect and soil.
+
+## Related images
+
+![Sangiovese](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
+
+Image: Sangiovese. Credit: Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:VIVC10680_SANGIOVESE_Cluster_in_the_field_20354.jpg)). Related image for Chianti Classico.
+
+![Photograph for Tuscany: Tuscany vineyard. Credit: cova69, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
+
+Image: Tuscany vineyard. Credit: cova69, CC BY 2.0, via Wikimedia Commons.. Credit: cova69, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=1393578)). Related image for Chianti Classico.

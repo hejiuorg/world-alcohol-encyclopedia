@@ -86,6 +86,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；导览价格、场次与开放安排会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 格兰帝酒厂
 
 格兰帝（Glen Scotia）在[坎贝尔镇](ref:campbeltown) High Street 12 号，门口就是镇上的主街，往南走几分钟是港口，往北是 Longrow。它没有把游客中心搬到郊外，也没有用新建筑把老厂房包起来：石墙、窄门、低矮的仓库与仍在运转的设备挨在一起，参观时能感到这是一间在镇子里工作了一百多年的酒厂。1832 年，它以 “Scotia” 之名创立；今天属于 Loch Lomond Group，是坎贝尔镇仅存的三家酒厂之一。
@@ -133,3 +134,9 @@ Double Cask 是理解格兰帝的起点：波本桶带来香草与甜感，雪�
 **来源与边界。** 本页关于「格兰帝酒厂」的关键事实，主要由以下来源交叉核对：Glen Scotia / Loch Lomond Group（导览种类、时长、价格、日期与 Double Cask 迎宾酒；品牌、酒款与参观入口）、Loch Lomond Group（1832 年创立、1928 至 1933 年停产、1939 年改名、1996 年归属与酒厂风格）。产品、地址或营业状态变化较快时，以 glenscotia.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「格兰帝酒厂」与「坎贝尔镇」、「苏格兰」、「单一麦芽苏格兰威士忌」放在一起读时，先确认它们是同一层级还是上下游关系：先确认地址与营业状态，再比较历史、空间与点单体验。本页负责给出场所的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于场所本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![“坎贝尔镇”页面配图：Glen Scotia Distillery, Campbeltown。摄影：Lirazelf，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-campbeltown-f346e241.jpg)
+
+图：Glen Scotia Distillery, Campbeltown。摄影：Lirazelf，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Lirazelf，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=62323489)）。关联图像：格兰帝酒厂。

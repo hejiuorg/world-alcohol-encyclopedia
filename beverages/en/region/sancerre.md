@@ -24,8 +24,8 @@ tags:
 translation_of: region:sancerre
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e1951d7c76aa9e4681bfd0342c791d73ffcc24d535ae8d8493f9ce109c1222e8
-source_sha256: e1951d7c76aa9e4681bfd0342c791d73ffcc24d535ae8d8493f9ce109c1222e8
+source_revision: sha256:b13ac9f4dbe2a729f074bedb29e588868be391741a5bff7f1e600a5d8a176b25
+source_sha256: b13ac9f4dbe2a729f074bedb29e588868be391741a5bff7f1e600a5d8a176b25
 related:
   - relation: about
     target_id: region:loire
@@ -98,6 +98,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Sancerre
 
 Sancerre is a hill district in the eastern Loire, on the left bank of the Cher, known for Sauvignon Blanc whites and Pinot Noir reds and rosés. Limestone and flint soils, a cool continental climate and the 1936 white-wine AOC (reds and rosés added in 1959) make it the most cited source of "mineral" Sauvignon Blanc.
@@ -173,3 +174,13 @@ Grower estates are generally small: arrive on time for appointments and stay out
 - Related: [loire](ref:loire), [sauvignon-blanc](ref:sauvignon), [pinot-noir](ref:pinot), [white-wine](ref:white), [red-wine](ref:red).
 
 Read [Loire Valley](ref:loire) for the geographic boundary side of Sancerre, and [Pinot Noir](ref:pinot) for the climate and soil side. Together they locate it on a map.
+
+## Related images
+
+![Loire Valley](/media/photos/region-loire-d93c2c1f.jpg)
+
+Image: Loire Valley. Credit: Wikimedia Commons contributor, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Azay_le_rideau.jpg)). Related image for Sancerre.
+
+![Related photograph of Sauvignon Blanc](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+Image: Related photograph of Sauvignon Blanc. Credit: Geolina163 + 1971markus, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)). Related image for Sancerre.

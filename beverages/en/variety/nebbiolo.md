@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:nebbiolo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:21cca5f097e6bfd58d4ccc8c6a6755d56763f10629b22cea80233b9bfe3a3f99
-source_sha256: 21cca5f097e6bfd58d4ccc8c6a6755d56763f10629b22cea80233b9bfe3a3f99
+source_revision: sha256:dccc8831a56cd49fa7391d01d6c60ed6033adbf32bb4d35a981c15c8e35d99c9
+source_sha256: dccc8831a56cd49fa7391d01d6c60ed6033adbf32bb4d35a981c15c8e35d99c9
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -68,6 +68,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Nebbiolo
 
 Nebbiolo is the signature red grape of Piedmont in Italy. It ripens late and has thick skins, and the wines are pale in colour yet high in acidity and tannin, with aromas of rose, red cherry and tar when young and dried flowers, leather and truffle with age. Barolo and Barbaresco are both built on it.![Nebbiolo image](/media/photos/variety-nebbiolo-82c1e8bb.jpg)
@@ -148,3 +149,9 @@ For Nebbiolo, this variety was last checked in 2026; prices, batches and availab
 - [Italy](ref:italy): where Piedmont sits in the Italian wine map.
 - [Barolo](ref:barolo): the best-known wine built on Nebbiolo.
 - [Oak ageing](ref:oak-ageing): how large and small barrels shape Nebbiolo.
+
+## Related images
+
+![Barolo](/media/photos/drink-italy-barolo-bba29a2d.jpg)
+
+Image: Barolo. Credit: Biskuit, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cascin_Adelaide_Barolo_%26_decanter.jpg)). Related image for Nebbiolo.

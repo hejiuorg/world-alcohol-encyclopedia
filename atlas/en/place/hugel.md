@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:hugel
 source_lang: zh
-source_revision: sha256:3f220789d0b327657efac3d25b8d3d154e693f795cb8d561ed4a717deea643e9
-source_sha256: 3f220789d0b327657efac3d25b8d3d154e693f795cb8d561ed4a717deea643e9
+source_revision: sha256:cab170f00d702ce3dd48a1b648b1778445a1a4e8654dc0962f62993cf48cccf9
+source_sha256: cab170f00d702ce3dd48a1b648b1778445a1a4e8654dc0962f62993cf48cccf9
 translation_status: reviewed
 subtype: winery-visitor
 address: 3, rue de la Première Armée, 68340 Riquewihr, France
@@ -67,6 +67,12 @@ sources:
     publisher: Agence Touristique du Haut-Rhin / Bas-Rhin
     note: Used to check Riquewihr on the wine route and the medieval village setting; no source text is reproduced.
     accessed: 2026-11-09
+  - key: hugel-official
+    title: "Famille Hugel — estate and family history"
+    url: "https://m.hugel.com/598DGMB3C4"
+    publisher: "Famille Hugel"
+    note: "Used to check the Riquewihr estate, family continuity since 1639 and vineyard holdings; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -74,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, bookings and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Hugel
 
 Hugel & Fils / Famille Hugel stands at 3, rue de la Première Armée in Riquewihr, Alsace. It has worked in the same medieval town for more than three centuries, with cellars under the old buildings and a tasting room a few steps from the street. Hugel is not a closed estate that keeps visitors outside: it has a seasonal tasting room and cellar tours by appointment, but the underground cellars still require planning.
@@ -138,3 +145,9 @@ The address is 3, rue de la Première Armée, 68340 Riquewihr, France; the phone
 Opening hours, bookings and transport are subject to official channels; no coordinates are given here, so use official channels
 
 **Short definition:** A family estate in Riquewihr, Alsace, working in the same town since 1639, known for its yellow-label range, medieval cellars and the 1715 S. Caterine cask, and a driving force behind the Vendanges Tardives and Sélection de Grains Nobles rules; the tasting room is seasonal and cellar tours need booking.
+
+## Related images
+
+![Pinot Gris](/media/photos/variety-pinot-gris-727c95c9.jpg)
+
+Image: Pinot Gris. Credit: Ermell, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Pinot_Grigio-20201027-RM-114053.jpg)). Related image for Hugel.

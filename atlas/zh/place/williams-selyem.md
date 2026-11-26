@@ -84,6 +84,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与价格会变化，出行前以官网为准。"
 verification_scope: source-verified
 ---
+
 # 威廉姆斯-塞莱姆酒庄
 
 威廉姆斯-塞莱姆是美国黑皮诺“车库酒”传统的起点之一：1978 年，旧金山纪事报的印刷工 Burt Williams 与会计师 Ed Selyem 在 Forestville 的车库里用借来的设备酿酒，后来把俄罗斯河谷推上了世界黑皮诺版图；今天酒庄仍在 Westside Road，用预约制与配额制维持那种“小而慢”的节奏。
@@ -163,3 +164,9 @@ Westside Road 的酒庄建筑低调，周围是葡萄园与橡树；品鉴空间
 - 相关条目：[sonoma](ref:sonoma)、[usa](ref:usa)、[pinot-noir](ref:pinot)、[oak-ageing](ref:oak)、[region](ref:region)。
 - 本页不提供实时配额、库存或营业状态；参观前以酒庄官网与预约确认邮件为准。
 - 想理解这家酒庄，可以拿一瓶 Russian River Valley 级别与一瓶单一园对照，再与勃艮第夜丘的一级园比较，体会“果香透明度”与“泥土香料”各自来自哪里。
+
+## 相关图像
+
+![索诺马](/media/photos/region-sonoma-a79b1e60.jpg)
+
+图：索诺马。图片：Cullen328，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sonoma_City_Hall_(cropped).jpg)）。关联图像：威廉姆斯-塞莱姆酒庄。

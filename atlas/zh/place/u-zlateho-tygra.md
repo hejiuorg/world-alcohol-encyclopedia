@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY 4.0，署名与许可见正文图注。营业时间、价格与现金政策以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 金虎酒馆
 
 从布拉格老城广场往南，拐进胡索瓦街（Husova），走几分钟会看到一栋门口上方嵌着行走金虎浮雕的老房子。这里就是 U Zlatého tygra（“金虎酒馆”），布拉格最有名的啤酒馆之一。它没有斯拉维亚咖啡馆的高窗与镜面，也没有为游客设计的菜单；一张长桌、几排椅子、墙上的人物照片与不断续杯的皮尔森啤酒，构成了它的全部。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 - [哈维尔卡咖啡馆](ref:hawelka)：维也纳的家族咖啡馆，另一种“作家常客”传统。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[斯拉维亚咖啡馆](ref:slavia)、[皮尔森啤酒](ref:pilsner)。
+
+## 相关图像
+
+![布拉格斯拉维亚咖啡馆的装饰艺术风格内景](/media/photos/place-cafe-slavia-ae96d5d5.jpg)
+
+图：布拉格斯拉维亚咖啡馆的装饰艺术风格内景。图片：Fred Romero from Paris, France，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Praha_-_Kav%C3%A1rna_Slavia.jpg)）。关联图像：金虎酒馆。

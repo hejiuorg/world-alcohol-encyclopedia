@@ -40,8 +40,8 @@ tags:
 translation_of: place:concha-y-toro
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e5b46818eec4b16d0b930529cc1103136c51511a84214b7f25ed48ebf16b4b52
-source_sha256: e5b46818eec4b16d0b930529cc1103136c51511a84214b7f25ed48ebf16b4b52
+source_revision: sha256:76430c7735b87280f4f347942ff060835fd00f75944bb2f3dfc47e132aac71f1
+source_sha256: 76430c7735b87280f4f347942ff060835fd00f75944bb2f3dfc47e132aac71f1
 related:
   - relation: about
     target_id: region:maipo
@@ -100,6 +100,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; opening hours, tour slots and prices may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Viña Concha y Toro
 
 South of Santiago, the road takes about 45 minutes to Pirque, where poplars, irrigation channels and vineyards replace the city. Concha y Toro’s yard sits on the alluvial floor of the Maipo Valley. The entrance is modest, but inside are the old 1883 wine warehouse, Casa Don Melchor and the newer Centro del Vino. This is not a small family estate but a compact history of Chilean wine’s industrialisation, export trade and brand building. It helps to separate brand from land: one side is a global commodity such as Casillero del Diablo, the other a flagship such as Don Melchor from a specific plot in Puente Alto.
@@ -159,3 +160,9 @@ Viña Concha y Toro is best approached through the address, then the current ope
 **Sources and limits.** The key claims about Viña Concha y Toro are checked against the following sources: Concha y Toro, Centro del Vino Concha y Toro, Viña Concha y Toro. For current products, addresses or opening status, use conchaytoro.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Viña Concha y Toro, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![A vineyard in the Andean foothills of Chile, with rows of vines running across the slope.](/media/photos/region-chile-7480a4eb.jpg)
+
+Image: A vineyard in the Andean foothills of Chile, with rows of vines running across the slope.. Credit: Beatrice Murch, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)). Related image for Viña Concha y Toro.

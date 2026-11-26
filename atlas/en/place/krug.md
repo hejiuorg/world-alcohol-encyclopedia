@@ -39,8 +39,8 @@ tags:
 translation_of: place:krug
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2a6a73a069e97f6dcedf57620ba11134f675f5a3f8cdcd265186025658e3826d
-source_sha256: 2a6a73a069e97f6dcedf57620ba11134f675f5a3f8cdcd265186025658e3826d
+source_revision: sha256:623e2b0a219f375ff82c2646ca60618231ea54f937350f833715328cb8218187
+source_sha256: 623e2b0a219f375ff82c2646ca60618231ea54f937350f833715328cb8218187
 related:
   - relation: about
     target_id: place:bollinger
@@ -95,6 +95,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; visits, releases and allocations may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Krug
 
 Rue Coquebert in central Reims is a narrow street, and the Krug house sits quietly inside it. There is no glittering frontage on the Avenue de Champagne and no daily public reception. Krug’s core is not a building but a method: bring wines from different years and plots together, remake a new Édition of Grande Cuvée every year, and keep two single-plot, single-year “soloists” apart. To understand Krug, start with the logic of writing vintage with reserve wine.![Krug building in Reims](/media/photos/place-krug-1f18f1fa.jpg)
@@ -154,3 +155,9 @@ One day: walk Reims and book one tasting. Two days: add Épernay’s avenue and 
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Krug is built.
 
 The Clos d'Ambonnay wall dates to 1766.
+
+## Related images
+
+![The Bollinger house and courtyard in Aÿ](/media/photos/place-bollinger-0c558246.jpg)
+
+Image: The Bollinger house and courtyard in Aÿ. Credit: G.Garitan, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bollinger_01315.JPG)). Related image for Krug.

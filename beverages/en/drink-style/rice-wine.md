@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:rice-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e9ff028e9313c27b6dfa5364681de42e32063bb9c73b898cee178eee0f69c20e
-source_sha256: e9ff028e9313c27b6dfa5364681de42e32063bb9c73b898cee178eee0f69c20e
+source_revision: sha256:f7ac38ac0ec355fa0a7a31418765d702e334b3fc28899b5ffa0af88621642118
+source_sha256: f7ac38ac0ec355fa0a7a31418765d702e334b3fc28899b5ffa0af88621642118
 legacy_refs: []
 aroma_family: rice, sweet ferment and lactic acid
 aliases:
@@ -147,3 +147,9 @@ Read the ingredients first: only glutinous rice, water and starter is closer to 
 For home-made rice wine, sterilise containers and tools, keep the temperature below 30 degrees Celsius, and discard the whole batch if coloured mould appears. Refrigerate after opening and reheat before eating. Its pleasure comes from a brief microbial balance, not from long storage.
 
 Further reading: [Abbey beer](ref:c-extra-1).
+
+## Related images
+
+![Abbey beer](/media/photos/drink-style-abbey-beer-276b4dc3.jpg)
+
+Image: Abbey beer. Credit: BLloydT, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_wall_of_Belgian_beer_bottles_at_the_Bruges_beer_experience.jpg)). Related image for Rice Wine.

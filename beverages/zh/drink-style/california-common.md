@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 加州蒸汽啤酒
 
 美国加州以拉格酵母在较高温度发酵的琥珀色啤酒，带麦芽甜、木质与酒花苦味；Anchor Steam 是唯一沿用"Steam Beer"商业名称的代表。
@@ -153,3 +154,9 @@ Anchor 酒厂的脉络可追溯到淘金热时期抵达旧金山的德国移民 
 | --- | --- |
 | 一句话定位 | 美国加州以拉格酵母在较高温度发酵的琥珀色啤酒，带麦芽甜、木质与酒花苦味；Anchor Steam 是唯一沿用“Steam Beer”商业名称的代表 |
 | 上位风格 | 啤酒 |
+
+## 相关图像
+
+![拉格啤酒](/media/photos/drink-style-lager-7d0e4091.jpg)
+
+图：拉格啤酒。图片：Lars Curfs ( Grashoofd )，CC BY-SA 3.0 nl，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bitburger_Glass.JPG)）。关联图像：加州蒸汽啤酒。

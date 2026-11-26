@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:song-wine-tax
 source_lang: zh
-source_revision: sha256:9ebe8a64b5267c22bb12427b254c52bccb239cf640b0fa249286ac8d3d855fd3
-source_sha256: 9ebe8a64b5267c22bb12427b254c52bccb239cf640b0fa249286ac8d3d855fd3
+source_revision: sha256:03e090762de2defb905128dd2657287ff3521cd45139d1a2b79ac36055029581
+source_sha256: 03e090762de2defb905128dd2657287ff3521cd45139d1a2b79ac36055029581
 translation_status: reviewed
 aliases:
   - 酒课
@@ -146,3 +146,9 @@ Fifth, high wine revenue does not mean high consumption. Prices, population, sta
 - [China](ref:china): background on regions and categories of Chinese alcohol.
 
 Further reading: [The 1855 Bordeaux Classification: A List Produced for a World's Fair](ref:c-extra-1).
+
+## Related images
+
+![Category image for "The 1855 Bordeaux Classification: A List Produced for a World's Fair"](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
+
+Image: Category image for "The 1855 Bordeaux Classification: A List Produced for a World's Fair". Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)). Related image for Song Wine Tax: State Offices, Private Quotas and Fiscal Dependence.

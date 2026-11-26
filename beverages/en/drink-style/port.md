@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:port
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1cb52069032174ab5fca896206978c4cc11a1005d65eb997449d4d18f6b097e6
-source_sha256: 1cb52069032174ab5fca896206978c4cc11a1005d65eb997449d4d18f6b097e6
+source_revision: sha256:ca01f9d891b734c23a6825f7efd040f806f406e0fb2645f5c0154d6ca378e665
+source_sha256: ca01f9d891b734c23a6825f7efd040f806f406e0fb2645f5c0154d6ca378e665
 legacy_refs: []
 parent_style_id: drink-style:fortified-wine
 aroma_family: Fruit / sweet
@@ -79,6 +79,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Port
 
 Port is a sweet fortified wine from Portugal's Douro Valley. Grape spirit is added before fermentation finishes, killing the yeast, stopping fermentation and leaving sugar in the wine while raising strength to about 19%–20% ABV. Sweet, full-bodied and long-lived is the immediate impression, but the real style split comes after [fortification](ref:fortification): whether the wine matures in a reductive or an oxidative environment.
@@ -172,3 +173,9 @@ First, that Port is always deep red. Tawny is amber, White Port is white and Ros
 - [Porto](ref:porto): the appellation as a whole.
 - [Douro](ref:douro): the valley, its terraces and its climate.
 - [Appellation](ref:appellation): the basic idea behind Port's protected name.
+
+## Related images
+
+![Fortification](/media/photos/process-fortification-fbbba4e5.jpg)
+
+Image: Fortification. Credit: John Scofield, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg)). Related image for Port.

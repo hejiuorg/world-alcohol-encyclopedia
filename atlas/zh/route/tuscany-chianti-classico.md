@@ -89,6 +89,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # 经典基安蒂路线：从佛罗伦萨到三座酒庄
 
 经典基安蒂（Chianti Classico）夹在佛罗伦萨与锡耶纳之间，是意大利最容易被“打卡化”的葡萄酒产区之一。很多行程把它压缩成“去一家酒庄喝酒”，但这样会漏掉产区真正的层次：一片葡萄园如何被城堡、家族、配方与当代建筑分别讲述。这条路线用一天串起三站——Bargino 的安东尼世家酒庄、Gaiole 的布罗利奥城堡、Castelnuovo Berardenga 的费尔西纳庄园——从建筑、历史与品种三个角度进入同一个产区。
@@ -176,3 +177,13 @@ Riserva 不是“更甜的珍藏”，也不是“更好的葡萄园”。按产
 相关条目：[安东尼世家经典基安蒂酒庄](ref:antinori)、[布罗利奥城堡](ref:brolio)。
 
 佛罗伦萨到经典基安蒂三座酒庄需要一整天，安东尼世家、布罗利奥与费尔西纳的参观要分别预约；以各官网确认场次与交通。核验于 2026-11-08。
+
+## 相关图像
+
+![“意大利”页面配图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-italy-202d4c25.jpg)
+
+图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：经典基安蒂路线：从佛罗伦萨到三座酒庄。
+
+![安东尼世家酒庄的螺旋楼梯与几何空间](/media/photos/place-antinori-nel-chianti-classico-78daa3d3.jpg)
+
+图：安东尼世家酒庄的螺旋楼梯与几何空间。图片：Repuli，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Angoli_e_geometrie.jpg)）。关联图像：经典基安蒂路线：从佛罗伦萨到三座酒庄。

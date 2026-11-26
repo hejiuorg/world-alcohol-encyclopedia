@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:barleywine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:608c5a4acfd7c352c98a658eb4273829078ea84198319fbf438e2ba19e871fac
-source_sha256: 608c5a4acfd7c352c98a658eb4273829078ea84198319fbf438e2ba19e871fac
+source_revision: sha256:02054f8d8705d402163e445c58d2f17651441f117c197090930c1dc8774a3ce8
+source_sha256: 02054f8d8705d402163e445c58d2f17651441f117c197090930c1dc8774a3ce8
 legacy_refs: []
 aliases:
   - Barleywine
@@ -87,6 +87,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Barleywine
 
 Barleywine is the very strong ale of the British tradition, defined by an extremely high malt gravity, high alcohol, a full body and clear potential for ageing. The word wine describes its strength and the way it is drunk; the raw material is still [barley](ref:barley), not grapes. English and American barleywine share the name but diverge sharply in hopping, colour and balance.
@@ -144,3 +145,9 @@ For Barleywine, begin with the production rule, then the strength, and finish wi
 | Aroma family | Malt and hops |
 
 **Sources and limits.** The key claims about Barleywine are checked against the following sources: Beer Judge Certification Program, Fuller, Smith & Turner (public information on London brewery history and its strong ale range; no original text is reproduced), Oxford University Press and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Imperial Stout](/media/photos/drink-style-imperial-stout-5ced0da8.webp)
+
+Image: Imperial Stout. Credit: 55belgianbeerfan, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)). Related image for Barleywine.

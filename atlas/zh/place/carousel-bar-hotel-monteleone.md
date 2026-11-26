@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1949
 ---
+
 # 旋转木马酒吧
 
 皇家街（Royal Street）上的 Hotel Monteleone 大堂里，有一座真的会转的酒吧：圆形吧台被做成旋转木马的样子，彩绘马、镜面、灯泡与镀金雕饰围成一圈，吧台本身以很慢的速度绕着房间转。第一次坐下时，你会觉得是旁边的客人在移动；过几分钟才意识到，转的是自己。它不是主题餐厅式的“布景”，而是一台 1949 年安装、至今仍在运转的饮酒机器。
@@ -145,3 +146,9 @@ Hotel Monteleone 由西西里移民 Antonio Monteleone 于 1886 年买下，后�
 - [老苦艾酒屋](ref:old-absinthe)
 
 本页于 2026-11-21 核对 Hotel Monteleone 与 Carousel Bar 的官方页面。酒吧每日 11:00–00:00、不接受订位、21 岁以上夜间时段等规则可能随活动调整；到访前查酒店官网与门口提示。旋转吧台 1949 年安装、顶棚 1992 年加建，Vieux Carré 1938 年由 Walter Bergeron 创作，这些年代与卡波特出生传闻都已在正文保留限定。本页图片是旋转木马酒吧的彩绘吧台与顶棚，不是酒店其他区域；图注已逐张署名，图片许可见来源页。
+
+## 相关图像
+
+![萨泽拉克](/media/photos/cocktail-sazerac-2df67c0d.jpg)
+
+图：萨泽拉克。图片：Gtandersson，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:SazeracCocktail.jpg)）。关联图像：旋转木马酒吧。

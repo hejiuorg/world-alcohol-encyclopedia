@@ -21,8 +21,8 @@ tags:
 translation_of: variety:kadarka
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a775d4ebd3ebe8833f4c083754a2e2345d966a6fae6be84ca7684cb69ffd56a7
-source_sha256: a775d4ebd3ebe8833f4c083754a2e2345d966a6fae6be84ca7684cb69ffd56a7
+source_revision: sha256:43d34c30efe32c2c693dc49c23a94d37f595ceff3ce7fead293b93a7b6eae309
+source_sha256: 43d34c30efe32c2c693dc49c23a94d37f595ceff3ce7fead293b93a7b6eae309
 related:
   - relation: about
     target_id: variety:blaufrankisch
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Kadarka
 
 A red grape of Hungary and the Balkans, pale in colour, high in acidity and low in tannin, with red cherry, spice and pepper; once Hungary’s most important red grape, it survives as a traditional variety in Szekszárd and Eger.
@@ -153,3 +154,9 @@ Compare a single-varietal Kadarka with a Kékfrankos from the same region, then 
 Read [Blaufränkisch](ref:blaufrankisch) for the variety character side of Kadarka, and [Terroir](ref:terroir) for the regional performance side. Together they locate it.
 
 Kadarka was once the most widely planted red grape in Hungary, but phylloxera and the socialist-era shift to higher-yielding varieties reduced it to a few traditional sites. It survives in Szekszárd and Eger, where thin skins and late ripening give pale colour, high acidity and low tannin; the best wines are light, spicy and peppery rather than deep and powerful. The grape is sensitive to rot and yields irregularly, so growers often field-graft it and pick selectively. In the Balkans it appears under local synonyms, and the name can cover more than one clone. A Kadarka label from Szekszárd or Eger is the most reliable starting point; blends with Kékfrankos are common, so check the proportion if you want the variety's light, aromatic style.
+
+## Related images
+
+![Blaufränkisch: Ried Neuberg Blaufränkisch (Wikimedia Commons)](/media/photos/variety-blaufrankisch-8d884b99.jpg)
+
+Image: Blaufränkisch: Ried Neuberg Blaufränkisch (Wikimedia Commons). Credit: Geolina163, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ried_Neuberg_Blaufr%C3%A4nkisch.jpg)). Related image for Kadarka.

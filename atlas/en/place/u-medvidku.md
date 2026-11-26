@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:u-medvidku
 source_lang: zh
-source_revision: sha256:2288178825945a93116482660c23cce70516798e5583d395ea25881c5500c879
-source_sha256: 2288178825945a93116482660c23cce70516798e5583d395ea25881c5500c879
+source_revision: sha256:a0da03099b7823bbc093c85527c4750597ea23317bac32db4b5c835e2ce64f2f
+source_sha256: a0da03099b7823bbc093c85527c4750597ea23317bac32db4b5c835e2ce64f2f
 translation_status: reviewed
 subtype: pub
 address: Na Perštýně 7, 110 00 Praha 1, Czechia
@@ -87,6 +87,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; hours, beer lists and booking arrangements change, so check official channels.
 verification_scope: source-verified
 ---
+
 # U Medvídků
 
 ![U Medvídků image](/media/photos/place-u-medvidku-69f06015.jpg)
@@ -148,3 +149,9 @@ The Prague pub also houses a small hotel and brewery, and its beer hall dates fr
 | Official site | umedvidku.cz |
 
 **Sources and limits.** The key claims about U Medvídků are checked against the following sources: Hotel, restaurace a pivovar U Medvídků (Used to check the daily 11:30–23:00 restaurant hours and the courtyard seating), Prague City Tourism (Used to check walking distances in the Old Town and the surrounding streets). For current products, addresses or opening status, use umedvidku.cz. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Related photograph of Pilsner Urquell Brewery: Where the Golden Lager Was Born](/media/photos/place-pilsner-urquell-brewery-3c101021.jpg)
+
+Image: Related photograph of Pilsner Urquell Brewery: Where the Golden Lager Was Born. Credit: Txllxt TxllxT, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Plze%C5%88_-_Sady_5._kv%C4%9Btna_-_View_East_over_Ml%C3%BDnsk%C3%A1_strouha_towards_Plze%C5%88sk%C3%BD_Prazdroj_(Pilsner_Urquell_Brewery).jpg)). Related image for U Medvídků.

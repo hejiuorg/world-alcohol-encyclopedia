@@ -31,8 +31,8 @@ tags:
 translation_of: place:keens-steakhouse
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6f37b91271e62447799346171f66e75fa11657845fb1da5477530985f112df74
-source_sha256: 6f37b91271e62447799346171f66e75fa11657845fb1da5477530985f112df74
+source_revision: sha256:00a964eb8486e1a57e87041f5b5f05c16e8477dc14d05de8ae4d78f264859148
+source_sha256: 00a964eb8486e1a57e87041f5b5f05c16e8477dc14d05de8ae4d78f264859148
 related:
   - relation: about
     target_id: route:new-york-historic-pubs
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1885
 ---
+
 # Keens Steakhouse
 
 On West 36th Street near Sixth Avenue, the block is a mix of garment-district buildings, convenience stores and delivery trucks. Keens Steakhouse's black awning and white "Keens Chophouse" lettering are not especially conspicuous, but once you push through the door, rows of long clay pipes overhead pull the room back into the 19th century. This is not a restaurant that manufactures atmosphere with retro fittings: the pipes, theatre posters, old menus and panelling accumulated in this building, and many of the objects are older than most New York restaurants.
@@ -155,3 +156,9 @@ Checked on 2026-11-21 against the Keens Steakhouse official page. The restaurant
 | Official site | keens.com |
 
 **Sources and limits.** The key claims about Keens Steakhouse are checked against the following sources: Keens Steakhouse, James Beard Foundation, Tasting Table. For current products, addresses or opening status, use keens.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The curved corner portico of Delmonico's at 56 Beaver Street; the present building was designed by James Brown Lord and built in 1890–91, not in 1837](/media/photos/place-delmonicos-3f6d6d1a.jpg)
+
+Image: The curved corner portico of Delmonico's at 56 Beaver Street; the present building was designed by James Brown Lord and built in 1890–91, not in 1837. Credit: Ajay Suresh, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Delmonico%27s_-_56_Beaver_Street_(55312935822).jpg)). Related image for Keens Steakhouse.

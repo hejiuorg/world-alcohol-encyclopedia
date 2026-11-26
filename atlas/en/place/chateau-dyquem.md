@@ -95,9 +95,10 @@ verification_scope: source-verified
 translation_of: place:chateau-dyquem
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4a55e26eeb016efe25c3364517b36c4756edd3cbd57b949f2c3719ca22347974
-source_sha256: 4a55e26eeb016efe25c3364517b36c4756edd3cbd57b949f2c3719ca22347974
+source_revision: sha256:4c585281a84891c71dc1eb751eed3da83fae59e654104accc23e41f4393f5301
+source_sha256: 4c585281a84891c71dc1eb751eed3da83fae59e654104accc23e41f4393f5301
 ---
+
 # Château d’Yquem
 
 Drive south from Bordeaux through the pine woods and gravel of Graves; as you enter Sauternes the land begins to rise and fall. Yquem sits on the highest hill outside the village: pale stone, dark grey roofs, two round towers and a stretch of wall, with clipped lawns and a gravel drive. From the slope you look down over vines that run into the fog line. The morning mist and afternoon sun are among the estate’s most important working conditions.
@@ -169,3 +170,9 @@ With half a day, Yquem plus Sauternes village is a sensible pairing. To add the 
 - Routes and region: [Bordeaux left-bank château trail](ref:route), [Bordeaux region](ref:bordeaux).
 
 **At a glance:** A sweet-wine estate on the highest hill in Sauternes, the only Premier Cru Supérieur in the 1855 classification. About 100 hectares are planted mainly to Sémillon with Sauvignon Blanc; Botrytis cinerea concentrates sugar and flavour, and picking usually passes 5–10 times through the vineyard. Jacques Sauvage established the estate in 1593, the Lur-Saluces family held it from 1785, LVMH acquired it in 1999 and Pierre Lurton took over management in 2004.
+
+## Related images
+
+![The old main house at Château Cheval Blanc](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
+
+Image: The old main house at Château Cheval Blanc. Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)). Related image for Château d’Yquem.

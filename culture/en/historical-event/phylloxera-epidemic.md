@@ -37,8 +37,8 @@ related:
 translation_of: historical-event:phylloxera-epidemic
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:977241ed9a4a4e6cca74d653652792ccbbf9dbf670fde7a9ceddbe445ceaf471
-source_sha256: 977241ed9a4a4e6cca74d653652792ccbbf9dbf670fde7a9ceddbe445ceaf471
+source_revision: sha256:8bf1cbb19766281503ff41fbfaf78e4418dd1882709c74aee1d27955f1dd0b0e
+source_sha256: 8bf1cbb19766281503ff41fbfaf78e4418dd1882709c74aee1d27955f1dd0b0e
 references:
   - key: wine
     target_id: drink-style:wine
@@ -142,3 +142,9 @@ Fourth, phylloxera has not disappeared. It remains present in many parts of the 
 - FranceArchives, The vine and the wine, https://francearchives.gouv.fr/fr/article/128963263
 - HAL / INRAE, The Plagues of the Vine, https://hal.inrae.fr/hal-05304641/file/FrancoisDelmotte_conf-clos-vougeot_HAL.pdf
 - Bureau National Interprofessionnel de l'Armagnac, Grape varieties and terroirs — Baco, http://www.armagnac.fr/grape-varieties-and-terroirs
+
+## Related images
+
+![Category image for "The French AOC System (1935): The Birth of Controlled Appellation of Origin"](/media/photos/place-cafe-procope-e1f880f0.jpg)
+
+Image: Category image for "The French AOC System (1935): The Birth of Controlled Appellation of Origin". Credit: Jean-Marie Hullot from France, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Le_Procope_1,_Paris_2010.jpg)). Related image for The Phylloxera Epidemic: A Crisis That Reshaped Europe's Vineyards.

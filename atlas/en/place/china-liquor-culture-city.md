@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:china-liquor-culture-city
 source_lang: zh
-source_revision: sha256:a4f3f9d76495a76641c794a6995578f0b44af37463c05b51039cacefc8bbb9d7
-source_sha256: a4f3f9d76495a76641c794a6995578f0b44af37463c05b51039cacefc8bbb9d7
+source_revision: sha256:7c9333fc7e7b996731804b78df0b578cde302302a7e3010c4e33722e1aff2c44
+source_sha256: 7c9333fc7e7b996731804b78df0b578cde302302a7e3010c4e33722e1aff2c44
 translation_status: reviewed
 subtype: museum
 address: Maotai Town, Renhuai, Zunyi, Guizhou, China (inside the Moutai distillery area)
@@ -162,3 +162,9 @@ When tasting, sip slowly; 10 ml of Feitian or fifteen-year Moutai is enough to s
 China Liquor Culture City is a door into [baijiu](ref:baijiu): it separates the raw materials, qu-making, fermentation, distillation and ageing of sauce-aroma baijiu, and places drinking rituals back into daily life. Its home, [Guizhou](ref:guizhou), is the core production region for sauce-aroma baijiu in the Chishui River valley; setting the museum within the wider [Chinese](ref:china) history of drink leads naturally to the [history of Chinese wine](ref:chinese-wine-history), and to how liquor moved from sacrifice, poetry and banquets into modern industry and tourism.
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Category image for China](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+Image: Category image for China. Credit: Gary Todd, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)). Related image for China Liquor Culture City.

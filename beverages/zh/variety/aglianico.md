@@ -76,6 +76,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 艾格尼科
 
 艾格尼科（Aglianico）是意大利南部最有分量的红葡萄之一，主要种在巴斯利卡塔的武尔图雷火山（Monte Vulture）与坎帕尼亚的内陆丘陵。它晚熟、色深、单宁与酸度都高，年轻时常常紧闭、涩口，需要几年瓶陈才逐渐展开。把它称为"南方的内比奥罗"并不准确，但它确实与内比奥罗一样，属于"高酸高单宁、靠时间换复杂度"的类型。在意大利南部的红葡萄酒版图里，它是少数能与北部名酒正面比较陈年潜力的品种（ref:italy）。
@@ -161,3 +162,9 @@ Aglianico del Vulture 于 2011 年从 DOC 升为 DOCG，规定至少 90% 艾格�
 | 代表产区 | 意大利 |
 
 **来源与边界。** 本页关于「艾格尼科」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Oxford University Press（提供关于艾格尼科、图拉斯与意大利南部红葡萄酒的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）、Italian Wine Central（Aglianico del Vulture、Taurasi 等法定产区与品种概况）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“意大利”页面配图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-italy-202d4c25.jpg)
+
+图：' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino。摄影：Topural 1，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Topural 1，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=35825496)）。关联图像：艾格尼科。

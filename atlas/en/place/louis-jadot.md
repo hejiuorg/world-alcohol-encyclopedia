@@ -39,8 +39,8 @@ tags:
 translation_of: place:louis-jadot
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fd05f8069f780938d5e5306bd58bf2c07c8b7ec32d15ff44468ea1bee2c0dda2
-source_sha256: fd05f8069f780938d5e5306bd58bf2c07c8b7ec32d15ff44468ea1bee2c0dda2
+source_revision: sha256:4dc881dcdd6c2c5a881c4bbda93fecb72daf393993da1578be642a44d82e38a2
+source_sha256: 4dc881dcdd6c2c5a881c4bbda93fecb72daf393993da1578be642a44d82e38a2
 related:
   - relation: about
     target_id: place:domaine-de-la-romanee-conti
@@ -95,6 +95,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; opening hours, visit slots and prices may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Maison Louis Jadot
 
 On the Route de Savigny north of Beaune, a nineteenth-century house, a connected fermentation room and cellars make up the daily working headquarters of Louis Jadot. There is no grand sign at the gate, only a brass plaque reading “Maison Louis Jadot”. It is a different Burgundy from DRC: one is built on a handful of monopoles and allocation, the other on a large négociant and estate system spanning regional wines to grands crus, owned vines and purchased fruit. The question is not whether Jadot is famous, but how it turns more than 200 hectares and a hundred appellations into a recognisable style.
@@ -156,3 +157,9 @@ Start with [Domaine de la Romanée-Conti](ref:drc) for address and space, then r
 For Maison Louis Jadot, this entry was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
 
 Frédéric Barnier became technical director in 2010.
+
+## Related images
+
+![The stone wall and slope of the Romanée-Conti vineyard in Vosne-Romanée](/media/photos/place-domaine-de-la-romanee-conti-20955f3b.jpg)
+
+Image: The stone wall and slope of the Romanée-Conti vineyard in Vosne-Romanée. Credit: Arnaud 25, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Domaine_de_la_Roman%C3%A9e-Conti_02.JPG)). Related image for Maison Louis Jadot.

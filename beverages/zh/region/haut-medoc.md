@@ -75,6 +75,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 上梅多克
 
 波尔多左岸北部的宽泛 AOC，覆盖从布朗克福到圣瑟兰-德卡杜尔讷的梅多克北部，环绕玛歌、圣朱利安、波亚克、圣埃斯泰夫等六个村庄级 AOC；以砾石脊上的赤霞珠为主，是 1855 分级名庄最密集的地带之一。
@@ -177,3 +178,13 @@ Château Sociando-Mallet 虽未列入 1855 分级，却以紧致、长寿的风�
 | 国家代码 | FR |
 
 **来源与边界。** 本页关于「上梅多克」的关键事实，主要由以下来源交叉核对：INAO（法国原产地与地理标志主管机构）、OIV（葡萄酒定义、产区统计与全球生产框架）、FAO（农业地理、气候与土地利用背景）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![梅洛](/media/photos/variety-merlot-2a33ecba.jpg)
+
+图：梅洛。图片：Felloni claire，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Merlot.jpg)）。关联图像：上梅多克。
+
+![红葡萄酒类型示意图](/media/photos/theme-wine-spirits.jpg)
+
+图：红葡萄酒类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：上梅多克。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: route:venice-san-marco-two-bars
 source_lang: zh
-source_revision: sha256:018357e7d2127cf40167da5fd15d4fff3bd66c924c2177c307c3731542381d1d
-source_sha256: 018357e7d2127cf40167da5fd15d4fff3bd66c924c2177c307c3731542381d1d
+source_revision: sha256:6f5159e3c8a89bb3cc49eea70f11177776724bf5a5f3fd5462909df97b96fe14
+source_sha256: 6f5159e3c8a89bb3cc49eea70f11177776724bf5a5f3fd5462909df97b96fe14
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -79,6 +79,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # Venice: two bars around Piazza San Marco
 
 This route links two ways of “having a drink” around Piazza San Marco: sit first at Caffè Florian on the square, then walk to nearby Harry's Bar for a Bellini. Both are within a few minutes' walk of the square, making this a good evening plan that moves from the slow pace of a café to the formality of a bar.
@@ -152,3 +153,13 @@ Start with [Caffè Florian](ref:florian) for stop order, then read [Reading a ci
 | Stop order | Caffè Florian、Harry's Bar Venice |
 
 **Sources and limits.** The key claims about Venice: two bars around Piazza San Marco are checked against the following sources: Caffè Florian (Used to check the address, the 1720 opening and visiting information), Cipriani (Used to check Harry's Bar's address, its 1931 founding and visiting information), Comune di Venezia (Used to check the square and the walking environment around it). Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Italy: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-italy-202d4c25.jpg)
+
+Image: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=35825496)). Related image for Venice: two bars around Piazza San Marco.
+
+![The open-air tables of Caffè Florian under the arcades of Piazza San Marco, with the band playing in front of the white awning.](/media/photos/place-caffe-florian-0ca403e2.jpg)
+
+Image: The open-air tables of Caffè Florian under the arcades of Piazza San Marco, with the band playing in front of the white awning.. Credit: Son of Groucho, CC BY 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photo.gne?id=9755522045)). Related image for Venice: two bars around Piazza San Marco.

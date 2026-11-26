@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:bar-high-five
 source_lang: zh
-source_revision: sha256:2e274434ec6ad29d49f7b81580f77a5b8ae96bc6138e475b98b2e8459a62af5c
-source_sha256: 2e274434ec6ad29d49f7b81580f77a5b8ae96bc6138e475b98b2e8459a62af5c
+source_revision: sha256:f75536e80ba020ee1c8be7b23d01f1d6eefe9d43facb3529b6ab4066cf98b2e3
+source_sha256: f75536e80ba020ee1c8be7b23d01f1d6eefe9d43facb3529b6ab4066cf98b2e3
 translation_status: reviewed
 subtype: bar
 address: Efflore Ginza 5 Bldg. B1F, 5-4-15 Ginza, Chuo-ku, Tokyo 104-0061
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; hours, menus and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Bar High Five
 
 ![Bar High Five editorial illustration](/media/figures/specific/visual-062-place-bar-high-five.svg)
@@ -166,3 +167,9 @@ The bar is closed on Sundays and Japanese national holidays, so avoid those days
 - [Harry's Bar Venice](ref:harrys-bar-venice): the old bar known for the Bellini and carpaccio, useful for comparing a signature drink with a sense of place.
 
 Further reading: [Speak Low](ref:c-extra-1), [Old Fashioned](ref:c-extra-2).
+
+## Related images
+
+![Illustration for Speak Low](/media/photos/theme-wine-spirits.jpg)
+
+Image: Illustration for Speak Low. Project-made bilingual editorial figure, not an on-site photograph. Related image for Bar High Five.

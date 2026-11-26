@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:dukes-bar
 source_lang: zh
-source_revision: sha256:a5d418d25f230ff2697e6833b71032ea6a690245064eedc104bdf224e0b7f31b
-source_sha256: a5d418d25f230ff2697e6833b71032ea6a690245064eedc104bdf224e0b7f31b
+source_revision: sha256:906f962ead63433ea0d50a6dae1c809bf10d7f2374337776010114f79aad8f6f
+source_sha256: 906f962ead63433ea0d50a6dae1c809bf10d7f2374337776010114f79aad8f6f
 translation_status: reviewed
 subtype: bar
 address: 35 St James's Place, London SW1A 1NY, United Kingdom
@@ -139,3 +139,9 @@ Dukes Bar is best read against the Connaught Bar: one compresses the ritual into
 - [Dry Martini](ref:dry-martini)
 
 Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2).
+
+## Related images
+
+![Photograph for London classic bar walk: three hotel bars and a Fleet Street pub: Royal Opera House - Bow Street, London - statue (6446853425). Credit: Elliott Brown from Birmingham, United Kingdom, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-route-london-classic-bar-walk-dc34ac66.jpg)
+
+Image: three hotel bars and a Fleet Street pub: Royal Opera House - Bow Street, London - statue (6446853425). Credit: Elliott Brown from Birmingham, United Kingdom, CC BY 2.0, via Wikimedia Commons.. Credit: Elliott Brown from Birmingham, United Kingdom, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=22459244)). Related image for Dukes Bar.

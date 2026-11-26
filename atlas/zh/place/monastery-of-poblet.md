@@ -108,6 +108,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、票务与酒庄参观安排会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 波布莱修道院
 
 波布莱修道院在加泰罗尼亚塔拉戈纳省 Vimbodí i Poblet 市镇，普拉德斯山脉脚下。1151 年，巴塞罗那伯爵拉蒙·贝伦格尔四世把此地交给熙笃会，修道院由此建立；阿拉贡王室把这里作为皇家万神殿，13 至 15 世纪形成今天的建筑群。1991 年列入 UNESCO 世界遗产。它是“熙笃会之路”（Ruta del Cister）三座修道院中最大的一座，另外两座是 Santes Creus 与 Vallbona de les Monges。它今天仍是熙笃会修士生活的修道院，不是遗址公园。
@@ -165,3 +166,9 @@ verification_scope: source-verified
 补充阅读：[世界酒史纲：从发酵饮料到全球产业](ref:c-extra-1)、[A Ginjinha](ref:c-extra-2)。
 
 相关条目：[葡萄酒](ref:wine)、[西班牙](ref:spain)、[酒与礼：从乡饮酒礼到今天的敬酒](ref:ritual)。
+
+## 相关图像
+
+![酒与礼：从乡饮酒礼到今天的敬酒相关实景照片](/media/photos/article-wine-and-ritual-977ce5a3.jpg)
+
+图：酒与礼：从乡饮酒礼到今天的敬酒相关实景照片。图片：anonymous，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ritual_wine_ewer_(gong)_with_masks_(taotie),_dragons,_and_real_animals.jpg)）。关联图像：波布莱修道院。

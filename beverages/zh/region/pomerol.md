@@ -77,6 +77,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 波美侯
 
 波美侯（Pomerol）是多尔多涅河右岸、利布尔讷以东的红葡萄酒法定产区，1936 年 12 月 8 日获得 AOC 地位。它的核心台地只有约 4 公里乘 3 公里，却集中了右岸最昂贵的酒庄之一；与左岸不同，波美侯从未建立官方分级，声誉完全建立在具体酒庄与地块之上。
@@ -155,3 +156,13 @@ Petrus 的园地面积很小，产量有限，稀缺性进一步放大了价格�
 - [品丽珠](ref:cabernet-franc)：在右岸混酿中提供香气与结构。
 - [红葡萄酒](ref:red-wine)：波美侯的类别、单宁与酿造概览。
 - [橡木桶陈年](ref:oak-ageing)：新桶比例对香气与单宁的影响。
+
+## 相关图像
+
+![品丽珠](/media/photos/variety-cabernet-franc-2d40c732.jpg)
+
+图：品丽珠。图片：Viala et Vermorel，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cabernet-franc.jpg)）。关联图像：波美侯。
+
+![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：波美侯。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:rheingau
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ab01d5855e25d1e56db93244c49e9f188aaa1a8ef605096f79ea04f5bf785541
-source_sha256: ab01d5855e25d1e56db93244c49e9f188aaa1a8ef605096f79ea04f5bf785541
+source_revision: sha256:d1b9563f44b2a1e1ed1947a9c560c6d5589d8e60ed07eb8739ff5663e89e86a5
+source_sha256: d1b9563f44b2a1e1ed1947a9c560c6d5589d8e60ed07eb8739ff5663e89e86a5
 level: other
 parent_id: region:germany
 country_code: DE
@@ -86,6 +86,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Rheingau
 
 Rheingau is the German appellation on the right bank of the Rhine below the Taunus hills, known for Riesling on south-facing slopes and for Spätburgunder in Assmannshausen. It is small in area but one of the German regions where the dry Riesling tradition is most concentrated.
@@ -176,3 +177,13 @@ Fifth, lumping Rheingau with the Mosel. Climate, soils and the share of dry wine
 - [Acidity](ref:acidity): the role of high acidity in dry Riesling.
 - [Alcohol by volume](ref:abv): how Prädikat levels relate to alcohol.
 - [Oak ageing](ref:oak-ageing): the role of old oak for Riesling and Spätburgunder.
+
+## Related images
+
+![Category image for Germany](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+Image: Category image for Germany. Credit: Renardo la vulpo, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)). Related image for Rheingau.
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Rheingau.

@@ -11,8 +11,8 @@ revision: 1
 translation_of: region:sauternes
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f79628dae3cab0756d285102962d68c89c4171e95074388b4dfe88a50ee4d43d
-source_sha256: f79628dae3cab0756d285102962d68c89c4171e95074388b4dfe88a50ee4d43d
+source_revision: sha256:0dd562139f5502dadae48e31e4c0c08f449ff4c703743546f073165a776ec2ff
+source_sha256: 0dd562139f5502dadae48e31e4c0c08f449ff4c703743546f073165a776ec2ff
 legacy_refs: []
 level: other
 parent_id: region:bordeaux
@@ -83,6 +83,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Sauternes
 
 Sauternes is the botrytised [sweet white](ref:sauternes-style) appellation of southern [Bordeaux](ref:bordeaux), in the Gironde, covering the villages of Sauternes, Barsac, Bommes, Fargues and Preignac. It is not one uniform tract of land but a set of terraces, gravel slopes and clay hollows along the Ciron and the Garonne. Fog, rivers and a fungus made it a sweet-wine region; the 1855 classification wrote it into market memory. It is part of Bordeaux, yet it belongs to a different family, the [dessert wines](ref:dessert-wine) of France.![Sauternes photograph](/media/photos/q2-region-sauternes-7f9389df.jpg)
@@ -153,3 +154,13 @@ Sauternes is a Bordeaux sweet-wine appellation on the Ciron river, where autumn 
 | Country code | FR |
 
 **Sources and limits.** The key claims about Sauternes are checked against the following sources: Official Journal of the European Union, Conseil Interprofessionnel du Vin de Bordeaux (the wider Bordeaux regional and sweet-wine framework; no original text is reproduced), INAO (the French AOC/AOP system and product specifications; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Related photograph of Sauternes](/media/photos/drink-style-sauternes-b29c0c10.jpg)
+
+Image: Related photograph of Sauternes. Credit: Pascal MOULIN, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sauternes_2.jpg)). Related image for Sauternes.
+
+![Noble rot](/media/photos/term-noble-rot-97171bf5.jpg)
+
+Image: Noble rot. Credit: Photographer: Tom Maack No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Botrytis_riesling.jpg)). Related image for Sauternes.

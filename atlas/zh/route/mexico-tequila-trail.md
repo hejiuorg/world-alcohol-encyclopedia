@@ -87,6 +87,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 墨西哥龙舌兰路线
 
 这条路线只安排两站，却足以把龙舌兰酒的核心问题看一遍：第一站在阿马蒂坦的[埃拉杜拉](ref:herradura)，第二站在特基拉镇的[福塔莱萨](ref:fortaleza)。两处都在哈利斯科州的火山低地，相距不远，做法却分向两端：一边把庄园规模、现代磨机与标准化参观结合，一边把塔霍纳、木槽与两只老铜壶留在生产线上。路线适合自驾或包车，先定预约时段与不喝酒的司机。
@@ -138,3 +139,13 @@ updated_at: 2026-11-09
 相关条目：[埃拉杜拉酒厂：阿马蒂坦的马蹄庄园](ref:herradura)、[福塔莱萨酒厂：把 1873 年的作坊重新点火](ref:fortaleza)、[龙舌兰酒](ref:tequila)。
 
 墨西哥龙舌兰路线跨火山低地，包车或指定司机比自驾稳妥；酒厂参观以各官网预约，品鉴后不要开车。核验于 2026-11-09。
+
+## 相关图像
+
+![龙舌兰（龙舌兰属）](/media/photos/ingredient-agave-6671c637.jpg)
+
+图：龙舌兰（龙舌兰属）。图片：Marc Ryckaert ( MJJR )，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Agave_americana_R01.jpg)）。关联图像：墨西哥龙舌兰路线。
+
+![“埃拉杜拉酒厂：阿马蒂坦的马蹄庄园”页面配图：Casa Herradura。摄影：Lupita Sarai，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-casa-herradura-16d9e678.jpg)
+
+图：Casa Herradura。摄影：Lupita Sarai，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Lupita Sarai，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=84673666)）。关联图像：墨西哥龙舌兰路线。

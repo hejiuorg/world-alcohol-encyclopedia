@@ -77,6 +77,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 马德拉
 
 马德拉（Madeira）是[葡萄牙](ref:portugal)马德拉岛出产的[加强酒](ref:fortified-wine)法定产区，以高酸度、长时间熟成与加热氧化风格著称。贵族品种 Sercial、Verdelho、Bual 与 Malvasia 按甜度从干到甜排列。
@@ -170,3 +171,13 @@ Sercial 与 Verdelho 适合冷藏后作为开胃酒，建议温度约 10–12 �
 - [橡木桶陈年](ref:oak-ageing)：canteiro 与长期熟成使用的容器。
 - [葡萄酒](ref:wine)：理解马德拉的类别、年份与产地规则的入口。
 - [酒精度](ref:abv)：18%–20% vol 在标签上的含义。
+
+## 相关图像
+
+![葡萄牙类别配图](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+图：葡萄牙类别配图。图片：John Hayes from San Antonio, Texas, USA，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=151531010)）。关联图像：马德拉。
+
+![加强葡萄酒](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+图：加强葡萄酒。图片：Jon Sullivan，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)）。关联图像：马德拉。

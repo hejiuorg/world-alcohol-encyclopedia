@@ -87,6 +87,7 @@ stop_ids:
 mode: walk-taxi
 updated_at: 2026-11-08
 ---
+
 # 绍兴黄酒路线：从博物馆到咸亨，再到中央酒库
 
 绍兴黄酒不适合被压缩成“喝一杯”。它有一套完整的技术链，也有一层很厚的城市生活：酒药与麦曲、冬酿与开耙、陶坛与年份，最后才落到一只蓝边碗里。这条路线用一天时间走三站——中国黄酒博物馆、咸亨酒店、古越龙山中央酒库——分别看“怎么酿”“怎么喝”“怎么存”。三站不在同一个步行圈里，但打车可以串起来。
@@ -167,3 +168,13 @@ updated_at: 2026-11-08
 这条路线把黄酒的历史、餐桌与仓储放在一天里：博物馆看体系，咸亨看生活，中央酒库看时间。想先读背景，可以继续看[中国黄酒博物馆](ref:museum)、[咸亨酒店](ref:xianheng)与[古越龙山](ref:guyuelongshan)的场馆条目；若时间只够半天，保留博物馆与咸亨，把中央酒库留到下次。
 
 开放时间、票务、菜单与预约以各官方渠道为准，页面核验日期 2026-11-08。
+
+## 相关图像
+
+![“中国黄酒博物馆”页面配图：Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925。摄影：Daderot，CC0，来自 Wikimedia Commons。](/media/photos/q2-place-china-yellow-wine-museum-bcbf374a.jpg)
+
+图：Wine pot with bird head spout, Jingdezhen, China, Kangxi period, Qing dynasty, 1680-1720, porcelain with yellow glaze - Victoria and Albert Museum - London, England - DSC04925。摄影：Daderot，CC0，来自 Wikimedia Commons。。图片：Daderot，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=152459715)）。关联图像：绍兴黄酒路线：从博物馆到咸亨，再到中央酒库。
+
+![咸亨酒店](/media/photos/place-xianheng-hotel-329475b5.jpg)
+
+图：咸亨酒店。图片：Jiong Sheng，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)）。关联图像：绍兴黄酒路线：从博物馆到咸亨，再到中央酒库。

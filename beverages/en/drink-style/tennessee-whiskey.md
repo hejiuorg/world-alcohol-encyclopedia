@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:tennessee-whiskey
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6552c95da9f289e0411275d150ad280dd93a7d9448dfb587339fd703385a9900
-source_sha256: 6552c95da9f289e0411275d150ad280dd93a7d9448dfb587339fd703385a9900
+source_revision: sha256:a2c8bb624b185bb846c84bd4889e3a0557fdedfbc7ee4e66da67937232ba96da
+source_sha256: a2c8bb624b185bb846c84bd4889e3a0557fdedfbc7ee4e66da67937232ba96da
 legacy_refs: []
 parent_style_id: drink-style:whisky
 aroma_family: grain/fruit/smoke
@@ -162,3 +162,9 @@ First, that Tennessee whiskey is simply bourbon. It is a separate federal name w
 - [Oak ageing](ref:oak-ageing): the vanilla, caramel and wood that new charred casks contribute.
 - [Maize](ref:maize): the backbone of the Tennessee mash bill.
 - [United States](ref:usa): the geographical and regulatory setting for American whiskey.
+
+## Related images
+
+![A glass of bourbon, its wall embossed BOURBON FRONTIER WHISKEY and filled with amber liquid.](/media/photos/drink-style-bourbon-whiskey-535c276f.jpg)
+
+Image: A glass of bourbon, its wall embossed BOURBON FRONTIER WHISKEY and filled with amber liquid.. Credit: Markyboy81, CC BY 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photo.gne?id=1001040958)). Related image for Tennessee whiskey.

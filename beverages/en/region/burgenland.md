@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:burgenland
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9874567d001bb8fa04372abf0f15f6a299878b8ef207f472c5468df140d65546
-source_sha256: 9874567d001bb8fa04372abf0f15f6a299878b8ef207f472c5468df140d65546
+source_revision: sha256:2cf70cfc8980f3ef977560ef3cc8afc62b2b8a640bb8bd1a80b886fad2d60c3e
+source_sha256: 2cf70cfc8980f3ef977560ef3cc8afc62b2b8a640bb8bd1a80b886fad2d60c3e
 level: other
 country_code: AT
 legacy_refs: []
@@ -92,6 +92,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Burgenland
 
 Burgenland is the easternmost federal-state wine region of Austria, shaped by the hot continental Pannonian climate and known for Blaufränkisch reds and botrytis sweet wines.![Burgenland photograph](/media/photos/q2-region-burgenland-541b72a7.jpg)
@@ -182,3 +183,13 @@ Start with [Wine](ref:wine) for geographic boundary, then read [White wine](ref:
 - [Terroir](ref:terroir): how lake microclimate and soil create site differences.
 - [Vintage](ref:vintage): vintage variation in reds and sweet wines.
 - [Single varietal](ref:single-varietal) and [blend](ref:blend): the two labelling paths for variety and composition.
+
+## Related images
+
+![Sweet](/media/photos/term-sweet-263faa46.jpg)
+
+Image: Sweet. Credit: Tomomarusan, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Strawberry_shortcake.jpg)). Related image for Burgenland.
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Burgenland.

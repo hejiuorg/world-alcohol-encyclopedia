@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:pinot-blanc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6cdf2e1263b25e0fb254827087182e948afcc937b016856c3a34c4d8007c49c5
-source_sha256: 6cdf2e1263b25e0fb254827087182e948afcc937b016856c3a34c4d8007c49c5
+source_revision: sha256:71e3ef525eea91e7ff28f385a277964bbcb3906fa1067564000bfcba258bc55a
+source_sha256: 71e3ef525eea91e7ff28f385a277964bbcb3906fa1067564000bfcba258bc55a
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -139,3 +139,9 @@ First, that Pinot Blanc is Chardonnay; the two are related but distinct in style
 - [Acidity](ref:acidity): the key to Pinot Blanc's style and food pairing.
 - [Alsace](ref:alsace): the classic region for Pinot Blanc and Auxerrois blends.
 - [Italy](ref:italy): the home of Alto Adige Pinot Bianco.
+
+## Related images
+
+![Alsace](/media/photos/region-alsace-15887179.jpg)
+
+Image: Alsace. Credit: Jorge Franganillo from Barcelona, Spain, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)). Related image for Pinot Blanc.

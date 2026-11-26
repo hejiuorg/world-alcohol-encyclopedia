@@ -69,6 +69,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 爱尔兰
 
 爱尔兰是欧洲西北部的岛国，气候温和湿润，适合大麦种植。在酒类版图上，它最鲜明的身份是[啤酒](ref:beer)产区：干型世涛与爱尔兰红色艾尔是代表性风格，都柏林的吉尼斯自 1759 年沿用至今。
@@ -149,3 +150,13 @@ verification_scope: source-verified
 - [大麦](ref:barley)与[水](ref:water)：爱尔兰啤酒的基础原料。
 - [发酵](ref:fermentation)：上发酵与下发酵的差异。
 - [精酿](ref:craft-beer)：精酿复兴与本地酒厂的关系。
+
+## 相关图像
+
+![精酿啤酒](/media/photos/term-craft-beer-ce03e9bb.jpg)
+
+图：精酿啤酒。图片：Bernt Rostad，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zachariasbryggen_Microbrewery.jpg)）。关联图像：爱尔兰。
+
+![浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+图：浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理。图片：Ich，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)）。关联图像：爱尔兰。

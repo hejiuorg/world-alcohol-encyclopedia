@@ -83,6 +83,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 阿尔萨斯
 
 阿尔萨斯是法国东北部的葡萄酒产区，位于孚日山脉东侧、莱茵河西岸，与德国隔河相望。它以白葡萄酒为主，常以品种名而非产区名标注酒款，并设有特级园、晚收与贵腐精选等分级。
@@ -164,3 +165,13 @@ VT 与 SGN 的标注有法定最低成熟度要求，与普通酒款不同。阅
 **适用边界。** 对「阿尔萨斯」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「阿尔萨斯」最近核对于 2026-11-05；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![阿尔萨斯雷司令相关实景照片](/media/photos/drink-france-alsace-riesling-1fe46fd5.jpg)
+
+图：阿尔萨斯雷司令相关实景照片。图片：Michal Osmenda from Brussels, Belgium，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2010_Riesling_Vieilles_Vignes_from_Elsa_Barabos,_Obernai,_Alsace_(6711020535).jpg)）。关联图像：阿尔萨斯。
+
+![阿尔萨斯琼瑶浆相关实景照片](/media/photos/drink-france-alsace-gewurztraminer-9b3b358b.jpg)
+
+图：阿尔萨斯琼瑶浆相关实景照片。图片：Rolf Kranz，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gewurztraminer_(Andlau,_Alsace).jpg)）。关联图像：阿尔萨斯。

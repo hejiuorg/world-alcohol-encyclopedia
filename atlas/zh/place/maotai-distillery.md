@@ -104,6 +104,12 @@ sources:
     publisher: "www.moutaichina.com"
     note: 用于核对官方公开信息与页面入口；本轮登记官方 URL，未复制正文。
     accessed: 2026-11-08
+  - key: adv-moutai-official
+    title: Kweichow Moutai — Official company information
+    url: https://www.moutaichina.com/
+    publisher: Kweichow Moutai Co., Ltd.
+    note: 用于核对公司、产品与公开参观信息；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -180,6 +186,28 @@ verification_scope: source-verified
 购买要分清“喝”与“藏”。日常饮用可以在官方自营店、专卖店与官方线上渠道购买；想收藏或送礼，要确认年份、批次、包装与发票，保留购买凭证。价格随产品、年份与渠道变化，本页不写具体价格，以官方渠道为准。不要从门口兜售者、陌生微信群或所谓“内部渠道”买酒；也不要相信“扫码验真”以外的非官方鉴定承诺。若买到可疑产品，保留证据并向市场监管部门反映。
 
 中国酒文化城内有付费品鉴与直营店，适合先少量试喝再决定是否购买；但展馆品鉴是 10 毫升量级，目的是闻香与入口，不是“喝一杯”。喝完不要开车，茅台镇山路多、坡陡弯急，代驾或打车更稳妥。带孩子的家庭可以把重点放在展馆与古镇街巷，品鉴由成年人决定是否参加。
+
+
+## 进阶判断
+
+![贵州仁怀茅台镇街景](/media/photos/place-maotai-distillery-bf022cc0.jpg)
+
+图：贵州仁怀茅台镇街景，河谷地形、气候与酱香酒生产高度绑定。图片：Wahsaw，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Streetview_of_Maotai(Moutai)_Town,_Renhuai_City,_Zunyi,_Guizhou.jpg)）。
+
+| 目的 | 合适安排 | 注意 |
+| --- | --- | --- |
+| 参观 | 预约展馆与厂区 | 生产区通常不开放 |
+| 买酒 | 官方渠道与授权店 | 防伪、发票与批次 |
+| 学习 | 工艺展馆与品鉴 | 区分讲解与广告 |
+| 到访 | 半日至一日 | 不酒驾、不闯车间 |
+
+**茅台镇能随便进酒厂参观吗？** 不能。生产区涉及食品安全与工艺保密，通常只开放展馆、文化城或预约路线。到访前看官方预约信息，不要跟着“内部渠道”进厂。
+
+**茅台镇只产茅台酒吗？** 不是。镇域内有多家酒厂与品牌，茅台酒只是其中最具代表性的产品。买酒要看生产商、产地、执行标准与防伪，不要只认地名。
+
+**什么时候去茅台镇合适？** 避开最热与最冷的极端时段，春秋更舒适；酿造周期中的下沙、取酒等节点更有信息量，但生产区不一定开放。先查天气、交通与预约。
+
+延伸阅读：[白酒](ref:baijiu)、[贵州](ref:guizhou)。
 
 ## 到茅台镇：交通、季节与礼仪
 

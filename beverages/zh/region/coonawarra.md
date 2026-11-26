@@ -94,6 +94,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 库纳瓦拉
 
 库纳瓦拉位于南澳大利亚石灰岩海岸，是澳洲最具代表性的赤霞珠产区之一；一条雪茄形的 terra rossa 红土脊覆盖在古老石灰岩上，冷凉海洋性气候让葡萄缓慢成熟。产区 GI 面积 398 平方公里，葡萄园 5,784 公顷，法定边界于 2003 年正式划定。
@@ -162,3 +163,13 @@ Wynns Coonawarra Estate 拥有产区最老的葡萄园，三檐石砌酒厂是�
 - 相关条目：[australia](ref:australia)、[cabernet-sauvignon](ref:cabernet)、[merlot](ref:merlot)、[red-wine](ref:red)、[oak-ageing](ref:oak)。
 
 对照阅读：[澳大利亚](ref:australia)、[梅洛](ref:merlot)。
+
+## 相关图像
+
+![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+
+图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：库纳瓦拉。
+
+![梅洛](/media/photos/variety-merlot-2a33ecba.jpg)
+
+图：梅洛。图片：Felloni claire，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Merlot.jpg)）。关联图像：库纳瓦拉。

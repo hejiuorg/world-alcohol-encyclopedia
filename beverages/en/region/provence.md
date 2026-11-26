@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:provence
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0eef537046a2edc2e316143a62abc4b54a7174bba9eb78a861d2316bd56a85ce
-source_sha256: 0eef537046a2edc2e316143a62abc4b54a7174bba9eb78a861d2316bd56a85ce
+source_revision: sha256:1b4b59548cbe36ff4ff9e678ed0f5485724496726c8802c59b4600e14a4fd514
+source_sha256: 1b4b59548cbe36ff4ff9e678ed0f5485724496726c8802c59b4600e14a4fd514
 level: other
 parent_id: region:france
 country_code: FR
@@ -99,6 +99,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Provence
 
 Provence is the wine region most easily defined by the word "rosé", and also one of the most obscured by it. Its coast runs from the Rhône delta to west of Nice, with vineyards on limestone hills, schist slopes and coastal plains. Rosé is indeed dominant, but the Mourvèdre reds of Bandol, the whites of Cassis and the rare blends of Palette are the way into the region's depth. Provence is not a single style but a group of AOCs that share a Mediterranean climate while keeping separate rules and histories.
@@ -177,3 +178,13 @@ For Provence, begin with the appellation and its permitted varieties, then the v
 - [Red wine](ref:red-wine) and [white wine](ref:white-wine): the region's other two categories.
 - [Grenache](ref:grenache) and [Syrah](ref:syrah): the main varieties in Provence blends.
 - [Grape](ref:grape): the basic structure and ripeness indicators of wine grapes.
+
+## Related images
+
+![Rosé Wine](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+Image: Rosé Wine. Credit: THOR, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)). Related image for Provence.
+
+![Grenache](/media/photos/variety-grenache-69c881eb.jpg)
+
+Image: Grenache. Credit: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)). Related image for Provence.

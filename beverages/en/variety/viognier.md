@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:viognier
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cfa717dccbc8fd1655d7637e0f76432ddd56f1033bc609eacdad5eb449d605a6
-source_sha256: cfa717dccbc8fd1655d7637e0f76432ddd56f1033bc609eacdad5eb449d605a6
+source_revision: sha256:e9e1b4fff4054803707ba2054e82a79a76ccb9177dca85f818cd0054bd7f98ab
+source_sha256: e9e1b4fff4054803707ba2054e82a79a76ccb9177dca85f818cd0054bd7f98ab
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -73,6 +73,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Viognier
 
 Viognier is a white grape of the Northern Rhône, best known through Condrieu. Its aroma is distinctive: apricot, peach, honeysuckle and citrus peel, often described as almost perfumed. But it is low in acidity and irregular in yield, so both growing and winemaking demand careful judgement. It is also a grape that almost vanished and was brought back, a history that still shapes prices and planting today.
@@ -138,3 +139,9 @@ Read [Wine](ref:wine) for the variety character side of Viognier, and [Rhône Va
 - [Rhône](ref:rhone): the home region of Viognier.
 - [France](ref:france): the legal and regional framework of French wine.
 - [Syrah](ref:syrah): its partner in Côte-Rôtie blends.
+
+## Related images
+
+![Rhône Valley](/media/photos/region-rhone-df823b9c.jpg)
+
+Image: Rhône Valley. Credit: Béa at French Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Thain1.jpg)). Related image for Viognier.

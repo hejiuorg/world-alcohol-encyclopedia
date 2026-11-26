@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:south-korea
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:28a67b99cdf6606d653dcba0ea669507045052d21e1752899b12c2fd089d7d98
-source_sha256: 28a67b99cdf6606d653dcba0ea669507045052d21e1752899b12c2fd089d7d98
+source_revision: sha256:f8151d03f575dc920faa933784176e7d53efe9efc4b22bc8d9c2cb789f4de424
+source_sha256: f8151d03f575dc920faa933784176e7d53efe9efc4b22bc8d9c2cb789f4de424
 level: country
 country_code: KR
 legacy_refs: []
@@ -79,6 +79,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # South Korea
 
 South Korea lies in the southern Korean Peninsula, and its drinks landscape is best known for soju. Soju is a distilled spirit, rice wine is fermented, and beer and wine hold a place in the modern consumer market. Understanding Korean drinks means separating traditional fermented drinks, industrial distilled spirits and modern imported drinks rather than lumping them under one idea of "Korean alcohol".
@@ -168,3 +169,13 @@ Read [Soju](ref:soju) for the geographic boundary side of South Korea, and [Wine
 - [Fermentation](ref:fermentation) and [saccharification](ref:saccharification): the base processes of rice wine.
 - [Distillation](ref:distillation): alcohol concentration in soju.
 - [Beer](ref:beer) and [wine](ref:wine): the modern Korean drinks market.
+
+## Related images
+
+![Editorial illustration of grain saccharification: a cooking vessel, steam, heating structure and sampling; AI-assisted illustration, not a photograph.](/media/photos/editorial-saccharification-q2.jpg)
+
+Image: Editorial illustration of grain saccharification: a cooking vessel, steam, heating structure and sampling; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for South Korea.
+
+![Soju](/media/photos/drink-style-soju-8b1cabb3.jpg)
+
+Image: Soju. Credit: Graham Hills, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Soju.jpg)). Related image for South Korea.

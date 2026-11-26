@@ -84,6 +84,7 @@ rights:
 city: 都柏林
 verification_scope: source-verified
 ---
+
 # 铜头酒馆
 
 ![铜头酒馆所在产区配图](/media/photos/region-ireland-6c11da34.jpg)
@@ -139,3 +140,9 @@ verification_scope: source-verified
 | 城市/国家 | 都柏林 / 爱尔兰 |
 | 营业状态 | 已核验营业 |
 | 官网 | thebrazenhead.com |
+
+## 相关图像
+
+![浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+图：浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理。图片：Ich，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)）。关联图像：铜头酒馆。

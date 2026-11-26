@@ -57,6 +57,12 @@ sources:
     publisher: "Williams Selyem"
     note: "用于核对 7227 Westside Road、预约制参观；未复制原文。"
     accessed: 2026-11-21
+  - key: sonoma-county
+    title: "Sonoma County — 官方旅游网站"
+    url: "https://www.sonomacounty.com/"
+    publisher: "Sonoma County Tourism"
+    note: "用于核对索诺马县产区、城镇与路线背景；未复制原文。"
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -71,6 +77,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-21
 ---
+
 # 索诺马县葡萄酒路线
 
 这条路线从希尔兹堡出发，上午去亚历山大谷的乔丹看赤霞珠与法式城堡，下午转进俄罗斯河谷的威廉姆斯-塞莱姆喝黑皮诺，一天里把“内陆热”与“海岸雾”两种索诺马放在同一张桌上。全程约 70 公里，重点是两座风格完全不同的酒庄，以及它们背后两种气候逻辑。
@@ -132,3 +139,13 @@ updated_at: 2026-11-21
 - 相关条目：[jordan-vineyard](ref:jordan)、[williams-selyem](ref:selyem)、[sonoma](ref:sonoma)、[red-wine](ref:red)、[pinot-noir](ref:pinot)。
 - 想继续深入，可以把这条路线与纳帕谷路线对照：索诺马更分散、更靠海，纳帕更集中、更偏赤霞珠。
 - 如果只有半天，删掉乔丹，只去威廉姆斯-塞莱姆加希尔兹堡；如果只有两小时，选一家，不要试图两家都到。
+
+## 相关图像
+
+![“威廉姆斯-塞莱姆酒庄”页面配图：File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg。摄影：Sarah Stierch，CC BY 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-williams-selyem-1c5e46dc.jpg)
+
+图：File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg。摄影：Sarah Stierch，CC BY 4.0，来自 Wikimedia Commons。。图片：Sarah Stierch，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=44884501)）。关联图像：索诺马县葡萄酒路线。
+
+![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+图：黑皮诺。图片：Cjp24，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)）。关联图像：索诺马县葡萄酒路线。

@@ -77,6 +77,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 马尔堡葡萄酒路线
 
 马尔堡葡萄酒路线不是一条有统一标识的公路，而是一种把酒庄、河谷与海风串起来的走法。这里只取两站：布伦海姆附近的云雾之湾，以及塞登海边的伊兰兹。两站同属马尔堡产区，却分别落在 Wairau Valley 的老河床砾石与 Awatere Valley 的沿海风带；放在同一天走，能看清同一片产区内部并不相同的成熟节奏，也能理解为什么马尔堡的长相思不能只用一种味道来概括。
@@ -134,3 +135,13 @@ updated_at: 2026-11-09
 ## 参考资料
 
 本页依据云雾之湾官方到访页、新西兰葡萄种植者协会的马尔堡产区页与 2026 年报告、伊兰兹的协会档案以及 Brancott 官方品牌页核验，页面核验日期 2026-11-09。开放时间、预约规则、酒款与价格会变化，以各官方渠道为准。
+
+## 相关图像
+
+![长相思相关实景照片](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：马尔堡葡萄酒路线。
+
+![云雾之湾酒庄](/media/photos/place-cloudy-bay-7d8861af.jpg)
+
+图：云雾之湾酒庄。图片：Crackerbuzz at English Wikipedia，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Rarangi_Beach.jpg)）。关联图像：马尔堡葡萄酒路线。

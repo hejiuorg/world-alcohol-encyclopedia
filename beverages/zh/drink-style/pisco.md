@@ -74,6 +74,7 @@ rights:
   note: 第三方标准/商标/图片不在许可内；第三方图片已在图注中标注作者与许可；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 皮斯科
 
 皮斯科（Pisco）是以新鲜葡萄汁发酵后直接蒸馏得到的葡萄烈酒，在分类上属于[白兰地](ref:brandy)大类中的葡萄蒸馏酒，但它的工艺逻辑与干邑、雅文邑不同：多数皮斯科不经过橡木桶陈年，也不在装瓶前加水稀释。它更像“把某一季葡萄的香气固定下来”的蒸馏酒，而不是以桶陈和调配塑造复杂度的陈年烈酒。秘鲁与智利都生产皮斯科，也都为本国产品建立了法定产区与工艺规范，两国关于名称与风格的争论延续至今。
@@ -160,3 +161,9 @@ verification_scope: source-verified
 - [麝香葡萄](ref:muscat)：芳香型皮斯科的重要品种基础。
 - [智利](ref:chile)：智利皮斯科的产区与气候背景。
 - [原产地命名](ref:appellation)：理解皮斯科名称保护的基础概念。
+
+## 相关图像
+
+![麝香](/media/photos/variety-muscat-4cf9d96f.jpg)
+
+图：麝香。图片：Tristan，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Al_Alam_Palace.jpg)）。关联图像：皮斯科。

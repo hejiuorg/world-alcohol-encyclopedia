@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:us-prohibition
 source_lang: zh
-source_revision: sha256:87cdac91bfc34b12003772230ede161dc667d69039a71e9805fbd0838c9000f6
-source_sha256: 87cdac91bfc34b12003772230ede161dc667d69039a71e9805fbd0838c9000f6
+source_revision: sha256:ee2511922d4d98d355c3975f693be86cfedd982a0874b3c38089b2a4b0b700ca
+source_sha256: ee2511922d4d98d355c3975f693be86cfedd982a0874b3c38089b2a4b0b700ca
 translation_status: reviewed
 aliases:
   - 禁酒时期
@@ -175,3 +175,9 @@ Placed back in drink culture, the episode raises questions that remain relevant:
 - [Jack Daniel's](ref:jackdaniels): an American whiskey brand and the industry's changes during Prohibition.
 - [Beer](ref:beer): lower-alcohol drinks returning to legal channels at the end of Prohibition.
 - [Pub and the City](ref:pub-and-city): bars, neighbourhoods and urban life.
+
+## Related images
+
+![Jack Daniel's Old No. 7](/media/photos/drink-usa-jackdaniels-1ab6c621.jpg)
+
+Image: Jack Daniel's Old No. 7. Credit: Ben Jacobson ( Kranar Drogin ), CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)). Related image for US Prohibition: The Experiment and Repeal of 1920 to 1933.

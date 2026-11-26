@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:american-bar-savoy
 source_lang: zh
-source_revision: sha256:2f1d004c755a1940468ea2c18743284d180eef4c416792f84d0dbfd284ca9ebd
-source_sha256: 2f1d004c755a1940468ea2c18743284d180eef4c416792f84d0dbfd284ca9ebd
+source_revision: sha256:530636723cf95e9c1090b3b5386eef4a3dca79ba7d915558cb0ee349b8cb46e6
+source_sha256: 530636723cf95e9c1090b3b5386eef4a3dca79ba7d915558cb0ee349b8cb46e6
 translation_status: reviewed
 subtype: pub
 address: The Savoy, Strand, London WC2R 0EZ, United Kingdom
@@ -96,6 +96,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; opening hours, menus and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # American Bar at The Savoy
 
 Few bars in London treat continuity as a selling point the way the American Bar does. It opened with The Savoy in 1893, survived wars, changes of ownership and repeated refurbishments, and the hotel still describes it as London's longest continuously operating cocktail bar. Visitors often hear that sentence and picture a perfectly preserved old room. The more useful reading is that this is a hotel service space first: its pace, prices and manners exist to make a planned evening go well, not to reconstruct a historical scene.![American Bar at The Savoy editorial illustration](/media/figures/specific/visual-061-place-american-bar-savoy.svg)
@@ -147,3 +148,9 @@ To place this bar in its urban setting, read [Pub and city](ref:pub-and-city), w
 Further reading: [London classic bar walk: three hotel bars and a Fleet Street pub](ref:c-extra-1), [The Connaught Bar](ref:c-extra-2), [Dukes Bar](ref:c-extra-3), [A Ginjinha](ref:c-extra-4).
 
 **Short definition:** The classic American Bar inside The Savoy in London, opened in 1893 and known for The Savoy Cocktail Book, Ada Coleman's Hanky Panky and its Art Deco room.
+
+## Related images
+
+![Thematic illustration for Reading a city through its bars](/media/photos/theme-asian.jpg)
+
+Image: Thematic illustration for Reading a city through its bars. Project-made bilingual editorial figure, not an on-site photograph. Related image for American Bar at The Savoy.

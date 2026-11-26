@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 小芒森
 
 法国西南部 Jurançon 的白葡萄，果粒小、皮厚、晚熟，带热带水果、柑橘、蜂蜜与高酸；可酿甜型、半干与干型，是法国最耐陈年的白葡萄之一。
@@ -141,3 +142,9 @@ Jurançon 是核心舞台。法规上 Jurançon Sec 残糖不超过 4 g/L，普�
 理解小芒森的直接方式，是同年份对比一支 Jurançon 干款、一支普通甜款与一支晚收款，观察酸度如何随残糖变化。它与 [white-wine](ref:white) 的类型划分、[terroir](ref:terroir) 山麓黏土石灰岩风土、[fermentation](ref:fermentation) 与 [oak-ageing](ref:oak) 的工艺选择相互关联，也可与 [chardonnay](ref:chardonnay) 一类国际白葡萄的结构做参照。
 
 - 相关条目：[white-wine](ref:white)、[terroir](ref:terroir)、[fermentation](ref:fermentation)、[chardonnay](ref:chardonnay)、[oak-ageing](ref:oak)。
+
+## 相关图像
+
+![发酵](/media/photos/process-fermentation-f5958dba.webp)
+
+图：发酵。图片：Tjhackmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)）。关联图像：小芒森。

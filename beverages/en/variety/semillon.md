@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:semillon
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:65dc46f701cf71eeacb3996e10b13ceb751f173a33197a88b6255dabc885d6d3
-source_sha256: 65dc46f701cf71eeacb3996e10b13ceb751f173a33197a88b6255dabc885d6d3
+source_revision: sha256:96b9aed9f9bdf2302a704d3dfe8be27ab4d69c0cb20151dae23e6e7f90310313
+source_sha256: 96b9aed9f9bdf2302a704d3dfe8be27ab4d69c0cb20151dae23e6e7f90310313
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -136,3 +136,9 @@ First, that Sémillon is only for sweet wine; Graves and Australia both make fin
 - [Château d'Yquem](ref:dyquem): the benchmark estate for Sauternes.
 - [Sauvignon Blanc](ref:sauvignon-blanc): the variety often blended with Sémillon.
 - [Oak ageing](ref:oak-ageing): how barrel ageing affects Sémillon's texture.
+
+## Related images
+
+![Related photograph of Sauvignon Blanc](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+Image: Related photograph of Sauvignon Blanc. Credit: Geolina163 + 1971markus, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)). Related image for Sémillon.

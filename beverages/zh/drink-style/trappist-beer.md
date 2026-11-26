@@ -80,6 +80,7 @@ rights:
   note: 第三方风格指南、ATP 标识、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 特拉普斯特啤酒
 
 特拉普斯特啤酒（Trappist beer）不是按颜色或酒精度划分的风格，而是一组受产地与监督规则约束的[啤酒](ref:beer)：它必须在特拉普斯特修道院内酿造，由修士亲自操作或在其监督下完成，收益用于修道院维护与社会公益。今天获准使用 Authentic Trappist Product（ATP）标识的酒厂只有六家，分布在[比利时](ref:belgium)与荷兰。
@@ -135,3 +136,9 @@ dubbel 通常呈深琥珀到棕色，带焦糖、葡萄干与面包香，酒精�
 | 香气家族 | 麦芽与酵母酯香 |
 
 **来源与边界。** 本页关于「特拉普斯特啤酒」的关键事实，主要由以下来源交叉核对：International Trappist Association（特拉普斯特啤酒的产地、监督要求与获准酒厂名单）、Beer Judge Certification Program（dubbel、tripel、quadrupel 与比利时烈性艾尔的强度与风味框架）、Brewers Association（美国精酿行业对比利时修道院风格啤酒的公开分类）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![酵母](/media/photos/ingredient-yeast-bf0b8d88.jpg)
+
+图：酵母。图片：Masur，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg)）。关联图像：特拉普斯特啤酒。

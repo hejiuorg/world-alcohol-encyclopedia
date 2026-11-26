@@ -93,6 +93,7 @@ rights:
   note: 第三方组合资料、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 新潟
 
 新潟是[日本](ref:japan)海侧的[清酒](ref:sake)大县，也是“淡丽辛口”最常被引用的产地。它的清酒形象不是靠单一酒藏建立，而是由雪国气候、越后杜氏的技术传统、软水与酒米品种共同支撑。理解新潟，要同时看自然环境、人的技术与县内不同酒藏的地理分布。
@@ -186,3 +187,13 @@ verification_scope: source-verified
 - 国税庁「清酒の製法品質表示基準を定める件」：https://www.nta.go.jp/taxes/sake/hyoji/seishu/kokuji891122/03.htm
 - 八海醸造「八海山のこだわり」：https://www.hakkaisan.co.jp/vision
 - 新潟県酒造組合「魚沼酒造株式会社」：https://www.niigata-sake.or.jp/kuramoto/uonuma
+
+## 相关图像
+
+![生酛与山废酒母的编辑插图：木桶中的米麹与蒸汽、竹耙翻拌；画面为 AI 辅助绘制，不是酒厂实拍。](/media/photos/editorial-kimoto-yamahai-q2.jpg)
+
+图：生酛与山废酒母的编辑插图：木桶中的米麹与蒸汽、竹耙翻拌；画面为 AI 辅助绘制，不是酒厂实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：新潟。
+
+![清酒](/media/photos/drink-style-sake-c84f8e77.jpg)
+
+图：清酒。图片：Intforce，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Overflowing_sake_glass_in_masu.jpg)）。关联图像：新潟。

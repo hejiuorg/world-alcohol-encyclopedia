@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 巴卡诺拉
 
 巴卡诺拉（Bacanora）是墨西哥西北部索诺拉州的龙舌兰蒸馏酒，原料为 Agave angustifolia Haw.，当地称 pacífica 或 yaquiana；传统做法在地下土窑烘烤龙舌兰心，用石磨碾碎、发酵后壶式二次蒸馏。2000 年它获得墨西哥原产地名称保护，产区覆盖索诺拉山区 35 个市镇，产品列入 1997 年欧盟—墨西哥烈酒相互承认协定附件。
@@ -154,3 +155,9 @@ verification_scope: source-verified
 
 - 相关条目：[mezcal](ref:mezcal)、[agave](ref:agave)、[distillation](ref:distillation)、[peat](ref:smoke)、[liqueur](ref:liqueur)。
 - 想建立品类边界，可以先喝一支 blanco 巴卡诺拉和一支静置版本，对比烟熏轻重、草本柑橘与焦糖干果调，再与一支梅斯卡尔横向比较烘烤工艺的差别。
+
+## 相关图像
+
+![龙舌兰（龙舌兰属）](/media/photos/ingredient-agave-6671c637.jpg)
+
+图：龙舌兰（龙舌兰属）。图片：Marc Ryckaert ( MJJR )，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Agave_americana_R01.jpg)）。关联图像：巴卡诺拉。

@@ -67,6 +67,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。地理标志的最新状态应以官方公告为准。
 verification_scope: source-verified
 ---
+
 # 巴巴多斯
 
 巴巴多斯是加勒比海小安的列斯群岛中的岛国，也是[朗姆酒](ref:rum)历史最悠久的产区之一。它以糖蜜为原料，常用壶式与柱式蒸馏的调配，再经热带陈年，形成比牙买加高酯风格更平衡、更易饮的酒体。
@@ -145,3 +146,13 @@ verification_scope: source-verified
 **适用边界。** 对「巴巴多斯」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「巴巴多斯」最近核对于 2026-11-05；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+图：四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格。图片：Unknown author Unknown author，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)）。关联图像：巴巴多斯。
+
+![发酵](/media/photos/process-fermentation-f5958dba.webp)
+
+图：发酵。图片：Tjhackmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)）。关联图像：巴巴多斯。

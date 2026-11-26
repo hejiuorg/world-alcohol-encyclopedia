@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:loire-chenin-trail
 source_lang: zh
-source_revision: sha256:75af4285a1dbbcc5118a46f26946e7a9f37a07c7c5490a2ba2049e95ab52e806
-source_sha256: 75af4285a1dbbcc5118a46f26946e7a9f37a07c7c5490a2ba2049e95ab52e806
+source_revision: sha256:2a1b7afe575b315011e5a81dde0c5557d26cf588f369ef39a2358a647b8cae41
+source_sha256: 2a1b7afe575b315011e5a81dde0c5557d26cf588f369ef39a2358a647b8cae41
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -88,6 +88,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # Loire Chenin trail: Vouvray and Savennières
 
 Chenin Blanc in the middle Loire has two very different personalities: Vouvray turns it into a full set from dry to botrytised, from still to sparkling, while Savennières narrows it into a drier, more patient frame. This two-stop route starts at Domaine Huet in Vouvray and follows the river south to La Coulée de Serrant in Savennières, using two extremes of one variety to explain why [Chenin](ref:chenin) is hard to pin down and worth a dedicated drive.
@@ -143,3 +144,13 @@ Neither estate suits a casual "drop in and look" approach: Huet receives by appo
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-09.
 
 **Short definition:** From Domaine Huet in Vouvray to La Coulée de Serrant in Savennières, the two stops run through the middle Loire. Dry, off-dry, botrytised and sparkling Chenin, plus two biodynamic estates, connect the very different expressions of Vouvray and Savennières.
+
+## Related images
+
+![Domaine Huet](/media/photos/place-domaine-huet-0a5b40db.jpg)
+
+Image: Domaine Huet. Credit: jamesonf, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vouvray_AOC_moelleux_Domaine_Huet_1985.jpg)). Related image for Loire Chenin trail: Vouvray and Savennières.
+
+![Related photograph of La Coulée de Serrant](/media/photos/place-coulee-de-serrant-1c813658.jpg)
+
+Image: Related photograph of La Coulée de Serrant. Credit: Tomas er, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Coul%C3%A9e_de_Serrant_and_Clos_de_la_Bergerie.jpg)). Related image for Loire Chenin trail: Vouvray and Savennières.

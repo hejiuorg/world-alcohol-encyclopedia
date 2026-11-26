@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:wachau
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:26d2075ac565778bcbc018f75ffbf6b4c65d4832f72a551d7cca958e7c4de833
-source_sha256: 26d2075ac565778bcbc018f75ffbf6b4c65d4832f72a551d7cca958e7c4de833
+source_revision: sha256:8ecb2fc1f1a6631a62e6baa62defab1cac720edaab9b3318bc45d0934d0c3f4a
+source_sha256: 8ecb2fc1f1a6631a62e6baa62defab1cac720edaab9b3318bc45d0934d0c3f4a
 level: other
 country_code: AT
 legacy_refs: []
@@ -83,6 +83,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Wachau
 
 Wachau is a designated wine region in the Danube gorge of Lower Austria, between Melk and Krems, with about 1,340 hectares of steep terraces and dry wines from Grüner Veltliner and Riesling.![Wachau image](/media/photos/region-wachau-3eeab471.jpg)
@@ -184,3 +185,13 @@ Fifth, treating the terraces as a natural given. Stone terraces need continuous 
 - [Alcohol by volume](ref:abv): what dividing the three styles by alcohol means.
 - [Oak ageing](ref:oak-ageing): the role of large casks in Wachau white wine.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
+
+## Related images
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Wachau.
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for Wachau.

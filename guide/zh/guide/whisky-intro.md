@@ -196,3 +196,20 @@ verification_scope: source-verified
 - The Scotch Whisky Regulations 2009，https://www.legislation.gov.uk/uksi/2009/2890/contents（UK Government）
 - William Grant & Sons — Glenfiddich，https://www.williamgrant.com/gb/brands/glenfiddich（William Grant & Sons）
 - 《The Oxford Companion to Spirits and Cocktails》威士忌条目（Oxford University Press）
+
+## 常见问题
+
+### 第一瓶一定要买单麦吗？
+
+不必。先看你怎么喝：加冰、调酒或日常口粮，调和威士忌通常更稳定、容错率更高；想认真闻香、比较酒厂风格，再选低泥煤单一麦芽。预算有限时，40–46% 酒精度的产品更容易保留风味；低于 40% 更柔，但香气和骨架也容易变薄。
+
+### 年份越高越好吗？
+
+不是。瓶标年份只说明瓶中酒液的最低陈年时间，不保证更好喝。风味更多来自酒厂工艺、桶型、装瓶批次与储存；高年份酒可能木质味过重，价格也高。入门阶段，12 年上下通常比 25 年更适合建立判断。
+
+### 开瓶后能放多久？
+
+直立、阴凉、避光存放，通常 6–12 个月内风味仍较稳；剩得越少，氧化越快。想延长，可以换到更小的干净玻璃瓶，减少瓶内空气。不要长期放冰箱，低温会压低香气，反复取出还会带来冷凝水。
+
+> **下一步：** 先读[威士忌风格页](ref:whisky)建立类型框架，再看[苏格兰产区](ref:scotland)理解产区与酒厂的关系；准备开喝时，按[第一次品鉴](ref:tasting)的顺序做记录。
+

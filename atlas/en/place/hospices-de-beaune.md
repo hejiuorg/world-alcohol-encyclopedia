@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:hospices-de-beaune
 source_lang: zh
-source_revision: sha256:ed52023a9d653cc30b324120a1eeeb499c58fcad63864eb8210d41556d284e97
-source_sha256: ed52023a9d653cc30b324120a1eeeb499c58fcad63864eb8210d41556d284e97
+source_revision: sha256:188d3c420a3cc83ae811bb845cf90468ef88f76ffe716ab8635edf0a053eb435
+source_sha256: 188d3c420a3cc83ae811bb845cf90468ef88f76ffe716ab8635edf0a053eb435
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -180,3 +180,9 @@ For a one-day visit, put the Hôtel-Dieu in the morning and a winery in the afte
 - [Red wine](ref:red-wine): structure and ageing in Burgundy.
 - [Joseph Drouhin](ref:drouhin): a family merchant house and its cellars in Beaune.
 - [Château de Meursault](ref:meursault): Meursault whites and a château-style visit.
+
+## Related images
+
+![Maison Joseph Drouhin](/media/photos/place-domaine-drouhin-211d0e07.jpg)
+
+Image: Maison Joseph Drouhin. Credit: Tomas er, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Drouhin_Gevrey-Chambertin_in_glass.jpg)). Related image for Hôtel-Dieu des Hospices de Beaune.

@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1885
 ---
+
 # 基恩斯牛排馆
 
 纽约西 36 街靠近第六大道的一段，街道两侧是服装批发楼、便利店与不停卸货的货车。基恩斯（Keens Steakhouse）的黑色雨棚和白色“Keens Chophouse”字样并不算起眼，但推门进去，头顶一排排细长的陶土烟斗会把时间直接拉回 19 世纪。它不是那种靠复古装修制造气氛的餐厅：烟斗、剧场海报、旧菜单与木饰都是在这栋楼里积累下来的，很多物件比现在大多数纽约餐厅的历史都长。
@@ -141,3 +142,9 @@ Keens 由三栋联排屋合并而成，内部是一连串木饰房间：Lincoln 
 本页于 2026-11-21 核对 Keens Steakhouse 官方页面。餐厅全年营业（圣诞节除外），午餐、晚餐与酒吧时段不同，羊排与牛排价格会调整，订位前查官网。墙上烟斗是会员旧藏、mutton chop 今天多用 lamb，Lillie Langtry 诉讼与 2013 年 James Beard “America’s Classic”奖，正文都已按史料限定。本页图片是基恩斯牛排馆的临街立面与入口，不是烟斗墙或内景；图注已标摄影者与许可，文字许可见文末 rights 字段。酒吧区通常可直接入座，正餐与羊排建议提前订位，菜单会随季节调整。
 
 对照阅读：[纽约历史酒馆路线：东村到格拉梅西](ref:ny-route)、[认识一座城，从一间酒馆开始](ref:pub-city)。
+
+## 相关图像
+
+![德尔莫尼科餐厅 56 Beaver Street 的弧形转角门廊；现楼由 James Brown Lord 设计，建于 1890–91 年，不是 1837 年原建筑](/media/photos/place-delmonicos-3f6d6d1a.jpg)
+
+图：德尔莫尼科餐厅 56 Beaver Street 的弧形转角门廊；现楼由 James Brown Lord 设计，建于 1890–91 年，不是 1837 年原建筑。图片：Ajay Suresh，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Delmonico%27s_-_56_Beaver_Street_(55312935822).jpg)）。关联图像：基恩斯牛排馆。

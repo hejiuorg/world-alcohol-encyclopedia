@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink:hongxing-erguotou-blue
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d28b5f6cf09182c2c105b92d38249f50fb388c72b2581c0cdbca64ff754bf251
-source_sha256: d28b5f6cf09182c2c105b92d38249f50fb388c72b2581c0cdbca64ff754bf251
+source_revision: sha256:a2282910013066582656645eb26d9abd75f1b347d9d2499b0ed43dbca8120408
+source_sha256: a2282910013066582656645eb26d9abd75f1b347d9d2499b0ed43dbca8120408
 style_refs:
   - drink-style:baijiu
 brand_refs:
@@ -75,6 +75,12 @@ sources:
     publisher: 北京二锅头酒博物馆
     note: Used to verify the clean steaming and firing, low-temperature collection and ceramic-jar storage wording; no source text is reproduced.
     accessed: 2026-11-04
+  - key: redstar-history
+    title: "Beijing Red Star Co., Ltd. — company history"
+    url: "https://www.redstarwine.com/gywm3/dsj0/cindex1.html"
+    publisher: "Beijing Red Star Co., Ltd."
+    note: "Used to check the company lineage, the 1949 founding and Erguotou craft inheritance; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0

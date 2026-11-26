@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:valais
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9c7fbe1a7ee6f1e6f306d8e1f13a3654e068f160ab8bc04ca4179060145afb00
-source_sha256: 9c7fbe1a7ee6f1e6f306d8e1f13a3654e068f160ab8bc04ca4179060145afb00
+source_revision: sha256:e43262875c7386e203b0a162ead381b65ff05a5b7bbe30af6999c85b3c778a0c
+source_sha256: e43262875c7386e203b0a162ead381b65ff05a5b7bbe30af6999c85b3c778a0c
 level: other
 country_code: CH
 legacy_refs: []
@@ -93,6 +93,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Valais
 
 Valais, Wallis in German, is the largest wine region in Switzerland, with vineyards along the upper Rhône on both sides of the Alpine valley.
@@ -195,3 +196,13 @@ For Valais, this region was last checked in 2026; prices, batches and availabili
 - [Vintage](ref:vintage): vintage variation in Valais.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Terroir](/media/photos/term-terroir-c440d7e4.jpg)
+
+Image: Terroir. Credit: Friedrich Petersdorff, CC BY-SA 2.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)). Related image for Valais.
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Valais.

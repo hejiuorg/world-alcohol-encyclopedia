@@ -78,6 +78,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 农业朗姆
 
 农业朗姆（rhum agricole）是以新鲜甘蔗汁为原料、直接发酵并蒸馏的[朗姆酒](ref:rum)。它与常见的糖蜜朗姆共享“甘蔗”这个起点，却在第一个环节就分道扬镳：糖厂先结晶取糖，剩下的糖蜜再发酵蒸馏，那是工业朗姆的路线；农业朗姆则把刚压出的甘蔗汁直接送进发酵罐，尽量保留甘蔗的田园气息。这个差别不是营销话术，而是原料、法规与风味同时改变的工艺选择。
@@ -139,3 +140,9 @@ verification_scope: source-verified
 | 香气家族 | 草本/果香/花香 |
 
 **来源与边界。** 本页关于「农业朗姆」的关键事实，主要由以下来源交叉核对：Rhums AOC Martinique（马提尼克农业朗姆的 AOC 规则、原料、蒸馏与陈年要求）、Martinique Tourism Authority（马提尼克朗姆的农业传统与 1996 年 AOC 的时间）、European Union（朗姆酒类别、农业朗姆的甘蔗汁要求与地理标志框架）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![卡莎萨](/media/photos/drink-style-cachaca-74382ef5.jpg)
+
+图：卡莎萨。图片：Tom Tom at German Wikipedia，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cachaca.JPG)）。关联图像：农业朗姆。

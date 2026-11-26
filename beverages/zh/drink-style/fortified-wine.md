@@ -65,6 +65,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 加强葡萄酒
 
 加强葡萄酒（fortified wine）是在葡萄酒中加入葡萄蒸馏酒，从而提高酒精度并改变风味走向的一类酒。加入的酒精可以终止发酵、保留残糖，也可以稳定已经发酵完成的酒。不同的加入时机、基酒风格和陈年方式，造就了波特、雪莉、马德拉、味美思等差异很大的类别。
@@ -133,3 +134,9 @@ verification_scope: source-verified
 **适用边界。** 对「加强葡萄酒」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
 
 **更新提示。** 「加强葡萄酒」最近核对于 2026-11-04；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
+
+## 相关图像
+
+![赫雷斯](/media/photos/region-jerez-6c8a748e.jpg)
+
+图：赫雷斯。图片：Annie and Andrew，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:(Jerez_de_la_Frontera)_DSC_0560_(6271831479)_(cropped).jpg)）。关联图像：加强葡萄酒。

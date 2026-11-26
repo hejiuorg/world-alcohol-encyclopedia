@@ -112,6 +112,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 中国
 
 本页是地区层级的国家节点，用于组织产区、生产者与地点。中国酒类既有以粮食发酵、蒸馏为基础的[白酒](ref:baijiu)与[黄酒](ref:yellow-wine)，也有规模化生产的[葡萄酒](ref:wine)、[啤酒](ref:beer)以及进口烈酒。
@@ -194,3 +195,13 @@ verification_scope: source-verified
 | 国家代码 | CN |
 
 **来源与边界。** 本页关于「中国」的关键事实，主要由以下来源交叉核对：国务院办公厅（行政区划与国家层面的公开信息）、中华人民共和国国家质量监督检验检疫总局、中国国家标准化管理委员会（行政区划层级与代码）、国家市场监督管理总局、国家标准化管理委员会（饮料酒分类与术语）等 7 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![安徽古井贡酒股份有限公司相关实景照片](/media/photos/producer-gujing-distillery-ef9d4a5d.jpg)
+
+图：安徽古井贡酒股份有限公司相关实景照片。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gujing_Gongjiu_at_a_supermarket_in_Beijing_(20241109164639).jpg)）。关联图像：中国。
+
+![佚名《唐名臣像》中的李白像。](/media/photos/person-li-bai-ce619299.jpg)
+
+图：佚名《唐名臣像》中的李白像。。图片：Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-14-%E5%94%90%E7%BF%B0%E6%9E%97%E4%BE%9B%E5%A5%89%E6%9D%8E%E7%99%BD.jpg)）。关联图像：中国。

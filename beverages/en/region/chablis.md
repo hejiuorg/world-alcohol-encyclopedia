@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:chablis
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:354b1c142ecf0f555495e88bf4bae8609ab97705efa404da8fdbf07555089041
-source_sha256: 354b1c142ecf0f555495e88bf4bae8609ab97705efa404da8fdbf07555089041
+source_revision: sha256:b4bebf9f48a1ccd80525dadafb8a0f153cee2708bbeda5edcd760a16df34a1c5
+source_sha256: b4bebf9f48a1ccd80525dadafb8a0f153cee2708bbeda5edcd760a16df34a1c5
 level: other
 parent_id: region:burgundy
 country_code: FR
@@ -78,6 +78,7 @@ rights:
   note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Chablis
 
 Chablis is the northernmost white-wine region of [Burgundy](ref:burgundy), in the Serein valley of the Yonne, with about 5800 ha of vines. It makes [white wine](ref:white-wine) from [Chardonnay](ref:chardonnay) alone and is known for high acidity and a mineral character in a cool climate. Unlike the Côte d'Or, it has no complex patchwork of villages and named sites but a clear four-tier structure: Petit Chablis, Chablis, Premier Cru and Grand Cru.
@@ -141,3 +142,13 @@ For Chablis, begin with the appellation and its permitted varieties. Then look a
 - [White wine](ref:white-wine): the drink style of the region.
 - [Oak ageing](ref:oak-ageing): how cask type and age affect style.
 - [Terroir](ref:terroir): how soil, aspect and climate shape flavour.
+
+## Related images
+
+![Terroir](/media/photos/term-terroir-c440d7e4.jpg)
+
+Image: Terroir. Credit: Friedrich Petersdorff, CC BY-SA 2.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)). Related image for Chablis.
+
+![Photograph for Burgundy: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+Image: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=65061583)). Related image for Chablis.

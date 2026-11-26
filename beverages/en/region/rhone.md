@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:rhone
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a75dbb04e55b7adbc67eb3fb8cfa88f32babe1dcd614f5ea0165edcb07671a4c
-source_sha256: a75dbb04e55b7adbc67eb3fb8cfa88f32babe1dcd614f5ea0165edcb07671a4c
+source_revision: sha256:60c8338661a2197cb70b2c042ad65b3830330710a59e316c874450d601a1ccc2
+source_sha256: 60c8338661a2197cb70b2c042ad65b3830330710a59e316c874450d601a1ccc2
 level: other
 parent_id: region:france
 country_code: FR
@@ -93,6 +93,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Rhône Valley
 
 The Rhône Valley is a wine region along the Rhône in south-eastern France, running from Vienne south to Avignon. The north is a narrow band of steep slopes and the south is a broad valley, and the two differ markedly in climate, soils, varieties and rules while together forming France's second largest wine region band.
@@ -171,3 +172,13 @@ Start with [France](ref:france) for geographic boundary, then read [Syrah](ref:s
 | Country code | FR |
 
 **Sources and limits.** The key claims about Rhône Valley are checked against the following sources: INAO (Used to check the areas, varieties and rule framework of the Rhône appellations), Inter Rhône (Used to check the division between northern and southern Rhône, climate, soils and representative appellations), Oxford University Press (Consulted for entries on the Rhône Valley, Syrah and Grenache). Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Côte-Rôtie](/media/photos/drink-france-cote-rotie-8929d517.jpg)
+
+Image: Côte-Rôtie. Credit: SashiRolls, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Autoroute_du_soleil_pr%C3%A8s_d%27Ampuis.jpg)). Related image for Rhône Valley.
+
+![Cornas](/media/photos/drink-france-cornas-d149fbdb.jpg)
+
+Image: Cornas. Credit: Jacques Forêt, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cornas_2007-06-16_018.jpg)). Related image for Rhône Valley.

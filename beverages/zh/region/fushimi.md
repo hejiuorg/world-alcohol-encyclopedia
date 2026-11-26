@@ -88,6 +88,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 伏见
 
 伏见是京都府京都市南部的清酒产地，核心是伏见区沿宇治川、濠川分布的酒藏聚落。它不是一个独立的县，也不是葡萄园式的法定产区，而是以“伏水”、酒藏建筑与船运历史形成的产地名声。理解伏见，要把它与京都府其他酒乡、与兵库滩五乡的水质和风格对照起来看。
@@ -167,3 +168,13 @@ verification_scope: source-verified
 - 月桂冠「『吟醸』のあゆみ」：https://www.gekkeikan.co.jp/enjoy/sake/industry/industry04.html
 - 月桂冠大倉記念館「界わいの景観」：https://www.gekkeikan.co.jp/enjoy/museum/fushimi/sightseeing/
 - 黄桜「黄桜記念館 Kappa Gallery」：https://kizakura.co.jp/restaurant/country/memorial/index.html
+
+## 相关图像
+
+![月桂冠大仓纪念馆相关实景照片](/media/photos/place-gekkeikan-okura-sake-museum-a8b62f22.jpg)
+
+图：月桂冠大仓纪念馆相关实景照片。图片：663highland，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gekkeikan_Okura_Sake_Museum02s4592.jpg)）。关联图像：伏见。
+
+![吟酿相关实景照片](/media/photos/drink-style-ginjo-sake-4e3c0fe6.jpg)
+
+图：吟酿相关实景照片。图片：halfrain，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8_(Junmai_Ginjo)_(15656231855).jpg)）。关联图像：伏见。

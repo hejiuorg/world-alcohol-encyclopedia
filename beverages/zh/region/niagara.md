@@ -76,6 +76,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 尼亚加拉
 
 加拿大安大略省南部的葡萄酒产区，位于尼亚加拉断崖与安大略湖之间；以雷司令、霞多丽、品丽珠与冰酒著称，VQA 体系严格，是加拿大葡萄酒的核心。
@@ -180,3 +181,13 @@ Chardonnay 与 Riesling 温度 8–10°C，Cabernet Franc 16–18°C，冰酒 6�
 | 国家代码 | CA |
 
 **来源与边界。** 本页关于「尼亚加拉」的关键事实，主要由以下来源交叉核对：Canadian Vintners Association（加拿大葡萄酒与 VQA 框架）、Agriculture and Agri-Food Canada（加拿大农业地理与气候背景）、OIV（葡萄酒定义与全球生产框架）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![安大略 Forty Creek 酒厂的威士忌橡木桶陈酿库](/media/photos/region-canada-0fcdbd9d.jpg)
+
+图：安大略 Forty Creek 酒厂的威士忌橡木桶陈酿库。图片：Gogerr，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Whisky_maturation_in_barrels_at_the_Forty_Creek_Distillery.jpg)）。关联图像：尼亚加拉。
+
+![冰酒](/media/photos/drink-style-ice-wine-1300193a.jpg)
+
+图：冰酒。图片：Mya，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Frozen_grapes_in_Luxembourg.jpg)）。关联图像：尼亚加拉。

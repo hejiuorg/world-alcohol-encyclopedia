@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:changyu-founded-1892
 source_lang: zh
-source_revision: sha256:19a706d6f6086157f6902b7d053e0f4d54450ef5bc492031c8b2297ee3f3b953
-source_sha256: 19a706d6f6086157f6902b7d053e0f4d54450ef5bc492031c8b2297ee3f3b953
+source_revision: sha256:2b15e17a7618b9bc5c75aca1810f0f034995722d6567e29f230d1ebd57261190
+source_sha256: 2b15e17a7618b9bc5c75aca1810f0f034995722d6567e29f230d1ebd57261190
 translation_status: reviewed
 aliases:
   - 张裕酿酒公司
@@ -156,3 +156,9 @@ For The Founding of Changyu (1892), begin with the date and setting. Then look a
 - [The 1915 Panama-Pacific exposition](ref:panama-1915): award categories and exhibition background.
 - [History of Chinese wine](ref:chinese-wine-history): from traditional breweries to modern industry.
 - [China](ref:china): background on the regions and categories of Chinese alcohol.
+
+## Related images
+
+![Related photograph of The 1915 Panama-Pacific International Exposition](/media/photos/historical-event-panama-pacific-exposition-1915-15cbe9d8.jpg)
+
+Image: Related photograph of The 1915 Panama-Pacific International Exposition. Credit: Cardinell-Vincent Company, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Japan_Beautiful,_Panama-Pacific_International_Exposition,_San_Francisco,_1915.jpg)). Related image for The Founding of Changyu (1892): The Start of Modern Chinese Winemaking.

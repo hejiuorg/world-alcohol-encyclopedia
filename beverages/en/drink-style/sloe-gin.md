@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:sloe-gin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6f6fa646882b44a7c24dcd57c4c00d1fc88f0895a3a1a009f6d78aaa2a172dbc
-source_sha256: 6f6fa646882b44a7c24dcd57c4c00d1fc88f0895a3a1a009f6d78aaa2a172dbc
+source_revision: sha256:5b5cf75804ae06524bacde0c3d9589ec8a766672e350ef8507538628d9ecec7e
+source_sha256: 5b5cf75804ae06524bacde0c3d9589ec8a766672e350ef8507538628d9ecec7e
 related:
   - relation: about
     target_id: drink-style:gin
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Sloe Gin
 
 A traditional British gin liqueur made by steeping sloe berries in gin and sweetening it; deep red, sweet-sour and almond-spiced, usually lower in alcohol than gin.
@@ -152,3 +153,9 @@ Compare a classic, a sweet and a lean sloe gin at similar alcohol. Record base g
 - [Maceration](ref:maceration): fruit steeping and extraction.
 - [Plum](ref:plum): the botanical family of sloe.
 - [Distillation](ref:distillation): production of the base spirit.
+
+## Related images
+
+![Plum: Plum Fruit on Display (Wikimedia Commons)](/media/photos/ingredient-plum-79a542ea.jpg)
+
+Image: Plum: Plum Fruit on Display (Wikimedia Commons). Credit: Iwai-Dialax, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Plum_Fruit_on_Display.jpg)). Related image for Sloe Gin.

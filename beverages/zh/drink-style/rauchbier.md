@@ -82,6 +82,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 烟熏啤酒
 
 烟熏啤酒（Rauchbier）是以烟熏麦芽为主要风味来源的[拉格](ref:lager)，最著名的产地是德国巴伐利亚的班贝格。它的烟味来自麦芽干燥时接触的榉木明火，而不是往酒里添加烟熏香精；这一点决定了它与“带烟味的深色啤酒”之间的界限。传统产品多为深色拉格，但烟熏强度、颜色与酒精度都随酒厂而异。
@@ -141,3 +142,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「烟熏啤酒」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（烟熏啤酒的强度、苦度、色度与烟熏麦芽描述）、Brauerei Heller-Trum / Schlenkerla（1405 年文献记载、蓝狮之家、家族经营与橡木桶侍酒等信息）、Bamberg Tourismus & Kongress Service（班贝格啤酒文化与酒馆传统的公开介绍）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「烟熏啤酒」与「拉格啤酒」、「波特啤酒」、「世涛」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。](/media/photos/drink-style-porter-241ce00e.jpg)
+
+图：一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。。图片：Erik Cleves Kristensen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6175146624)）。关联图像：烟熏啤酒。

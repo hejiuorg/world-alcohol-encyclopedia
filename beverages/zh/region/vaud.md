@@ -87,6 +87,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 沃州
 
 沃州（Vaud，德语 Waadt）是瑞士西部以日内瓦湖北岸为核心的葡萄酒产区，以 Chasselas 白葡萄酒与 Lavaux 梯田景观著称。
@@ -186,3 +187,13 @@ Chasselas 建议 8–10 摄氏度，Dézaley 与 Calamin 等 Grand Cru 可稍高
 - [年份](ref:vintage)：沃州的年份差异。
 - [单一品种](ref:single-varietal)：沃州的品种比例与酒标标注规则。
 - [橡木桶陈年](ref:oak-ageing)：红葡萄酒与 Grand Cru 白葡萄酒的陈年。
+
+## 相关图像
+
+![发酵](/media/photos/process-fermentation-f5958dba.webp)
+
+图：发酵。图片：Tjhackmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)）。关联图像：沃州。
+
+![酸度（acidity）](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+图：酸度（acidity）。图片：Chemicalinterest，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)）。关联图像：沃州。

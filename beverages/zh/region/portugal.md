@@ -84,6 +84,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 葡萄牙
 
 葡萄牙位于伊比利亚半岛西部，葡萄酒传统深厚。它的国际形象常与波特、马德拉等加强酒联系在一起，但葡萄牙也有杜罗河红葡萄酒、阿连特茹的温暖风格、维尼奥维德的白葡萄酒与清新的桃红。本土品种丰富，是理解葡萄牙葡萄酒的关键。
@@ -177,3 +178,13 @@ verification_scope: source-verified
 - [蒸馏](ref:distillation)：葡萄酒精与强化工艺。
 - [橡木桶陈年](ref:oak-ageing)：波特与马德拉的陈年。
 - [发酵](ref:fermentation)：葡萄酒与加强酒的基础工艺。
+
+## 相关图像
+
+![桃红葡萄酒](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+图：桃红葡萄酒。图片：THOR，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)）。关联图像：葡萄牙。
+
+![加强葡萄酒](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+图：加强葡萄酒。图片：Jon Sullivan，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)）。关联图像：葡萄牙。

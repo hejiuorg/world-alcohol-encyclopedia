@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:bozhou-gujing
 source_lang: zh
-source_revision: sha256:aa3e0f4137a0da510374d66a63958011168110ad68870558b304e8a508701279
-source_sha256: aa3e0f4137a0da510374d66a63958011168110ad68870558b304e8a508701279
+source_revision: sha256:6a9b88f4da772efe156aa682aaccbc111cfdf91575ce3532a1f7bb31bd422005
+source_sha256: 6a9b88f4da772efe156aa682aaccbc111cfdf91575ce3532a1f7bb31bd422005
 translation_status: reviewed
 stop_ids:
   - place_id: place:gujing-wine-culture-museum
@@ -154,3 +154,13 @@ Alternative: see only the Gujing wine-culture museum, or only central Bozhou; to
 - Notice on extending ticket prices at Gujing Wine Culture Park — https://fgw.bozhou.gov.cn/News/show/685103.html (Bozhou Development and Reform Commission, checked 2026-11-25)
 
 Related entries: [Gujing Wine Culture Park](ref:park), [Gujing Town (Bozhou)](ref:town), [Gujing Gongjiu](ref:brand), [strong-aroma baijiu](ref:style), [Anhui](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Gujing Gongjiu](/media/photos/brand-gujing-gongjiu-ef9d4a5d.jpg)
+
+Image: Gujing Gongjiu. Credit: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Gujing_Gongjiu_at_a_supermarket_in_Beijing_(20241109164639).jpg)). Related image for Bozhou Route: Gujing and the Medicine Capital.
+
+![Anhui](/media/photos/region-anhui-ad268e10.jpg)
+
+Image: Anhui. Credit: xiquinhosilva, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mount-huangshan_53319732882_o.jpg)). Related image for Bozhou Route: Gujing and the Medicine Capital.

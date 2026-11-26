@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:pilsner
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:76227be9330bed3d31644d24314ea1eda464b93bc8fc84904153857c194790f0
-source_sha256: 76227be9330bed3d31644d24314ea1eda464b93bc8fc84904153857c194790f0
+source_revision: sha256:2dbd7e0eccc4df26d2e9151e8dfbdba4b64d942dad7d4c541a37b9365af4632b
+source_sha256: 2dbd7e0eccc4df26d2e9151e8dfbdba4b64d942dad7d4c541a37b9365af4632b
 legacy_refs: []
 aliases:
   - Pilsner
@@ -85,6 +85,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Pilsner
 
 Pilsner is a pale lager originating in the Bohemian city of Plzeň (Pilsen) in Czechia, characterised by very soft water, Saaz hops, pale malt and cool bottom fermentation. It is both a specific historical style and, in many countries, a loose term for pale lager; the two uses should be kept apart. Within the family of [beer](ref:beer), it belongs to the lager branch.
@@ -167,3 +168,9 @@ For Pilsner, this style was last checked in 2026; prices, batches and availabili
 - [Bitterness](ref:ibu): what an IBU figure means and where it stops.
 - [Original gravity](ref:original-gravity): another measure of strength and body.
 - [Pilsner Urquell](ref:pilsner-urquell): the representative product of the style.
+
+## Related images
+
+![Photograph for Pilsner Urquell: Pilsner Urquell 330mL Bottle. Credit: Latterdaystan, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-drink-czech-pilsnerurquell-60fa905b.jpg)
+
+Image: Pilsner Urquell 330mL Bottle. Credit: Latterdaystan, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Latterdaystan, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=92861055)). Related image for Pilsner.

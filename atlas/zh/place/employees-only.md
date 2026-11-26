@@ -84,6 +84,7 @@ city: 纽约
 verification_scope: source-verified
 founded_year: 2004
 ---
+
 # 雇员专属酒吧
 
 雇员专属酒吧在纽约西村哈德逊街 510 号，介于 Christopher Street 与 West 10th Street 之间。它 2004 年开业，是纽约 2000 年代鸡尾酒复兴的代表之一：门面借用了占卜店的视觉，里面却是一间高能量、以经典鸡尾酒和通宵餐食闻名的酒吧。名字“Employees Only”字面是“仅限员工”，实际它欢迎所有客人；这块招牌更像一个玩笑，而不是门禁。
@@ -148,3 +149,9 @@ founded_year: 2004
 | 城市/国家 | 纽约 / 美国 |
 | 营业状态 | 已核验营业 |
 | 官网 | employeesonlynyc.com |
+
+## 相关图像
+
+![“皮特酒馆”页面配图：Pete's Tavern (51708610272)。摄影：ajay_suresh，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-place-petes-tavern-41eaebdf.jpg)
+
+图：Pete's Tavern (51708610272)。摄影：ajay_suresh，CC BY 2.0，来自 Wikimedia Commons。。图片：ajay_suresh，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=112875512)）。关联图像：雇员专属酒吧。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:mosel
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f81e39f95bc77b3c5410d4bbae7a61e721227de4f3e772d56c4e34542bdc23ba
-source_sha256: f81e39f95bc77b3c5410d4bbae7a61e721227de4f3e772d56c4e34542bdc23ba
+source_revision: sha256:6b2aed396f2c17631c8eff0cced8d7344eaeebaac43fa65d9fce684f174440df
+source_sha256: 6b2aed396f2c17631c8eff0cced8d7344eaeebaac43fa65d9fce684f174440df
 level: other
 parent_id: region:germany
 country_code: DE
@@ -186,3 +186,13 @@ Fifth, reading Mosel as a single style. The Mittelmosel, Terrassenmosel, Saar an
 - [Acidity](ref:acidity): where the high acidity of Mosel Riesling comes from and what it does.
 - [Alcohol by volume](ref:abv): what 7%–9% vol means on a label and in the style.
 - [Oak ageing](ref:oak-ageing): the role of the large Fuder as a container rather than a flavour source.
+
+## Related images
+
+![Category image for Germany](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+Image: Category image for Germany. Credit: Renardo la vulpo, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)). Related image for Mosel.
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Mosel.

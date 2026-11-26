@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:iba-founded-1951
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:be370b306c37fcf178958ee04aa65c8f9f672ab5f90d4c7a5db5803401087792
-source_sha256: be370b306c37fcf178958ee04aa65c8f9f672ab5f90d4c7a5db5803401087792
+source_revision: sha256:8d3aa75cf8b54e2e977e0eea6e27cc3e7a607bf202745e7839e8eb365dd9bb30
+source_sha256: 8d3aa75cf8b54e2e977e0eea6e27cc3e7a607bf202745e7839e8eb365dd9bb30
 date_text: 24 February 1951
 year_start: 1951
 year_end: 1951
@@ -96,6 +96,7 @@ rights:
   note: Third-party association pages, trademarks and recipe texts are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Founding of the International Bartenders Association (1951): A Round Table of Seven Guilds
 
 On 24 February 1951, seven bartenders' associations from Denmark, France, Italy, the Netherlands, Sweden, Switzerland and the United Kingdom decided in the saloon of the Grand Hotel in Torquay, England, to found the International Bartenders Association (IBA). The first president was Bill Tarling of the UK Bartenders Guild. The association later connected separate national guilds into a cross-border professional network through the World Cocktail Championship, bartending education and an official cocktail list.
@@ -154,3 +155,9 @@ First, the IBA is not a regulator. It does not issue legally binding bartending 
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about Founding of the International Bartenders Association (1951): A Round Table of Seven Guilds are checked against the following sources: International Bartenders Association (Used to check the grouping and purpose of the official cocktail list; no recipe proportions are reproduced), Association des Barmen de France, Oxford University Press and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Dry Martini](/media/photos/cocktail-dry-martini-c9d91c19.jpg)
+
+Image: Dry Martini. Credit: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0084.jpg)). Related image for Founding of the International Bartenders Association (1951): A Round Table of Seven Guilds.

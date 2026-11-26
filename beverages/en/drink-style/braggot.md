@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:braggot
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3e531e153f3ed25a03b8f96ec0b1e3d9f9dc98a12642d30f3baecc53dd50a8ee
-source_sha256: 3e531e153f3ed25a03b8f96ec0b1e3d9f9dc98a12642d30f3baecc53dd50a8ee
+source_revision: sha256:722e78e6303b5b4d25c2137c847377a0ee9990f6884a9b12b02dcedb8566a393
+source_sha256: 722e78e6303b5b4d25c2137c847377a0ee9990f6884a9b12b02dcedb8566a393
 related:
   - relation: about
     target_id: drink-style:honey-wine
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Braggot
 
 A mixed fermented drink of honey and malt, sitting between mead and beer; hops are optional and the range runs from pale and light to dark and strong.
@@ -146,3 +147,9 @@ A compact study set is one pale hopped braggot, one dark malty braggot and one h
 - [Beer](ref:beer): malt, hops and fermentation.
 - [Barley](ref:barley): the cereal base of malt.
 - [Fermentation](ref:fermentation): sugar conversion to alcohol and carbon dioxide.
+
+## Related images
+
+![Honey Wine](/media/photos/drink-style-honey-wine-de8f53ea.jpg)
+
+Image: Honey Wine. Credit: Evan-Amos, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Honey-Fruit-Mead-Brewing.jpg)). Related image for Braggot.

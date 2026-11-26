@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:hakushika-sake-museum
 source_lang: zh
-source_revision: sha256:e0349c779b295c72aaf75de57c0dcb63578e421901ba6ee05407d970b3b0f566
-source_sha256: e0349c779b295c72aaf75de57c0dcb63578e421901ba6ee05407d970b3b0f566
+source_revision: sha256:1ff887415841c14d24ac995e8ec3cfc0886f6fcd35c39d39311eb1cde77b3e33
+source_sha256: 1ff887415841c14d24ac995e8ec3cfc0886f6fcd35c39d39311eb1cde77b3e33
 translation_status: reviewed
 subtype: museum
 address: 8-21 Kurakake-cho, Nishinomiya, Hyogo 662-0926, Japan
@@ -171,3 +171,9 @@ From Osaka Umeda or Kobe Sannomiya, the Hanshin main line reaches Nishinomiya in
 The Hakushika Memorial Museum of Sake places [Hyogo](ref:hyogo) and the craft of [sake](ref:sake) in one site; it covers water and rice as well as earthquake repair and local memory. For the technical difference between sake and shochu, read [Sake and shochu: both Japanese, entirely different processes](ref:sake-and-shochu).
 
 Further reading: [Japan](ref:c-extra-1), [A Ginjinha](ref:c-extra-2).
+
+## Related images
+
+![Hyogo Prefecture](/media/photos/region-hyogo-b092f465.jpg)
+
+Image: Hyogo Prefecture. Credit: Laitr Keiows, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Night_view_of_Rokk%C5%8D_Island_and_Higashinada-ku,_Kobe,_Japan.jpg)). Related image for Hakushika Memorial Museum of Sake.

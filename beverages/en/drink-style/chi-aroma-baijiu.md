@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:chi-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f9f0ba53c49d00104060d338b9ddf9e1a7690ee026a2f14c63d092cd9b2ed41f
-source_sha256: f9f0ba53c49d00104060d338b9ddf9e1a7690ee026a2f14c63d092cd9b2ed41f
+source_revision: sha256:54177675bc733d276a37862121cc14d18d2c9eea4ef77de5a437283046b32cd5
+source_sha256: 54177675bc733d276a37862121cc14d18d2c9eea4ef77de5a437283046b32cd5
 legacy_refs: []
 aliases:
   - Chi aroma baijiu
@@ -77,6 +77,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Chi aroma baijiu
 
 Chi aroma baijiu is a traditional baijiu aroma style from the Pearl River Delta in Guangdong, made from rice through xiaoqu semi-solid fermentation, distillation and then immersion with pork fat. Its aroma is clean and sweet with a distinct fatty note and a faint savoury suggestion, giving it a highly recognisable place among baijiu styles.![Chi aroma baijiu thematic illustration](/media/figures/specific/drink-style-chi-aroma-baijiu.svg)
@@ -154,3 +155,9 @@ Chi aroma is a rice-based baijiu style from the Pearl River Delta, fermented wit
 - [Qu making](ref:qu-making): the saccharifying and fermenting role of xiaoqu.
 - [Fermentation](ref:fermentation): semi-solid fermentation and temperature management.
 - [Distillation](ref:distillation): how base spirit cuts affect immersion.
+
+## Related images
+
+![Qu making](/media/photos/process-qu-making-ff7ff7ce.jpg)
+
+Image: Qu making. Credit: Uranassbandit, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hongqu_3.jpg)). Related image for Chi aroma baijiu.

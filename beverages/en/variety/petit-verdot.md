@@ -21,8 +21,8 @@ tags:
 translation_of: variety:petit-verdot
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:12514f90d7df37c6d443045d09b284acc3b2087a6b411cc2cd48e200c4a2e684
-source_sha256: 12514f90d7df37c6d443045d09b284acc3b2087a6b411cc2cd48e200c4a2e684
+source_revision: sha256:1ced99fc0aa2114a3dd22d62f028036a411ed531d48e04ad9de6f4cd8daeb0a0
+source_sha256: 1ced99fc0aa2114a3dd22d62f028036a411ed531d48e04ad9de6f4cd8daeb0a0
 related:
   - relation: about
     target_id: region:bordeaux
@@ -163,3 +163,9 @@ A useful comparison is to set the Petit Verdot contribution in a classified Bord
 Overseas planting area, clones and parentage keep updating with variety surveys; for formal citation, check the VIVC register, Bordeaux industry bodies and the relevant regional disciplinari.
 
 - Related: [bordeaux](ref:bordeaux), [cabernet-sauvignon](ref:cabernet), [merlot](ref:merlot), [red-wine](ref:red), [oak-ageing](ref:oak).
+
+## Related images
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Petit Verdot.

@@ -77,6 +77,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 艾雷岛
 
 艾雷岛位于苏格兰西海岸外，是内赫布里底群岛中最南的岛屿之一，面积约 600 平方公里，人口约 3200。岛上聚集了苏格兰最密集的酒厂群之一，从南岸的拉弗格、乐加维林与阿贝，到北岸的卡尔里拉与邦纳哈本，再到西岸的布赫拉迪、齐侯门与 2018 年投产的 Ardnahoe。它既是英国法规下的受保护地方名称，也常被当作重泥煤风格的代名词；这两层含义需要分开理解。
@@ -138,3 +139,13 @@ Bowmore 建于 1779 年，是岛上历史最久的持证酒厂之一；Ardbeg �
 | 国家代码 | GB |
 
 **来源与边界。** 本页关于「艾雷岛」的关键事实，主要由以下来源交叉核对：UK Government (legislation.gov.uk)（苏格兰威士忌受保护地方名称的范围与法定要求）、Scotch Whisky Association (SWA)（苏格兰威士忌的产区体系、泥煤使用与产业信息）、Oxford University Press（提供关于艾雷岛、泥煤风味与苏格兰蒸馏的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![泥煤（peat）](/media/photos/term-peat-36a70265.jpg)
+
+图：泥煤（peat）。图片：David Stanley from Nanaimo, Canada，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Peat_(49302157252).jpg)）。关联图像：艾雷岛。
+
+![艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+图：艾尔郡的威士忌桶陈仓库，桶型、年份与仓库环境构成风味变量。图片：Rosser1954 Roger Griffith，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)）。关联图像：艾雷岛。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:campbeltown
 source_lang: zh
-source_revision: sha256:abd11b9fab0f9d2c9e0836f8b47df9e315179585a2bb11507610fa69d764e82d
-source_sha256: abd11b9fab0f9d2c9e0836f8b47df9e315179585a2bb11507610fa69d764e82d
+source_revision: sha256:0a1ed64ff833c6c1d113c3fecc9a66fbcd0980b9e4665e5e6eff8e12ad3cc697
+source_sha256: 0a1ed64ff833c6c1d113c3fecc9a66fbcd0980b9e4665e5e6eff8e12ad3cc697
 translation_status: reviewed
 level: other
 parent_id: region:scotland
@@ -83,6 +83,7 @@ rights:
   note: Third-party regulations, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Campbeltown
 
 Campbeltown is the smallest of the five protected [Scottish](ref:scotland) whisky names, sitting at the southern end of the Kintyre peninsula. In the nineteenth century it was called the whisky capital of the world; today only three distilleries remain. That gap is the best way in: the name protects a place and a tradition, not a volume of output, and it does not guarantee a fixed flavour.
@@ -147,3 +148,13 @@ In the glass, look first for oil and minerality, then judge the peat level, and 
 | Level | other |
 | Parent | Scotland |
 | Country code | GB |
+
+## Related images
+
+![Category image for Scotland](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+Image: Category image for Scotland. Credit: Alan Jamieson, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)). Related image for Campbeltown.
+
+![Whisky](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+Image: Whisky. Credit: Guinnog, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)). Related image for Campbeltown.

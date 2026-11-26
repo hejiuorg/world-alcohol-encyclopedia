@@ -78,6 +78,7 @@ city: 布拉格
 verification_scope: source-verified
 founded_year: 2009
 ---
+
 # 洛卡尔·德洛哈啤酒馆
 
 ![洛卡尔·德洛哈啤酒馆 专属编辑图](/media/figures/specific/visual-065-place-lokal-dlouha.svg)
@@ -141,3 +142,9 @@ Dlouhá 街的晚间人流集中在餐馆与酒吧门口，洛卡尔是其中最
 补充阅读：[啤酒](ref:c-extra-1)、[认识一座城，从一间酒馆开始](ref:c-extra-2)。
 
 相关条目：[弗勒克啤酒屋](ref:u-fleku)、[皇家啤酒屋](ref:hofbrauhaus)、[施伦克拉烟熏啤酒馆](ref:schlenkerla)。
+
+## 相关图像
+
+![弗勒克啤酒屋](/media/photos/place-u-fleku-1192f412.jpg)
+
+图：弗勒克啤酒屋。图片：Dietmar Rabich，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Prag,_U_Flek%C5%AF_--_2019_--_6735.jpg)）。关联图像：洛卡尔·德洛哈啤酒馆。

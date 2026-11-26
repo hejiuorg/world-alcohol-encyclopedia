@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1837
 ---
+
 # 德尔莫尼科餐厅
 
 在曼哈顿金融区，Beaver、South William 与 William 三条街交出一个很尖的三角口，德尔莫尼科（Delmonico's）的弧形门廊就卡在这个角上。白天，附近是提着公文包过街的银行与交易所人群；晚上，街区安静得较快，餐厅的暖光从柱廊后面透出来。它今天的样子不是 1837 年那栋楼，而是 1890–91 年重建的八层建筑；但“美国高级餐厅”的这个故事，确实是从这个地址长出来的。
@@ -143,3 +144,9 @@ Delmonico 牛排与 Lobster Newberg 仍是菜单上的历史菜式，具体做�
 本页于 2026-11-21 核对 Delmonico’s 官方页面。餐厅位于金融区，工作日午餐与晚餐建议订位，菜单价格与时价菜会调整，订位前查官网。1837 年是创业年、现建筑为 1890–91 年，1996 年列为地标；“美国第一家高级餐厅”与 Eggs Benedict 等菜的故事已在正文保留限定，不作为档案事实。本页图片是德尔莫尼科餐厅的弧形转角门廊，不是菜品或内景；图注已标摄影者与许可，文字许可见文末 rights 字段。
 
 对照阅读：[纽约历史酒馆路线：东村到格拉梅西](ref:ny-route)、[禁酒令：禁令改变供给，不消灭需求](ref:prohibition)。
+
+## 相关图像
+
+![纽约西 36 街基恩斯牛排馆的临街立面与入口；建筑由三栋联排屋合并，烟斗收藏在室内。](/media/photos/place-keens-steakhouse-5a9b011d.jpg)
+
+图：纽约西 36 街基恩斯牛排馆的临街立面与入口；建筑由三栋联排屋合并，烟斗收藏在室内。。图片：ajay_suresh，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Keens_Steakhouse_(54821833498).jpg)）。关联图像：德尔莫尼科餐厅。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:suqian-yanghe
 source_lang: zh
-source_revision: sha256:73288c02dfeab7466f52ab0b9ffd102e112c3b612a8426ffd85b42eb4f48faf6
-source_sha256: 73288c02dfeab7466f52ab0b9ffd102e112c3b612a8426ffd85b42eb4f48faf6
+source_revision: sha256:8a0bc02b44e076a81d19b8aa00e5b39a184176b7ff859a01e4fe944cdd0bdaad
+source_sha256: 8a0bc02b44e076a81d19b8aa00e5b39a184176b7ff859a01e4fe944cdd0bdaad
 translation_status: reviewed
 stop_ids:
   - place_id: place:yanghe-tourism
@@ -154,3 +154,13 @@ Alternative: see only the Yanghe tourism area, or only the Shuanggou old worksho
 - Suqian Municipal People’s Government — https://www.suqian.gov.cn/ (Suqian Municipal People’s Government, checked 2026-11-25)
 
 Related entries: [Yanghe distillery culture tourism area](ref:yanghe), [Shuanggou Distillery (Shuanggou Town)](ref:shuanggou), [Yanghe (Shuanggou parent brand)](ref:brand), [strong-aroma baijiu](ref:style), [Jiangsu](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Jiangsu Province](/media/photos/region-jiangsu-f89e739b.jpg)
+
+Image: Jiangsu Province. Credit: xiquinhosilva, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Nanjing_CBD_from_City_Wall.jpg)). Related image for Suqian Route: Yanghe and Shuanggou.
+
+![Fermenting baijiu mash at Luzhou Laojiao, used as an illustrative image of solid-state fermentation; not the Yanghe site](/media/photos/place-yanghe-tourism-953fcea1.jpg)
+
+Image: Fermenting baijiu mash at Luzhou Laojiao, used as an illustrative image of solid-state fermentation; not the Yanghe site. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Baijiu_Produktion_Luzhou_Laojiao.jpg)). Related image for Suqian Route: Yanghe and Shuanggou.

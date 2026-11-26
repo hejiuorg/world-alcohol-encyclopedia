@@ -31,8 +31,8 @@ tags:
 translation_of: place:spaniards-inn-hampstead
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:22203b6a56e7fdda402d16f91bf7e0225af17ffaa567cbc1686cf3cc07d70f0f
-source_sha256: 22203b6a56e7fdda402d16f91bf7e0225af17ffaa567cbc1686cf3cc07d70f0f
+source_revision: sha256:052e7613e02b33992e8911877b122479645eacc27856d4599df580ba95fc1afa
+source_sha256: 052e7613e02b33992e8911877b122479645eacc27856d4599df580ba95fc1afa
 related:
   - relation: about
     target_id: culture-article:pub-and-city
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1585
 ---
+
 # The Spaniards Inn
 
 Walk north across the southern half of Hampstead Heath and the grass, ponds and trees gradually narrow into a strip beside a lane. A two-storey building with a white facade and dark window frames appears, with a small tollhouse opposite and the open heath on the other side of the road. The location explains The Spaniards Inn: it began as a gate on the road into the bishop's estate and a stop on a turnpike, and it has become one of the London pubs most often written into literary anecdote.
@@ -141,3 +142,9 @@ The inn sits on the northern edge of Hampstead Heath; south lie Kenwood House, P
 For The Spaniards Inn, begin with the address, then the current opening status, and finish with what the place is known for; that order keeps the account grounded.
 
 Checked on 2026-11-21 against the Spaniards Inn official page. Normal hours are Monday 12:00–23:00, Tuesday–Saturday 10:00–23:00 and Sunday 11:30–22:30; weather and holidays affect the garden, and the walk across Hampstead Heath from the station takes about 20 minutes. 1585 is the inn's starting year, not the present building's date, and the evidence for Turpin, Keats, Byron and Dickens as regulars varies, as the body explains. The image shows the white exterior and approach road, not guest rooms or the dining room. Garden opening still depends on the day's weather.
+
+## Related images
+
+![The Lamb & Flag on Rose Street, Covent Garden; its 1958 brick front conceals a possible early 18th-century timber frame, replacing a house of 1638](/media/photos/place-lamb-and-flag-covent-garden-4fa9fcc7.jpg)
+
+Image: The Lamb & Flag on Rose Street, Covent Garden; its 1958 brick front conceals a possible early 18th-century timber frame, replacing a house of 1638. Credit: Tanja Müller, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Lamb_and_Flag,_Covent_Garden_2025-02-08.jpg)). Related image for The Spaniards Inn.

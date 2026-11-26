@@ -76,6 +76,7 @@ city: 伦敦
 verification_scope: source-verified
 founded_year: 2008
 ---
+
 # 康诺特酒吧
 
 康诺特酒吧在梅费尔卡洛斯广场（Carlos Place）的康诺特酒店内，2008 年随酒店整修开业。它不是一个从爱德华时代一直开到今天的百年老店，而是伦敦“新酒店酒吧”那一代的代表：把酒店的资源、设计感和调酒师的个人风格放在同一个房间里。理解这一点，比记住它拿过多少奖更有用。
@@ -130,3 +131,9 @@ founded_year: 2008
 补充阅读：[A Ginjinha](ref:c-extra-1)、[À la Mort Subite](ref:c-extra-2)。
 
 相关条目：[伦敦经典酒吧步行路线](ref:london-classic-bar-walk)、[萨沃伊美式酒吧](ref:american-bar-savoy)、[干马天尼](ref:dry-martini)。
+
+## 相关图像
+
+![“伦敦经典酒吧步行路线”页面配图：Royal Opera House - Bow Street, London - statue (6446853425)。摄影：Elliott Brown from Birmingham, United Kingdom，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-route-london-classic-bar-walk-dc34ac66.jpg)
+
+图：Royal Opera House - Bow Street, London - statue (6446853425)。摄影：Elliott Brown from Birmingham, United Kingdom，CC BY 2.0，来自 Wikimedia Commons。。图片：Elliott Brown from Birmingham, United Kingdom，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=22459244)）。关联图像：康诺特酒吧。

@@ -79,6 +79,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 白皮诺
 
 白皮诺（Pinot Blanc）是黑皮诺家族中的白色成员，常被形容为“安静的白葡萄”：香气不张扬，酸度中等到偏高，酒体圆润，配餐适应性强。它在阿尔萨斯、德国与意大利北部都有稳定表现，却长期活在接受度更高的霞多丽与雷司令的阴影里。真正理解白皮诺，需要把它放回黑皮诺的变异谱系，并区分阿尔萨斯、德国与意大利三条传统。
@@ -136,3 +137,9 @@ verification_scope: source-verified
 - [意大利](ref:italy)：上阿迪杰皮诺比安科的核心产地。
 
 相关条目：[葡萄酒](ref:wine)、[白葡萄酒](ref:white-wine)、[酸度（acidity）](ref:acidity)。
+
+## 相关图像
+
+![阿尔萨斯](/media/photos/region-alsace-15887179.jpg)
+
+图：阿尔萨斯。图片：Jorge Franganillo from Barcelona, Spain，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)）。关联图像：白皮诺。

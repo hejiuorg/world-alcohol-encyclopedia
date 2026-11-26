@@ -104,6 +104,7 @@ verified_at: 2026-11-08
 founded_year: 1880
 verification_scope: source-verified
 ---
+
 # 约瑟夫杜鲁安酒庄
 
 约瑟夫杜鲁安酒庄（Maison Joseph Drouhin）在博讷老城的 7 Rue d'Enfer，是一处把家族住宅、酒商办公室、地下酒窖与品鉴空间叠在一起的建筑。它 1880 年由约瑟夫·杜鲁安创立，今天仍由杜鲁安家族经营，第四代成员 Philippe、Véronique、Laurent 与 Frédéric 参与管理。与郊外的城堡式酒庄不同，这里的参访从一条城市街道开始，往下走进酒窖，再回到博讷的石板路与市集，节奏更接近“城市酒商”而不是“乡村庄园”。
@@ -171,3 +172,9 @@ verification_scope: source-verified
 - [白葡萄酒](ref:white-wine)：霞多丽与勃艮第白酒的酸度与质地。
 - [博讷主宫医院](ref:hospices)：博讷城市史与葡萄酒拍卖的入口。
 - [默尔索城堡](ref:meursault)：默尔索的白葡萄酒与城堡式参观。
+
+## 相关图像
+
+![“勃艮第”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：约瑟夫杜鲁安酒庄。

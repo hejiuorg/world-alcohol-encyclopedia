@@ -11,8 +11,8 @@ revision: 2
 parent_style_id: drink-style:wine
 translation_of: drink-style:white-wine
 source_lang: zh
-source_revision: sha256:8b4a61f8f938e9a2569daa97fee424e65c701ae76a46dfe9170a8e19b68b1161
-source_sha256: 8b4a61f8f938e9a2569daa97fee424e65c701ae76a46dfe9170a8e19b68b1161
+source_revision: sha256:1ec45d206724a12a3159444bfb9a88d0fb25654c20be0325e362c0a7ff072ffc
+source_sha256: 1ec45d206724a12a3159444bfb9a88d0fb25654c20be0325e362c0a7ff072ffc
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -69,6 +69,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # White wine
 
 White wine is made from white grape varieties, or from destemmed dark varieties. Unlike red wine, white wine usually does not let the liquid stay in contact with skins for long, so it is pale in colour and low in tannin, with acidity and aroma as its main structural pillars. Its range is wide: from crisp, dry, drink-now wines to rich wines shaped by oak and lees, and to base wines for sparkling wine.
@@ -146,3 +147,9 @@ For White wine, begin with the production rule. Then look at the strength, and f
 - [Sparkling wine](ref:sparkling): second fermentation, pressure and sweetness levels.
 
 Further reading: [Grape](ref:c-extra-1), [Fermentation](ref:c-extra-2).
+
+## Related images
+
+![Sparkling wine](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+Image: Sparkling wine. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for White wine.

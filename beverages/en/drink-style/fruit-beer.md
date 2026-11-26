@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:fruit-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c0a9c83696499b2500368218b9c946de204e6b1eeefc6a997b6fe7eb66951c57
-source_sha256: c0a9c83696499b2500368218b9c946de204e6b1eeefc6a997b6fe7eb66951c57
+source_revision: sha256:b368a0eea6c13609aae86a02a3d7ed70147ce945a270f67c6ac45db031d81016
+source_sha256: b368a0eea6c13609aae86a02a3d7ed70147ce945a270f67c6ac45db031d81016
 related:
   - relation: about
     target_id: drink-style:beer
@@ -151,3 +151,9 @@ For storage, most fruit beer is meant to be drunk young, kept away from light an
 Styles close to fruit beer usually share ingredients or process rather than aroma: [lambic](ref:lambic) represents the spontaneous-fermentation sour tradition, [beer](ref:beer) is the base framework for all fruited products, [grape](ref:ingredient) appears directly in some fruit beers and grape ales, [fermentation](ref:fermentation) decides where the fruit sugar and acidity go, and [belgium](ref:belgium) is the background of the traditional fruit lambic. To learn a style, start with the standard benchmark, then a variant that changes an ingredient or process, then an extreme example; the boundary becomes clearer than from definitions alone.
 
 - Related: [beer](ref:beer), [lambic](ref:lambic), [fermentation](ref:fermentation), [grape](ref:ingredient), [belgium](ref:belgium).
+
+## Related images
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Fruit Beer.

@@ -74,6 +74,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 黄酒
 
 黄酒是中国传统的谷物发酵酒。它以稻米（糯米、粳米、籼米等）为主要原料，用麦曲、酒药或红曲完成糖化和发酵，再经过压榨、澄清、煎酒（加热杀菌）和陈酿。酒精度通常在 14%–20% 之间，属于发酵酒，不是蒸馏酒。
@@ -151,3 +152,9 @@ verification_scope: source-verified
 - [白酒](ref:baijiu)：中国另一大传统酒类，但走的是蒸馏路线。
 - [蒸馏](ref:distillation)：理解发酵酒与蒸馏酒差别的关键工艺。
 - [橡木桶陈酿](ref:oak-ageing)：与陶坛陈酿不同的陈化路径。
+
+## 相关图像
+
+![制曲](/media/photos/process-qu-making-ff7ff7ce.jpg)
+
+图：制曲。图片：Uranassbandit，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hongqu_3.jpg)）。关联图像：黄酒。

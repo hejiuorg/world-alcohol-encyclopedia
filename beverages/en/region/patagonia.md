@@ -24,8 +24,8 @@ tags:
 translation_of: region:patagonia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a02292eb27f3b55fb1ffc530545b9d2bb00359dbd8b1a88e33f2a1136f38f10a
-source_sha256: a02292eb27f3b55fb1ffc530545b9d2bb00359dbd8b1a88e33f2a1136f38f10a
+source_revision: sha256:dd32c1503e0f5cd6cf22dfb64591839e1e315c588f1a7c9fecf093f4da749d5f
+source_sha256: dd32c1503e0f5cd6cf22dfb64591839e1e315c588f1a7c9fecf093f4da749d5f
 related:
   - relation: about
     target_id: region:argentina
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Patagonia
 
 A cool-climate wine region in southern Argentina, centred on the Río Negro and Neuquén valleys; at 39–42° south with long sun, strong wind and cool temperatures, it is known for Pinot Noir, Malbec, Chardonnay and sparkling wine.
@@ -163,3 +164,13 @@ Patagonia's vineyards lie in Rio Negro and Neuquén, where cool winds and long d
 The region's high latitude gives long daylight and cool nights, and irrigation comes from Andean rivers.
 
 Its wines are often labelled by valley rather than by a single estate, so the origin line is the first check.
+
+## Related images
+
+![Argentina: Miraluna Vineyard, Cachi, Argentina (7126977841) (Wikimedia Commons)](/media/photos/region-argentina-454da145.jpg)
+
+Image: Argentina: Miraluna Vineyard, Cachi, Argentina (7126977841) (Wikimedia Commons). Credit: Rod Waddington from Kergunyah, Australia, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Miraluna_Vineyard,_Cachi,_Argentina_(7126977841).jpg)). Related image for Patagonia.
+
+![Malbec](/media/photos/variety-malbec-88d109c6.jpg)
+
+Image: Malbec. Credit: Ian L, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Malbec_grapes.jpg)). Related image for Patagonia.

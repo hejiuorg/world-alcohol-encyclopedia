@@ -76,6 +76,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒种法规、标签与产区划分会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 岛屿区
 
 苏格兰威士忌的“岛屿区”并非法定产区，而是除艾莱岛以外的岛屿蒸馏厂集合，包括 Arran、Jura、Skye、Lewis、Orkney 等；风格从轻盈花香到泥煤海风都有，不能用一个味道概括。
@@ -157,3 +158,13 @@ verification_scope: source-verified
 **并读。** 把「岛屿区」与「苏格兰」、「威士忌」、「大麦」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「岛屿区」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![苏格兰卢斯丘陵 Doune Hill 下方的泥炭沼泽；这是泥煤产地场景，不是 PPM 测量仪，也不是某款酒的酒液](/media/photos/term-peat-phenol-ppm-f712837c.jpg)
+
+图：苏格兰卢斯丘陵 Doune Hill 下方的泥炭沼泽；这是泥煤产地场景，不是 PPM 测量仪，也不是某款酒的酒液。图片：Michal Klajban，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_peat_bog_below_the_top_of_Doune_Hill,_Luss_Hills,_Scotland.jpg)）。关联图像：岛屿区。
+
+![威士忌](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+图：威士忌。图片：Guinnog，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)）。关联图像：岛屿区。

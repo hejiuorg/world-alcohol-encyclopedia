@@ -77,6 +77,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒种法规、标签与产区划分会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 济州
 
 韩国济州岛的烧酒与地方酒产区，以火山岩地下水、稻米与柑橘等地方原料著称；济州烧酒风格比本土稀释式烧酒更柔和，火山岛的风土与旅游场景紧密结合。
@@ -160,3 +161,13 @@ verification_scope: source-verified
 **适用边界。** 对「济州」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「济州」最近核对于 2026-11-22；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![韩国类别配图](/media/photos/region-andong-a866c9fa.jpg)
+
+图：韩国类别配图。图片：Matt and Nayoung Wilson from Atlanta and surrounding, US，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Korean_distilled_liquor-Andong_soju-01.jpg)）。关联图像：济州。
+
+![烧酒](/media/photos/drink-style-soju-8b1cabb3.jpg)
+
+图：烧酒。图片：Graham Hills，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Soju.jpg)）。关联图像：济州。

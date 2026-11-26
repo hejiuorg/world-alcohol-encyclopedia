@@ -81,6 +81,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # 布拉格啤酒路线：从弗勒克到小熊
 
 布拉格新城这两家店相距不到一公里，却代表两种不同的啤酒态度：弗勒克只卖一款深色拉格，把一种酒做到极熟；小熊把微型酒厂、餐厅、酒店和啤酒商店叠在一栋老房子里，用一个小厂展示尽可能多的可能。步行十五到二十分钟就能从一家走到另一家，适合一个下午或一个傍晚，不需要坐车。这条路线适合已经喝过几次捷克啤酒、想弄明白“为什么这里的人对拉格这么认真”的人。
@@ -141,3 +142,13 @@ updated_at: 2026-11-08
 对照阅读：[弗勒克啤酒屋](ref:ufleku)、[比尔森啤酒厂：金色拉格的诞生地](ref:c-extra-1)。
 
 相关条目：[小熊酒馆](ref:umedvidku)。
+
+## 相关图像
+
+![小熊酒馆](/media/photos/place-u-medvidku-69f06015.jpg)
+
+图：小熊酒馆。图片：ŠJů ( cs:ŠJů )，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Na_Per%C5%A1t%C3%BDn%C4%9B_5,_U_Medv%C3%ADdk%C5%AF.jpg)）。关联图像：布拉格啤酒路线：从弗勒克到小熊。
+
+![皮尔森啤酒](/media/photos/drink-style-pilsner-8d0570d2.jpg)
+
+图：皮尔森啤酒。图片：Steven Walling，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Pilsner_urquell_mug.jpg)）。关联图像：布拉格啤酒路线：从弗勒克到小熊。

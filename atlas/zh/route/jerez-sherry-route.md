@@ -95,6 +95,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # 赫雷斯雪莉路线：一座城、两家酒庄与三条陈年路径
 
 赫雷斯-德拉弗龙特拉常被当成一个酒的名字，其实它首先是一座城。雪莉酒三角区由赫雷斯、圣玛丽亚港与桑卢卡尔-德巴拉梅达三座城市围成，而这条路线只走赫雷斯城内的两家酒庄：阿科斯街的卢士涛与曼努埃尔·马利亚·冈萨雷斯街的冈萨雷斯·比亚斯。两站相距不足一公里，步行即可串联，却能看全 solera 叠桶、flor 生物陈年与氧化陈年三条路径。把两家放在同一天，比分别打卡更有用：一家从 almacenista 起家，习惯把不同储酒行的老酒摆上台面；另一家从 1835 年起就是城市酒窖的样板，用品牌把风格固定下来。
@@ -173,3 +174,13 @@ Fino 与 Manzanilla 冷藏到 7–10 摄氏度，开瓶后尽快喝完；Oloroso
 [赫雷斯](ref:jerez)产区页讲 albariza 白垩土、赫雷斯与曼萨尼亚两个法定产区，以及酒花如何随湿度变化；[雪莉](ref:sherry)风格页讲从 Fino 到 Pedro Ximénez 的谱系；[加强](ref:fortification)酒页讲强化的基本原理；[solera](ref:solera)词条讲叠桶与补液；[flor](ref:flor)词条讲酒花；[氧化](ref:oxidation)词条讲氧气如何改变颜色与香气。把这几页读过再走，酒窖里的桶列会从“很多桶”变成一套可以读的系统。
 
 这条路线的作用，是把三家知识页面的抽象词放进同一座城：一处看储酒行的单一 solera，一处看品牌化的稳定风格；一处强调三城差异，一处把城市酒窖做成样板。走完两站，雪莉不再是一种“甜酒”或“餐前酒”，而是一套由酒花、酒精度与补液共同决定的陈年制度。
+
+## 相关图像
+
+![埃米利奥·卢士涛酒庄相关实景照片](/media/photos/place-bodegas-lustau-076c5ebe.jpg)
+
+图：埃米利奥·卢士涛酒庄相关实景照片。图片：El Pantera，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lustau-DSC07720.JPG)）。关联图像：赫雷斯雪莉路线：一座城、两家酒庄与三条陈年路径。
+
+![赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。](/media/photos/drink-style-sherry-876c72cd.jpg)
+
+图：赫雷斯 Lustau 酒窖内的雪莉酒桶与拱廊。。图片：Anual，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lustau_003An2019.jpg)）。关联图像：赫雷斯雪莉路线：一座城、两家酒庄与三条陈年路径。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:museo-del-ron-havana
 source_lang: zh
-source_revision: sha256:2a7489b43bbcf9e58e2ad232c2ea903bd666b1a9ba630d66dd28b0f11c10be8e
-source_sha256: 2a7489b43bbcf9e58e2ad232c2ea903bd666b1a9ba630d66dd28b0f11c10be8e
+source_revision: sha256:e095988b07f131739efcb7b40af0081af5030c49c5d1e5b3a1c138d86f9e4b41
+source_sha256: e095988b07f131739efcb7b40af0081af5030c49c5d1e5b3a1c138d86f9e4b41
 translation_status: reviewed
 subtype: museum
 address: Avenida del Puerto 262, esquina a Sol, La Habana Vieja, La Habana, Cuba
@@ -142,3 +142,9 @@ A good day might combine a morning tour and tasting, lunch in the old city, an a
 Havana's museum is organised around a brand and a capital city; Santiago's is organised around the eastern industry and local memory. Together they show two narratives of Cuban rum. Whichever you visit first, read the basics of [rum](ref:rum) beforehand and go in with questions; the visit will give more than a passive walk through the galleries.
 
 [Rum](ref:rum) and [Molasses](ref:molasses) are the nearest useful comparisons: one clarifies address and space, the other tests operating status.
+
+## Related images
+
+![Harvested sugarcane stalks cut into sections, showing nodes and internodes.](/media/photos/ingredient-sugarcane-64425b4f.jpg)
+
+Image: Harvested sugarcane stalks cut into sections, showing nodes and internodes.. Credit: ruurmo, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cut_sugarcane.jpg)). Related image for Museo del Ron Havana Club.

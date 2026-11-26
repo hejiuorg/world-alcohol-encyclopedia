@@ -77,6 +77,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 圣朱利安
 
 圣朱利安（Saint-Julien）是吉伦特河口左岸、波亚克与玛歌之间的红葡萄酒法定产区，1936 年 11 月 14 日获得 AOC 地位。它的葡萄园面积不大，却集中了 11 家 1855 年列级庄，其中 5 家为二级庄；整个村庄没有一级庄，这种“高密度、无顶点”的结构，是它与波亚克、玛歌最显著的差别。
@@ -158,3 +159,13 @@ Saint-Julien 只适用于来自划定地块、并在区内完成发酵与陈年�
 - [梅洛](ref:merlot)：柔化中段与增加早熟果味的角色。
 - [红葡萄酒](ref:red-wine)：圣朱利安的类别、单宁与酿造概览。
 - [橡木桶陈年](ref:oak-ageing)：桶陈对单宁与香气的影响。
+
+## 相关图像
+
+![橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。](/media/photos/editorial-oak-ageing-q2.jpg)
+
+图：橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：圣朱利安。
+
+![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：圣朱利安。

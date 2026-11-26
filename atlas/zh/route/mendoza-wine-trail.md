@@ -89,6 +89,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 门多萨葡萄酒路线
 
 门多萨葡萄酒路线没有统一的公路标识，真正决定一天的，是海拔、车程与预约时段。这条线只取两站：卢汉德库约的卡氏家族酒庄，以及迈普的苏卡尔迪家族基地。两站都在门多萨的 Primera Zona，不在 Uco Valley；正因如此，先把 Uco 的三级海拔带讲清楚，再回来看这两站的低海拔差异，才不会把门多萨简化成“高海拔等于好酒”。
@@ -146,3 +147,13 @@ updated_at: 2026-11-09
 ## 参考资料
 
 本页依据卡氏家族酒庄的联系页与关于页、苏卡尔迪的官方旅游页、阿根廷国家旅游推广机构的苏卡尔迪与 Malbec 路线页面，以及 Wines of Argentina 整理的 INV 数据核验，页面核验日期 2026-11-09。开放时间、参观价格、预约规则与酒款会变化，以各官方渠道为准。
+
+## 相关图像
+
+![马尔贝克](/media/photos/variety-malbec-88d109c6.jpg)
+
+图：马尔贝克。图片：Ian L，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Malbec_grapes.jpg)）。关联图像：门多萨葡萄酒路线。
+
+![橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。](/media/photos/editorial-oak-ageing-q2.jpg)
+
+图：橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：门多萨葡萄酒路线。

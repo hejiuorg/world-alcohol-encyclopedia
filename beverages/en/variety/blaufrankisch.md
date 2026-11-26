@@ -23,8 +23,8 @@ tags:
 translation_of: variety:blaufrankisch
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2df916865d4c15e178d7c9e64e185cc82b4d28a1c79c5c5e97b0c921b63421b5
-source_sha256: 2df916865d4c15e178d7c9e64e185cc82b4d28a1c79c5c5e97b0c921b63421b5
+source_revision: sha256:a8567e202fe95997aa3e74d5a3af5d2b86142114bfd8d91c67622aca32db8bee
+source_sha256: a8567e202fe95997aa3e74d5a3af5d2b86142114bfd8d91c67622aca32db8bee
 related:
   - relation: about
     target_id: drink-style:red-wine
@@ -79,6 +79,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Blaufränkisch
 
 A red grape of Burgenland, Austria, also called Kékfrankos in Hungary and Frankovka in Czechia; deep in colour with black cherry, pepper and spice, high acidity, medium-high tannin and good ageing potential.
@@ -155,3 +156,9 @@ Compare an Austrian Blaufränkisch, a Hungarian Kékfrankos and a Czech Frankovk
 [Red wine](ref:red) explains variety character; [Terroir](ref:terroir) adds regional performance. Put Blaufränkisch between them before deciding what it is.
 
 Blaufränkisch is the leading red grape of Burgenland, where it appears as Blaufränkisch in Austria, Kékfrankos in Hungary and Frankovka in Czechia. The best sites are on the Leithaberg and Eisenberg hills, where limestone and schist give a firmer, more mineral wine than the warm plains. It ripens late and keeps high acidity, so it responds well to whole-cluster fermentation and long maceration; oak is used sparingly because the grape already has enough structure. In Hungary, Kékfrankos is the base of Egri Bikavér blends and a common varietal wine in Szekszárd. A bottle labelled Blaufränkisch may come from any of these countries, so the origin and the producer's style matter more than the synonym on the front label.
+
+## Related images
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Blaufränkisch.

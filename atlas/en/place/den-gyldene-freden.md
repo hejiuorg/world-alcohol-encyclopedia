@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:den-gyldene-freden
 source_lang: zh
-source_revision: sha256:37098d9818c1bcd96e5f92e468aa25781e2c713508488615ac30717511c028fe
-source_sha256: 37098d9818c1bcd96e5f92e468aa25781e2c713508488615ac30717511c028fe
+source_revision: sha256:3cbe49d305bcf5f8c5ec8133b1eeda97a5f75b1c210c81f935addde63e268aa2
+source_sha256: 3cbe49d305bcf5f8c5ec8133b1eeda97a5f75b1c210c81f935addde63e268aa2
 translation_status: reviewed
 subtype: pub
 address: Österlånggatan 51, 111 31 Stockholm, Sweden
@@ -168,3 +168,9 @@ The narrow lanes are crowded in summer and at Christmas, so allow space when pho
 - [Zur letzten Instanz](ref:instanz): Berlin's restaurant with a gastronomic tradition from 1621, another "oldest in the city" narrative.
 - [Café Central](ref:cafe-central): a Viennese literary café, a reminder that "old" takes more than one form.
 - [Café Hawelka](ref:hawelka): a Viennese family café and another version of the "writers and artists" tradition.
+
+## Related images
+
+![The façade of Botín at Calle de Cuchilleros 17 in Madrid, its awning lettered “Restaurante Sobrino de Botín” and “Horno de Asar”.](/media/photos/place-botin-23c31832.jpg)
+
+Image: The façade of Botín at Calle de Cuchilleros 17 in Madrid, its awning lettered “Restaurante Sobrino de Botín” and “Horno de Asar”.. Credit: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2014_-_Sobrino_de_Bot%C3%ADn_%28Casa_Bot%C3%ADn%29_Restaurant%2C_Madrid%2C_Spain_%28_Ank_Kumar_%29_01.jpg)). Related image for Den Gyldene Freden.

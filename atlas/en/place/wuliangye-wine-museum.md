@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:wuliangye-wine-museum
 source_lang: zh
-source_revision: sha256:da4e32888212ca5e37261b99441a90155122475d08e2e00c40983c4ee8512c4e
-source_sha256: da4e32888212ca5e37261b99441a90155122475d08e2e00c40983c4ee8512c4e
+source_revision: sha256:8e0916a45b6ba1b55a40df402e7f1faa84b624d02d289d4dbed1eaa871fc3395
+source_sha256: 8e0916a45b6ba1b55a40df402e7f1faa84b624d02d289d4dbed1eaa871fc3395
 translation_status: reviewed
 subtype: museum
 address: 150 Minjiang West Road, Cuiping District, Yibin, Sichuan, China
@@ -56,6 +56,8 @@ references:
     target_id: drink:sichuan-wuliangye
   - key: c-extra-1
     target_id: place:a-ginjinha
+  - key: strong
+    target_id: drink-style:strong-aroma-baijiu
 sources:
   - key: ncha-museum
     title: National Cultural Heritage Administration museum annual report — Wuliangye Wine Culture Exhibition Hall
@@ -166,6 +168,41 @@ Yibin West is the high-speed rail station, and Wuliangye Airport lies northwest 
 ### Key dates and figures
 
 - 2025: the official museum page used for opening times and booking is the 2025 listing; the page was checked on 2026-11-08.
+
+
+## Decision table: what to check before visiting
+
+| Item | Verified information | Visit note |
+| --- | --- | --- |
+| Address | 150 Minjiang West Road, Cuiping District, Yibin, at the east gate of the Wuliangye plant | navigate to the east gate; do not drive into the production area |
+| Hours | the National Cultural Heritage Administration yearbook lists 8:30–17:30, all year | check the official page for temporary changes |
+| Ticket | free | guided tours, tastings or special activities may cost extra |
+| Booking | the yearbook records “no” unified booking; the plant still has gate control and production schedules | groups, study visits and guides should contact the site in advance |
+| Time needed | museum 1–1.5 hours; whole site 2–3 hours | museum plus shop can fit a half day |
+| Production area | access depends on the day’s booking and production schedule | do not assume a museum ticket opens the whole plant |
+
+## Related images
+
+![Wuliangye](/media/photos/drink-sichuan-wuliangye-27081149.jpg)
+
+Image: Wuliangye. Credit: 东京村子, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E4%BA%94%E7%B2%AE%E6%B6%B2%E6%97%97%E8%88%B0%E5%BA%97_-_panoramio.jpg)). Related image for Wuliangye Wine Museum.
+
+## Frequently asked questions
+
+### Do individual visitors need to book?
+
+The National Cultural Heritage Administration yearbook records no unified booking requirement, but the plant still has gate control and production schedules. Check the site’s official notice before leaving. Groups, study visits, media and anyone needing a guide should contact the site in advance about capacity and route.
+
+### How long does the museum take?
+
+The five galleries are compact; allow 1–1.5 hours. With the Golden Cup Grove, calligraphy corridor, Bottle Tower and shop, allow 2–3 hours. To link central Yibin, add Liubei Pool Park, 501 Baijiu Culture Site and Guanying Old Street, but do not force Lizhuang or the Bamboo Sea into the same day.
+
+### Can I enter Workshop 523 or the production area?
+
+Not guaranteed. Access depends on the day’s booking, production schedule and safety conditions. Even when open, follow a guide on the designated route, do not wear slippers, sandals or high heels, do not touch equipment or fermentation pits, and do not cross safety lines.
+
+> **Next:** Start with [baijiu](ref:baijiu) for the category, then [strong-aroma baijiu](ref:strong) for Wuliangye’s style; for the product itself, read [Wuliangye](ref:wuliangye).
+
 
 ## See also
 

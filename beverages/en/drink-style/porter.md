@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:porter
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9bee9f4c9537167b28e3c77f60d5c366a058557e09f3f18a917f954e08bc52f1
-source_sha256: 9bee9f4c9537167b28e3c77f60d5c366a058557e09f3f18a917f954e08bc52f1
+source_revision: sha256:3ccf58850822676cf332f67723b722aa8f9cf4c428917f6f1ed8c06121f3cd61
+source_sha256: 3ccf58850822676cf332f67723b722aa8f9cf4c428917f6f1ed8c06121f3cd61
 parent_style_id: drink-style:beer
 aroma_family: Roasted malt
 legacy_refs: []
@@ -84,6 +84,7 @@ rights:
   note: The lead image is a photograph from Flickr, “Red Brick porter”, used under CC BY 2.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Porter
 
 Porter is a dark top-fermented beer that arose in 18th-century London, with roast, coffee and cocoa flavours coming from brown malt and later roasted malt. The name is said to come from London street and market porters, who were among its main drinkers. Porter and stout share a historical root, but they are not equivalent in strength, sweetness or recipe.
@@ -163,3 +164,9 @@ For Porter, this style was last checked in 2026; prices, batches and availabilit
 - [Barley](ref:barley): the source of brown and roasted malt.
 - [Fermentation](ref:fermentation): how top fermentation and ageing shape body.
 - [Craft beer](ref:craft-beer): the background for porter's modern revival and variants.
+
+## Related images
+
+![Category image for United Kingdom](/media/photos/route-london-gin-route-abe0a9c8.jpg)
+
+Image: Category image for United Kingdom. Credit: Decatur Wine & Spirits, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)). Related image for Porter.

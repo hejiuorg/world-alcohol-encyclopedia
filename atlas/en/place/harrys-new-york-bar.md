@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:harrys-new-york-bar
 source_lang: zh
-source_revision: sha256:8a70bb49b5e90f72a17d416da5db50f7dcace36f1f21e84280c9bfe441c7de4b
-source_sha256: 8a70bb49b5e90f72a17d416da5db50f7dcace36f1f21e84280c9bfe441c7de4b
+source_revision: sha256:b04ee9c80e5a67aa43056baf37fdbcc9152148ecc9e48712c9626b2cd72efa48
+source_sha256: b04ee9c80e5a67aa43056baf37fdbcc9152148ecc9e48712c9626b2cd72efa48
 translation_status: reviewed
 subtype: bar
 address: 5 Rue Daunou, 75002 Paris, France
@@ -130,3 +130,9 @@ When ordering, decide on a base spirit and a flavour direction first; do not ask
 Nearby you can see the Palais Garnier, the dome of Galeries Lafayette, Place Vendôme and the Tuileries; the Louvre is a longer but manageable walk. To place the cocktail bar in the wider context of urban nightlife, read [Beyond the pub](ref:beyond-the-pub) and [Pub and city](ref:pub-and-city); for the whisky collection, read [Whisky](ref:whisky); for French drinking culture, read [France](ref:france). Harry's works best after dinner and before a show, not as an all-day sight.
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+Image: A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables. Credit: Rosser1954 Roger Griffith, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)). Related image for Harry's New York Bar.

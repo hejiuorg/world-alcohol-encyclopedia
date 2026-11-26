@@ -69,6 +69,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。等级年限以现行法规与标签为准。
 verification_scope: source-verified
 ---
+
 # 雅文邑
 
 雅文邑是法国西南部加斯科涅地区的葡萄白兰地产区。与干邑的二次壶式蒸馏不同，雅文邑传统上使用连续式蒸馏器，酒体更粗犷、香气更奔放；单一产区与单一年份装瓶也比干邑更常见。
@@ -150,3 +151,13 @@ verification_scope: source-verified
 **适用边界。** 对「雅文邑」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「雅文邑」最近核对于 2026-11-05；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![白兰地](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+图：白兰地。图片：Didier Descouens，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)）。关联图像：雅文邑。
+
+![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：雅文邑。

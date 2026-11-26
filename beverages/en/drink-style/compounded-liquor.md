@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:compounded-liquor
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:672bffdf7c771b32b1fe9172511718418099d1dea4dab42872ea078e5f80908a
-source_sha256: 672bffdf7c771b32b1fe9172511718418099d1dea4dab42872ea078e5f80908a
+source_revision: sha256:4f6a36fda030942adf03927a6cb7b0378fbe1066cab0baa63be8ff59f12d038f
+source_sha256: 4f6a36fda030942adf03927a6cb7b0378fbe1066cab0baa63be8ff59f12d038f
 legacy_refs: []
 aliases:
   - Compounded liquor
@@ -74,6 +74,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Compounded liquor
 
 Compounded liquor is a beverage made by blending, mixing or reprocessing a base of fermented wine, distilled spirit or food-grade alcohol with edible materials or additives. Its scope is wide, from flavoured fruit drinks to herbal lujiu. GB/T 17204-2021, Terminology and classification of alcoholic beverages, sets its terminology and classification.![Compounded liquor thematic illustration](/media/figures/specific/drink-style-compounded-liquor.svg)
@@ -148,3 +149,9 @@ For Compounded liquor, this style was last checked in 2026; prices, batches and 
 - [Baijiu](ref:baijiu): a common distilled base.
 - [Blending](ref:blending): recipe building and flavour balance.
 - [Alcohol by volume](ref:abv): the basic concept behind label declarations.
+
+## Related images
+
+![Editorial illustration of a wine blending trial: base wines compared in beakers, with a pipette for bench trials; AI-assisted illustration, not a photograph.](/media/photos/editorial-blending-q2.jpg)
+
+Image: Editorial illustration of a wine blending trial: base wines compared in beakers, with a pipette for bench trials; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Compounded liquor.

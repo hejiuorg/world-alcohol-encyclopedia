@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:walker-bay
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:951cb9da877c9b98c5aa6ccc0c74e3f808fa722b15d56120a6d984f81a041307
-source_sha256: 951cb9da877c9b98c5aa6ccc0c74e3f808fa722b15d56120a6d984f81a041307
+source_revision: sha256:58ac631846c2ddc4435a766ee30140c440e4a08b345bbf8cf0a071d9c0d385de
+source_sha256: 58ac631846c2ddc4435a766ee30140c440e4a08b345bbf8cf0a071d9c0d385de
 level: other
 parent_id: region:south-africa
 country_code: ZA
@@ -102,6 +102,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Walker Bay
 
 Walker Bay is a cool-climate wine district on South Africa's southern coast, around the seaside town of Hermanus, best known for the Pinot Noir and Chardonnay of the Hemel-en-Aarde valley. Its style comes from the interaction of ocean and mountain rather than from a single variety label.
@@ -190,3 +191,13 @@ Fifth, that the Wine of Origin seal is a quality grade. It certifies origin, var
 - [Vintage](ref:vintage): vintage variation in a cool district.
 - [Single variety](ref:single-varietal): the 85% labelling rule.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Photograph for Syrah: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+Image: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=114429512)). Related image for Walker Bay.
+
+![Pinot Noir](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+Image: Pinot Noir. Credit: Cjp24, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)). Related image for Walker Bay.

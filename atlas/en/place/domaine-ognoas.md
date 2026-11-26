@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:domaine-ognoas
 source_lang: zh
-source_revision: sha256:d4a6ed1365f18d1b8b309b7ffc7d7f1f9a1dfcd493a43f2b350a723af279ac9b
-source_sha256: d4a6ed1365f18d1b8b309b7ffc7d7f1f9a1dfcd493a43f2b350a723af279ac9b
+source_revision: sha256:cdcb77e22a58a61c56e10bb1d2a3990a993a1f3b90a77a3a8abf61573fc06803
+source_sha256: cdcb77e22a58a61c56e10bb1d2a3990a993a1f3b90a77a3a8abf61573fc06803
 translation_status: reviewed
 subtype: distillery-visitor
 address: 1043 Route d'Ognoas, 40190 Arthez-d'Armagnac, France
@@ -88,6 +88,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, prices and visit formats change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Domaine d'Ognoas
 
 Domaine d'Ognoas is a departmental estate at Arthez-d'Armagnac in the Landes, on the western edge of Bas-Armagnac, with a seigneurie that goes back to the late 11th or early 12th century. It is not a family house but public property taken over by the Landes after the separation of church and state in 1905: some 650 hectares, a continuous still, rows of cellars and a shop open all year make it an unusually public estate for the appellation.
@@ -135,3 +136,9 @@ Zoom out and Armagnac is a grape [brandy](ref:brandy) within the [French](ref:fr
 For Domaine d'Ognoas, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
 
 [Armagnac](ref:armagnac) and [Distillation](ref:distillation) answer different questions about Domaine d'Ognoas: address and space and operating status. Read them as a pair, not as alternatives.
+
+## Related images
+
+![Brandy](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+Image: Brandy. Credit: Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)). Related image for Domaine d'Ognoas.

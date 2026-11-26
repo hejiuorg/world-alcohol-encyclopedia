@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:1963-national-wine-evaluation
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:184b5a79e06158341a37a51db528d890e225604a6ef2565caa47f605453a4883
-source_sha256: 184b5a79e06158341a37a51db528d890e225604a6ef2565caa47f605453a4883
+source_revision: sha256:adc600ab3a70a41f5ff9cd361704ce6b37cbdd4038fa59403e1e0d4cdab94342
+source_sha256: adc600ab3a70a41f5ff9cd361704ce6b37cbdd4038fa59403e1e0d4cdab94342
 date_text: October 1963
 year_start: 1963
 year_end: 1963
@@ -101,6 +101,7 @@ rights:
   note: Third-party reports, list compilations and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The 1963 second national wine evaluation
 
 In October 1963 the second national wine evaluation was held in Beijing, organised jointly by the Ministry of Light Industry and the Ministry of Commerce. Compared with the first meeting in 1952, the categories were broader and the procedure more detailed, and for the first time a separate national quality award was granted. It marked the shift from a one-off list of names to a graded system of quality assessment.![The 1963 second national wine evaluation category image](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
@@ -163,3 +164,9 @@ Begin with the date and setting, move on to the documented consequences, and fin
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about The 1963 second national wine evaluation are checked against the following sources: Xinhua (Used to check the date, venue and number of famous wines at the second evaluation), China News Service (Used to check the 1963 baijiu list and aroma-type accounts; only short phrases are quoted), China Alcoholic Drinks Association (Used to check the evolution of the evaluation system and the quality award) and 8 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Yellow wine](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+Image: Yellow wine. Credit: udono, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)). Related image for The 1963 second national wine evaluation.

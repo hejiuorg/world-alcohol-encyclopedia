@@ -25,8 +25,8 @@ tags:
 translation_of: region:niagara
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:30f469547fc2a98b0b97c06c66abe437593aac8964b184a526d19a419ca39720
-source_sha256: 30f469547fc2a98b0b97c06c66abe437593aac8964b184a526d19a419ca39720
+source_revision: sha256:2cbec4c48904f9faa44234c13c80686cdb378c4a9d42e2480cf7750c1950f612
+source_sha256: 2cbec4c48904f9faa44234c13c80686cdb378c4a9d42e2480cf7750c1950f612
 related:
   - relation: about
     target_id: region:canada
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Niagara Peninsula
 
 A wine region in southern Ontario, Canada, between the Niagara Escarpment and Lake Ontario; known for Riesling, Chardonnay, Cabernet Franc and icewine, with a strict VQA system, it is the core of Canadian wine.
@@ -169,3 +170,13 @@ Niagara Peninsula is a Canadian region known for ice wine and cool-climate white
 | Level | province or region |
 | Parent | Canada |
 | Country code | CA |
+
+## Related images
+
+![Whisky maturation barrels at the Forty Creek Distillery in Ontario](/media/photos/region-canada-0fcdbd9d.jpg)
+
+Image: Whisky maturation barrels at the Forty Creek Distillery in Ontario. Credit: Gogerr, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Whisky_maturation_in_barrels_at_the_Forty_Creek_Distillery.jpg)). Related image for Niagara Peninsula.
+
+![Ice Wine](/media/photos/drink-style-ice-wine-1300193a.jpg)
+
+Image: Ice Wine. Credit: Mya, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Frozen_grapes_in_Luxembourg.jpg)). Related image for Niagara Peninsula.

@@ -98,6 +98,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 古巴朗姆路线：哈瓦那与圣地亚哥的两座朗姆博物馆
 
 古巴朗姆路线指两座博物馆：哈瓦那老城港口大道 262 号的[哈瓦那朗姆酒博物馆](ref:havana)，与圣地亚哥-德古巴圣巴西利奥街 358 号的[圣地亚哥朗姆酒博物馆](ref:santiago)。两城相距八百多公里，共用一条线索：西班牙殖民时期限制殖民地蒸馏，19 世纪后半叶才形成真正的 ron；1862 年后圣地亚哥自称“轻朗姆摇篮”；1959 年革命与 1960 年国有化，又把品牌、酒厂与出口渠道重组成国家体系。这条线看的不是设备新旧，而是同一段历史如何在两座城市被讲述。
@@ -161,3 +162,13 @@ mode 写 car，指两端城市内与周边的移动：哈瓦那老城适合步�
 最后留时间给城市：哈瓦那的酒吧与[代基里](ref:daiquiri)是朗姆酒的饮用面，圣地亚哥的广场与音乐是生活面。
 
 对照阅读：[哈瓦那朗姆酒博物馆](ref:havana)、[朗姆酒](ref:rum)。
+
+## 相关图像
+
+![代基里](/media/photos/cocktail-daiquiri-a9821884.jpg)
+
+图：代基里。图片：Will Shenton，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Classic_Daiquiri_in_Cocktail_Glass.jpg)）。关联图像：古巴朗姆路线：哈瓦那与圣地亚哥的两座朗姆博物馆。
+
+![哈瓦那朗姆酒博物馆相关实景照片](/media/photos/place-museo-del-ron-havana-f7eba13c.jpg)
+
+图：哈瓦那朗姆酒博物馆相关实景照片。图片：Antonio Bermudez Chi…，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Museo_Havana_Club_-_panoramio.jpg)）。关联图像：古巴朗姆路线：哈瓦那与圣地亚哥的两座朗姆博物馆。

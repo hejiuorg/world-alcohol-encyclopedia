@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:changyu-wine-culture-museum
 source_lang: zh
-source_revision: sha256:530cc8246e852aeacf0835ab73181ec5b8162d7f12510681650e2ce19b773048
-source_sha256: 530cc8246e852aeacf0835ab73181ec5b8162d7f12510681650e2ce19b773048
+source_revision: sha256:973c71157ac7a5aacd43a6d25732b5807d43ca92f3e4e2282b79ad80657428fe
+source_sha256: 973c71157ac7a5aacd43a6d25732b5807d43ca92f3e4e2282b79ad80657428fe
 translation_status: reviewed
 subtype: museum
 address: 山东省烟台市芝罘区大马路56号
@@ -191,3 +191,9 @@ For a dedicated wine trip, treat the museum and Chateau Changyu Castel in the de
 The Changyu museum is an entry point for understanding how [wine](ref:wine) arrived in China, and it places Yantai within the modern industrial and consumer history of [China](ref:china). It differs from the European winery-visit model: company history and industrial heritage come first, with tasting and sales second.
 
 Further reading: [Yantai Changyu Pioneer Wine Co., Ltd.](ref:c-extra-1), [Changyu Wine](ref:c-extra-2), [A Ginjinha](ref:c-extra-3).
+
+## Related images
+
+![Photograph for Changyu Wine: Guang Lu Di in Dabu. Built in 1908, former residence of Cheong Fatt Tze who was the founder of Changyu Wine (19324457523). Credit: Yun Huang Yong from Harbord, Australia, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-drink-shandong-changyu-6443ebbb.jpg)
+
+Image: Guang Lu Di in Dabu. Built in 1908, former residence of Cheong Fatt Tze who was the founder of Changyu Wine (19324457523). Credit: Yun Huang Yong from Harbord, Australia, CC BY 2.0, via Wikimedia Commons.. Credit: Yun Huang Yong from Harbord, Australia, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=140102273)). Related image for Changyu Wine Culture Museum.

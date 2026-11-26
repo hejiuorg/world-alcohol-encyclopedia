@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:kagoshima
 source_lang: zh
-source_revision: sha256:2eb82421ddfde8a7eb0efbaee2d553758edfaf859d844438824e655e524ab185
-source_sha256: 2eb82421ddfde8a7eb0efbaee2d553758edfaf859d844438824e655e524ab185
+source_revision: sha256:13e708f50cddace0f7b11fd4d01b306b751f7d905aa23728bdb7e96907e60512
+source_sha256: 13e708f50cddace0f7b11fd4d01b306b751f7d905aa23728bdb7e96907e60512
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -175,3 +175,13 @@ Fifth, "sweet-potato shochu" is not the same as "honkaku shochu." Sweet-potato s
 - Tokyo Regional Taxation Bureau, "Materials on Shochu": https://www.nta.go.jp/about/organization/tokyo/sake/abc/abc-shochu.htm
 - Japan Sake and Shochu Makers Association, "Japanese Sake, Honkaku Shochu and Awamori": https://www.japansake.or.jp/honkaku/about/all/
 - Satsuma Shuzo, "Meijigura": https://www.meijigura.com/
+
+## Related images
+
+![Related photograph of Satsuma Shochu Meijigura](/media/photos/place-satsuma-shochu-meijigura-dc51a493.jpg)
+
+Image: Related photograph of Satsuma Shochu Meijigura. Credit: Sakaori ( talk ), CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Satsuma_Shuzo%27s_Kedogawa_Shochu_factory_and_museum,_Meijigura.JPG)). Related image for Kagoshima.
+
+![Category image for Japan](/media/photos/place-kamotsuru-a0074234.jpg)
+
+Image: Category image for Japan. Credit: OS6, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)). Related image for Kagoshima.

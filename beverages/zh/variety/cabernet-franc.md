@@ -73,6 +73,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 品丽珠
 
 品丽珠是法国[波尔多](ref:bordeaux)与卢瓦尔河谷的红葡萄品种，果皮较薄、成熟早于赤霞珠，单宁中等、香气外放，以覆盆子、紫罗兰、石墨与青椒气息著称。它是赤霞珠的亲本之一，在波尔多右岸与卢瓦尔河谷常用于单一品种或混酿。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 **并读。** 把「品丽珠」与「红葡萄酒」、「法国」、「波尔多」放在一起读时，先确认它们是同一层级还是上下游关系：先确认品种身份与允许产区，再比较成熟期、抗性、克隆与酿造表现。本页负责给出品种的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于品种本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「品丽珠」而言，品种表现随产区、气候与克隆选择变化；同名品种在不同国家可能指不同材料。
+
+## 相关图像
+
+![白马酒庄相关实景照片](/media/photos/drink-france-chateau-cheval-blanc-31ae585f.jpg)
+
+图：白马酒庄相关实景照片。图片：Benjamin Zingg, Switzerland，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)）。关联图像：品丽珠。

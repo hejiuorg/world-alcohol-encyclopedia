@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:scotch-whisky-excise
 source_lang: zh
-source_revision: sha256:e308f3fe7a1fc28fcfa49d4c85deff685aed32d5efa861bd0cf37fab3496b5fb
-source_sha256: e308f3fe7a1fc28fcfa49d4c85deff685aed32d5efa861bd0cf37fab3496b5fb
+source_revision: sha256:a0149038c271c5ab9f8c895304d1667830fa68f002967b09ff5dad9748f4f108
+source_sha256: a0149038c271c5ab9f8c895304d1667830fa68f002967b09ff5dad9748f4f108
 translation_status: reviewed
 aliases:
   - 苏格兰威士忌税史
@@ -153,3 +153,9 @@ Fourth, tax history is easily written as heroic narrative. The Duke of Gordon's 
 - [Scotch Whisky Association](ref:swa): the industry body and current rules.
 - [United Kingdom](ref:uk): UK alcohol taxation and trade background.
 - [Scotland](ref:scotland): the Scottish region and distilling tradition.
+
+## Related images
+
+![Category image for United Kingdom](/media/photos/route-london-gin-route-abe0a9c8.jpg)
+
+Image: Category image for United Kingdom. Credit: Decatur Wine & Spirits, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)). Related image for A Tax History of Scotch Whisky: From the 1644 Excise to the 1823 Excise Act.

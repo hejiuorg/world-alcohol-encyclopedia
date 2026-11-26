@@ -24,8 +24,8 @@ tags:
 translation_of: region:clare-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fb11c0d795b0d54849c060785cffd67c612cc96b498c5ff8fa637ce7d3105cdb
-source_sha256: fb11c0d795b0d54849c060785cffd67c612cc96b498c5ff8fa637ce7d3105cdb
+source_revision: sha256:c2ab6dc2608e482bdc72be596b6cca32466df6a8e904aca7d41150a7a91f48f2
+source_sha256: c2ab6dc2608e482bdc72be596b6cca32466df6a8e904aca7d41150a7a91f48f2
 related:
   - relation: about
     target_id: region:australia
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Clare Valley
 
 A narrow valley in the mid-north of South Australia, known for Riesling and Shiraz; slate, limestone and red soils, a wide diurnal range and old vines make it the core of Australian Riesling, with GI status in the 1990s.
@@ -160,3 +161,13 @@ Clare is about two hours north of Adelaide; Auburn is the southern gateway and S
 Clare Valley is a South Australian region known for Riesling from cool, high sites and for Shiraz; its wine is often picked early to keep acidity.
 
 The region also has a strong organic and biodynamic farming community.
+
+## Related images
+
+![Photograph for Australia: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-australia-968b262e.jpg)
+
+Image: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=9069567)). Related image for Clare Valley.
+
+![Riesling](/media/photos/variety-riesling-a836132e.jpg)
+
+Image: Riesling. Credit: No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)). Related image for Clare Valley.

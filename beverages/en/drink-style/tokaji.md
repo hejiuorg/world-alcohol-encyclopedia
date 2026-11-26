@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:tokaji
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:057527436f2315c40b566751fdcc2308f3b3e1f2570d6966de03eb788b995776
-source_sha256: 057527436f2315c40b566751fdcc2308f3b3e1f2570d6966de03eb788b995776
+source_revision: sha256:fc03b0ead699eedf196472fef06a7e82c48164452f8f9cb9667c1d938f938cb2
+source_sha256: fc03b0ead699eedf196472fef06a7e82c48164452f8f9cb9667c1d938f938cb2
 legacy_refs: []
 parent_style_id: drink-style:dessert-wine
 aroma_family: Honey / apricot / botrytis
@@ -80,6 +80,7 @@ rights:
   note: The lead image is a photograph of Vivamus Tokaji Aszú from Wikimedia Commons, used under CC BY-SA 3.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Tokaji
 
 Tokaji is the sweet wine of the [Tokaj region](ref:tokaj) in north-eastern Hungary, and one of the earliest sweet wine systems to be written into law. Its core is Aszú: botrytised grapes are picked by hand, macerated in base wine or fermenting must from the same vintage, then pressed, fermented and aged in oak for at least eighteen months. The result is a [wine](ref:wine) of honey, apricot and citrus peel, whose sweetness is carried by high acidity rather than by sugar alone.
@@ -145,3 +146,9 @@ Tokaji is the sweet wine of Hungary's Tokaj region, labelled by grams of residua
 | Aroma family | Honey / apricot / botrytis |
 
 **Sources and limits.** The key claims about Tokaji are checked against the following sources: Wines of Tokaj, Wines of Hungary (the history, terroir, varieties and extent of the Tokaj region; no original text is reproduced), European Union (protected designations of origin and wine labelling; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Furmint](/media/photos/variety-furmint-942bb30a.jpg)
+
+Image: Furmint. Credit: Andrs.kovacs, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Furmint_grape_cluster.jpg)). Related image for Tokaji.

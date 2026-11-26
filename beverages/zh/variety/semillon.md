@@ -72,6 +72,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 赛美蓉
 
 赛美蓉（Sémillon）是波尔多白葡萄酒的骨架品种，也是世界上最容易被低估的白葡萄之一。它果皮薄、酸度低、糖分积累快，既可以酿成干型白葡萄酒，也可以在贵腐菌作用下变成浓郁甜酒。它的风格不靠高酸或强烈芳香取胜，而是靠质地、蜂蜡感与陈年后的复杂性。
@@ -137,3 +138,9 @@ verification_scope: source-verified
 - [橡木桶陈年](ref:oak-ageing)：桶陈对赛美蓉质地的影响。
 
 相关条目：[白葡萄酒](ref:white-wine)、[法国](ref:france)、[滴金酒庄](ref:dyquem)。
+
+## 相关图像
+
+![长相思相关实景照片](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：赛美蓉。

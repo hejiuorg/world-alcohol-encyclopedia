@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:guizhou
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a9a4b5fad0bbf261a452a731c14ef8c5fc797649d4b393cbf45ff651a9d30cef
-source_sha256: a9a4b5fad0bbf261a452a731c14ef8c5fc797649d4b393cbf45ff651a9d30cef
+source_revision: sha256:9b18fad25724b03f36ff2f205177448361bb50e25eacee8f1a539ca30749b4a2
+source_sha256: 9b18fad25724b03f36ff2f205177448361bb50e25eacee8f1a539ca30749b4a2
 level: province
 parent_id: region:china
 country_code: CN
@@ -91,6 +91,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Guizhou
 
 Guizhou lies in south-west China, dominated by highlands, mountains and karst landscapes. Its drinks identity is almost inseparable from sauce-aroma baijiu: the Chishui River basin, Maotai town in Renhuai and the hot, humid river valley form the core production area. Guizhou also has other aroma types and local drinks, but sauce-aroma baijiu is its most nationally influential calling card.
@@ -176,3 +177,13 @@ Fifth, that sauce-aroma baijiu has no sweetness. It can have a sweet finish and 
 - [Sorghum](ref:sorghum), [wheat](ref:wheat) and [water](ref:water): the base materials of sauce-aroma baijiu.
 - [Qu making](ref:qu-making), [fermentation](ref:fermentation), [distillation](ref:distillation) and [blending](ref:blending): the core steps of sauce-aroma baijiu.
 - [Guizhou Moutai](ref:moutai): a representative sauce-aroma baijiu.
+
+## Related images
+
+![Moutai](/media/photos/drink-guizhou-moutai-d01115d5.jpg)
+
+Image: Moutai. Credit: 毕明明, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kweichow_Moutai_2023_Part_1.jpg)). Related image for Guizhou.
+
+![Editorial illustration of a wine blending trial: base wines compared in beakers, with a pipette for bench trials; AI-assisted illustration, not a photograph.](/media/photos/editorial-blending-q2.jpg)
+
+Image: Editorial illustration of a wine blending trial: base wines compared in beakers, with a pipette for bench trials; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Guizhou.

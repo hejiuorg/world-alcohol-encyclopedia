@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:the-connaught-bar
 source_lang: zh
-source_revision: sha256:b4ab456b492a8ee50c26bfd353572d01cb6617f166ff682b1321dd0c05e18644
-source_sha256: b4ab456b492a8ee50c26bfd353572d01cb6617f166ff682b1321dd0c05e18644
+source_revision: sha256:888bd2ef8d2bcbd1a8a8f27a16caa52fd62dc320300e82f9b2c04219eb129bb0
+source_sha256: 888bd2ef8d2bcbd1a8a8f27a16caa52fd62dc320300e82f9b2c04219eb129bb0
 translation_status: reviewed
 subtype: bar
 address: The Connaught, Carlos Place, London W1K 2AL, United Kingdom
@@ -142,3 +142,9 @@ For a London contrast, read American Bar at The Savoy, which grounds its identit
 Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2).
 
 For The Connaught Bar, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
+
+## Related images
+
+![Photograph for London classic bar walk: three hotel bars and a Fleet Street pub: Royal Opera House - Bow Street, London - statue (6446853425). Credit: Elliott Brown from Birmingham, United Kingdom, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-route-london-classic-bar-walk-dc34ac66.jpg)
+
+Image: three hotel bars and a Fleet Street pub: Royal Opera House - Bow Street, London - statue (6446853425). Credit: Elliott Brown from Birmingham, United Kingdom, CC BY 2.0, via Wikimedia Commons.. Credit: Elliott Brown from Birmingham, United Kingdom, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=22459244)). Related image for The Connaught Bar.

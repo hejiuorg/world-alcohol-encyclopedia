@@ -80,6 +80,7 @@ rights:
   note: 本页配图为 Flickr 的“Red Brick porter”实拍照片，按 CC BY 2.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 波特啤酒
 
 波特（porter）是 18 世纪伦敦兴起的一类深色上面发酵啤酒，以棕色麦芽和后来的烘焙麦芽带来烘烤、咖啡与可可风味。名称据称来自伦敦街头与市场的搬运工（porter），他们曾是这类酒的主要消费者。波特与世涛共享历史渊源，但二者在强度、甜度与配方上并不等同。
@@ -155,3 +156,9 @@ verification_scope: source-verified
 **适用边界。** 对「波特啤酒」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
 
 **更新提示。** 「波特啤酒」最近核对于 2026-11-05；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
+
+## 相关图像
+
+![世涛](/media/photos/drink-style-stout-5ced0da8.webp)
+
+图：世涛。图片：55belgianbeerfan，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)）。关联图像：波特啤酒。

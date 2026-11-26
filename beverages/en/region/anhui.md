@@ -11,8 +11,8 @@ revision: 3
 translation_of: region:anhui
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:367758169669653cc4617fa6ee3fe28440bb57d17edd93780b859831f26825b3
-source_sha256: 367758169669653cc4617fa6ee3fe28440bb57d17edd93780b859831f26825b3
+source_revision: sha256:091b4c8bd09341dafa9de6c079a85d7ff3be40ac3c5dd5d1fea1dcd596b6a4f3
+source_sha256: 091b4c8bd09341dafa9de6c079a85d7ff3be40ac3c5dd5d1fea1dcd596b6a4f3
 level: province
 parent_id: region:china
 country_code: CN
@@ -71,6 +71,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Anhui
 
 Anhui lies in eastern China, with the Yangtze and Huai rivers running west to east across the province and dividing it roughly into the Huaibei Plain, the Jianghuai hills and the mountainous south. Anhui is a major baijiu-producing province, with strong-aroma and mixed-aroma styles concentrated in the north; Gujing Town in Bozhou is the home of Gujing Gongjiu.
@@ -152,3 +153,13 @@ For Anhui, begin with the appellation and its permitted varieties. Then look at 
 - [Baijiu](ref:baijiu): the broad category, aroma types and basic process.
 - [Strong-aroma baijiu](ref:strong-aroma): the process and flavour framework of Anhui's main style.
 - [Gujing Gongjiu](ref:gujing): a representative brand of the Bozhou area.
+
+## Related images
+
+![Gujing Gongjiu](/media/photos/brand-gujing-gongjiu-ef9d4a5d.jpg)
+
+Image: Gujing Gongjiu. Credit: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Gujing_Gongjiu_at_a_supermarket_in_Beijing_(20241109164639).jpg)). Related image for Anhui.
+
+![Category image for China](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+Image: Category image for China. Credit: Gary Todd, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)). Related image for Anhui.

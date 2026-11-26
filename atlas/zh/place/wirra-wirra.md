@@ -83,6 +83,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与价格会变化，出行前以官网为准。"
 verification_scope: source-verified
 ---
+
 # 维拉维拉酒庄
 
 维拉维拉是麦克拉伦谷最会讲故事的酒庄之一：1894 年由前州板球手 Robert Strangways Wigley 建起铁石酒窖，1936 年后荒废；1969 年 Greg 与 Roger Trott 两兄弟把废墟重新点着，1972 年酿出第一瓶 Church Block。今天它仍是“正经酿酒、认真玩乐”这种澳洲性格的代表。
@@ -158,3 +159,9 @@ Church Block 适合十六到十八摄氏度，开瓶后二十到三十分钟即�
 - 相关条目：[mclaren-vale](ref:mclaren-vale)、[australia](ref:australia)、[red-wine](ref:church-block)、[syrah](ref:shiraz)、[cabernet-sauvignon](ref:cabernet)。
 - 本页不提供实时价格、菜单、品鉴费用或营业状态；参观前以酒庄官网与 Wine Australia 为准。
 - 想理解 Church Block 的演变，可以在品鉴时问清当年的混酿比例，再找一瓶 Original Blend Grenache Shiraz 做对照。
+
+## 相关图像
+
+![McLaren Vale：Trellised vines, Coriole Vineyard, McLaren Vale South Australia (6177503952)（Wikimedia Commons）](/media/photos/region-mclaren-vale-6de98a30.jpg)
+
+图：McLaren Vale：Trellised vines, Coriole Vineyard, McLaren Vale South Australia (6177503952)（Wikimedia Commons）。图片：Rexness from Melbourne, Australia，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Trellised_vines,_Coriole_Vineyard,_McLaren_Vale_South_Australia_(6177503952).jpg)）。关联图像：维拉维拉酒庄。

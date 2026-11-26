@@ -77,6 +77,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒种法规、标签与产区划分会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 安东
 
 韩国庆尚北道安东一带的传统烧酒产区，以稻米、酒曲与壶式蒸馏为核心；安东烧酒被指定为韩国重要无形文化遗产，酒精度高、米香与曲香浓郁，是韩国传统酒的代表之一。
@@ -158,3 +159,13 @@ verification_scope: source-verified
 **适用边界。** 对「安东」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「安东」最近核对于 2026-11-22；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![烧酒](/media/photos/drink-style-soju-8b1cabb3.jpg)
+
+图：烧酒。图片：Graham Hills，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Soju.jpg)）。关联图像：安东。
+
+![大米](/media/photos/ingredient-rice-0ee2019c.jpg)
+
+图：大米。图片：China News Service，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg)）。关联图像：安东。

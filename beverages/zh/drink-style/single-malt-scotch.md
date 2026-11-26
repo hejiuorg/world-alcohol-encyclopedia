@@ -83,6 +83,7 @@ rights:
   note: 第三方法规文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 单一麦芽苏格兰威士忌
 
 单一麦芽苏格兰威士忌（Single Malt Scotch Whisky）是[苏格兰威士忌](ref:scotch)五个法定类别之一：在同一家蒸馏厂内，用 100% 发芽大麦、以壶式蒸馏器分批蒸馏，并在苏格兰的橡木桶中陈年至少三年。它既不是“单一桶”，也不是“单一谷物”，更不是对所有苏格兰威士忌的统称。把这三个概念分开，是读懂酒标的第一步。
@@ -141,3 +142,9 @@ verification_scope: source-verified
 | 上位风格 | 苏格兰威士忌 |
 
 **来源与边界。** 本页关于「单一麦芽苏格兰威士忌」的关键事实，主要由以下来源交叉核对：UK Government (legislation.gov.uk)（单一麦芽苏格兰威士忌的法定定义、蒸馏与陈年门槛）、Scotch Whisky Association（苏格兰五个产区的划分与风格概述）、Glenfiddich Distillery（单一麦芽酒厂的产区定位与产品表达）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![壶式蒸馏器（pot still）](/media/photos/term-pot-still-665ffa28.jpg)
+
+图：壶式蒸馏器（pot still）。图片：see Source，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sjb_whiskey_still.jpg)）。关联图像：单一麦芽苏格兰威士忌。

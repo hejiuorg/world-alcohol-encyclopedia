@@ -155,3 +155,9 @@ verification_scope: source-verified
 - GB/T 2260-2007 中华人民共和国行政区划代码（国家标准化管理委员会，核对 2026-11-25）
 
 相关条目：[绵竹年画村](ref:village)、[绵竹剑南春路线](ref:route)、[剑南春](ref:brand)、[剑南春集团](ref:producer)、[浓香型白酒](ref:style)、[四川省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![“剑南春”页面配图：剑南春酒坊遗址国保碑。摄影：Nekitarc，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-brand-jiannanchun-47515a5f.jpg)
+
+图：剑南春酒坊遗址国保碑。摄影：Nekitarc，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Nekitarc，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=44292018)）。关联图像：剑南春酒坊遗址（天益老号）。

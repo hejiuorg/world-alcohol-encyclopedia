@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、壁画图像与引用文本不在本许可内；营业时间、音乐费、菜单与着装规则会变化，以酒店官方页面为准。
 verification_scope: source-verified
 ---
+
 # 贝梅尔曼斯酒吧
 
 贝梅尔曼斯酒吧（Bemelmans Bar）在纽约上东区卡莱尔酒店（The Carlyle）底层，地址是东 76 街 35 号。它 1947 年开业，名字来自奥地利裔美国插画家、作家路德维希·贝梅尔曼斯（Ludwig Bemelmans），也就是《玛德琳》（Madeline）系列的作者。酒吧四壁是他亲笔绘制的中央公园场景：溜冰者、马车、动物与孩子。白天它像一间安静的酒店酒吧，傍晚钢琴响起，入夜后爵士三重奏把房间变成上东区最典型的“夜色客厅”。
@@ -155,3 +156,9 @@ verification_scope: source-verified
 补充阅读：[A Ginjinha](ref:c-extra-1)。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[纽约历史酒馆路线：东村到格拉梅西](ref:ny-route)、[麦克索利老麦酒馆](ref:mcsorleys)。
+
+## 相关图像
+
+![纽约历史酒馆路线：东村到格拉梅西相关实景照片](/media/photos/route-new-york-historic-pubs-793f3455.jpg)
+
+图：纽约历史酒馆路线：东村到格拉梅西相关实景照片。图片：Beyond My Ken，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:86_Bedford_Street_door_to_Chumley%27s.jpg)）。关联图像：贝梅尔曼斯酒吧。

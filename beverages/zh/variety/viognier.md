@@ -69,6 +69,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 维欧尼
 
 维欧尼（Viognier）是法国北罗讷河谷的白葡萄品种，以孔德里约（Condrieu）最为著名。它的香气很有辨识度：杏、桃、金银花与柑橘皮，常被形容为“浓郁到近乎香水”。但它的酸度偏低、产量不稳定，种植与酿造都需要更谨慎的判断。它还是一个“几乎消失又被救回”的品种，这段历史直接影响今天的价格与种植分布。
@@ -144,3 +145,9 @@ verification_scope: source-verified
 | 代表产区 | 法国、罗讷河谷 |
 
 **来源与边界。** 本页关于「维欧尼」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Oxford University Press（提供关于维欧尼、孔德里约与混酿用法的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）、Inter Rhône（孔德里约与北罗讷的产区框架及维欧尼的种植情况；由原条目末尾参考资料迁移，未逐条复核访问日期）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![罗讷河谷](/media/photos/region-rhone-df823b9c.jpg)
+
+图：罗讷河谷。图片：Béa at French Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Thain1.jpg)）。关联图像：维欧尼。

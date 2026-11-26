@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:absinthe-ban-1915
 source_lang: zh
-source_revision: sha256:e90b69537422a00d3c4568b11d69aa209b4830538ddb3defea02ad2d447809fd
-source_sha256: e90b69537422a00d3c4568b11d69aa209b4830538ddb3defea02ad2d447809fd
+source_revision: sha256:440b60be7993c9c98dde31ccb89e61a9751c2452669589c2e52d6e82c7707f6b
+source_sha256: 440b60be7993c9c98dde31ccb89e61a9751c2452669589c2e52d6e82c7707f6b
 translation_status: reviewed
 legacy_refs: []
 date_text: August 1914–16 March 1915
@@ -88,6 +88,7 @@ rights:
   note: Third-party posters, trademarks and images are not covered by this licence; the image is in the public domain and is credited. Sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # The French Absinthe Ban of 1915: Science, War and the Wine Industry
 
 On 16 March 1915 France formally prohibited the production, circulation and sale of absinthe and similar liqueurs. Today the ban is often reduced to a scientific verdict: absinthe makes people mad. The history is far more complicated. The First World War, nationalism, an economic crisis in the wine industry, the temperance movement and medical fear of thujone all pushed the ban. Absinthe was not convicted by a single compound. It was turned into a symbol of national decline in a particular political and economic environment.
@@ -144,3 +145,9 @@ One: "Absinthe contains thujone, so it causes hallucinations." Thujone is toxic 
 | Date | August 1914–16 March 1915 |
 | Place | France |
 | Calendar | Gregorian |
+
+## Related images
+
+![Category image for "The French AOC System (1935): The Birth of Controlled Appellation of Origin"](/media/photos/place-cafe-procope-e1f880f0.jpg)
+
+Image: Category image for "The French AOC System (1935): The Birth of Controlled Appellation of Origin". Credit: Jean-Marie Hullot from France, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Le_Procope_1,_Paris_2010.jpg)). Related image for The French Absinthe Ban of 1915: Science, War and the Wine Industry.

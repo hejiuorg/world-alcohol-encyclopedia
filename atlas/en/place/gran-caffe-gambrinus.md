@@ -32,8 +32,8 @@ tags:
 translation_of: place:gran-caffe-gambrinus
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9aac430aad1de787f0e8a5b2d3f08d5267abd685514d325641a80ed3dca61b14
-source_sha256: 9aac430aad1de787f0e8a5b2d3f08d5267abd685514d325641a80ed3dca61b14
+source_revision: sha256:ee7c8c7b3e45e97e77f095f31d62e43f856dde61f0b47d9926d28fb7e9e933f2
+source_sha256: ee7c8c7b3e45e97e77f095f31d62e43f856dde61f0b47d9926d28fb7e9e933f2
 related:
   - relation: about
     target_id: place:antico-caffe-greco
@@ -146,3 +146,9 @@ Outside Gambrinus, Piazza del Plebiscito and the Royal Palace are directly oppos
 **Short definition:** Naples' Gran Caffè Gambrinus, on Via Chiaia, opened in 1860 and was rebuilt under the Gambrinus name in 1890; its Liberty stuccoes, mirrors and literary salons made it the city's drawing room after Italian unification.
 
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Gran Caffè Gambrinus is built.
+
+## Related images
+
+![The interior arcade of the Galleria Vittorio Emanuele II in Milan; Camparino occupies the northern arcade facing Piazza Duomo, and this photograph shows the Galleria's architecture and mosaic floor rather than the bar interior](/media/photos/place-camparino-in-galleria-cc66097d.jpg)
+
+Image: The interior arcade of the Galleria Vittorio Emanuele II in Milan; Camparino occupies the northern arcade facing Piazza Duomo, and this photograph shows the Galleria's architecture and mosaic floor rather than the bar interior. Credit: Dispe, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Galleria_Vittorio_Emanuele_II_di_Milano_-_Interno_-_Vista_da_un_piano_alto.JPG)). Related image for Gran Caffè Gambrinus.

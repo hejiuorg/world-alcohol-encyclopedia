@@ -82,6 +82,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 澳大利亚
 
 澳大利亚是南半球重要的葡萄酒生产国，产区集中在南部沿海与东南部。它的葡萄酒以成熟果味、清晰的品种表达与稳定的品质著称，西拉、雷司令与霞多丽都有国际影响。与欧洲不同，澳大利亚的产区标识采用 GI 体系，理解 GI 与酒标的关系，是阅读澳大利亚葡萄酒的起点。
@@ -176,3 +177,13 @@ verification_scope: source-verified
 - [奔富葛兰许](ref:grange)与[奔富 Bin 389](ref:bin389)：西拉混酿的代表酒款。
 - [橡木桶陈年](ref:oak-ageing)：澳大利亚红葡萄酒的桶陈传统。
 - [加强酒](ref:fortified)：澳大利亚甜型加强酒的类型。
+
+## 相关图像
+
+![奔富葛兰许相关实景照片](/media/photos/drink-australia-penfolds-grange-b6a4cf97.jpg)
+
+图：奔富葛兰许相关实景照片。图片：Rexness，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Penfold%27s_Grange_(4553358229).jpg)）。关联图像：澳大利亚。
+
+![雷司令](/media/photos/variety-riesling-a836132e.jpg)
+
+图：雷司令。图片：No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)）。关联图像：澳大利亚。

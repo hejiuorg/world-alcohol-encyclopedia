@@ -71,6 +71,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 白诗南
 
 白诗南（Chenin Blanc）是卢瓦尔河谷最具代表性的白葡萄品种，也是世界上最“多面”的白葡萄之一：同一个品种可以酿成干型、半干、甜型、贵腐甜酒与起泡酒。它的高酸度像一条骨架，支撑起从青苹果到蜂蜜、从榅桲到湿羊毛的宽阔风味谱。理解白诗南，关键是理解酸度、成熟度与残糖三者如何被酒农主动选择。
@@ -145,3 +146,9 @@ DNA 研究显示，白诗南是萨瓦涅（Savagnin）与一个未知品种的�
 | 代表产区 | 法国 |
 
 **来源与边界。** 本页关于「白诗南」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、InterLoire（卢瓦尔河谷白诗南的品种地位与武弗雷等产区框架；由原条目末尾参考资料迁移，未逐条复核访问日期）、Oxford University Press（提供关于白诗南、武弗雷与南非 Steen 的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![武弗雷](/media/photos/drink-france-vouvray-6ecace6d.jpg)
+
+图：武弗雷。图片：Croquant，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vouvray_%C3%A9glise.jpg)）。关联图像：白诗南。

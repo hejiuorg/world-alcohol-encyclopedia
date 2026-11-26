@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:quinta-do-crasto
 source_lang: zh
-source_revision: sha256:80ad6282391408e202687ee1bed38b8f5decde626947cf40f2369049c4459f81
-source_sha256: 80ad6282391408e202687ee1bed38b8f5decde626947cf40f2369049c4459f81
+source_revision: sha256:36ce60e813316a4719815c8f6c8b7dfe2d2cef66e4885ed9bf792bf510ff92fe
+source_sha256: 36ce60e813316a4719815c8f6c8b7dfe2d2cef66e4885ed9bf792bf510ff92fe
 translation_status: reviewed
 subtype: winery-visitor
 address: Quinta do Crasto, Gouvinhas, 5060-063 Sabrosa, Portugal
@@ -166,3 +166,9 @@ For routing, staying in Pinhão or Vila Real is more relaxed than a day trip fro
 Crasto puts the schist slopes of the [Douro](ref:douro), [wine](ref:wine) and [fortified wine](ref:fortified) on one visitor route. For the region's place in the wider story, read [the history of world wine](ref:wine-history).
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Fortified wine](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+Image: Fortified wine. Credit: Jon Sullivan, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)). Related image for Quinta do Crasto.

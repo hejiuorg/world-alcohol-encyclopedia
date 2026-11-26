@@ -69,6 +69,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。等级年限以现行法规与标签为准。
 verification_scope: source-verified
 ---
+
 # 干邑
 
 干邑是法国西部夏朗德地区的葡萄白兰地产区，也是以该地区为中心的葡萄白兰地类别名。它以白玉霓葡萄为主，经二次壶式[蒸馏](ref:distillation)后在法国橡木桶中陈年，形成以最低酒龄划分的 VS、VSOP、XO 等级。
@@ -150,3 +151,13 @@ verification_scope: source-verified
 **更新提示。** 「干邑」最近核对于 2026-11-05；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
 
 **编者注。** 本页把「干邑」作为产区条目处理：定义、流程与关键数字以正文表格为准，与「法国」、「白兰地」的差异用对照阅读验证；遇到价格、批次或地址，回到页面所列来源核对。
+
+## 相关图像
+
+![白兰地](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+图：白兰地。图片：Didier Descouens，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)）。关联图像：干邑。
+
+![橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。](/media/photos/editorial-oak-ageing-q2.jpg)
+
+图：橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：干邑。

@@ -77,6 +77,7 @@ rights:
   note: 第三方协会页面、地方史网站与法规文本仅作事实核对，不复制其文案与图表；图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 苏格兰威士忌税史：从 1644 年消费税到 1823 年《消费税法》
 
 1644 年，苏格兰议会首次对威士忌征税，由此开启了长达 150 余年的私酿与走私时代。到 1820 年代，每年被查获的私酿蒸馏器多达 1.4 万座，超过一半的威士忌没有纳税。1823 年 7 月 18 日通过的《消费税法》改变了方向：它没有继续加码禁令，而是用 10 英镑执照费与按加仑计税，让合法蒸馏变得有利可图。这一转向通常被视为现代苏格兰威士忌产业的起点。
@@ -156,3 +157,9 @@ verification_scope: source-verified
 - [苏格兰](ref:scotland)：苏格兰产区与蒸馏传统。
 
 相关条目：[英国](ref:uk)、[苏格兰](ref:scotland)、[威士忌](ref:whisky)。
+
+## 相关图像
+
+![英国类别配图](/media/photos/route-london-gin-route-abe0a9c8.jpg)
+
+图：英国类别配图。图片：Decatur Wine & Spirits，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)）。关联图像：苏格兰威士忌税史：从 1644 年消费税到 1823 年《消费税法》。

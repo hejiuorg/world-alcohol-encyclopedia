@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 果啤
 
 果啤是以水果或果汁参与风味形成的啤酒大类，横跨比利时水果兰比克、德国小麦混饮、英美果味艾尔与果味酸啤；水果可在糖化、煮沸、主发酵、二次发酵或装瓶前加入，风格从清爽低度的混饮到酸香复杂的陈年兰比克都有。
@@ -147,3 +148,9 @@ verification_scope: source-verified
 与果啤相近的风格通常共享原料或工艺，而不是香气：[兰比克](ref:lambic)代表自发发酵的酸香传统，[啤酒](ref:beer)是所有果味产品的基底框架，[葡萄](ref:ingredient)在部分果啤与葡萄艾尔中直接作为原料出现，[发酵](ref:fermentation)阶段决定水果糖分与酸感的去向，[比利时](ref:belgium)则是传统水果兰比克的产地背景。学习一类风格，可以先喝最标准的基准款，再试一个改原料或工艺的变体，最后接触一个极端款式，三步之后风格边界会比读定义更清楚。
 
 - 相关条目：[beer](ref:beer)、[lambic](ref:lambic)、[fermentation](ref:fermentation)、[grape](ref:ingredient)、[belgium](ref:belgium)。
+
+## 相关图像
+
+![兰比克](/media/photos/drink-style-lambic-e4a01a2a.jpg)
+
+图：兰比克。图片：Paul Hermans at Dutch Wikipedia，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bieren_uit_de_streek_rond_brussel.jpg)）。关联图像：果啤。

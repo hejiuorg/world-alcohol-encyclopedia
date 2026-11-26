@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:rhum-agricole
 source_lang: zh
-source_revision: sha256:f7604c68e90a8675188ae0fb8781d70125a7320bb0d0d583ff8c556ac93654b7
-source_sha256: f7604c68e90a8675188ae0fb8781d70125a7320bb0d0d583ff8c556ac93654b7
+source_revision: sha256:591d09f0a60ef5c174ba185599d1f6aad9e0f518d0c7eb2f08f0353c873933d0
+source_sha256: 591d09f0a60ef5c174ba185599d1f6aad9e0f518d0c7eb2f08f0353c873933d0
 translation_status: reviewed
 legacy_refs: []
 parent_style_id: drink-style:rum
@@ -83,6 +83,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Rhum Agricole
 
 Rhum agricole is [rum](ref:rum) made from fresh sugarcane juice that is fermented and distilled directly. It shares the cane starting point with common molasses rum, then parts company at the first step: in sugar mills, cane is crystallised for sugar and the leftover molasses is fermented and distilled, the industrial rum route; rhum agricole sends the freshly pressed juice straight to the fermenter to preserve the field character of the cane.
@@ -144,3 +145,9 @@ Cachaça is Brazil's cane spirit, usually fermented from cane juice and distille
 | Aroma family | herbal/fruit/floral |
 
 **Sources and limits.** The key claims about Rhum Agricole are checked against the following sources: Rhums AOC Martinique (the Martinique AOC rules, raw material, distillation and ageing requirements), Martinique Tourism Authority (the agricultural rum tradition and the 1996 AOC date), European Union (the rum category, the cane-juice requirement for agricultural rum and the GI framework) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Cachaça](/media/photos/drink-style-cachaca-74382ef5.jpg)
+
+Image: Cachaça. Credit: Tom Tom at German Wikipedia, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cachaca.JPG)). Related image for Rhum Agricole.

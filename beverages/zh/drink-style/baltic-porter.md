@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 波罗的海波特
 
 波罗的海沿岸以拉格酵母酿造的深色高酒精度啤酒，带黑巧克力、焦糖、干果与甘草；与英式波特同源，但工艺更接近帝国世涛。
@@ -146,3 +147,9 @@ verification_scope: source-verified
 | 上位风格 | 波特啤酒 |
 
 **来源与边界。** 本页关于「波罗的海波特」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（啤酒风格的定义、参数与典型特征）、Brewers Association（美国啤酒风格、原料与行业分类）、CAMRA（英国传统啤酒与艾尔风格）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。](/media/photos/drink-style-porter-241ce00e.jpg)
+
+图：一瓶 Red Brick Porter 与一杯深色酒液，杯口有米色泡沫。。图片：Erik Cleves Kristensen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6175146624)）。关联图像：波罗的海波特。

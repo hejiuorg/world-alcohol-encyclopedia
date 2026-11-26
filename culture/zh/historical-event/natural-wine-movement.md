@@ -78,6 +78,7 @@ rights:
   note: 第三方章程文本、标识、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 自然酒运动：从博若莱的试验到 2020 年标签
 
 自然酒（vin naturel）通常指尽量少干预的葡萄酒：葡萄来自有机或生态种植，使用原生酵母，不添加酿造辅料，也不做过滤、离心或热处理；硫的用量被压到极低，甚至完全不加。这套做法在 20 世纪后半叶由法国博若莱的一小群酿酒者反复试验，逐渐从地方实践变成国际潮流；2020 年，它第一次有了受法国国家承认的标签名称“Vin Méthode Nature”。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 | 时间 | 1970 年代至 2020 年 |
 | 地点 | 法国 |
 | 历法 | 公历 |
+
+## 相关图像
+
+![项目配图：香槟区划界（1927）：地名、地块与一场划界战争](/media/photos/historical-event-champagne-riots-1911-fde5507b.jpg)
+
+图：项目配图：香槟区划界（1927）：地名、地块与一场划界战争。图片：Agence Rol，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Apr%C3%A8s_le_pillage_d%27Ay,_avril_1911_-_btv1b69160215.jpg)）。关联图像：自然酒运动：从博若莱的试验到 2020 年标签。

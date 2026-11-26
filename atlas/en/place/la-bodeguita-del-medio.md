@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:la-bodeguita-del-medio
 source_lang: zh
-source_revision: sha256:27d53e44ce66cb8393e41a16471d2b0959b9d4eaf3fe10d4f9700c0f8547f3bd
-source_sha256: 27d53e44ce66cb8393e41a16471d2b0959b9d4eaf3fe10d4f9700c0f8547f3bd
+source_revision: sha256:f72366fdb33d6900ad581103e264c6a49072f66173c486d05a1defa720f882f3
+source_sha256: f72366fdb33d6900ad581103e264c6a49072f66173c486d05a1defa720f882f3
 translation_status: reviewed
 subtype: pub
 address: Calle Empedrado 207, entre Cuba y San Ignacio, La Habana Vieja, La Habana 10100, Cuba
@@ -86,6 +86,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # La Bodeguita del Medio
 
 La Bodeguita del Medio (Bàntú Xiǎojiǔguǎn) stands at Calle Empedrado 207 in Old Havana, between Cuba and San Ignacio streets, barely a hundred metres from the Havana Cathedral. It opened in 1942, but not as a bar. It was a small grocery called “La Complaciente,” bought by the Cuban Ángel Martínez Borroto and renamed “Casa Martínez.” The shop sold everyday goods and occasionally cooked for regulars. The name means “the little grocery in the middle of the block,” and that modest origin explains the room better than the “Hemingway bar” label: narrow, old, and covered in signatures and photographs.
@@ -131,3 +132,9 @@ To understand where such bars sit in the city, read [Pub and city](ref:pub-and-c
 To read La Bodeguita del Medio, start with the address, then the current opening status, then what the place is known for; no single check settles it.
 
 [Reading a city through its bars](ref:pub-and-city)'s address and space and [Rum](ref:rum)'s operating status form a useful pair: the contrast shows where one ends and the other begins.
+
+## Related images
+
+![Mojito](/media/photos/cocktail-mojito-95e6d248.jpg)
+
+Image: Mojito. Credit: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0072.jpg)). Related image for La Bodeguita del Medio.

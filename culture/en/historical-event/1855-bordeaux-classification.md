@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:1855-bordeaux-classification
 source_lang: zh
-source_revision: sha256:8e49bb8379dc0a1e0b858a239389f0133fbbb9759eb668bd30561d085737536b
-source_sha256: 8e49bb8379dc0a1e0b858a239389f0133fbbb9759eb668bd30561d085737536b
+source_revision: sha256:a78904daa9c0e1a70a0198aea8689c7a7d8c5f7f2d70c2928f614f44b782f555
+source_sha256: a78904daa9c0e1a70a0198aea8689c7a7d8c5f7f2d70c2928f614f44b782f555
 translation_status: reviewed
 aliases:
   - 1855分级
@@ -165,3 +165,9 @@ A more reliable reading is to see the list as a commercial archive of 19th-centu
 - [Lafite](ref:lafite): a first growth's place in the list and the market.
 - [Cabernet Sauvignon](ref:cabernet-sauvignon): the main red variety of the Médoc.
 - [Terroir](ref:terroir): the relationship between plots, climate and quality.
+
+## Related images
+
+![Château Lafite Rothschild](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+Image: Château Lafite Rothschild. Credit: PA, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)). Related image for The 1855 Bordeaux Classification: A List Produced for a World's Fair.

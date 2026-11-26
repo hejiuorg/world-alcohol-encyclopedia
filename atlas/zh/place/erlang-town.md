@@ -155,3 +155,9 @@ verification_scope: source-verified
 - GB/T 2260-2007 中华人民共和国行政区划代码（国家标准化管理委员会，核对 2026-11-25）
 
 相关条目：[郎酒庄园](ref:estate)、[古蔺郎酒路线](ref:route)、[贵州省](ref:region)、[中国](ref:regioncn)、[酱香型白酒](ref:style)、[郎酒](ref:brand)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![贵州省](/media/photos/region-guizhou-b13939f2.jpg)
+
+图：贵州省。图片：Huangdan2060，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)）。关联图像：二郎镇（古蔺）。

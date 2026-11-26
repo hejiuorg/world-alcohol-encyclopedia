@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:chateau-de-laubade
 source_lang: zh
-source_revision: sha256:f9cb8e5cffa13b94e3abc1d66af7a86cde12d2c3adca56f76596ca2b6e8e7793
-source_sha256: f9cb8e5cffa13b94e3abc1d66af7a86cde12d2c3adca56f76596ca2b6e8e7793
+source_revision: sha256:3c3f51d8edd9d7c4e52761fa424c811d0577a51d891cf2bd64b315113a29b8e7
+source_sha256: 3c3f51d8edd9d7c4e52761fa424c811d0577a51d891cf2bd64b315113a29b8e7
 translation_status: reviewed
 subtype: winery-visitor
 address: Château de Laubade, 32110 Sorbets, France
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; visit times, prices and formats change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Château de Laubade
 
 Château de Laubade is a single-estate Armagnac property in Bas-Armagnac, at Sorbets in the Gers, built in 1870, with 80 hectares of vines in one block around the château and three generations of the Lesgourgues family behind it. It is known for the tawny sands of Bas-Armagnac, for estate bottling and for vintage Armagnac: each eau-de-vie is aged separately by grape variety and year, and every bottle carries a bottling date and batch number. Those three points make it a different kind of visit from a large blending house.
@@ -141,3 +142,9 @@ That also sets limits: in a poor vintage, or one whose style does not fit, there
 **At a glance:** A single-estate Bas-Armagnac property in Sorbets, Gers, built in 1870 with 80 hectares in one block, known for tawny sand soils, a continuous still built in 1974, some 3,000 casks and estate-bottled vintage Armagnac.
 
 For Château de Laubade, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
+
+## Related images
+
+![Armagnac](/media/photos/region-armagnac-e5e16174.jpg)
+
+Image: Armagnac. Credit: Rama, CC BY-SA 2.0 fr, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Armagnac-img_0465.jpg)). Related image for Château de Laubade.

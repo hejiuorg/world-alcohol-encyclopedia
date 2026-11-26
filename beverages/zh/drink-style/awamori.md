@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 泡盛
 
 泡盛的配方短得惊人：米、黑曲、水，加酵母。它没有二次仕込み，没有连续蒸馏，也不靠低温慢慢磨香。可是这套简单的流程在冲绳的高温高湿里运行了几百年，还长出一条别的日本蒸馏酒少有的传统——把酒封进陶坛，等上三年、十年、三十年，变成“古酒”。
@@ -155,3 +156,9 @@ verification_scope: source-verified
 - [日本](ref:japan)：冲绳与日本酒类的地理背景。
 
 相关条目：[日本烧酒](ref:shochu)。
+
+## 相关图像
+
+![奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。](/media/photos/drink-style-shochu-f0b3c090.jpg)
+
+图：奄美黑糖烧酒（kokuto shochu）的瓶装样品，是日本烧酒的一个产地类型。。图片：Hhaithait，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bottled_amami_kokuto_shochu.jpg)）。关联图像：泡盛。

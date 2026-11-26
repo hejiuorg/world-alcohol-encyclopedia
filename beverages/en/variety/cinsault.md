@@ -22,8 +22,8 @@ tags:
 translation_of: variety:cinsault
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ca6c5a977af455e202c6aba260c44916d61c4faebf0e56af054bb23708568ef7
-source_sha256: ca6c5a977af455e202c6aba260c44916d61c4faebf0e56af054bb23708568ef7
+source_revision: sha256:d1106283e8bfa105e233dd585a9055382752009caca3c80bb9f4c9e5e4ac41f8
+source_sha256: d1106283e8bfa105e233dd585a9055382752009caca3c80bb9f4c9e5e4ac41f8
 related:
   - relation: about
     target_id: region:provence
@@ -153,3 +153,9 @@ On the label, separate rosé from dry red, single variety from blend, and note r
 
 - Related: [provence](ref:provence), [grenache](ref:grenache), [rose-wine](ref:rose), [red-wine](ref:red), [terroir](ref:terroir).
 - To compare blend and single-variety expressions, taste a Provence rosé alongside a South African old-vine Cinsault red and contrast fruit concentration, tannin texture and floral presence.
+
+## Related images
+
+![Provence](/media/photos/region-provence-bc066643.jpg)
+
+Image: Provence. Credit: Robert Brink, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg)). Related image for Cinsault.

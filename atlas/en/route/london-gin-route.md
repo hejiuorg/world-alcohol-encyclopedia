@@ -23,8 +23,8 @@ tags:
 translation_of: route:london-gin-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9fa9c1c047f3335684585891a2de76666fd2971369e2de2fd82af1ad96c9fede
-source_sha256: 9fa9c1c047f3335684585891a2de76666fd2971369e2de2fd82af1ad96c9fede
+source_revision: sha256:b30a8c2510e6c7325e12e2bd78008e85f6d0c6886672cabff51330e81f388d3f
+source_sha256: b30a8c2510e6c7325e12e2bd78008e85f6d0c6886672cabff51330e81f388d3f
 related:
   - relation: about
     target_id: place:american-bar-savoy
@@ -80,6 +80,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-21
 ---
+
 # London Gin Route
 
 This route reads London gin through two bars: the American Bar at The Savoy for the late-nineteenth-century to 1930s cocktail tradition, and Dukes Bar in St James’s for a tableside martini that has become a London ritual. The walk is about 1.5 kilometres; the point is not how many glasses but how the same London dry gin is treated in two very different rooms.
@@ -139,3 +140,13 @@ This route does not draw a map or provide live prices; hours, booking rules and 
 **Short definition:** Two classic bars in Mayfair and St James anchor a reading of London gin from eighteenth-century distillation laws to the modern gin and tonic; the point is not how many glasses, but how menus turn juniper, citrus and spice into different styles.
 
 Start with the order of stops. From there, consider the distance and opening hours, then whether it works as a fixed itinerary. That is how a practical judgment about London Gin Route is built.
+
+## Related images
+
+![Gin](/media/photos/drink-style-gin-abe0a9c8.jpg)
+
+Image: Gin. Credit: Decatur Wine & Spirits, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)). Related image for London Gin Route.
+
+![Vermouth](/media/photos/drink-style-vermouth-01fdb889.jpg)
+
+Image: Vermouth. Credit: Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Four_bottles_of_vermouth.jpg)). Related image for London Gin Route.

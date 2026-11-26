@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:dalwhinnie-distillery
 source_lang: zh
-source_revision: sha256:594f5b058b5db4a07ef8b20a5e69cb790445f05626aad32e8643c1205c054b63
-source_sha256: 594f5b058b5db4a07ef8b20a5e69cb790445f05626aad32e8643c1205c054b63
+source_revision: sha256:05a69470084baec9a69e1f8c4cb604e0a6ae7bd58b07f1d011bfcd07669e0465
+source_sha256: 05a69470084baec9a69e1f8c4cb604e0a6ae7bd58b07f1d011bfcd07669e0465
 translation_status: reviewed
 subtype: distillery-visitor
 address: Dalwhinnie, Inverness-shire PH19 1AA, Scotland
@@ -113,6 +113,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, tour prices and winter road conditions change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Dalwhinnie Distillery
 
 Dalwhinnie sits beside the A9 between Perth and Inverness, on the edge of Cairngorms National Park. The village stands about 355 metres above sea level, and the distillery officially calls itself one of Scotland's highest and coldest. There is no sea salt here and no dense cluster of Speyside neighbours; the style comes from Highland water, light peat and an unusual piece of cooling equipment.![Dalwhinnie Distillery category image](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
@@ -166,3 +167,9 @@ Start with [Single Malt Scotch Whisky](ref:single-malt) for address and space, t
 | City and country | Dalwhinnie / United Kingdom |
 | Status | verified open |
 | Official site | malts.com |
+
+## Related images
+
+![Single Malt Scotch Whisky](/media/photos/drink-style-single-malt-scotch-9e96a856.jpg)
+
+Image: Single Malt Scotch Whisky. Credit: Sansvase, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)). Related image for Dalwhinnie Distillery.

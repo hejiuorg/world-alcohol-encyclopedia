@@ -38,8 +38,8 @@ tags:
 translation_of: place:taittinger
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:da486669c4422c6444c8f52f29e75d92b94c35baab7abc347aa2c4d54728e5dc
-source_sha256: da486669c4422c6444c8f52f29e75d92b94c35baab7abc347aa2c4d54728e5dc
+source_revision: sha256:a5249de8f2fc4c06a94d4917bf1c254b648ff9d18e4098fb9638e23dc15bd1e0
+source_sha256: a5249de8f2fc4c06a94d4917bf1c254b648ff9d18e4098fb9638e23dc15bd1e0
 related:
   - relation: about
     target_id: place:krug
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; tours, restaurant and prices may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Champagne Taittinger
 
 In the Saint-Nicaise courtyard in Reims, chalk walls and nineteenth-century buildings sit against one another. This was the Abbey of Saint-Nicaise, destroyed in the French Revolution, but its chalk pits survived; today they belong to Taittinger and age the most precious Comtes de Champagne. Taittinger’s story has two lines: a Reims wine firm that began in 1734, and the Taittinger family that arrived in Champagne in 1932. The two meet at Saint-Nicaise.
@@ -153,3 +154,9 @@ For two days, split Taittinger from [Bollinger](ref:bollinger) or [Krug](ref:kru
 **At a glance:** A family-owned Champagne house at Saint-Nicaise in Reims, tracing its origins to the Forest-Fourneaux firm of 1734 and taken over by Pierre Taittinger in 1932. It farms about 288 hectares across 37 crus; its cellars lie 18 metres underground within the UNESCO Champagne hillsides, houses and cellars; Comtes de Champagne was first made in 1952.
 
 Champagne Taittinger is best approached through the address, then the current opening status, and then what the place is known for. One check alone will not settle it.
+
+## Related images
+
+![Photograph for Avenue de Champagne, Épernay: Avenue de champagne épernay 1409027. Credit: G.Garitan, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-place-avenue-de-champagne-77370346.jpg)
+
+Image: Avenue de champagne épernay 1409027. Credit: G.Garitan, CC BY-SA 4.0, via Wikimedia Commons.. Credit: G.Garitan, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=121135039)). Related image for Champagne Taittinger.

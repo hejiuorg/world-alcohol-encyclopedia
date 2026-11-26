@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:wang-bao-he
 source_lang: zh
-source_revision: sha256:a59df39a3fd8ec6259b7e70c22a9db778124bf31a80d08519e9f689c78fbe452
-source_sha256: a59df39a3fd8ec6259b7e70c22a9db778124bf31a80d08519e9f689c78fbe452
+source_revision: sha256:df10a5dacb9134b75bf090f05d2cbf2328bed0309cbf85c2e24bd0d7aec2a7c5
+source_sha256: df10a5dacb9134b75bf090f05d2cbf2328bed0309cbf85c2e24bd0d7aec2a7c5
 translation_status: reviewed
 subtype: pub
 address: 603 Fuzhou Road, Huangpu District, Shanghai 200001, China
@@ -173,3 +173,9 @@ Fuzhou Road carries heavy traffic and parking at the door is difficult; in crab 
 - [Luzhou Laojiao cellars](ref:luzhou): a living strong-aroma baijiu site in Sichuan, a contrast with Jiangnan yellow wine.
 - [Shuijingfang Museum](ref:shuijingfang): a Chengdu baijiu site museum, another Chinese drinks-space narrative.
 - [Pubs and the city](ref:pub-and-city): how restaurants and taverns use space, menus and opening hours to organise city life.
+
+## Related images
+
+![A traditional distillation apparatus at the Luzhou Laojiao distillery](/media/photos/place-luzhou-laojiao-cellars-0e97e137.jpg)
+
+Image: A traditional distillation apparatus at the Luzhou Laojiao distillery. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)). Related image for Wang Bao He.

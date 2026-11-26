@@ -94,8 +94,8 @@ verification_scope: source-verified
 translation_of: place:chateau-latour
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3cb3392ddf8301aebb51c34af432c00c0af789d12aa8a9e42144b1ccd1a111ca
-source_sha256: 3cb3392ddf8301aebb51c34af432c00c0af789d12aa8a9e42144b1ccd1a111ca
+source_revision: sha256:0600fbe991f5308b7312136930c40437bbd970a7176cdb6cd292597f08ebce27
+source_sha256: 0600fbe991f5308b7312136930c40437bbd970a7176cdb6cd292597f08ebce27
 ---
 
 # Château Latour
@@ -166,4 +166,10 @@ To switch sides, go to [Cheval Blanc](ref:cheval) and [Pétrus](ref:petrus) for 
 - Left Bank comparisons: [Margaux](ref:margaux), [Lafite](ref:lafite), [Mouton](ref:mouton), [Haut-Brion](ref:hautbrion), [left-bank trail](ref:route).
 - Right Bank comparisons: [Cheval Blanc](ref:cheval), [Pétrus](ref:petrus), [Bordeaux region](ref:bordeaux).
 
-**In brief:** A Médoc first growth in Pauillac, documented from 1331 as a fortified tower at Saint-Maubert. The 96.5-hectare vineyard includes the 47-hectare Enclos around the château, only about 300 metres from the Gironde estuary; old-vine Cabernet Sauvignon on gravel over clay gives the wine its structural, long-lived style. François Pinault’s Artémis acquired the estate in 1993, and since 2012 Latour has not sold its wine en primeur. 
+**In brief:** A Médoc first growth in Pauillac, documented from 1331 as a fortified tower at Saint-Maubert. The 96.5-hectare vineyard includes the 47-hectare Enclos around the château, only about 300 metres from the Gironde estuary; old-vine Cabernet Sauvignon on gravel over clay gives the wine its structural, long-lived style. François Pinault’s Artémis acquired the estate in 1993, and since 2012 Latour has not sold its wine en primeur.
+
+## Related images
+
+![Château Lafite Rothschild](/media/photos/place-chateau-lafite-rothschild-22829880.jpg)
+
+Image: Château Lafite Rothschild. Credit: PA, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)). Related image for Château Latour.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fontanafredda
 source_lang: zh
-source_revision: sha256:31a8337f0375de2bff4f6cdaa9010881323c903e8eb72fdaa6de1208d53ce7fa
-source_sha256: 31a8337f0375de2bff4f6cdaa9010881323c903e8eb72fdaa6de1208d53ce7fa
+source_revision: sha256:9c9d10a46dc9f625fc3d654626dc460d4d2b60559785baad358de69f28fb756e
+source_sha256: 9c9d10a46dc9f625fc3d654626dc460d4d2b60559785baad358de69f28fb756e
 translation_status: reviewed
 subtype: winery-visitor
 address: Via Alba 15, 12050 Serralunga d'Alba (CN), Italy
@@ -90,6 +90,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, experience products and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Fontanafredda
 
 Fontanafredda, in Serralunga d'Alba, is one of the few Barolo estates that can put a royal story, large-scale organic farming and a visitable village on the same itinerary. Its official account dates the beginning to 1858: the relationship between Vittorio Emanuele II, the first king of Italy, and Rosa Vercellana later became an agricultural and wine estate. Today the vineyards cover about 120 hectares, all certified organic, and cellar visits are handled through the "storytelling village", Villaggio Narrante.
@@ -158,3 +159,9 @@ The comparison with [Nebbiolo](ref:nebbiolo) and [Oak ageing](ref:oak) runs thro
 - [Barolo DOCG — Langhe consortium](https://www.langhevini.it/le-denominazioni-tutelate-dal-consorzio/barolo-docg/): 11 communes, ageing and Riserva rules.
 
 Further reading: [Piedmont](ref:c-extra-1).
+
+## Related images
+
+![Photograph for Piedmont: Piedmont vineyard in autumn. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-piedmont-86c6d640.jpg)
+
+Image: Piedmont vineyard in autumn. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=5816942)). Related image for Fontanafredda.

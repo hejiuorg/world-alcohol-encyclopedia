@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:qing-huangjiu
 source_lang: zh
-source_revision: sha256:e122fa80d7aae1f4775f2a454084d1d31f1df20935336725f500e64963bce1c7
-source_sha256: e122fa80d7aae1f4775f2a454084d1d31f1df20935336725f500e64963bce1c7
+source_revision: sha256:451617d1a3a21ff889ae0b3f87cb2a18285dfb0a19f818f56bff859d6fc28e59
+source_sha256: 451617d1a3a21ff889ae0b3f87cb2a18285dfb0a19f818f56bff859d6fc28e59
 translation_status: reviewed
 aliases:
   - 清代黄酒
@@ -150,3 +150,9 @@ To read Qing Huangjiu, start with the date and setting, then the documented cons
 - [China](ref:china): background on the regions and categories of Chinese alcohol.
 
 Further reading: [The 1855 Bordeaux Classification: A List Produced for a World's Fair](ref:c-extra-1). It is a useful contrast: Bordeaux ranked châteaux, while Qing huangjiu was organised by grain, qu and guild.
+
+## Related images
+
+![Category image for "The 1855 Bordeaux Classification: A List Produced for a World's Fair"](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
+
+Image: Category image for "The 1855 Bordeaux Classification: A List Produced for a World's Fair". Credit: Benjamin Zingg, Switzerland, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)). Related image for Qing Huangjiu: Shaoxing Wine Reaches the Whole Country.

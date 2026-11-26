@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1840
 ---
+
 # A Ginjinha
 
 Largo de São Domingos 的西北角，一块红色霓虹招牌、一扇窄门、一段大理石台面，就是 A Ginjinha 的全部门面。这里没有餐桌，也没有“请慢慢享用”的姿态：客人挤在柜台前，点一小杯深红色的 ginjinha，接过杯子，站在门口喝完，把空杯放回台面，再让位给下一个人。它更像一个饮酒版的街角报亭，而不是可以坐一下午的咖啡馆。
@@ -153,3 +154,9 @@ A Ginjinha 的官方历史把品牌根源追到 1840 年：当时在 Rua das Por
 - 同城的 `place:cafe-a-brasileira` 可以对照“站立小杯”与“坐席咖啡馆”的两种里斯本节奏。
 - 若把伊比利亚老店串成路线，读 `place:casa-labra`、`place:botin` 与 `place:cafe-majestic`。
 - 相关条目：[A Brasileira](ref:brasileira)、[Café Majestic](ref:majestic)、[Casa Labra](ref:labra)、[Botín](ref:botin)、[Café De Dokter](ref:dokter)
+
+## 相关图像
+
+![希亚多 Rua Garrett 120 号的 A Brasileira 新艺术风格立面](/media/photos/place-cafe-a-brasileira-2278105e.jpg)
+
+图：希亚多 Rua Garrett 120 号的 A Brasileira 新艺术风格立面。图片：VDT2021，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_BRASILEIRA_DO_CHIADO.jpg)）。关联图像：A Ginjinha。

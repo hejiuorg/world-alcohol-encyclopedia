@@ -84,6 +84,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 勃艮第
 
 勃艮第是法国东部索恩河以西的葡萄酒产区，以黑皮诺与霞多丽为核心品种。产区从北到南呈狭长带状，分为夏布利、金丘、夏隆内丘与马孔内四段；分级按大区、村庄、一级园与特级园四层划分，地块边界比酒庄名更能决定身份。
@@ -173,3 +174,13 @@ verification_scope: source-verified
 - [霞多丽](ref:chardonnay)与[黑皮诺](ref:pinot-noir)：勃艮第的两大核心品种。
 - [白葡萄酒](ref:white-wine)与[红葡萄酒](ref:red-wine)：两类基本风格与工艺。
 - [橡木桶陈年](ref:oak-ageing)：桶型与新旧程度对风格的影响。
+
+## 相关图像
+
+![夏布利](/media/photos/drink-france-chablis-285defc0.jpg)
+
+图：夏布利。图片：CocktailSteward，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chablis_and_Premier_Cru_Vaulorent.jpg)）。关联图像：勃艮第。
+
+![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+图：黑皮诺。图片：Cjp24，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)）。关联图像：勃艮第。

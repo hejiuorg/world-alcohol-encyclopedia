@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:penfolds-magill-estate
 source_lang: zh
-source_revision: sha256:b3547d5756388c2368f92cbce8338234c658820fe0dbfc7b7f3594523169cd05
-source_sha256: b3547d5756388c2368f92cbce8338234c658820fe0dbfc7b7f3594523169cd05
+source_revision: sha256:890a4657e57200cc10df1bd12531a9b109c25ff1e1573fd635574efc22cabda3
+source_sha256: 890a4657e57200cc10df1bd12531a9b109c25ff1e1573fd635574efc22cabda3
 translation_status: reviewed
 subtype: winery-visitor
 address: 78 Penfold Road, Magill, South Australia 5072, Australia
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, labels, menus, images and quoted texts are not covered by this licence; opening hours, experience prices, booking rules and wines change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Penfolds Magill Estate
 
 Magill Estate is Penfolds' birthplace and the easiest wine-history site to reach in the city of Adelaide. It lies about 8 km from the centre, with vines, Grange Cottage and stone cellars still on the original ground, surrounded by housing and foothill roads. This is not a rural estate behind a fence; it is an urban single vineyard at the city's edge. In the time it takes to have a meal, you can trace the 1844 founding, the Grange experiments of the 1950s and the way Penfolds turned experiment into a product range.
@@ -143,3 +144,9 @@ First, Magill is not Penfolds' only vineyard. It is the founding site and urban 
 ## References
 
 This entry was checked against Penfolds' official Magill Estate cellar door, contact, history and booking pages, plus Wine Australia's Barossa Valley material. Page verified 2026-11-09. To place this stop in a day, see the [Barossa wine trail](ref:route); for variety and technique background, see [Shiraz](ref:shiraz), [red wine](ref:red-wine) and [oak ageing](ref:oak-ageing). Opening hours, prices and booking rules are subject to official channels.
+
+## Related images
+
+![Photograph for Syrah: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+Image: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=114429512)). Related image for Penfolds Magill Estate.

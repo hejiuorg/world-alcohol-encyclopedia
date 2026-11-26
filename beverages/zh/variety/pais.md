@@ -93,6 +93,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 派斯
 
 派斯是智利栽培历史最久的红葡萄之一，今天主要留在 Maule、Itata 与 Bío-Bío 南部干旱老园中；果粒皮薄、颜色偏浅，酸度高而单宁柔和，常见红樱桃、草莓、干草、白胡椒与泥土气息。它既是智利批量酒时代的工作品种，也是近二十年自然酒复兴中被重新估价的老藤代表。
@@ -167,3 +168,9 @@ País 本义是西班牙语“国家”，酒标与资料中还能见到 Negra C
 | 一句话定位 | 智利的老藤红葡萄，源自西班牙的 Listán Negro/Gros Collet，在 Itata 与 Maule 的干旱老园中保留；酒色浅、酸度高、单宁低，带红樱桃、干草与香料 |
 | 物种 | Vitis vinifera |
 | 代表产区 | 伊塔塔谷 |
+
+## 相关图像
+
+![伊塔塔谷类别配图](/media/photos/organization-vinos-de-chile-7a79b0b2.jpg)
+
+图：伊塔塔谷类别配图。图片：https://www.chile.gob.cl/india/noticias/lanzamiento-de-wines-of-chile-academy-en-dependencias-de-la-embajada，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vinos_chilenos.jpg)）。关联图像：派斯。

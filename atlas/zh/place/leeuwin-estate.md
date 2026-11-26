@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与价格会变化，出行前以官网为准。"
 verification_scope: source-verified
 ---
+
 # 露纹酒庄
 
 露纹酒庄是玛格丽特河“创始五家”之一：Horgan 家族 1969 年买下这片农场，1973 年正式建庄，1980 年推出首个 Art Series 霞多丽年份。今天它以 Block 20 霞多丽、Art Series 赤霞珠和 1985 年起的露纹音乐会，把酒、艺术与旅游绑在同一条品牌线上。
@@ -162,3 +163,9 @@ Art Series 赤霞珠适合烤羊排、炖牛肉、鹿肉与硬质奶酪；黑醋
 - 相关条目：[margaret-river](ref:margaret-river)、[australia](ref:australia)、[chardonnay](ref:chardonnay)、[syrah](ref:shiraz)、[terroir](ref:art)。
 - 本页不提供实时价格、菜单、音乐会阵容或营业状态；参观前以酒庄官网与产区协会为准。
 - 想理解 Block 20 的特殊性，可以在品鉴时问清当年 Art Series 霞多丽的果实比例、桶陈时间与新桶比例，再与 Prelude 对比。
+
+## 相关图像
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：露纹酒庄。

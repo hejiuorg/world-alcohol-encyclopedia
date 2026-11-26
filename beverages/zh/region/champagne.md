@@ -83,6 +83,12 @@ sources:
     title: "《The Oxford Companion to Wine》香槟与子产区条目"
     publisher: "Oxford University Press"
     note: 由原条目末尾参考资料迁移，未逐条复核访问日期。
+  - key: adv-comite-champagne
+    title: Comité Champagne — Champagne information
+    url: https://www.champagne.fr/en/
+    publisher: Comité Interprofessionnel du vin de Champagne
+    note: 用于核对香槟子产区、品种、甜度与标签规则；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -90,6 +96,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 香槟
 
 香槟是法国北部香槟地区的[起泡酒](ref:sparkling-wine)法定产区，也是“香槟”这一受保护名称的唯一合法产地。葡萄园围绕兰斯（Reims）与埃佩尔奈（Épernay）展开，并向南延伸到奥布河岸（Côte des Bar）。主要品种为[霞多丽](ref:chardonnay)、[黑皮诺](ref:pinot-noir)与莫尼耶皮诺（Pinot Meunier）。
@@ -176,6 +183,28 @@ verification_scope: source-verified
 第五，把无年份香槟当成低质量。无年份是追求风格稳定的调配方式，与质量高低不直接相关。
 第六，把村庄分级当成酒款评级。特级村与一级村描述地块历史评价，不保证每一瓶的水平。
 
+
+## 进阶判断
+
+![兰斯山特雷派伊的葡萄园](/media/photos/region-champagne-712da84c.jpg)
+
+图：兰斯山特雷派伊的葡萄园，香槟区白垩土与坡向的典型景观。图片：Havang(nl)，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tr%C3%A9pail,_vignes_au_pied_de_la_Montagne_de_Reims.JPG)）。
+
+| 子产区 | 主要葡萄 | 风格线索 |
+| --- | --- | --- |
+| 兰斯山 | 黑皮诺为主 | 结构、红果、陈年潜力 |
+| 白丘 | 霞多丽 | 酸度、花香、矿物感 |
+| 马恩河谷 | 莫尼耶为主 | 果香、柔顺、早饮 |
+| 南部产区 | 霞多丽为主 | 轻盈、新鲜、性价比 |
+
+**Blanc de Blancs 一定是白丘吗？** 不一定。Blanc de Blancs 指只用白葡萄品种，香槟区通常就是霞多丽，但葡萄可以来自多个子产区。白丘是常见来源，不是唯一来源。
+
+**无年份香槟一定不如年份香槟吗？** 不是。无年份靠多年基酒调配，追求稳定风格；年份香槟表达单一年份。两者是不同目标，不是等级高低。
+
+**香槟甜度标签怎么选？** 先按场合与菜选：Brut 适合大多数咸鲜菜，Demi-Sec 适合甜点与微辣菜。不要只记“Brut 就是干”，不同酒庄的残糖并不完全相同。
+
+延伸阅读：[起泡酒](ref:sparkling-wine)、[法国](ref:france)。
+
 ## 参考边界
 
 本页描述香槟产区的范围、子产区、品种、工艺与标签规则，不评价具体酒庄或年份。上级产区节点请参见[法国](ref:france)；香槟酒款页记录具体生产者与产品，与本页的产区层面相互区分。
@@ -188,3 +217,9 @@ verification_scope: source-verified
 | 层级 | 其他 |
 | 所属 | 法国 |
 | 国家代码 | FR |
+
+## 相关图像
+
+![凯歌香槟](/media/photos/drink-france-veuve-clicquot-7f2a94ba.png)
+
+图：凯歌香槟。图片：Julia Jeanselme，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Logo_Veuve_Clicquot.png)）。关联图像：香槟。

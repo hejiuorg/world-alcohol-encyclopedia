@@ -97,6 +97,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、价格、场次与交通会变化，以官方预约为准。
 verification_scope: source-verified
 ---
+
 # 布赫拉迪酒厂
 
 从 Bowmore 往西，路沿着 Loch Indaal 的南岸走，左手是灰蓝色的海，右手是低矮的草坡与白墙厂房。布赫拉迪没有酒厂大门上常见的那种“宏伟入口”，它更像一座仍在运转的维多利亚式工厂：白墙、黑窗框、高高的烟囱，墙面上刷着 “PROGRESSIVE HEBRIDEAN DISTILLERS / BRUICHLADDICH / SINCE 1881”。风很大，海很近，酒厂的气味与海盐混在一起。
@@ -188,3 +189,9 @@ Bruichladdich 主线通常带海盐、青苹果、柑橘、蜂蜜、麦芽与淡
 - Rémy Cointreau 品牌页：<https://www.remy-cointreau.com/en/brands/bruichladdich-port-charlotte-octomore/>，用于核对 1881/1994/2000/2001/2004/2012/2020 年表。
 - 艾雷岛对照：[Lagavulin](ref:lagavulin)、[Laphroaig](ref:laphroaig)、[Ardbeg](ref:ardbeg)、[艾雷岛威士忌路线](ref:islayroute)、[Fèis Ìle 2026](ref:feis)。
 - 苏格兰其他路线：[斯佩塞麦芽路线](ref:speyside)、[Glenfiddich](ref:glenfiddich)、[苏格兰威士忌体验](ref:scotchexperience)。
+
+## 相关图像
+
+![拉弗格蒸馏厂相关实景照片](/media/photos/place-laphroaig-distillery-6c3ea2c6.jpg)
+
+图：拉弗格蒸馏厂相关实景照片。图片：Bjarne Henning Kvaal…，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Laphroaig_Distillery_-_panoramio_(4).jpg)）。关联图像：布赫拉迪酒厂。

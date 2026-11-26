@@ -84,6 +84,7 @@ city: 纽约
 verification_scope: source-verified
 founded_year: 1864
 ---
+
 # 皮特酒馆
 
 皮特酒馆在纽约东 18 街与 Irving Place 的转角，门牌 129 East 18th Street，属于格拉梅西公园（Gramercy Park）一带。它把自己称为“纽约持续经营时间最长的餐厅与酒吧”：建筑建于 1851 年，底层最初的饮酒生意始于 1864 年。走进去，先看到的是一张很长的玫瑰木吧台、压花锡天花板与旧瓷砖地面；这些东西比任何一块说明牌都更能解释它为什么还在营业。
@@ -138,3 +139,9 @@ founded_year: 1864
 补充阅读：[A Ginjinha](ref:c-extra-1)、[À la Mort Subite](ref:c-extra-2)。
 
 相关条目：[纽约历史酒馆路线：东村到格拉梅西](ref:new-york-historic-pubs)、[雇员专属酒吧](ref:employees-only)、[麦克索利老麦酒馆](ref:mcsorleys-old-ale-house)。
+
+## 相关图像
+
+![“雇员专属酒吧”页面配图：File:2019-05-05 Lagavulin Distillery.jpg。摄影：Charlie Marshall，CC BY 2.0，来自 项目图库（已授权实景照片）。该图用于说明相关类别，并非该对象的官方产品图。](/media/photos/q2-place-employees-only-460e16a8.jpg)
+
+图：File:2019-05-05 Lagavulin Distillery.jpg。摄影：Charlie Marshall，CC BY 2.0，来自 项目图库（已授权实景照片）。该图用于说明相关类别，并非该对象的官方产品图。。图片：Charlie Marshall，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)）。关联图像：皮特酒馆。

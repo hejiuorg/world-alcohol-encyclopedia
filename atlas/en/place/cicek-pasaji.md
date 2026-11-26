@@ -90,8 +90,8 @@ verification_scope: source-verified
 translation_of: place:cicek-pasaji
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e1430668bbd2624170403954d38a4026054ddb72f57c13ecda3098313daaf0d7
-source_sha256: e1430668bbd2624170403954d38a4026054ddb72f57c13ecda3098313daaf0d7
+source_revision: sha256:17a16997680c311052e35cb543e2e8eefe6c30183ef3bb03058f6dd3781c1d68
+source_sha256: 17a16997680c311052e35cb543e2e8eefe6c30183ef3bb03058f6dd3781c1d68
 ---
 
 # Çiçek Pasajı
@@ -158,3 +158,9 @@ Istanbul is not car-friendly into Beyoğlu; metro plus walking is easiest. For t
 - Cross-city entries: [Café Central](ref:central), [Café Sacher](ref:sacher), [New York Café](ref:newyork), [A Brasileira](ref:brasileira), [A Ginjinha](ref:ginjinha).
 
 **Short definition:** A historic arcade at 176 İstiklal Avenue in Beyoğlu, Istanbul, completed in 1876 as Cité de Péra/Hristaki Pasajı on the Naum Theatre site, destroyed in the 1870 Pera fire. It passed to Grand Vizier Sait Paşa in 1908 and became Sait Paşa Pasajı; after the 1917 Russian Revolution exiled noblewomen opened flower shops here, and by the 1940s it was known as the “Flower Passage.” Part of the building collapsed on 10 May 1978, killing 12 people; it reopened after restoration in 1988 and was repaired in 2005 and 2022. Today it is an arcade of meyhanes, restaurants and beer halls, not a single bar.
+
+## Related images
+
+![Inside Café Sacher at Hotel Sacher, with red velvet seating and chandeliers](/media/photos/place-cafe-sacher-43645c0a.jpg)
+
+Image: Inside Café Sacher at Hotel Sacher, with red velvet seating and chandeliers. Credit: Feel free to use my photos, but please mention me as the author and if you want send me a message . or ( rufre@lenz-nenning.at ), CC BY-SA 3.0 at, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cafe_Sacher,_Hotel_Sacher,_Wien.JPG)). Related image for Çiçek Pasajı.

@@ -22,8 +22,8 @@ tags:
 translation_of: variety:sylvaner
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1d8b609e21a4e072389149ac105c11e163e6e6e48bcf1e5c8112b4a394aa13de
-source_sha256: 1d8b609e21a4e072389149ac105c11e163e6e6e48bcf1e5c8112b4a394aa13de
+source_revision: sha256:5fc01b8e197dc8f094bbe65ef47af39cad99e4b156aa58f0310b7d6264eb7dc8
+source_sha256: 5fc01b8e197dc8f094bbe65ef47af39cad99e4b156aa58f0310b7d6264eb7dc8
 related:
   - relation: about
     target_id: region:alsace
@@ -140,3 +140,9 @@ On the label, separate dry, off-dry and late-harvest styles first: residual suga
 The most useful comparison is to taste a Franken single vineyard, an Alsace Zotzenberg and a Rheinhessen wine side by side in the same vintage, noting differences in acidity, fruit and mineral. It can be read alongside the [white-wine](ref:white) category, the slope-site [terroir](ref:terroir), the choices of [fermentation](ref:fermentation) and the international benchmark represented by [chardonnay](ref:chardonnay); the [alsace](ref:alsace) entry gives the background for its planting in northeast France.
 
 - Related: [alsace](ref:alsace), [white-wine](ref:white), [terroir](ref:terroir), [fermentation](ref:fermentation), [chardonnay](ref:chardonnay).
+
+## Related images
+
+![Alsace](/media/photos/region-alsace-15887179.jpg)
+
+Image: Alsace. Credit: Jorge Franganillo from Barcelona, Spain, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)). Related image for Sylvaner.

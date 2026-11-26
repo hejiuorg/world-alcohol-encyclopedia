@@ -85,6 +85,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观时间、价格、交通与酒款会变化，以官方预约为准。
 verification_scope: source-verified
 ---
+
 # Appleton Estate
 
 从牙买加南岸的 Santa Cruz 往内陆开，路会逐渐变窄，甘蔗田、石灰岩丘陵与偶尔出现的牛群取代海岸。Appleton Estate 就在 Nassau Valley 的谷地里：一片不算高的厂区、成排的桶库、游客中心与巨大的 “Appleton Estate Jamaica Rum” 拱门。它不是一个“海边酒吧式”的朗姆景点，而是一座仍在运转的甘蔗庄园与蒸馏厂，也是牙买加持续运营最久的朗姆酒厂。
@@ -151,3 +152,9 @@ Appleton 的工艺线索是“甘蔗—糖蜜—发酵—蒸馏—橡木桶—�
 - 官方酒款页：<https://www.appletonestate.com/en-us/rums/>，用于核对 8/12/15/21 年酒款与风味。
 - 牙买加政府信息服务（JIS）：<https://jis.gov.jm/jamaica/appleton-estate-rum-jamaican-spirits-cuisine-visit-jamaica/>，用于核对持续运营最久、Joy Spence、导览内容与 Appleton + Ting。
 - 加勒比朗姆对照：[Foursquare](ref:foursquare)、[Mount Gay](ref:mountgay)、[Havana Club 朗姆博物馆](ref:havana)、[Santiago 朗姆博物馆](ref:santiago)、[巴巴多斯朗姆路线](ref:route)。
+
+## 相关图像
+
+![芒特盖酒厂相关实景照片](/media/photos/place-mount-gay-distillery-6c5c7ad0.jpg)
+
+图：芒特盖酒厂相关实景照片。图片：Aneil Lutchman，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mount_Gay_Distilleries_Origin_Series,_Black_Barrel_and_XO.JPG)）。关联图像：Appleton Estate。

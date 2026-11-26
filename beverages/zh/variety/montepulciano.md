@@ -98,6 +98,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 蒙特普尔恰诺
 
 蒙特普尔恰诺是意大利中部与南部分布很广的红葡萄，核心产区在阿布鲁佐；酒色深、单宁中低、酸度中高，带黑樱桃、李子、李子干与甘草香料，既能做年轻易饮的日常红，也能酿出有陈年潜力的珍藏款。它与托斯卡纳的蒙特普尔恰诺小镇并无品种上的关系。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 蒙特普尔恰诺的面积、克隆与海外种植仍随品种调查更新，正式引用以意大利农业部、ISMEA 统计、VIVC 登记与各产区法规为准。
 
 - 相关条目：[italy](ref:italy)、[sangiovese](ref:sangiovese)、[red-wine](ref:red)、[oak-ageing](ref:oak)、[terroir](ref:terroir)。
+
+## 相关图像
+
+![桑娇维塞](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
+
+图：桑娇维塞。图片：Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VIVC10680_SANGIOVESE_Cluster_in_the_field_20354.jpg)）。关联图像：蒙特普尔恰诺。

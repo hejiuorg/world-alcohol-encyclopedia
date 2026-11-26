@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:priorat
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:703b6741009adea59dffdd680eb6d4cbc0334b6034a3128da7e065963a8187b5
-source_sha256: 703b6741009adea59dffdd680eb6d4cbc0334b6034a3128da7e065963a8187b5
+source_revision: sha256:6d91fd32eaff09711705a438e4af999e97ef406115aa21cbde6f64ae5677360f
+source_sha256: 6d91fd32eaff09711705a438e4af999e97ef406115aa21cbde6f64ae5677360f
 level: province
 parent_id: region:spain
 country_code: ES
@@ -89,6 +89,7 @@ rights:
   note: The lead image is a photograph of the l'Ermita vineyard in Priorat, used under CC BY-SA 2.0; see the figure caption. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Priorat
 
 Priorat (Spanish Priorato) is a mountain wine region inland in Tarragona province, Catalonia, in north-eastern Spain, enclosed by ranges of hills. It was granted DOQ (Denominació d'Origen Qualificada) status in 2009, making it one of only two top-tier origin names in Spain alongside Rioja. The region is dominated by [red wine](ref:red-wine) with a small amount of [white wine](ref:white-wine), and is one of the symbols of Spain's modern fine-wine revival.
@@ -168,3 +169,13 @@ Priorat is a Catalan DOQ known for llicorella slate soils and Garnacha-led reds.
 - [Red wine](ref:red-wine) and [white wine](ref:white-wine): the two product types of the region.
 - [Wine](ref:wine): an overview of wine categories and origin rules.
 - [Fermentation](ref:fermentation) and [oak ageing](ref:oak-ageing): key processes behind style.
+
+## Related images
+
+![Grenache](/media/photos/variety-grenache-69c881eb.jpg)
+
+Image: Grenache. Credit: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)). Related image for Priorat.
+
+![Photograph for Spain: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-spain-732e598a.jpg)
+
+Image: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=17458062)). Related image for Priorat.

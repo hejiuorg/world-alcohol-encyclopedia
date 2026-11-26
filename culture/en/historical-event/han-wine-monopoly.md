@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:han-wine-monopoly
 source_lang: zh
-source_revision: sha256:b310c1dee43f66c07c3b445082ff01fc8a4fe02079c365cd1434ea7f67277677
-source_sha256: b310c1dee43f66c07c3b445082ff01fc8a4fe02079c365cd1434ea7f67277677
+source_revision: sha256:7a2824079b4f228c8ff317a437a5d063e3793bf733c8c171f43411a72f3d2b98
+source_sha256: 7a2824079b4f228c8ff317a437a5d063e3793bf733c8c171f43411a72f3d2b98
 translation_status: reviewed
 aliases:
   - 榷酒
@@ -143,3 +143,9 @@ Fifth, salt and iron are often narrated together with the wine monopoly, but the
 - [History of Chinese wine](ref:chinese-wine-history): the longer line from ritual to fiscal policy.
 - [Yellow wine](ref:yellow-wine): the technical category of Han cereal wine.
 - [China](ref:china): background on regions and categories of Chinese alcohol.
+
+## Related images
+
+![Related photograph of Shang and Zhou Wine Ritual: Bronze Vessels, the Wine Officer and the Jiugao](/media/photos/historical-event-shang-zhou-wine-ritual-e8c47734.jpg)
+
+Image: Related photograph of Shang and Zhou Wine Ritual: Bronze Vessels, the Wine Officer and the Jiugao. Credit: Wikimedia Commons contributor, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Clevelandart_1951.151.jpg)). Related image for The Han Wine Monopoly: State Trading in 98 BCE and Its Abolition in 81 BCE.

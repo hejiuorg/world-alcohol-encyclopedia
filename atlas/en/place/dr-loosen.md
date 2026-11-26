@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:dr-loosen
 source_lang: zh
-source_revision: sha256:ef3c82e77ec910a29e5df68cac4215a25849b29379c913983a4a7d3c931ee3a6
-source_sha256: ef3c82e77ec910a29e5df68cac4215a25849b29379c913983a4a7d3c931ee3a6
+source_revision: sha256:7043eb1d47adfefd096c54309f97126cb89340b76334bfbe3f547ed5d777bc6a
+source_sha256: 7043eb1d47adfefd096c54309f97126cb89340b76334bfbe3f547ed5d777bc6a
 translation_status: reviewed
 subtype: winery-visitor
 address: St. Johannishof, 54470 Bernkastel-Kues, Germany
@@ -87,6 +87,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, bookings and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Dr. Loosen
 
 Dr. Loosen sits at St. Johannishof in Bernkastel-Kues, in the middle Mosel. It is not a visitor centre open all day but a working family estate: cellar, house and steep vineyards belong together, and there is no large welcome building at the gate. Think of it as a place to taste a set of slate Rieslings rather than a sight to tick off; the address and contact details can be checked on the official page, and coordinates should be taken from official channels.
@@ -148,3 +149,9 @@ Further reading: [Wine](ref:c-extra-1).
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Dr. Loosen is built.
 
 [Mosel](ref:mosel) and [White wine](ref:white-wine) are the two useful reference points for Dr. Loosen. [Mosel](ref:mosel) sets out address and space; [White wine](ref:white-wine) brings in operating status. Read them together.
+
+## Related images
+
+![Photograph for Mosel: Mosel vineyard in Tittenheim. Credit: Phillip Capper, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-mosel-92777993.jpg)
+
+Image: Mosel vineyard in Tittenheim. Credit: Phillip Capper, CC BY 2.0, via Wikimedia Commons.. Credit: Phillip Capper, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=4168277)). Related image for Dr. Loosen.

@@ -88,8 +88,8 @@ verification_scope: source-verified
 translation_of: place:a-la-mort-subite
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9cc6588a467fb2fd35f5a65fb1b660f3bf109c3254d74228af311d3dd5380704
-source_sha256: 9cc6588a467fb2fd35f5a65fb1b660f3bf109c3254d74228af311d3dd5380704
+source_revision: sha256:f1136d7fef7947dc036a533d4ed1ccd750d5ad1b04b6ff5208d26cc48ae93235
+source_sha256: f1136d7fef7947dc036a533d4ed1ccd750d5ad1b04b6ff5208d26cc48ae93235
 ---
 
 # À la Mort Subite
@@ -153,3 +153,9 @@ The Brussels section is walkable; Cantillon is about 20 minutes from the centre,
 - Official Dutch homepage: <https://alamortsubite.com/nl>, for the Dutch address and opening information.
 - Around Us architectural entry: <https://it.aroundus.com/p/6055765-a-la-mort-subite>, for the 1902 Piscador building, the 1910 Hamesse conversion, the 1998 listing and the neo-Louis XVI style.
 - Same-city and cross-city entries: [Cantillon](ref:cantillon), [De Halve Maan](ref:halve-maan), [Café Hoppe](ref:hoppe), [Café De Dokter](ref:dokter), [Prater Garten](ref:prater).
+
+## Related images
+
+![Related photograph of Cantillon Brewery](/media/photos/place-cantillon-brewery-f3b0c65c.jpg)
+
+Image: Related photograph of Cantillon Brewery. Credit: Abujoy, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Brasserie_Cantillon_02.jpg)). Related image for À la Mort Subite.

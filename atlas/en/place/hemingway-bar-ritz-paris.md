@@ -31,8 +31,8 @@ tags:
 translation_of: place:hemingway-bar-ritz-paris
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3c3d73911647fc372be06669a52b5d8319f84b6e21bb650dde3c6da0273ce4ef
-source_sha256: 3c3d73911647fc372be06669a52b5d8319f84b6e21bb650dde3c6da0273ce4ef
+source_revision: sha256:ccbb2d6ca70cbc462fc639c91b4550abbe4d1bcb629782b21b6ac76c832281b6
+source_sha256: ccbb2d6ca70cbc462fc639c91b4550abbe4d1bcb629782b21b6ac76c832281b6
 related:
   - relation: about
     target_id: culture-article:time-in-a-cup
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1994
 ---
+
 # Bar Hemingway
 
 On one side of Place Vendôme, the entrance of the Ritz Paris shuts the street noise outside. Walk through the lobby and deeper into the hotel and the door of Bar Hemingway is easy to miss. There is no music inside. You hear ice against glass, low conversation and, further away, the sound of a waiter's steps. The room has only 25 seats, dark wood and old leather on the walls, and amber light. It feels like a private library that happens to serve cocktails, not a literary theme park.![The brass Bar Hemingway sign at the Ritz Paris](/media/photos/place-hemingway-bar-ritz-paris-3ee551c6.jpg)
@@ -139,3 +140,9 @@ Outside the bar is Place Vendôme; to the west lies La Madeleine, and to the sou
 For Bar Hemingway, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
 
 Checked on 2026-11-21 against the official pages of Ritz Paris and Bar Hemingway. The bar opens daily 17:00–00:00, tapas 17:30–22:30, does not take reservations, and its 25 seats and dress code can change with hotel events; confirm before visiting. Hemingway's "51 dry Martinis" liberation story and the question of whether the displays are his relics are qualified in the body. The Serendipity recipe follows the official Calvados, mint, apple juice and Champagne formula. The image shows the brass entrance sign, not the bar or the drinks list.
+
+## Related images
+
+![Dry Martini](/media/photos/cocktail-dry-martini-c9d91c19.jpg)
+
+Image: Dry Martini. Credit: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0084.jpg)). Related image for Bar Hemingway.

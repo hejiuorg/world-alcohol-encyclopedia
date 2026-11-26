@@ -78,6 +78,7 @@ rights:
   note: 本页配图为维基共享资源的 Vivamus Tokaji Aszú 实拍照片，按 CC BY-SA 3.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 托卡伊
 
 托卡伊（Tokaji）是匈牙利东北部[托卡伊产区](ref:tokaj)出产的甜型[葡萄酒](ref:wine)，也是世界上最早把贵腐甜酒写成制度的酒种之一。它的核心是 Aszú：手工挑选被贵腐菌感染的葡萄，浸入同一年份的基酒或正在发酵的葡萄汁中，经过数月浸渍与至少十八个月的木桶陈年，得到蜂蜜、杏脯与柑橘皮交织的甜酒。它的甜不是简单的糖水，而是由高酸托举起来的浓缩果味。
@@ -143,3 +144,9 @@ Aszú 至少需要十八个月的木桶陈年，许多酒庄会陈放更久。�
 **来源与边界。** 本页关于「托卡伊」的关键事实，主要由以下来源交叉核对：Wines of Tokaj（Aszú、Eszcencia、Szamorodni 等类别的残糖与陈年要求）、Wines of Hungary（托卡伊的历史、风土、品种与产区范围）、European Union（受保护原产地名称与葡萄酒标签框架）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「托卡伊」与「富尔民特」、「托卡伊」、「贵腐（noble rot）」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![“托卡伊”页面配图：Tokaj vineyard。摄影：Jerzy Kociatkiewicz from Colchester, United Kingdom，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-tokaj-84b167d2.jpg)
+
+图：Tokaj vineyard。摄影：Jerzy Kociatkiewicz from Colchester, United Kingdom，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Jerzy Kociatkiewicz from Colchester, United Kingdom，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4591613)）。关联图像：托卡伊。

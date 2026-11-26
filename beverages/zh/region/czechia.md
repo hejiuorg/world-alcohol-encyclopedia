@@ -83,6 +83,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 捷克共和国
 
 捷克的啤酒故事通常从 1842 年的皮尔森开始，但真正让捷克啤酒成立的，是一整套互相咬合的条件：波希米亚西部的软水、摩拉维亚的浅色麦芽、萨兹（Žatec）的细香酒花、低温下层发酵，以及数周甚至数月的低温贮藏。这套组合让淡色拉格第一次以“干净、清亮、苦味利落”的形象出现，并在此后被世界各地反复模仿。理解捷克啤酒，既要看历史，也要看“12°”这样的本地标签语言。
@@ -164,3 +165,13 @@ verification_scope: source-verified
 | 国家代码 | CZ |
 
 **来源与边界。** 本页关于「捷克共和国」的关键事实，主要由以下来源交叉核对：CzechTourism（皮尔森啤酒的历史与产区表达）、Plzeňský Prazdroj（1842 年、原料与工艺的公开表述；“České pivo”地理标志、捷克麦芽与萨兹酒花）、European Commission（啤酒地理标志的保护框架；未复制具体登记条目）等 6 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![精酿啤酒](/media/photos/term-craft-beer-ce03e9bb.jpg)
+
+图：精酿啤酒。图片：Bernt Rostad，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zachariasbryggen_Microbrewery.jpg)）。关联图像：捷克共和国。
+
+![阿空加瓜谷相关实景照片](/media/photos/region-aconcagua-4fe76950.jpg)
+
+图：阿空加瓜谷相关实景照片。图片：Bjørn Christian Tørrissen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg)）。关联图像：捷克共和国。

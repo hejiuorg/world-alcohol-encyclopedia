@@ -87,9 +87,10 @@ verification_scope: source-verified
 translation_of: place:cafe-pushkin
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:512ec84b2918c3132633a9e91909152ed4b25ce86fe0a3443ab0e7fd395f094a
-source_sha256: 512ec84b2918c3132633a9e91909152ed4b25ce86fe0a3443ab0e7fd395f094a
+source_revision: sha256:f91cd885460ebe39a4d8e3f3685096da3ecd5f1208e4ac5182a0571b22ac1b25
+source_sha256: f91cd885460ebe39a4d8e3f3685096da3ecd5f1208e4ac5182a0571b22ac1b25
 ---
+
 # Café Pushkin
 
 Near the start of Moscow’s Tverskoy Boulevard, cars often wait outside a pale Baroque mansion. Inside, the first thing you see is dark wood cabinets, rows of old books, brass instruments and uniformed staff; beyond them are tables and candles. The place looks like a nineteenth-century aristocratic home, but it has not been serving since Pushkin’s time—it opened in 1999, a modern restaurant built from a literary fantasy.
@@ -164,3 +165,9 @@ Central Moscow is not car-friendly; the metro is the reliable option. For a one-
 Café Pushkin is best read by starting with the address, moving to the current opening status, and ending with what the place is known for.
 
 Put [Café de la Paix](ref:paix)'s address and space next to [Brasserie Lipp](ref:lipp)'s operating status; the difference marks the boundary.
+
+## Related images
+
+![The daytime facade and awnings of Café de la Paix facing the Opéra Garnier, 5 Place de l'Opéra](/media/photos/place-cafe-de-la-paix-7cafc69d.jpg)
+
+Image: The daytime facade and awnings of Café de la Paix facing the Opéra Garnier, 5 Place de l'Opéra. Credit: Arthur Weidmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_la_Paix_1.jpg)). Related image for Café Pushkin.

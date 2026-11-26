@@ -24,8 +24,8 @@ tags:
 translation_of: region:finger-lakes
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4e64fb44350502ea448a6994e85e8a470ba1b0b12d551f91af0e8c2da0c207c5
-source_sha256: 4e64fb44350502ea448a6994e85e8a470ba1b0b12d551f91af0e8c2da0c207c5
+source_revision: sha256:7cdbc8a3e2138e9e46a7e3b426fb8fff8fead9a5d5381ea879a5ee8b68306121
+source_sha256: 7cdbc8a3e2138e9e46a7e3b426fb8fff8fead9a5d5381ea879a5ee8b68306121
 related:
   - relation: about
     target_id: region:usa
@@ -158,3 +158,13 @@ Nearly 150 wineries are spread along shorelines and country roads. A tasting usu
 - Related: [usa](ref:usa), [riesling](ref:riesling), [chardonnay](ref:chardonnay), [white-wine](ref:white), [sparkling-wine](ref:sparkling).
 
 Finger Lakes is best approached through the appellation and its permitted varieties, then the vintage and the producer, and then how the wine is labelled. One check alone will not settle it.
+
+## Related images
+
+![Sparkling wine](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+Image: Sparkling wine. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Finger Lakes.
+
+![Category image for United States](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+Image: Category image for United States. Credit: Luke, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)). Related image for Finger Lakes.

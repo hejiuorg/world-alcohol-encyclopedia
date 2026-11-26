@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:pinot-gris
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d7f950d5077cca576c111228d8f3ddd3f0d0cb1987fc960869c20086005cb461
-source_sha256: d7f950d5077cca576c111228d8f3ddd3f0d0cb1987fc960869c20086005cb461
+source_revision: sha256:f1753d099a154dc141e8b5103b11e39e2f194ada5e7d49a0703b179f88f09b3a
+source_sha256: f1753d099a154dc141e8b5103b11e39e2f194ada5e7d49a0703b179f88f09b3a
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -76,6 +76,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Pinot Gris
 
 Pinot Gris is a colour mutation of Pinot Noir, its fruit grey-pink rather than purple-black. It ripens early, has thin skins and low acidity, and usually gives a pale wine with pear and apple aromas. The same variety can be full and rich in Alsace or light and crisp in Italy, a difference driven mainly by region and winemaking rather than the grape itself.
@@ -141,3 +142,9 @@ The comparison with [Wine](ref:wine) and [Alsace](ref:alsace) runs through varie
 - [Alsace](ref:alsace): the classic region for Pinot Gris.
 - [Italy](ref:italy): the main source of Pinot Grigio.
 - [Pinot Noir](ref:pinot-noir): the parent variety of Pinot Gris.
+
+## Related images
+
+![Alsace](/media/photos/region-alsace-15887179.jpg)
+
+Image: Alsace. Credit: Jorge Franganillo from Barcelona, Spain, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)). Related image for Pinot Gris.

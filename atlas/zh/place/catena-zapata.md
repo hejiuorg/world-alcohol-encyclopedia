@@ -95,6 +95,7 @@ rights:
   note: 第三方商标、酒标、菜单、图片与引用文本不在本许可内；开放时间、参观价格、预约规则与酒款会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 卡氏家族酒庄
 
 卡氏家族酒庄在卢汉德库约的 Cobos 路，建筑以玛雅金字塔为标志，葡萄园则从谷地一直铺到安第斯山麓的高处。它 1902 年创立，真正让它进入国际视野的，是 20 世纪末对马尔贝克与高海拔风土的重新定义。到访这里，重点不只是“看金字塔”，而是理解一个家族如何把品种、海拔与酿造选择写成一套可复制的叙事。
@@ -156,3 +157,9 @@ verification_scope: source-verified
 ## 参考资料
 
 本页依据卡氏家族酒庄官方联系页、关于页与参观页，以及阿根廷国家旅游推广机构的门多萨资料与 Wines of Argentina 整理的 INV 数据核验，页面核验日期 2026-11-09。若要把这一站放进行程，可继续读[门多萨葡萄酒路线](ref:route)。开放时间、价格与预约规则以官方渠道为准。
+
+## 相关图像
+
+![“门多萨”页面配图：Mendoza Vineyard。摄影：Justin De La Ornellas，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-mendoza-043c2ae0.jpg)
+
+图：Mendoza Vineyard。摄影：Justin De La Ornellas，CC BY 2.0，来自 Wikimedia Commons。。图片：Justin De La Ornellas，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25786871)）。关联图像：卡氏家族酒庄。

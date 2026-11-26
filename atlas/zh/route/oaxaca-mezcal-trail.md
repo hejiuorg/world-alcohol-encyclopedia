@@ -88,6 +88,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 瓦哈卡梅斯卡尔路线
 
 这条路线只有两站，却把梅斯卡尔的两端连起来：先在瓦哈卡市中心的[梅斯卡尔图书馆](ref:mezcaloteca)建立品种与村子的坐标，再南下圣卡塔里娜米纳斯的[雷亚尔米内罗](ref:real-minero)看土坑、木槌与陶罐。前者不生产酒，用跨州收藏组织对比品鉴；后者仍在出酒，用小批量与批次差异说话。两站之间是中央谷地的 Espadín 田、圣地亚哥马塔特兰的 palenque 群，以及 NOM-070 划出的底线。
@@ -137,3 +138,13 @@ Espadín 是瓦哈卡最常见的栽培品种，也是许多酒厂的日常主�
 相关条目：[梅斯卡尔图书馆：瓦哈卡市中心的一间品鉴档案室](ref:mezcaloteca)、[雷亚尔米内罗帕伦克：圣卡塔里娜米纳斯的陶罐与种子](ref:real-minero)。
 
 瓦哈卡梅斯卡尔路线从市里到圣卡塔里娜米纳斯，村内道路窄，品鉴后不要开车；酒厂到访以各官网预约，交通用实时地图。核验于 2026-11-09。
+
+## 相关图像
+
+![发酵](/media/photos/process-fermentation-f5958dba.webp)
+
+图：发酵。图片：Tjhackmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)）。关联图像：瓦哈卡梅斯卡尔路线。
+
+![“雷亚尔米内罗帕伦克：圣卡塔里娜米纳斯的陶罐与种子”页面配图：File:Abraham Minero, Edu Oriol, Juan Carlos Pérez y David Mateos.JPG。摄影：Campeones 2008，CC0，来自 Wikimedia Commons。](/media/photos/q2-place-real-minero-palenque-6c69c2ba.jpg)
+
+图：File:Abraham Minero, Edu Oriol, Juan Carlos Pérez y David Mateos.JPG。摄影：Campeones 2008，CC0，来自 Wikimedia Commons。。图片：Campeones 2008，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=15773790)）。关联图像：瓦哈卡梅斯卡尔路线。

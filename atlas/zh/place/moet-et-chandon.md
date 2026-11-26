@@ -105,6 +105,7 @@ verified_at: 2026-11-08
 founded_year: 1743
 verification_scope: source-verified
 ---
+
 # 酩悦香槟
 
 酩悦香槟（Moët & Chandon）在埃佩尔奈的香槟大道（Avenue de Champagne）。这条街是香槟区最集中展示“酒庄—城市”关系的地方：一栋栋府邸背后连着白垩酒窖，酒窖里堆着数以百万计的酒瓶，地面上则是游客、门店与餐厅。酩悦的访客入口并不张扬，但地下空间规模惊人——官方称其酒窖网络约 28 公里，是香槟区最大的地下网络之一，并作为“香槟区山坡、酒庄与酒窖”的一部分列入联合国教科文组织世界遗产。
@@ -171,3 +172,9 @@ verification_scope: source-verified
 - [巴黎之花](ref:perrier-jouet)：同一座城市里的另一种香槟参观。
 - [产地与工艺](ref:place-and-process)：理解风土、调配与陈年的基础。
 - [LVMH](ref:lvmh)：理解品牌组合与奢侈品集团背景。
+
+## 相关图像
+
+![香槟](/media/photos/region-champagne-acf0412f.jpg)
+
+图：香槟。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：酩悦香槟。

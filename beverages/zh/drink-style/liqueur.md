@@ -60,6 +60,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 利口酒
 
 利口酒（liqueur）是以烈酒为基底，加入糖与水果、草本、坚果、奶油等风味原料制成的甜味酒。它的结构可以概括为“基酒 + 风味提取 + 甜化”，三个环节的差别决定了成品是清澈的柑橘甜酒、浓稠的奶油酒，还是苦甜交织的草本酒。
@@ -127,3 +128,9 @@ verification_scope: source-verified
 - [蒸馏](ref:distillation)：风味提取与酒体清澈度的关键步骤。
 - [白兰地](ref:brandy)：常作为利口酒基酒的葡萄蒸馏酒。
 - [内格罗尼](ref:negroni)：利口酒在经典配方中承担结构角色的例子。
+
+## 相关图像
+
+![一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。](/media/photos/cocktail-negroni-52212d3c.jpg)
+
+图：一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。。图片：Sudhertzen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Negroni_(cocktail).jpg)）。关联图像：利口酒。

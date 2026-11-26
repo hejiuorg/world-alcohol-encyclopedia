@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:chenin-blanc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:79a37e462d682006e5720cc596c5ed21c9b7672b9f447539cd5514ffbf62b6cf
-source_sha256: 79a37e462d682006e5720cc596c5ed21c9b7672b9f447539cd5514ffbf62b6cf
+source_revision: sha256:c082554833d3e12ffd13e5212a91e6a63fc7aee63600e0e6e907f20ea1ac0092
+source_sha256: c082554833d3e12ffd13e5212a91e6a63fc7aee63600e0e6e907f20ea1ac0092
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -71,6 +71,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Chenin Blanc
 
 Chenin Blanc is the signature white grape of the Loire Valley and one of the most versatile white grapes in the world: the same variety can make dry, off-dry, sweet, botrytised sweet and sparkling wine. Its high acidity is the frame that holds a wide spectrum from green apple to honey, from quince to wet wool. Understanding Chenin means understanding how growers choose among acidity, ripeness and residual sugar.
@@ -141,3 +142,9 @@ First, that Chenin is always sweet; Vouvray and Savennières both make plenty of
 - [Fermentation](ref:fermentation): how fermentation and residual sugar shape style.
 
 Further reading: [Aglianico](ref:c-extra-1).
+
+## Related images
+
+![Aglianico](/media/photos/variety-aglianico-d4dec6be.jpg)
+
+Image: Aglianico. Credit: Alexis Kreyder, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aglianico_Viala_Vermorel.jpg)). Related image for Chenin Blanc.

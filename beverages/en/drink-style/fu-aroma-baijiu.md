@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:fu-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c15c5f52c6dda0c5d00839942634eeb5234fdf79d450c39576e4fb165b4a630f
-source_sha256: c15c5f52c6dda0c5d00839942634eeb5234fdf79d450c39576e4fb165b4a630f
+source_revision: sha256:41691eea71d1fe1417d8278dd58b6695d148798f7d2f024f336aab06a7c9347a
+source_sha256: 41691eea71d1fe1417d8278dd58b6695d148798f7d2f024f336aab06a7c9347a
 legacy_refs: []
 aliases:
   - Fuyu aroma baijiu
@@ -85,6 +85,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Fu-aroma baijiu
 
 Fu-aroma likes to introduce itself in six words: strong aroma first, light aroma mid-palate, sauce aroma last. That is not a random collage of three aroma types but a timeline in the mouth: the entry shows the fullness and pit aroma of strong aroma, the middle turns clean and crisp like light aroma, and the finish brings the scorch and age of sauce aroma. Achieving that timeline depends on using xiaoqu and daqu together, mud-pit fermentation and clean steaming with mixing.
@@ -163,3 +164,9 @@ For Fu-aroma baijiu, begin with the production rule, then the strength, and fini
 - [Koji making](ref:qu-making): how xiaoqu and daqu differ.
 - [Fermentation](ref:fermentation): mud pits and pit-mud microbiology.
 - [Distillation](ref:distillation): solid-state distillation and the cut.
+
+## Related images
+
+![Sorghum](/media/photos/ingredient-sorghum-879ae613.jpg)
+
+Image: Sorghum. Credit: No machine-readable author provided. Pethan assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg)). Related image for Fu-aroma baijiu.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fraunces-tavern
 source_lang: zh
-source_revision: sha256:5ec9e25475371ebf741b6e9ed7c65ae214de0486809674a961e1452faaeb42e3
-source_sha256: 5ec9e25475371ebf741b6e9ed7c65ae214de0486809674a961e1452faaeb42e3
+source_revision: sha256:721e1bf0be0a8063ce1d9ee8f6711d06e88b4fdc2d5954cb6a6c0aafb1bce320
+source_sha256: 721e1bf0be0a8063ce1d9ee8f6711d06e88b4fdc2d5954cb6a6c0aafb1bce320
 translation_status: reviewed
 subtype: pub
 address: 54 Pearl Street, New York, NY 10004, United States
@@ -84,6 +84,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; opening hours, admission, menus and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Fraunces Tavern
 
 Among the towers of Lower Manhattan's financial district, 54 Pearl Street is a brick building that makes pedestrians slow down. It was built in 1719 as a merchant's house, converted into a tavern in 1762, and on 4 December 1783 George Washington said farewell to his officers in its upstairs Long Room. Today the building carries two identities at once: a restaurant and bar that runs late on the lower floors, and a museum that requires a ticket upstairs. Knowing which floor you are on is the starting point for understanding the place.
@@ -144,3 +145,9 @@ Do not touch objects, cross barriers or eat and drink in the galleries; children
 Fraunces Tavern is an American example of the [history of taverns](ref:taverns): a colonial tavern could serve as inn, courthouse, polling station and meeting house at once. Placing it in the wider story of [pubs and the city](ref:pub-and-city) shows how a historic building is reorganised into a museum and a restaurant. Its setting in the [United States](ref:usa) also connects it to a longer urban history of ports, immigration and finance; if you care mainly about what is in the glass, start with [beer](ref:beer) and then return to the building to see how drinking became public life.
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Thematic illustration for A history of taverns: from wine shops and inns to bars](/media/photos/theme-wine-spirits.jpg)
+
+Image: Thematic illustration for A history of taverns: from wine shops and inns to bars. Project-made bilingual editorial figure, not an on-site photograph. Related image for Fraunces Tavern.

@@ -31,8 +31,8 @@ tags:
 translation_of: place:union-oyster-house
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f3fd02f72f0c0032382c1b6fcd8c514cacd111c2bb7e3b393ab7ca2c5fb5f161
-source_sha256: f3fd02f72f0c0032382c1b6fcd8c514cacd111c2bb7e3b393ab7ca2c5fb5f161
+source_revision: sha256:c7197f98cf4460c168e8d5bb4d64d95d194f0989ecc104dc98c11de2ba498634
+source_sha256: c7197f98cf4460c168e8d5bb4d64d95d194f0989ecc104dc98c11de2ba498634
 related:
   - relation: about
     target_id: place:bell-in-hand-tavern
@@ -142,3 +142,9 @@ Leave the restaurant and walk north to Faneuil Hall and Quincy Market, south to 
 - [Understanding a City Through Its Pub](ref:pub-city)
 
 Start with [Bell in Hand Tavern](ref:bell) for address and space, then read [The Boston Molasses Flood of 1919: An Industrial-Alcohol Disaster](ref:molasses) for operating status. Seeing both keeps Union Oyster House from being confused with a neighbouring idea.
+
+## Related images
+
+![The corner frontage and sign of the Bell in Hand tavern on Union Street, Boston; the tavern was founded in 1795 by town crier Jimmy Wilson, while the building in the photograph is a mid-19th-century structure, not the original 1795 building](/media/photos/place-bell-in-hand-tavern-06da44c3.jpg)
+
+Image: The corner frontage and sign of the Bell in Hand tavern on Union Street, Boston; the tavern was founded in 1795 by town crier Jimmy Wilson, while the building in the photograph is a mid-19th-century structure, not the original 1795 building. Credit: Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bell_in_Hand_Tavern_(36199).jpg)). Related image for Union Oyster House.

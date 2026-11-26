@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:luzhou-laojiao-cellars
 source_lang: zh
-source_revision: sha256:1ff290927c5f6bba17506af146e736de43ab6d5854ddcba9a587c2345cfff870
-source_sha256: 1ff290927c5f6bba17506af146e736de43ab6d5854ddcba9a587c2345cfff870
+source_revision: sha256:c0a48a31a917904c181a57951ba85321dac3661fdb5dca2409179f60556cc7b4
+source_sha256: c0a48a31a917904c181a57951ba85321dac3661fdb5dca2409179f60556cc7b4
 translation_status: reviewed
 subtype: distillery-visitor
 address: Guojiao Square, Sanxing Street, Jiangyang District, Luzhou 646000, China
@@ -169,3 +169,9 @@ Luzhou is hot and humid in summer, and the temperature difference between the wo
 - [Shuijingfang Museum](ref:shuijingfang): a strong-aroma baijiu site museum in Chengdu, another "living" example.
 - [Fenjiu Museum](ref:fenjiu): a light-aroma baijiu museum in Xinghuacun, Shanxi, a contrast with strong-aroma.
 - [Wang Bao He](ref:wang-bao-he): a Shanghai yellow-wine and crab restaurant, another Chinese drinks table.
+
+## Related images
+
+![Shuijingfang Museum in Chengdu](/media/photos/place-shuijingfang-museum-f2fbcdf5.jpg)
+
+Image: Shuijingfang Museum in Chengdu. Credit: xiquinhosilva, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shujingfang_Museum.jpg)). Related image for Luzhou Laojiao Cellars.

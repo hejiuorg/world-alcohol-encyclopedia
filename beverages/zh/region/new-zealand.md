@@ -83,6 +83,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 新西兰
 
 新西兰是南太平洋岛国，葡萄酒产业规模不大，却以鲜明的品种表达获得国际认知。马尔堡的长相思带柑橘、百香果与草本气息，中奥塔哥的黑皮诺则以红果、香料与清爽酸度著称。海洋性气候、较长生长季与较强风力，是理解新西兰葡萄酒的关键。
@@ -175,3 +176,13 @@ verification_scope: source-verified
 - [雷司令](ref:riesling)与[霞多丽](ref:chardonnay)：新西兰白葡萄酒的另一条主线。
 - [梅洛](ref:merlot)与[西拉](ref:syrah)：北岛红葡萄酒的常见品种。
 - [起泡酒](ref:sparkling)：新西兰起泡酒的风格与场景。
+
+## 相关图像
+
+![起泡酒](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+图：起泡酒。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：新西兰。
+
+![长相思相关实景照片](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：新西兰。

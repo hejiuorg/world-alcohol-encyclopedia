@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:ming-shaojiu
 source_lang: zh
-source_revision: sha256:da2cda93015a82b0b6cc6862fc229e1d186e54834c7ea4de7362a649977a4efb
-source_sha256: da2cda93015a82b0b6cc6862fc229e1d186e54834c7ea4de7362a649977a4efb
+source_revision: sha256:72a2a6fbb1722c2ef81081ca0c96bafce163dd222b9ebd9ae9c627030c55db11
+source_sha256: 72a2a6fbb1722c2ef81081ca0c96bafce163dd222b9ebd9ae9c627030c55db11
 translation_status: reviewed
 aliases:
   - 明代烧酒
@@ -147,3 +147,9 @@ Begin with the date and setting, move on to the documented consequences, and fin
 - [The spread of distillation](ref:distillation-spread): the technical background of stills and distilled liquor.
 - [History of Chinese wine](ref:chinese-wine-history): the continuous line from the pre-Qin period to the present.
 - [China](ref:china): background on the regions and categories of Chinese alcohol.
+
+## Related images
+
+![Category image for "The Yuan Arrival of Distilled Liquor: Araq and Shaojiu"](/media/photos/place-xianheng-hotel-329475b5.jpg)
+
+Image: Category image for "The Yuan Arrival of Distilled Liquor: Araq and Shaojiu". Credit: Jiong Sheng, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)). Related image for Ming Shaojiu: From Medicine to Northern Everyday Drink.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:mendoza-wine-trail
 source_lang: zh
-source_revision: sha256:9b61ce5f4251aee4a404309941370519ca64a14b8f696cbfa6bc3cb44937a74c
-source_sha256: 9b61ce5f4251aee4a404309941370519ca64a14b8f696cbfa6bc3cb44937a74c
+source_revision: sha256:d569024d3b9450505ecd038f415ff4e0e643fbd96e347bd0367229215faad81c
+source_sha256: d569024d3b9450505ecd038f415ff4e0e643fbd96e347bd0367229215faad81c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -150,3 +150,13 @@ Both stops need bookings: Catena through its official reservation system, Zuccar
 ## References
 
 This route was checked against Catena Zapata's contact and about pages, Zuccardi's official tourism page, Argentina's national tourism promotion pages for Zuccardi and the Malbec route, and Wines of Argentina's INV-based data. Page verified 2026-11-09. Opening hours, visit prices, booking rules and wines change, so check each official channel.
+
+## Related images
+
+![Catena Zapata](/media/photos/place-catena-zapata-2526204a.jpg)
+
+Image: Catena Zapata. Credit: ArgentinaWineTourism…, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:ALTURA_Argentina_Wine_Tourism_-_Bodega_Catena_Zapata_-_panoramio.jpg)). Related image for Mendoza wine trail: Luján de Cuyo to Maipú.
+
+![Malbec](/media/photos/variety-malbec-88d109c6.jpg)
+
+Image: Malbec. Credit: Ian L, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Malbec_grapes.jpg)). Related image for Mendoza wine trail: Luján de Cuyo to Maipú.

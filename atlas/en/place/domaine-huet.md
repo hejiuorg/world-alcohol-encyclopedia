@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:domaine-huet
 source_lang: zh
-source_revision: sha256:d038fb74fa2dfa9cf18bfcdc4055d9dfece12965eee0dc3d436e5aaca1788232
-source_sha256: d038fb74fa2dfa9cf18bfcdc4055d9dfece12965eee0dc3d436e5aaca1788232
+source_revision: sha256:5bffe77d4315874e9caccd7c8e90a47c59c910a33f0ab28af8fc301e11abdd9e
+source_sha256: 5bffe77d4315874e9caccd7c8e90a47c59c910a33f0ab28af8fc301e11abdd9e
 translation_status: reviewed
 subtype: winery-visitor
 address: 11 rue de la Croix Buisée, 37210 Vouvray, France
@@ -85,6 +85,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, bookings and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Domaine Huet
 
 Domaine Huet stands at 11 rue de la Croix Buisée in Vouvray, in France's Loire Valley. It is known for Chenin Blanc, with thirty hectares split into three core parcels: Haut-Lieu, Le Mont and Clos du Bourg. Huet is not an estate designed around a visitor route; cellar, office and reception share the same site, so confirming whether a visit is possible is more sensible than simply turning up at the address.![Domaine Huet image](/media/photos/place-domaine-huet-0a5b40db.jpg)
@@ -154,3 +155,9 @@ Opening hours, bookings and transport are subject to official channels; page ver
 | City and country | Vouvray / France |
 | Status | to verify |
 | Official site | domainehuet.com |
+
+## Related images
+
+![Chenin Blanc](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+Image: Chenin Blanc. Credit: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)). Related image for Domaine Huet.

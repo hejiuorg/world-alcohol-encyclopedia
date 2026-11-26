@@ -115,6 +115,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格与冬季路况会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 达尔维尼酒厂
 
 达尔维尼（Dalwhinnie）在 A9 公路旁，佩斯（Perth）与因弗内斯（Inverness）之间，属于凯恩戈姆国家公园的边缘。村子海拔约 355 米，酒厂官方把这里称作苏格兰最高、最冷的蒸馏厂之一；它没有海边的盐雾，也没有斯佩塞的密集酒厂群，风格来自高地的水、轻微的泥煤与一套很少见的冷凝设备。
@@ -168,3 +169,9 @@ Classic Distillery Tour 约 45 分钟，走完糖化、发酵、蒸馏与 Dunnag
 | 官网 | malts.com |
 
 **来源与边界。** 本页关于「达尔维尼酒厂」的关键事实，主要由以下来源交叉核对：Diageo / Malts（45 分钟经典导览、三款单一麦芽配苏格兰巧克力、Dunnage 仓库与纪念品）、VisitScotland（酒厂选址与泉水、周边泥煤、凯恩戈姆国家公园与“苏格兰最高蒸馏厂”的表述）、Malt Madness（仍在使用虫管冷凝器、其中部分为木制虫管的说法）等 10 条来源。产品、地址或营业状态变化较快时，以 malts.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![单一麦芽苏格兰威士忌](/media/photos/drink-style-single-malt-scotch-9e96a856.jpg)
+
+图：单一麦芽苏格兰威士忌。图片：Sansvase，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)）。关联图像：达尔维尼酒厂。

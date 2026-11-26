@@ -91,6 +91,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 威尼托
 
 威尼托（Veneto，意大利语 Veneto）位于[意大利](ref:italy)东北部，从阿尔卑斯山南麓的多洛米蒂一直延伸到亚得里亚海与威尼斯潟湖。它是意大利重要的葡萄酒产区，以瓦坡里切拉的红葡萄酒、苏阿韦的白葡萄酒与普罗塞克的起泡酒三大板块最为人熟知。
@@ -181,3 +182,13 @@ verification_scope: source-verified
 **并读。** 把「威尼托」与「意大利」、「格莱拉」、「科维纳」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「威尼托」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![科维纳](/media/photos/variety-corvina-633c9e19.jpg)
+
+图：科维纳。图片：Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VIVC2863_CORVINA_VERONESE_Cluster_in_the_field_19664.jpg)）。关联图像：威尼托。
+
+![普罗塞克](/media/photos/drink-italy-prosecco-6e982221.jpg)
+
+图：普罗塞克。图片：Sandstein，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Prosecco_di_Conegliano_bottle_and_glass.jpg)）。关联图像：威尼托。

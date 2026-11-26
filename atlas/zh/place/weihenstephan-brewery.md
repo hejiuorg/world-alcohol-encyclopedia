@@ -77,6 +77,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观时段、费用与营业安排会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 唯森啤酒厂
 
 ![唯森啤酒厂相关实景照片](/media/photos/place-weihenstephan-brewery-a3316b19.jpg)
@@ -134,3 +135,9 @@ verification_scope: source-verified
 | 官网 | weihenstephaner.de |
 
 **来源与边界。** 本页关于「唯森啤酒厂」的关键事实，主要由以下来源交叉核对：Bayerische Staatsbrauerei Weihenstephan（品牌名称、官方联系渠道与 1040 年酿酒特许的表述；官网部分页面要求年龄确认，正文未复制）、Bräustüberl Weihenstephan（山下酒馆地址 Weihenstephaner Berg 10、每日 10:00–23:00、厨房时段、啤酒花园与 Obazda 发源地的说法）、Stadt Freising（弗赖辛城市交通与酒厂位于城市西侧山丘的位置关系）。产品、地址或营业状态变化较快时，以 weihenstephaner.de 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![小麦啤酒](/media/photos/drink-style-wheat-beer-5513b4e6.jpg)
+
+图：小麦啤酒。图片：Takeaway，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2013_Augustiner_Weissbier_Munich_pub.jpg)）。关联图像：唯森啤酒厂。

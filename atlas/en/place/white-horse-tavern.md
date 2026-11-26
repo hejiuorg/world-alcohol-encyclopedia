@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:white-horse-tavern
 source_lang: zh
-source_revision: sha256:f1909acf417fdb88d8563c9f487e16ef4b399371ccd27ab06bfd6dc191b01ff4
-source_sha256: f1909acf417fdb88d8563c9f487e16ef4b399371ccd27ab06bfd6dc191b01ff4
+source_revision: sha256:73969420f2661030a4c11d9a079b210caeced736102bf4145073e231660e315c
+source_sha256: 73969420f2661030a4c11d9a079b210caeced736102bf4145073e231660e315c
 translation_status: reviewed
 subtype: pub
 address: 567 Hudson Street, New York, NY 10014, USA
@@ -86,6 +86,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # White Horse Tavern
 
 White Horse Tavern (Báimǎ Jiǔguǎn) stands at 567 Hudson Street in Manhattan’s West Village and opened in 1880. It began as a place where longshoremen from the Hudson River piers drank after work, and in the 1950s it became a gathering point for writers, artists and musicians. Today its most famous label is “Dylan Thomas’s last stop”: on 3 November 1953 the Welsh poet drank here, and he died a few days later. The story that he downed eighteen whiskies that night is repeated everywhere, but witnesses put the number anywhere from six to eight. Eighteen is legend, not a verified count.
@@ -135,3 +136,9 @@ Further reading: [A Ginjinha](ref:c-extra-1).
 White Horse Tavern is best approached through the address, then the current opening status, and then what the place is known for. One check alone will not settle it.
 
 Setting [Beer](ref:beer)'s address and space beside [McSorley’s Old Ale House](ref:mcsorleys)'s operating status makes the boundary between them visible.
+
+## Related images
+
+![McSorley’s Old Ale House](/media/photos/place-mcsorleys-old-ale-house-e0695349.jpg)
+
+Image: McSorley’s Old Ale House. Credit: Leonard J. DeFrancisci, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:McSorley%27s_Old_Ale_House_001_crop.jpg)). Related image for White Horse Tavern.

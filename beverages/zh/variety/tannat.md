@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 丹娜
 
 原产法国西南部马迪朗一带的红葡萄，以高单宁、深色与强陈年潜力著称；在乌拉圭成为国家标志品种，常与梅洛、品丽珠混酿以柔化结构。
@@ -166,3 +167,9 @@ Tannat 的名称可能与“tannin”（单宁）有关，也可能来自地方�
 | 物种 | Vitis vinifera |
 
 **来源与边界。** 本页关于「丹娜」的关键事实，主要由以下来源交叉核对：Julius Kühn-Institut（品种名称、同义词、起源与全球分布）、OIV（葡萄品种与栽培框架）、USDA ARS（植物分类、种质与栽培信息）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![梅洛](/media/photos/variety-merlot-2a33ecba.jpg)
+
+图：梅洛。图片：Felloni claire，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Merlot.jpg)）。关联图像：丹娜。

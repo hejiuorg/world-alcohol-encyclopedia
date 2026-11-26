@@ -71,6 +71,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 琼瑶浆
 
 琼瑶浆（Gewürztraminer）是世界上最容易辨认的白葡萄之一：荔枝、玫瑰、姜与肉桂的香气几乎不需要训练就能识别。但它的辨识度也带来误解——很多人以为它一定是甜酒，或者以为香气越浓质量越高。实际上，琼瑶浆的酸度低、酒精高，风格从干型到贵腐甜酒都有，平衡才是难点。
@@ -141,3 +142,9 @@ verification_scope: source-verified
 | 一句话定位 | 果皮呈粉红色的芳香型白葡萄品种，名称源自意大利南蒂罗尔的特拉明（Tramin）；它是萨瓦宁（Savagnin）的芳香变异，酸度偏低、糖分积累快，以荔枝、玫瑰、姜与肉桂香气著称，主要种植于阿尔萨斯、德国、奥地利与意大利北部 |
 | 物种 | Vitis vinifera |
 | 代表产区 | 法国、德国 |
+
+## 相关图像
+
+![艾格尼科](/media/photos/variety-aglianico-d4dec6be.jpg)
+
+图：艾格尼科。图片：Alexis Kreyder，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aglianico_Viala_Vermorel.jpg)）。关联图像：琼瑶浆。

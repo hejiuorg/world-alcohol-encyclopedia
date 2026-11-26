@@ -88,6 +88,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # 马德拉酒路线：丰沙尔市中心的两种酒商面孔
 
 两站都在丰沙尔市中心，步行十来分钟：阿夫里加大道 28 号的布兰迪酒庄，与费拉兹街 28 号的恩里克斯与恩里克斯。一家把 17 世纪的修道院改成面向访客的酒窖，用导览讲 1811 年以来的家族史与 canteiro 阁楼；另一家是 1850 年创立、仍拥有 Quinta Grande 葡萄园的酒商，讲的是原料与熟成的控制权。两站合起来，能把“马德拉为什么耐放”讲成工艺问题，而不只是“甜酒”印象。
@@ -155,3 +156,13 @@ updated_at: 2026-11-08
 补充阅读：[马德拉](ref:c-extra-1)、[葡萄牙](ref:c-extra-2)、[马德拉](ref:c-extra-3)。
 
 相关条目：[布兰迪葡萄酒庄](ref:blandys)、[恩里克斯与恩里克斯酒庄](ref:henriques)、[马德拉](ref:c-extra-1)。
+
+## 相关图像
+
+![葡萄牙类别配图](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+图：葡萄牙类别配图。图片：John Hayes from San Antonio, Texas, USA，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=151531010)）。关联图像：马德拉酒路线：丰沙尔市中心的两种酒商面孔。
+
+![一瓶 Barbeito Verdelho 10 年马德拉与一杯琥珀色酒液。](/media/photos/drink-style-madeira-wine-3d5661cf.jpg)
+
+图：一瓶 Barbeito Verdelho 10 年马德拉与一杯琥珀色酒液。。图片：Origenes.Adamantius，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Madeira_Barbeito_Verdelho_Old_Reserva_-_Bottle_Glass.jpg)）。关联图像：马德拉酒路线：丰沙尔市中心的两种酒商面孔。

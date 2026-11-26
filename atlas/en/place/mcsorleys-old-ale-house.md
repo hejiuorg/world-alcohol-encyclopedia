@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:mcsorleys-old-ale-house
 source_lang: zh
-source_revision: sha256:9d0afc5b45b5bced905df11554cf39446f44f2cad4e651a24765dd99f01dcde9
-source_sha256: 9d0afc5b45b5bced905df11554cf39446f44f2cad4e651a24765dd99f01dcde9
+source_revision: sha256:803d413c75efdbb0c1eb04707f8ad12ec4510c707f4d77b8d081a4938af96080
+source_sha256: 803d413c75efdbb0c1eb04707f8ad12ec4510c707f4d77b8d081a4938af96080
 translation_status: reviewed
 subtype: pub
 address: 15 East 7th Street, New York, NY 10003, USA
@@ -87,6 +87,7 @@ rights:
   note: Third-party standards, trademarks, photographs and quoted texts are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # McSorley’s Old Ale House
 
 McSorley’s Old Ale House (Màikèsuǒlì Lǎo Màijiǔguǎn) stands at 15 East 7th Street in the East Village of New York. John McSorley, an Irish immigrant, opened it in 1854 under the name “The Old House at Home.” Its defining feature is not age but narrowness: for most of its history it has served one kind of drink, ale, in two forms, light and dark. The room still holds wooden tables, old posters, pendant lamps and objects left by generations of customers. In 1970, under court order and pressure from the city council, it ended its long men-only policy and admitted women. The sign at the door, “Be Good or Be Gone,” is both a house rule and a description of the place’s character.
@@ -136,3 +137,9 @@ Further reading: [A Ginjinha](ref:c-extra-1).
 Read McSorley’s Old Ale House through the address, then the current opening status, and finally what the place is known for. The sequence matters.
 
 [Beer](ref:beer) and [White Horse Tavern](ref:white-horse) are the nearest useful comparisons: one clarifies address and space, the other tests operating status.
+
+## Related images
+
+![Photograph for White Horse Tavern: White Horse Tavern PA. Credit: Smallbones, CC0, via Wikimedia Commons.](/media/photos/q2-place-white-horse-tavern-b0f0ef12.jpg)
+
+Image: White Horse Tavern PA. Credit: Smallbones, CC0, via Wikimedia Commons.. Credit: Smallbones, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13351900)). Related image for McSorley’s Old Ale House.

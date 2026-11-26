@@ -824,4 +824,9 @@
 - [Xinomavro](variety/xinomavro.md) — A red grape from Naoussa in northern Greece, known for high acidity, firm tannin and tomato-olive notes, often called “t…
 - [Zinfandel](variety/zinfandel.md) — A red grape native to Dalmatia in Croatia and genetically identical to Italy's Primitivo, brought to the United States in the 19th century and now the signature grape of California old vines and high-alcohol reds.
 - [Zweigelt](variety/zweigelt.md) — Austria’s most important red grape, a cross of Blaufränkisch and St. Laurent; early-ripening and high-yielding, deep in …
-
+- [Henan](region/henan.md) — A Central Plain province on the middle Yellow River where strong-aroma baijiu leads, with light, sauce and local styles, and where wheat, sorghum, maize and water shape the base.
+- [Hunan](region/hunan.md) — A wet, mountainous province where fuyu and sauce-aroma baijiu coexist with rice wine and yellow rice wine, shaped by the Dongting plain, western valleys and rice farming.
+- [Guangdong](region/guangdong.md) — A rice-based southern province of soy-aroma baijiu, rice-aroma rice wine and Hakka sweet yellow rice wine, with a dense Pearl River Delta food and trade network.
+- [Guangxi](region/guangxi.md) — A karst-and-rice province centred on rice-aroma baijiu, especially Guilin Sanhua, with everyday rice wine and sweet glutinous rice wine alongside.
+- [Jiangxi](region/jiangxi.md) — A rice-based Jiangnan province defined by te-aroma baijiu, red-stone pits and a composite fragrance, with strong and light aroma also present.
+- [Inner Mongolia](region/inner-mongolia.md) — A northern province of Hetao grain baijiu and grassland fermented mare's-milk wine, with strong aroma on the plain and airag in pastoral life.

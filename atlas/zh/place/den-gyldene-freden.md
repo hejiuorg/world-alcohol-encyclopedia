@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY-SA 3.0，署名与许可见正文图注。营业时间、价格与菜单以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 金色和平餐厅
 
 斯德哥尔摩老城（Gamla Stan）的东长街（Österlånggatan）是一条窄长的石板街，两侧是 17–18 世纪的房子。51 号门口挂着“Den Gyldene Freden 1722”的招牌，中文常译“金色和平”。它不是一家把历史做成布景的餐厅，而是一间仍在营业的瑞典老馆子：木梁、石灰墙、旧吊灯、厚菜单，以及楼上那个与瑞典学院有关的房间。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 - [哈维尔卡咖啡馆](ref:hawelka)：维也纳的家族咖啡馆，另一种“作家与艺术家”传统。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[博廷餐厅](ref:botin)、[最后一审餐厅](ref:instanz)。
+
+## 相关图像
+
+![马德里刀匠街 17 号的博廷餐厅正立面，棕色遮阳篷上写着“Restaurante Sobrino de Botín”和“Horno de Asar”。](/media/photos/place-botin-23c31832.jpg)
+
+图：马德里刀匠街 17 号的博廷餐厅正立面，棕色遮阳篷上写着“Restaurante Sobrino de Botín”和“Horno de Asar”。。图片：Ank Kumar，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2014_-_Sobrino_de_Bot%C3%ADn_%28Casa_Bot%C3%ADn%29_Restaurant%2C_Madrid%2C_Spain_%28_Ank_Kumar_%29_01.jpg)）。关联图像：金色和平餐厅。

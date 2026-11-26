@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:xishui
 source_lang: zh
-source_revision: sha256:80bf94cf54416bff8c4a8d262ca0f010cec6be8cb1806e83e43e66cfa4b2446b
-source_sha256: 80bf94cf54416bff8c4a8d262ca0f010cec6be8cb1806e83e43e66cfa4b2446b
+source_revision: sha256:845db0a8924903c3d2769d2f55b48f4260363ad70d380795aedcd052cb036607
+source_sha256: 845db0a8924903c3d2769d2f55b48f4260363ad70d380795aedcd052cb036607
 translation_status: reviewed
 level: city
 parent_id: region:zunyi
@@ -96,6 +96,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. Third-party images are credited in the captions.
 verification_scope: source-verified
 ---
+
 # Xishui County
 
 Xishui County belongs to Zunyi in Guizhou and lies in the north of the province, west of Zunyi, at the junction of northern Guizhou, southern Sichuan and western Chongqing. Tongzi and Qijiang in Chongqing border it to the east; Chishui to the west; Renhuai and Gulin in Sichuan to the south; and Hejiang in Sichuan to the north. The official profile gives an area of 3,128 square kilometres, 26 township-level units and a total population of about 800,000. A separate county government page lists 4 subdistricts, 20 towns, 2 townships and 257 villages or communities. The difference reflects the statistical date and classification method; cite the version being used.
@@ -158,3 +159,13 @@ Fourth, do not estimate the distance from Xishui to Xijiu Town or Tucheng using 
 - To place Xishui within Zunyi and Guizhou, read [Zunyi](ref:zunyi) and [Guizhou](ref:guizhou); for the other bank, read [Gulin](ref:gulin) and [Luzhou](ref:luzhou).
 - To compare the Maotai and Xijiu town positions, read [Maotai Town](ref:maotai); for the strong-aroma route, read [strong-aroma baijiu](ref:strong).
 - For the national picture of liquor geography, read [China](ref:china) and [baijiu](ref:baijiu).
+
+## Related images
+
+![The Chishui River valley at Maotai Town, used to show the river landscape; not Erlang Town in Gulin or a Langjiu factory view](/media/photos/region-chishui-river-maotai-cc0.jpg)
+
+Image: The Chishui River valley at Maotai Town, used to show the river landscape; not Erlang Town in Gulin or a Langjiu factory view. Credit: Wahsaw, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chishui_River_Bank_in_Maotai%28Moutai%29_Town%2C_Renhuai_City%2C_Zunyi%2C_Guizhou.jpg)). Related image for Xishui County.
+
+![Related photograph of Maotai Distillery (Kweichow Moutai)](/media/photos/place-maotai-distillery-da9a56fc.jpg)
+
+Image: Related photograph of Maotai Distillery (Kweichow Moutai). Credit: Jula2812, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Maotai_-_Kweichow_Moutai_Distillery_China,_Flasche_Etikett_Detail_(2).jpg)). Related image for Xishui County.

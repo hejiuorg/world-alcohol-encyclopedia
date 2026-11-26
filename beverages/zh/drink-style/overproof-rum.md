@@ -75,6 +75,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 高度朗姆
 
 酒精度显著高于常规朗姆的类别，常见 57.15% ABV 或 75.5% ABV（151 US proof）；风味强烈、易燃，多用于调酒与烹饪。
@@ -163,3 +164,9 @@ Plantation OFTD（69% ABV）与 Rum Fire、Rum-Bar 等牙买加高酯版本也�
 **来源与边界。** 本页关于「高度朗姆」的关键事实，主要由以下来源交叉核对：European Union（烈酒类别、定义与标签规则）、US TTB（美国威士忌、朗姆与烈酒分类）、West Indies Rum and Spirits Producers' Association（加勒比朗姆酒的生产、地理标志与行业标准）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「高度朗姆」与「朗姆酒」、「蒸馏」、「牙买加」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![牙买加类别配图](/media/photos/place-appleton-estate-b81db790.jpg)
+
+图：牙买加类别配图。图片：Acampbell3000，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Appleton_Estate_Jamaica_November_2012.jpg)）。关联图像：高度朗姆。

@@ -14,8 +14,8 @@ legacy_refs: []
 translation_of: region:france
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a6dc15bd2754811a6a168d6fb0b884e02710240a4ee272146c65dab304409925
-source_sha256: a6dc15bd2754811a6a168d6fb0b884e02710240a4ee272146c65dab304409925
+source_revision: sha256:714887ecb862a1d034f2c3b5a6b8381c4ce8271a190e7fa5bf77951a1c3604bc
+source_sha256: 714887ecb862a1d034f2c3b5a6b8381c4ce8271a190e7fa5bf77951a1c3604bc
 aliases:
   - French Republic
   - France
@@ -188,3 +188,13 @@ Third, Bordeaux is not only red wine. Bordeaux also produces dry white and sweet
 This region describes France's regional framework and regulatory logic. It does not evaluate specific estates, vintages or market prices. See [Château Lafite Rothschild](ref:lafite) and [Dom Pérignon](ref:dom-perignon) for specific wines.
 
 **In brief:** A major European producer of wine and spirits, known for its appellation system, diverse climates and layered regions; AOC/AOP guarantees origin and rules, not a quality ranking.
+
+## Related images
+
+![Louis Pasteur](/media/photos/person-louis-pasteur-83ab6d60.jpg)
+
+Image: Louis Pasteur. Credit: Paul Nadar, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg)). Related image for France.
+
+![A white wine tasting glass; a first wine starts with glass shape, temperature and aroma](/media/photos/guide-first-wine-030c8359.jpg)
+
+Image: A white wine tasting glass; a first wine starts with glass shape, temperature and aroma. Credit: Tim Parkinson, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:White_wine_tasting_glass.jpg)). Related image for France.

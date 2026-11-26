@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1860
 ---
+
 # 拉布拉之家
 
 从太阳门（Puerta del Sol）往北拐进 Calle de Tetuán，走几十米就能看到一块老式玻璃招牌与弧形木立面，门口常有人站着吃炸鱼条。Casa Labra 不是那种有菜单、有服务员、有桌布的餐厅；它更像一间“站着吃”的老酒馆：锌皮吧台、大理石小桌、墙上挂着谚语与老照片，柜台上堆着刚炸好的 bacalao。它离太阳门只有一分钟，却保留着十九世纪马德里 taberna 的节奏。
@@ -155,3 +156,9 @@ Casa Labra 的空间分两层：底层是站着吃的吧台区，锌皮台面被
 - 相关条目：[四猫咖啡馆](ref:gats)、[马杰斯蒂克咖啡馆](ref:majestic)、[巴黎丽兹 Hemingway 酒吧](ref:hemingway)、[花神咖啡馆（威尼斯）](ref:florian)、[和平咖啡馆](ref:paix)
 
 对照阅读：[四猫咖啡馆](ref:gats)、[丽兹海明威酒吧](ref:hemingway)。
+
+## 相关图像
+
+![丽兹酒店海明威酒吧入口的铜字招牌；酒吧只有 25 个座位、没有背景音乐，照片为入口标识，不是吧台内部。](/media/photos/place-hemingway-bar-ritz-paris-3ee551c6.jpg)
+
+图：丽兹酒店海明威酒吧入口的铜字招牌；酒吧只有 25 个座位、没有背景音乐，照片为入口标识，不是吧台内部。。图片：Pablo Sanchez，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bar_Hemingway_Ritz.jpg)）。关联图像：拉布拉之家。

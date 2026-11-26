@@ -163,3 +163,9 @@ verification_scope: source-verified
 - 宿迁市人民政府 — https://www.suqian.gov.cn/（宿迁市人民政府，核对 2026-11-25）
 
 相关条目：[洋河酒厂文化旅游区](ref:yanghe)、[宿迁洋河路线](ref:route)、[洋河（双沟母品牌）](ref:brand)、[洋河股份](ref:producer)、[浓香型白酒](ref:style)、[江苏省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![江苏省](/media/photos/region-jiangsu-f89e739b.jpg)
+
+图：江苏省。图片：xiquinhosilva，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Nanjing_CBD_from_City_Wall.jpg)）。关联图像：双沟酒业（双沟镇）。

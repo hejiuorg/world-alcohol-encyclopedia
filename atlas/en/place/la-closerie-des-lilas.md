@@ -31,8 +31,8 @@ tags:
 translation_of: place:la-closerie-des-lilas
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1f3b32835ff0fa2be8e74e2e49410b812bf820a4479c374dd8914885912f19e4
-source_sha256: 1f3b32835ff0fa2be8e74e2e49410b812bf820a4479c374dd8914885912f19e4
+source_revision: sha256:b11792abb56da07dc47fba1c20797c45b971e9c21133a5eaaf3abec8fee2abc4
+source_sha256: b11792abb56da07dc47fba1c20797c45b971e9c21133a5eaaf3abec8fee2abc4
 related:
   - relation: about
     target_id: place:brasserie-lipp
@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1847
 ---
+
 # La Closerie des Lilas
 
 Walk along Boulevard du Montparnasse to the Observatoire crossroads and a row of storefronts wrapped in greenery and awnings comes into view, with a menu board at the door and piano music coming from inside. This is La Closerie des Lilas. Unlike Café de Flore or Les Deux Magots, it does not turn "literary café" into an obvious tourist label; the entrance is almost understated. Inside, however, Hemingway's name is engraved on the bar, old photographs hang on the walls, and the piano bar in the back has live jazz in the evening. It is a restaurant, a bar and a still-living piece of Montparnasse's literary memory.
@@ -149,3 +150,9 @@ A few minutes east of the Closerie are La Coupole and Brasserie Lipp; west are M
 For La Closerie des Lilas, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
 
 The Sun Also Rises was published in 1926.
+
+## Related images
+
+![The Art Deco facade and red awning of La Coupole, 102 boulevard du Montparnasse](/media/photos/place-la-coupole-dcbeb3f5.jpg)
+
+Image: The Art Deco facade and red awning of La Coupole, 102 boulevard du Montparnasse. Credit: besopha, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:La_coupole_(46200235745).jpg)). Related image for La Closerie des Lilas.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:hofbrauhaus
 source_lang: zh
-source_revision: sha256:207fa0ee4dac37abe65ba319643a75193f8641783f1675311675b44080dab1b8
-source_sha256: 207fa0ee4dac37abe65ba319643a75193f8641783f1675311675b44080dab1b8
+source_revision: sha256:694c57a6720c7ffd0ffb7061aaa589b04e4ec04ece132f678bbccc1e1489db0d
+source_sha256: 694c57a6720c7ffd0ffb7061aaa589b04e4ec04ece132f678bbccc1e1489db0d
 translation_status: reviewed
 subtype: pub
 address: Platzl 9, 80331 München, Germany
@@ -149,3 +149,9 @@ To compare a beer hall with a brewery, spend another day at the [Augustiner brew
 Hofbräuhaus is best read by starting with the address, moving to the current opening status, and ending with what the place is known for.
 
 Setting [Beer](ref:beer)'s address and space beside [Augustiner-Bräu](ref:augustiner)'s operating status makes the boundary between them visible.
+
+## Related images
+
+![Augustiner-Bräu](/media/photos/place-augustiner-braeu-91b4e63c.jpg)
+
+Image: Augustiner-Bräu. Credit: Elisa.rolle, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Augustiner-Br%C3%A4u_0004.jpg)). Related image for Hofbräuhaus.

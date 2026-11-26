@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:prohibition
 source_lang: zh
-source_revision: sha256:8c4b4660b954e31262b19822fc8871b93526d833c341aed76885fb21b41ea194
-source_sha256: 8c4b4660b954e31262b19822fc8871b93526d833c341aed76885fb21b41ea194
+source_revision: sha256:8152bf890ff3f1d0cc5ba36be722cdcfcda4478d9d3a9e645209ff8ba5bd8c4a
+source_sha256: 8152bf890ff3f1d0cc5ba36be722cdcfcda4478d9d3a9e645209ff8ba5bd8c4a
 translation_status: reviewed
 about_refs:
   - historical-event:us-prohibition
@@ -55,6 +55,12 @@ sources:
     publisher: By Ban Gu (Han); Zhonghua Book Company punctuated edition
     note: Used to check records of the Han state wine monopoly; no source text is reproduced.
     accessed: 2026-11-04
+  - key: nara-volstead
+    title: "The Volstead Act — National Archives"
+    url: "https://www.archives.gov/education/lessons/volstead-act"
+    publisher: "U.S. National Archives"
+    note: "Used to check the 18th Amendment, the Volstead Act and enforcement outcomes; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -107,6 +113,35 @@ The lesson of prohibition history is not that prohibition always fails, but that
 Prohibition is best read by starting with the subject it covers, moving to the sources it draws on, and ending with what it adds to the general account.
 
 Prohibition is not mainly a story about whether people still wanted alcohol. It is a story about how supply was reorganised after legal channels closed: illicit distillation, medicinal exemptions, cross-border smuggling and organised crime filled the gap, while enforcement costs rose. The American case shows that a ban can change supply and prices without eliminating demand. Reading it only as moral failure or policy success misses the market and enforcement structure. Enforcement also changed tax structures, medical exemptions and cross-border policing, and those institutional consequences are more useful to compare than a simple question of whether people still drank.
+
+
+## Decision table: a Prohibition timeline
+
+| Date | Policy or event | Consequence for supply |
+| --- | --- | --- |
+| 1919 | the 18th Amendment is ratified by enough states | manufacture, sale and transport of intoxicating liquor are banned |
+| 1920 | the Volstead Act takes effect | a 0.5% alcohol threshold, with medical and religious exemptions |
+| 1920s | moonshine, smuggling and speakeasies expand | prices rise, quality becomes uncontrolled, organised crime grows |
+| 1933 | the 21st Amendment repeals the 18th | Prohibition ends; licensing and control frameworks remain |
+
+This table follows the main line only; motives and enforcement differed by country, so US experience should not be applied everywhere.
+
+## Frequently asked questions
+
+### Why did Prohibition fail?
+
+Not because demand disappeared, but because enforcement was costly, substitute supply was strong and exemptions were wide. When legal channels closed, moonshine, medicinal alcohol, sacramental wine and cross-border smuggling filled the gap; uneven enforcement pushed the risks onto those most likely to encounter bad liquor.
+
+### Was there really no alcohol at all?
+
+No. Medicinal alcohol could be bought by prescription, sacramental wine could be allocated, home fermentation of fruit was allowed in limited cases, and moonshine and smuggling never stopped. Prohibition changed the channel and price of supply, not the demand to drink.
+
+### What did it leave behind?
+
+A more complex licensing system, federal-state division of power, and alcohol control as a public-policy field. The US case also suggests that if the goal is harm reduction, taxation, restricted hours, state monopolies and advertising limits are often more sustainable than a total ban.
+
+> **Next:** Read the background on [Prohibition-era America](ref:anti-saloon), then [the history of taverns](ref:taverns) for the relationship between speakeasies and public space; continue with [pubs and the city](ref:public-house).
+
 
 ## Related entries
 

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:casablanca-valley
 source_lang: zh
-source_revision: sha256:2953443aadfd6fc34c764838cbd47d938bd06d56c1d58c86c58102cdb76a55e7
-source_sha256: 2953443aadfd6fc34c764838cbd47d938bd06d56c1d58c86c58102cdb76a55e7
+source_revision: sha256:7614ded3c4888fb6c91fe9c4761724844f85a3dc239cff7b86cefd3d0f808964
+source_sha256: 7614ded3c4888fb6c91fe9c4761724844f85a3dc239cff7b86cefd3d0f808964
 translation_status: reviewed
 level: other
 parent_id: region:chile
@@ -98,6 +98,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Casablanca Valley
 
 Casablanca Valley is a cool-climate region north-west of Santiago, on the road to Valparaíso, and a key site in the modernisation of Chilean white wine. It was replanted in the 1980s, gained legal status in 1994 and is known for Sauvignon Blanc, Chardonnay and Pinot Noir.
@@ -182,3 +183,13 @@ Read [Wine](ref:wine) for the geographic boundary side of Casablanca Valley, and
 - [Lees ageing](ref:lees-ageing): how lees contact changes texture.
 - [Terroir](ref:terroir): granite clay, fog and slope.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Editorial illustration of lees ageing: wine layered above fine lees, with a racking tube and sample glass; AI-assisted illustration, not a photograph.](/media/photos/editorial-lees-ageing-q2.jpg)
+
+Image: Editorial illustration of lees ageing: wine layered above fine lees, with a racking tube and sample glass; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Casablanca Valley.
+
+![A vineyard in the Andean foothills of Chile, with rows of vines running across the slope.](/media/photos/region-chile-7480a4eb.jpg)
+
+Image: A vineyard in the Andean foothills of Chile, with rows of vines running across the slope.. Credit: Beatrice Murch, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chilean_vineyard_in_Andes_foothills.jpg)). Related image for Casablanca Valley.

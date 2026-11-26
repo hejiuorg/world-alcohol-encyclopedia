@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:navy-rum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c8f7fb747f57fa93306c21583cfa2df61b18a383b945ab73b578a34f00ee2e0f
-source_sha256: c8f7fb747f57fa93306c21583cfa2df61b18a383b945ab73b578a34f00ee2e0f
+source_revision: sha256:45c0a3ccf1afabf94c6355cfaabb4ce020214c0e3517760c6afaae0851abba59
+source_sha256: 45c0a3ccf1afabf94c6355cfaabb4ce020214c0e3517760c6afaae0851abba59
 related:
   - relation: about
     target_id: drink-style:rum
@@ -135,3 +135,9 @@ To approach navy rum, start with a 40% multi-origin blend to learn the molasses 
 - Related: [rum](ref:rum), [distillation](ref:distillation), [oak-ageing](ref:oak), [liqueur](ref:liqueur), [proof-and-abv](ref:proof).
 
 For Navy Rum, begin with the production rule. Then look at the strength, and finally ask the usual serving. The answers point to different choices, not to a single score.
+
+## Related images
+
+![An Old Rip Van Winkle bourbon bottle and label; a real example of how strength and proof are declared, not a hydrometer or measuring instrument](/media/photos/term-proof-and-abv-bfb3bc09.jpg)
+
+Image: An Old Rip Van Winkle bourbon bottle and label; a real example of how strength and proof are declared, not a hydrometer or measuring instrument. Credit: Joe Hall from Oakland, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Old_Rip_Van_Winkle_Whiskey_301243232.jpg)). Related image for Navy Rum.

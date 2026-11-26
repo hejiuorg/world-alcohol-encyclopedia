@@ -71,6 +71,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 马尔贝克
 
 马尔贝克是原产于法国西南部的红葡萄品种，在法国常被称为科特（Côt）。它曾经是波尔多混酿中的五个法定红品种之一，后来在阿根廷找到了更大的舞台。今天提到马尔贝克，多数人首先想到的是门多萨的高海拔葡萄园，而不是法国卡奥尔的黑酒。
@@ -154,3 +155,9 @@ verification_scope: source-verified
 **适用边界。** 对「马尔贝克」而言，品种表现随产区、气候与克隆选择变化；同名品种在不同国家可能指不同材料。
 
 **更新提示。** 「马尔贝克」最近核对于 2026-11-07；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
+
+## 相关图像
+
+![“门多萨”页面配图：Mendoza Vineyard。摄影：Justin De La Ornellas，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-mendoza-043c2ae0.jpg)
+
+图：Mendoza Vineyard。摄影：Justin De La Ornellas，CC BY 2.0，来自 Wikimedia Commons。。图片：Justin De La Ornellas，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25786871)）。关联图像：马尔贝克。

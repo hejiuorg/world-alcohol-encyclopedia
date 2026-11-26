@@ -57,6 +57,12 @@ sources:
     publisher: Agence Touristique du Haut-Rhin / Bas-Rhin
     note: 用于核对凯泽斯堡与里屈埃维尔的酒之路位置与车程关系；未复制原文。
     accessed: 2026-11-09
+  - key: visit-alsace
+    title: "Visit Alsace — 阿尔萨斯葡萄酒之路"
+    url: "https://www.visit.alsace/en/"
+    publisher: "Visit Alsace"
+    note: "用于核对阿尔萨斯葡萄酒之路与特级园村镇背景；未复制原文。"
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -71,6 +77,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔
 
 阿尔萨斯的酒村沿孚日山脉东麓排开，凯泽斯堡与里屈埃维尔相距不远，却代表两种酒庄形态：一座建在修道院旧址上、把生物动力法写进日常；另一座在城墙之内，用家族、出口与法规参与塑造了整个产区的标签语言。这条两站路线把[阿尔萨斯](ref:alsace)的雨影气候、51 个特级园与迟摘、贵腐精选的规则放在同一条车程里，适合作为第一次进入产区的骨架。
@@ -128,3 +135,13 @@ Vendanges Tardives（VT）与 Sélection de Grains Nobles（SGN）是另一套�
 对照阅读：[魏恩巴赫酒庄](ref:weinbach)、[阿尔萨斯](ref:alsace)。
 
 阿尔萨斯特级园路线涉及凯泽斯堡与里屈埃维尔，酒庄参观与圣诞市集期间的营业时间变化大；出发前查各酒庄官网与市集公告。核验于 2026-11-09。
+
+## 相关图像
+
+![雨格酒庄](/media/photos/place-hugel-3f3dd2b6.jpg)
+
+图：雨格酒庄。图片：Photo Claude TRUONG-NGOC，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hugel_et_Fils_Riquewihr_ao%C3%BBt_2020-3.jpg)）。关联图像：阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔。
+
+![“琼瑶浆”页面配图：Gewürztraminer grapes。摄影：Robert Pitkin，CC BY-SA 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-gewurztraminer-0b4647f6.jpg)
+
+图：Gewürztraminer grapes。摄影：Robert Pitkin，CC BY-SA 2.0，来自 Wikimedia Commons。。图片：Robert Pitkin，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=20125056)）。关联图像：阿尔萨斯特级园路线：凯泽斯堡与里屈埃维尔。

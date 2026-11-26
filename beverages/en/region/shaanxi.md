@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:shaanxi
 source_lang: zh
-source_revision: sha256:6ee0afb7ae6d4017ad5c07337e6f8a3980e4cbbba2fc414310c78f936f02c682
-source_sha256: 6ee0afb7ae6d4017ad5c07337e6f8a3980e4cbbba2fc414310c78f936f02c682
+source_revision: sha256:df8e72ea3fd0375afe207297f105405cf8f6d2c5beabaaa708cad0ca54321106
+source_sha256: df8e72ea3fd0375afe207297f105405cf8f6d2c5beabaaa708cad0ca54321106
 translation_status: reviewed
 level: province
 parent_id: region:china
@@ -169,3 +169,13 @@ Fifth, that a geographical indication standard can replace a quality standard. T
 - [Fermentation](ref:fermentation): how loess pits and mixed steaming control fermentation.
 - [Distillation](ref:distillation): how mixed steaming and head/tail cuts affect the body.
 - [Xifeng Group](ref:xifeng): the representative producer of feng aroma.
+
+## Related images
+
+![Thematic illustration for Feng-aroma baijiu](/media/photos/theme-asian.jpg)
+
+Image: Thematic illustration for Feng-aroma baijiu. Project-made bilingual editorial figure, not an on-site photograph. Related image for Shaanxi.
+
+![Sorghum](/media/photos/ingredient-sorghum-879ae613.jpg)
+
+Image: Sorghum. Credit: No machine-readable author provided. Pethan assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg)). Related image for Shaanxi.

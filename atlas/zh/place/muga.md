@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；参观价格、时段与规则会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 姆加酒庄
 
 哈罗车站区（Barrio de la Estación）是一条很短的街，却挤着里奥哈最密集的老酒庄。姆加的门面是一栋 200 年的石宅，门口没有夸张的招牌，院子里却停着橡木桶与制桶工具。它不像瑞格尔侯爵那样用 Gehry 的金属波浪吸引目光，而是把“桶”放在第一位：自己选木、自己制桶、自己修桶，连发酵槽都是橡木的。理解姆加，先理解这家酒庄对“木”的执念。
@@ -160,3 +161,9 @@ Reserva 与 Prado Enea 的陈年桶龄和时长不同；Torre Muga 与 Aro 又�
 - 本页不提供地图；参观价格、时段与规则以官方渠道为准。
 
 对照阅读：[瑞格尔侯爵酒庄](ref:riscal)、[CVNE 酒庄](ref:cvne)。
+
+## 相关图像
+
+![Frank Gehry 设计的瑞格尔侯爵酒店与葡萄园](/media/photos/place-marques-de-riscal-06829c49.jpg)
+
+图：Frank Gehry 设计的瑞格尔侯爵酒店与葡萄园。图片：Roderich Kahn，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Elciego_-_Marqu%C3%A9s_de_Riscal_Hotel_RK01.jpg)）。关联图像：姆加酒庄。

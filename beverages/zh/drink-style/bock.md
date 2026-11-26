@@ -82,6 +82,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 博克啤酒
 
 博克（Bock）是德国的一类深色、以麦芽为主导的烈性拉格，酒体饱满、苦味低、收口偏甜，常见于冬末与春季。它不是一个单一配方，而是以艾因贝克（Einbeck）酿造传统为源头、在慕尼黑被重新解释后形成的家族，包含传统博克、双博克、迈博克与冰博克。放在[拉格](ref:lager)的整体框架里，博克代表的是高浓度麦芽汁、低温发酵与长时间贮酒的组合，而不是单纯的颜色深浅。
@@ -139,3 +140,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「博克啤酒」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（传统博克、双博克与冰博克的强度、苦度与色度区间）、Einbecker Brauhaus AG（艾因贝克啤酒历史与 Ur-Bock 产品系列的公开介绍）、Deutscher Brauer-Bund e.V.（德国啤酒种类与酿造传统的公开表述）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「博克啤酒」与「拉格啤酒」、「皮尔森啤酒」、「小麦啤酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![巴伐利亚类别配图](/media/photos/place-weihenstephan-brewery-a3316b19.jpg)
+
+图：巴伐利亚类别配图。图片：Christian Schranner，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%C3%9Cberblick_der_Bayerischen_Staatsbrauerei_Weihenstephan.jpg)）。关联图像：博克啤酒。

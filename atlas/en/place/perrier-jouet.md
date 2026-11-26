@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:perrier-jouet
 source_lang: zh
-source_revision: sha256:713dc7ecfc634fc69cdd864bad7cc9b6315dcbbcef06b2755ff5836465b13796
-source_sha256: 713dc7ecfc634fc69cdd864bad7cc9b6315dcbbcef06b2755ff5836465b13796
+source_revision: sha256:ae879b789471678c3f5b5916962d84b9213895d6b46cfcff76465d857eb1cf2b
+source_sha256: ae879b789471678c3f5b5916962d84b9213895d6b46cfcff76465d857eb1cf2b
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -162,3 +162,9 @@ With an overnight stay, take the train to Reims the next day for the cathedral a
 - [Moët & Chandon](ref:moet-et-chandon): another Champagne visit in the same town.
 - [Pernod Ricard](ref:pernod-ricard): the group behind the house.
 - [Wine and painting](ref:wine-and-painting): labels, art and consumer culture.
+
+## Related images
+
+![Vineyard at Trépail on the Montagne de Reims, a typical Champagne landscape of chalk soil and slope aspect](/media/photos/region-champagne-712da84c.jpg)
+
+Image: Vineyard at Trépail on the Montagne de Reims, a typical Champagne landscape of chalk soil and slope aspect. Credit: Havang(nl), CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tr%C3%A9pail,_vignes_au_pied_de_la_Montagne_de_Reims.JPG)). Related image for Perrier-Jouët.

@@ -11,8 +11,8 @@ revision: 2
 parent_style_id: drink-style:wine
 translation_of: drink-style:fortified-wine
 source_lang: zh
-source_revision: sha256:b8ab294a616c7f1ff2b0aa2e940cb5292cd548d55246634cfeb23d87e31eba57
-source_sha256: b8ab294a616c7f1ff2b0aa2e940cb5292cd548d55246634cfeb23d87e31eba57
+source_revision: sha256:357ab3cf1c19c080fee883d3e4b3ea9c789b0db78e0e2ffac0301a5e7958f20d
+source_sha256: 357ab3cf1c19c080fee883d3e4b3ea9c789b0db78e0e2ffac0301a5e7958f20d
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -69,6 +69,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Fortified wine
 
 Fortified wine is wine to which grape spirit has been added, raising alcohol content and changing the flavour direction. The added alcohol may stop fermentation and preserve residual sugar, or stabilise a wine whose fermentation is already complete. Different timing, base-wine styles and ageing methods produce very different categories: Port, Sherry, Madeira and Vermouth.![Fortified wine image](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
@@ -144,3 +145,9 @@ For Fortified wine, this style was last checked in 2026; prices, batches and ava
 - [Brandy](ref:brandy): a category of spirit distilled from wine or other fruit wine.
 
 Further reading: [Fortification](ref:c-extra-1), [Jerez](ref:c-extra-2).
+
+## Related images
+
+![Fortification](/media/photos/process-fortification-fbbba4e5.jpg)
+
+Image: Fortification. Credit: John Scofield, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg)). Related image for Fortified wine.

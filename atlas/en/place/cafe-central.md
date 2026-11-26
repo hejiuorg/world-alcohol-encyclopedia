@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:cafe-central
 source_lang: zh
-source_revision: sha256:97102c909569af9e4153b236377cda3851908513252e87343a9c38623199d247
-source_sha256: 97102c909569af9e4153b236377cda3851908513252e87343a9c38623199d247
+source_revision: sha256:bc2a2e26a05d4bbde69a3070a263f2398d0ac3341c0db11ffee17ebbeac2399e
+source_sha256: bc2a2e26a05d4bbde69a3070a263f2398d0ac3341c0db11ffee17ebbeac2399e
 translation_status: reviewed
 subtype: pub
 address: Herrengasse 14 (Ecke Strauchgasse), 1010 Wien, Austria
@@ -154,3 +154,9 @@ To make coffee the theme, compare two or three old cafés in the inner city, but
 Further reading: [A Ginjinha](ref:c-extra-1).
 
 **In brief:** A historic literary café in Vienna, opened in 1876 and known for its coffee, cakes and intellectual clientele.
+
+## Related images
+
+![Café de Flore](/media/photos/place-cafe-de-flore-11d5edba.jpg)
+
+Image: Café de Flore. Credit: Celette, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore,_172_boulevard_Saint-Germain,_Paris_6e.jpg)). Related image for Café Central.

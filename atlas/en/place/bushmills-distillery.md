@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:bushmills-distillery
 source_lang: zh
-source_revision: sha256:762b6abc994effa501bc0082088940345a61e4b703359492b282bc9d241fc77c
-source_sha256: 762b6abc994effa501bc0082088940345a61e4b703359492b282bc9d241fc77c
+source_revision: sha256:1b5aea81d6ebe51019a507b37135a20525b561e72b503299c7684494aba251b4
+source_sha256: 1b5aea81d6ebe51019a507b37135a20525b561e72b503299c7684494aba251b4
 translation_status: reviewed
 subtype: distillery-visitor
 address: 2 Distillery Road, Bushmills, Co Antrim BT57 8XH, Northern Ireland
@@ -88,6 +88,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, tour prices and schedules change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Bushmills Distillery
 
 Bushmills is a village on the north coast of County Antrim, Northern Ireland, and the distillery stands beside the River Bush, about two miles from the Giant's Causeway. Its loudest claim is to be "the world's oldest licensed whiskey distillery", based on a distillation licence dated 1608. The buildings you actually visit — the production halls, visitor centre and 1608 Bar — were built and rebuilt much later. Keeping the licence date, the distillery's own history and the standing buildings apart is the first step to reading the place.
@@ -151,3 +152,9 @@ To set Irish whiskey's two narratives side by side, add [Jameson Bow Street](ref
 | Official site | bushmills.eu |
 
 **Sources and limits.** The key claims about Bushmills Distillery are checked against the following sources: Bushmills (Used to check the official wording on the 1608 licence, triple distillation and 100% malted barley), Tourism Ireland (Used to check tour times, the price range and group booking advice), Tourism NI (Used to check the village setting and the distance to the Antrim coast and the Giant's Causeway). For current products, addresses or opening status, use bushmills.eu. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Jameson Distillery Bow St.](/media/photos/place-jameson-bow-street-c01b6f6b.jpg)
+
+Image: Jameson Distillery Bow St.. Credit: Lingual Friendulum, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jameson_distillery_2.jpg)). Related image for Bushmills Distillery.

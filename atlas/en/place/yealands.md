@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:yealands
 source_lang: zh
-source_revision: sha256:2e5cc399e95cadc0aebf3bcb6117c1d9414790c7656fa6c36cb877ccb4fc2193
-source_sha256: 2e5cc399e95cadc0aebf3bcb6117c1d9414790c7656fa6c36cb877ccb4fc2193
+source_revision: sha256:20505af0a5f40d1d3219b92ba88e7c86802409575f20581806a5284388a969e4
+source_sha256: 20505af0a5f40d1d3219b92ba88e7c86802409575f20581806a5284388a969e4
 translation_status: reviewed
 subtype: winery-visitor
 address: 534 Seaview Road, Seddon, Marlborough 7285, New Zealand
@@ -69,6 +69,12 @@ sources:
     publisher: New Zealand Winegrowers
     note: Used to check the cooler, drier, windier Awatere Valley and its coastal vineyard climate; no source text is reproduced.
     accessed: 2026-11-09
+  - key: wine-marlborough
+    title: "Wine Marlborough — Marlborough wine region"
+    url: "https://www.wine-marlborough.co.nz/"
+    publisher: Wine Marlborough
+    note: Used to check Marlborough sub-regions and wine-industry context; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -76,6 +82,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, tasting formats and booking rules change, so check official channels. The official site was age-gated during verification, so operating status is marked unknown.
 verification_scope: source-verified
 ---
+
 # Yealands
 
 Yealands sits at Seddon in Marlborough, its vineyard close enough to the coast for sea mist to reach the vines. The visit is not a cellar hidden in a city street; it is a combination of coastal farm and tasting room. See the vineyard and the coast first, then return indoors for a glass. The new winery opened on 8 August 2008, and the official account puts "Toitū carbonzero certified from inception" at the centre of the brand. That sentence explains the landscape better than any photograph: sustainability is part of the visit, not a side note.
@@ -125,3 +132,9 @@ Setting [Marlborough](ref:marlborough)'s address and space beside [White wine](r
 ## References
 
 This entry was checked against New Zealand Winegrowers' Yealands entry, its Toitū certification entry and Marlborough region page, plus the Yealands official site entry. Page verified 2026-11-09. The official site was age-gated, so opening hours and booking rules should be confirmed on an accessible official page or on site; operating status is marked unknown and no verified_at is given.
+
+## Related images
+
+![Related photograph of Sauvignon Blanc](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+Image: Related photograph of Sauvignon Blanc. Credit: Geolina163 + 1971markus, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)). Related image for Yealands.

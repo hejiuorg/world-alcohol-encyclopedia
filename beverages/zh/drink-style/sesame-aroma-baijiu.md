@@ -88,6 +88,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 芝麻香型白酒
 
 芝麻香型最容易被名字带偏：它不以芝麻为原料，也不是在酒里加芝麻香精。所谓“芝麻香”，是对一种焙炒、坚果、焦香复合气息的比喻。真正的来源是制曲、堆积、窖池与长期贮存共同形成的微生物与化学反应，尤其是含硫化合物、吡嗪类与烘烤香气物质的叠加。
@@ -177,3 +178,9 @@ verification_scope: source-verified
 | 一句话定位 | 以粮谷为主要原料，可配以麸皮，用大曲、麸曲等糖化发酵剂，经堆积、固态发酵、固态蒸馏、陈酿与勾调而成，具有焙炒芝麻般香气；现行标准为 GB/T 10781.9-2021，高度酒酒精度 40%–68% vol |
 | 上位风格 | 白酒 |
 | 香气家族 | 焙炒香 |
+
+## 相关图像
+
+![小麦](/media/photos/ingredient-wheat-e782d218.jpg)
+
+图：小麦。图片：kallerna，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)）。关联图像：芝麻香型白酒。

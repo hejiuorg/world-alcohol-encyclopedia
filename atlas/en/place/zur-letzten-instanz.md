@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:zur-letzten-instanz
 source_lang: zh
-source_revision: sha256:cb22d408f7d9a5aca9ab1f7b1439fcbacfeba92dc7b9db171047313bd0f930b7
-source_sha256: cb22d408f7d9a5aca9ab1f7b1439fcbacfeba92dc7b9db171047313bd0f930b7
+source_revision: sha256:14cc27a39b0ee8c3be94798a9de8015854529d3e8b34ee4570b2e70939816951
+source_sha256: 14cc27a39b0ee8c3be94798a9de8015854529d3e8b34ee4570b2e70939816951
 translation_status: reviewed
 subtype: pub
 address: Waisenstraße 14–16, 10179 Berlin, Germany
@@ -168,3 +168,9 @@ By day Waisenstraße is quiet and good for photographing the facade; at night th
 - [Den Gyldene Freden](ref:freden): Stockholm's restaurant of 1722, another northern European historic table.
 - [U Zlatého tygra](ref:tygra): a Prague beer hall, another combination of historic space and everyday food.
 - [Café Central](ref:cafe-central): a Viennese literary café, a reminder that "old" takes more than one form.
+
+## Related images
+
+![Den Gyldene Freden in Stockholm's Old Town](/media/photos/place-den-gyldene-freden-ee676e50.jpg)
+
+Image: Den Gyldene Freden in Stockholm's Old Town. Credit: Holger.Ellgaard, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Den_Gyldene_Freden_2013a.jpg)). Related image for Zur letzten Instanz.

@@ -95,6 +95,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与价格会变化，出行前以官网为准。"
 verification_scope: source-verified
 ---
+
 # 达伦堡酒庄
 
 达伦堡是麦克拉伦谷最“不像传统酒庄”的百年家族酒庄：1912 年 Joseph Osborn 买下老葡萄园，四代人至今仍在同一片土地上酿酒；第四代 Chester Osborn 用 70 多款酒、红丝带酒标和一座五层魔方建筑，把“古怪”变成了品牌。
@@ -172,3 +173,9 @@ The Hermit Crab 玛珊-维欧尼适合十到十二度，配海鲜、烤鱼与奶
 - 相关条目：[mclaren-vale](ref:mclaren-vale)、[australia](ref:australia)、[shiraz](ref:shiraz)、[red-wine](ref:red)、[oak-ageing](ref:oak)。
 - 本页不提供实时门票、餐厅库存或营业状态；参观前以酒庄官网为准。
 - 想理解达伦堡，可以把 Dead Arm 与一款普通麦克拉伦谷西拉对照，再把 Ironstone Pressings 与法国罗讷河谷的 GSM 对照，体会“老藤集中度”和“品种混酿”各自的作用。
+
+## 相关图像
+
+![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：达伦堡酒庄。

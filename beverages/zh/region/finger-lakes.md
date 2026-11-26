@@ -94,6 +94,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 手指湖
 
 手指湖是纽约州北部由十一条南北向冰川湖组成的冷凉产区，隶属于 [美国](ref:usa) 葡萄酒框架；雷司令最受国际认可，霞多丽、品丽珠与传统法起泡酒同样重要。四座大湖深水夏季储热、秋季缓释，拉长生长季；产区 1982 年成为联邦 AVA，是纽约州规模最大、酒庄最集中的葡萄酒地带。
@@ -147,3 +148,13 @@ Dr. Konstantin Frank 源自 1962 年创立的 Vinifera Wine Cellars，位于丘�
 近 150 家酒庄分散湖岸乡道间，单次品鉴 60–90 分钟，湖岸两端车程常超半小时，一天两三家预约加午餐已从容。采收季在北半球秋季 9 至 10 月，酒庄最忙；周末节庆人流集中，出发前通过官网或小径协会确认开放时间、预约与费用。参观时不进入作业车间与地块，品鉴后不驾车；土路石阶与门槛不一定无障碍，带长辈先问清设施。
 
 - 相关条目：[usa](ref:usa)、[riesling](ref:riesling)、[chardonnay](ref:chardonnay)、[white-wine](ref:white)、[sparkling-wine](ref:sparkling)。
+
+## 相关图像
+
+![美国类别配图](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+图：美国类别配图。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：手指湖。
+
+![雷司令](/media/photos/variety-riesling-a836132e.jpg)
+
+图：雷司令。图片：No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)）。关联图像：手指湖。

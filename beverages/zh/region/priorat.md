@@ -88,6 +88,7 @@ rights:
   note: 本页配图为普里奥拉托 l'Ermita 葡萄园实拍，按 CC BY-SA 2.0 使用，具体见图片图注。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 普里奥拉托
 
 普里奥拉托（Priorat，西班牙语 Priorato）位于西班牙东北部加泰罗尼亚的塔拉戈纳省内陆，是一处被群山包围的山区葡萄酒产区。它在 2009 年获得 DOQ（Denominació d'Origen Qualificada）等级，与里奥哈同属西班牙目前仅有的两个最高等级原产地名称。产区以[红葡萄酒](ref:red-wine)为主，兼产少量[白葡萄酒](ref:white-wine)，是西班牙现代精品酒复兴的代表之一。
@@ -167,3 +168,13 @@ DOQ 之下没有官方村庄级分级，但酒庄常以村庄名或单一园（v
 **并读。** 把「普里奥拉托」与「西班牙」、「歌海娜」、「西拉」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「普里奥拉托」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+
+图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：普里奥拉托。
+
+![歌海娜](/media/photos/variety-grenache-69c881eb.jpg)
+
+图：歌海娜。图片：Jules Troncy，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)）。关联图像：普里奥拉托。

@@ -77,6 +77,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 西西里
 
 地中海最大的岛屿，意大利产量最大的葡萄酒产区之一；从西部的马萨拉加强酒到东部的埃特纳火山，品种与风格跨度极大，黑达沃拉、卡塔拉托、格里洛与弗拉帕托是核心。
@@ -189,3 +190,13 @@ Nero d’Avola 配番茄酱、茄子、烤肉与硬质奶酪；Nerello Mascalese
 | 国家代码 | IT |
 
 **来源与边界。** 本页关于「西西里」的关键事实，主要由以下来源交叉核对：Italian National Tourist Board（意大利葡萄酒产区的旅行与地理背景）、MASAF（意大利农业与葡萄酒产区管理框架）、OIV（葡萄酒定义与全球生产框架）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![Nero d’Avola：Grappolo di Nero d'Avola（Wikimedia Commons）](/media/photos/variety-nero-d-avola-40ea9761.jpg)
+
+图：Nero d’Avola：Grappolo di Nero d'Avola（Wikimedia Commons）。图片：Fabio Ingrosso from Italy，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grappolo_di_Nero_d%27Avola.jpg)）。关联图像：西西里。
+
+![巴贝拉](/media/photos/variety-barbera-e133d946.jpg)
+
+图：巴贝拉。图片：Agne27，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Barbera_cluster.JPG)）。关联图像：西西里。

@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 弗德乔
 
 西班牙卢埃达产区的白葡萄，带茴香、柑橘、白花与草本香气，酸度清爽；常与长相思、维欧尼混酿，是西班牙现代白葡萄酒的核心品种。
@@ -171,3 +172,9 @@ Verdejo 与 Verdelho 不是同一品种：前者在卢埃达，后者在马德�
 | 代表产区 | 卢埃达 |
 
 **来源与边界。** 本页关于「弗德乔」的关键事实，主要由以下来源交叉核对：Julius Kühn-Institut（品种名称、同义词、起源与全球分布）、OIV（葡萄品种与栽培框架）、USDA ARS（植物分类、种质与栽培信息）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![卢埃达马丁桑乔（Martinsancho）葡萄园，石砾地上的老藤。](/media/photos/region-rueda-01fdfbdc.jpg)
+
+图：卢埃达马丁桑乔（Martinsancho）葡萄园，石砾地上的老藤。。图片：Carlosmartinmm34，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Martinsancho_Vineyard.jpg)）。关联图像：弗德乔。

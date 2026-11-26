@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:jack-daniels-distillery
 source_lang: zh
-source_revision: sha256:aaeeb606a8465983d38435c7e2a428a788a24a7681f9dbcda3aabc230d8b2180
-source_sha256: aaeeb606a8465983d38435c7e2a428a788a24a7681f9dbcda3aabc230d8b2180
+source_revision: sha256:62b9959ee402b2f6eb7164295ae56807c0cb84372c73ff47e4caadc032f057cb
+source_sha256: 62b9959ee402b2f6eb7164295ae56807c0cb84372c73ff47e4caadc032f057cb
 translation_status: reviewed
 subtype: distillery-visitor
 address: 280 Lynchburg Hwy, Lynchburg, TN 37352, USA
@@ -99,6 +99,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, prices and schedules change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Jack Daniel's Distillery
 
 Jack Daniel's sits in the small town of Lynchburg, Tennessee, in Moore County. It is often treated as a synonym for American whiskey, but strictly it makes [Tennessee whiskey](ref:tnwhiskey): the grain and barrel rules are close to [bourbon](ref:bourbon), with an extra sugar-maple charcoal filtration and a requirement that the whiskey be made in Tennessee. The tour runs through the spring, charcoal area, stills and barrel houses before a tasting.
@@ -170,3 +171,9 @@ For Jack Daniel's Distillery, begin with the address. Then look at the current o
 | Official site | jackdaniels.com |
 
 **Sources and limits.** The key claims about Jack Daniel's Distillery are checked against the following sources: Jack Daniel's (Used to check visitor centre hours, location, tour prices and age rules; Used to check the 1.8-hour duration, $35 price, six-sample tasting and daily departures), Brown-Forman. For current products, addresses or opening status, use jackdaniels.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Related photograph of George Dickel Distillery](/media/photos/place-george-dickel-distillery-c9223c18.jpg)
+
+Image: Related photograph of George Dickel Distillery. Credit: Brian Stansberry (photographer), CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:George-dickel-distillery-visitor-center-statue-tn1.jpg)). Related image for Jack Daniel's Distillery.

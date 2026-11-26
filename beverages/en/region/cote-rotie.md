@@ -25,8 +25,8 @@ tags:
 translation_of: region:cote-rotie
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f8a375c27c55ef37828f019612de0bdf9eef455d4a3a8b3f40e13581efc004f5
-source_sha256: f8a375c27c55ef37828f019612de0bdf9eef455d4a3a8b3f40e13581efc004f5
+source_revision: sha256:9c0388a597fe3602138670da2165b9a35e913f024844f42b76003027bce4dcdd
+source_sha256: 9c0388a597fe3602138670da2165b9a35e913f024844f42b76003027bce4dcdd
 related:
   - relation: about
     target_id: region:rhone
@@ -183,3 +183,13 @@ Ampuis is the central village; across the river lie the Roman remains of Vienne,
 Harvest runs around September in the Northern Hemisphere, when estates are busiest; weekend and festival opening hours vary widely, so confirm bookings, fees and languages through the estate website or the appellation union beforehand. Stay out of working cellars and parcels, and do not drink and drive; stepped paths and dry-stone walls may not be wheelchair-accessible, so check facilities before bringing older relatives.
 
 - Related: [rhone](ref:rhone), [syrah](ref:syrah), [viognier](ref:viognier), [red-wine](ref:red), [oak-ageing](ref:oak).
+
+## Related images
+
+![Photograph for Viognier: Viognier Grape must after pressing. Credit: Ian Brown, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-viognier-0ccec251.jpg)
+
+Image: Viognier Grape must after pressing. Credit: Ian Brown, CC BY 2.0, via Wikimedia Commons.. Credit: Ian Brown, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13317886)). Related image for Côte-Rôtie.
+
+![Rhône Valley](/media/photos/region-rhone-df823b9c.jpg)
+
+Image: Rhône Valley. Credit: Béa at French Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Thain1.jpg)). Related image for Côte-Rôtie.

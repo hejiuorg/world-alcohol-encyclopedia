@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:domaines-ott
 source_lang: zh
-source_revision: sha256:50ccb666a7b5923e99d73fde1c0b532ad0ccfefb07dc12f4d4be5da37f42ff56
-source_sha256: 50ccb666a7b5923e99d73fde1c0b532ad0ccfefb07dc12f4d4be5da37f42ff56
+source_revision: sha256:cf16f0da761f9bd015be887080798740748ba6246fae462cf2a44c1d84fcffd1
+source_sha256: cf16f0da761f9bd015be887080798740748ba6246fae462cf2a44c1d84fcffd1
 translation_status: reviewed
 subtype: winery-visitor
 address: 5093 Route de Flayosc, 83460 Taradeau, France
@@ -88,6 +88,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, tour slots and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Domaines Ott
 
 Domaines Ott* is one of the easiest names to recognise in Provence rosé, but it is not a single estate. It is a family brand built around three properties: Château de Selle in Taradeau, Clos Mireille in La Londe-les-Maures and Château Romassan in Le Castellet. All three make rosé, with small quantities of white and red, and each has its own cellar and tasting room. Château de Selle is the one most often visited. The first distinction to make is between the brand, the estate and the place you can actually enter; otherwise a single dot on a map becomes the whole company.
@@ -142,3 +143,9 @@ Plan this stop for a weekday morning, because the cellar and tasting room are no
 - [Vins de Provence — CIVP](https://www.vinsdeprovence.com/): the three Provence appellations and the wine-tourism entry.
 
 Further reading: [Wine](ref:c-extra-1).
+
+## Related images
+
+![Rosé Wine](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+Image: Rosé Wine. Credit: THOR, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)). Related image for Domaines Ott.

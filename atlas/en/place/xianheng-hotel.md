@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:xianheng-hotel
 source_lang: zh
-source_revision: sha256:97f5add81a364180e5360a9adec8274470f82788673a86a643396be96c50d3a5
-source_sha256: 97f5add81a364180e5360a9adec8274470f82788673a86a643396be96c50d3a5
+source_revision: sha256:c5393cc3abc79fdb5ef18c3441352d56e305c2ca872ffc24c8258a3e8911f70b
+source_sha256: c5393cc3abc79fdb5ef18c3441352d56e305c2ca872ffc24c8258a3e8911f70b
 translation_status: reviewed
 subtype: pub
 address: 179 Lu Xun Middle Road, Yuecheng District, Shaoxing, Zhejiang, China
@@ -155,3 +155,9 @@ With older relatives and children, note that the dining hall floor can be wet an
 Xianheng Hotel is a living entry point to [yellow wine](ref:yellow-wine): the drink is not an exhibit but an everyday accompaniment to fava beans, stinky tofu and Shaoxing dishes. Its home city, [Shaoxing](ref:shaoxing), is a core yellow-wine region; placing the hotel within the rice-growing, water-town and ritual landscape of [China](ref:china) makes it easier to understand why "warming a bowl of wine" is an urban habit. For the longer history, continue with the [history of yellow wine](ref:yellow-history).
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Shaoxing](/media/photos/region-shaoxing-e9a43f19.jpg)
+
+Image: Shaoxing. Credit: Zhangzhugang, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg)). Related image for Xianheng Hotel.

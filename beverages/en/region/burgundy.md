@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:burgundy
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:11fa7f1ede34bdf412ecf998e51cb7a50baf060fcf1d38c3d3ba360669beb51f
-source_sha256: 11fa7f1ede34bdf412ecf998e51cb7a50baf060fcf1d38c3d3ba360669beb51f
+source_revision: sha256:ab4b29dcd94bb6385c8868869577de5d43380de9b4cd69a0db0571d16f5fa69f
+source_sha256: ab4b29dcd94bb6385c8868869577de5d43380de9b4cd69a0db0571d16f5fa69f
 level: other
 parent_id: region:france
 country_code: FR
@@ -84,6 +84,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Burgundy
 
 Burgundy is a wine region in eastern France, west of the Saône, built on Pinot Noir and Chardonnay. It runs north to south in a narrow band, divided into Chablis, the Côte d'Or, the Côte Chalonnaise and the Mâconnais, and its four tiers — regional, village, Premier Cru and Grand Cru — mean that parcel boundaries matter more than estate names.
@@ -168,3 +169,13 @@ For Burgundy, begin with the appellation and its permitted varieties. Then look 
 - [Chardonnay](ref:chardonnay) and [Pinot Noir](ref:pinot-noir): the two core varieties of Burgundy.
 - [White wine](ref:white-wine) and [red wine](ref:red-wine): the two basic styles and their winemaking.
 - [Oak ageing](ref:oak-ageing): how barrel size and age shape style.
+
+## Related images
+
+![Chablis](/media/photos/drink-france-chablis-285defc0.jpg)
+
+Image: Chablis. Credit: CocktailSteward, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chablis_and_Premier_Cru_Vaulorent.jpg)). Related image for Burgundy.
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Burgundy.

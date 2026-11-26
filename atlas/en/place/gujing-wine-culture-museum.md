@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:gujing-wine-culture-museum
 source_lang: zh
-source_revision: sha256:4d0869df20bcca6726e662e7698b8068655a24be3c301834bf2bff5ef2c3c90a
-source_sha256: 4d0869df20bcca6726e662e7698b8068655a24be3c301834bf2bff5ef2c3c90a
+source_revision: sha256:82589d7ca6a8c6788c35ab6ebcfc1402ab9b94c65108ef4ff24ac5f1710bfff2
+source_sha256: 82589d7ca6a8c6788c35ab6ebcfc1402ab9b94c65108ef4ff24ac5f1710bfff2
 translation_status: reviewed
 subtype: museum
 address: 安徽省亳州市谯城区古井镇三曹大道（古井酒厂对面）
@@ -190,3 +190,9 @@ With only half a day in Bozhou, choose either the Gujing museum or the Flower Th
 The Gujing Wine Culture Museum is linked to [Anhui Gujing Distillery Co., Ltd.](ref:producer) through the "visitor place of" relationship: the company profile covers the business and products, while this entry covers the visit and the space. For the city context, continue with [Bozhou](ref:bozhou).
 
 Further reading: [Strong-aroma baijiu](ref:c-extra-1), [Gujing Gongjiu](ref:c-extra-2), [Wuliangye Wine Museum](ref:c-extra-3).
+
+## Related images
+
+![Strong-aroma baijiu](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
+
+Image: Strong-aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Gujing Wine Culture Museum.

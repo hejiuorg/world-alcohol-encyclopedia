@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:pulque
 source_lang: zh
-source_revision: sha256:5bf3b63f0ad5511f4c54f9f38b089eb3a67da4904adefafab03497a69f59a877
-source_sha256: 5bf3b63f0ad5511f4c54f9f38b089eb3a67da4904adefafab03497a69f59a877
+source_revision: sha256:5ba4218739710921bf8bf2b0a064d32bb17a56b96b88428009d814a897eb7047
+source_sha256: 5ba4218739710921bf8bf2b0a064d32bb17a56b96b88428009d814a897eb7047
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -76,6 +76,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Pulque
 
 Pulque is a low-alcohol drink from central Mexico made by fermenting agave sap naturally. Its key fact can be stated in one sentence: it is not distilled. The agave is cut and scraped to release sap, the sap [ferments](ref:fermentation) in a vessel with wild yeasts and bacteria, and within days it becomes a sour, viscous, yeasty white drink. It shares a plant starting point with [tequila](ref:tequila) and [mezcal](ref:mezcal), but belongs to a completely different technical tradition.![Pulque image](/media/photos/drink-style-pulque-340e5da9.jpg)
@@ -133,3 +134,9 @@ Start with the production rule. From there, consider the strength, then the usua
 **Sources and limits.** The key claims about Pulque are checked against the following sources: Secretaría de Cultura — CDI (the pre-Hispanic tradition, maguey raw material and drinking culture of pulque), Frontiers in Microbiology (aguamiel fermentation, the microbial process, alcohol content and pulque types), Universidad Nacional Autónoma de México (the etymology, maguey manso and historical background of pulque) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Pulque, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![Tequila](/media/photos/drink-style-tequila-827c4596.jpg)
+
+Image: Tequila. Credit: T2O media México, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Paisaje_agavero_de_Jose_Cuervo_en_Tequila,_Jalisco.jpg)). Related image for Pulque.

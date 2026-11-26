@@ -87,6 +87,7 @@ stop_ids:
 mode: walk-metro
 updated_at: 2026-11-08
 ---
+
 # 维也纳咖啡馆傍晚路线：中央咖啡馆到斯佩尔
 
 这条路线只有两站，却能把维也纳咖啡馆的两种空间放在一起：内城费尔斯特宫里的中央咖啡馆，空间高、拱顶大、游客多；第六区玛利亚希尔夫的斯佩尔咖啡馆，空间更像街区里的公共客厅，大理石桌、Thonet 椅与台球桌都还在使用。两站原本都营业到晚上；中央咖啡馆自 2026 年 3 月起整修，出发前要确认是否已重开，再决定傍晚的起点。
@@ -186,3 +187,13 @@ updated_at: 2026-11-08
 相关条目：[中央咖啡馆](ref:central)、[斯佩尔咖啡馆](ref:sperl)、[认识一座城，从一间酒馆开始](ref:c-extra-1)。
 
 维也纳咖啡馆傍晚路线从中央咖啡馆到斯佩尔，座位、音乐附加费与营业时间以各店官网为准；现场以店内公告为准。核验于 2026-11-08。
+
+## 相关图像
+
+![酒器史：杯子如何改变喝法相关实景照片](/media/photos/article-history-of-vessels-41083e86.jpg)
+
+图：酒器史：杯子如何改变喝法相关实景照片。图片：VasuVR，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:SW45-B-18-Bern_History_Museum_Humorous_drinking_vessels_3D.jpg)）。关联图像：维也纳咖啡馆傍晚路线：中央咖啡馆到斯佩尔。
+
+![中央咖啡馆](/media/photos/place-cafe-central-2af7dbed.jpg)
+
+图：中央咖啡馆。图片：User:Florian Prischl，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Palais_Ferstel.jpg)）。关联图像：维也纳咖啡馆傍晚路线：中央咖啡馆到斯佩尔。

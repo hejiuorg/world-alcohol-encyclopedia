@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:yamazaki-distillery
 source_lang: zh
-source_revision: sha256:1d1c24da8ea6cce65144dffaca58ffcb19055bca8fb47f3acccbc36acc4acc7e
-source_sha256: 1d1c24da8ea6cce65144dffaca58ffcb19055bca8fb47f3acccbc36acc4acc7e
+source_revision: sha256:a3c82b2c287f8b6191330836d5775427c0a64d7c37bf634941b39ff526505762
+source_sha256: a3c82b2c287f8b6191330836d5775427c0a64d7c37bf634941b39ff526505762
 translation_status: reviewed
 subtype: distillery-visitor
 address: 5-2-1 Yamazaki, Shimamoto-cho, Mishima-gun, Osaka 618-0001, Japan
@@ -167,3 +167,9 @@ Further reading: [Bar High Five](ref:c-extra-1).
 Yamazaki Distillery is best read by starting with the address, moving to the current opening status, and ending with what the place is known for.
 
 [Yamazaki Single Malt](ref:yamazaki) and [Japan](ref:japan) are the nearest useful comparisons: one clarifies address and space, the other tests operating status.
+
+## Related images
+
+![Related photograph of Yamazaki Single Malt](/media/photos/drink-japan-yamazaki-406efb1c.jpg)
+
+Image: Related photograph of Yamazaki Single Malt. Credit: Gentgeen, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Yamazake_single_malt.jpg)). Related image for Yamazaki Distillery.

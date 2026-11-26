@@ -25,8 +25,8 @@ tags:
 translation_of: region:okinawa
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1554d782389e680b543388f2483319095b0087361f412aacb9e99ef8ad0c81b1
-source_sha256: 1554d782389e680b543388f2483319095b0087361f412aacb9e99ef8ad0c81b1
+source_revision: sha256:5c7a74eed131de5d05fe5c13509bfd77928d01bfb2e4d92c51c5d72a449d3994
+source_sha256: 5c7a74eed131de5d05fe5c13509bfd77928d01bfb2e4d92c51c5d72a449d3994
 related:
   - relation: about
     target_id: region:japan
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; spirit regulations, labels and regional boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Okinawa
 
 The awamori region of Okinawa, Japan, made from rice and black koji through single distillation and long ageing; awamori is one of Japan’s oldest distilled drinks, with Naha, Shuri and Ishigaki as main centres.![Kikunotsuyu awamori](/media/photos/region-okinawa-f1f89b7b.jpg)
@@ -164,3 +165,13 @@ Kusu is not simply “older is more expensive”: age brings roundness and aroma
 
 - Related: [japan](ref:japan), [awamori](ref:awamori), [sake](ref:sake), [rice](ref:rice), [distillation](ref:distillation).
 - This region provides no map, prices or opening hours; confirm before travelling.
+
+## Related images
+
+![Category image for Japan](/media/photos/place-kamotsuru-a0074234.jpg)
+
+Image: Category image for Japan. Credit: OS6, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)). Related image for Okinawa.
+
+![Thematic illustration for Awamori](/media/photos/theme-beer.jpg)
+
+Image: Thematic illustration for Awamori. Project-made bilingual editorial figure, not an on-site photograph. Related image for Okinawa.

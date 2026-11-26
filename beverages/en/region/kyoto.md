@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:kyoto
 source_lang: zh
-source_revision: sha256:b691e184010a8c337e92d466d83cdc1299dabae64445c65ad29f4ba4b2382651
-source_sha256: b691e184010a8c337e92d466d83cdc1299dabae64445c65ad29f4ba4b2382651
+source_revision: sha256:374f3ebf7b7aabb3f505beb2edc1ea3576f7c627a932a996623a7542c8288d1b
+source_sha256: 374f3ebf7b7aabb3f505beb2edc1ea3576f7c627a932a996623a7542c8288d1b
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -164,3 +164,13 @@ Fifth, sake pairing is not simply "light with light." Kyoto food has layers from
 - Sasaki Shuzo, "Sasaki Shuzo of Rakuchu, Kyoto": https://www.jurakudai.com/
 - National Tax Agency, "Notice Establishing Labelling Standards for the Manufacturing Method and Quality of Sake": https://www.nta.go.jp/taxes/sake/hyoji/seishu/kokuji891122/03.htm
 - Kyoto Travel (Kyoto City Official Travel Guide): https://kyoto.travel/
+
+## Related images
+
+![Related photograph of Ginjo sake](/media/photos/drink-style-ginjo-sake-4e3c0fe6.jpg)
+
+Image: Related photograph of Ginjo sake. Credit: halfrain, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8_(Junmai_Ginjo)_(15656231855).jpg)). Related image for Kyoto.
+
+![Bottled sake; polishing ratio, alcohol content and sake meter value often drive the buying decision](/media/photos/drink-style-sake-de6a3028.jpg)
+
+Image: Bottled sake; polishing ratio, alcohol content and sake meter value often drive the buying decision. Credit: koutalou, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)). Related image for Kyoto.

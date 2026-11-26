@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:rose-wine
 source_lang: zh
-source_revision: sha256:268906134c46b810fc1ee704096c2f84bafa3fcbb869a590620f4eb7de9af668
-source_sha256: 268906134c46b810fc1ee704096c2f84bafa3fcbb869a590620f4eb7de9af668
+source_revision: sha256:79a911616b71f38a269f03ee4ba6d106d4afa4aac132006b0283ebed93363ab9
+source_sha256: 79a911616b71f38a269f03ee4ba6d106d4afa4aac132006b0283ebed93363ab9
 translation_status: reviewed
 parent_style_id: drink-style:wine
 legacy_refs: []
@@ -158,3 +158,9 @@ Serve rosé a little warmer than white wine and a little cooler than red; too co
 Once opened, keep it cold and finish it promptly, especially low-alcohol, low-tannin styles, because the aroma fades quickly on contact with air.
 
 [Wine](ref:wine) explains legal definition; [White wine](ref:white-wine) adds materials and process. Put Rosé Wine between them before deciding what it is.
+
+## Related images
+
+![Malolactic fermentation](/media/photos/process-malolactic-fermentation-2d4ece59.jpg)
+
+Image: Malolactic fermentation. Credit: Agne27, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Malolactic_spotting.JPG)). Related image for Rosé Wine.

@@ -85,6 +85,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、菜单与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 耶路撒冷之旅酒馆
 
 在诺丁汉城堡岩的南侧，酒馆的门脸贴着砂岩山体，部分空间直接开凿在岩层里。耶路撒冷之旅酒馆最响亮的招牌是“英格兰最古老酒馆”，并把开业年份追溯到 1189 年；但只要把传说、建筑构件与最早的文字记录分开看，就会发现这家店真正的趣味不在“最老”这个结论，而在三套时间线如何被叠放在同一处洞穴与木构建筑里。
@@ -142,3 +143,9 @@ verification_scope: source-verified
 | 城市/国家 | 诺丁汉 / 英国 |
 | 营业状态 | 已核验营业 |
 | 官网 | greeneking.co.uk |
+
+## 相关图像
+
+![“美人鱼客栈”页面配图：The Mermaid Inn, Rye - 20220620121757。摄影：Herman.vandenbroeck，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-mermaid-inn-57b6d4da.jpg)
+
+图：The Mermaid Inn, Rye - 20220620121757。摄影：Herman.vandenbroeck，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Herman.vandenbroeck，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=122527773)）。关联图像：耶路撒冷之旅酒馆。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:australia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:72d0b47708561e0630b9415e79f2ba4b28b3a9114887ef711fc1d82f78623a4b
-source_sha256: 72d0b47708561e0630b9415e79f2ba4b28b3a9114887ef711fc1d82f78623a4b
+source_revision: sha256:ebe7fb47b885f493ae7be59dd2c803e4f65a47cbdf8db54da775c99628cea031
+source_sha256: ebe7fb47b885f493ae7be59dd2c803e4f65a47cbdf8db54da775c99628cea031
 level: country
 country_code: AU
 legacy_refs: []
@@ -82,6 +82,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Australia
 
 Australia is a major wine-producing country in the southern hemisphere, with regions concentrated in the southern coastal belt and the south-east. Its wines are known for ripe fruit, clear varietal expression and consistent quality, and Shiraz, Riesling and Chardonnay all have international standing. Unlike Europe, Australian appellations use the GI system; understanding the relationship between GI and labelling is the starting point for reading Australian wine.
@@ -180,3 +181,13 @@ Fifth, that all fortified wine is sweet. Fortified wines range from dry to sweet
 - [Penfolds Grange](ref:grange) and [Penfolds Bin 389](ref:bin389): representative Shiraz blends.
 - [Oak ageing](ref:oak-ageing): the barrel tradition of Australian reds.
 - [Fortified wine](ref:fortified): Australian sweet fortified styles.
+
+## Related images
+
+![Related photograph of Penfolds Grange](/media/photos/drink-australia-penfolds-grange-b6a4cf97.jpg)
+
+Image: Related photograph of Penfolds Grange. Credit: Rexness, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Penfold%27s_Grange_(4553358229).jpg)). Related image for Australia.
+
+![Riesling](/media/photos/variety-riesling-a836132e.jpg)
+
+Image: Riesling. Credit: No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)). Related image for Australia.

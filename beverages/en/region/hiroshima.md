@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:hiroshima
 source_lang: zh
-source_revision: sha256:ee26d3b58c8968beb9cbdc8531c2f86ef2b27f91a112043f466fb5c2aef3008f
-source_sha256: ee26d3b58c8968beb9cbdc8531c2f86ef2b27f91a112043f466fb5c2aef3008f
+source_revision: sha256:435feea81df91c706871b4af1733e7e23a441067c7819e0b902003e80c3de074
+source_sha256: 435feea81df91c706871b4af1733e7e23a441067c7819e0b902003e80c3de074
 translation_status: reviewed
 level: province
 parent_id: region:japan
@@ -201,3 +201,13 @@ Fifth, "Hiroshima sake" is not one style. Hattan-nishiki lightness, Omachi richn
 - Imada Shuzo Honten, "The Philosophy of Fukucho": https://fukucho.jp/pages/philosophy
 - Miyake Honten, "Sempuku's Sake Brewing": https://sempuku.co.jp/efforts/award/
 - National Tax Agency, "Notice Establishing Labelling Standards for the Manufacturing Method and Quality of Sake": https://www.nta.go.jp/taxes/sake/hyoji/seishu/kokuji891122/03.htm
+
+## Related images
+
+![Related photograph of Ginjo sake](/media/photos/drink-style-ginjo-sake-4e3c0fe6.jpg)
+
+Image: Related photograph of Ginjo sake. Credit: halfrain, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8_(Junmai_Ginjo)_(15656231855).jpg)). Related image for Hiroshima.
+
+![The main building of Kamoizumi Shuzo, with white plaster walls and dark timber lattice windows.](/media/photos/place-kamoizumi-1a83eed9.jpg)
+
+Image: The main building of Kamoizumi Shuzo, with white plaster walls and dark timber lattice windows.. Credit: Lumi iori, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kamoizumi_shuzou.jpg)). Related image for Hiroshima.

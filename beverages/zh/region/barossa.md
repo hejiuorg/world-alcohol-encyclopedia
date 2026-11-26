@@ -97,6 +97,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 巴罗萨
 
 巴罗萨（Barossa）是南澳最著名的葡萄酒产区，位于阿德莱德东北，以 Shiraz、老藤与浓郁的红葡萄酒风格闻名。它不是一个单一 GI，而是由 Barossa Valley 与 Eden Valley 两个区组成。
@@ -190,3 +191,13 @@ Shiraz 适合烤肉、红肉与硬质奶酪；Grenache 与 GSM 适合禽肉、�
 - [年份](ref:vintage)：巴罗萨的年份差异与干旱影响。
 - [单一品种](ref:single-varietal)：85% 品种标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![雷司令](/media/photos/variety-riesling-a836132e.jpg)
+
+图：雷司令。图片：No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)）。关联图像：巴罗萨。
+
+![歌海娜](/media/photos/variety-grenache-69c881eb.jpg)
+
+图：歌海娜。图片：Jules Troncy，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)）。关联图像：巴罗萨。

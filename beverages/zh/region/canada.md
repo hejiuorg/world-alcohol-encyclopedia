@@ -81,6 +81,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒种法规、标签与产区划分会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 加拿大
 
 加拿大威士忌的国家级类别，以玉米、黑麦与大麦为原料，经糖化、蒸馏并在木桶中陈年至少三年；法规允许加入焦糖与调味酒液（其他烈酒或葡萄酒），其中 9.09% 是年龄声明与出口证书门槛，不是普通成分上限，风格通常柔和、顺口。
@@ -155,3 +156,13 @@ verification_scope: source-verified
 | 国家代码 | CA |
 
 **来源与边界。** 本页关于「加拿大」的关键事实，主要由以下来源交叉核对：Canadian Food Inspection Agency（威士忌类别、在加拿大销售标签与至少三年小木桶陈年要求；Canadian whisky 的成分标准与 40% 酒精度等类别要求）、Department of Justice Canada（出口年龄与原产地证书中的 9.090% 进口酒液规则，以及调味酒液的陈年计算口径；加拿大威士忌的 flavouring 定义与陈年要求）、Spirits Canada（加拿大威士忌的法定保护、产业协会与贸易背景）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![Niagara Peninsula：Wine Grapes in the Niagara Peninsula（Wikimedia Commons）](/media/photos/region-niagara-6b321c03.jpg)
+
+图：Niagara Peninsula：Wine Grapes in the Niagara Peninsula（Wikimedia Commons）。图片：M Readey，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Grapes_in_the_Niagara_Peninsula.jpg)）。关联图像：加拿大。
+
+![威士忌](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+图：威士忌。图片：Guinnog，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)）。关联图像：加拿大。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:monastery-of-poblet
 source_lang: zh
-source_revision: sha256:28a54231e52166b580586ddee1036eac5eb92fd2997aad34e945f87f4213e6f2
-source_sha256: 28a54231e52166b580586ddee1036eac5eb92fd2997aad34e945f87f4213e6f2
+source_revision: sha256:b2fb4bbbc3f5cf1b8a6bba40cf780767e31617f75a888ec8b7c642a1da773f15
+source_sha256: b2fb4bbbc3f5cf1b8a6bba40cf780767e31617f75a888ec8b7c642a1da773f15
 translation_status: reviewed
 subtype: winery-visitor
 address: Plaça de la Corona d'Aragó, s/n, 43448 Poblet, Vimbodí i Poblet, Tarragona, Spain
@@ -172,3 +172,9 @@ Barcelona is feasible as a day trip, but most of the day goes to the road. A mor
 Poblet places [wine](ref:wine) inside the daily life and ritual of a monastery, and shows that [Spain](ref:spain) is not only Rioja and Priorat; [wine and ritual](ref:ritual) offers another way into the relationship between the Cistercians and wine.
 
 Further reading: [A concise history of world alcohol: from fermented drinks to a global industry](ref:c-extra-1), [A Ginjinha](ref:c-extra-2).
+
+## Related images
+
+![Related photograph of Wine and ritual: from village drinking rites to the modern toast](/media/photos/article-wine-and-ritual-977ce5a3.jpg)
+
+Image: Related photograph of Wine and ritual: from village drinking rites to the modern toast. Credit: anonymous, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ritual_wine_ewer_(gong)_with_masks_(taotie),_dragons,_and_real_animals.jpg)). Related image for Monastery of Poblet.

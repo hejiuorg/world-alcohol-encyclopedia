@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:imperial-stout
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:aaa0877c197439fd7cfad93a64b763ddd4c76591b40228f9427fca60b53b5ed2
-source_sha256: aaa0877c197439fd7cfad93a64b763ddd4c76591b40228f9427fca60b53b5ed2
+source_revision: sha256:c30b877a1b78a7b4246e12aba42a70a8e8926d2313125b91100fd5a161605329
+source_sha256: c30b877a1b78a7b4246e12aba42a70a8e8926d2313125b91100fd5a161605329
 parent_style_id: drink-style:stout
 aroma_family: Roasted malt and alcohol
 legacy_refs: []
@@ -83,6 +83,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only.
 verification_scope: source-verified
 ---
+
 # Imperial Stout
 
 Imperial stout is the strongest branch of the [stout](ref:stout) family within [beer](ref:beer). It descends from the strong, heavily hopped black beer that Britain exported to the Russian court and the Baltic markets in the 18th century, which is why it is often written as Russian Imperial Stout. Four things draw its boundary: deeply roasted grain, a full body, obvious alcohol warmth, and enough bitterness and acidity to support years of cellaring.
@@ -142,3 +143,9 @@ Read Imperial Stout through the production rule, then the strength, and finally 
 **Sources and limits.** The key claims about Imperial Stout are checked against the following sources: Beer Judge Certification Program, Brewers Association, Oxford University Press and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 **Read alongside.** Put Imperial Stout next to Stout, Porter, Beer: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
+
+## Related images
+
+![Stout](/media/photos/drink-style-stout-5ced0da8.webp)
+
+Image: Stout. Credit: 55belgianbeerfan, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)). Related image for Imperial Stout.

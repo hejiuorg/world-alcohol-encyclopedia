@@ -23,8 +23,8 @@ tags:
 translation_of: route:margaret-river-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:57294695ffb4caef43215c53fc8fe17f6a359b1c903f4fe9685ce6473fe2073d
-source_sha256: 57294695ffb4caef43215c53fc8fe17f6a359b1c903f4fe9685ce6473fe2073d
+source_revision: sha256:b1056d6d49970745f21dbfd27d840c82f9e874aa56833c6f39c046fafe25e096
+source_sha256: b1056d6d49970745f21dbfd27d840c82f9e874aa56833c6f39c046fafe25e096
 related:
   - relation: about
     target_id: place:vasse-felix
@@ -80,6 +80,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-21
 ---
+
 # Margaret River Wine Route
 
 A route anchored on two 1970s pioneers, Vasse Felix and Leeuwin Estate, about three hours south of Perth, putting maritime climate, gravel soils, Art Series labels and open-air concerts into one day. The loop is roughly 80 kilometres and works best from a base in Margaret River town rather than as a Perth day trip.
@@ -143,3 +144,13 @@ This route does not draw a map or provide live prices; roads, hours and booking 
 - With half a day, choose Vasse Felix plus town and skip Leeuwin; with only two hours, choose one estate rather than trying both.
 
 [Vasse Felix](ref:vasse) and [Margaret River](ref:margaret) are the nearest useful comparisons: one clarifies stop order, the other tests transport.
+
+## Related images
+
+![Vasse Felix: Vasse Felix Winery (Wikimedia Commons)](/media/photos/place-vasse-felix-038a6f36.jpg)
+
+Image: Vasse Felix: Vasse Felix Winery (Wikimedia Commons). Credit: Mark Pegrum, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vasse_Felix_Winery.jpg)). Related image for Margaret River Wine Route.
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Margaret River Wine Route.

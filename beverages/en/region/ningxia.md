@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:ningxia
 source_lang: zh
-source_revision: sha256:f1f90e884b60c69d85a0431620d70a5af1967c7f24081627d7fcf75d6894f60f
-source_sha256: f1f90e884b60c69d85a0431620d70a5af1967c7f24081627d7fcf75d6894f60f
+source_revision: sha256:6500baf499a156508421dd3f2c7cfd42dca7e7dcc6e5a5cf678643c91d2c0ff3
+source_sha256: 6500baf499a156508421dd3f2c7cfd42dca7e7dcc6e5a5cf678643c91d2c0ff3
 translation_status: reviewed
 level: province
 parent_id: region:china
@@ -160,3 +160,13 @@ Fifth, reading many estates as uniform quality. Equipment, parcels and managemen
 - [Grape](ref:grape): the structure and ripeness markers of wine grapes.
 - [Fermentation](ref:fermentation): the difference between temperature-controlled and malolactic fermentation.
 - [Oak ageing](ref:oak-ageing): how new and old oak affect style.
+
+## Related images
+
+![Category image for China](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+Image: Category image for China. Credit: Gary Todd, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)). Related image for Ningxia.
+
+![Thematic illustration for Red wine](/media/photos/theme-wine-spirits.jpg)
+
+Image: Thematic illustration for Red wine. Project-made bilingual editorial figure, not an on-site photograph. Related image for Ningxia.

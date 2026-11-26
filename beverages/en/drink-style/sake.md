@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink-style:sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cc731606f160c805b7700d02a959412e6249c6eecd96f09dbb81a39504732a5a
-source_sha256: cc731606f160c805b7700d02a959412e6249c6eecd96f09dbb81a39504732a5a
+source_revision: sha256:96d0d82170537aa8f6c43aa3c4e7e89d4cc840bec9ec36a09148de648991ba5e
+source_sha256: 96d0d82170537aa8f6c43aa3c4e7e89d4cc840bec9ec36a09148de648991ba5e
 legacy_refs: []
 aliases:
   - Sake
@@ -62,6 +62,12 @@ sources:
     note: Consulted for entries on sake brewing, service and history; no source text is reproduced.
     accessed: 2026-11-04
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
+  - key: adv-jss
+    title: Japan Sake and Shochu Makers Association — Sake knowledge
+    url: https://www.jss.or.jp/en/
+    publisher: Japan Sake and Shochu Makers Association
+    note: Used to check sake raw materials, polishing ratio, categories and serving temperature; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -133,6 +139,28 @@ Fifth, ignoring storage. Sake fears light and heat, and namazake and unpasteuris
 Start with the production rule. From there, consider the strength, then the usual serving. That is how a practical judgment about Sake is built.
 
 [Qu making](ref:qu-making) explains legal definition; [Soju](ref:soju) adds materials and process. Put Sake between them before deciding what it is.
+
+
+## Advanced judgment
+
+![Bottled sake](/media/photos/drink-style-sake-de6a3028.jpg)
+
+Figure: Bottled sake; polishing ratio, alcohol content and sake meter value often drive the buying decision. Image: koutalou, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)).
+
+| Measure | Meaning | Effect on buying |
+| --- | --- | --- |
+| Polishing ratio | How much rice is milled away | Lower ratio is lighter, more aromatic |
+| Junmai / honjozo | Rice and added alcohol | Defines style and legal category |
+| Sake meter value | Dry-sweet tendency | Guides pairing and temperature |
+| Namazake / pasteurised | Whether heat-treated | Storage and freshness |
+
+**Is namazake always better than pasteurised sake?** No. Namazake is fresh and lively but needs refrigeration and quick drinking; pasteurised sake is stable and easier to transport. Buy namazake only with a reliable cold chain.
+
+**How do I choose between junmai and ginjo?** Junmai emphasises rice flavour and substance; ginjo emphasises cool-fermented fruit and lightness. Read the polishing ratio and yeast, then taste; “junmai” is not a quality grade.
+
+**Why try sake at different temperatures?** Temperature changes aroma release, sweetness and the alcohol impression. Chilled, the same bottle is tighter and fresher; warmed, rice aroma and body show more. Try a small cup first.
+
+Further reading: [koji making](ref:qu-making) and [soju](ref:soju).
 
 ## Further reading
 

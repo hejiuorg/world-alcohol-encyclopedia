@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:triple-sec
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:32d672be2bb72dc7662e01dfbd302feaf9dcad9394f164e15ddc08f9a4e19715
-source_sha256: 32d672be2bb72dc7662e01dfbd302feaf9dcad9394f164e15ddc08f9a4e19715
+source_revision: sha256:1791e24cb7e7a3ad6edaf9f1c7e719acb60b77899d2d8d3f0ecddcbb1f6e835a
+source_sha256: 1791e24cb7e7a3ad6edaf9f1c7e719acb60b77899d2d8d3f0ecddcbb1f6e835a
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: citrus and orange peel
@@ -131,4 +131,10 @@ Choose a bottle labelled "triple sec" or "orange liqueur" that lists orange peel
 
 Further reading: [Abbey beer](ref:c-extra-1).
 
-**In brief:** A clear orange liqueur made by macerating sweet and bitter orange peels in neutral spirit, distilling and sweetening; it is a style, not a brand, and its border with curaçao lies in base spirit, colour and sweetness. 
+**In brief:** A clear orange liqueur made by macerating sweet and bitter orange peels in neutral spirit, distilling and sweetening; it is a style, not a brand, and its border with curaçao lies in base spirit, colour and sweetness.
+
+## Related images
+
+![Margarita](/media/photos/cocktail-margarita-d834f379.jpg)
+
+Image: Margarita. Credit: Akke Monasso, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:MargaritaReal.jpg)). Related image for Triple Sec.

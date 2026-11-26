@@ -82,6 +82,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 莱茵高
 
 莱茵高（Rheingau）是德国莱茵河右岸、陶努斯山南麓的法定产区，以朝南坡地上的雷司令与阿斯曼斯豪森（Assmannshausen）的 Spätburgunder 著称。它面积不大，却是德国干型雷司令传统最集中的产区之一。
@@ -180,3 +181,13 @@ trocken 与 halbtrocken 是口感标注，不是 Prädikat 等级；读莱茵高
 - [酸度](ref:acidity)：干型雷司令高酸度的作用。
 - [酒精度](ref:abv)：不同 Prädikat 等级与酒精度之间的关系。
 - [橡木桶陈年](ref:oak-ageing)：旧桶在雷司令与 Spätburgunder 中的角色。
+
+## 相关图像
+
+![德国类别配图](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+图：德国类别配图。图片：Renardo la vulpo，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)）。关联图像：莱茵高。
+
+![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。关联图像：莱茵高。

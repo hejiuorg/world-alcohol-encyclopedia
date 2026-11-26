@@ -39,8 +39,8 @@ tags:
 translation_of: place:eyrie-vineyards
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8a7dec6b42e06cfec561bb4d86f7cbde65811171fd42e42a2ca3751f0641829e
-source_sha256: 8a7dec6b42e06cfec561bb4d86f7cbde65811171fd42e42a2ca3751f0641829e
+source_revision: sha256:2c722898a6d2dfd18aa86b9c712e558b71cb9fbb7408938d65332f01cda0d502
+source_sha256: 2c722898a6d2dfd18aa86b9c712e558b71cb9fbb7408938d65332f01cda0d502
 related:
   - relation: about
     target_id: region:willamette-valley
@@ -70,6 +70,18 @@ sources:
     publisher: Oregon Wine Board
     note: Used to verify the Willamette Valley region, Dundee Hills and variety background; no source text is reproduced.
     accessed: 2026-11-21
+  - key: eyrie-fact-sheet
+    title: "The Eyrie Vineyards — General Fact Sheet"
+    url: "https://www.eyrievineyards.com/pdfs/download/Eyrie%20Vineyards%20General%20Fact%20Sheet.pdf"
+    publisher: "The Eyrie Vineyards"
+    note: "Used to check the 1965 planting, founding winemaker and estate history; no text copied."
+    accessed: 2026-11-26
+  - key: oregon-wine-board
+    title: "Oregon Wine Board — Oregon wine regions"
+    url: "https://www.oregonwine.org/"
+    publisher: "Oregon Wine Board"
+    note: "Used to check Oregon wine regions and industry context; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -156,3 +168,9 @@ The best way to understand Eyrie is to compare Original Vines with Daphne on the
 - To understand own-rooted old vines, ask at the tasting whether the wine comes from the 1966–1974 Original Vines and whether the block has ever been irrigated or replanted.
 
 The Eyrie Vineyards is best approached through the address, then the current opening status, and then what the place is known for. One check alone will not settle it.
+
+## Related images
+
+![Pinot Noir](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+Image: Pinot Noir. Credit: Cjp24, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)). Related image for The Eyrie Vineyards.

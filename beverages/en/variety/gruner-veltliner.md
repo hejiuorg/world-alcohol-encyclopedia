@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:gruner-veltliner
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:94459d9b98c1c6fae60aa6581f752ef4f0084d1293c0a12ec3238c2cc9ef62e9
-source_sha256: 94459d9b98c1c6fae60aa6581f752ef4f0084d1293c0a12ec3238c2cc9ef62e9
+source_revision: sha256:64663ecc219b2813881082b8275f1ec473dc558bba6200953dd04c2d57188d3d
+source_sha256: 64663ecc219b2813881082b8275f1ec473dc558bba6200953dd04c2d57188d3d
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -74,6 +74,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Grüner Veltliner
 
 Grüner Veltliner is Austria's signature white grape, widely planted in the Wachau, Kremstal, Kamptal and Weinviertel. Its identity comes from acidity and aroma: citrus, green pea, white pepper and a mineral note, fresh when young and fuller and more layered when ripe. It is also one of the few white grapes whose signature is white pepper, an aroma that comes from a compound called rotundone.
@@ -143,3 +144,9 @@ Read [Wine](ref:wine) for the variety character side of Grüner Veltliner, and [
 - [Wachau](ref:wachau): the core region and its three-tier system.
 - [Styria](ref:styria): another important Austrian region.
 - [Riesling](ref:riesling): the variety often compared with Grüner Veltliner.
+
+## Related images
+
+![Vineyards and villages in the Schilcher wine country of Weststeiermark, Austria.](/media/photos/region-styria-02c003b3.jpg)
+
+Image: Vineyards and villages in the Schilcher wine country of Weststeiermark, Austria.. Credit: Naturpuur, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Panorama_Schilcher_Weingegend,_Weststeiermark.jpg)). Related image for Grüner Veltliner.

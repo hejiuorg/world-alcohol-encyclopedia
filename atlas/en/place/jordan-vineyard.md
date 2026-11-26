@@ -39,8 +39,8 @@ tags:
 translation_of: place:jordan-vineyard
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ae2386d4f0dbb2770aab4d35c86c332f61009ac0d5d2723b9261d7a2d5c5678f
-source_sha256: ae2386d4f0dbb2770aab4d35c86c332f61009ac0d5d2723b9261d7a2d5c5678f
+source_revision: sha256:78f6b7fe75dc7cac7e620ceb918a8de756f00149122ccc648c053d0e000f0384
+source_sha256: 78f6b7fe75dc7cac7e620ceb918a8de756f00149122ccc648c053d0e000f0384
 related:
   - relation: about
     target_id: region:sonoma
@@ -184,3 +184,9 @@ With half a day, choose Jordan plus Healdsburg and skip a third winery; the tour
 - Related entries: [sonoma](ref:sonoma), [usa](ref:usa), [cabernet-sauvignon](ref:cabernet), [chardonnay](ref:chardonnay), [oak-ageing](ref:oak).
 - This entry does not provide live prices, package availability or opening status; check the estate website and Alexander Valley Winegrowers before visiting.
 - To understand Jordan, compare its Cabernet and Chardonnay on one trip, then add one other Alexander Valley and one Russian River Valley wine to see how valley heat and coastal fog change ripeness and acidity.
+
+## Related images
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Jordan Vineyard & Winery.

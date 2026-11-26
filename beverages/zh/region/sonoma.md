@@ -89,6 +89,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 索诺马
 
 索诺马（Sonoma）是加州索诺马县的葡萄酒产区，以多样的小气候与 AVA 著称，从冷凉的太平洋海岸一直延伸到温暖的内陆谷地。
@@ -190,3 +191,13 @@ Pinot Noir 适合禽肉、蘑菇与清淡红肉；Chardonnay 适合海鲜与奶�
 - [年份](ref:vintage)：索诺马的年份差异与干旱、山火影响。
 - [单一品种](ref:single-varietal)：索诺马的品种比例与酒标标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![年份（vintage）](/media/photos/term-vintage-4b511c38.jpg)
+
+图：年份（vintage）。图片：Chiusi Painter，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)）。关联图像：索诺马。
+
+![发酵](/media/photos/process-fermentation-f5958dba.webp)
+
+图：发酵。图片：Tjhackmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)）。关联图像：索诺马。

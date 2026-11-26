@@ -103,6 +103,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 阿空加瓜谷
 
 阿空加瓜谷（Valle del Aconcagua）是智利 Aconcagua 产区内陆的葡萄酒子产区，位于圣地亚哥以北。它以 Cabernet Sauvignon、Carmenère 与 Syrah 的红葡萄酒为主，也生产 Chardonnay 与 Sauvignon Blanc。Aconcagua 河从安第斯山流向太平洋，河谷地形与海陆风共同塑造了产区的温度梯度。
@@ -201,3 +202,13 @@ Cabernet Sauvignon 与 Syrah 适合红肉、烤肉与香料风味菜肴；Carmen
 - [年份](ref:vintage)：阿空加瓜谷的年份差异与干旱影响。
 - [单一品种](ref:single-varietal)：品种标注的比例规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![长相思相关实景照片](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：阿空加瓜谷。
+
+![葡萄](/media/photos/ingredient-grape-2d929148.jpg)
+
+图：葡萄。图片：Vyacheslav Argenberg，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)）。关联图像：阿空加瓜谷。

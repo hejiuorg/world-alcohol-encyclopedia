@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:rauchbier
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d6cc059874c49e47690c1943387abc39027bb0fbe030ea2c105b16e7822b69ca
-source_sha256: d6cc059874c49e47690c1943387abc39027bb0fbe030ea2c105b16e7822b69ca
+source_revision: sha256:2e137a4730d364278a7b11c3c3060ef996723f40a0deaec9ac525e8838887576
+source_sha256: 2e137a4730d364278a7b11c3c3060ef996723f40a0deaec9ac525e8838887576
 legacy_refs: []
 aliases:
   - Rauchbier
@@ -85,6 +85,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Rauchbier
 
 Rauchbier is a beer whose main flavour comes from smoked malt, most famously in Bamberg, Bavaria. The smoke comes from beechwood fires used to dry the malt, not from smoke flavouring added to the beer; that distinction defines the boundary between it and a dark beer that merely tastes smoky. Traditional examples are dark [lagers](ref:lager), but smoke intensity, colour and strength vary from brewery to brewery.
@@ -146,3 +147,9 @@ The comparison with [Lager](ref:lager) and [Stout](ref:stout) runs through legal
 | Aroma family | Smoke and malt |
 
 **Sources and limits.** The key claims about Rauchbier are checked against the following sources: Beer Judge Certification Program (the strength, bitterness, colour and smoked-malt description of Rauchbier; no original text is reproduced), Brauerei Heller-Trum / Schlenkerla, Bamberg Tourismus & Kongress Service (public information on Bamberg beer culture and pub tradition; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Bavaria](/media/photos/place-weihenstephan-brewery-a3316b19.jpg)
+
+Image: Category image for Bavaria. Credit: Christian Schranner, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%C3%9Cberblick_der_Bayerischen_Staatsbrauerei_Weihenstephan.jpg)). Related image for Rauchbier.

@@ -72,6 +72,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 三重橙酒
 
 三重橙酒（triple sec）是以中性烈酒浸提甜橙和苦橙的干燥果皮、再经蒸馏与加糖制成的清澈橙味利口酒。它不是一个受保护的商标，也不是单一品牌，而是一类在 19 世纪法国形成、后来被鸡尾酒文化推向全球的风格。判断一瓶酒是不是三重橙，关键不在名字，而在它是否以橙皮为主要香气来源、是否为无色或近无色的利口酒结构，以及甜度与酒精度落在什么区间。
@@ -129,3 +130,9 @@ verification_scope: source-verified
 补充阅读：[修道院啤酒](ref:c-extra-1)。
 
 相关条目：[利口酒](ref:liqueur)、[蒸馏](ref:distillation)、[玛格丽特](ref:margarita)。
+
+## 相关图像
+
+![玛格丽特](/media/photos/cocktail-margarita-d834f379.jpg)
+
+图：玛格丽特。图片：Akke Monasso，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:MargaritaReal.jpg)）。关联图像：三重橙酒。

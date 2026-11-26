@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:robert-mondavi-winery
 source_lang: zh
-source_revision: sha256:c130ddac8f1deea77150e4370430e02b21f9cf54966b1128e9dcccf06fa2e017
-source_sha256: c130ddac8f1deea77150e4370430e02b21f9cf54966b1128e9dcccf06fa2e017
+source_revision: sha256:1ad792b9eea2b54d3aca36ac3ea4dc17d7d42a3868c542fa873b91c9ed1b72d1
+source_sha256: 1ad792b9eea2b54d3aca36ac3ea4dc17d7d42a3868c542fa873b91c9ed1b72d1
 translation_status: reviewed
 subtype: winery-visitor
 address: 7801 St. Helena Highway, Oakville, CA 94562, USA
@@ -174,3 +174,9 @@ A half day might combine a Legend Tasting at Mondavi in the morning, lunch in Yo
 Robert Mondavi Winery is an entry point for understanding [Napa Valley](ref:napa) and the industrialisation of [wine](ref:wine); it places vineyard, architecture, marketing and food culture on one estate. For the 1976 blind tasting that changed Napa's standing, read [The 1976 Judgment of Paris](ref:judgment-of-paris).
 
 Further reading: [United States](ref:c-extra-1), [Opus One Winery](ref:c-extra-2).
+
+## Related images
+
+![Opus One Winery](/media/photos/place-opus-one-winery-fc1d0ae3.jpg)
+
+Image: Opus One Winery. Credit: No machine-readable author provided. Cszmurlo assumed (based on copyright claims)., CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Opus-One-Szmurlo.jpg)). Related image for Robert Mondavi Winery.

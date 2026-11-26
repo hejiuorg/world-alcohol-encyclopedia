@@ -21,8 +21,8 @@ tags:
 translation_of: variety:godello
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4d57bd333fb658722f6c2965f1958f9d5c821cd189cdb6ead44353f9e2ccc499
-source_sha256: 4d57bd333fb658722f6c2965f1958f9d5c821cd189cdb6ead44353f9e2ccc499
+source_revision: sha256:f021bcc18bb3d754f2b0d389a57079cd97bb6d3ffc04729fcbc2e9585562392b
+source_sha256: f021bcc18bb3d754f2b0d389a57079cd97bb6d3ffc04729fcbc2e9585562392b
 related:
   - relation: about
     target_id: drink-style:white-wine
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Godello
 
 A white grape of Valdeorras, Ribeiro and Monterrei in northwest Spain, with citrus, white flowers, mineral and nuts, medium-high acidity and a full texture; it can be made crisp or oaked.
@@ -164,3 +165,9 @@ Godello is also planted in Bierzo and Valdeorras, where slate soils and old vine
 | Species | Vitis vinifera |
 
 **Sources and limits.** The key claims about Godello are checked against the following sources: Julius Kühn-Institut (variety names, synonyms, origins and global distribution), OIV (the grape-variety and viticulture framework), USDA ARS (botanical classification, germplasm and cultivation information) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Godello.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:shuanggou-distillery
 source_lang: zh
-source_revision: sha256:49a0ae5f659ba042d8a44783433a50a41da28c39249f799fa0405dc01e79ccd8
-source_sha256: 49a0ae5f659ba042d8a44783433a50a41da28c39249f799fa0405dc01e79ccd8
+source_revision: sha256:d4322551d631db4683035df822e114e64e9f051cdda15f46048c58f771b85c56
+source_sha256: d4322551d631db4683035df822e114e64e9f051cdda15f46048c58f771b85c56
 translation_status: reviewed
 subtype: distillery-visitor
 address: Shuanggou Distillery, Shuanggou Town, Sihong County, Suqian, Jiangsu, China
@@ -69,25 +69,25 @@ sources:
     title: 洋河酒厂文化旅游区简介 — 洋河股份
     url: https://www.chinayanghe.com/culture/whzl/cqly/
     publisher: 江苏洋河酒厂股份有限公司
-    note: 用于核对洋河文化旅游区规模、工业遗产与主要参观点；未复制原文。
+    note: 用于核对洋河文化旅游区规模、工业遗产与主要参观点；未复制原文.
     accessed: 2026-11-25
   - key: yanghe-tourism
     title: 宿迁洋河工业文化旅游区 — 官网
     url: https://ly.chinayanghe.com/
     publisher: 宿迁洋河工业文化旅游区
-    note: 用于核对景区预约、开放时间与入园公告；未复制原文。
+    note: 用于核对景区预约、开放时间与入园公告；未复制原文.
     accessed: 2026-11-25
   - key: yanghe-home
     title: 洋河股份 — 官网
     url: https://www.chinayanghe.com/
     publisher: 江苏洋河酒厂股份有限公司
-    note: 用于核对洋河股份与双沟品牌的公开企业信息；未复制原文。
+    note: 用于核对洋河股份与双沟品牌的公开企业信息；未复制原文.
     accessed: 2026-11-25
   - key: suqian-gov
     title: 宿迁市人民政府
     url: https://www.suqian.gov.cn/
     publisher: 宿迁市人民政府
-    note: 用于核对洋河镇、双沟镇属宿迁管辖的行政区划与公开城市信息；未复制原文。
+    note: 用于核对洋河镇、双沟镇属宿迁管辖的行政区划与公开城市信息；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -103,7 +103,7 @@ Shuanggou Town sits in the water country between the Huai River and Hongze Lake,
 
 ![Shuanggou Distillery (Shuanggou Town) bilingual editorial visual card](/media/figures/specific/place-shuanggou-distillery.svg)
 
-图：Shuanggou Distillery (Shuanggou Town) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Shuanggou Distillery (Shuanggou Town) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers on a northern Jiangsu liquor route who want strong-aroma old pits and water-town context; pairs with Yanghe and Hongze Lake.
@@ -162,9 +162,15 @@ This page does not rate specific wines or promise limited releases. Focus the vi
 
 ## References
 
-- 洋河酒厂文化旅游区简介 — 洋河股份 — https://www.chinayanghe.com/culture/whzl/cqly/ (江苏洋河酒厂股份有限公司, checked 2026-11-25)
-- 宿迁洋河工业文化旅游区 — 官网 — https://ly.chinayanghe.com/ (宿迁洋河工业文化旅游区, checked 2026-11-25)
-- 洋河股份 — 官网 — https://www.chinayanghe.com/ (江苏洋河酒厂股份有限公司, checked 2026-11-25)
-- 宿迁市人民政府 — https://www.suqian.gov.cn/ (宿迁市人民政府, checked 2026-11-25)
+- chinayanghe.com — official source — https://www.chinayanghe.com/culture/whzl/cqly/ (checked 2026-11-25)
+- ly.chinayanghe.com — official source — https://ly.chinayanghe.com/ (checked 2026-11-25)
+- chinayanghe.com — official source — https://www.chinayanghe.com/ (checked 2026-11-25)
+- suqian.gov.cn — official source — https://www.suqian.gov.cn/ (checked 2026-11-25)
 
 Related entries: [Yanghe tourism area](ref:yanghe), [Suqian Yanghe route](ref:route), [Yanghe (Shuanggou parent brand)](ref:brand), [Yanghe Group](ref:producer), [strong-aroma baijiu](ref:style), [Jiangsu](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Fermenting baijiu mash at Luzhou Laojiao, used as an illustrative image of solid-state fermentation; not the Yanghe site](/media/photos/place-yanghe-tourism-953fcea1.jpg)
+
+Image: Fermenting baijiu mash at Luzhou Laojiao, used as an illustrative image of solid-state fermentation; not the Yanghe site. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Baijiu_Produktion_Luzhou_Laojiao.jpg)). Related image for Shuanggou Distillery (Shuanggou Town).

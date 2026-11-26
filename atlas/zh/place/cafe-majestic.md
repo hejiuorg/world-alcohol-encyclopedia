@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1922
 ---
+
 # 马杰斯蒂克咖啡馆
 
 波尔图的 Rua de Santa Catarina 是条繁忙的步行街，商店、咖啡馆与剧院挤在一起。走到 112 号，会看到一面白色大理石立面，门楣上写着“MAJESTIC”，门口有 brass 门把手与老式旋转门。推门进去，先是深色木饰、镜面、雕花天顶与皮革座椅，然后是一间玻璃温室，把 Santa Catarina 与后面的 Passos Manuel 两条街连起来。它不像巴黎咖啡馆那样“向外看”，而是把客人包进一个 1920 年代的新艺术盒子里。
@@ -155,3 +156,9 @@ Café Majestic 的空间是“前厅 + 温室 + 后厅”。前厅有大理石�
 - 相关条目：[四猫咖啡馆](ref:gats)、[拉布拉之家](ref:labra)、[巴黎丽兹 Hemingway 酒吧](ref:hemingway)、[花神咖啡馆（威尼斯）](ref:florian)、[和平咖啡馆](ref:paix)
 
 对照阅读：[四猫咖啡馆](ref:gats)、[丽兹海明威酒吧](ref:hemingway)。
+
+## 相关图像
+
+![Els Quatre Gats 的砖墙立面、铁艺灯笼与“4 GATS”招牌，Carrer de Montsió 3](/media/photos/place-els-quatre-gats-56f88aa3.jpg)
+
+图：Els Quatre Gats 的砖墙立面、铁艺灯笼与“4 GATS”招牌，Carrer de Montsió 3。图片：Kent Wang from Barcelona, Spain，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Els_Quatre_Gats_(52057359477).jpg)）。关联图像：马杰斯蒂克咖啡馆。

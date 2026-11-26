@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:raicilla
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f8927a36f8bc15b4f39025afb0aacd0d8fa89bccff9e45de239a8e2ead32d2d5
-source_sha256: f8927a36f8bc15b4f39025afb0aacd0d8fa89bccff9e45de239a8e2ead32d2d5
+source_revision: sha256:469db94242399247b80cf8cf795a847f9e575441f44d0280fa653814d7306e2f
+source_sha256: 469db94242399247b80cf8cf795a847f9e575441f44d0280fa653814d7306e2f
 related:
   - relation: about
     target_id: drink-style:mezcal
@@ -145,3 +145,9 @@ Three common misreadings are worth noting. First, raicilla is not mezcal or tequ
 To build a picture of raicilla, start with an unaged bottling that states its municipality, then compare batches from different agave species, and finish with a wood-aged small-batch release. Three such comparisons clarify the differences from species, roasting and ageing better than definitions alone.
 
 - Related: [mezcal](ref:mezcal), [agave](ref:agave), [distillation](ref:distillation), [peat](ref:smoke), [liqueur](ref:liqueur).
+
+## Related images
+
+![Peat](/media/photos/term-peat-36a70265.jpg)
+
+Image: Peat. Credit: David Stanley from Nanaimo, Canada, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Peat_(49302157252).jpg)). Related image for Raicilla.

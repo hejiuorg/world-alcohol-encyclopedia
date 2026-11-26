@@ -78,6 +78,7 @@ rights:
   note: 第三方协会页面、企业与商标不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 精酿革命（1978）：美国自酿合法化与微型酿酒厂
 
 1978 年 10 月 14 日，美国总统吉米·卡特签署 H.R. 1337 税法案。这部法案的主体内容是调整商用车与公共交通的消费税，但其中夹带的一条修正案取消了家庭自酿啤酒的联邦消费税；1979 年 2 月 1 日，这条规定正式生效。此后，家庭酿酒在美国重新成为合法的个人活动，家庭酿酒者、设备商店与小酒厂相互喂养，最终汇成通常被称为“精酿革命”的产业转向。
@@ -144,3 +145,9 @@ verification_scope: source-verified
 - [酒馆史](ref:taverns)：啤酒消费空间的长时段变化。
 
 相关条目：[美国](ref:usa)、[啤酒](ref:beer)、[美国禁酒令：1920年至1933年的实验与废止](ref:prohibition)。
+
+## 相关图像
+
+![美国禁酒令时期，执法人员将酒桶中的酒倒入下水道。](/media/photos/historical-event-us-prohibition-3cc2932a.jpg)
+
+图：美国禁酒令时期，执法人员将酒桶中的酒倒入下水道。。图片：Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:5_Prohibition_Disposal(9).jpg)）。关联图像：精酿革命（1978）：美国自酿合法化与微型酿酒厂。

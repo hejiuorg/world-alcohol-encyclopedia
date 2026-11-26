@@ -88,6 +88,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、门票、品鉴价格与活动会变化，以景区官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 中国酒文化城
 
 从仁怀市区往茅台镇走，赤水河在峡谷里转弯，空气里逐渐出现酒糟与潮湿粮食的气味。中国酒文化城就在茅台酒厂的厂区范围内，不是一座单独建在城郊的博物馆，而是工业厂区、古镇街巷与展馆叠在一起的文化景区。它由茅台集团在 1993 至 1997 年投资修建，官方称其为“目前世界上规模最大的酒文化博物馆”；2014 年被评为国家 4A 级旅游景区，2017 年获批贵州茅台酒博物馆。
@@ -158,3 +159,9 @@ verification_scope: source-verified
 中国酒文化城是理解[白酒](ref:baijiu)的一扇门：它把酱香型白酒的原料、制曲、发酵、蒸馏与陈酿拆开展示，也把酒礼酒俗放回日常生活。它所在的[贵州](ref:guizhou)赤水河谷是中国酱香型白酒的核心产区；把这座城放回[中国](ref:china)的酒史里，可以继续读[中国酒史](ref:chinese-wine-history)，看“酒”如何从祭祀、诗词与宴席走进现代工业与旅游。
 
 补充阅读：[A Ginjinha](ref:c-extra-1)。
+
+## 相关图像
+
+![中国类别配图](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+图：中国类别配图。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)）。关联图像：中国酒文化城。

@@ -104,6 +104,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 加拿大威士忌
 
 加拿大威士忌以谷物（常用玉米、黑麦、小麦、大麦）分别蒸馏、成熟后再调和，风格轻柔顺滑，带焦糖、香草与黑麦香料；法规允许加入焦糖调色与调味酒液。常被提到的"9.090%"是年龄声明与出口证书的门槛，不是普通成分上限。
@@ -168,3 +169,9 @@ verification_scope: source-verified
 
 - 相关条目：[whisky](ref:whisky)、[rye](ref:rye)、[oak-ageing](ref:oak)、[canada](ref:canada)、[liqueur](ref:liqueur)。
 - 想建立品类边界，可以先喝一支玉米基大众调和与一支高黑麦壶式版本，对比甜润度、香料感与木质骨架，再尝试双桶或长陈年样本。
+
+## 相关图像
+
+![黑麦](/media/photos/ingredient-rye-a305521c.jpg)
+
+图：黑麦。图片：LSDSL，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ear_of_rye.jpg)）。关联图像：加拿大威士忌。

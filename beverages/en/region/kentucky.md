@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:kentucky
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1a757ce8f16e764f4fdf9484cee4a584d977faf67a688aaa1effe0867bf9c158
-source_sha256: 1a757ce8f16e764f4fdf9484cee4a584d977faf67a688aaa1effe0867bf9c158
+source_revision: sha256:228d1a82187598065d39e60cf7e55c3d324368b3df59b48830846067da8c7497
+source_sha256: 228d1a82187598065d39e60cf7e55c3d324368b3df59b48830846067da8c7497
 level: province
 parent_id: region:usa
 country_code: US
@@ -161,3 +161,13 @@ Kentucky is best read by starting with the appellation and its permitted varieti
 - [Oak ageing](ref:oak-ageing): how new charred oak shapes flavour.
 - [Distillation](ref:distillation): column distillation and second distillation.
 - [Fermentation](ref:fermentation): sour-mash fermentation and flavour precursors.
+
+## Related images
+
+![Dried maize kernels. Dent or flint maize is typical for brewing; sweet corn is not the main raw material.](/media/photos/ingredient-maize-bc1f8e47.jpg)
+
+Image: Dried maize kernels. Dent or flint maize is typical for brewing; sweet corn is not the main raw material.. Credit: Joel Penner, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Maize_Corn.jpg)). Related image for Kentucky.
+
+![Category image for United States](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+Image: Category image for United States. Credit: Luke, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)). Related image for Kentucky.

@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY 2.0，署名与许可见正文图注。营业状态以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 罗马希腊咖啡馆
 
 孔多蒂街（Via dei Condotti）是罗马最像橱窗的一条街，奢侈品店把灯光打在石墙上，游客从西班牙台阶一路涌向科尔索大街。86 号的门面并不张扬，木门、旧招牌和一层不高的店面，很容易被走过。这里就是罗马希腊咖啡馆（Antico Caffè Greco），1760 年开业，曾是罗马现存最古老的咖啡馆；2025 年 10 月 8 日，它因租约纠纷被正式驱逐，结束了 265 年的营业。
@@ -159,3 +160,9 @@ verification_scope: source-verified
 - [哈维尔卡咖啡馆](ref:hawelka)：维也纳的艺术家咖啡馆，以家庭经营与 Buchteln 闻名。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[花神咖啡馆（威尼斯）](ref:florian)、[花神咖啡馆](ref:cafe-de-flore)。
+
+## 相关图像
+
+![维也纳哈维尔卡咖啡馆的门面](/media/photos/place-cafe-hawelka-3a2e4186.jpg)
+
+图：维也纳哈维尔卡咖啡馆的门面。图片：Photo: Andreas Praefcke，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wien_Caf%C3%A9_Hawelka.jpg)）。关联图像：罗马希腊咖啡馆。

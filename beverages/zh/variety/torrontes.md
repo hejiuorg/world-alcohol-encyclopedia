@@ -98,6 +98,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 特浓情
 
 特浓情是阿根廷最具代表性的本土白葡萄，以玫瑰、橙花、茉莉、荔枝与柑橘香气著称；高海拔萨尔塔版本酸度明亮、香气集中，干型口感却常被误认为麝香家族成员。
@@ -167,3 +168,9 @@ verification_scope: source-verified
 - 相关条目：[salta](ref:salta)、[muscat](ref:muscat)、[white-wine](ref:white)、[terroir](ref:terroir)、[fermentation](ref:fermentation)。
 
 对照阅读：[萨尔塔](ref:salta)、[白葡萄酒](ref:white)。
+
+## 相关图像
+
+![麝香](/media/photos/variety-muscat-4cf9d96f.jpg)
+
+图：麝香。图片：Tristan，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Al_Alam_Palace.jpg)）。关联图像：特浓情。

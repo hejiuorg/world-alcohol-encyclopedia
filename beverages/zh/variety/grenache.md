@@ -71,6 +71,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 歌海娜
 
 歌海娜（Grenache）是地中海沿岸最重要的红葡萄之一：耐热、耐旱、糖分积累快，能在干旱贫瘠的坡地上生存。它的果皮薄、单宁中等、酸度偏低，单喝容易显得松散，却在混酿中承担果味、酒精与香料的支撑。它在西班牙叫 Garnacha，在撒丁岛叫 Cannonau，基因研究确认它们是同一品种。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 | 代表产区 | 法国 |
 
 **来源与边界。** 本页关于「歌海娜」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Oxford University Press（提供关于歌海娜的起源、混酿与产区条目；由原条目末尾参考资料迁移，未逐条复核访问日期）、INAO（法国原产地命名制度中品种与产区的对应关系）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![艾格尼科](/media/photos/variety-aglianico-d4dec6be.jpg)
+
+图：艾格尼科。图片：Alexis Kreyder，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aglianico_Viala_Vermorel.jpg)）。关联图像：歌海娜。

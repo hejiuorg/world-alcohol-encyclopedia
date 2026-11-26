@@ -76,6 +76,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 北京
 
 中国首都的葡萄酒与白酒产区，房山、密云等地有葡萄园，顺义牛栏山与红星二锅头是清香型白酒的代表；城市边缘的葡萄酒庄与老字号酒厂，构成一种少见的“都市酒乡”。
@@ -160,3 +161,13 @@ verification_scope: source-verified
 | 国家代码 | CN |
 
 **来源与边界。** 本页关于「北京」的关键事实，主要由以下来源交叉核对：中国政府网（中国地理标志与酒类管理政策框架）、OIV（葡萄酒定义与全球生产框架）、FAO（农业地理与气候背景）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![中国类别配图](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+图：中国类别配图。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)）。关联图像：北京。
+
+![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：北京。

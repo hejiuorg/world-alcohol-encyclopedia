@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:bavaria
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:70f8464cc18a89a8f5fc273118aad27ef39ff0cdda83b5307e7e3c5967b9809b
-source_sha256: 70f8464cc18a89a8f5fc273118aad27ef39ff0cdda83b5307e7e3c5967b9809b
+source_revision: sha256:d499e0774b6e0c7c0fa23ff3e98d092626a9f444faefc0235ed0cb3ffe64962e
+source_sha256: d499e0774b6e0c7c0fa23ff3e98d092626a9f444faefc0235ed0cb3ffe64962e
 level: other
 country_code: DE
 legacy_refs: []
@@ -91,6 +91,7 @@ rights:
   note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Bavaria
 
 Bavaria is the largest federal state in southern Germany and one of the world's most famous beer-law territories. Munich, Nuremberg, Bamberg and Bayreuth each have a clear brewing tradition, from pale lager to smoked beer, wheat beer and strong doppelbock. Bavarian beer has to be read through the 1516 Reinheitsgebot and also through the way that rule is now interpreted, excepted and worked around.![Bavaria category image](/media/photos/place-weihenstephan-brewery-a3316b19.jpg)
@@ -156,3 +157,13 @@ Read Bavaria through the appellation and its permitted varieties, then the vinta
 - [Pilsner](ref:pilsner) and [wheat beer](ref:wheat-beer): two representative styles.
 - [Barley](ref:barley), [wheat](ref:wheat) and [water](ref:water): the main raw materials.
 - [Fermentation](ref:fermentation): the difference between bottom and top fermentation.
+
+## Related images
+
+![Wheat beer](/media/photos/drink-style-wheat-beer-5513b4e6.jpg)
+
+Image: Wheat beer. Credit: Takeaway, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2013_Augustiner_Weissbier_Munich_pub.jpg)). Related image for Bavaria.
+
+![Category image for Germany](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+Image: Category image for Germany. Credit: Renardo la vulpo, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)). Related image for Bavaria.

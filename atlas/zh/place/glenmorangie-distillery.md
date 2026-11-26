@@ -121,6 +121,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 格兰杰酒厂
 
 泰恩（Tain）在苏格兰东北岸，隔着多诺赫湾（Dornoch Firth）望向对岸。格兰杰（Glenmorangie）就在镇外的海风与麦田之间，名字来自盖尔语，意为“宁静之谷”。它的辨识度来自两组东西：一组是苏格兰最高的蒸馏器，另一组是塔尔洛吉泉（Tarlogie Springs）——酒厂拥有并保护泉眼周围的整片林地。把这两件事放在一起看，参观就不只是看铜器，而是理解“轻酒体”如何被设备与水共同塑造。
@@ -174,3 +175,9 @@ The Original 是基准款，官方现在的导览说明写作 12 年，以波本
 | 官网 | glenmorangie.com |
 
 **来源与边界。** 本页关于「格兰杰酒厂」的关键事实，主要由以下来源交叉核对：Glenmorangie（Tain IV19 1PZ 地址、游客中心由 Russell Sage Studio 改造、开放时间与品鉴吧时间、圣诞节闭馆；Classic Tour 1 小时、27 英镑、两杯品鉴、每团最多 12 人、儿童仅限经典导览、24 小时取消政策与无障碍说明）、VisitScotland（多诺赫湾位置、Still House 被称为 Highland Cathedral、苏格兰最高蒸馏器与泥土地面仓库）、Prestige Malts（坐标 57.825865, -4.077925（本文取四位小数））等 10 条来源。产品、地址或营业状态变化较快时，以 glenmorangie.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![壶式蒸馏器（pot still）](/media/photos/term-pot-still-665ffa28.jpg)
+
+图：壶式蒸馏器（pot still）。图片：see Source，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sjb_whiskey_still.jpg)）。关联图像：格兰杰酒厂。

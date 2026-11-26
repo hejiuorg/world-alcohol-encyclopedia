@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:dessert-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f4a79f26ebf39a1e3be88a7afdb9eac96fd4f390c346a5d8758f67e009b2b579
-source_sha256: f4a79f26ebf39a1e3be88a7afdb9eac96fd4f390c346a5d8758f67e009b2b579
+source_revision: sha256:790c56cdcc2ffcccc0a1c825fdf264f844a99a1f38167d23fa0332bf92f08886
+source_sha256: 790c56cdcc2ffcccc0a1c825fdf264f844a99a1f38167d23fa0332bf92f08886
 legacy_refs: []
 parent_style_id: drink-style:wine
 aroma_family: Honey / dried fruit / botrytis
@@ -82,6 +82,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Dessert Wine
 
 Dessert wine is not a grape, a region or a single law. It is a group of [wines](ref:wine) defined by residual sugar. It may be a white wine concentrated by botrytis, a wine made from late-picked or dried grapes, an ice wine pressed from fruit frozen on the vine, or a fortified wine in which fermentation was stopped by grape spirit. What holds the group together is a clear sweetness on the palate, and the acidity that has to exist to balance it.
@@ -139,3 +140,9 @@ For Dessert Wine, begin with the production rule, then the strength, and finish 
 | Aroma family | Honey / dried fruit / botrytis |
 
 **Sources and limits.** The key claims about Dessert Wine are checked against the following sources: International Organisation of Vine and Wine (OIV) (definitions of wine, sweet wine and specially harvested grapes; no original text is reproduced), European Union (wine categories, geographical indications and sweetness labelling; no original text is reproduced), Oxford University Press (Consulted for entries on dessert wine, noble rot, late harvest and ice wine; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Noble rot](/media/photos/term-noble-rot-97171bf5.jpg)
+
+Image: Noble rot. Credit: Photographer: Tom Maack No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Botrytis_riesling.jpg)). Related image for Dessert Wine.

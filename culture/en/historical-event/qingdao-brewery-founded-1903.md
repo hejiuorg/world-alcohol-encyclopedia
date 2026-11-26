@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:qingdao-brewery-founded-1903
 source_lang: zh
-source_revision: sha256:2782f8898e42a605aac95cb4c427b356e0b7dd428d11ec6c1c11e7ae46dd38b9
-source_sha256: 2782f8898e42a605aac95cb4c427b356e0b7dd428d11ec6c1c11e7ae46dd38b9
+source_revision: sha256:1b3b837ca260f98656886a1107fa38c59d7a5340b76d054d1439c0e941df5818
+source_sha256: 1b3b837ca260f98656886a1107fa38c59d7a5340b76d054d1439c0e941df5818
 translation_status: reviewed
 aliases:
   - 日耳曼啤酒公司青岛股份公司
@@ -67,6 +67,7 @@ rights:
   note: Third-party reports, company websites and government pages are used for fact checking only; their copy and images are not reproduced. No company marks or product photographs are used on this essay.
 verification_scope: source-verified
 ---
+
 # The Founding of the Qingdao Brewery (1903): German and British Merchants and China's First Continuously Operating Brewery
 
 On 15 August 1903 German and British merchants founded the Germania Brewery Company, Qingdao, at what is now 56 Dengzhou Road in Qingdao. It is usually called China's first brewery still in continuous operation: not a short experimental brew but a modern factory with a stable product line and sales network.
@@ -141,3 +142,9 @@ The Founding of the Qingdao Brewery (1903) is best approached through the date a
 - [China](ref:china): background on the regions and categories of Chinese alcohol.
 
 Further reading: [The 1855 Bordeaux Classification: A List Produced for a World's Fair](ref:c-extra-1).
+
+## Related images
+
+![Tsingtao Beer](/media/photos/drink-shandong-tsingtao-37e48279.jpg)
+
+Image: Tsingtao Beer. Credit: Lennartbj, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingtao_Brewery_in_Qingdao.jpg)). Related image for The Founding of the Qingdao Brewery (1903): German and British Merchants and China's First Continuously Operating Brewery.

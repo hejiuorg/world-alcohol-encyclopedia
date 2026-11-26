@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:gulin
 source_lang: zh
-source_revision: sha256:8d216959ef18a7c717b7b904b151ab95131f9acca1987e6856e72b2ba53614cb
-source_sha256: 8d216959ef18a7c717b7b904b151ab95131f9acca1987e6856e72b2ba53614cb
+source_revision: sha256:6a25ce69686bed8f8da1a6d79bab6b90feb5acd7ce82d2b81476b102c56b65b6
+source_sha256: 6a25ce69686bed8f8da1a6d79bab6b90feb5acd7ce82d2b81476b102c56b65b6
 translation_status: reviewed
 level: city
 parent_id: region:luzhou
@@ -96,6 +96,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. Third-party images are credited in the captions.
 verification_scope: source-verified
 ---
+
 # Gulin County
 
 Gulin County belongs to Luzhou in Sichuan and lies at the southern edge of the Sichuan Basin, at the northern foot of the Yunnan–Guizhou Plateau. Its shape is unusual: the county pushes south into northern Guizhou like a peninsula. Xuyong borders it to the west, while Bijie, Jinsha, Renhuai, Xishui and Chishui in Guizhou surround it on the south, east and north. The official figures give an area of 3,185 square kilometres, 3 subdistricts, 17 towns and 3 Miao townships, with 43 communities and 246 administrative villages; the registered population at the end of 2025 was 873,000.
@@ -157,3 +158,13 @@ Fourth, do not estimate Gulin's mountain distances using plain-city experience. 
 - For the shared language of sauce aroma, read [sauce-aroma baijiu](ref:sauce).
 - To place Gulin within Luzhou and Sichuan, read [Luzhou](ref:luzhou) and [Sichuan](ref:sichuan); for the other bank, read [Zunyi](ref:zunyi), [Guizhou](ref:guizhou) and [Xishui](ref:xishui).
 - To compare strong and sauce aroma, read [strong-aroma baijiu](ref:strong); for the national picture, read [China](ref:china) and [baijiu](ref:baijiu).
+
+## Related images
+
+![Sichuan](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+Image: Sichuan. Credit: FISU, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)). Related image for Gulin County.
+
+![Category image for Langjiu](/media/photos/drink-style-light-aroma-baijiu-1c3af236.jpg)
+
+Image: Category image for Langjiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Gulin County.

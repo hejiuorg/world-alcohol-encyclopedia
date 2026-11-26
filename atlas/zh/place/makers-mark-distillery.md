@@ -121,6 +121,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格、菜单与预约规则会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 美格酒厂
 
 洛雷托（Loretto）在肯塔基中部的丘陵里，离巴兹敦不远。美格（Maker's Mark）把厂区叫作 Star Hill Farm，这不是后来追加的观光名字：1950 年代选址时，Samuels 家看中的就是这片由石灰岩过滤的泉水和自有的集水区。今天参观者看到的是一处仍在运作的农场型酒厂，羊群、和牛、太阳能仓库、手工转桶与红蜡封瓶共存，国家历史地标的身份并没有让它停止生产。它也不是一座被玻璃罩起来的“故居”：游客脚下的路、远处的仓库与发酵间的气味，都是日常生产的一部分。
@@ -176,3 +177,9 @@ verification_scope: source-verified
 | 官网 | makersmark.com |
 
 **来源与边界。** 本页关于「美格酒厂」的关键事实，主要由以下来源交叉核对：Maker's Mark Distillery（Star Hill Farm 参观类型、经典导览约 1 小时 15 分钟、免费停车与餐饮位置；3350 Burks Spring Rd 地址、提前 15 分钟到达、证件与无现金提示、闭趾鞋要求、营业时间与网约车不可靠的说明）、Prestige Malts（坐标 37.648384, -85.349526（本文取四位小数））、未注明（由原条目末尾参考资料迁移，未逐条复核访问日期）。产品、地址或营业状态变化较快时，以 makersmark.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“天堂山酒厂”页面配图：Heaven Hill distillery, Bardstown, Kentucky。摄影：Shadle，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-place-heaven-hill-distillery-8dfd9681.jpg)
+
+图：Heaven Hill distillery, Bardstown, Kentucky。摄影：Shadle，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Shadle，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4136725)）。关联图像：美格酒厂。

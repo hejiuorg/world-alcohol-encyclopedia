@@ -72,6 +72,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 黑加仑利口酒
 
 黑加仑利口酒（crème de cassis）是先把黑加仑果实浸入中性烈酒、再把浸提液加糖调成的深紫色甜酒。法语里的 crème 在这里并不表示奶油，而是指糖分更高、质地更厚的一档[利口酒](ref:liqueur)；因此它不含乳制品，却常比普通果味利口酒更浓稠。它最著名的用途是兑入白葡萄酒或起泡酒，做成 Kir 与 Kir Royale，但单独加冰或淋在甜点上同样成立。
@@ -135,3 +136,9 @@ Kir 的经典比例是一份黑加仑利口酒兑四到五份干白葡萄酒，�
 补充阅读：[修道院啤酒](ref:c-extra-1)。
 
 相关条目：[利口酒](ref:liqueur)、[法国](ref:france)、[葡萄](ref:grape)。
+
+## 相关图像
+
+![修道院啤酒](/media/photos/drink-style-abbey-beer-276b4dc3.jpg)
+
+图：修道院啤酒。图片：BLloydT，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_wall_of_Belgian_beer_bottles_at_the_Bruges_beer_experience.jpg)）。关联图像：黑加仑利口酒。

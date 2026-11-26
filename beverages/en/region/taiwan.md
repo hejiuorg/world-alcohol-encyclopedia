@@ -25,8 +25,8 @@ tags:
 translation_of: region:taiwan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f9f7aafb63f226e4a730d298348f0eb4c40dafb365254dff272b418e5884646f
-source_sha256: f9f7aafb63f226e4a730d298348f0eb4c40dafb365254dff272b418e5884646f
+source_revision: sha256:ef342864405d298103cfe76e53d9b57125c5e9a29b115653039fdfb11b1f8da3
+source_sha256: ef342864405d298103cfe76e53d9b57125c5e9a29b115653039fdfb11b1f8da3
 related:
   - relation: about
     target_id: region:china
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; spirit regulations, labels and regional boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Taiwan, China
 
 The whisky and drinks region of Taiwan, China, with distilleries in Yilan and Nantou; a subtropical climate ages spirit very fast, and brands such as Kavalan and Omar have drawn international competition attention.![King Car Kavalan Distillery](/media/photos/region-taiwan-a906c6c5.jpg)
@@ -166,3 +167,13 @@ Check whether a bottle is single malt, single cask or blended before comparing; 
 
 - Related: [china](ref:china), [whisky](ref:whisky), [barley](ref:barley), [distillation](ref:distillation), [terroir](ref:terroir).
 - This region provides no map, prices or opening hours; confirm before travelling.
+
+## Related images
+
+![Whisky](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+Image: Whisky. Credit: Guinnog, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)). Related image for Taiwan, China.
+
+![Barley](/media/photos/ingredient-barley-37a96001.jpg)
+
+Image: Barley. Credit: Cliff from Arlington, Virginia, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)). Related image for Taiwan, China.

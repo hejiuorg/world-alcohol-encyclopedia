@@ -13,8 +13,8 @@ species: Vitis vinifera
 translation_of: variety:chardonnay
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2fa54d351dc3b2582fbd0439082da4a8c2e4036e6bbd0f7641d24f84a13836d9
-source_sha256: 2fa54d351dc3b2582fbd0439082da4a8c2e4036e6bbd0f7641d24f84a13836d9
+source_revision: sha256:5fbfe2ead89b4992a0d443176a7856853d7e19a3aee8de7f086c646459aebd7a
+source_sha256: 5fbfe2ead89b4992a0d443176a7856853d7e19a3aee8de7f086c646459aebd7a
 aliases:
   - Chardonnay
 tags:
@@ -138,3 +138,9 @@ Fifth, the more oak the better. Oak is a seasoning and structural tool; too much
 - [Sparkling wine](ref:sparkling): traditional-method process and variety blends.
 - [Dom Pérignon](ref:dom-perignon): a concrete example of Chardonnay's role in Champagne.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
+
+## Related images
+
+![Sparkling wine](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+Image: Sparkling wine. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Chardonnay.

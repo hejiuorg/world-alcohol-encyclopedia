@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:lokal-dlouha
 source_lang: zh
-source_revision: sha256:a227d5ac29dcc870c278222066c4d30fb2584105c033d95a964831cbc97e258b
-source_sha256: a227d5ac29dcc870c278222066c4d30fb2584105c033d95a964831cbc97e258b
+source_revision: sha256:434c5fec117a89c041a5c2e3bcba3c8aaee3320994867b503c76fe9ba3be594e
+source_sha256: 434c5fec117a89c041a5c2e3bcba3c8aaee3320994867b503c76fe9ba3be594e
 translation_status: reviewed
 subtype: pub
 address: Dlouhá 33, 110 00 Praha 1, Czech Republic
@@ -150,3 +150,9 @@ Evening traffic on Dlouhá concentrates at restaurant and bar doors, and Lokál 
 Further reading: [Beer](ref:c-extra-1), [Reading a city through its bars](ref:c-extra-2).
 
 **Short definition:** A Czech pub on Dlouhá street in Prague's Old Town, opened in 2009 and known for its 12 beer tanks, 69.78 metres of beer line, Pilsner Urquell, Kozel dark lager and Czech home cooking.
+
+## Related images
+
+![U Fleků](/media/photos/place-u-fleku-1192f412.jpg)
+
+Image: U Fleků. Credit: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Prag,_U_Flek%C5%AF_--_2019_--_6735.jpg)). Related image for Lokál Dlouhááá.

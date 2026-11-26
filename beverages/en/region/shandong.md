@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:shandong
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:224c0d3b03d1a1ffd65c79ea6527587318108251e2f58cd02a3ace730053e4d4
-source_sha256: 224c0d3b03d1a1ffd65c79ea6527587318108251e2f58cd02a3ace730053e4d4
+source_revision: sha256:2a924ce516127fa9560f357b8869ee395c813b26dd92d9d04a321cb66493a5ac
+source_sha256: 2a924ce516127fa9560f357b8869ee395c813b26dd92d9d04a321cb66493a5ac
 legacy_refs: []
 level: province
 parent_id: region:china
@@ -88,6 +88,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Shandong Province
 
 Shandong lies on China's east coast along the lower Yellow River. In the map of alcoholic drinks it is both a major baijiu producer and one of the leading northern yellow wine regions: Jimo laojiu uses broomcorn millet, wheat qu for saccharification and fermentation, and a scorched-mash step. This region focuses on yellow wine and mentions baijiu only where necessary.![Shandong Province image](/media/photos/region-shandong-1f89a703.jpg)
@@ -172,3 +173,13 @@ To read Shandong Province, start with the appellation and its permitted varietie
 - [Jimo](ref:jimo): the core yellow wine area of Shandong.
 - [Wheat](ref:wheat) and [water](ref:water): how wheat qu and water shape style.
 - [Qu making](ref:qu-making) and [fermentation](ref:fermentation): wheat qu and jar fermentation.
+
+## Related images
+
+![Photograph for Jimo: Jimo District Converged Media Center in Qingdao, Shandong, China 20260607. Credit: 4084470 0.smil, CC BY 4.0, via Wikimedia Commons.](/media/photos/q2-region-jimo-08067dae.jpg)
+
+Image: Jimo District Converged Media Center in Qingdao, Shandong, China 20260607. Credit: 4084470 0.smil, CC BY 4.0, via Wikimedia Commons.. Credit: 4084470 0.smil, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=194207475)). Related image for Shandong Province.
+
+![Yellow wine](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+Image: Yellow wine. Credit: udono, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)). Related image for Shandong Province.

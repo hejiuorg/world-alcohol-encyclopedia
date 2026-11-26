@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:genever
 source_lang: zh
-source_revision: sha256:92ce2dc9811b83b9125bbce807fb0ec79a0b4658d50d9196785195ff8df4f4f7
-source_sha256: 92ce2dc9811b83b9125bbce807fb0ec79a0b4658d50d9196785195ff8df4f4f7
+source_revision: sha256:6542e8c63f62991a918a5115bb53cbbe6f9fea66cc09bd8b4d603bf226e2bf63
+source_sha256: 6542e8c63f62991a918a5115bb53cbbe6f9fea66cc09bd8b4d603bf226e2bf63
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -82,6 +82,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Genever
 
 Genever, or jenever in Dutch, is a grain spirit flavoured with juniper, made mainly in the Netherlands, Belgium and the northern French departments of Nord and Pas-de-Calais. It shares juniper with English [gin](ref:gin) but takes a different route through its raw material: traditional genever uses malt wine, a spirit distilled from mashed and fermented rye, maize, wheat or barley, then blended with neutral grain alcohol and botanicals including juniper. That malt-wine base is key.![Genever image](/media/photos/drink-style-genever-69222f55.jpg)
@@ -139,3 +140,9 @@ To read Genever, start with the production rule, then the strength, then the usu
 **Sources and limits.** The key claims about Genever are checked against the following sources: European Union (the names, member states and jonge/oude sub-names of the Genièvre/Jenever/Genever GI; spirit-drink categories, GI protection and gin-related definitions), Oxford University Press (Consulted for entries on genever history, malt wine and Dutch-Belgian distilling), BJCP (the entry's background, terminology and regulatory context). Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Genever, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![London dry gin](/media/photos/drink-style-london-dry-gin-abe0a9c8.jpg)
+
+Image: London dry gin. Credit: Decatur Wine & Spirits, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)). Related image for Genever.

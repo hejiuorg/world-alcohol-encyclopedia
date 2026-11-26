@@ -94,6 +94,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 麦克拉伦谷
 
 麦克拉伦谷位于南澳大利亚福勒里厄半岛北部、阿德莱德以南约 45 分钟车程，地中海气候、海风调节、老藤与多样土壤并存；以西拉、歌海娜、赤霞珠与霞多丽著称，1997 年获 GI，是澳大利亚温暖气候风格的代表产区之一。
@@ -165,3 +166,13 @@ GI 名之下，片区与单一园名提示土壤与成熟节奏；西拉、歌�
 - 相关条目：[australia](ref:australia)、[syrah](ref:syrah)、[cabernet-sauvignon](ref:cabernet)、[red-wine](ref:red)、[oak-ageing](ref:oak)。
 
 相关条目：[澳大利亚](ref:australia)、[西拉](ref:syrah)、[赤霞珠](ref:cabernet)。
+
+## 相关图像
+
+![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：麦克拉伦谷。
+
+![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+
+图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：麦克拉伦谷。

@@ -93,6 +93,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 兵库县
 
 兵库县的清酒名声常被压缩成两个词：滩与宫水。这个概括不算错，却漏掉了制度层面的关键变化——2018 年 6 月 28 日，“灘五郷”被日本国税厅长官指定为酒类地理的表示（GI），成为受生产基准约束的产地名称，而不只是历史地名。要理解兵库清酒，需要同时看沿海的滩五乡、内陆的酒米产区、以及纯米与吟酿这两条不同的产品路线。
@@ -167,3 +168,13 @@ verification_scope: source-verified
 - [生酛与山废](ref:kimoto-yamahai)：天然乳酸菌培养酒母的传统路线。
 - [稻米](ref:rice)与[水](ref:water)：酒米与宫水构成的原料基础。
 - [制曲](ref:qu-making)、[糖化](ref:saccharification)与[发酵](ref:fermentation)：并行复发酵的关键环节。
+
+## 相关图像
+
+![谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。](/media/photos/editorial-saccharification-q2.jpg)
+
+图：谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：兵库县。
+
+![清酒瓶装，精米步合、酒度与日本酒度常决定选购判断](/media/photos/drink-style-sake-de6a3028.jpg)
+
+图：清酒瓶装，精米步合、酒度与日本酒度常决定选购判断。图片：koutalou，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)）。关联图像：兵库县。

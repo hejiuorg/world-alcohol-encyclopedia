@@ -80,6 +80,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、参观、品鉴与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 费尔西纳庄园
 
 从锡耶纳往东，丘陵逐渐从经典基安蒂的黑公鸡地带过渡到 Crete Senesi 的裸土与麦田，费尔西纳庄园（Fattoria Fèlsina）就坐落在两种地貌的交界处。它不在 Gaiole 或 Radda 的旅游热线上，也不靠城堡与塔楼吸引人；这里更像一座仍在运转的农业庄园：葡萄园、橄榄园、林地、农舍与酒窖连成一片，入口在 Castelnuovo Berardenga 镇外不远。对想理解“桑娇维塞有多少种可能”的人来说，这一站比任何酒单都直接。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 对照阅读：[托斯卡纳](ref:tuscany)、[一杯酒，为什么有地方的味道？](ref:place-and-process)。
 
 相关条目：[葡萄酒](ref:wine)。
+
+## 相关图像
+
+![布罗利奥城堡](/media/photos/place-castello-di-brolio-f7e13c0b.jpg)
+
+图：布罗利奥城堡。图片：Sailko，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Castello_di_brolio,_edificio_padronale_11.JPG)）。关联图像：费尔西纳庄园。

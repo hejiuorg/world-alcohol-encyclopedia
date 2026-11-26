@@ -88,6 +88,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、票价与参观线路会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 奥尼奥阿庄园
 
 奥尼奥阿（Domaine d'Ognoas）是朗德省阿尔泰兹达尔马尼亚克的一座省立庄园，位于下雅文邑西缘，领地可追溯到 11 世纪末或 12 世纪初。它不是家族酒庄，而是 1905 年政教分离后由朗德省接手的公共产业：约 650 公顷土地、一台连续蒸馏器、成排酒窖与一间全年营业的商店，共同构成产区内少见的“公共庄园”样本。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 | 城市/国家 | 阿尔泰兹达尔马尼亚克 / 法国 |
 | 营业状态 | 已核验营业 |
 | 官网 | domaine-ognoas.com |
+
+## 相关图像
+
+![白兰地](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+图：白兰地。图片：Didier Descouens，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)）。关联图像：奥尼奥阿庄园。

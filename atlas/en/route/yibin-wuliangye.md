@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:yibin-wuliangye
 source_lang: zh
-source_revision: sha256:655977034ce4d66dd607a7dc779cfa58c85af0b6a4777aeca44498581bf540d6
-source_sha256: 655977034ce4d66dd607a7dc779cfa58c85af0b6a4777aeca44498581bf540d6
+source_revision: sha256:a39daea2a328ed4da1cd8f4798df278736555bca819efe3b7089c893a8d4ef5c
+source_sha256: a39daea2a328ed4da1cd8f4798df278736555bca819efe3b7089c893a8d4ef5c
 translation_status: reviewed
 stop_ids:
   - place_id: place:wuliangye-wine-museum
@@ -154,3 +154,13 @@ Alternative: for a short visit, see only the Wuliangye Wine Culture Museum; to c
 - Sichuan Online Red Base — Wuliangye Wine Culture Museum — https://hsjd.scdjw.com.cn/cover01.html?id=116 (Sichuan Online Red Base, checked 2026-11-25)
 
 Related entries: [Wuliangye Wine Culture Museum](ref:museum), [Wuliangye Distillery (Ten-Li Liquor City)](ref:estate), [Wuliangye](ref:brand), [strong-aroma baijiu](ref:style), [Sichuan](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Wuliangye](/media/photos/brand-wuliangye-27081149.jpg)
+
+Image: Wuliangye. Credit: 东京村子, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E4%BA%94%E7%B2%AE%E6%B6%B2%E6%97%97%E8%88%B0%E5%BA%97_-_panoramio.jpg)). Related image for Yibin Wuliangye Route: Museum to Ten-Li Liquor City.
+
+![Sichuan](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+Image: Sichuan. Credit: FISU, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)). Related image for Yibin Wuliangye Route: Museum to Ten-Li Liquor City.

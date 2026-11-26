@@ -98,8 +98,8 @@ verification_scope: source-verified
 translation_of: place:darroze
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0f75277c0d4435f3b333f327e7621d0f4bf07e5d2104a4b2e50078aa2ec8b4da
-source_sha256: 0f75277c0d4435f3b333f327e7621d0f4bf07e5d2104a4b2e50078aa2ec8b4da
+source_revision: sha256:448083a32c45ddcdd0ef1e7931affcd8f53c8f351fa90611215a84faf39a3be3
+source_sha256: 448083a32c45ddcdd0ef1e7931affcd8f53c8f351fa90611215a84faf39a3be3
 ---
 
 # Darroze
@@ -183,3 +183,9 @@ From Bordeaux, keep Darroze and the [Cognac trail](ref:cognacroute) on separate 
 - Cognac comparisons: [Cognac trail](ref:cognacroute), [Hennessy](ref:hennessy), [Rémy Martin](ref:remy).
 
 [Château de Laubade](ref:laubade) and [Armagnac trail: single estates of Bas-Armagnac](ref:armagnacroute) are the nearest useful comparisons: one clarifies address and space, the other tests operating status.
+
+## Related images
+
+![Related photograph of Château de Laubade](/media/photos/place-chateau-de-laubade-83b39f8f.jpg)
+
+Image: Related photograph of Château de Laubade. Credit: Adam Baker, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:1972_Chateau_de_Laubade_Bas_Armagnac_Vintage.jpg)). Related image for Darroze.

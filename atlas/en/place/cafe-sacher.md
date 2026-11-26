@@ -84,8 +84,8 @@ founded_year: 1876
 translation_of: place:cafe-sacher
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0f9d9b0bfa2ee90e717ee80fc5826f1fc3377ebdffc5c8e27521a337409242e5
-source_sha256: 0f9d9b0bfa2ee90e717ee80fc5826f1fc3377ebdffc5c8e27521a337409242e5
+source_revision: sha256:7dedd6b57723c03635d570e31d362ebdc2a3ce638bc08360f10c6cafb0873dd6
+source_sha256: 7dedd6b57723c03635d570e31d362ebdc2a3ce638bc08360f10c6cafb0873dd6
 ---
 
 # Café Sacher
@@ -148,3 +148,9 @@ Step outside and the Vienna State Opera is on your left; the Albertina and Hofbu
 - Related entries: [Demel](ref:demel), [Café Central](ref:central), [Café Hawelka](ref:hawelka), [Café Sperl](ref:sperl), [Vienna coffee-house evening route](ref:vienna-route)
 
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Café Sacher is built.
+
+## Related images
+
+![The Demel storefront and display windows on Kohlmarkt 14](/media/photos/place-demel-7ed139ad.jpg)
+
+Image: The Demel storefront and display windows on Kohlmarkt 14. Credit: No machine-readable author provided. Gryffindor assumed (based on copyright claims)., Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Demel,_Vienna.jpg)). Related image for Café Sacher.

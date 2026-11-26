@@ -101,8 +101,8 @@ stop_ids:
     note: In St Helena, see the 1876 winery and Rhine House and put “modern” back into a longer history.
 mode: car
 updated_at: 2026-11-08
-source_sha256: b86d900e2edb04433a5014b44495edcb6f8ee9cafb6fe225483d2ddae3be34f1
-source_revision: sha256:b86d900e2edb04433a5014b44495edcb6f8ee9cafb6fe225483d2ddae3be34f1
+source_sha256: bb911a09b7f7a9c5867c205abde0f311cb3cf61bd37deb4861cd4c1a95c4b763
+source_revision: sha256:bb911a09b7f7a9c5867c205abde0f311cb3cf61bd37deb4861cd4c1a95c4b763
 ---
 
 # Napa Valley: the modern winery belt after the 1976 Judgment of Paris
@@ -198,3 +198,13 @@ Northwards the route reaches Calistoga and Knights Valley, southwards Yountville
 - For background, consult the Napa Valley region, wine and place-and-process entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.
+
+## Related images
+
+![Photograph for Robert Mondavi Winery: Robert Mondavi winery. Credit: Greg Dunham from Kirkland, WA, USA, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-place-robert-mondavi-winery-9a1f1a11.jpg)
+
+Image: Robert Mondavi winery. Credit: Greg Dunham from Kirkland, WA, USA, CC BY 2.0, via Wikimedia Commons.. Credit: Greg Dunham from Kirkland, WA, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=2945111)). Related image for Napa Valley: the modern winery belt after the 1976 Judgment of Paris.
+
+![Related photograph of Beringer Vineyards](/media/photos/place-beringer-vineyards-bf49ca60.jpg)
+
+Image: Related photograph of Beringer Vineyards. Credit: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rhine_House,_Beringer_Vineyards.jpg)). Related image for Napa Valley: the modern winery belt after the 1976 Judgment of Paris.

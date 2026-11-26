@@ -88,6 +88,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 凤香型白酒
 
 凤香型常被放在清香与浓香之间：它有清香的干净，也有浓香的窖香，却不属于任何一方。这种“中间感”不是调和出来的，而是由一套很具体的工艺决定的——高粱、大麦、豌豆、小麦，大曲，黄土泥窖，混蒸混烧，再加上酒海陈贮。把这几件事拆开看，凤香型的边界就清楚了。
@@ -177,3 +178,9 @@ verification_scope: source-verified
 - [蒸馏](ref:distillation)：混蒸混烧与分段摘酒。
 
 相关条目：[白酒](ref:baijiu)、[高粱](ref:sorghum)。
+
+## 相关图像
+
+![小麦](/media/photos/ingredient-wheat-e782d218.jpg)
+
+图：小麦。图片：kallerna，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)）。关联图像：凤香型白酒。

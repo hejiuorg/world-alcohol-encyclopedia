@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1927
 ---
+
 # 圆顶咖啡馆
 
 蒙帕纳斯大道 102 号，一间门面宽得几乎占满街区的餐厅，门口挂着“LA COUPOLE”的霓虹与遮阳篷。它不像圣日耳曼的咖啡馆那样把座位摆在人行道上，而是用一整面玻璃与大理石立面把人吸进去。进门后先看到的是穹顶下的主厅、成排的柱子、白色与奶油色的墙面、 brass 灯具与开放式海鲜台。La Coupole 不是“小而美”的左岸咖啡馆，它是蒙帕纳斯“疯狂年代”的宴会厅，也是今天仍然从早到晚营业的大型 brasserie。
@@ -153,3 +154,9 @@ La Coupole 的空间是“大厅 + 露台 + 地下酒吧”的组合。主厅有
 - 相关条目：[丁香园咖啡馆](ref:closerie)、[利普啤酒馆](ref:lipp)、[和平咖啡馆](ref:paix)、[圣日耳曼文学咖啡馆路线](ref:saint-germain)、[巴黎丽兹 Hemingway 酒吧](ref:hemingway)
 
 对照阅读：[丁香园咖啡馆](ref:closerie)、[和平咖啡馆](ref:paix)。
+
+## 相关图像
+
+![La Closerie des Lilas 的绿色门面与招牌，171 boulevard du Montparnasse](/media/photos/place-la-closerie-des-lilas-73ad59b7.jpg)
+
+图：La Closerie des Lilas 的绿色门面与招牌，171 boulevard du Montparnasse。图片：Britchi Mirela，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:La_Closerie_des_Lilas,_Paris.jpg)）。关联图像：圆顶咖啡馆。

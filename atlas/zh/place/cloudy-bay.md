@@ -80,6 +80,7 @@ rights:
   note: 第三方商标、酒标、菜单、图片与引用文本不在本许可内；开放时间、预约规则、餐厅时段与酒款会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 云雾之湾酒庄
 
 云雾之湾在布伦海姆的 Jacksons Road，葡萄园铺在 Wairau Valley 的砾石河床上，背后是 Richmond Ranges 的山脊。它不是一个把“老历史”挂在门口的酒庄：1985 年才酿出第一个年份，在马尔堡的现代葡萄酒史里算中生代；但它把长相思的香气、酸度与海风叙事结合得足够清楚，成了许多人认识新西兰白葡萄酒的第一站。
@@ -143,3 +144,9 @@ verification_scope: source-verified
 本页依据云雾之湾官方到访页、新西兰葡萄种植者协会的云湾档案与马尔堡产区页，以及 Brancott 官方品牌页核验，页面核验日期 2026-11-09。若要把这一站放进行程，可继续读[马尔堡葡萄酒路线](ref:route)；关于品种背景，见[长相思](ref:sauvignon)与[白葡萄酒](ref:white-wine)。开放时间、预约与酒款以官方渠道为准。
 
 补充阅读：[A Ginjinha](ref:c-extra-1)。
+
+## 相关图像
+
+![布伦海姆云雾之湾酒庄的葡萄园，藤行间可见远处的怀劳河谷山地。](/media/photos/route-marlborough-wine-trail-abdbbafa.jpg)
+
+图：布伦海姆云雾之湾酒庄的葡萄园，藤行间可见远处的怀劳河谷山地。。图片：Matt Boulton，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cloudy_Bay_Vineyard.jpg)）。关联图像：云雾之湾酒庄。

@@ -15,8 +15,8 @@ legacy_refs: []
 translation_of: region:islay
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a575059291218aa7f3e9ad97e234f2026ade4589cc155d5dda59af82212e5b04
-source_sha256: a575059291218aa7f3e9ad97e234f2026ade4589cc155d5dda59af82212e5b04
+source_revision: sha256:f725e121962518e579230f23a2863f8f93e5e4559a08dac9fed3a57bfe6470fc
+source_sha256: f725e121962518e579230f23a2863f8f93e5e4559a08dac9fed3a57bfe6470fc
 aliases:
   - Islay
   - Islay whisky region
@@ -82,6 +82,7 @@ rights:
   note: Third-party legal texts, trademarks and images are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Islay
 
 Islay lies off the west coast of Scotland, one of the southernmost of the Inner Hebrides, about 600 square kilometres in area with a population of roughly 3200. It holds one of the densest clusters of distilleries in Scotland, from Laphroaig, Lagavulin and Ardbeg on the south shore to Caol Ila and Bunnahabhain in the north, and Bruichladdich, Kilchoman and Ardnahoe, which started production in 2018, on the west. It is both a protected locality under UK law and a byword for heavily peated whisky; those two meanings need separating.
@@ -136,3 +137,13 @@ Islay is best approached through the appellation and its permitted varieties, th
 - [Distillation](ref:distillation): pot distillation and cuts.
 - [Oak ageing](ref:oak-ageing): how cask type and maturation shape style.
 - [Barley](ref:barley): malted barley as a whisky raw material.
+
+## Related images
+
+![Peat](/media/photos/term-peat-36a70265.jpg)
+
+Image: Peat. Credit: David Stanley from Nanaimo, Canada, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Peat_(49302157252).jpg)). Related image for Islay.
+
+![Category image for Scotland](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+Image: Category image for Scotland. Credit: Alan Jamieson, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)). Related image for Islay.

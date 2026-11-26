@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观安排、售酒时间与酒款会变化，以酒庄回复为准。
 verification_scope: source-verified
 ---
+
 # 洛佩兹雷迪亚酒庄
 
 洛佩兹雷迪亚酒庄在西班牙里奥哈阿罗（Haro）的火车站区（Barrio de la Estación），地址是 Vizcaya 大道 3 号。它由拉斐尔·洛佩兹·德·埃雷迪亚（Rafael López de Heredia y Landeta）于 1877 年创立，是阿罗最古老的酒庄，也是里奥哈最早的三家酒庄之一。与许多把参观做成标准产品的酒庄不同，这里首先是一座仍在按旧节奏运转的生产建筑：地下石窖、成排的美国橡木桶、自家的制桶车间，以及推迟多年才上市的 Reserva 与 Gran Reserva。
@@ -163,3 +164,9 @@ verification_scope: source-verified
 补充阅读：[A Ginjinha](ref:c-extra-1)。
 
 相关条目：[葡萄酒](ref:wine)、[里奥哈](ref:rioja)、[酒窖与储存：温度、湿度、光照与时间](ref:cellar)。
+
+## 相关图像
+
+![贝加西西里亚](/media/photos/drink-spain-vega-sicilia-a4031403.jpg)
+
+图：贝加西西里亚。图片：Dominic Lockyer，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vega_Sicilia_%C3%9Anico_2000.jpg)）。关联图像：洛佩兹雷迪亚酒庄。

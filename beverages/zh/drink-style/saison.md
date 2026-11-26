@@ -79,6 +79,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 赛松
 
 赛松（saison）是[比利时](ref:belgium)瓦隆地区农庄在凉爽季节酿造、留到夏季农忙时饮用的[啤酒](ref:beer)。它的定义不靠颜色，而靠发酵方式与口感走向：高发酵度带来干爽收口，酵母产生胡椒、柑橘与干草般的香气，气泡通常活跃。历史上它是低酒精的农忙饮料，今天则从日常型延伸到 8% 以上的烈性版本。
@@ -136,3 +137,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「赛松」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（赛松的强度、苦度、酵母香气与季节酿造描述框架）、Brewers Association（美国精酿行业对赛松与农舍艾尔的公开分类）、Oxford University Press（提供关于瓦隆农舍酿造、赛松历史与比利时酵母的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「赛松」与「啤酒」、「小麦啤酒」、「比利时」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![酵母](/media/photos/ingredient-yeast-bf0b8d88.jpg)
+
+图：酵母。图片：Masur，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg)）。关联图像：赛松。

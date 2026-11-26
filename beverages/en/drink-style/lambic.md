@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:lambic
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ec5137358b4b88e6e47af0e5ea842bcf3f92944a038b90102c99b6a809257c43
-source_sha256: ec5137358b4b88e6e47af0e5ea842bcf3f92944a038b90102c99b6a809257c43
+source_revision: sha256:3298ec6b57abc0ea9873ff8f620118399a394ccaa4da582efaf277bf41f4af9b
+source_sha256: 3298ec6b57abc0ea9873ff8f620118399a394ccaa4da582efaf277bf41f4af9b
 parent_style_id: drink-style:beer
 aroma_family: Sour and wild yeast
 legacy_refs: []
@@ -84,6 +84,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Lambic
 
 Lambic (Dutch: lambiek) is a traditional beer of the Pajottenland and Senne (Zenne) valley around Brussels, fermented spontaneously by wild yeast and bacteria from the air rather than by pitching a commercial yeast. It is sour, dry and funky, often bottled as a blend of aged and young lambic called gueuze, with fruit versions such as kriek and framboise.![Lambic image](/media/photos/drink-style-lambic-e4a01a2a.jpg)
@@ -161,3 +162,9 @@ For Lambic, this style was last checked in 2026; prices, batches and availabilit
 - [Fermentation](ref:fermentation): the mixed fermentation driven by wild yeast and bacteria.
 - [Oak ageing](ref:oak-ageing): how long barrel ageing shapes acidity and aroma.
 - [Craft beer](ref:craft-beer): the background for lambic's revival and modern sour beer trends.
+
+## Related images
+
+![Category image for Belgium](/media/photos/place-de-halve-maan-46bc86b4.jpg)
+
+Image: Category image for Belgium. Credit: Falk2, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:J33_542_Walplein,_%C2%BBDe_halve_Maan%C2%AB.jpg)). Related image for Lambic.

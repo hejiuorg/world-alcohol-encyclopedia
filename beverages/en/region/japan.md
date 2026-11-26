@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:japan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:77183ba2a7d721f049a3467a4d2aa6cf7986ebe518c01249de55ceaa737e20ad
-source_sha256: 77183ba2a7d721f049a3467a4d2aa6cf7986ebe518c01249de55ceaa737e20ad
+source_revision: sha256:02ab10e09463984cc28c6d48be7ba21939ba8c01f2457d9f09d63546b1fc6ccf
+source_sha256: 02ab10e09463984cc28c6d48be7ba21939ba8c01f2457d9f09d63546b1fc6ccf
 level: country
 country_code: JP
 legacy_refs: []
@@ -182,3 +182,13 @@ Fifth, that shochu is the same as sake. Shochu is distilled and sake is fermente
 - [Yamazaki](ref:yamazaki): a representative Japanese whisky.
 - [Beer](ref:beer) and [wine](ref:wine): other drinks in Japan.
 - [Oak ageing](ref:oak-ageing): a key step in whisky flavour.
+
+## Related images
+
+![Editorial illustration of grain saccharification: a cooking vessel, steam, heating structure and sampling; AI-assisted illustration, not a photograph.](/media/photos/editorial-saccharification-q2.jpg)
+
+Image: Editorial illustration of grain saccharification: a cooking vessel, steam, heating structure and sampling; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Japan.
+
+![Related photograph of Yamazaki Single Malt](/media/photos/drink-japan-yamazaki-406efb1c.jpg)
+
+Image: Related photograph of Yamazaki Single Malt. Credit: Gentgeen, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Yamazake_single_malt.jpg)). Related image for Japan.

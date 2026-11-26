@@ -76,6 +76,7 @@ rights:
   note: 第三方标准/商标/图片不在许可内；第三方图片已在图注中标注作者与许可；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 波特
 
 波特（Port）是葡萄牙杜罗河谷出产的甜型加强葡萄酒。它在葡萄发酵尚未结束时加入葡萄蒸馏酒，酒精杀死酵母、终止发酵，把葡萄中的糖分留在酒里，同时把酒精度推到约 19%–20% vol。甜、厚、耐存，是波特最直观的印象；但真正决定风格的，是加强之后走“还原”还是“氧化”两条陈年路线。
@@ -181,3 +182,9 @@ Ruby 与 LBV 适合 16–18°C；Tawny 适合 12–16°C；White Port 适合 8�
 | 香气家族 | 果香/甜香 |
 
 **来源与边界。** 本页关于「波特」的关键事实，主要由以下来源交叉核对：Instituto dos Vinhos do Douro e Porto（波特的法定产区、品种、加强工艺、类别与陈年要求）、European Union（加强葡萄酒、地理标志与标签框架）、Oxford University Press（提供关于波特、杜罗河谷、加强工艺与陈年风格的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![加强（加度）](/media/photos/process-fortification-fbbba4e5.jpg)
+
+图：加强（加度）。图片：John Scofield，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg)）。关联图像：波特。

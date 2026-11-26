@@ -72,6 +72,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 浓香型白酒
 
 浓香型白酒是[白酒](ref:baijiu)风格分类中的一类，也是中国市场产量与消费面最广的白酒类型之一。GB/T 10781.1-2021《白酒质量要求 第1部分：浓香型白酒》为这一类产品规定了术语、要求与检验规则。理解浓香型，关键是理解“泥窖、续糟、混蒸混烧”这套工艺组合，而不是只记住“窖香浓郁”四个字。
@@ -149,3 +150,9 @@ verification_scope: source-verified
 | 香气家族 | 浓香 |
 
 **来源与边界。** 本页关于「浓香型白酒」的关键事实，主要由以下来源交叉核对：国家市场监督管理总局、国家标准化管理委员会（浓香型白酒的术语、要求与检验规则；未复制标准原文）、国家市场监督管理总局（标准发布机构与白酒质量监管框架）、Oxford University Press（提供关于中国白酒、固态发酵与风味类型的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![泸州老窖](/media/photos/drink-sichuan-luzhoulaojiao-0e97e137.jpg)
+
+图：泸州老窖。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)）。关联图像：浓香型白酒。

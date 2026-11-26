@@ -11,8 +11,8 @@ revision: 1
 translation_of: region:tokaj
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9e5dbd7240402ba2ea950aa01065648f412d8429a126ef7f1285c623159a7975
-source_sha256: 9e5dbd7240402ba2ea950aa01065648f412d8429a126ef7f1285c623159a7975
+source_revision: sha256:1570fde75adba3f4665e321cae3632ce0e532d6054921197c301a520e80d746e
+source_sha256: 1570fde75adba3f4665e321cae3632ce0e532d6054921197c301a520e80d746e
 legacy_refs: []
 level: other
 country_code: HU
@@ -78,6 +78,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Tokaj
 
 Tokaj is the historic wine region of north-eastern Hungary, spread along the Bodrog and Tisza rivers and made up of dozens of villages and thousands of small parcels. It is known for [Aszú](ref:tokaji) botrytis wine, and increasingly for dry [Furmint](ref:furmint). Understanding Tokaj means reading geology, rivers and regulation together.
@@ -143,3 +144,13 @@ Start with [Tokaji](ref:tokaji) for geographic boundary, then read [Noble rot](r
 | Country code | HU |
 
 **Sources and limits.** The key claims about Tokaj are checked against the following sources: Wines of Hungary (the history, terrain, soils, villages and extent of Tokaj; no original text is reproduced), Wines of Tokaj (residual sugar, ageing and winemaking rules for Aszú and related categories; no original text is reproduced), UNESCO World Heritage Centre (the extent and inscription date of the Tokaj World Heritage site; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![A bottle of Vivamus 5 puttonyos Tokaji Aszú, labelled 2001 and 5 puttonyos.](/media/photos/drink-style-tokaji-39ae74c2.jpg)
+
+Image: A bottle of Vivamus 5 puttonyos Tokaji Aszú, labelled 2001 and 5 puttonyos.. Credit: Beemwej, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tokaji_Aszu.JPG)). Related image for Tokaj.
+
+![Furmint](/media/photos/variety-furmint-942bb30a.jpg)
+
+Image: Furmint. Credit: Andrs.kovacs, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Furmint_grape_cluster.jpg)). Related image for Tokaj.

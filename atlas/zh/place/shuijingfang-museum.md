@@ -89,6 +89,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY 4.0，署名与许可见正文图注。开放时间、门票与闭馆安排以博物馆官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 水井坊博物馆
 
 成都锦江区水井街靠近东门大桥与合江亭，锦江在不远处拐弯。街边一栋不起眼的建筑里，藏着中国第一处经科学考古发掘的古代白酒酿造作坊遗址。1998 年，全兴酒厂改造厂房时，工人一铲子碰到地下的砖砌结构；随后考古队进场，挖出了晾堂、酒窖、炉灶、蒸馏器基座与成堆的青花瓷片。今天的水井坊博物馆，就建在遗址原址上。
@@ -167,3 +168,9 @@ verification_scope: source-verified
 - [王宝和酒家](ref:wang-bao-he)：上海黄酒与蟹宴老字号，另一种中国酒的餐桌。
 
 相关条目：[浓香型白酒](ref:strong-aroma)、[白酒](ref:baijiu)、[泸州老窖窖池群](ref:luzhou)。
+
+## 相关图像
+
+![上海福州路的王宝和酒家](/media/photos/place-wang-bao-he-f27cc79e.jpg)
+
+图：上海福州路的王宝和酒家。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wang_Bao_He_Restaurant_(20250610145416).jpg)）。关联图像：水井坊博物馆。

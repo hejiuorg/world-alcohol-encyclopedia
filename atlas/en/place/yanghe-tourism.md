@@ -89,8 +89,8 @@ verification_scope: source-verified
 translation_of: place:yanghe-tourism
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bc126bf78f3082564ad0f2dc2213d8bb1962316de45f52180d614b293bc2e4b7
-source_sha256: bc126bf78f3082564ad0f2dc2213d8bb1962316de45f52180d614b293bc2e4b7
+source_revision: sha256:c0dcba72ba4f1275f95f5aaa5d16d58057288fbdc48df4a1ac7e05d18d0419f3
+source_sha256: c0dcba72ba4f1275f95f5aaa5d16d58057288fbdc48df4a1ac7e05d18d0419f3
 ---
 
 # Yanghe Distillery Cultural Tourism Area
@@ -171,3 +171,9 @@ For the Suqian section, self-driving or a taxi is easiest; bus 108 reaches the Y
 - Official news list: <https://ly.chinayanghe.com/CommunityArticle/Index/27>, for the 7 July and 28 October 2026 individual-hours notices.
 - Yanghe company homepage: <https://www.chinayanghe.com/>, to cross-check company background and production area.
 - Baijiu industrial tourism comparisons: [Maotai](ref:maotai), [Wuliangye Wine Culture Museum](ref:wuliangye), [Gujing Wine Culture Museum](ref:gujing), [Fenjiu Museum](ref:fenjiu), [Luzhou Laojiao pit complex](ref:luzhou).
+
+## Related images
+
+![Related photograph of Maotai Distillery (Kweichow Moutai)](/media/photos/place-maotai-distillery-da9a56fc.jpg)
+
+Image: Related photograph of Maotai Distillery (Kweichow Moutai). Credit: Jula2812, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Maotai_-_Kweichow_Moutai_Distillery_China,_Flasche_Etikett_Detail_(2).jpg)). Related image for Yanghe Distillery Cultural Tourism Area.

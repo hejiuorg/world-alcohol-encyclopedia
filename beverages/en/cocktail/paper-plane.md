@@ -11,8 +11,8 @@ revision: 2
 translation_of: cocktail:paper-plane
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4902e0f7a6860cd37bbb0024a84cd12301aa3e7f1a12933352a5fef65f1528ed
-source_sha256: 4902e0f7a6860cd37bbb0024a84cd12301aa3e7f1a12933352a5fef65f1528ed
+source_revision: sha256:47106dbf5fb2466bb441e397aa7c4032fecc4ea15cf6de0a789e8f8978d4dd75
+source_sha256: 47106dbf5fb2466bb441e397aa7c4032fecc4ea15cf6de0a789e8f8978d4dd75
 style: 现代经典鸡尾酒
 ingredient_refs: []
 origin_place: New York, United States (as the widely told story)

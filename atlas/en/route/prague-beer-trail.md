@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:prague-beer-trail
 source_lang: zh
-source_revision: sha256:ada3ad1cbab7a84f6bac25e8e3b0adc8d4d924ea790690b131e16c6044434651
-source_sha256: ada3ad1cbab7a84f6bac25e8e3b0adc8d4d924ea790690b131e16c6044434651
+source_revision: sha256:bc3a1c99e28c9171945ecb2eb1c463c76a47d1f9f8ac44834c8e503538e5856c
+source_sha256: bc3a1c99e28c9171945ecb2eb1c463c76a47d1f9f8ac44834c8e503538e5856c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -85,6 +85,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # Prague beer trail: from U Fleků to U Medvídků
 
 Two Prague New Town houses, less than a kilometre apart, hold opposite attitudes to beer. U Fleků brews one dark lager and has done so for centuries; U Medvídků packs a microbrewery, restaurant, hotel and beer shop into one old building. Fifteen to twenty minutes on foot connects them, and an afternoon is enough. This route suits anyone who has had a few Czech beers and wants to understand why lager is taken so seriously here.
@@ -150,3 +151,13 @@ Put [U Fleků](ref:ufleku)'s stop order next to [Pilsner Urquell Brewery: Where 
 | Stops | 2 |
 | Transport | walk |
 | Stop order | U Fleků、U Medvídků |
+
+## Related images
+
+![U Medvídků](/media/photos/place-u-medvidku-69f06015.jpg)
+
+Image: U Medvídků. Credit: ŠJů ( cs:ŠJů ), CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Na_Per%C5%A1t%C3%BDn%C4%9B_5,_U_Medv%C3%ADdk%C5%AF.jpg)). Related image for Prague beer trail: from U Fleků to U Medvídků.
+
+![Pilsner](/media/photos/drink-style-pilsner-8d0570d2.jpg)
+
+Image: Pilsner. Credit: Steven Walling, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Pilsner_urquell_mug.jpg)). Related image for Prague beer trail: from U Fleků to U Medvídků.

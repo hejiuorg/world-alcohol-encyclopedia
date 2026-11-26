@@ -53,6 +53,12 @@ sources:
     accessed: 2026-11-04
     url: https://global.oup.com/academic/product/the-oxford-companion-to-beer-9780195367133
 
+  - key: adv-brewers
+    title: Brewers Association — Beer style guidelines
+    url: https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/
+    publisher: Brewers Association
+    note: 用于核对啤酒风格家族、感官描述与商业风格口径；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -119,6 +125,28 @@ verification_scope: source-verified
 相关条目：[酒精度（ABV）](ref:abv)。
 
 **来源与边界。** 本页关于「啤酒」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（啤酒风格分类、发酵方式与代表性风格的描述边界）、Brewers Association（美国精酿啤酒的行业定义与风格讨论；未复制其文案）、国家市场监督管理总局、国家标准化管理委员会（啤酒在饮料酒分类中的位置与相关术语）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+
+## 进阶判断
+
+![浑浊与清澈小麦啤](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+图：浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理。图片：Ich，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)）。
+
+| 风格家族 | 发酵 | 饮用温度 | 购买线索 |
+| --- | --- | --- | --- |
+| 拉格 | 下发酵 | 4–8°C | 生产日期、清爽度 |
+| 小麦啤 | 上发酵 | 6–10°C | 酵母香气、浑浊度 |
+| IPA | 上发酵 | 8–12°C | 酒花品种、苦度 |
+| 世涛 / 波特 | 上发酵 | 10–13°C | 烘烤麦芽、酒体 |
+
+**啤酒浑浊是不是坏了？** 不一定。小麦啤、未过滤拉格与酒花干投都可能带浑浊；判断标准是生产日期、储存温度与是否有明显酸败味。
+
+**IPA 越苦越好吗？** 不是。苦度只是酒花投放与异构化的结果，香气、苦味质量与收口同样重要。高苦度也可能掩盖麦芽与发酵缺陷。
+
+**啤酒杯重要吗？** 重要，但没有那么玄。收口杯聚香，直口杯方便畅饮；关键是干净、无油渍、容量合适。先选对温度，再谈杯型。
+
+延伸阅读：[饮料酒分类](ref:gbt-17204)、[酒精度](ref:abv)。
 
 ## 参考资料
 - [橡木桶陈酿](ref:oak-ageing)：理解桶陈啤酒风味变化的工艺背景。

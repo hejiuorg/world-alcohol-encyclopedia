@@ -150,3 +150,13 @@ verification_scope: source-verified
 - GB/T 2260-2007 中华人民共和国行政区划代码（国家标准化管理委员会，核对 2026-11-25）
 
 相关条目：[剑南春酒坊遗址](ref:cellars)、[绵竹年画村](ref:village)、[剑南春](ref:brand)、[浓香型白酒](ref:style)、[四川省](ref:region)、[酒与绘画](ref:art)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![四川省](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+图：四川省。图片：FISU，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)）。关联图像：绵竹路线：剑南春酒坊与年画村。
+
+![酒与画：宴饮图像的四种看法相关实景照片](/media/photos/article-wine-and-painting-fb6d1391.jpg)
+
+图：酒与画：宴饮图像的四种看法相关实景照片。图片：Natasha Khaitan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_making_process_-_Deccan_Painting_-19th_Century.jpg)）。关联图像：绵竹路线：剑南春酒坊与年画村。

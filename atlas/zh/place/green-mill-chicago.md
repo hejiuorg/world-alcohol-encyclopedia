@@ -83,6 +83,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1907
 ---
+
 # 绿磨坊爵士酒吧
 
 芝加哥 Uptown 区的 Broadway 与 Lawrence 交叉口，有一块绿色霓虹招牌，白天看略显褪色，入夜后亮起来，像一块从 1920 年代留下来的舞台布景。这就是绿磨坊（Green Mill）。它既不是大型音乐厅，也不是怀旧主题酒吧，而是一间仍在每晚演出爵士、仍用现金结账、仍保留禁酒令时期空间痕迹的老酒馆。对芝加哥人来说，绿磨坊的名气来自音乐；对游客来说，它最容易被记住的则是 Al Capone、地下隧道与“诗歌 slam 发源地”这几个标签。
@@ -142,3 +143,9 @@ founded_year: 1907
 最后核对：4802 N Broadway 的地址、演出场次与票价按官网查于 2026-11-21；“最老/发源地”在正文中均带引号，不作为无争议史实。本页是“喝酒去”的芝加哥爵士酒吧条目，中文与英文版同步；文字许可见上方 rights 字段，图片署名与许可见各图注。
 
 对照阅读：[禁酒令：禁令改变供给，不消灭需求](ref:prohibition)、[钟声酒馆](ref:bell)。
+
+## 相关图像
+
+![好莱坞大道 Musso & Frank Grill 的完整店面与屋顶招牌；餐厅 1919 年以 Frank's Café 开业，1920 年代与 Joseph Musso 合伙后改为现名，1927 年售予 Carissimi 与 Mosso，后来迁入 6667 号现址，照片为后来的历史街景，不是 1919 年开业当天的原貌](/media/photos/place-musso-and-frank-grill-b4d33827.jpg)
+
+图：好莱坞大道 Musso & Frank Grill 的完整店面与屋顶招牌；餐厅 1919 年以 Frank's Café 开业，1920 年代与 Joseph Musso 合伙后改为现名，1927 年售予 Carissimi 与 Mosso，后来迁入 6667 号现址，照片为后来的历史街景，不是 1919 年开业当天的原貌。图片：Gary Minnaert ( Minnaert ))，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Musso%26Franks_05.jpg)）。关联图像：绿磨坊爵士酒吧。

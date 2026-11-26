@@ -82,6 +82,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 波本威士忌
 
 波本威士忌（bourbon）是美国威士忌中以玉米为主料、以新烧焦橡木桶完成熟成的类别。[威士忌](ref:whisky)是大类，波本是其中一个有明确联邦定义的子集；反过来，并非所有美国威士忌都符合波本规则。本页讨论波本这一风格的法规、原料与工艺，不讨论“波本威士忌”这一称谓在贸易与市场中的用法。
@@ -152,3 +153,9 @@ Rye whiskey 以黑麦为主料（不少于 51%），辛香与干爽感更强；T
 纯饮适合判断谷物、桶与陈年的关系；加少量水可以降低酒精刺激、打开香气；加冰会同时降温与稀释，适合较高酒精度的产品。波本是[古典鸡尾酒](ref:old-fashioned)的核心基酒，也常见于 Whiskey Sour 等配方。关于[橡木桶陈年](ref:oak-ageing)的通用机制，可另见工艺条目；关于壶式蒸馏与柱式蒸馏的差别，可参见[壶式蒸馏器](ref:pot-still)。
 
 相关条目：[威士忌](ref:whisky)。
+
+## 相关图像
+
+![天使分享（angel's share）](/media/photos/term-angels-share-8d1e928f.jpg)
+
+图：天使分享（angel's share）。图片：Gerard Prins，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Oak-wine-barrel-at-toneleria-nacional-chile.jpg)）。关联图像：波本威士忌。

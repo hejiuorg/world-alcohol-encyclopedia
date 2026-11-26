@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: historical-event:whiskey-rebellion
 source_lang: zh
-source_revision: sha256:3db002dbfc95e51776eec345e734a5b03fb38c08f03da53937abae41748cfd8b
-source_sha256: 3db002dbfc95e51776eec345e734a5b03fb38c08f03da53937abae41748cfd8b
+source_revision: sha256:8a44741b56aa4fb5e2c0fa759b0ecdbbc592ac85c87561fbe02d2c5bbc29d590
+source_sha256: 8a44741b56aa4fb5e2c0fa759b0ecdbbc592ac85c87561fbe02d2c5bbc29d590
 translation_status: reviewed
 legacy_refs: []
 date_text: 1791–1794
@@ -136,3 +136,9 @@ One: "This was a real war." It was closer to an armed tax resistance and a feder
 - [American Prohibition](ref:prohibition): another direct confrontation between the federal government and drinking.
 
 **Short definition:** In 1791 the United States imposed an excise tax on distilled spirits. Farmers and distillers in western Pennsylvania resisted with refusals, assemblies and violence. In 1794 Washington mobilised about 13,000 militia and marched west; the rebellion collapsed under military pressure. The Whiskey Rebellion became an early test of federal authority, tax politics and frontier interests.
+
+## Related images
+
+![Related photograph of Buffalo Trace](/media/photos/drink-usa-buffalo-trace-7f77e73d.jpg)
+
+Image: Related photograph of Buffalo Trace. Credit: Jaimin Trivedi, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Buffalo_Trace_Distillery_Barrel_Aging_Warehouse_(outside).jpg)). Related image for The Whiskey Rebellion of 1791: Federal Taxation and Frontier Politics in Early America.

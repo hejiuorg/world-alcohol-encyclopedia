@@ -24,8 +24,8 @@ tags:
 translation_of: region:alentejo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:28e81a169f52d78645a4b8a32dbf15501e4e61fd7135e6e5783214299f29a4e5
-source_sha256: 28e81a169f52d78645a4b8a32dbf15501e4e61fd7135e6e5783214299f29a4e5
+source_revision: sha256:b49093851d0fc9b730ccc47db2f25b260f36701c19b90c2933c8f4702cc1c23e
+source_sha256: b49093851d0fc9b730ccc47db2f25b260f36701c19b90c2933c8f4702cc1c23e
 related:
   - relation: about
     target_id: region:portugal
@@ -193,3 +193,13 @@ Distances inside the region are long: a regional centre to a hill estate often t
 For visits, book ahead, arrive on time, do not drink and drive, and stay out of working cellars and parcels; cork oak woodland, olive groves and historic towns can be combined with estate stops.
 
 - Related: [portugal](ref:portugal), [tempranillo](ref:tempranillo), [red-wine](ref:red), [oak-ageing](ref:oak), [fortified-wine](ref:fortified).
+
+## Related images
+
+![Photograph for Tempranillo: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+Image: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=16191821)). Related image for Alentejo.
+
+![Category image for Portugal](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+Image: Category image for Portugal. Credit: John Hayes from San Antonio, Texas, USA, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=151531010)). Related image for Alentejo.

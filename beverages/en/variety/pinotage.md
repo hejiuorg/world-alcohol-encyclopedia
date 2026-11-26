@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:pinotage
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e75ca3df1bad72de9d63fb0a1afff607396db90f96fd6f3633bdcbd798cb0ef4
-source_sha256: e75ca3df1bad72de9d63fb0a1afff607396db90f96fd6f3633bdcbd798cb0ef4
+source_revision: sha256:780fd02c49ce5c1e9b5f3db2ee1811b74e958d4be8fafbc8d1326fb1bf91cb75
+source_sha256: 780fd02c49ce5c1e9b5f3db2ee1811b74e958d4be8fafbc8d1326fb1bf91cb75
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -75,6 +75,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Pinotage
 
 Pinotage is South Africa's own red grape and one of the few varieties bred in the 20th century to gain a distinct international identity. It was created by crossing Pinot Noir with Cinsaut, combining the smaller berries and aromatic potential of the former with the resilience and yield of the latter. The wine is deep in colour and firm in tannin: in youth it can be bright with mulberry and plum, and after oak and bottle age it can turn to coffee, smoke, leather and earth. Pinotage has had a divided reputation, and the key to understanding it is not the "banana" label but the way clone, vine age, picking date and fermentation temperature shape the result (ref:wine).![Pinotage image](/media/photos/variety-pinotage-5dc171a5.jpg)
@@ -139,3 +140,9 @@ First, that Pinotage is Pinot Noir; the two have a parent-offspring relationship
 - [South Africa](ref:south-africa): the variety's home region and legal framework.
 - [Swartland](ref:swartland): an important source of old-vine Pinotage.
 - [Oak ageing](ref:oak-ageing): a key process in shaping Pinotage style.
+
+## Related images
+
+![Swartland](/media/photos/region-swartland-72c3aa69.jpg)
+
+Image: Swartland. Credit: Winfried Bruenken ( Amrum ), CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Riebeek_Wes_PICT3382.JPG)). Related image for Pinotage.

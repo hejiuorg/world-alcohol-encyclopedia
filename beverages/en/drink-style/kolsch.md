@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:kolsch
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f3e1f294bdd6d99b69b1e6395fc1dd454407bd981ace98663282dee78522c0ff
-source_sha256: f3e1f294bdd6d99b69b1e6395fc1dd454407bd981ace98663282dee78522c0ff
+source_revision: sha256:46982841c8b69925d80a7645b762749bc7cebf76037c7f633a7362eac72e5d13
+source_sha256: 46982841c8b69925d80a7645b762749bc7cebf76037c7f633a7362eac72e5d13
 legacy_refs: []
 aliases:
   - Kölsch
@@ -89,6 +89,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Kölsch
 
 Kölsch is a pale, top-fermented beer from Cologne (Köln) in Germany, cold-conditioned and filtered, with a light body, a dry finish and a delicate fruitiness balanced by clear hop bitterness. Technically it is an ale; sensorially it sits close to lager. That combination of warm primary fermentation and cold storage is the key to understanding it, and the name is protected by a geographical indication, so not every pale ale may be called Kölsch.
@@ -150,3 +151,9 @@ Begin with the production rule, move on to the strength, and finish with the usu
 | Aroma family | Malt and hops |
 
 **Sources and limits.** The key claims about Kölsch are checked against the following sources: Beer Judge Certification Program (the strength, bitterness, colour and fermentation description of Kölsch; no original text is reproduced), Privatbrauerei Gaffel, Deutscher Brauer-Bund e.V. (public statements on German beer variety and regional style protection; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Saison](/media/photos/drink-style-saison-bd6e3c18.jpg)
+
+Image: Saison. Credit: Jmcstrav, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Saison_Dupont.jpg)). Related image for Kölsch.

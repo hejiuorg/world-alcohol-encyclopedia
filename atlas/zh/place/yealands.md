@@ -63,6 +63,12 @@ sources:
     publisher: New Zealand Winegrowers
     note: 用于核对 Awatere Valley 更凉、更干、风更大与沿海葡萄园的气候描述；未复制原文。
     accessed: 2026-11-09
+  - key: wine-marlborough
+    title: "Wine Marlborough — 马尔堡葡萄酒产区"
+    url: "https://www.wine-marlborough.co.nz/"
+    publisher: Wine Marlborough
+    note: 用于核对马尔堡子产区与葡萄酒产业背景；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -70,6 +76,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、品鉴项目与预约规则会变化，以官方渠道为准。官网在核验时受年龄验证限制，营业状态因此标为 unknown。
 verification_scope: source-verified
 ---
+
 # 伊兰兹酒庄
 
 伊兰兹在马尔堡的塞登，葡萄园紧贴海岸，风把海雾吹到藤蔓上。它的参观点不是一间藏在城市街角的酒窖，而是一套“海边农场加品鉴室”的组合：先看葡萄园与海岸，再回到室内喝一杯。酒庄 2008 年 8 月 8 日启用新厂，官方叙述把“从建厂第一天起就获得 Toitū 碳中和认证”写进品牌核心；这句话比任何风景照都更能解释它为什么把可持续当成参观点的一部分。
@@ -129,3 +136,9 @@ verification_scope: source-verified
 ## 参考资料
 
 本页依据新西兰葡萄种植者协会的伊兰兹档案、Toitū 认证条目、马尔堡产区页与伊兰兹官网入口核验，页面核验日期 2026-11-09。官网受年龄验证限制，开放时间与预约规则以能访问的官方页面或现场公告为准；营业状态标为 unknown，不提供 verified_at。
+
+## 相关图像
+
+![马尔堡怀劳谷（Wairau Valley）的葡萄园，整齐的藤行伸向远处。](/media/photos/region-marlborough-7856d272.jpg)
+
+图：马尔堡怀劳谷（Wairau Valley）的葡萄园，整齐的藤行伸向远处。。图片：Jonathan Harker，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wairau_Valley_vineyards_in_the_Marlborough_wine_region,_New_Zealand.jpg)）。关联图像：伊兰兹酒庄。

@@ -111,8 +111,8 @@ stop_ids:
     note: Return to old Beaune for a cellar tour and the market shop, completing the merchant side of the story.
 mode: walk-car
 updated_at: 2026-11-08
-source_sha256: 47a8500f7bfab0951cf8b1d862e40688f214b84737dbb749dc7f009e1a966701
-source_revision: sha256:47a8500f7bfab0951cf8b1d862e40688f214b84737dbb749dc7f009e1a966701
+source_sha256: 252ac0cea79e986ff325099595cd73f66d91c144b3ada6d9a0f9f78f9923af93
+source_revision: sha256:252ac0cea79e986ff325099595cd73f66d91c144b3ada6d9a0f9f78f9923af93
 ---
 
 # Burgundy: Beaune, Meursault and the culture of the négociant
@@ -208,3 +208,13 @@ Southwards the D974 runs to Puligny-Montrachet and Chassagne-Montrachet; northwa
 - For background, consult the Burgundy region, white wine, red wine and wine-grading entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.
+
+## Related images
+
+![Photograph for Burgundy: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+Image: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=65061583)). Related image for Burgundy: Beaune, Meursault and the culture of the négociant.
+
+![Photograph for Château de Meursault: Château de Meursault 003. Credit: Arnaud 25, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-place-chateau-de-meursault-e59c9efc.jpg)
+
+Image: Château de Meursault 003. Credit: Arnaud 25, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Arnaud 25, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=18551544)). Related image for Burgundy: Beaune, Meursault and the culture of the négociant.

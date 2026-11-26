@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:scotch-whisky
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d432533e5d434b4a1f091fa5440a819ebf495f4a555d42b081f275c9d43c2fb0
-source_sha256: d432533e5d434b4a1f091fa5440a819ebf495f4a555d42b081f275c9d43c2fb0
+source_revision: sha256:839de495988b829f0bee0cfd9f54e25e653694564489a8b98911f75a453e7164
+source_sha256: 839de495988b829f0bee0cfd9f54e25e653694564489a8b98911f75a453e7164
 legacy_refs: []
 aliases:
   - Scotch whisky
@@ -149,3 +149,9 @@ First, equating Scotch with single malt. Blended Scotch holds most of the market
 - [Distillation](ref:distillation): pot stills and the cut.
 - [Barley](ref:barley) and [water](ref:water): the base materials of Scotch whisky.
 - [Alcohol by volume](ref:abv): the basic concept behind label declarations.
+
+## Related images
+
+![A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+Image: A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables. Credit: Rosser1954 Roger Griffith, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)). Related image for Scotch whisky.

@@ -71,6 +71,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 亳州市
 
 亳州市位于安徽省西北部，是地级市，涡河穿境而过。谯城区古井镇是古井贡酒的产地，也是古井酒文化博物馆的所在地。亳州同时以中药材集散闻名，药业与酒业共同构成当地的产业特色。
@@ -153,3 +154,13 @@ verification_scope: source-verified
 **并读。** 把「亳州市」与「安徽省」、「中国」、「古井贡酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「亳州市」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![安徽省](/media/photos/region-anhui-ad268e10.jpg)
+
+图：安徽省。图片：xiquinhosilva，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mount-huangshan_53319732882_o.jpg)）。关联图像：亳州市。
+
+![古井贡酒](/media/photos/brand-gujing-gongjiu-ef9d4a5d.jpg)
+
+图：古井贡酒。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gujing_Gongjiu_at_a_supermarket_in_Beijing_(20241109164639).jpg)）。关联图像：亳州市。

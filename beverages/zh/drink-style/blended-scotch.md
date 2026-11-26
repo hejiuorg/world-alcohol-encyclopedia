@@ -81,6 +81,7 @@ rights:
   note: 第三方法规文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 调和苏格兰威士忌
 
 调和苏格兰威士忌（Blended Scotch Whisky）是[苏格兰威士忌](ref:scotch)中产量最大的一类：把一家或多家酒厂的单一麦芽原酒，与一家或多家酒厂的单一谷物原酒混合，得到风味稳定、适合大规模装瓶的产品。它不是一个含糊的市场词，而是《2009 年苏格兰威士忌条例》写明的法定类别；同样带“blended”字样的调和麦芽与调和谷物，则是另外两个类别。
@@ -139,3 +140,9 @@ verification_scope: source-verified
 | 上位风格 | 苏格兰威士忌 |
 
 **来源与边界。** 本页关于「调和苏格兰威士忌」的关键事实，主要由以下来源交叉核对：UK Government (legislation.gov.uk)（调和苏格兰、调和麦芽与调和谷物的法定定义及通用门槛）、Scotch Whisky Association（苏格兰威士忌的类别体系与出口结构）、Johnnie Walker（调和品牌的产品结构与表达方式）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![尊尼获加相关实景照片](/media/photos/brand-johnnie-walker-4b62a331.jpg)
+
+图：尊尼获加相关实景照片。图片：Billy McCrorie，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Johnnie_Walker_Bond,_Kilmarnock.jpg)）。关联图像：调和苏格兰威士忌。

@@ -96,6 +96,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、品鉴价格与预约政策会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 鹿跃酒庄
 
 Silverado Trail 在纳帕谷东侧，路窄、车快，酒庄入口常在一段上坡之后。鹿跃酒庄的院子被橡树与橄榄树围住，远处是鹿跃区的火山岩崖壁。它出名不是因为建筑，而是因为一箱 1973 年的 S.L.V. 赤霞珠：1976 年，在巴黎举行的一场盲品里，这款酒在红葡萄酒组中名列第一，评委大多是法国葡萄酒界的重要人物。那场后来被称为“巴黎审判”的比赛，改变了加州酒在世界市场上的位置。今天走进酒庄，看到的是一座安静的品鉴室、地下酒窖与两块核心葡萄园，而不是“胜利纪念碑”。
@@ -153,3 +154,9 @@ Warren Winiarski 在 1960 年代来到纳帕，先在 Chateau Souverain 与 Robe
 关于鹿跃酒庄，本页不绘制参观地图；开放时间、年份与价格以酒庄官网为准。
 
 对照阅读：[纳帕谷](ref:napa)、[赤霞珠](ref:cabernet)。
+
+## 相关图像
+
+![纳帕谷](/media/photos/region-napa-valley-777f1f74.webp)
+
+图：纳帕谷。图片：Unknown author Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:TTB_Map_Napa_Valley_AVA.png)）。关联图像：鹿跃酒庄。

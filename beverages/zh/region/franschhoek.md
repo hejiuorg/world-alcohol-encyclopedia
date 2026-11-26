@@ -76,6 +76,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 弗兰谷
 
 西开普省的山谷产区，1688 年法国胡格诺派移民在此定居；以赤霞珠、皮诺塔吉、霞多丽与餐厅著称，山谷狭长、风景集中，是开普酒乡最容易自驾的产区之一。
@@ -176,3 +177,13 @@ Cap Classique 的酒泥陈年时间从 9 个月到 5 年以上不等；酒标上
 | 国家代码 | ZA |
 
 **来源与边界。** 本页关于「弗兰谷」的关键事实，主要由以下来源交叉核对：SAWIS（南非葡萄酒产区、酒类登记与产业框架）、South African Tourism（南非葡萄酒产区的旅行与地理背景）、OIV（葡萄酒定义与全球生产框架）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![皮诺塔吉](/media/photos/variety-pinotage-5dc171a5.jpg)
+
+图：皮诺塔吉。图片：Please note: This photo can be reproduced. Please quote the source as indicated below: Doris Schneider, Julius Kühn-Institut (JKI), Federal Research Centre for ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:VIVC9286_PINOTAGE_Full_plant_3638.jpg)）。关联图像：弗兰谷。
+
+![“南非”页面配图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+
+图：Vineyards in the Cederberg - South Africa。摄影：Ltz Raptor，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Ltz Raptor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=4647540)）。关联图像：弗兰谷。

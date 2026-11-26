@@ -72,6 +72,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 柠檬酒
 
 柠檬酒（limoncello）是[意大利](ref:italy)南部的柠檬皮利口酒：把新鲜柠檬的黄色外皮浸入中性烈酒，让精油与香气溶出，再与糖浆混合，得到亮黄色、甜而油润的餐后酒。它不靠果汁取味，也不经过发酵，因此喝起来不像柠檬水，更接近“被糖托住的柠檬皮”。在索伦托、阿马尔菲与卡普里，它常被保存在冷冻室里，用小杯一口一口地喝。
@@ -137,3 +138,9 @@ verification_scope: source-verified
 补充阅读：[修道院啤酒](ref:c-extra-1)。
 
 相关条目：[利口酒](ref:liqueur)、[意大利](ref:italy)、[蒸馏](ref:distillation)。
+
+## 相关图像
+
+![修道院啤酒](/media/photos/drink-style-abbey-beer-276b4dc3.jpg)
+
+图：修道院啤酒。图片：BLloydT，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_wall_of_Belgian_beer_bottles_at_the_Bruges_beer_experience.jpg)）。关联图像：柠檬酒。

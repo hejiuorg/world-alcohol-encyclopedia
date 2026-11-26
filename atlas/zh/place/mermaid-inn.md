@@ -85,6 +85,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、菜单与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 美人鱼客栈
 
 美人鱼街的坡度会先提醒你：这不是一间可以“顺路喝一杯”的街角酒馆。拉伊（Rye）的旧城建在山丘上，鹅卵石街道窄而陡，美人鱼客栈的木质门脸嵌在这条街的中段。它同时是客栈、餐厅与酒吧，历史叙事、住宿功能和旅游期待叠在一起；理解这一点，才能解释为什么它的“酒单”看起来不像酒吧，而更像一间老酒店的公共客厅。
@@ -134,3 +135,9 @@ verification_scope: source-verified
 补充阅读：[柴郡奶酪酒馆](ref:c-extra-1)、[A Ginjinha](ref:c-extra-2)、[À la Mort Subite](ref:c-extra-3)。
 
 相关条目：[啤酒](ref:beer)、[认识一座城，从一间酒馆开始](ref:pub-and-city)、[柴郡奶酪酒馆](ref:c-extra-1)。
+
+## 相关图像
+
+![舰队街柴郡奶酪酒馆的悬挂招牌，写着店名与“Rebuilt 1667”。](/media/photos/place-ye-olde-cheshire-cheese-628a8f9d.jpg)
+
+图：舰队街柴郡奶酪酒馆的悬挂招牌，写着店名与“Rebuilt 1667”。。图片：Images George Rex，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ye_Olde_Cheshire_Cheese_rebuilt_1667_(14276567866).jpg)）。关联图像：美人鱼客栈。

@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；参观路线、餐厅与价格会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 泰亭哲香槟
 
 兰斯圣尼凯斯（Saint-Nicaise）的院子里，白垩岩壁与 19 世纪建筑贴在一起。这里曾经是圣尼凯斯修道院，法国大革命时被毁，地下白垩井却保留下来；今天它们属于泰亭哲，用来陈年最珍贵的 Comtes de Champagne。泰亭哲的故事有两条线：一条是 1734 年就开始卖酒的兰斯酒行，另一条是 1932 年搬进香槟区的 Taittinger 家族。两条线在圣尼凯斯交汇。
@@ -157,3 +158,9 @@ Brut Réserve 与 Prestige Rosé 建议 8–10°C；Comtes de Champagne 可以 1
 - 香槟对照：[库克](ref:krug)、[堡林爵](ref:bollinger)、[香槟大道](ref:avenue)、[香槟大道步行路线](ref:route)。
 - 背景阅读：[香槟产区](ref:champagne)。
 - 本页不提供地图；参观路线、餐厅与价格以官方渠道为准。
+
+## 相关图像
+
+![兰斯 Krug 酒庄建筑（Boulevard Lundy 一侧）](/media/photos/place-krug-1f18f1fa.jpg)
+
+图：兰斯 Krug 酒庄建筑（Boulevard Lundy 一侧）。图片：G.Garitan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Krug_boulevard_Lundy_1512968.jpg)）。关联图像：泰亭哲香槟。

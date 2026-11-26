@@ -31,8 +31,8 @@ tags:
 translation_of: place:lamb-and-flag-covent-garden
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d9c8d914674d12e3d4b45e9dd4748530679f2ab82b472f35a0be94794377a726
-source_sha256: d9c8d914674d12e3d4b45e9dd4748530679f2ab82b472f35a0be94794377a726
+source_revision: sha256:f94acb56089690c2f9a420532efbe511e96ac28c44f21d7f24fe8819e4fe9370
+source_sha256: f94acb56089690c2f9a420532efbe511e96ac28c44f21d7f24fe8819e4fe9370
 related:
   - relation: about
     target_id: culture-article:pub-and-city
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1772
 ---
+
 # The Lamb & Flag
 
 Rose Street in Covent Garden is not wide, and the frontage of The Lamb & Flag sits between two narrow passages. There is no big window and no attempt to turn its history into an advertising board. First-time visitors often arrive from Lazenby Court or Rose Street and only then realise that this modest-looking pub opens onto one of Covent Garden's roughest old stories: bare-knuckle boxing, literary quarrels, market porters and theatre actors all moved through these lanes.![The Rose Street frontage of The Lamb & Flag](/media/photos/place-lamb-and-flag-covent-garden-4fa9fcc7.jpg)
@@ -147,3 +148,9 @@ Checked on 2026-11-21 against the Lamb & Flag official page. The pub opens Monda
 | City and country | London / United Kingdom |
 | Status | verified open |
 | Official site | lambandflagcoventgarden.co.uk |
+
+## Related images
+
+![The street frontage of Ye Olde Mitre seen from Ely Court; a tavern has stood here since 1546, while the present building is essentially 18th-century, not the original structure.](/media/photos/place-ye-olde-mitre-f7b2f11e.jpg)
+
+Image: The street frontage of Ye Olde Mitre seen from Ely Court; a tavern has stood here since 1546, while the present building is essentially 18th-century, not the original structure.. Credit: Ewan Munro from London, UK, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ye_Olde_Mitre,_Hatton_Garden,_EC1_(4140007697).jpg)). Related image for The Lamb & Flag.

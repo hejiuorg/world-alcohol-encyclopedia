@@ -71,6 +71,12 @@ sources:
     publisher: 北京二锅头酒博物馆
     note: 用于核对清蒸清烧、低温流酒与陶坛贮存表述；未复制原文。
     accessed: 2026-11-04
+  - key: redstar-history
+    title: "北京红星股份有限公司 — 企业历史"
+    url: "https://www.redstarwine.com/gywm3/dsj0/cindex1.html"
+    publisher: "北京红星股份有限公司"
+    note: "用于核对红星前身、1949 年建厂与二锅头工艺传承；未复制原文。"
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0

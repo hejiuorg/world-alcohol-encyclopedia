@@ -39,8 +39,8 @@ tags:
 translation_of: place:antinori-nel-chianti-classico
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2ba61458cc2f38dd521c3db89d0447232934de9315e6a4f2629742f83d13dbff
-source_sha256: 2ba61458cc2f38dd521c3db89d0447232934de9315e6a4f2629742f83d13dbff
+source_revision: sha256:ec0ac95c77a84d67efe17eaee85bffdda24db25b8debd17ea3648013ff6d488b
+source_sha256: ec0ac95c77a84d67efe17eaee85bffdda24db25b8debd17ea3648013ff6d488b
 related:
   - relation: about
     target_id: place:biondi-santi
@@ -169,3 +169,9 @@ To compare a “building-driven” and a “traditional” Tuscan winery, add [B
 - This entry provides no map; opening hours, tours and restaurant information should be checked with official channels.
 
 For Antinori nel Chianti Classico, begin with the address. Then look at the current opening status, and finally ask what the place is known for. The answers point to different choices, not to a single score.
+
+## Related images
+
+![The vine-covered villa at the Biondi-Santi Greppo estate](/media/photos/place-biondi-santi-21bceb80.jpg)
+
+Image: The vine-covered villa at the Biondi-Santi Greppo estate. Credit: Megan Cole from Vancouver, Canada, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Brunello_di_Montalcino,_Italy_(5874133867).jpg)). Related image for Antinori nel Chianti Classico.

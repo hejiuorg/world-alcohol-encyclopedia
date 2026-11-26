@@ -81,6 +81,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1858
 ---
+
 # Gerbeaud
 
 Vörösmarty tér 的西北角，Gerbeaud 的深色雨棚、金色字母与一排面对广场的座位，几乎是布达佩斯“下午茶”的同义词。夏天露台坐满人，冬天橱窗里换成圣诞装饰；推门进去，吊灯、镜面、大理石台面与甜点柜把空间分成前场售卖与后场餐区。它不像 New York Café 那样用穹顶压人，而是用“老派甜点店”的尺度，把客人留在蛋糕与咖啡之间。
@@ -149,3 +150,9 @@ Gerbeaud 的招牌是甜点，不是单一蛋糕。Dobos torte 是匈牙利经�
 - 相关条目：[New York Café](ref:newyork)、[Café Sacher](ref:sacher)、[Demel](ref:demel)、[Café Central](ref:central)、[维也纳咖啡馆之夜路线](ref:vienna-route)
 
 对照阅读：[New York Café](ref:newyork)、[Demel](ref:demel)。
+
+## 相关图像
+
+![New York Café 的黄金色主厅与穹顶](/media/photos/place-new-york-cafe-eaf841d1.jpg)
+
+图：New York Café 的黄金色主厅与穹顶。图片：Fred Romero from Paris, France，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Budapest_-_New_York-palota_(37595301645).jpg)）。关联图像：Gerbeaud。

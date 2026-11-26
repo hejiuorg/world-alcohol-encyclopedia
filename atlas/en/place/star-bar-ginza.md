@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:star-bar-ginza
 source_lang: zh
-source_revision: sha256:b6d0f5302c459dd1eb49184b090091ba85d11f41dc9649f3b6568288659ad5d4
-source_sha256: b6d0f5302c459dd1eb49184b090091ba85d11f41dc9649f3b6568288659ad5d4
+source_revision: sha256:ee8fdc7689090297e94ff9fd8831b191132a63efe140e97dc4029fd18ab967fa
+source_sha256: ee8fdc7689090297e94ff9fd8831b191132a63efe140e97dc4029fd18ab967fa
 translation_status: reviewed
 subtype: bar
 address: Ginza, Chuo-ku, Tokyo
@@ -178,3 +178,9 @@ Coordinates are left empty and no map is drawn. Ginza's blocks are dense and bui
 Page verified on 2026-11-09; door numbers, hours, bookings and prices are subject to official channels.
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Related photograph of Old Fashioned](/media/photos/cocktail-old-fashioned-f1533cb4.jpg)
+
+Image: Related photograph of Old Fashioned. Credit: Capvideo, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Claris_Hotel,_Barcelona,_Smoky_Old-Fashioned_with_Popcorn.jpg)). Related image for Star Bar Ginza.

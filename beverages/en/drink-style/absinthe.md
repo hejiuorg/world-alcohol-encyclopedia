@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: drink-style:absinthe
 source_lang: zh
-source_revision: sha256:d543111dc44fff3ef4c0b6e6ad28d2de5e6f18deec191cca5013e928ef26421d
-source_sha256: d543111dc44fff3ef4c0b6e6ad28d2de5e6f18deec191cca5013e928ef26421d
+source_revision: sha256:c8de400e19e4935cc2157a518e896859b32ec17e1fbbba200b9820543423e4b5
+source_sha256: c8de400e19e4935cc2157a518e896859b32ec17e1fbbba200b9820543423e4b5
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -143,3 +143,9 @@ First, that absinthe causes hallucinations. Second, that all absinthe is green. 
 Disputes centre on the long-term health effects of thujone, differences in residual national bans, and whether the name “absinthe” is being misused. What is certain: it is a high-strength spirit and should be consumed in moderation; pregnant people, people taking medication and anyone driving should not drink.
 
 **In brief:** A high-strength spirit built on wormwood, fennel and anise and made by maceration and distillation; EU flavouring law sets 35 mg/kg and 10 mg/kg thujone ceilings, and the clouding on dilution is physics, not proof of hallucination.
+
+## Related images
+
+![Aperitif](/media/photos/drink-style-aperitif-7af7d066.jpg)
+
+Image: Aperitif. Credit: Wikimedia Commons contributor, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aperitif_Campari_Soda.jpg)). Related image for Absinthe.

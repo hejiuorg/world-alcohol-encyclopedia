@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:vinho-verde
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a403c9e723970771bb9cca14eb934c7b69307a09694690e76a2bbc658bfb1388
-source_sha256: a403c9e723970771bb9cca14eb934c7b69307a09694690e76a2bbc658bfb1388
+source_revision: sha256:a941e41448e56373c6c4b1264746bc0e4de41a4c264b748dc55334ff764726a0
+source_sha256: a941e41448e56373c6c4b1264746bc0e4de41a4c264b748dc55334ff764726a0
 level: other
 parent_id: region:portugal
 country_code: PT
@@ -84,6 +84,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Vinho Verde
 
 Vinho Verde is an appellation in the Minho region of north-west [Portugal](ref:portugal), known for fresh, low-alcohol, high-acid [wines](ref:wine). The word verde in the name refers to a young wine meant to be drunk early, not to the colour of the wine.
@@ -186,3 +187,13 @@ For Vinho Verde, begin with the appellation and its permitted varieties. Then lo
 - [Acidity](ref:acidity): how the region's high acidity shapes style and food pairing.
 - [Single varietal](ref:single-varietal): the concept behind Alvarinho labelling rules.
 - [Alcohol by volume](ref:abv): what 8% vol to 14% vol means on a label.
+
+## Related images
+
+![Category image for Portugal](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+Image: Category image for Portugal. Credit: John Hayes from San Antonio, Texas, USA, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=151531010)). Related image for Vinho Verde.
+
+![Sparkling wine](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+Image: Sparkling wine. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Vinho Verde.

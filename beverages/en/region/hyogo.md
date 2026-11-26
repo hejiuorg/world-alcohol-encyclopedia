@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:hyogo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d0feb18eb5e3b5b09ba4e496689e99854372f7e9a33182c64ee601df1487652e
-source_sha256: d0feb18eb5e3b5b09ba4e496689e99854372f7e9a33182c64ee601df1487652e
+source_revision: sha256:050832d8d62fdce35e4f6d0e4a3f202254b8b09f900f1825d576d8d986e68e71
+source_sha256: 050832d8d62fdce35e4f6d0e4a3f202254b8b09f900f1825d576d8d986e68e71
 level: province
 parent_id: region:japan
 country_code: JP
@@ -169,3 +169,13 @@ Sixth, that GI Nadagogo is a vineyard-style hierarchy. It governs origin and pro
 - [Kimoto and yamahai](ref:kimoto-yamahai): traditional starters built on natural lactic acid bacteria.
 - [Rice](ref:rice) and [water](ref:water): sake rice and miyamizu as the material base.
 - [Qu making](ref:qu-making), [saccharification](ref:saccharification) and [fermentation](ref:fermentation): the parallel fermentation sequence.
+
+## Related images
+
+![Editorial illustration of grain saccharification: a cooking vessel, steam, heating structure and sampling; AI-assisted illustration, not a photograph.](/media/photos/editorial-saccharification-q2.jpg)
+
+Image: Editorial illustration of grain saccharification: a cooking vessel, steam, heating structure and sampling; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Hyogo Prefecture.
+
+![Related photograph of Junmai sake](/media/photos/drink-style-junmai-sake-c56e7eb1.jpg)
+
+Image: Related photograph of Junmai sake. Credit: Nisiguti, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Matsui_Sake_Brewery%27s_Sake_20211122.jpg)). Related image for Hyogo Prefecture.

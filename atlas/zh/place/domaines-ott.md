@@ -82,6 +82,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览场次与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 奥托酒庄
 
 奥托酒庄（Domaines Ott*）是普罗旺斯桃红最容易被认出的名字之一。它不是一个单一庄园，而是一个由三处产业组成的家族品牌：塔拉多的 Château de Selle、拉隆德莱莫尔的 Clos Mireille，以及勒卡斯特莱的 Château Romassan。三处都产桃红，也产少量白与红，但对外接待主要集中在各自的酒窖与品鉴室，其中 Château de Selle 是最常被安排的一站。需要先分清“品牌”“庄园”与“可参观地点”，否则很容易把地图上的一个点当成整家企业。
@@ -148,3 +149,9 @@ Château de Selle 的地址是 5093 Route de Flayosc, 83460 Taradeau, France。�
 - [Vins de Provence 官网](https://www.vinsdeprovence.com/)：普罗旺斯三个产区与葡萄酒旅游入口。
 
 补充阅读：[葡萄酒](ref:c-extra-1)。
+
+## 相关图像
+
+![米拉沃酒庄相关实景照片](/media/photos/place-chateau-miraval-261f44a3.jpg)
+
+图：米拉沃酒庄相关实景照片。图片：Hernandlucas，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Miraval_3.jpg)）。关联图像：奥托酒庄。

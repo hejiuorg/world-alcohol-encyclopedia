@@ -63,6 +63,12 @@ sources:
     publisher: OIV
     accessed: 2026-11-21
     note: 用于补充核对条目背景、术语与制度口径；未复制原文。
+  - key: adv-eu-labelling
+    title: European Commission — Food labelling and packaging
+    url: https://ec.europa.eu/food/food-labelling-and-packaging_en
+    publisher: European Commission
+    note: 用于核对预包装食品标签的合规字段与消费者信息；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -155,6 +161,28 @@ verification_scope: source-verified
 - 查执行标准编号与生产许可证编号是否清晰可读。
 - 把宣传语与法规字段分开，不把形容词当成事实。
 - 对不确定的信息留空，不凭印象补全。
+
+
+## 进阶判断
+
+![普罗旺斯葡萄酒背标](/media/photos/guide-read-a-label-d715c0ff.jpg)
+
+图：普罗旺斯葡萄酒背标，产地、等级、酒精度与装瓶信息都在这里。图片：Wiki.cullin，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Label_-_Back_of_Bottle_-_Sainte_Magdeleine_-_Cotes_de_Provence.jpg)）。
+
+| 标签字段 | 能证明什么 | 不能证明什么 |
+| --- | --- | --- |
+| 产地 / 产区 | 法规归属与地理来源 | 质量高低或风味好坏 |
+| 酒精度 / 净含量 | 强度与容量 | 原料与工艺 |
+| 配料 / 原料表 | 使用了哪些原料 | 具体比例与品质 |
+| 执行标准 / 类别 | 产品所属类别 | 批次差异与真实口感 |
+
+**AOC / AOP 就等于好酒吗？** 不等于。AOC/AOP 证明产区与规则归属，不证明酒体质量。同一产区内有不同等级、酒庄与年份，仍要看生产商、年份和储存。
+
+**“纯粮固态”能说明什么？** 它描述的是原料与工艺路线，不等于口感更好或等级更高。还要看香型、酒精度、生产商、执行标准与批次，不能只看这四个字。
+
+**进口酒只看中文背标就够吗？** 中文背标是合规信息，原标才常保留产区、品种、酒庄与装瓶细节。两套标签要交叉读，尤其是生产商、装瓶者与进口商。
+
+延伸阅读：[标准](ref:standard)、[风土](ref:terroir)。
 
 ## 边界
 

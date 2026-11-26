@@ -95,6 +95,7 @@ rights:
   note: 第三方商标、酒标、菜单、图片与引用文本不在本许可内；开放时间、体验价格、预约规则与酒款会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 奔富玛吉尔庄园
 
 玛吉尔庄园是奔富的起点，也是阿德莱德城里最容易到达的葡萄酒历史现场。它距市中心约 8 公里，葡萄园、Grange Cottage 与石造酒窖仍在原址，周围是住宅区与山麓道路。这里不是一片被围起来的乡村庄园，而是“城市边缘的单一葡萄园”：你可以在一顿饭的时间里看完 1844 年的建园故事、1950 年代的 Grange 试验，以及奔富如何把试验变成产品线。
@@ -154,3 +155,9 @@ Magill Estate Restaurant 做精致餐饮，Magill Estate Kitchen 更轻松，适
 ## 参考资料
 
 本页依据奔富官方 Magill Estate 门市页、联系页、品牌史页与预约页，以及 Wine Australia 的巴罗萨谷资料核验，页面核验日期 2026-11-09。若要把这一站放进行程，可继续读[巴罗萨葡萄酒路线](ref:route)；关于品种与工艺背景，见[西拉](ref:shiraz)、[红葡萄酒](ref:red-wine)与[橡木桶陈年](ref:oak-ageing)。开放时间、价格与预约规则以官方渠道为准。
+
+## 相关图像
+
+![巴罗萨相关实景照片](/media/photos/region-barossa-cae6ecd8.jpg)
+
+图：巴罗萨相关实景照片。图片：No machine-readable author provided. ScottDavis assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Tanunda.jpg)）。关联图像：奔富玛吉尔庄园。

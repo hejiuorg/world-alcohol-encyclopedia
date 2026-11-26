@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink-style:brandy
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4a5a57a051f21484ef23cccab6ce2c8ec55362e26992917c7ec3dda2bff35d14
-source_sha256: 4a5a57a051f21484ef23cccab6ce2c8ec55362e26992917c7ec3dda2bff35d14
+source_revision: sha256:6ad21dd9fc18d4b39c558d8ad831212745b9b29032d154b7af6060b6e7ab0e3d
+source_sha256: 6ad21dd9fc18d4b39c558d8ad831212745b9b29032d154b7af6060b6e7ab0e3d
 legacy_refs: []
 aliases:
   - Brandy
@@ -72,6 +72,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Brandy
 
 Brandy is a spirit distilled from wine or another fruit wine. Grape brandy is the most common; apple, cherry, plum and other fruit brandies are separate traditions. It belongs alongside whisky, which is grain-based, and rum, which is sugarcane-based, as a distilled spirit category.
@@ -146,3 +147,9 @@ Brandy is best read by starting with the production rule, moving to the strength
 - [Oak ageing](ref:oak-ageing): the source of colour, aroma and texture change.
 - [Fruit wine](ref:fruit-wine): the fermented precursor of fruit brandy.
 - [Wine](ref:wine): the raw-material base of grape brandy.
+
+## Related images
+
+![Fruit wine](/media/photos/drink-style-fruit-wine-929f540b.jpg)
+
+Image: Fruit wine. Credit: Chaojoker, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%D5%86%D5%BC%D5%A1%D5%B6_%D5%A3%D5%AB%D5%B6%D5%AB.jpg)). Related image for Brandy.

@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:daiginjo-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e2028ec25ef304e2db9ecfb03e13629a5262b805343a94d449f04ad707b08f1e
-source_sha256: e2028ec25ef304e2db9ecfb03e13629a5262b805343a94d449f04ad707b08f1e
+source_revision: sha256:3c150d428806bf0a5f3ade47255f9d512ab0eabb6ca075597058cb92210c99af
+source_sha256: 3c150d428806bf0a5f3ade47255f9d512ab0eabb6ca075597058cb92210c99af
 legacy_refs: []
 parent_style_id: drink-style:sake
 aroma_family: floral and fruity
@@ -78,6 +78,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Daiginjo sake
 
 Daiginjo is the sake made from rice milled to half its weight or less. The law sets only two conditions: a polishing ratio of 50% or below and ginjo fermentation; brewing alcohol may be added up to 10% of the polished rice weight, and the version without it is junmai daiginjo. Below 50%, however, runs a steep cost curve, where every step fights broken grains, off-flavours and lost yield.
@@ -166,3 +167,9 @@ Put [Sake](ref:sake)'s legal definition next to [Fermentation](ref:fermentation)
 - [Fermentation](ref:fermentation): cool, long fermentation and ginjo aroma.
 - [Rice](ref:rice): sake rice varieties and high polishing.
 - [Japan](ref:japan): the regional and national background.
+
+## Related images
+
+![Sake](/media/photos/drink-style-sake-c84f8e77.jpg)
+
+Image: Sake. Credit: Intforce, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Overflowing_sake_glass_in_masu.jpg)). Related image for Daiginjo sake.

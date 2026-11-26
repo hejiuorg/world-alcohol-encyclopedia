@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:belgium-beer-trail
 source_lang: zh
-source_revision: sha256:7df7938abdf3659619c845154cfc3b76ca0550ee7dfbe8fcae79572dbe23b7e3
-source_sha256: 7df7938abdf3659619c845154cfc3b76ca0550ee7dfbe8fcae79572dbe23b7e3
+source_revision: sha256:238f982ba2f4fdee09fc1364ffe489440c79a78b7580ecccd4b47c07ba624ab8
+source_sha256: 238f982ba2f4fdee09fc1364ffe489440c79a78b7580ecccd4b47c07ba624ab8
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -85,6 +85,7 @@ stop_ids:
 mode: rail
 updated_at: 2026-11-08
 ---
+
 # Belgium beer trail: lambic in Brussels, city ale in Bruges
 
 Two cities, two breweries, two fermentation logics. Cantillon in Anderlecht hands wort to wild microbes in the air; De Halve Maan in Bruges puts selected yeast into tanks. An hour by train separates them, and a full day covers both. The route suits early risers who accept sour beer and do not treat Belgian beer as one flavour.
@@ -160,3 +161,13 @@ The route uses trains between Brussels and Bruges, with a tram or walk to the la
 | Stop order | Cantillon Brewery、De Halve Maan Brewery |
 
 **Sources and limits.** The key claims about Belgium beer trail: lambic in Brussels, city ale in Bruges are checked against the following sources: Brasserie Cantillon (Used to check the Rue Gheude 56 address, the 1900 founding and the 1978 museum association), Brouwerij De Halve Maan (Used to check the Maes family from 1856, Straffe Hendrik in 1981, Brugse Zot in 2005 and the 2016 pipeline), SNCB / NMBS. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Gueuze](/media/photos/drink-style-gueuze-32f50b06.webp)
+
+Image: Gueuze. Credit: Strangerhappenings, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Oude_Gueuze_bottle.png)). Related image for Belgium beer trail: lambic in Brussels, city ale in Bruges.
+
+![Category image for Belgium](/media/photos/place-de-halve-maan-46bc86b4.jpg)
+
+Image: Category image for Belgium. Credit: Falk2, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:J33_542_Walplein,_%C2%BBDe_halve_Maan%C2%AB.jpg)). Related image for Belgium beer trail: lambic in Brussels, city ale in Bruges.

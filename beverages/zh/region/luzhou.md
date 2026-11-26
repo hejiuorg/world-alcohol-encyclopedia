@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 泸州市
 
 泸州位于四川盆地东南缘，长江与沱江在城区汇合。与宜宾的“三江口”相比，泸州更像是长江上游的一个老码头：沱江带来内河货物，长江把城市与重庆、宜宾连接起来。泸州老窖的窖池群就分布在城区，酒厂与城市生活距离很近，这一点在中国白酒产区中并不常见。
@@ -134,3 +135,13 @@ verification_scope: source-verified
 - 想理解浓香型的共同语言，读[浓香型白酒](ref:strong)。
 - 想比较川南两座酒城，读[宜宾](ref:sichuan)与[中国](ref:china)的产区条目，再安排双城路线。
 - 想把泸州放进长江旅行，先查宜宾、重庆之间的交通，再决定停留天数。
+
+## 相关图像
+
+![泸州老窖](/media/photos/brand-luzhou-laojiao-0e97e137.jpg)
+
+图：泸州老窖。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)）。关联图像：泸州市。
+
+![四川省](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+图：四川省。图片：FISU，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)）。关联图像：泸州市。

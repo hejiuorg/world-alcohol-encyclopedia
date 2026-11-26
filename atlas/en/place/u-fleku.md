@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:u-fleku
 source_lang: zh
-source_revision: sha256:f8c92ce82259cc08c5e51bcc5c9620591bf189e549a3d640c5be022122b5a494
-source_sha256: f8c92ce82259cc08c5e51bcc5c9620591bf189e549a3d640c5be022122b5a494
+source_revision: sha256:fbe9a1c1d7257ae8a8e331d3cc174d475bd04a8b96093737edf264b57bb352cb
+source_sha256: fbe9a1c1d7257ae8a8e331d3cc174d475bd04a8b96093737edf264b57bb352cb
 translation_status: reviewed
 subtype: pub
 address: Křemencova 11, 110 00 Praha 1, Czech Republic
@@ -151,3 +151,9 @@ Prague's evening crowds concentrate on the Old Town Square and Charles Bridge. K
 Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2).
 
 Put [Beer](ref:beer)'s address and space next to [Reading a city through its bars](ref:pub-and-city)'s operating status; the difference marks the boundary.
+
+## Related images
+
+![Lager](/media/photos/drink-style-lager-7d0e4091.jpg)
+
+Image: Lager. Credit: Lars Curfs ( Grashoofd ), CC BY-SA 3.0 nl, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bitburger_Glass.JPG)). Related image for U Fleků.

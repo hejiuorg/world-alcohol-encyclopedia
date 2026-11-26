@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:wheat-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:63113e6c4320457a0d890d96d92290fa44c29d244fa05f96c35804ef728532d7
-source_sha256: 63113e6c4320457a0d890d96d92290fa44c29d244fa05f96c35804ef728532d7
+source_revision: sha256:3e80e8e7765c015c894c9bd6982aa029015411b854fede0930696c9e69c6ec7c
+source_sha256: 3e80e8e7765c015c894c9bd6982aa029015411b854fede0930696c9e69c6ec7c
 parent_style_id: drink-style:beer
 aroma_family: Grain and yeast
 legacy_refs: []
@@ -87,6 +87,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Wheat beer
 
 Wheat beer is top-fermented beer in which wheat makes up a large share of the grain bill. German wheat beer is marked by clove and banana esters and bottle conditioning; Belgian witbier is seasoned with orange peel and coriander; American wheat ale is cleaner and more easy-drinking. The proteins and starch that wheat contributes directly shape body, head and haze.![Wheat beer image](/media/photos/drink-style-wheat-beer-5513b4e6.jpg)
@@ -162,3 +163,9 @@ For Wheat beer, this style was last checked in 2026; prices, batches and availab
 - [Germany](ref:germany): the Bavarian wheat beer tradition and the Reinheitsgebot.
 - [Belgium](ref:belgium): the home of witbier and its spice tradition.
 - [Craft beer](ref:craft-beer): the background for American wheat ale.
+
+## Related images
+
+![Category image for Germany](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+Image: Category image for Germany. Credit: Renardo la vulpo, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)). Related image for Wheat beer.

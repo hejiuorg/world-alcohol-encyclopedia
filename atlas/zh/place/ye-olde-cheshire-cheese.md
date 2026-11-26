@@ -5,7 +5,7 @@ type: place
 lang: zh
 slug: ye-olde-cheshire-cheese
 title: 柴郡奶酪酒馆
-summary: 伦敦舰队街的历史酒馆，现建筑 1667 年重建，以木结构内饰和传统英式菜闻名。
+summary: 伦敦舰队街的历史酒馆，现建筑 1667 年重建，以木结构内饰和传统英式菜闻名；据传是伦敦最古老的酒馆之一，也是狄更斯读者常去的文学地标。
 status: reviewed
 revision: 5
 subtype: pub
@@ -83,6 +83,7 @@ city: 伦敦
 verification_scope: source-verified
 founded_year: 1667
 ---
+
 # 柴郡奶酪酒馆
 
 舰队街 145 号的门口并不起眼，第一次来的人常常先经过一条窄通道，才意识到自己已经站在一间多层酒馆里。柴郡奶酪酒馆的吸引力不在“最古老”的招牌，而在它把几种互相拉扯的东西叠在同一栋建筑里：一场 1666 年大火之后的重建、舰队街印刷与报业的记忆、Samuel Smith's 的桶装艾尔，以及一套仍然按酒馆方式运转的多房间空间。
@@ -140,3 +141,9 @@ founded_year: 1667
 | 官网 | ye-olde-cheshire-cheese.co.uk |
 
 **来源与边界。** 本页关于「柴郡奶酪酒馆」的关键事实，主要由以下来源交叉核对：Ye Olde Cheshire Cheese（地址（145 Fleet Street, EC4A 2BP）、营业时间、Samuel Smith's 酒类供应、菜单与无障碍说明）、Historic England（登录建筑等级与建筑年代判断）、Fleet Street Quarter（舰队街背景、酒馆文学顾客名单与街区变迁）等 5 条来源。产品、地址或营业状态变化较快时，以 ye-olde-cheshire-cheese.co.uk 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![认识一座城，从一间酒馆开始类型示意图](/media/photos/theme-asian.jpg)
+
+图：认识一座城，从一间酒馆开始类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：柴郡奶酪酒馆。

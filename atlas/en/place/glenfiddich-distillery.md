@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:glenfiddich-distillery
 source_lang: zh
-source_revision: sha256:417355734a768524ce050eb1b8364d627a6ee6cd08bc2fdc57a1e34ff83d67d5
-source_sha256: 417355734a768524ce050eb1b8364d627a6ee6cd08bc2fdc57a1e34ff83d67d5
+source_revision: sha256:36036f721514c45401b4b1f104663f14b8d5e47e1c9f4625c506a2964c4b399a
+source_sha256: 36036f721514c45401b4b1f104663f14b8d5e47e1c9f4625c506a2964c4b399a
 translation_status: reviewed
 subtype: distillery-visitor
 address: Glenfiddich Distillery, Dufftown, Keith AB55 4DH, Scotland, United Kingdom
@@ -127,3 +127,9 @@ Nearby, Mortlach and Balvenie in Dufftown also take visitors by appointment; Abe
 ## See also
 
 Glenfiddich is one of the easiest doors into [Speyside](ref:speyside); for the relationship between single malt and blended whisky, start with [Scotch whisky](ref:scotch) and [Whisky: an introduction](ref:whisky-intro).
+
+## Related images
+
+![Scotch whisky](/media/photos/drink-style-scotch-whisky-9e96a856.jpg)
+
+Image: Scotch whisky. Credit: Sansvase, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)). Related image for Glenfiddich Distillery.

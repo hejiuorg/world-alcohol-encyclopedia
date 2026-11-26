@@ -25,8 +25,8 @@ tags:
 translation_of: region:jeju
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e4ffca8f320eb268259104221a5c7c18f2ac7ac644b45d8c9a522732b0dd7302
-source_sha256: e4ffca8f320eb268259104221a5c7c18f2ac7ac644b45d8c9a522732b0dd7302
+source_revision: sha256:4d3ca45d05b1482fab90ba0cbac531857ebec3c12ff34fd296dfba3c1e6c57f7
+source_sha256: 4d3ca45d05b1482fab90ba0cbac531857ebec3c12ff34fd296dfba3c1e6c57f7
 related:
   - relation: about
     target_id: region:south-korea
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; spirit regulations, labels and regional boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Jeju
 
 The soju and local-drink region of Jeju Island, South Korea, known for volcanic groundwater, rice and local ingredients such as citrus; Jeju soju is softer than mainland diluted soju, and the island’s volcanic terroir is closely tied to tourism.![Hallasan soju from Jeju](/media/photos/region-jeju-2ec62120.webp)
@@ -168,3 +169,13 @@ Jeju’s tourism narrative is strong, and the symbols—volcanic rock, citrus, h
 
 - Related: [south-korea](ref:south-korea), [soju](ref:soju), [rice](ref:rice), [fermentation](ref:fermentation), [terroir](ref:terroir).
 - This region provides no map, prices or opening hours; confirm before travelling.
+
+## Related images
+
+![Category image for South Korea](/media/photos/region-andong-a866c9fa.jpg)
+
+Image: Category image for South Korea. Credit: Matt and Nayoung Wilson from Atlanta and surrounding, US, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Korean_distilled_liquor-Andong_soju-01.jpg)). Related image for Jeju.
+
+![Soju](/media/photos/drink-style-soju-8b1cabb3.jpg)
+
+Image: Soju. Credit: Graham Hills, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Soju.jpg)). Related image for Jeju.

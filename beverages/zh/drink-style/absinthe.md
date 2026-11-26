@@ -69,6 +69,7 @@ rights:
   note: 本页配图为维基共享资源的苦艾酒礼盒实拍照片，按 Public domain 使用，具体见图片图注。图片为构图需要裁去了右侧货架。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 苦艾酒
 
 苦艾酒（absinthe）是一种以苦艾、茴香和茴芹为特征的烈酒。它通常经过浸提与蒸馏，酒精度很高，加水后会从透明变为乳白。19 世纪末它在法国与瑞士的咖啡馆文化中极为流行，20 世纪初被多国禁售，直到 1990 年代才逐步回归市场。它不是[味美思](ref:aperitif)，也不是[利口酒](ref:liqueur)，而是一个以植物配方与高酒精度为核心的烈酒类别。
@@ -141,3 +142,8 @@ verification_scope: source-verified
 
 侧柏酮含量有法规上限，但苦艾酒致幻的说法缺乏可靠证据；变白是加水后茴香类成分析出，不是药效发作。
 
+## 相关图像
+
+![还魂酒二号相关实景照片](/media/photos/cocktail-corpse-reviver-2-9af7f153.jpg)
+
+图：还魂酒二号相关实景照片。图片：Adrian Scottow，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Corpse_Reviver_-2_-_16294945262.jpg)）。关联图像：苦艾酒。

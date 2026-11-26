@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:allegrini
 source_lang: zh
-source_revision: sha256:012d8916037d78bfb0687e3503725f4bfd3decf2c4772003ab3eef10c2bc30d1
-source_sha256: 012d8916037d78bfb0687e3503725f4bfd3decf2c4772003ab3eef10c2bc30d1
+source_revision: sha256:d5a6d71340ebf0089bd8673d1ad82fba5ccd7ba225c6414da2ca53f609c48e64
+source_sha256: d5a6d71340ebf0089bd8673d1ad82fba5ccd7ba225c6414da2ca53f609c48e64
 translation_status: reviewed
 subtype: winery-visitor
 address: Via Giare 5, 37022 Fumane (VR), Italy
@@ -88,6 +88,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; experience lengths, prices and slots change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Allegrini
 
 Allegrini is in Fumane, inside the Valpolicella Classica zone. It is not far from Prosecco but follows a completely different wine logic: here the main characters are Corvina, dried grapes and Amarone, a wine that needs time and oxygen to open. The official account traces the family in Fumane to the sixteenth century; today Francesco, Giovanni, Matteo and Silvia run the estate, which farms more than 100 hectares and builds its range around La Poja, La Grola, Palazzo della Torre and Amarone.![Allegrini category image](/media/photos/q2-region-veneto-011f6328.jpg)
@@ -151,3 +152,9 @@ Fumane has a church, a square and a few local restaurants, enough for lunch. Con
 - [Allegrini — hospitality page](https://allegrini.it/ospitalita/): lengths, prices and Wine Club events for tastings and vineyard experiences.
 
 Further reading: [Wine](ref:c-extra-1).
+
+## Related images
+
+![Wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Image: Wine. Credit: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Related image for Allegrini.

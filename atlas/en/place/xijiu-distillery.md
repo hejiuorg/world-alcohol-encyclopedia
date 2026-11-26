@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:xijiu-distillery
 source_lang: zh
-source_revision: sha256:30ed72d26944e2b9621e77fab246e622cebb0cd4152fa63b48dc3bcf8550c394
-source_sha256: 30ed72d26944e2b9621e77fab246e622cebb0cd4152fa63b48dc3bcf8550c394
+source_revision: sha256:b9c2e9a35a41110c41b876d9d391bde914b68d6d69887e5bfd74e1092fb71b52
+source_sha256: b9c2e9a35a41110c41b876d9d391bde914b68d6d69887e5bfd74e1092fb71b52
 translation_status: reviewed
 subtype: distillery-visitor
 address: Guizhou Xijiu plant, Xijiu Town, Xishui County, Zunyi, Guizhou, China
@@ -69,24 +69,24 @@ sources:
     title: 习水县人民政府 — 县情概况
     url: https://www.xsx.gov.cn/zjxs/xsgk/jj2023/202605/t20260525_90206553.html
     publisher: 习水县人民政府
-    note: 用于核对习水县的地理位置、行政区划与酱香型白酒产区信息；未复制原文。
+    note: 用于核对习水县的地理位置、行政区划与酱香型白酒产区信息；未复制原文.
     accessed: 2026-11-25
   - key: xijiu-about
     title: 习酒 — 公司简介
     url: https://www.gzxijiu.com/about/introduction?menuId=r_5uFQaERX42fDKDI7O2B
     publisher: 贵州习酒股份有限公司
-    note: 用于核对习酒产地、习酒镇与酱香型白酒工艺的公开介绍；未复制原文。
+    note: 用于核对习酒产地、习酒镇与酱香型白酒工艺的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: zunyi-gov
     title: 遵义市人民政府
     url: https://www.zunyi.gov.cn/
     publisher: 遵义市人民政府
-    note: 用于核对习水县属遵义市管辖的行政区划与公开城市信息；未复制原文。
+    note: 用于核对习水县属遵义市管辖的行政区划与公开城市信息；未复制原文.
     accessed: 2026-11-25
   - key: gb2260
     title: GB/T 2260-2007 中华人民共和国行政区划代码
     publisher: 国家标准化管理委员会
-    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文。
+    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -102,7 +102,7 @@ Xijiu Town sits on the middle Chishui River, with the hills of Guizhou’s Xishu
 
 ![Xijiu Distillery (Xijiu Town) bilingual editorial visual card](/media/figures/specific/place-xijiu-distillery.svg)
 
-图：Xijiu Distillery (Xijiu Town) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Xijiu Distillery (Xijiu Town) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers on a Sichuan–Guizhou sauce-aroma route who want the middle Chishui; pairs with Tucheng and Erlang for two days.
@@ -160,9 +160,17 @@ This page does not promise a particular workshop or warehouse. Keep the estate v
 
 ## References
 
-- 习水县人民政府 — 县情概况 — https://www.xsx.gov.cn/zjxs/xsgk/jj2023/202605/t20260525_90206553.html (习水县人民政府, checked 2026-11-25)
-- 习酒 — 公司简介 — https://www.gzxijiu.com/about/introduction?menuId=r_5uFQaERX42fDKDI7O2B (贵州习酒股份有限公司, checked 2026-11-25)
-- 遵义市人民政府 — https://www.zunyi.gov.cn/ (遵义市人民政府, checked 2026-11-25)
-- GB/T 2260-2007 中华人民共和国行政区划代码 (国家标准化管理委员会, checked 2026-11-25)
+- xsx.gov.cn — official source — https://www.xsx.gov.cn/zjxs/xsgk/jj2023/202605/t20260525_90206553.html (checked 2026-11-25)
+- gzxijiu.com — official source — https://www.gzxijiu.com/about/introduction?menuId=r_5uFQaERX42fDKDI7O2B (checked 2026-11-25)
+- zunyi.gov.cn — official source — https://www.zunyi.gov.cn/ (checked 2026-11-25)
+- Official source — official source —  (checked 2026-11-25)
 
 Related entries: [Tucheng Old Town](ref:tucheng), [Xishui Xijiu route](ref:route), [Xijiu](ref:brand), [Guizhou Xijiu](ref:producer), [sauce-aroma baijiu](ref:style), [Guizhou](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Xijiu](/media/photos/brand-xijiu-0e1061d4.jpg)
+
+Image: Xijiu. Credit: Lhzss8, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E4%B8%80%E6%AC%BE%E4%B9%A0%E9%85%92.jpg)). Related image for Xijiu Distillery (Xijiu Town).
+
+The administrative division reference is the 2007 edition of GB/T 2260.

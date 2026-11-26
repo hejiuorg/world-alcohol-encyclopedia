@@ -80,6 +80,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 苏玳
 
 苏玳（Sauternes）是法国[波尔多](ref:bordeaux)南部[苏玳产区](ref:sauternes)的[贵腐甜白](ref:noble-rot)，也是世界上最容易被记住名字的甜酒之一。它的核心不是某个品牌，而是一条小河、一种真菌与一套分级制度共同作用的结果。Ciron 河在秋季带来的晨雾让贵腐菌在葡萄园中生长，Sémillon 提供酒体与蜂蜜质地，Sauvignon Blanc 提供酸度与柑橘香，橡木桶与新酒年份决定它最终是清爽还是浓郁。
@@ -147,3 +148,9 @@ d'Yquem 的风格通常比同产区更浓郁、更耐久，年轻时就有蜂蜜
 **来源与边界。** 本页关于「苏玳」的关键事实，主要由以下来源交叉核对：Conseil Interprofessionnel du Vin de Bordeaux（波尔多产区、品种与甜白的基本框架）、INAO（法国原产地命名制度与苏玳 AOC 的管理框架）、Conseil des Grands Crus Classés en 1855（苏玳与巴萨克的风土、AOC 数据与 1855 年分级）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「苏玳」与「赛美蓉」、「长相思」、「贵腐（noble rot）」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![“苏玳”页面配图：File:Vineyard in Sauternes.jpg。摄影：davitydave，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-sauternes-7f9389df.jpg)
+
+图：File:Vineyard in Sauternes.jpg。摄影：davitydave，CC BY 2.0，来自 Wikimedia Commons。。图片：davitydave，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=25673556)）。关联图像：苏玳。

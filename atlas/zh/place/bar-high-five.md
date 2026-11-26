@@ -89,6 +89,7 @@ city: 东京
 verification_scope: source-verified
 founded_year: 2008
 ---
+
 # High Five 酒吧
 
 ![High Five 酒吧 专属编辑图](/media/figures/specific/visual-062-place-bar-high-five.svg)
@@ -171,3 +172,9 @@ High Five 在银座五丁目，步行可到银座 Six、三越、和光百货与
 | 官网 | barhighfive.com |
 
 **来源与边界。** 本页关于「High Five 酒吧」的关键事实，主要由以下来源交叉核对：Bar High Five（酒吧定位、店名含义与最新公告；地址、电话、营业时间、最后入场时间与休息日）、The World's 50 Best（2019 年世界榜第 18 位、2023 年亚洲榜第 45 位、手削冰、White Lady 与 Full Bloom、每杯约 16 美元）、国土地理院（地址对应的经纬度（35.671638, 139.762924，WGS84，已取 5 位小数））。产品、地址或营业状态变化较快时，以 barhighfive.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![莱佛士长廊酒吧相关实景照片](/media/photos/place-raffles-long-bar-23568c03.jpg)
+
+图：莱佛士长廊酒吧相关实景照片。图片：Hajotthu，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Raffles_Hotel_Long_Bar_A.JPG)）。关联图像：High Five 酒吧。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:yuan-distillation-arrival
 source_lang: zh
-source_revision: sha256:62467dcb87c8fc13fa146aef2a13992c681c7298f4d285e1f1bdd77c0d603fe4
-source_sha256: 62467dcb87c8fc13fa146aef2a13992c681c7298f4d285e1f1bdd77c0d603fe4
+source_revision: sha256:4c159f753c41e49ebb8d77435a7005cf2076248caaf2cffd8e8d413437ddd61d
+source_sha256: 4c159f753c41e49ebb8d77435a7005cf2076248caaf2cffd8e8d413437ddd61d
 translation_status: reviewed
 aliases:
   - 阿剌吉
@@ -165,3 +165,9 @@ For The Yuan Arrival of Distilled Liquor, begin with the date and setting. Then 
 - [History of yellow wine](ref:yellow-wine-history): the main body of Chinese wine before distilled liquor arrived.
 - [History of Chinese wine](ref:chinese-wine-history): the continuous line from the pre-Qin period to the present.
 - [China](ref:china): background on the regions and categories of Chinese alcohol.
+
+## Related images
+
+![Thematic illustration for The spread of distillation: from alchemy to global spirits](/media/photos/theme-asian.jpg)
+
+Image: Thematic illustration for The spread of distillation: from alchemy to global spirits. Project-made bilingual editorial figure, not an on-site photograph. Related image for The Yuan Arrival of Distilled Liquor: Araq and Shaojiu.

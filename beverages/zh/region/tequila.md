@@ -68,6 +68,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。法规细节以 NOM-006-SCFI-2012 现行文本为准。
 verification_scope: source-verified
 ---
+
 # 龙舌兰酒法定产区
 
 龙舌兰酒法定产区是墨西哥为[龙舌兰酒](ref:tequila)划定的地理范围，核心在哈利斯科州，并包括瓜纳华托、米却肯、纳亚里特与塔毛利帕斯的部分市镇。只有在法定产区内种植蓝色韦伯龙舌兰并按规范生产的产品，才能标注为龙舌兰酒。
@@ -146,3 +147,13 @@ verification_scope: source-verified
 **适用边界。** 对「龙舌兰酒法定产区」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
 
 **更新提示。** 「龙舌兰酒法定产区」最近核对于 2026-11-24；面积、法定分类、标签规则与年份表现会变，引用前以法规与产区官方文本为准。
+
+## 相关图像
+
+![龙舌兰酒](/media/photos/drink-style-tequila-827c4596.jpg)
+
+图：龙舌兰酒。图片：T2O media México，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Paisaje_agavero_de_Jose_Cuervo_en_Tequila,_Jalisco.jpg)）。关联图像：龙舌兰酒法定产区。
+
+![梅斯卡尔](/media/photos/drink-style-mezcal-a77be8ad.jpg)
+
+图：梅斯卡尔。图片：ProtoplasmaKid，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg)）。关联图像：龙舌兰酒法定产区。

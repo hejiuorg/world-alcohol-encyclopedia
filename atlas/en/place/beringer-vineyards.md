@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:beringer-vineyards
 source_lang: zh
-source_revision: sha256:74a7804076b238f1240565cfeac30430fa183b6d88eb4b3e8d1bdb919539e0eb
-source_sha256: 74a7804076b238f1240565cfeac30430fa183b6d88eb4b3e8d1bdb919539e0eb
+source_revision: sha256:671bdb793afe7052fad1aa7be6cda16457a85311bced1b8871623377b71a7a79
+source_sha256: 671bdb793afe7052fad1aa7be6cda16457a85311bced1b8871623377b71a7a79
 translation_status: reviewed
 subtype: winery-visitor
 address: 2000 Main Street, St. Helena, CA 94574, USA
@@ -182,3 +182,9 @@ St. Helena is quieter than Oakville, and the main street is pleasant on foot, bu
 Beringer is a sample of the layers in [Napa Valley](ref:napa) and [wine](ref:wine) history: 19th-century immigrant architecture, a survival strategy under Prohibition and 20th-century commercial innovation in one estate. For how American Prohibition reshaped the trade, read [US Prohibition](ref:prohibition).
 
 Further reading: [United States](ref:c-extra-1), [Robert Mondavi Winery](ref:c-extra-2).
+
+## Related images
+
+![Napa Valley](/media/photos/region-napa-valley-777f1f74.webp)
+
+Image: Napa Valley. Credit: Unknown author Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:TTB_Map_Napa_Valley_AVA.png)). Related image for Beringer Vineyards.

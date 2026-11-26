@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:tsingtao-beer-street
 source_lang: zh
-source_revision: sha256:de207dfb7c185b30ea5b868c9bec39de8365bee6d279ab91343fa86f26f206e2
-source_sha256: de207dfb7c185b30ea5b868c9bec39de8365bee6d279ab91343fa86f26f206e2
+source_revision: sha256:44e21b10ec6a4a1fe2e5ec6bf69a3fefdcaa8e705749a9cc8b34195e5d8c9daf
+source_sha256: 44e21b10ec6a4a1fe2e5ec6bf69a3fefdcaa8e705749a9cc8b34195e5d8c9daf
 translation_status: reviewed
 subtype: pub
 address: Dengzhou Road (Yan'an 2nd Road to Shouguang Road), Shibei District, Qingdao, Shandong, China
@@ -58,12 +58,6 @@ references:
   - key: place-and-process
     target_id: culture-article:place-and-process
 sources:
-  - key: qingdao-gov-street
-    title: Sailing Qingdao — Dengzhou Road Beer Street — Qingdao Government
-    url: http://www.qingdao.gov.cn/yfqd/
-    publisher: Qingdao Municipal People's Government
-    note: Used to check the Yan'an 2nd Road–Shouguang Road extent, the 710-metre length, the number of businesses and the brewery's location; no source text is reproduced.
-    accessed: 2026-11-08
   - key: qingdao-culture-street
     title: "Fresh beer and local food: a beer festival that never ends — Qingdao Culture and Tourism Bureau"
     url: http://whlyj.qingdao.gov.cn/wlzx/202112/t20211227_4147013.shtml
@@ -76,6 +70,12 @@ sources:
     publisher: Dazhong Daily
     note: Used to check the 2005 opening, the roughly 700-metre street, the 40-plus seafood stalls and beer carts, and the price-transparency scheme; no source text is reproduced.
     accessed: 2026-11-08
+  - key: tsingtao-museum
+    title: Tsingtao Beer Museum — official page
+    url: https://www.tsingtaomuseum.com/category/1773519016732667906
+    publisher: Tsingtao Beer Museum
+    note: Used to check the museum's location on Dengzhou Road Beer Street; no text copied.
+    accessed: 2026-11-08
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -83,6 +83,7 @@ rights:
   note: Third-party trademarks, menus, photographs and quoted texts are not covered by this licence; hours, prices, stalls and events change, so check on-site notices and official channels.
 verification_scope: source-verified
 ---
+
 # Qingdao Beer Street (Dengzhou Road)
 
 Dengzhou Road Beer Street is the easiest place in Qingdao to drink your way into the city. By day it is an ordinary old-neighbourhood street; in the evening the lights come on, seafood stalls and beer houses put tables out on the pavement, and the sound of clinking mugs travels from one end to the other. It sits a few steps from the Tsingtao Beer Museum, but the two are different experiences: the museum is about industrial history and production, the street is about food and nightlife.
@@ -128,3 +129,9 @@ Before sitting down, look at the menu and the prices. A tout at the street entra
 Do not treat Beer Street as a free after-party for the museum. When the museum closes, its route ends; the street is a commercial dining area, not an exhibition space. Do not block the street ends for photographs, obstruct residents and vehicles, or turn the pavement into a party with loud drinking games. Put shells and skewers in the bins. If a price dispute arises, talk to the shop first and use the street's published supervision channel if needed.
 
 Beer Street shows how [beer](ref:beer) enters everyday city life and places [Shandong](ref:shandong)'s coastal food and [China](ref:china)'s industrial tourism on one street. To see production and history first, walk to the [Tsingtao Beer Museum](ref:museum) on the same street; for the longer background on place and process, read [place and process](ref:place-and-process).
+
+## Related images
+
+![Tsingtao Beer Museum](/media/photos/place-tsingtao-beer-museum-6f368fcc.jpg)
+
+Image: Tsingtao Beer Museum. Credit: M. Weitzel, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Tsingdao_Brewery.jpg)). Related image for Qingdao Beer Street (Dengzhou Road).

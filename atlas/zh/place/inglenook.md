@@ -96,6 +96,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、品鉴价格与预约政策会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 英格努克酒庄
 
 卢瑟福在纳帕谷中部，29 号公路两侧是极长的葡萄园与低矮的石墙。英格努克的入口是一段林荫道，尽头是 1882 年建成的石砌城堡，前面有喷泉、草坪与高大的橡树。它看起来像一座欧洲庄园，但故事是美国的：一位芬兰裔船长在 1879 年买下土地，用航海带来的资本与纪律建起酒庄；20 世纪中期，酒庄分裂、易主、改名，直到 Coppola 家族把地块一块一块买回来。今天它既是历史建筑，也是仍在生产的酒庄；参观时最好把“城堡”与“葡萄园”分开看，前者是记忆，后者才是酒。酒庄的导览通常从庭院开始，再进入城堡与品鉴室；发酵间与酒窖不随普通团开放。这里也是品鉴与教育空间。
@@ -153,3 +154,9 @@ Rubicon 建议 16–18°C，年轻年份提前 1–2 小时，老年份 30–60 
 关于英格努克酒庄，本页不绘制参观地图；开放时间、年份与价格以酒庄官网为准。
 
 对照阅读：[纳帕谷](ref:napa)、[赤霞珠](ref:cabernet)。
+
+## 相关图像
+
+![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：英格努克酒庄。

@@ -67,6 +67,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 长相思
 
 长相思是香气最外放的白葡萄品种之一。它的果皮较薄、酸度较高，常带有柑橘、青草、醋栗与热带水果气息；在凉爽产区表现清爽，在温暖产区则更偏热带水果。它既可以单独酿造，也常与赛美蓉等品种混酿。
@@ -151,3 +152,9 @@ verification_scope: source-verified
 **更新提示。** 「长相思」最近核对于 2026-11-04；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
 
 **编者注。** 本页把「长相思」作为品种条目处理：定义、流程与关键数字以正文表格为准，与「葡萄酒」、「白葡萄酒」的差异用对照阅读验证；遇到价格、批次或地址，回到页面所列来源核对。
+
+## 相关图像
+
+![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：长相思。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:chateau-de-meursault
 source_lang: zh
-source_revision: sha256:d038f586d6f01b2fe50f8083d57b1d264b9006a0413c1a84ac60feab97b295f8
-source_sha256: d038f586d6f01b2fe50f8083d57b1d264b9006a0413c1a84ac60feab97b295f8
+source_revision: sha256:e838edbeadf2ca0c18c58534073de198f47ce8f32a251b5e7f4d4b8a8b0b31d0
+source_sha256: e838edbeadf2ca0c18c58534073de198f47ce8f32a251b5e7f4d4b8a8b0b31d0
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -172,3 +172,9 @@ Travellers who want to compare estate styles can pair Château de Meursault with
 - [Red wine](ref:red-wine): how Pinot Noir is expressed in Burgundy.
 - [Joseph Drouhin](ref:drouhin): a family merchant house and its cellars in Beaune.
 - [Hôtel-Dieu in Beaune](ref:hospices): an entry point to Beaune's wine and charity-auction history.
+
+## Related images
+
+![Photograph for Burgundy: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+Image: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=65061583)). Related image for Château de Meursault.

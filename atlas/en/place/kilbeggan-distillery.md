@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:kilbeggan-distillery
 source_lang: zh
-source_revision: sha256:1305bb09fbf11c190e65246dde36f30d9770d236efd4696d63870906ed2a7a84
-source_sha256: 1305bb09fbf11c190e65246dde36f30d9770d236efd4696d63870906ed2a7a84
+source_revision: sha256:43d00625eb81c972b4bbab28c44614cd09986cb191e5e93723f1201a496c40e6
+source_sha256: 43d00625eb81c972b4bbab28c44614cd09986cb191e5e93723f1201a496c40e6
 translation_status: reviewed
 subtype: distillery-visitor
 address: Kilbeggan Distillery, Lower Main Street, Kilbeggan, Co. Westmeath N91 W7YY, Ireland
@@ -90,6 +90,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded. Opening hours, experience prices and schedules change; confirm with official channels.
 verification_scope: source-verified
 ---
+
 # Kilbeggan Distillery
 
 Kilbeggan sits in a small town in County Westmeath in [Ireland](ref:ireland)'s midlands, with Lower Main Street running past the door. The brick chimney is a local landmark; the waterwheel, old mill and warehouses are still in place. In 1757 Matthias McManus obtained a distilling licence here, and the site was first called Brusna Distillery. It survived fire, closure and a community rescue, resumed distillation in 2007, and is now run within Beam Suntory's Cooley operation.
@@ -139,3 +140,9 @@ A frequent error is to treat Kilbeggan Distillery as a brand or a region. Establ
 | Official site | kilbeggandistillery.com |
 
 **Sources and limits.** The key claims about Kilbeggan Distillery are checked against the following sources: Kilbeggan Distillery / Beam Suntory (the 1757 licence, experiences, Warehouse Bar, shop and seasonal opening hours; no text copied; the distillery name, brand and visit entry point; no text copied), Beam Suntory. For current products, addresses or opening status, use kilbeggandistillery.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Ireland](/media/photos/region-ireland-6c11da34.jpg)
+
+Image: Ireland. Credit: Jeff Schmaltz, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ireland_(MODIS).jpg)). Related image for Kilbeggan Distillery.

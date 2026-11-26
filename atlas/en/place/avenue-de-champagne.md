@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:avenue-de-champagne
 source_lang: zh
-source_revision: sha256:2c6d535c258526a7bdf7be9cee52de17c9b7194f8e8b6f185ac2e9061f6b3671
-source_sha256: 2c6d535c258526a7bdf7be9cee52de17c9b7194f8e8b6f185ac2e9061f6b3671
+source_revision: sha256:a9fa07dcf63299d38d45b3348f051e0dfedcdca174001bb4c568f3c069f74959
+source_sha256: a9fa07dcf63299d38d45b3348f051e0dfedcdca174001bb4c568f3c069f74959
 translation_status: reviewed
 subtype: winery-visitor
 address: Avenue de Champagne, 51200 Épernay, France
@@ -161,3 +161,9 @@ Avenue de Champagne is an entry point to [champagne](ref:champagne) as a region,
 Further reading: [Champagne](ref:c-extra-1), [A Ginjinha](ref:c-extra-2).
 
 [Champagne](ref:champagne) and [Why does a drink taste of a place?](ref:process) answer different questions about Avenue de Champagne, Épernay: address and space and operating status. Read them as a pair rather than as alternatives.
+
+## Related images
+
+![Champagne](/media/photos/drink-france-champagne-acf0412f.jpg)
+
+Image: Champagne. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Avenue de Champagne, Épernay.

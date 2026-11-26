@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 塔斯马尼亚
 
 塔斯马尼亚是澳大利亚最南端的岛屿州，地处南纬约 41°–43°，四面被塔斯曼海、巴斯海峡与印度洋环绕；它是澳大利亚一月平均气温最低的葡萄酒产区，以黑皮诺、霞多丽、灰皮诺、雷司令和传统法起泡酒著称，岛内分出塔玛谷、德文特谷、东海岸、煤炭河谷、皮珀斯河、西北与胡恩海峡七个习惯种植片区。
@@ -169,3 +170,13 @@ Pipers Brook 由 Andrew Pirie 于 1974 年创立，是现代产区的早期标�
 - 相关条目：[australia](ref:australia)、[pinot-noir](ref:pinot)、[chardonnay](ref:chardonnay)、[sparkling-wine](ref:sparkling)、[white-wine](ref:white)。
 
 相关条目：[澳大利亚](ref:australia)、[黑皮诺](ref:pinot)、[霞多丽](ref:chardonnay)。
+
+## 相关图像
+
+![起泡酒](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+图：起泡酒。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：塔斯马尼亚。
+
+![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+
+图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：塔斯马尼亚。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:yibin
 source_lang: zh
-source_revision: sha256:0a95c95d63187363bb1549650e70906e8b372a944b9cbcbefeebe2ef46c4a6ee
-source_sha256: 0a95c95d63187363bb1549650e70906e8b372a944b9cbcbefeebe2ef46c4a6ee
+source_revision: sha256:98eda4c4a940dfc028bbe82e6a2c590d98a9649911ce335be6d3a947602102fb
+source_sha256: 98eda4c4a940dfc028bbe82e6a2c590d98a9649911ce335be6d3a947602102fb
 translation_status: reviewed
 level: city
 parent_id: region:sichuan
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. Third-party images are credited in the captions.
 verification_scope: source-verified
 ---
+
 # Yibin
 
 Yibin sits at the southern edge of the Sichuan Basin, where the Jinsha and Min rivers meet near the old city and the combined waterway becomes the Yangtze. That river junction shaped the city's transport history and, in turn, its liquor industry. Grain, qu starters, fuel and finished liquor could move by water and road, and Yibin became a long-standing commercial node in southern Sichuan. Today the city is best known for Wuliangye, but reducing Yibin to a single brand misses its role as a city-level production area in [Sichuan](ref:sichuan).
@@ -139,3 +140,13 @@ Fourth, aroma intensity is not a quality score. Cleanliness, balance and length 
 - For the shared language of strong aroma, read [Strong-aroma baijiu](ref:strong).
 - To compare Sichuan with other production areas, read [Sichuan](ref:sichuan) and [China](ref:china).
 - To place Yibin on a travel route, study Luzhou and the transport options in southern Sichuan before adding Zigong or Leshan.
+
+## Related images
+
+![Sichuan](/media/photos/region-sichuan-a7bd1b99.jpg)
+
+Image: Sichuan. Credit: FISU, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg)). Related image for Yibin.
+
+![Strong-aroma baijiu](/media/photos/drink-style-strong-aroma-baijiu-1c3af236.jpg)
+
+Image: Strong-aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Yibin.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:gujing-town
 source_lang: zh
-source_revision: sha256:c65c610de1c579d448cd5920307ad5b0c342edccbdb1afecfb91c41bced3cf5d
-source_sha256: c65c610de1c579d448cd5920307ad5b0c342edccbdb1afecfb91c41bced3cf5d
+source_revision: sha256:a51ccef37f1c7d88cd22f9c9c25425c30a07b5a5a8d7bf7a578d31a431310c24
+source_sha256: a51ccef37f1c7d88cd22f9c9c25425c30a07b5a5a8d7bf7a578d31a431310c24
 translation_status: reviewed
 subtype: distillery-visitor
 address: Gujing Gongjiu plant, Gujing Town, Qiao District, Bozhou, Anhui, China
@@ -69,25 +69,25 @@ sources:
     title: 古井酒文化博物馆 — 亳州市人民政府
     url: https://www.bozhou.gov.cn/News/show/105123.html
     publisher: 亳州市人民政府
-    note: 用于核对古井酒文化博物馆的建馆、馆舍布局与展陈分区；未复制原文。
+    note: 用于核对古井酒文化博物馆的建馆、馆舍布局与展陈分区；未复制原文.
     accessed: 2026-11-25
   - key: bozhou-wlt
     title: 古井酒文化博物馆 — 亳州市文化旅游体育局
     url: https://wlt.bozhou.gov.cn/News/show/367285.html
     publisher: 亳州市文化旅游体育局
-    note: 用于核对博物馆与博览园的组成、游览点与 4A 级景区信息；未复制原文。
+    note: 用于核对博物馆与博览园的组成、游览点与 4A 级景区信息；未复制原文.
     accessed: 2026-11-25
   - key: gujing-about
     title: 古井集团 — 企业简介
     url: https://gujing.com/about/index.html
     publisher: 安徽古井集团有限责任公司
-    note: 用于核对古井集团沿革、古井镇产区与工业旅游信息；未复制原文。
+    note: 用于核对古井集团沿革、古井镇产区与工业旅游信息；未复制原文.
     accessed: 2026-11-25
   - key: bozhou-fgw
     title: 古井酒文化博览园门票价格收费标准延期的通知
     url: https://fgw.bozhou.gov.cn/News/show/685103.html
     publisher: 亳州市发展和改革委员会
-    note: 用于核对门票最高限价与免票群体的公开记录；价格会调整，未复制原文。
+    note: 用于核对门票最高限价与免票群体的公开记录；价格会调整，未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -103,7 +103,7 @@ Gujing Town in Qiao District, Bozhou, joins plant, culture park and town. Many k
 
 ![Gujing Town (Bozhou) bilingual editorial visual card](/media/figures/specific/place-gujing-town.svg)
 
-图：Gujing Town (Bozhou) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Gujing Town (Bozhou) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers who want strong-aroma baijiu in the context of a northern Anhui liquor town and medicine capital; pairs with Bozhou old town and herb markets.
@@ -161,9 +161,15 @@ This page does not promise every workshop, nor present Gujing as the "only Huang
 
 ## References
 
-- 古井酒文化博物馆 — 亳州市人民政府 — https://www.bozhou.gov.cn/News/show/105123.html (亳州市人民政府, checked 2026-11-25)
-- 古井酒文化博物馆 — 亳州市文化旅游体育局 — https://wlt.bozhou.gov.cn/News/show/367285.html (亳州市文化旅游体育局, checked 2026-11-25)
-- 古井集团 — 企业简介 — https://gujing.com/about/index.html (安徽古井集团有限责任公司, checked 2026-11-25)
-- 古井酒文化博览园门票价格收费标准延期的通知 — https://fgw.bozhou.gov.cn/News/show/685103.html (亳州市发展和改革委员会, checked 2026-11-25)
+- bozhou.gov.cn — official source — https://www.bozhou.gov.cn/News/show/105123.html (checked 2026-11-25)
+- wlt.bozhou.gov.cn — official source — https://wlt.bozhou.gov.cn/News/show/367285.html (checked 2026-11-25)
+- gujing.com — official source — https://gujing.com/about/index.html (checked 2026-11-25)
+- fgw.bozhou.gov.cn — official source — https://fgw.bozhou.gov.cn/News/show/685103.html (checked 2026-11-25)
 
 Related entries: [Gujing Wine Culture Park](ref:museum), [Bozhou Gujing route](ref:route), [Gujing Gongjiu](ref:brand), [Gujing Distillery](ref:producer), [strong-aroma baijiu](ref:style), [Anhui](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Category image for Gujing Wine Culture Museum](/media/photos/region-bozhou-5fcc3ce2.jpg)
+
+Image: Category image for Gujing Wine Culture Museum. Credit: Jeremy Thompson, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bozhou_Railway_Station_(54488765713).jpg)). Related image for Gujing Town (Bozhou).

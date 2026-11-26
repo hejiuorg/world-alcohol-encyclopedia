@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:jerez
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7a9d1a353eb29f4c027782c5be5f28f577787cdb4cced6daaaa8b102c07a7f97
-source_sha256: 7a9d1a353eb29f4c027782c5be5f28f577787cdb4cced6daaaa8b102c07a7f97
+source_revision: sha256:e021a30b0f31d04327118cdb3b86d664eafe43e4f161616b5ec1d3435596f51c
+source_sha256: e021a30b0f31d04327118cdb3b86d664eafe43e4f161616b5ec1d3435596f51c
 level: other
 parent_id: region:spain
 country_code: ES
@@ -89,6 +89,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Jerez
 
 Jerez is a [fortified-wine](ref:fortified-wine) region in southern Cádiz, Andalusia, [Spain](ref:spain), comprising the Jerez-Xérès-Sherry and Manzanilla-Sanlúcar de Barrameda appellations. It is based on Palomino and aged in the solera and criaderas system.
@@ -186,3 +187,13 @@ Fifth, treating solera as a single aged wine. It is a multi-level system of cont
 - [Oak ageing](ref:oak-ageing): the containers used in solera and criaderas.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
 - [Alcohol by volume](ref:abv): what 15%–17% vol means in the biological and oxidative routes.
+
+## Related images
+
+![Fortified wine](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+Image: Fortified wine. Credit: Jon Sullivan, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)). Related image for Jerez.
+
+![Photograph for Spain: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-spain-732e598a.jpg)
+
+Image: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=17458062)). Related image for Jerez.

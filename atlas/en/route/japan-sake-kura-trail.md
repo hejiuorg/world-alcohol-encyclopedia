@@ -111,8 +111,8 @@ stop_ids:
     note: In Kurakake, Nishinomiya, see Hakushika's brewing spaces and vessel collection, and add the Nada transport background.
 mode: rail-walk
 updated_at: 2026-11-08
-source_sha256: 1b8cc4467d8b617f4bfc6419b15b588d7d91fb127dd2cb6547641c3da3eed6d7
-source_revision: sha256:1b8cc4467d8b617f4bfc6419b15b588d7d91fb127dd2cb6547641c3da3eed6d7
+source_sha256: 177ca0f183c6bfa0371630a3af28cfd7e442c00d6ff3634a729fe3844dcdd30d
+source_revision: sha256:177ca0f183c6bfa0371630a3af28cfd7e442c00d6ff3634a729fe3844dcdd30d
 ---
 
 # Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya
@@ -212,3 +212,13 @@ Westwards the route reaches the Nada kura in Kobe; northwards, the kura of north
 - For background, consult the Japan region, sake, whisky and sake-and-shochu entries in the content repository; this route does not register further references.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.
+
+## Related images
+
+![Related photograph of Sake and shochu: both Japanese, but different crafts](/media/photos/article-sake-and-shochu-65c06e42.jpg)
+
+Image: Related photograph of Sake and shochu: both Japanese, but different crafts. Credit: NevinThompson, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Local_sake_and_shochu_on_display_in_a_shop,_Nagasaki,_April_2015.jpg)). Related image for Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya.
+
+![Yamazaki Distillery](/media/photos/place-yamazaki-distillery-4c3f8155.jpg)
+
+Image: Yamazaki Distillery. Credit: Ujigis, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:YamazakiDistillery_01.jpg)). Related image for Japan: from Yamazaki Distillery to the sake kura of Fushimi and Nishinomiya.

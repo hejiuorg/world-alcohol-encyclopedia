@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:margaux
 source_lang: zh
-source_revision: sha256:f818410ea8db3e42fca9e42b760749a1d056d5dd115d19a8ec9101fbceeb39db
-source_sha256: f818410ea8db3e42fca9e42b760749a1d056d5dd115d19a8ec9101fbceeb39db
+source_revision: sha256:8a41d9b4b60058795d9da9d4ec51a59c4105a4cd9c7a63fccb31eebfc7c74b82
+source_sha256: 8a41d9b4b60058795d9da9d4ec51a59c4105a4cd9c7a63fccb31eebfc7c74b82
 translation_status: reviewed
 level: city
 parent_id: region:bordeaux
@@ -83,6 +83,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Image credits and licences are recorded in image-manifest.json.
 verification_scope: source-verified
 ---
+
 # Margaux
 
 Margaux is a red-wine appellation on the left bank of the Gironde, in the southern Médoc of the Gironde department, recognised as an AOC on 10 August 1954. The appellation covers five communes — Margaux, Cantenac, Labarde, Arsac and Soussans — and is known for Cabernet Sauvignon blends with fine perfume and supple tannin grown on gravel rises; the 1855 classification gives it one first growth and five second growths.
@@ -153,3 +154,13 @@ For Margaux, begin with the appellation and its permitted varieties. Then look a
 - [Red wine](ref:red-wine): an overview of still red wine and winemaking.
 - [Terroir](ref:terroir): how soil, slope and microclimate combine into a site.
 - [Oak ageing](ref:oak-ageing): how barrel ageing shapes aroma and tannin.
+
+## Related images
+
+![Terroir](/media/photos/term-terroir-c440d7e4.jpg)
+
+Image: Terroir. Credit: Friedrich Petersdorff, CC BY-SA 2.0 de, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)). Related image for Margaux.
+
+![Photograph for France: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.](/media/photos/q2-region-france-338f007d.jpg)
+
+Image: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.. Credit: Mustang Joe, CC0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/63234672@N04/13180177073)). Related image for Margaux.

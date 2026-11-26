@@ -86,6 +86,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 科隆啤酒
 
 科隆啤酒（Kölsch）是德国科隆的一种淡色、上层发酵、经低温贮酒与过滤的啤酒，酒体轻盈、收口干爽，带细腻果香与清晰酒花苦味。它在工艺上属于艾尔，在感官上却接近拉格，这种上发酵与冷处理的组合是理解它的关键。名称受地理标志保护，并非所有淡色艾尔都能叫 Kölsch。
@@ -147,3 +148,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「科隆啤酒」的关键事实，主要由以下来源交叉核对：Beer Judge Certification Program（科隆啤酒的强度、苦度、色度与发酵描述）、Privatbrauerei Gaffel（1986 年公约、地理范围、上发酵与过滤要求及 Stange 侍酒传统）、Deutscher Brauer-Bund e.V.（德国啤酒种类与地方风格保护的公开表述）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「科隆啤酒」与「啤酒」、「皮尔森啤酒」、「小麦啤酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![赛松](/media/photos/drink-style-saison-bd6e3c18.jpg)
+
+图：赛松。图片：Jmcstrav，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Saison_Dupont.jpg)）。关联图像：科隆啤酒。

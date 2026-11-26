@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY-SA 4.0，署名与许可见正文图注。开放时间、门票与预约方式以景区官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 泸州老窖窖池群
 
 泸州位于长江与沱江交汇处，是四川东南的酒城。国窖广场在江阳区三星街，进门先看到“中国浓香型白酒起源地”的石碑，再往里是明代万历年间的酿酒作坊与成排的发酵窖池。这里不是“把酒摆进玻璃柜”的博物馆，而是仍在出酒的遗址：1573 国宝窖池群自 1573 年持续酿造至今，450 余年没有中断。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 - [王宝和酒家](ref:wang-bao-he)：上海黄酒与蟹宴老字号，另一种中国酒的餐桌。
 
 相关条目：[浓香型白酒](ref:strong-aroma)、[白酒](ref:baijiu)、[水井坊博物馆](ref:shuijingfang)。
+
+## 相关图像
+
+![成都水井坊博物馆](/media/photos/place-shuijingfang-museum-f2fbcdf5.jpg)
+
+图：成都水井坊博物馆。图片：xiquinhosilva，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shujingfang_Museum.jpg)）。关联图像：泸州老窖窖池群。

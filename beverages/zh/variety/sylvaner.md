@@ -80,6 +80,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 西万尼
 
 原产中欧的白葡萄，在阿尔萨斯、德国与奥地利种植；酒体中等、酸度中高，带青苹果、白花、草药与矿物，常被低估。
@@ -135,3 +136,9 @@ DNA 指纹分析显示，西万尼是 Traminer 与名为 Österreichisch-Weiß�
 想把西万尼看明白，最有效的比较是同年份横向喝一支弗兰肯单一园、一支阿尔萨斯 Zotzenberg 与一支莱茵黑森款，记录酸度、果味与矿物的差别。它与 [white-wine](ref:white) 的酿造类型、[terroir](ref:terroir) 层面的坡地风土、[fermentation](ref:fermentation) 工艺选择以及 [chardonnay](ref:chardonnay) 所代表的国际品种参照都可以对照阅读；[alsace](ref:alsace) 产区条目则提供它在法国东北部的种植背景。
 
 - 相关条目：[alsace](ref:alsace)、[white-wine](ref:white)、[terroir](ref:terroir)、[fermentation](ref:fermentation)、[chardonnay](ref:chardonnay)。
+
+## 相关图像
+
+![阿尔萨斯](/media/photos/region-alsace-15887179.jpg)
+
+图：阿尔萨斯。图片：Jorge Franganillo from Barcelona, Spain，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)）。关联图像：西万尼。

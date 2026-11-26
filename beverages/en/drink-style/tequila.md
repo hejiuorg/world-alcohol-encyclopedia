@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:tequila
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:de12a71149133e86f8bd778f6455816d327ba3a9610df55d80ef1c63d98e1507
-source_sha256: de12a71149133e86f8bd778f6455816d327ba3a9610df55d80ef1c63d98e1507
+source_revision: sha256:43cfe4964f8cfb38beb04a4dc5a35dd0086a188f88056be08805626c34045a1c
+source_sha256: 43cfe4964f8cfb38beb04a4dc5a35dd0086a188f88056be08805626c34045a1c
 legacy_refs: []
 aliases:
   - Tequila
@@ -68,6 +68,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions. Regulatory detail should be checked against the current text of NOM-006-SCFI-2012.
 verification_scope: source-verified
 ---
+
 # Tequila
 
 Tequila is a distilled spirit made from blue Weber agave (Agave tequilana Weber var. azul) in designated regions of Mexico. Its flavour comes from the sweetness and vegetal character of cooked agave hearts, and its process relies on four steps: cooking, crushing, fermentation and [distillation](ref:distillation). Mezcal, made from other agave species, is a separate category.
@@ -142,3 +143,9 @@ Fifth, ignoring region and certification. Geographical indication and CRT certif
 - [Oak ageing](ref:oak-ageing): the main source of the difference between reposado and añejo styles.
 - [Rum](ref:rum): another tropical-crop distillate, useful for comparing sweetness and ageing.
 - [Alcohol by volume](ref:abv): the basic concept behind the ABV figure on a label.
+
+## Related images
+
+![The barrel warehouse at Foursquare Rum Distillery, where tropical ageing and cask type shape rum style](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+Image: The barrel warehouse at Foursquare Rum Distillery, where tropical ageing and cask type shape rum style. Credit: Unknown author Unknown author, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)). Related image for Tequila.

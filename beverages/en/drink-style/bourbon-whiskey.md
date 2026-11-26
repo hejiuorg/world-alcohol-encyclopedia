@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:bourbon-whiskey
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5665de8dba06c5645d2f92beac57c8eb19ce353e4c5efcecfd56212a6b27afa4
-source_sha256: 5665de8dba06c5645d2f92beac57c8eb19ce353e4c5efcecfd56212a6b27afa4
+source_revision: sha256:82aa2ced9cc1e7649bc7efe64bd206e52dea56c9b1abc1e99b8b07829ee624a8
+source_sha256: 82aa2ced9cc1e7649bc7efe64bd206e52dea56c9b1abc1e99b8b07829ee624a8
 legacy_refs: []
 aliases:
   - Bourbon
@@ -87,6 +87,7 @@ rights:
   note: The lead image is a photograph from Flickr, “Bulleit Bourbon”, used under CC BY 2.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Bourbon whiskey
 
 “Bourbon whiskey” is the English name of a spirit category and also a commercial name used around the world. This style is about the name: how it is built, where it gets misapplied, and how it relates to neighbouring categories and label vocabulary. The grain recipe, distillation and maturation mechanics belong to the [bourbon](ref:bourbon) entry and are not repeated here.
@@ -150,3 +151,9 @@ Read the category first, then age and strength, then the marketing terms. Neat d
 Further reading: [Abbey beer](ref:c-extra-1).
 
 **In brief:** A page about the name and its market use: how bourbon whiskey layers spelling, geographical indications and label vocabulary on one category, and where it borders Tennessee, rye and blended bourbon.
+
+## Related images
+
+![Cask strength](/media/photos/term-cask-strength-7aa390ff.jpg)
+
+Image: Cask strength. Credit: Paweł Mazurek KRK, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aberlour_A%27bunadh_Batch_59.jpg)). Related image for Bourbon whiskey.

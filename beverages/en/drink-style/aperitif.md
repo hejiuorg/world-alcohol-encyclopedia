@@ -11,8 +11,8 @@ revision: 4
 translation_of: drink-style:aperitif
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:22d964d9cb1b53f6bf5bd4d5c3dbe4aeb666d465b820c1a73f6870108571a3e3
-source_sha256: 22d964d9cb1b53f6bf5bd4d5c3dbe4aeb666d465b820c1a73f6870108571a3e3
+source_revision: sha256:dff3e603384a19d9aff8ac5026ab0f6df45576a40a2c9abd01b6dab400e1ec02
+source_sha256: dff3e603384a19d9aff8ac5026ab0f6df45576a40a2c9abd01b6dab400e1ec02
 legacy_refs: []
 aliases:
   - Apéritif
@@ -63,6 +63,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Aperitif
 
 An aperitif (aperitivo in Italian) is a drink consumed before a meal, whose main purpose is to stimulate the appetite with bitterness, acidity, bubbles or a dry structure rather than to deliver a lot of alcohol. It is defined by the occasion, not by raw material: vermouth, bitter drinks, anise spirits, dry fortified wines and low-alcohol cocktails can all belong to it.![Aperitif image](/media/photos/drink-style-aperitif-7af7d066.jpg)
@@ -123,3 +124,9 @@ For Aperitif, begin with the production rule. Then look at the strength, and fin
 - [Liqueur](ref:liqueur): the category framework for bitter and sweet drinks.
 - [Fortified wine](ref:fortified-wine): the base category for vermouth.
 - [Negroni](ref:negroni): a classic cocktail built on an aperitif skeleton.
+
+## Related images
+
+![Fortified wine](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+Image: Fortified wine. Credit: Jon Sullivan, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)). Related image for Aperitif.

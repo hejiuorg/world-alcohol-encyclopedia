@@ -14,8 +14,8 @@ legacy_refs: []
 translation_of: region:oaxaca
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:22ed755e4157c2b62e22be62517a4609218089065388e569933a023fe102b98b
-source_sha256: 22ed755e4157c2b62e22be62517a4609218089065388e569933a023fe102b98b
+source_revision: sha256:59d4ef3f7187fca67ebe6d3720eb9f4d2f75d6b0cd7b13dd0a2166df79c00b0f
+source_sha256: 59d4ef3f7187fca67ebe6d3720eb9f4d2f75d6b0cd7b13dd0a2166df79c00b0f
 aliases:
   - Oaxaca
   - Oaxaca mezcal region
@@ -132,3 +132,13 @@ First, that mezcal equals Oaxaca; other states produce within the DO. Second, th
 - [Fermentation](ref:fermentation): spontaneous fermentation and flavour precursors.
 - [Distillation](ref:distillation): pot distillation and cuts.
 - [Oak ageing](ref:oak-ageing): barrel ageing in reposado and añejo.
+
+## Related images
+
+![Mezcal](/media/photos/drink-style-mezcal-a77be8ad.jpg)
+
+Image: Mezcal. Credit: ProtoplasmaKid, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg)). Related image for Oaxaca.
+
+![Tequila](/media/photos/drink-style-tequila-827c4596.jpg)
+
+Image: Tequila. Credit: T2O media México, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Paisaje_agavero_de_Jose_Cuervo_en_Tequila,_Jalisco.jpg)). Related image for Oaxaca.

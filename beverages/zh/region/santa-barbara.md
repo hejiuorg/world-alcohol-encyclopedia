@@ -94,6 +94,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 圣巴巴拉
 
 圣巴巴拉县位于加州中央海岸南部，山脉东西走向，把太平洋雾气与凉风引入内陆；圣丽塔山、圣伊内斯谷、巴拉德峡谷、快乐峡谷等子产区以黑皮诺、霞多丽与西拉著称，全县 1983 年获 AVA，是加州冷凉气候讨论的核心地带之一。
@@ -167,3 +168,13 @@ verification_scope: source-verified
 对照阅读：[美国](ref:usa)、[霞多丽](ref:chardonnay)。
 
 相关条目：[黑皮诺](ref:pinot)。
+
+## 相关图像
+
+![美国类别配图](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+图：美国类别配图。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：圣巴巴拉。
+
+![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+图：黑皮诺。图片：Cjp24，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)）。关联图像：圣巴巴拉。

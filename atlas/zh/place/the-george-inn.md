@@ -85,6 +85,7 @@ rights:
 city: 伦敦
 verification_scope: source-verified
 ---
+
 # 乔治客栈
 
 ![乔治客栈实景照片](/media/photos/q2-place-the-george-inn-ec116f6f.jpg)
@@ -142,3 +143,9 @@ verification_scope: source-verified
 | 官网 | nationaltrust.org.uk |
 
 **来源与边界。** 本页关于「乔治客栈」的关键事实，主要由以下来源交叉核对：National Trust（地址、17 世纪建筑、1676 年火灾、伦敦仅存廊式客栈、狄更斯与《小杜丽》、出租经营状态）、Greene King（营业时间、餐饮供应、预订建议、宠物与家庭友好信息）、Guide London（客栈庭院演戏传统、1676 年建筑与南岸客栈背景）等 4 条来源。产品、地址或营业状态变化较快时，以 nationaltrust.org.uk 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![英国类别配图](/media/photos/route-london-gin-route-abe0a9c8.jpg)
+
+图：英国类别配图。图片：Decatur Wine & Spirits，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)）。关联图像：乔治客栈。

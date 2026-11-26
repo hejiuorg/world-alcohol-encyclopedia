@@ -58,6 +58,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 开胃酒
 
 开胃酒（aperitif / aperitivo）指正餐前饮用的酒饮，核心目的是用苦味、酸度、气泡或干型结构刺激食欲，而不是提供大量酒精。它按饮用场景划分，而不是按原料划分：味美思、苦味酒、茴香酒、干型加强酒与低酒精鸡尾酒都可以归入这个类别。
@@ -120,3 +121,9 @@ verification_scope: source-verified
 - [利口酒](ref:liqueur)：苦味酒与甜味酒的类别框架。
 - [加强葡萄酒](ref:fortified-wine)：味美思的基酒类别。
 - [内格罗尼](ref:negroni)：以开胃酒为骨架的经典鸡尾酒。
+
+## 相关图像
+
+![一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。](/media/photos/cocktail-negroni-52212d3c.jpg)
+
+图：一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。。图片：Sudhertzen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Negroni_(cocktail).jpg)）。关联图像：开胃酒。

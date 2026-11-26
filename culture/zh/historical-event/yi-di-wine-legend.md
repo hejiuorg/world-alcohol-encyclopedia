@@ -86,6 +86,7 @@ rights:
   note: 第三方整理本、注释、译本、图片与数据库页面不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 仪狄造酒传说：文献里的“始作酒醪”与说不清的时代
 
 仪狄是中国古文献里最早被点名的酿酒者之一。《世本》《吕氏春秋》《战国策》《说文解字》都把“作酒”或“作酒醪”记在他的名下，还附上禹饮而甘之、随后疏远仪狄的故事。这些文本成书于战国至东汉，距传说所指的夏禹时期已隔一两千年，因此它更像古人对酿酒起源的一种解释，而不是能够断代的发明事件。
@@ -158,3 +159,9 @@ verification_scope: source-verified
 - [黄酒](ref:yellow-wine)：酒醪与后世谷物酒的工艺关系。
 - [黄酒史](ref:yellow-wine-history)：从浊酒到现代黄酒的演变。
 - [中国](ref:china)：中国酒类的产区与品类背景。
+
+## 相关图像
+
+![黄酒](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+图：黄酒。图片：udono，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)）。关联图像：仪狄造酒传说：文献里的“始作酒醪”与说不清的时代。

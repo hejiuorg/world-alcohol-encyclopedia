@@ -21,8 +21,8 @@ tags:
 translation_of: variety:marsanne
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4c44bb7db4f554db6c61a96b2b6e1bf3aead335b2a11282adb97f47f237219d6
-source_sha256: 4c44bb7db4f554db6c61a96b2b6e1bf3aead335b2a11282adb97f47f237219d6
+source_revision: sha256:8667608d1ccdc25650e1a9813a960857042b9d758345f5e968f8e4b37599e9f1
+source_sha256: 8667608d1ccdc25650e1a9813a960857042b9d758345f5e968f8e4b37599e9f1
 related:
   - relation: about
     target_id: region:rhone
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Marsanne
 
 A white grape of the Northern Rhône, usually blended with Roussanne; full-bodied, low in acidity, with honey, beeswax, nuts and white flowers, rounder with age, and the main variety of Hermitage white.
@@ -152,3 +153,9 @@ Compare Marsanne and Roussanne from the same appellation and vintage, then a Her
 The northern Rhône and white-wine categories are the nearest useful references: one fixes the grape’s home and blending tradition, the other provides the broader frame for texture, acidity and ageing.
 
 Marsanne is the main white grape of Hermitage and appears with Roussanne in Crozes-Hermitage and Saint-Joseph; on the granite hill of Hermitage it can carry a single-variety wine of unusual weight. The grape accumulates sugar quickly and loses acidity late, so picking date matters more than in cooler white varieties. Old-vine Marsanne from Hermitage and Saint-Joseph can age for years, gaining beeswax, honey and hazelnut while the fruit recedes. In Australia, Marsanne is planted in the Yarra Valley and Goulburn Valley, often blended with Roussanne or Viognier; the warm climate gives riper stone fruit but less of the Rhône's mineral cut. A label that names Marsanne alone is rare, so check the blend before judging the variety.
+
+## Related images
+
+![Roussanne: Roussanne (Wikimedia Commons)](/media/photos/variety-roussanne-68283587.jpg)
+
+Image: Roussanne: Roussanne (Wikimedia Commons). Credit: Jules Troncy, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Roussanne.jpg)). Related image for Marsanne.

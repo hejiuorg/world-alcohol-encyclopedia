@@ -99,6 +99,7 @@ stop_ids:
 mode: walk-and-taxi
 updated_at: 2026-11-08
 ---
+
 # 伦敦经典酒吧步行路线
 
 这条路线把伦敦的四间“喝一杯”的地方排成一个傍晚到夜间的顺序：先从萨沃伊酒店的美式酒吧开始，再到梅费尔的康诺特酒吧，随后走进圣詹姆斯的杜克斯酒吧，最后以舰队街的柴郡奶酪酒馆收尾。前三站都是酒店酒吧，各自代表一种不同的待客方式；最后一站是仍在营业的历史酒馆。把它们放在同一条线里，看的不是“哪杯最好喝”，而是伦敦如何用空间、礼仪与酒单来区分不同的喝酒场合。
@@ -236,3 +237,13 @@ updated_at: 2026-11-08
 相关条目：[萨沃伊美式酒吧](ref:american-bar)、[康诺特酒吧](ref:connaught)、[杜克斯酒吧](ref:dukes)。
 
 伦敦经典酒吧步行的各店营业时间、菜单与预约规则不同；出发前查各店官网，临时活动以店内公告为准。核验于 2026-11-08。
+
+## 相关图像
+
+![康诺特酒吧](/media/photos/place-the-connaught-bar-a9a51824.jpg)
+
+图：康诺特酒吧。图片：Herry Lawford from Stockbridge, UK，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mount_St_(3768612442).jpg)）。关联图像：伦敦经典酒吧步行路线。
+
+![杜克斯酒吧](/media/photos/place-dukes-bar-d9c0fb94.jpg)
+
+图：杜克斯酒吧。图片：Ricardalovesmonuments，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hotel_Dukes_London.jpg)）。关联图像：伦敦经典酒吧步行路线。

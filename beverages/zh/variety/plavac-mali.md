@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 普拉瓦茨马里
 
 克罗地亚达尔马提亚海岸的红葡萄，由 Tribidrag（即仙粉黛）与 Dobričić 杂交而来；高单宁、高酒精、带黑莓、干果与香料，Dingač 是核心产区。
@@ -143,3 +144,9 @@ Dingač 是最核心的法定产区：1961 年成为克罗地亚第一个受保�
 - 相关条目：[zinfandel](ref:zinfandel)、[red-wine](ref:red)、[terroir](ref:terroir)、[oak-ageing](ref:oak)、[vintage](ref:vintage)。
 
 对照阅读：[仙粉黛](ref:zinfandel)、[风土（terroir）](ref:terroir)。
+
+## 相关图像
+
+![仙粉黛](/media/photos/variety-zinfandel-8a623213.jpg)
+
+图：仙粉黛。图片：Frank Schulenburg，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ripe_Zinfandel_grapes_in_Dry_Creek_Valley-8958.jpg)）。关联图像：普拉瓦茨马里。

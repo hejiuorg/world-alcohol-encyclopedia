@@ -161,3 +161,9 @@ verification_scope: source-verified
 - 古井酒文化博览园门票价格收费标准延期的通知 — https://fgw.bozhou.gov.cn/News/show/685103.html（亳州市发展和改革委员会，核对 2026-11-25）
 
 相关条目：[古井酒文化博览园](ref:museum)、[亳州古井路线](ref:route)、[古井贡酒](ref:brand)、[古井集团](ref:producer)、[浓香型白酒](ref:style)、[安徽省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![安徽古井贡酒股份有限公司相关实景照片](/media/photos/producer-gujing-distillery-ef9d4a5d.jpg)
+
+图：安徽古井贡酒股份有限公司相关实景照片。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gujing_Gongjiu_at_a_supermarket_in_Beijing_(20241109164639).jpg)）。关联图像：古井镇（亳州）。

@@ -89,6 +89,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY-SA 4.0，署名与许可见正文图注。营业时间、价格与蟹季安排以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 王宝和酒家
 
 福州路靠近浙江中路的一段，是上海老书店、老饭店与老字号最密集的区域之一。603 号的王宝和酒家，门面挂着蟹与酒的招牌，里面是江南水乡风格的木饰、圆桌与包房。它始于 1744 年，是上海最早的一批酒家之一；今天人们来这里，多半为了两件事：王宝和黄酒，与大闸蟹。
@@ -165,3 +166,9 @@ verification_scope: source-verified
 - [酒吧与城市](ref:pub-and-city)：酒家与酒馆如何用空间、菜单与营业时间组织城市生活。
 
 相关条目：[黄酒](ref:yellow-wine)、[米酒](ref:rice-wine)、[泸州老窖窖池群](ref:luzhou)。
+
+## 相关图像
+
+![泸州老窖酒厂的传统蒸馏器具](/media/photos/place-luzhou-laojiao-cellars-0e97e137.jpg)
+
+图：泸州老窖酒厂的传统蒸馏器具。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)）。关联图像：王宝和酒家。

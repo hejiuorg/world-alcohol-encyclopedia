@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 胡珊
 
 北罗讷河谷的白葡萄，带白花、杏仁、蜂蜜与草药香气，酸度比玛珊高、产量低；常与玛珊混酿，也在萨伏依与朗格多克种植。
@@ -151,3 +152,9 @@ verification_scope: source-verified
 | 一句话定位 | 北罗讷河谷的白葡萄，带白花、杏仁、蜂蜜与草药香气，酸度比玛珊高、产量低；常与玛珊混酿，也在萨伏依与朗格多克种植 |
 | 物种 | Vitis vinifera |
 | 代表产区 | 罗讷河谷 |
+
+## 相关图像
+
+![Marsanne：Marsanne - inflorescence（Wikimedia Commons）](/media/photos/variety-marsanne-a4a3b08f.jpg)
+
+图：Marsanne：Marsanne - inflorescence（Wikimedia Commons）。图片：Marianne Casamance，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Marsanne_-_inflorescence.jpg)）。关联图像：胡珊。

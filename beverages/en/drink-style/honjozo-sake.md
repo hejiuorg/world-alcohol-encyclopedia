@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:honjozo-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:68c1a9af84d528c757bcdf907c8ad45b0778a5d7140b7b60575426894c678e8d
-source_sha256: 68c1a9af84d528c757bcdf907c8ad45b0778a5d7140b7b60575426894c678e8d
+source_revision: sha256:53dfae539da7cd0a15e17dcd41900dcbdaefacb511d7bcb28f8d28b55dbfe401
+source_sha256: 53dfae539da7cd0a15e17dcd41900dcbdaefacb511d7bcb28f8d28b55dbfe401
 legacy_refs: []
 aliases:
   - Honjozo
@@ -85,6 +85,7 @@ rights:
   note: The lead image is a photograph of Tokusen Masumi honjozo from Wikimedia Commons, used under CC BY-SA 4.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Honjozo sake
 
 Honjozo is one of the eight tokutei meisho categories of [sake](ref:sake), often summed up with the phrase "sake with added alcohol". That is only half the story. It does allow brewing alcohol, but the addition has a legal ceiling, and there are also thresholds for polishing and koji rice. Read the three conditions together and honjozo becomes a complete category rather than a watered-down junmai.
@@ -166,3 +167,9 @@ Honjozo adds a small amount of distilled brewing alcohol, which lifts aroma and 
 - [Koji making](ref:qu-making): the role of rice koji in saccharification.
 - [Alcohol by volume](ref:abv): a basic measure for comparing sake strength.
 - [Japan](ref:japan): the regional and national background.
+
+## Related images
+
+![Related photograph of Junmai sake](/media/photos/drink-style-junmai-sake-c56e7eb1.jpg)
+
+Image: Related photograph of Junmai sake. Credit: Nisiguti, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Matsui_Sake_Brewery%27s_Sake_20211122.jpg)). Related image for Honjozo sake.

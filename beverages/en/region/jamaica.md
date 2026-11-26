@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:jamaica
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0f7426aeffaf4867a6a1b32ffd3bccd2725d7f282c077c6563692053ac4ba4b5
-source_sha256: 0f7426aeffaf4867a6a1b32ffd3bccd2725d7f282c077c6563692053ac4ba4b5
+source_revision: sha256:51635716e38dcb4889c661fb4ff96e3f63d908b6c379bad58fae94ab1ee1f5a4
+source_sha256: 51635716e38dcb4889c661fb4ff96e3f63d908b6c379bad58fae94ab1ee1f5a4
 level: country
 country_code: JM
 legacy_refs: []
@@ -72,6 +72,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions. The current status of geographical indications should be checked against official notices.
 verification_scope: source-verified
 ---
+
 # Jamaica
 
 Jamaica is a Caribbean island country and one of the most important [rum](ref:rum) regions. It uses molasses, long fermentation and pot distillation to make high-ester, heavy spirits with intense fruit and solvent notes, a style often called funky; it also makes lighter white rum for mixing.![Jamaica category image](/media/photos/place-appleton-estate-b81db790.jpg)
@@ -154,3 +155,13 @@ For Jamaica, this region was last checked in 2026; prices, batches and availabil
 - [Fermentation](ref:fermentation): the technical basis for long fermentation and ester formation.
 - [Distillation](ref:distillation): how pot and column stills shape body.
 - [Oak ageing](ref:oak-ageing): the source of colour and flavour in aged rum.
+
+## Related images
+
+![The barrel warehouse at Foursquare Rum Distillery, where tropical ageing and cask type shape rum style](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+Image: The barrel warehouse at Foursquare Rum Distillery, where tropical ageing and cask type shape rum style. Credit: Unknown author Unknown author, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)). Related image for Jamaica.
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for Jamaica.

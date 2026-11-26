@@ -102,6 +102,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 中奥塔哥
 
 中奥塔哥（Central Otago）是新西兰最南端的葡萄酒产区，也是世界上最靠南的商业葡萄酒产区之一。它位于南岛内陆，以 Pinot Noir 著称，山地、湖泊与半大陆性气候共同塑造了浓郁而结构清晰的风格。
@@ -196,3 +197,13 @@ Pinot Noir 适合禽肉、蘑菇、三文鱼与清淡红肉；Riesling 适合海
 - [年份](ref:vintage)：中奥塔哥的年份差异与霜冻风险。
 - [单一品种](ref:single-varietal)：85% 品种标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![雷司令](/media/photos/variety-riesling-a836132e.jpg)
+
+图：雷司令。图片：No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)）。关联图像：中奥塔哥。
+
+![白葡萄酒类型示意图](/media/photos/theme-wine-spirits.jpg)
+
+图：白葡萄酒类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：中奥塔哥。

@@ -22,8 +22,8 @@ tags:
 translation_of: variety:zweigelt
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:04821330b09182cb0095fc1b35ba4efc7dee109596e6fa8e4d7c4b5458358ec4
-source_sha256: 04821330b09182cb0095fc1b35ba4efc7dee109596e6fa8e4d7c4b5458358ec4
+source_revision: sha256:9d7351d8e146bcc5bf98fadf4120333fadb606813cc4ab82df19cdc69484d091
+source_sha256: 9d7351d8e146bcc5bf98fadf4120333fadb606813cc4ab82df19cdc69484d091
 related:
   - relation: about
     target_id: variety:blaufrankisch
@@ -166,3 +166,9 @@ Planting area, clones and overseas plantings keep updating with variety surveys;
 - Related: [blaufrankisch](ref:blaufrankisch), [st-laurent](ref:st-laurent), [red-wine](ref:red), [terroir](ref:terroir), [oak-ageing](ref:oak).
 
 To read Zweigelt, start with where it is grown, then how it is labelled, then whether the style is dry or sweet; no single check settles it.
+
+## Related images
+
+![St. Laurent: HBLA Klosterneuburg St Laurent 1 (Wikimedia Commons)](/media/photos/variety-st-laurent-f4032c75.jpg)
+
+Image: St. Laurent: HBLA Klosterneuburg St Laurent 1 (Wikimedia Commons). Credit: Geolina163 + 1971markus, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_St_Laurent_1.jpg)). Related image for Zweigelt.

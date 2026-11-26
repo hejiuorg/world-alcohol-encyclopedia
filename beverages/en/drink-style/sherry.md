@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:sherry
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1ac038857455fb3bd50d35c0764d332ffda6b2922ae28a574ecbe17a4cd47127
-source_sha256: 1ac038857455fb3bd50d35c0764d332ffda6b2922ae28a574ecbe17a4cd47127
+source_revision: sha256:20ace8dbeab4c266e5353fcfe81b2b9264dfe83afaca45adc3488f00564b8b10
+source_sha256: 20ace8dbeab4c266e5353fcfe81b2b9264dfe83afaca45adc3488f00564b8b10
 legacy_refs: []
 parent_style_id: drink-style:fortified-wine
 aroma_family: Oxidative / nutty / yeast
@@ -189,3 +189,9 @@ First, that all Sherry is sweet. Fino, Manzanilla, Amontillado and Oloroso can a
 - [Flor](ref:flor): the yeast film behind biological ageing.
 - [Palomino](ref:palomino): the main Sherry grape.
 - [Jerez](ref:jerez): the appellation and its terroir.
+
+## Related images
+
+![Palomino](/media/photos/variety-palomino-297a2bd4.jpg)
+
+Image: Palomino. Credit: (a friend of) Kvetina-Marie, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mare_and_foal_(Kvetina-Marie).jpg)). Related image for Sherry.

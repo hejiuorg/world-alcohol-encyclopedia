@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:kentucky-bourbon-trail
 source_lang: zh
-source_revision: sha256:a002ad044b0277e852a06a13e6136e7c951a773f704ec5d1b3bcb10c5cbf1eef
-source_sha256: a002ad044b0277e852a06a13e6136e7c951a773f704ec5d1b3bcb10c5cbf1eef
+source_revision: sha256:4035a79efffb1960af399584175738193b9cdf4c8d2f0593980849bcc49d61de
+source_sha256: 4035a79efffb1960af399584175738193b9cdf4c8d2f0593980849bcc49d61de
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -151,3 +151,13 @@ Opening hours, bookings and transport are subject to official channels; page ver
 Kentucky bourbon trail is best read by starting with the order of stops, moving to the distance and opening hours, and ending with whether it works as a fixed itinerary.
 
 Start with [Buffalo Trace Distillery](ref:buffalo-trace) for stop order, then read [Maker's Mark Distillery](ref:makers-mark) for transport. Seeing both keeps Kentucky bourbon trail from being confused with a neighbouring idea.
+
+## Related images
+
+![Buffalo Trace Distillery](/media/photos/place-buffalo-trace-distillery-34f70545.jpg)
+
+Image: Buffalo Trace Distillery. Credit: Kittugwiki, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Buffalo_Trace_Tower.jpg)). Related image for Kentucky bourbon trail: Frankfort, Bardstown and Loretto.
+
+![Photograph for Maker's Mark Distillery: Toll Booth at Maker's Mark Distillery. Credit: SeeMidTN.com (aka Brent), CC BY 2.0, via Flickr / Openverse.](/media/photos/q2-place-makers-mark-distillery-c4b1844f.jpg)
+
+Image: Toll Booth at Maker's Mark Distillery. Credit: SeeMidTN.com (aka Brent), CC BY 2.0, via Flickr / Openverse.. Credit: SeeMidTN.com (aka Brent), CC BY 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/94502827@N00/272886546)). Related image for Kentucky bourbon trail: Frankfort, Bardstown and Loretto.

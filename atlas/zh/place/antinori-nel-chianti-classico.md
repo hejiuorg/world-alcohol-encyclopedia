@@ -95,6 +95,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览、餐厅与价格会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 安东尼世家经典基安蒂酒庄
 
 从佛罗伦萨向南，沿 SS2 公路进入 San Casciano Val di Pesa 的丘陵，Bargino 一带的葡萄园之间会出现两条细长的水平切口。那不是普通的挡土墙，而是安东尼世家经典基安蒂酒庄露在地表的部分：大部分体量埋在山坡里，参观者从切口进入，沿螺旋楼梯向下，穿过发酵、陈酿与品鉴空间。它既是生产设施，也是安东尼家族在经典基安蒂产区的接待中心。
@@ -156,3 +157,9 @@ verification_scope: source-verified
 - 托斯卡纳对照：[比昂迪-桑蒂](ref:biondi)、[布罗利奥城堡](ref:brolio)、[费尔西纳庄园](ref:felsina)、[经典基安蒂路线](ref:route)。
 - 背景阅读：[托斯卡纳产区](ref:tuscany)。
 - 本页不提供地图；开放时间、导览与餐厅信息以官方渠道为准。
+
+## 相关图像
+
+![经典基安蒂路线：从佛罗伦萨到三座酒庄相关实景照片](/media/photos/route-tuscany-chianti-classico-3cc80987.jpg)
+
+图：经典基安蒂路线：从佛罗伦萨到三座酒庄相关实景照片。图片：FranzKafka2000，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chianti_Classico_example_bottle_-_Annata_type.jpg)）。关联图像：安东尼世家经典基安蒂酒庄。

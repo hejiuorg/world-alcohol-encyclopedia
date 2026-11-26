@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:spain
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:13c9b1ad0254a958cebcd303e4e11c72463aa6f0ef5aeecee8c920ca1d3671ad
-source_sha256: 13c9b1ad0254a958cebcd303e4e11c72463aa6f0ef5aeecee8c920ca1d3671ad
+source_revision: sha256:5318a394a7c970689d9831af448165644178a43ff9d046f200b5558023a57a34
+source_sha256: 5318a394a7c970689d9831af448165644178a43ff9d046f200b5558023a57a34
 level: country
 country_code: ES
 legacy_refs: []
@@ -86,6 +86,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Spain
 
 Spain is a major wine-producing country in southern Europe, with extensive vineyards and many levels of appellation. Its drinks landscape includes Rioja reds centred on Tempranillo, Cava sparkling wine, Jerez fortified wines and white wines from Galicia. Understanding Spain means looking at varieties, regions, classification and ageing traditions together.
@@ -183,3 +184,13 @@ The comparison with [Wine](ref:wine) and [White wine](ref:white-wine) runs throu
 - [Tempranillo](ref:tempranillo): the core variety of Rioja and Ribera del Duero.
 - [Garnacha](ref:grenache): a common variety in north-east and southern Spain.
 - [Oak ageing](ref:oak-ageing): the barrel tradition of Rioja reds.
+
+## Related images
+
+![Photograph for Tempranillo: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-tempranillo-186ba329.jpg)
+
+Image: Tempranillo grapes from Rioja Alavesa. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons.. Credit: María Jesús Tomé, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=16191821)). Related image for Spain.
+
+![Sparkling wine](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+Image: Sparkling wine. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Spain.

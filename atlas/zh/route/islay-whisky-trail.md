@@ -103,6 +103,7 @@ stop_ids:
 mode: walk-bus
 updated_at: 2026-11-08
 ---
+
 # 艾雷岛路线：南岸泥煤威士忌三家酒厂
 
 艾雷岛南岸有一条很朴素的路线：从 Port Ellen 出发，沿着海岸向东，先到 Lagavulin，再到 Ardbeg，最后到 Laphroaig。三家酒厂之间由一条步道相连，走路大约三到四小时，开车则只要十几分钟。真正值得花时间的不是“打卡三家”，而是同一个海湾里，三家酒厂如何用不同的麦芽处理、蒸馏节奏与仓库位置，做出三种不同的泥煤。
@@ -212,3 +213,13 @@ Lagavulin 的关键词是“慢”。它的蒸馏器运行得慢，回流多，�
 - 想继续读背景，可在内容仓中查阅艾雷岛产区、苏格兰威士忌与“产地与工艺”条目；本页不再重复登记引用。
 
 艾雷岛南岸三家酒厂之间车程不短，渡轮、参观场次与品鉴预约要分别确认；本页不画示意地图，精确导航用实时地图与现场标识。核验于 2026-11-08。
+
+## 相关图像
+
+![乐加维林蒸馏厂](/media/photos/place-lagavulin-distillery-c79279a4.jpg)
+
+图：乐加维林蒸馏厂。图片：Charlie Marshall，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)）。关联图像：艾雷岛路线：南岸泥煤威士忌三家酒厂。
+
+![阿贝蒸馏厂相关实景照片](/media/photos/place-ardbeg-distillery-1e249969.jpg)
+
+图：阿贝蒸馏厂相关实景照片。图片：Rappilio，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ardbeg_whiskybrennerei_islay_schottland_16.06.2007.JPG)）。关联图像：艾雷岛路线：南岸泥煤威士忌三家酒厂。

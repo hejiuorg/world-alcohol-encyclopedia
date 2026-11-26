@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:angelo-gaja
 source_lang: zh
-source_revision: sha256:43bfd729d62cb6383647da69159abcb470295c468c2f04111f3a21bd4e1a8acb
-source_sha256: 43bfd729d62cb6383647da69159abcb470295c468c2f04111f3a21bd4e1a8acb
+source_revision: sha256:4b3ee49c87533ea8f66e31b4b0eea5b2fc0d2f911f1444d2ae6635078ae0ea01
+source_sha256: 4b3ee49c87533ea8f66e31b4b0eea5b2fc0d2f911f1444d2ae6635078ae0ea01
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1940
@@ -67,6 +67,18 @@ sources:
     publisher: Oxford University Press
     note: Used to check Barbaresco DOCG, Langhe DOC, Nebbiolo and the background of the 1996 declassification; no source text is reproduced.
     accessed: 2026-11-20
+  - key: gaja-official
+    title: "GAJA — official website"
+    url: "https://www.gaja.com/"
+    publisher: "GAJA"
+    note: "Used to check the estate address, family and brand information; no text copied."
+    accessed: 2026-11-26
+  - key: langhevini-barbaresco
+    title: "Barbaresco DOCG — Consorzio Barolo e Barbaresco"
+    url: "https://www.langhevini.it/en/"
+    publisher: "Consorzio di Tutela Barolo Barbaresco Alba Langhe e Dogliani"
+    note: "Used to check the DOCG zone, variety and ageing rules; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -122,6 +134,36 @@ Fifth, Gaja's high prices do not mean every bottle is worth buying. The range in
 Gaja connects three threads. The first is the regional history of [Piedmont](ref:piedmont): Barbaresco, Barolo, Nebbiolo, Langhe DOC and the 1996 declassification. The second is the craft of [wine](ref:wine): yield control, green harvest, small oak, single vineyards and cross-regional branding. The third is the geography of [Italy](ref:italy): Piedmont, Montalcino and Bolgheri, and the stylistic divide between north and south.
 
 To follow the traditionalist-modernist conflict, compare Barolo's traditional and modern schools. To follow how single vineyards change markets, read Burgundy's climats. To follow how a family estate expands across regions, read Gaja's Montalcino and Bolgheri purchases. Angelo is not an isolated reformer; he is a key node in the internationalisation of twentieth-century Italian wine.
+
+
+## Decision table: key dates for Gaja
+
+| Year | Event | What it means for a reader |
+| --- | --- | --- |
+| 1859 | Giovanni Gaja founds the estate in Barbaresco | the family winery begins |
+| 1961 | Angelo Gaja takes over | lower yields, later picking and green harvest begin |
+| 1967 / 1970 / 1978 | Sorì San Lorenzo, Sorì Tildìn and Costa Russi are first bottled separately | single vineyards become comparable wines |
+| 1996 | three single vineyards move from Barbaresco DOCG to Langhe DOC | non-Nebbiolo plantings trigger the traditional/modern dispute |
+| 1994 / 1996 | acquisitions in Montalcino and Bolgheri | a Piedmont estate becomes a multi-region brand |
+
+When reading a Gaja label, first check whether it is Barbaresco DOCG or Langhe DOC, then the vineyard and vintage; “Gaja” is not one single product.
+
+## Frequently asked questions
+
+### What did Angelo Gaja actually change?
+
+The core was ripeness and structure: lower yields, later picking and green harvest gave Nebbiolo enough fruit to carry French oak; temperature-controlled fermentation and single-vineyard bottling made site differences comparable. He did not simply use new barrels; he changed the grapes first, then the container.
+
+### Did the 1996 declassification make the wine worse?
+
+No. The estate had planted small amounts of non-Nebbiolo varieties, which Barbaresco DOCG does not allow. Rather than mislabel the contents, he reclassified the wines as Langhe DOC. Quality did not fall; the legal identity changed.
+
+### Which Gaja wine should I choose?
+
+Start with a base Barbaresco to set a benchmark, then compare a single vineyard. If buying a Sorì wine after 1996, check whether the label says DOCG or Langhe DOC. On a limited budget, do not start with the most expensive cru.
+
+> **Next:** Read [Barbaresco](ref:barbaresco) for the appellation rules, then [Nebbiolo](ref:nebbiolo) for variety character; to compare another producer in the same zone, read [Giacomo Conterno](ref:conterno).
+
 
 ## See also
 

@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 阿玛雷托
 
 阿玛雷托（amaretto）是意大利杏仁风味的甜利口酒，名字来自意大利语 amaro（苦），指果核原料带来的微苦尾韵；常用杏核、苦杏仁或桃核浸渍，带杏仁、香草、焦糖与花香，酒精度通常 21–28%，可纯饮、加冰或调入咖啡与鸡尾酒。
@@ -149,3 +150,9 @@ Disaronno Originale 是全球最知名的阿玛雷托，产自伦巴第萨罗诺
 学习一类利口酒，可以先喝最标准的基准款，再试一个换原料或甜度的变体，最后接触一个风格极端的款式；三步之后，风格边界会比读定义更清楚。
 
 - 相关条目：[liqueur](ref:liqueur)、[italy](ref:italy)、[maceration](ref:maceration)、[distillation](ref:distillation)、[proof-and-abv](ref:proof)。
+
+## 相关图像
+
+![Old Rip Van Winkle 波本酒瓶与标签；标签是酒精度/Proof 标示的实际载体，不是比重计或测量仪器](/media/photos/term-proof-and-abv-bfb3bc09.jpg)
+
+图：Old Rip Van Winkle 波本酒瓶与标签；标签是酒精度/Proof 标示的实际载体，不是比重计或测量仪器。图片：Joe Hall from Oakland, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Old_Rip_Van_Winkle_Whiskey_301243232.jpg)）。关联图像：阿玛雷托。

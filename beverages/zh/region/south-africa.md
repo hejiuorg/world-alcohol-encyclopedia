@@ -89,6 +89,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 南非
 
 南非是非洲最大的葡萄酒生产国，葡萄园集中在西开普（Western Cape）沿海与山间谷地，以 Stellenbosch、Chenin Blanc 与 Pinotage 最具代表性。
@@ -179,3 +180,13 @@ Chenin Blanc 清爽型建议 8–10 摄氏度，橡木桶型建议 10–12 摄�
 - [年份](ref:vintage)：南非的年份差异与干旱影响。
 - [单一品种](ref:single-varietal)：南非的品种比例与酒标标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![酸度（acidity）](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+图：酸度（acidity）。图片：Chemicalinterest，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)）。关联图像：南非。
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：南非。

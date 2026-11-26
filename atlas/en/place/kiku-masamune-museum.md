@@ -89,9 +89,10 @@ verification_scope: source-verified
 translation_of: place:kiku-masamune-museum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3a90dec3da625a0445fc27fea3865e73234b9ee4bb9217bb443b3508f8051f7f
-source_sha256: 3a90dec3da625a0445fc27fea3865e73234b9ee4bb9217bb443b3508f8051f7f
+source_revision: sha256:2045c8c32bdfcfdf105da52e48e0d0f74768df86e8cf4ae27319998dc5601b77
+source_sha256: 2045c8c32bdfcfdf105da52e48e0d0f74768df86e8cf4ae27319998dc5601b77
 ---
+
 # Kiku-Masamune Sake Brewery Museum
 
 From Hanshin Uozaki Station, follow the Sumiyoshi River promenade south and the white walls and dark wooden lattice windows of the sake breweries gradually appear. Kiku-Masamune’s museum sits beside the Uozaki-nishimachi production site. It is free, but it is not a corporate exhibition hall full of trophies and advertising: it lays out the tools, yeast, barrels, rice and water of Nada sake in layers, so you can see the physical work behind a glass of dry sake.
@@ -162,3 +163,9 @@ Eastern Kobe is not car-friendly for brewery hopping; the Hanshin and Rokko line
 - Museum homepage: <https://www.kikumasamune.co.jp/kinenkan/>, for “since Manji 2 (1659), more than 360 years,” kimoto and overall positioning.
 - Taru Sake Meister Factory Chinese page: <https://www.kikumasamune.co.jp/tarusake-mf/zh-cn.html>, for the workshop’s nature, Yoshino cedar coopering, tour times, capacity, booking and safety rules.
 - Sake route comparisons: [Hakutsuru Sake Brewery Museum](ref:hakushika), [Gekkeikan Okura Sake Museum](ref:gekkeikan), [Kamotsuru](ref:kamotsuru), [Kamoizumi](ref:kamoizumi), [Japan sake brewery route](ref:route).
+
+## Related images
+
+![Related photograph of Hakushika Memorial Museum of Sake](/media/photos/place-hakushika-sake-museum-47d034a5.jpg)
+
+Image: Related photograph of Hakushika Memorial Museum of Sake. Credit: 663highland, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hakushika_Memorial_Museum02st3200.jpg)). Related image for Kiku-Masamune Sake Brewery Museum.

@@ -32,8 +32,8 @@ tags:
 translation_of: place:green-mill-chicago
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:5b622c4d13a72a0d174b7a969f8647dedaece357d89ccf58bcba70c4b037c612
-source_sha256: 5b622c4d13a72a0d174b7a969f8647dedaece357d89ccf58bcba70c4b037c612
+source_revision: sha256:c015b177a3ac4bc153113cf3da7fca2b975d11ec57308c6afb0904e8de874faa
+source_sha256: c015b177a3ac4bc153113cf3da7fca2b975d11ec57308c6afb0904e8de874faa
 related:
   - relation: about
     target_id: culture-article:prohibition
@@ -89,6 +89,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1907
 ---
+
 # Green Mill Cocktail Lounge
 
 At Broadway and Lawrence in Chicago's Uptown, a green neon sign hangs over a low corner building. In daylight it looks faded; at night it turns into a piece of 1920s stage design. This is the Green Mill. It is not a large concert hall and not a nostalgia theme bar. It is a working tavern that still books jazz seven nights a week, still takes cash, and still shows the physical traces of the Prohibition era. For Chicagoans, its reputation rests on the music; for visitors, it is usually remembered through Al Capone, the underground tunnels and the birth of the poetry slam.
@@ -146,3 +147,11 @@ Setting [Prohibition: bans change supply, not demand](ref:prohibition)'s address
 Checked on 2026-11-21: the address at 4802 N Broadway, show times and ticket prices were confirmed on the official site. "Oldest" and "birthplace" appear in quotation marks in the body and are not treated as undisputed history. Image credits and licences are given in the captions.
 
 The Green Mill's history begins in the 1890s.
+
+## Related images
+
+![During Prohibition in the United States, officials pour barrels of liquor into a sewer.](/media/photos/historical-event-us-prohibition-3cc2932a.jpg)
+
+Image: During Prohibition in the United States, officials pour barrels of liquor into a sewer.. Credit: Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:5_Prohibition_Disposal(9).jpg)). Related image for Green Mill Cocktail Lounge.
+
+Musso & Frank Grill opened in 1919 and took its current name in 1927; a later street view is used as a visual reference.

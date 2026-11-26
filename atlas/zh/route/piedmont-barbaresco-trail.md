@@ -87,6 +87,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 皮埃蒙特巴巴莱斯科路线
 
 这条路线把两座村子连起来：巴巴莱斯科与塞拉伦加达尔巴。它们同属朗格，同以[内比奥罗](ref:nebbiolo)为骨架，却分别站在巴巴莱斯科与巴罗洛两个法定产区的两侧。第一站是嘉雅，地址清楚、参观政策不清楚；第二站是丰塔纳弗雷达，酒窖与叙述村按预约接待。两站之间约半小时车程，一天足够，但不要把“名庄”自动等同于“可以随时进入”。
@@ -172,3 +173,13 @@ updated_at: 2026-11-09
 - [Barolo DOCG — 朗格产区协会](https://www.langhevini.it/le-denominazioni-tutelate-dal-consorzio/barolo-docg/)：11 个市镇、三年陈年与 Riserva 规则。
 
 补充阅读：[皮埃蒙特](ref:c-extra-1)。
+
+## 相关图像
+
+![内比奥罗](/media/photos/variety-nebbiolo-82c1e8bb.jpg)
+
+图：内比奥罗。图片：Hanna，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Close_up_of_Nebbiolo_cluster_in_Italy.jpg)）。关联图像：皮埃蒙特巴巴莱斯科路线。
+
+![丰塔纳弗雷达酒庄](/media/photos/place-fontanafredda-076ca0df.jpg)
+
+图：丰塔纳弗雷达酒庄。图片：Marchetto da Trieste，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Fontanafredda_-_chiesa_parrocchiale.jpg)）。关联图像：皮埃蒙特巴巴莱斯科路线。

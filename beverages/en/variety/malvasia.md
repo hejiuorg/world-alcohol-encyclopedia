@@ -22,8 +22,8 @@ tags:
 translation_of: variety:malvasia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:40943e93789dca1fc7249c6e2a3f3b9854a97a90b9a21818c01dec6f3978167e
-source_sha256: 40943e93789dca1fc7249c6e2a3f3b9854a97a90b9a21818c01dec6f3978167e
+source_revision: sha256:59ab60d89147fc14d2badab4e476b59b6f68e8803f8967ec83d86c1787fa9813
+source_sha256: 59ab60d89147fc14d2badab4e476b59b6f68e8803f8967ec83d86c1787fa9813
 related:
   - relation: about
     target_id: drink-style:white-wine
@@ -78,6 +78,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Malvasia
 
 A white variety family across the Mediterranean and Iberia, with many clones and types; aromas range from white flowers, apricot and honey to spice, and it makes dry, sweet and fortified wines, so it is not one single variety.
@@ -153,3 +154,9 @@ Compare a dry Malvasia from Bosa with a sweet Malvasia delle Lipari and a Madeir
 **Short definition:** A white variety family across the Mediterranean and Iberia, with many clones and types; aromas range from white flowers, apricot and honey to spice, and it makes dry, sweet and fortified wines, so it is not one single variety.
 
 Malvasia is a family of white grapes rather than a single variety, with distinct populations in Italy, Spain, Portugal, Greece and the eastern Mediterranean. The name can mean Malvasia Bianca, Malvasia di Candia, Malvasia Istriana or Malvasia de Sitges, among others, and each has different acidity, sugar and aroma. Some make crisp dry whites, others sweet passito or fortified wines; the common thread is perfume, from white flowers and apricot to honey and spice. Because the name is so broad, a label that says only Malvasia tells you less than one that names the region and the style. In Italy, Malvasia di Candia Aromatica is used in aromatic sparkling wines, while Malvasia delle Lipari is a sweet island wine; those are different products, not different grades of the same grape.
+
+## Related images
+
+![Fortified wine](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+Image: Fortified wine. Credit: Jon Sullivan, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)). Related image for Malvasia.

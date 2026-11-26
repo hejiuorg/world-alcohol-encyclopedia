@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:california-common
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2f83c90f041c07fc3fdb7fdde784206988139c144d3558214d8b165b0acb71c9
-source_sha256: 2f83c90f041c07fc3fdb7fdde784206988139c144d3558214d8b165b0acb71c9
+source_revision: sha256:b7eff7263842ce0fbe3404e18d09c4aeb32ff91c672a2703ead2ce174e9506ab
+source_sha256: b7eff7263842ce0fbe3404e18d09c4aeb32ff91c672a2703ead2ce174e9506ab
 related:
   - relation: about
     target_id: drink-style:beer
@@ -90,6 +90,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # California Common
 
 An amber beer from California fermented with lager yeast at warmer temperatures, with malt sweetness, woody notes and hop bitterness; Anchor Steam is the commercial benchmark for the “steam beer” name.
@@ -152,3 +153,9 @@ Common misreadings are treating it as a top-fermented ale; assuming "steam" mean
 **Short definition:** An amber beer from California fermented with lager yeast at warmer temperatures, with malt sweetness, woody notes and hop bitterness; Anchor Steam is the commercial benchmark for the “steam beer” name.
 
 For California Common, begin with the production rule. Then look at the strength, and finally ask the usual serving. The answers point to different choices, not to a single score.
+
+## Related images
+
+![Hops](/media/photos/ingredient-hop-72c4eef7.jpg)
+
+Image: Hops. Credit: LuckyStarr, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg)). Related image for California Common.

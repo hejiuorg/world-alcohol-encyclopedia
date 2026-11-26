@@ -76,6 +76,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 猎人谷
 
 澳大利亚新南威尔士州的历史葡萄酒产区，悉尼以北约两小时车程；温暖湿润、以年轻赛美蓉与猎人谷西拉著称，1990 年代获 GI，是澳洲最古老的商业酒区之一。
@@ -178,3 +179,13 @@ Semillon 温度 8–10°C，用中等口径白酒杯；年轻酒配海鲜、沙�
 | 国家代码 | AU |
 
 **来源与边界。** 本页关于「猎人谷」的关键事实，主要由以下来源交叉核对：Wine Australia（澳大利亚葡萄酒产区、GI 与产业框架）、Tourism Australia（澳大利亚葡萄酒产区的旅行与地理背景）、OIV（葡萄酒定义与全球生产框架）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“赛美蓉”页面配图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-semillon-f7547db4.jpg)
+
+图：Sémillon - Joseph Daurel。摄影：Imprimerie A. Bellier & Cie - Bordeaux，CC0，来自 Wikimedia Commons。。图片：Imprimerie A. Bellier & Cie - Bordeaux，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=94839238)）。关联图像：猎人谷。
+
+![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+
+图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：猎人谷。

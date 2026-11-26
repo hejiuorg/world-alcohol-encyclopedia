@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:porto
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:65e0aa29a290771a975e31a1ada42b016e312a03aae65c58a95afec97bc5a5c5
-source_sha256: 65e0aa29a290771a975e31a1ada42b016e312a03aae65c58a95afec97bc5a5c5
+source_revision: sha256:648ffd1a0500086582a0af2223ef6f1a066116f5591bad535d9b99bf1377c1e7
+source_sha256: 648ffd1a0500086582a0af2223ef6f1a066116f5591bad535d9b99bf1377c1e7
 level: other
 parent_id: region:portugal
 country_code: PT
@@ -84,6 +84,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Porto
 
 Porto is a sweet [fortified-wine](ref:fortified-wine) appellation produced in the Douro valley of [Portugal](ref:portugal) and aged in Vila Nova de Gaia or the Douro. It is made from Touriga Nacional and other varieties and classified along two axes, single harvest or blend and oxidative cask or reductive bottle ageing.
@@ -183,3 +184,13 @@ Setting [Portugal](ref:portugal)'s geographic boundary beside [Grape](ref:grape)
 - [Oak ageing](ref:oak-ageing): the oxidative route of Tawny and Colheita.
 - [Wine](ref:wine): an overview of wine categories, vintages and origin rules.
 - [Alcohol by volume](ref:abv): what 19%–20% vol means on a label.
+
+## Related images
+
+![Douro](/media/photos/region-douro-fd8dc772.jpg)
+
+Image: Douro. Credit: Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rio_Douro_-_Portugal_(32615481975)_(cropped).jpg)). Related image for Porto.
+
+![Category image for Portugal](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+Image: Category image for Portugal. Credit: John Hayes from San Antonio, Texas, USA, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=151531010)). Related image for Porto.

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:savoie
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d09651080d2e14c4ce3a1731c5cb91e5f170d7c75c7a571c3b55c8e608fef3cb
-source_sha256: d09651080d2e14c4ce3a1731c5cb91e5f170d7c75c7a571c3b55c8e608fef3cb
+source_revision: sha256:85f9f82174864b8b0d2e0ea98354b4413ba39923802c0573db95769d942b2124
+source_sha256: 85f9f82174864b8b0d2e0ea98354b4413ba39923802c0573db95769d942b2124
 level: other
 parent_id: region:france
 country_code: FR
@@ -92,6 +92,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Savoie
 
 Savoie is not a region that can be summed up with an Alpine view. Its vineyards are scattered across valleys, slopes and glacial terraces in south-east France, from 250 metres up to more than 600 metres; two sides of the same mountain can differ completely in soil, aspect and ripening date. The region produces lean, crisp whites led by Jacquère, reds led by Mondeuse with pepper and violet notes, and a sparkling wine that only obtained AOC status in 2015. The useful way to understand Savoie is as a group of small mountain appellations rather than a single style.
@@ -170,3 +171,13 @@ Savoie's wines are alpine and high-acid, with Jacquère, Altesse and Mondeuse as
 - [Grape](ref:grape): the basic structure and ripeness indicators of wine grapes.
 
 Further reading: [Aconcagua Valley](ref:c-extra-1).
+
+## Related images
+
+![Related photograph of Aconcagua Valley](/media/photos/region-aconcagua-4fe76950.jpg)
+
+Image: Related photograph of Aconcagua Valley. Credit: Bjørn Christian Tørrissen, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg)). Related image for Savoie.
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Savoie.

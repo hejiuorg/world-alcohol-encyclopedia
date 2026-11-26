@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:chateau-mouton-rothschild
 source_lang: zh
-source_revision: sha256:cf036b126e3575c3de1a98cb191e6ce98ee429311865429be6f783ff94d1f04a
-source_sha256: cf036b126e3575c3de1a98cb191e6ce98ee429311865429be6f783ff94d1f04a
+source_revision: sha256:80acf6998d557fc7f2117083eaa88abc7e2f03085f5bbc2c9347ae9049d22435
+source_sha256: 80acf6998d557fc7f2117083eaa88abc7e2f03085f5bbc2c9347ae9049d22435
 translation_status: reviewed
 subtype: winery-visitor
 address: Château Mouton Rothschild, 33250 Pauillac, France
@@ -184,3 +184,9 @@ Without a car, the regional train from Bordeaux to Pauillac is the most reliable
 Mouton is a concrete entry point for understanding the [Bordeaux](ref:bordeaux) classification and the grand-cru system, and a case study of how [wine](ref:wine) ties agriculture, capital and art together. For the wider system, read [wine grading systems](ref:grading); for the wine itself, see [Château Mouton Rothschild](ref:mouton-wine).
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Château Mouton Rothschild](/media/photos/drink-france-chateau-mouton-rothschild-6c75d53a.jpg)
+
+Image: Château Mouton Rothschild. Credit: Jack ma, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jardin_de_Ch%C3%A2teau_de_Mouton-Rothschild,_Pauillac._2012.jpg)). Related image for Château Mouton Rothschild.

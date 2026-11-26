@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:fenyang
 source_lang: zh
-source_revision: sha256:381eecc0ae619f72c209cbd111e4e1e79e70787dbebbb5edf23cd3c1bf29ead6
-source_sha256: 381eecc0ae619f72c209cbd111e4e1e79e70787dbebbb5edf23cd3c1bf29ead6
+source_revision: sha256:cea8233833d66954d167fdc8ae359ffe5668db8ea3e0d72cd17a1e2bd00b4981
+source_sha256: cea8233833d66954d167fdc8ae359ffe5668db8ea3e0d72cd17a1e2bd00b4981
 translation_status: reviewed
 level: city
 parent_id: region:shanxi
@@ -80,6 +80,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence; sources are cited for verification only. Third-party images are credited in the captions.
 verification_scope: source-verified
 ---
+
 # Fenyang
 
 Fenyang is a county-level city administered by Lüliang in Shanxi, located at the western edge of the Jinzhong Basin and beneath the Lüliang Mountains. Xinghuacun lies within Fenyang and is the production place long associated with Fenjiu. Unlike the humid strong-aroma areas of southern Sichuan, Fenyang has a semi-arid monsoon climate with cold winters, windy springs and large temperature swings between day and night. To understand Fenyang, "light aroma" is only a starting point; the relationship between earthen jars, climate and sorghum matters just as much.
@@ -139,3 +140,13 @@ Fourth, Fenyang is not merely a stop on the way to Pingyao. Xinghuacun and the d
 - For the shared language of light aroma, read [Light-aroma baijiu](ref:light).
 - To compare Shanxi with southern Sichuan, read [Shanxi](ref:shanxi) and [China](ref:china).
 - To place Fenyang in a Jinzhong journey, check transport between Pingyao and Taiyuan before deciding where to stay.
+
+## Related images
+
+![Shanxi](/media/photos/region-shanxi-f5edb84f.jpg)
+
+Image: Shanxi. Credit: Underbar dk, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Yanmenguan3.JPG)). Related image for Fenyang.
+
+![Fenjiu](/media/photos/brand-fenjiu-3fd2e1c8.jpg)
+
+Image: Fenjiu. Credit: N509FZ, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_(20241109164541).jpg)). Related image for Fenyang.

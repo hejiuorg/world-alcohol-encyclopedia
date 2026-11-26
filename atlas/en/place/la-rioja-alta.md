@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:la-rioja-alta
 source_lang: zh
-source_revision: sha256:97fa79b5f7a0b50fdb80995be1421ed0a93963f1110c1fb54931ac5f1d8dadca
-source_sha256: 97fa79b5f7a0b50fdb80995be1421ed0a93963f1110c1fb54931ac5f1d8dadca
+source_revision: sha256:c840e8481b1d7286a022d5c484a61a10ad409e0102afbc16cf041276ef561c49
+source_sha256: c840e8481b1d7286a022d5c484a61a10ad409e0102afbc16cf041276ef561c49
 translation_status: reviewed
 subtype: winery-visitor
 address: Avenida de Vizcaya 8, 26200 Haro, La Rioja, Spain
@@ -85,6 +85,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; visit arrangements, sales hours and wines change, so confirm with the winery.
 verification_scope: source-verified
 ---
+
 # La Rioja Alta, S.A.
 
 Haro's Barrio de la Estación is a short street: railway on one side, a row of old wineries on the other, brick walls, iron gates and cellar vents pressed together. La Rioja Alta stands at Avenida de Vizcaya 8, a few minutes' walk from López de Heredia. It has not turned the visit into a theme park. Instead it opens a working winery that still follows an old rhythm: American-oak barrels, long maturation, slow racking and a shareholder structure that reaches back to 1890.
@@ -145,3 +146,9 @@ The station district itself supplies the next stops: López de Heredia, CVNE, Mu
 Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2).
 
 [Wine](ref:wine) and [Cellars and storage: temperature, humidity, light and time](ref:cellar) answer different questions about La Rioja Alta, S.A.: address and space and operating status. Read them as a pair rather than as alternatives.
+
+## Related images
+
+![Inside À la Mort Subite: wood panelling, mirrors, long tables and the crowded atmosphere of an old Brussels café](/media/photos/place-a-la-mort-subite-0e08d4e8.jpg)
+
+Image: Inside À la Mort Subite: wood panelling, mirrors, long tables and the crowded atmosphere of an old Brussels café. Credit: kishjar?, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_La_Mort_Subite.jpg)). Related image for La Rioja Alta, S.A..

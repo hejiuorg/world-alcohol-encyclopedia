@@ -67,6 +67,12 @@ sources:
     note: 用于核对葡萄酒与餐饮搭配的国际口径；未复制原文。
     accessed: 2026-11-07
 
+  - key: adv-oxford-food
+    title: The Oxford Companion to Wine — food and wine entries
+    url: https://www.oxfordreference.com/display/10.1093/acref/9780198840640.001.0001/acref-9780198840640
+    publisher: Oxford University Press
+    note: 用于核对配餐原则、味觉互动与经典组合；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -77,6 +83,10 @@ verification_scope: source-verified
 ### 浓度匹配
 
 搭配的第一条实用原则是浓度对浓度。清淡的菜配清淡的酒，厚重的菜配厚重的酒。清蒸鱼配重单宁的红葡萄酒，酒会显得粗糙，鱼也会显得寡淡；浓酱炖肉配清爽的起泡酒，酒会被完全压住。浓度不匹配时，不是酒“不好”，而是两者没有站在同一张桌上。
+
+![先看盘子里，再看杯子里 专属双语视觉卡](/media/figures/specific/guide-food-pairing.svg)
+
+图：先看盘子里，再看杯子里专属双语视觉卡。项目自制双语视觉卡，用于识别主题，不是现场照片。
 
 浓度不等于酒精度。一款酒精度不高但风味浓缩的酒，可能比一款高酒精度但味道简单的酒更有“重量”。判断浓度要看香气强度、口感厚度和余味长度，而不是只看数字。
 
@@ -155,6 +165,28 @@ verification_scope: source-verified
 第四，所有海鲜都配白葡萄酒。清蒸、生食、红烧和炭烤需要不同的酒。
 
 第五，忽略温度。同一款酒在不同温度下可能从“合适”变成“不合适”。
+
+
+## 进阶判断
+
+![一餐配白葡萄酒](/media/photos/guide-food-pairing-b4dbce65.jpg)
+
+图：一餐配一杯白葡萄酒，配餐的核心是重量、酸度与风味强度的平衡。图片：Jay Wennington jaywennington，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gourmet_meal_and_white_wine_(Unsplash).jpg)）。
+
+| 菜的特征 | 配酒杠杆 | 可操作的例子 |
+| --- | --- | --- |
+| 高脂肪 | 酸度或气泡切开油脂 | 干白、香槟、清爽型啤酒 |
+| 辣 | 低酒精、微甜、少单宁 | 半干雷司令、拉格 |
+| 咸鲜 | 鲜味与气泡提升层次 | 香槟、清酒、干型雪莉 |
+| 甜点 | 酒比甜点更甜或同等甜 | 甜酒、波特、贵腐 |
+
+**辣菜为什么不能配高酒精？** 酒精会放大辣椒素的灼热感，也会让高单宁显得更苦。选低酒精、微甜或带气泡的酒，比选“重酒体”更有效。
+
+**醋汁沙拉能配葡萄酒吗？** 可以，但醋会压住酒的味道。用酸度更高、简单清爽的酒，或把醋汁放少一点；不要把高价酒浪费在强醋汁上。
+
+**甜点配干型酒为什么会苦？** 甜点让口腔更甜，干型酒的酸与单宁会被放大，显得尖、苦或空。甜点配酒的第一原则是甜度不要低于甜点。
+
+延伸阅读：[单宁](ref:tannin)、[火锅](ref:hotpot)。
 
 ## 边界
 

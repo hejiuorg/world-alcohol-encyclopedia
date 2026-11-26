@@ -78,6 +78,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 味美思
 
 味美思是一种加香葡萄酒：以葡萄酒为基酒，加入苦艾、丁香、肉桂、柑橘皮等草本与香料，按产品类型加强并调整糖分。它既有葡萄酒的酸度与果味，又有烈酒般的苦味与香气，因此既能纯饮，也能作为鸡尾酒的配料。与普通[加强葡萄酒](ref:fortified-wine)相比，它的核心不是提高酒精度，而是用植物重新塑造香气结构。
@@ -148,3 +149,9 @@ verification_scope: source-verified
 | --- | --- |
 | 一句话定位 | 以葡萄酒为基酒、用苦艾等草本加香并按类别加强的加香葡萄酒；欧盟法规为它设定 14.5% 起、低于 22% 的实际酒精度区间与 17.5% 的总酒精度下限，干型、白型与红型在配方与用途上几乎像三种配料 |
 | 上位风格 | 加强葡萄酒 |
+
+## 相关图像
+
+![开胃酒](/media/photos/drink-style-aperitif-7af7d066.jpg)
+
+图：开胃酒。图片：Wikimedia Commons contributor，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aperitif_Campari_Soda.jpg)）。关联图像：味美思。

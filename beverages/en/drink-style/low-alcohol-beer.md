@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:low-alcohol-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a545c9314cc535259d079c031fdbd5c60b95a5f96f364ddf527fa2d140c7c910
-source_sha256: a545c9314cc535259d079c031fdbd5c60b95a5f96f364ddf527fa2d140c7c910
+source_revision: sha256:77503fa658ec596751960b80ee902110f9f8983b03c56120738bb05f93b133cd
+source_sha256: 77503fa658ec596751960b80ee902110f9f8983b03c56120738bb05f93b133cd
 related:
   - relation: about
     target_id: drink-style:beer
@@ -162,3 +162,9 @@ Common misreadings: non-alcoholic does not mean zero alcohol, since below-0.5% p
 - To map the category, start with one dealcoholised lager and one craft NA IPA, compare malt sweetness, hop bitterness and body, then try an arrested-fermentation or no-fermentation blended version.
 
 For Low-alcohol / Non-alcoholic Beer, begin with the production rule. Then look at the strength, and finally ask the usual serving. The answers point to different choices, not to a single score.
+
+## Related images
+
+![Hops](/media/photos/ingredient-hop-72c4eef7.jpg)
+
+Image: Hops. Credit: LuckyStarr, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg)). Related image for Low-alcohol / Non-alcoholic Beer.

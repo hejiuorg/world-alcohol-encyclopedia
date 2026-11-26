@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:shang-zhou-wine-ritual
 source_lang: zh
-source_revision: sha256:31e641c33f1d4bfffada0046a04d53a7ca2c93fec701881d87499d794c170a5f
-source_sha256: 31e641c33f1d4bfffada0046a04d53a7ca2c93fec701881d87499d794c170a5f
+source_revision: sha256:2848a3da8e67601c74f40f79a1da5daa45d869e707b472bd44941ccd918efc9f
+source_sha256: 2848a3da8e67601c74f40f79a1da5daa45d869e707b472bd44941ccd918efc9f
 translation_status: reviewed
 aliases:
   - 商周酒礼
@@ -75,6 +75,7 @@ rights:
   note: Third-party annotations, editions, translations, images and database pages are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Shang and Zhou Wine Ritual: Bronze Vessels, the Wine Officer and the Jiugao
 
 Drinking in the Shang and Zhou periods was not casual everyday behaviour; it was a ritual embedded in sacrifice, banqueting and hierarchy. Bronze wine-vessel sets, the division of duties among Zhou officials such as the wine officer, and the limits on drinking in the Book of Documents' Jiugao: these three together make up the substance of 'wine ritual'. Reading it merely as 'the ancients were particular about drinking' misses the point, because wine ritual was first of all a set of rules for allocation and restraint.
@@ -146,3 +147,9 @@ Fourth, bronze wine vessels cannot directly prove the extent of social drinking.
 - [The Han wine monopoly](ref:han-monopoly): from ritual restraint to fiscal monopoly.
 - [Yellow wine](ref:yellow-wine): the technical category of cereal wine.
 - [China](ref:china): background on regions and categories of Chinese alcohol.
+
+## Related images
+
+![Related photograph of Wine and ritual: from village drinking rites to the modern toast](/media/photos/article-wine-and-ritual-977ce5a3.jpg)
+
+Image: Related photograph of Wine and ritual: from village drinking rites to the modern toast. Credit: anonymous, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ritual_wine_ewer_(gong)_with_masks_(taotie),_dragons,_and_real_animals.jpg)). Related image for Shang and Zhou Wine Ritual: Bronze Vessels, the Wine Officer and the Jiugao.

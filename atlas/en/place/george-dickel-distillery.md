@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:george-dickel-distillery
 source_lang: zh
-source_revision: sha256:e9d340c192a64e34ce3da43571d4fe94c8db4a43b6d01c228b4698ab0db390c6
-source_sha256: e9d340c192a64e34ce3da43571d4fe94c8db4a43b6d01c228b4698ab0db390c6
+source_revision: sha256:0c46cadc376a7c7f5659c78ba4b4926bd9c1752c070ad859c66efd8e99934a04
+source_sha256: 0c46cadc376a7c7f5659c78ba4b4926bd9c1752c070ad859c66efd8e99934a04
 translation_status: reviewed
 subtype: distillery-visitor
 address: 1950 Cascade Hollow Rd, Tullahoma, TN 37388, USA
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; opening hours, tour arrangements and whiskeys change, so check official channels.
 verification_scope: source-verified
 ---
+
 # George Dickel Distillery
 
 George Dickel sits at Cascade Hollow near Tullahoma, Tennessee, tucked into a valley about half an hour to forty minutes from Jack Daniel's in Lynchburg. It is quieter than its neighbour and receives far fewer visitors, but the two make the same kind of spirit: a corn-led [Tennessee whiskey](ref:tnwhiskey), filtered through sugar-maple charcoal and made in Tennessee. If you have only seen Jack Daniel's, this is the other half of the same regional story.![related photograph of George Dickel Distillery](/media/photos/place-george-dickel-distillery-c9223c18.jpg)
@@ -152,3 +153,9 @@ Start with [Jack Daniel's Distillery](ref:jackdaniels) for address and space, th
 | Official site | georgedickel.com |
 
 **Sources and limits.** The key claims about George Dickel Distillery are checked against the following sources: George Dickel (Used to check the brand name, Cascade Hollow Distilling Co. and the core whiskey range), Tennessee Whiskey Trail, UNESCO (the entry's background, terminology and regulatory context). For current products, addresses or opening status, use georgedickel.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Jack Daniel's Distillery](/media/photos/place-jack-daniels-distillery-1ab6c621.jpg)
+
+Image: Jack Daniel's Distillery. Credit: Ben Jacobson ( Kranar Drogin ), CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)). Related image for George Dickel Distillery.

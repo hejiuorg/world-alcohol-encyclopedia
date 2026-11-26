@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:du-kang-wine-legend
 source_lang: zh
-source_revision: sha256:b0158d3f11a11e04e35ed06fd1fbf6bce31882a4e0f60bccefa1361d587d8e5c
-source_sha256: b0158d3f11a11e04e35ed06fd1fbf6bce31882a4e0f60bccefa1361d587d8e5c
+source_revision: sha256:11fecbe3bbd62da3635625d0295ba2b470c13c6a967056c60184c5daff7c0701
+source_sha256: 11fecbe3bbd62da3635625d0295ba2b470c13c6a967056c60184c5daff7c0701
 translation_status: reviewed
 aliases:
   - 杜康
@@ -87,6 +87,7 @@ rights:
   note: Third-party reports, stele transcriptions, editions, images and database pages are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # The Dukang Wine Legend: How a Person Became a Synonym for Wine
 
 Dukang is the central figure of another legend about the origin of brewing. The Eastern Han Shuowen Jiezi says he 'made shu wine' and adds that 'Shaokang is Dukang'; Cao Cao's Short Song, with the line 'what relieves sorrow? Only Dukang', turned the name into a synonym for wine. Yet who Dukang was, when he lived and where he brewed have never had a single answer, from the Han dynasty to today. The legend supplies the figure of a wine ancestor, not a datable biography.
@@ -162,3 +163,9 @@ For The Dukang Wine Legend, begin with the date and setting. Then look at the do
 - [Cao Cao](ref:cao-cao): the poet and the late Han political background.
 - [Yellow wine](ref:yellow-wine): the technical category of cereal wine.
 - [China](ref:china): background on regions and categories.
+
+## Related images
+
+![The bronze statue of Cao Cao in Xuchang Museum, with exhibition panels on his life and family genealogy behind it.](/media/photos/person-cao-cao-a502eb45.jpg)
+
+Image: The bronze statue of Cao Cao in Xuchang Museum, with exhibition panels on his life and family genealogy behind it.. Credit: Gary Todd, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Statue_of_Cao_Cao.jpg)). Related image for The Dukang Wine Legend: How a Person Became a Synonym for Wine.

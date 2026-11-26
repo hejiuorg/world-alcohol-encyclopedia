@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:egon-muller
 source_lang: zh
-source_revision: sha256:5a2ac1d03565489d2de24ace5295aad31a405a5e07ddae26085ce86086771e99
-source_sha256: 5a2ac1d03565489d2de24ace5295aad31a405a5e07ddae26085ce86086771e99
+source_revision: sha256:e9224c2b4bf662d94262de8284f92641d922d773ee86820863e1ae07ad1cead9
+source_sha256: e9224c2b4bf662d94262de8284f92641d922d773ee86820863e1ae07ad1cead9
 translation_status: reviewed
 subtype: winery-visitor
 address: Scharzhof, 54459 Wiltingen, Germany
@@ -81,6 +81,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted texts are not covered by this licence; opening hours, bookings and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Egon Müller
 
 Egon Müller - Scharzhof stands in Wiltingen in Germany's Saar valley, at a property called the Scharzhof. Its name is almost the same as the Scharzhofberg: a south-facing slope of blue slate and old vines, with very low yields, whose Rieslings are reference points on many wine lists. Unlike estates with visitor centres, the Scharzhof feels like a private property — the official page gives a place name and an email, and arrival has to be arranged beforehand.![Egon Müller image](/media/photos/place-egon-muller-1c0adf7b.jpg)
@@ -140,3 +141,9 @@ Further reading: [Wine](ref:c-extra-1).
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Egon Müller is built.
 
 Read [Mosel](ref:mosel) for the address and space side of Egon Müller, and [White wine](ref:white-wine) for the operating status side. Together they locate it.
+
+## Related images
+
+![Riesling](/media/photos/variety-riesling-a836132e.jpg)
+
+Image: Riesling. Credit: No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)). Related image for Egon Müller.

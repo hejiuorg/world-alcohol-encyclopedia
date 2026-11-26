@@ -77,6 +77,7 @@ rights:
   note: 第三方标准文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 雅文邑
 
 雅文邑最容易被记住的一点，是它的蒸馏器：酒液只通过一次，不像干邑那样蒸两遍。这一次通过留下的同系物更多，原酒度数更低，香气更粗、更厚，也更早显露。围绕这套“一次通过”的技术，加斯科涅人还发展出单一年份装瓶的传统，让每一年的气候差异都能被单独保存下来。
@@ -162,3 +163,9 @@ Baco 22A 是雅文邑最特别的一笔。它由白福儿与 Noah 杂交育成�
 | 香气家族 | 果香/花香/橡木 |
 
 **来源与边界。** 本页关于「雅文邑」的关键事实，主要由以下来源交叉核对：BNIA（雅文邑的产区、三个分区、允许品种、蒸馏方式、陈年与年份标示规则）、European Union（葡萄白兰地与地理标志烈酒的定义框架）、Oxford University Press（提供关于雅文邑、连续式蒸馏与加斯科涅橡木的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“特雷比奥罗（白玉霓）”页面配图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。摄影：Gabriele Cantini，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-trebbiano-8254babe.jpg)
+
+图：Tuscany Vin Santo (holy wine) dried Trebbiano grapes。摄影：Gabriele Cantini，CC BY 2.0，来自 Wikimedia Commons。。图片：Gabriele Cantini，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=19365493)）。关联图像：雅文邑。

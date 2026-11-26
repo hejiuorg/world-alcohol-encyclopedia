@@ -95,6 +95,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 巴巴多斯朗姆路线：圣露西与圣菲利普的双厂车程
 
 巴巴多斯朗姆路线在这里只取两站：北端圣露西的[芒特盖酒厂](ref:mount-gay)与东南圣菲利普的[四方朗姆酒厂](ref:foursquare)。两站隔着整座岛，车程约一小时出头，却代表两种做法：一边用 1703 年以来的自流井水与壶式、柱式并行的设备讲连续性，一边用旧糖厂的开放式参访与“不添加糖”讲透明度。比较的不是谁更好喝，而是同一座珊瑚石灰岩岛为何长出两套朗姆酒逻辑。
@@ -154,3 +155,13 @@ updated_at: 2026-11-09
 比较时先纯饮，再加几滴水。注意酒精感、甜感与木质感的顺序：甜味来得快、收尾却空，可能来自添加糖或过度调味；木质干涩、香气封闭，可能是桶陈或调配比例的问题。这些判断只是帮助你描述杯中发生了什么。
 
 最后回到[巴巴多斯](ref:barbados)的框架：这个岛把甘蔗、糖厂、港口与朗姆酒连成产业链。走完这条线，你会更清楚自己喝的是水、糖蜜、蒸馏方式，还是一段被讲得很好的历史。
+
+## 相关图像
+
+![巴巴多斯类别配图](/media/photos/place-foursquare-rum-distillery-c949ec7b.jpg)
+
+图：巴巴多斯类别配图。图片：Unknown author Unknown author，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery.jpg)）。关联图像：巴巴多斯朗姆路线：圣露西与圣菲利普的双厂车程。
+
+![四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+图：四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格。图片：Unknown author Unknown author，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)）。关联图像：巴巴多斯朗姆路线：圣露西与圣菲利普的双厂车程。

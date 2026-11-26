@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 希诺马罗
 
 希诺马罗（Xinomavro，亦拼 Xynomavro）是希腊北部马其顿地区最有分量的红葡萄品种，名称由希腊语 xino（酸）与 mavro（黑）组合而成，意为“酸黑”。它高酸、高单宁、酚类丰富，年轻时紧闭涩口，需要数年瓶陈才展开红色果、番茄、橄榄与干草本的层次，优质酒可陈放十年到三十年，常被拿来与皮埃蒙特的内比奥罗相比较（ref:nebbiolo）。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 
 - 相关条目：[nebbiolo](ref:nebbiolo)、[red-wine](ref:red)、[terroir](ref:terroir)、[oak-ageing](ref:oak)、[vintage](ref:vintage)。
 - 想比较 Naoussa 与 Amyndeon 的风土差别，可同一年份各选一款 100% 希诺马罗，对比酸度亮度、单宁粗细与橄榄番茄香气的浓度。
+
+## 相关图像
+
+![内比奥罗](/media/photos/variety-nebbiolo-82c1e8bb.jpg)
+
+图：内比奥罗。图片：Hanna，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Close_up_of_Nebbiolo_cluster_in_Italy.jpg)）。关联图像：希诺马罗。

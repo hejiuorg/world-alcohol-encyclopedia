@@ -90,6 +90,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；营业时间、预约方式与品鉴价格会变化，以店方官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 梅斯卡尔图书馆：瓦哈卡市中心的一间品鉴档案室
 
 梅斯卡尔图书馆（Mezcaloteca）在瓦哈卡市历史中心 Reforma 街 506 号，门牌属于 Ruta Independencia 这一段，邮编 68000。它不是 palenque，也不靠厨房与鸡尾酒撑场：这里是一间品鉴室，把不同州、不同村子、不同品种与不同生产者的[梅斯卡尔](ref:mezcal)并排放在一张桌上，让人通过比较来学习。对刚到[瓦哈卡](ref:oaxaca)的人，它比任何酒单都更适合作为第一站。
@@ -159,3 +160,9 @@ verification_scope: source-verified
 | 城市/国家 | 瓦哈卡市 / 墨西哥 |
 | 营业状态 | 已核验营业 |
 | 官网 | mezcaloteca.com |
+
+## 相关图像
+
+![梅斯卡尔](/media/photos/drink-style-mezcal-a77be8ad.jpg)
+
+图：梅斯卡尔。图片：ProtoplasmaKid，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg)）。关联图像：梅斯卡尔图书馆：瓦哈卡市中心的一间品鉴档案室。

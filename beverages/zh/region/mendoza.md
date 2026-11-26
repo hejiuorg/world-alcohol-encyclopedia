@@ -88,6 +88,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 门多萨
 
 门多萨（Mendoza）是阿根廷最大的葡萄酒产区，葡萄园分布在安第斯山脉东麓的干旱绿洲上，以高海拔与 Malbec 著称。
@@ -180,3 +181,13 @@ Malbec 适合烤肉、红肉与硬质奶酪；高海拔 Malbec 的酒体更紧�
 - [年份](ref:vintage)：门多萨的年份差异与霜冻风险。
 - [单一品种](ref:single-varietal)：门多萨的品种比例与酒标标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![年份（vintage）](/media/photos/term-vintage-4b511c38.jpg)
+
+图：年份（vintage）。图片：Chiusi Painter，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)）。关联图像：门多萨。
+
+![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。关联图像：门多萨。

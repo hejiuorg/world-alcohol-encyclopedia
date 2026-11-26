@@ -68,6 +68,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 内比奥罗
 
 内比奥罗是意大利皮埃蒙特的代表性红葡萄品种。它晚熟、皮厚，酿出的酒颜色偏浅，却拥有很高的酸度与单宁，年轻时香气以玫瑰、红樱桃与焦油为主，陈年后发展出干花、皮革与松露气息。巴罗洛与巴巴莱斯科都以它为核心品种。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 **适用边界。** 对「内比奥罗」而言，品种表现随产区、气候与克隆选择变化；同名品种在不同国家可能指不同材料。
 
 **更新提示。** 「内比奥罗」最近核对于 2026-11-04；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
+
+## 相关图像
+
+![巴罗洛](/media/photos/drink-italy-barolo-bba29a2d.jpg)
+
+图：巴罗洛。图片：Biskuit，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cascin_Adelaide_Barolo_%26_decanter.jpg)）。关联图像：内比奥罗。

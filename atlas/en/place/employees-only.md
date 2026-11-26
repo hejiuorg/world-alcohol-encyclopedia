@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:employees-only
 source_lang: zh
-source_revision: sha256:366f5effeb3e4ae31166b4cc8989173765a88b774dc921a4e4ee05eda5ff94c0
-source_sha256: 366f5effeb3e4ae31166b4cc8989173765a88b774dc921a4e4ee05eda5ff94c0
+source_revision: sha256:bab247d5830cba9c9a05b45c18d252a9cee7835705d3fc4d8d520ff7d3aecf8d
+source_sha256: bab247d5830cba9c9a05b45c18d252a9cee7835705d3fc4d8d520ff7d3aecf8d
 translation_status: reviewed
 subtype: bar
 address: 510 Hudson Street, New York, NY 10014, USA
@@ -88,6 +88,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; hours, menus and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Employees Only
 
 Employees Only stands at 510 Hudson Street in the West Village, between Christopher Street and West 10th Street. It opened in 2004 and became one of the defining bars of New York's cocktail revival: the frontage borrows the look of a fortune-teller's shop, while the room behind it is a high-energy bar known for classic cocktails and food served late. The name means "staff only," but the bar welcomes everyone; the sign is a joke, not a door policy.
@@ -147,3 +148,9 @@ Further reading: [A Ginjinha](ref:c-extra-1), [À la Mort Subite](ref:c-extra-2)
 Begin with the address, move on to the current opening status, and finish with what the place is known for. That order keeps the reading of Employees Only practical.
 
 [Pete's Tavern](ref:petes-tavern) and [Reading a city through its bars](ref:pub-and-city) are the nearest useful comparisons: one clarifies address and space, the other tests operating status.
+
+## Related images
+
+![Photograph for Pete's Tavern: Pete's Tavern (51708610272). Credit: ajay_suresh, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-place-petes-tavern-41eaebdf.jpg)
+
+Image: Pete's Tavern (51708610272). Credit: ajay_suresh, CC BY 2.0, via Wikimedia Commons.. Credit: ajay_suresh, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=112875512)). Related image for Employees Only.

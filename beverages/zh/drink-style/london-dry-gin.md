@@ -68,6 +68,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 伦敦干金
 
 伦敦干金（London Dry Gin）是[金酒](ref:gin)中最具代表性的干型风格。它的核心不是“在伦敦生产”，而是工艺约束：风味必须来自重新蒸馏，杜松子主导，糖分与着色受到严格限制。名称是类别概念，不是产地证明。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 **更新提示。** 「伦敦干金」最近核对于 2026-11-21；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
 
 **编者注。** 本页把「伦敦干金」作为酒类风格条目处理：定义、流程与关键数字以正文表格为准，与「金酒」、「蒸馏」的差异用对照阅读验证；遇到价格、批次或地址，回到页面所列来源核对。
+
+## 相关图像
+
+![金酒](/media/photos/drink-style-gin-abe0a9c8.jpg)
+
+图：金酒。图片：Decatur Wine & Spirits，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)）。关联图像：伦敦干金。

@@ -99,6 +99,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 斯沃特兰
 
 斯沃特兰（Swartland）是开普敦以北的葡萄酒产区，以旱作灌木藤、老藤 Chenin Blanc 与近二十年来的新风格著称。它同时是南非面积最大的葡萄酒区之一，也是“传统谷仓地带”与“新一代精品酒”重叠得最明显的产区。
@@ -183,3 +184,13 @@ Chenin Blanc 清爽型建议 8–10 摄氏度，橡木桶型建议 10–12 摄�
 - [年份](ref:vintage)：旱作产区的年份波动。
 - [单一品种](ref:single-varietal)：85% 品种标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![白诗南](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+图：白诗南。图片：Benjamin Smith，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)）。关联图像：斯沃特兰。
+
+![歌海娜](/media/photos/variety-grenache-69c881eb.jpg)
+
+图：歌海娜。图片：Jules Troncy，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grenache_N.jpg)）。关联图像：斯沃特兰。

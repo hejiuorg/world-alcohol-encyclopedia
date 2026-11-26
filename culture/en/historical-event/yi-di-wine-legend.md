@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:yi-di-wine-legend
 source_lang: zh
-source_revision: sha256:c01cfe8f7e98791941a164813d5dac9319c70b64b7fc4d868f13572fb81348e2
-source_sha256: c01cfe8f7e98791941a164813d5dac9319c70b64b7fc4d868f13572fb81348e2
+source_revision: sha256:0504fd4c6bd99e1c6ce534656862307b225cde2a20cab48440011847a46841a5
+source_sha256: 0504fd4c6bd99e1c6ce534656862307b225cde2a20cab48440011847a46841a5
 translation_status: reviewed
 aliases:
   - 仪狄
@@ -158,3 +158,9 @@ To read The Yi Di Wine Legend, start with the date and setting, then the documen
 - [Yellow wine](ref:yellow-wine): how jiu lao relates to later grain wines.
 - [History of yellow wine](ref:yellow-wine-history): from cloudy liquor to modern yellow wine.
 - [China](ref:china): background on regions and categories of Chinese alcohol.
+
+## Related images
+
+![Thematic illustration for A history of yellow wine: rice, qu, water and Shaoxing](/media/photos/theme-asian.jpg)
+
+Image: Thematic illustration for A history of yellow wine: rice, qu, water and Shaoxing. Project-made bilingual editorial figure, not an on-site photograph. Related image for The Yi Di Wine Legend: 'First to Make Jiu Lao', in Texts of Uncertain Date.

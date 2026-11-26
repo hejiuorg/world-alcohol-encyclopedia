@@ -80,6 +80,12 @@ sources:
     title: "Jancis Robinson and Julia Harding, eds., The Oxford Companion to Wine, Oxford University Press"
     publisher: "未注明"
     note: 由原条目末尾参考资料迁移，未逐条复核访问日期。
+  - key: adv-smithsonian
+    title: Smithsonian National Museum of American History — Food and wine collections
+    url: https://americanhistory.si.edu/
+    publisher: Smithsonian Institution
+    note: 用于核对 1976 年盲品相关藏品与展览信息；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -128,6 +134,28 @@ verification_scope: source-verified
 一，“加州酒全面击败法国酒”。事实是两组共 20 款酒的排序，加州酒在两组夺冠，但并不存在产区级的全面胜负。二，“参赛的法国酒是随便选的”。四款波尔多与四款勃艮第都是当时有代表性的名庄酒，只是年份与状态未必处于最佳。三，“评委被收买或作弊”。没有证据支持这一说法，争议主要集中在方法与代表性。四，“这场盲品直接导致法国酒衰落”。法国酒的价格与出口在 1970 年代后期继续增长，巴黎审判改变的是认知边界，而不是法国酒的根基。五，“1976 年之后加州酒才被认可”。加州酒在美国国内早已有市场，盲品加速的是国际认知。
 
 相关条目：[法国](ref:france)、[拉菲古堡红葡萄酒](ref:lafite)。
+
+
+## 进阶判断
+
+![1976 年巴黎盲品会获奖酒样](/media/photos/historical-event-1976-judgment-of-paris-3833ecec.jpg)
+
+图：1976 年巴黎盲品会的获奖酒样，加州与法国葡萄酒评价体系的分水岭。图片：Unknown author Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Judgment_of_Paris_1976_Winners_NMAH-2006-7043.jpg)）。
+
+| 维度 | 1976 年发生了什么 | 后续影响 |
+| --- | --- | --- |
+| 评审 | 巴黎盲品，法国评委 | 加州酒进入比较视野 |
+| 结果 | 加州红白均胜出 | 重赛与争议持续 |
+| 产业 | 加州声誉上升 | 新世界产区叙事改变 |
+| 证据 | 获奖酒瓶留存 | 成为博物馆藏品 |
+
+**加州酒赢了所有类别吗？** 不是。1976 年这场盲品常被概括为“加州获胜”，但具体结果是红、白两组各有排序；不能简化成所有法国名庄都被打败。
+
+**这场盲品被重复过吗？** 有重赛与后续纪念活动，结果并不完全一致。一次盲品是事件，不是长期质量判决；年份、储存与评审变化都会影响结果。
+
+**获奖酒瓶是真的吗？** 博物馆收藏的获奖酒瓶有来源与鉴定记录，但市场上也有仿造与“故事酒”。买历史纪念酒要看来源链、拍卖记录与专业鉴定。
+
+延伸阅读：[拉菲](ref:lafite)、[葡萄酒](ref:wine)。
 
 ## 另见
 

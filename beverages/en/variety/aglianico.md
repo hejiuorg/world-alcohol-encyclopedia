@@ -11,8 +11,8 @@ revision: 1
 translation_of: variety:aglianico
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6e21f5b90dcf817ca41826305dcacd5bdd0dcf7eb7f068ab2df5aa1b110dc929
-source_sha256: 6e21f5b90dcf817ca41826305dcacd5bdd0dcf7eb7f068ab2df5aa1b110dc929
+source_revision: sha256:965b3b7ab160ec80448143f945bdc49da14b54da28aa91c25c22fee2a7710380
+source_sha256: 965b3b7ab160ec80448143f945bdc49da14b54da28aa91c25c22fee2a7710380
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -80,6 +80,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Aglianico
 
 Aglianico is one of the weightiest red grapes of southern Italy, planted mainly on the slopes of Monte Vulture in Basilicata and in the inland hills of Campania. It ripens late, colours deeply, and carries both high tannin and high acidity; young examples often taste closed and drying, and need several years in bottle before they open. Calling it "the Nebbiolo of the south" is imprecise, but the two do share a logic of high acid, high tannin and complexity bought with time. Within the red wines of the south it is the variety most often compared with the north's finest, and its best bottles are discussed in the same breath as Italy's long-lived reds (ref:italy).
@@ -153,3 +154,9 @@ First, that Aglianico must be Greek in origin; the name and history support the 
 - [Tannin](ref:tannin): the core of its structure.
 - [Acidity](ref:acidity): why it stays fresh in a warm south.
 - [Oak ageing](ref:oak-ageing): the process that softens its tannin and adds spice.
+
+## Related images
+
+![Photograph for Italy: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-italy-202d4c25.jpg)
+
+Image: ' 09 - ITALY - Vineyard and signs Emilia Romagna wine - Mollino. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Topural 1, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=35825496)). Related image for Aglianico.

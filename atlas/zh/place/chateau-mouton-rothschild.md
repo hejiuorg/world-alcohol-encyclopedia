@@ -100,6 +100,7 @@ rights:
   note: 第三方商标、酒标图像与引用文本不在本许可内；参观安排、酒款与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 木桐酒庄
 
 木桐酒庄在波尔多左岸的波亚克，梅多克产区的核心地带。它的名字、等级与酒标几乎构成了一部浓缩的波尔多近代史：1853 年由英国分支的罗思柴尔德家族买下，1855 年被评为二级庄，1973 年晋升一级庄；1945 年以后，每个年份的正牌酒都请一位艺术家设计酒标。今天它既是一座仍在生产的酒庄，也是一处需要提前很久预约的参访地，而不是可以临时买票进入的景点。
@@ -174,3 +175,9 @@ verification_scope: source-verified
 补充阅读：[A Ginjinha](ref:c-extra-1)。
 
 相关条目：[葡萄酒](ref:wine)、[木桐古堡](ref:mouton-wine)、[波尔多](ref:bordeaux)。
+
+## 相关图像
+
+![木桐古堡](/media/photos/drink-france-chateau-mouton-rothschild-6c75d53a.jpg)
+
+图：木桐古堡。图片：Jack ma，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jardin_de_Ch%C3%A2teau_de_Mouton-Rothschild,_Pauillac._2012.jpg)）。关联图像：木桐酒庄。

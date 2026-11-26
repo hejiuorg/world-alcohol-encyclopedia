@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1837
 ---
+
 # Prater Garten
 
 从 U2 Eberswalder Straße 出来，沿 Kastanienallee 走两分钟，会看到一栋旧式 Berliner Rundbogen 建筑，红色“PRATER”字母挂在立面上。门洞后面不是街道，而是一整片被栗树遮住的院子：长木桌、红白格子遮阳伞、砾石地、啤酒杯碰撞的声音。它离 Mauerpark 与 Kastanienallee 的咖啡馆只有几分钟，却像一块被城市忘掉的乡村空地——这就是柏林最老啤酒花园的日常。
@@ -146,3 +147,9 @@ Prater 的酒单以柏林与德国啤酒为主：Pils、Helles、Weizen、Radler
 - Berlin.de 的 Prater Garten 页面：<https://www.berlin.de/restaurants/biergarten/9241029-3621819-prater-garten.html>，用于交叉核对“柏林最老啤酒花园”、栗树长桌与地址。
 - 同城的 `place:zur-letzten-instanz` 是柏林老酒馆，`place:hofbrauhaus`、`place:augustiner-braeu`、`place:schlenkerla` 与 `place:de-halve-maan` 代表德国/比利时啤酒文化的不同样本。
 - 相关条目：[Zur letzten Instanz](ref:instanz)、[Hofbräuhaus](ref:hofbrauhaus)、[Augustiner-Bräu](ref:augustiner)、[Schlenkerla](ref:schlenkerla)、[De Halve Maan](ref:halve-maan)
+
+## 相关图像
+
+![柏林最后一审餐厅](/media/photos/place-zur-letzten-instanz-79c166c4.jpg)
+
+图：柏林最后一审餐厅。图片：Julia Roessing，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zur_letzten_Instanz_Restaurant_Berlin_2026-09-29.jpg)）。关联图像：Prater Garten。

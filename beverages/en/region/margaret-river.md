@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:margaret-river
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:78c22f4b1d3db26b45310831c3c6e3d430e12ce36107b42b68e456927423c9d6
-source_sha256: 78c22f4b1d3db26b45310831c3c6e3d430e12ce36107b42b68e456927423c9d6
+source_revision: sha256:23ed09b3c2116f4ff5a2db2757b228899687a649a7ea5c0363bef03288c27935
+source_sha256: 23ed09b3c2116f4ff5a2db2757b228899687a649a7ea5c0363bef03288c27935
 level: other
 parent_id: region:australia
 country_code: AU
@@ -101,6 +101,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Margaret River
 
 Margaret River is the wine region at the south-west corner of Western Australia, known for Cabernet Sauvignon blends and Chardonnay. It is surrounded by ocean on three sides and highly isolated, and marine influence on its climate is stronger than in most Australian regions.
@@ -189,3 +190,13 @@ Fifth, taking a site name on a label for a registered GI. The region currently h
 - [Vintage](ref:vintage): vintage variation and rainfall in Margaret River.
 - [Single varietal](ref:single-varietal): the 85% variety labelling rule.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Photograph for Sémillon: Sémillon - Joseph Daurel. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons.](/media/photos/q2-variety-semillon-f7547db4.jpg)
+
+Image: Sémillon - Joseph Daurel. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons.. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=94839238)). Related image for Margaret River.
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Margaret River.

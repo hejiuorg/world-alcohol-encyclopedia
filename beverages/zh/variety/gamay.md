@@ -74,6 +74,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 佳美
 
 佳美（Gamay）是红葡萄品种，学名 Vitis vinifera，全名常写作 Gamay Noir à Jus Blanc。它皮薄、早熟、酸度高，是[博若莱](ref:beaujolais)[红葡萄酒](ref:red-wine)的核心品种；在法国[卢瓦尔](ref:loire)等地也有种植。与[黑皮诺](ref:pinot-noir)相比，佳美更易栽培、果味更直接，风格从轻盈易饮到可陈年的村庄级 cru 都能成立。
@@ -155,3 +156,9 @@ verification_scope: source-verified
 **更新提示。** 「佳美」最近核对于 2026-11-05；允许产区、克隆与栽培数据会更新，引种前以官方品种目录为准。
 
 **编者注。** 本页把「佳美」作为品种条目处理：定义、流程与关键数字以正文表格为准，与「葡萄酒」、「红葡萄酒」的差异用对照阅读验证；遇到价格、批次或地址，回到页面所列来源核对。
+
+## 相关图像
+
+![博若莱](/media/photos/region-beaujolais-9700eca2.webp)
+
+图：博若莱。图片：Cyril5555，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)）。关联图像：佳美。

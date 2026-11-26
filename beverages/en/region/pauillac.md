@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:pauillac
 source_lang: zh
-source_revision: sha256:77b992b350d1f1b0820d9911d3b34258e5c6b5ba0dcaecfaa4e6d97bf7e4e448
-source_sha256: 77b992b350d1f1b0820d9911d3b34258e5c6b5ba0dcaecfaa4e6d97bf7e4e448
+source_revision: sha256:660e7ea81a4c0f5379e7ed8e958ff751ee923e28b0039d098ebca8bdb78fc1ae
+source_sha256: 660e7ea81a4c0f5379e7ed8e958ff751ee923e28b0039d098ebca8bdb78fc1ae
 translation_status: reviewed
 level: city
 parent_id: region:france
@@ -82,6 +82,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Pauillac
 
 Pauillac is a red-wine appellation on the left bank of the Gironde estuary, in the middle of the Médoc peninsula in the Gironde department of France, recognised as an AOC on 14 November 1936. Its vineyards lie on gravel terraces cut by small streams, and three of the 1855 first growths — Lafite Rothschild, Latour and Mouton Rothschild — are located here, a concentration unmatched among Médoc communes.
@@ -149,3 +150,13 @@ The comparison with [France](ref:france) and [Cabernet Sauvignon](ref:cabernet-s
 - [Merlot](ref:merlot): the role of softening the blend and adding earlier fruit.
 - [Red wine](ref:red-wine): an overview of still red wine and winemaking.
 - [Oak ageing](ref:oak-ageing): barrel type, barrel age and micro-oxygenation.
+
+## Related images
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Pauillac.
+
+![Photograph for Cabernet Sauvignon: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+Image: Cabernet Sauvignon grapes from Château Cos D'Estournel. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons.. Credit: Megan Mallen, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=13318021)). Related image for Pauillac.

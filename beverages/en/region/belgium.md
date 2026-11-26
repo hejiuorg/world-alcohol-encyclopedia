@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:belgium
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:01f3eb1798947d7b3e37a525d4af2e9578cdb76e50a0b2039353db9183948795
-source_sha256: 01f3eb1798947d7b3e37a525d4af2e9578cdb76e50a0b2039353db9183948795
+source_revision: sha256:64f1b9011e1faa2e7d18aff3d53e1dd93a59cb4942de5e0a94a280b2167e3be3
+source_sha256: 64f1b9011e1faa2e7d18aff3d53e1dd93a59cb4942de5e0a94a280b2167e3be3
 level: country
 country_code: BE
 legacy_refs: []
@@ -171,3 +171,13 @@ Put [Beer](ref:beer)'s geographic boundary next to [Wheat](ref:wheat)'s climate 
 - [Chimay Blue](ref:chimay): a representative abbey ale.
 - [Weihenstephaner Hefe Weissbier](ref:weihenstephaner): a comparative read on German wheat beer.
 - [Lindemans Framboise](ref:lindemans): a representative lambic product.
+
+## Related images
+
+![Related photograph of Chimay Blue](/media/photos/drink-belgium-chimay-blue-53c59cbe.jpg)
+
+Image: Related photograph of Chimay Blue. Credit: Uploaded by photographer., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chimays.jpg)). Related image for Belgium.
+
+![Related photograph of Weihenstephaner Hefe Weissbier](/media/photos/drink-germany-weihenstephaner-hefe-weissbier-bcee0d33.jpg)
+
+Image: Related photograph of Weihenstephaner Hefe Weissbier. Credit: JIP, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Weihenstephaner_Hefe_Weissbier_aboard_Viking_Mariella.jpg)). Related image for Belgium.

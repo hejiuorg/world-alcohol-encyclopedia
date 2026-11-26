@@ -11,8 +11,8 @@ revision: 4
 translation_of: region:china
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:86cda8603d383a1cea1062eeaa1b4b9c90d01ed660e83c46c74504bba4cb5333
-source_sha256: 86cda8603d383a1cea1062eeaa1b4b9c90d01ed660e83c46c74504bba4cb5333
+source_revision: sha256:5204e8d67842bb874e1e96e08e3dd5158cf2b722cc449ce2c37e96317bc8efd9
+source_sha256: 5204e8d67842bb874e1e96e08e3dd5158cf2b722cc449ce2c37e96317bc8efd9
 level: country
 country_code: CN
 legacy_refs: []
@@ -109,6 +109,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # China
 
 This region is the country node in the region hierarchy, used to organise production areas, producers and places. Chinese drinks include grain-based [baijiu](ref:baijiu) and [huangjiu](ref:yellow-wine), alongside large-scale [wine](ref:wine), [beer](ref:beer) and imported spirits.
@@ -193,3 +194,13 @@ For China, begin with the appellation and its permitted varieties, then the vint
 - [Huangjiu](ref:yellow-wine): the tradition and classification of rice-based fermented drinks.
 - [Wine](ref:wine): the basic framework for domestic and imported wine.
 - [Beer](ref:beer): the largest beverage-alcohol category and its stylistic base.
+
+## Related images
+
+![Guojiao 1573](/media/photos/drink-guojiao-1573-0e97e137.jpg)
+
+Image: Guojiao 1573. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)). Related image for China.
+
+![Portrait of Li Bai from the anonymous album Tang Officials.](/media/photos/person-li-bai-ce619299.jpg)
+
+Image: Portrait of Li Bai from the anonymous album Tang Officials.. Credit: Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-14-%E5%94%90%E7%BF%B0%E6%9E%97%E4%BE%9B%E5%A5%89%E6%9D%8E%E7%99%BD.jpg)). Related image for China.

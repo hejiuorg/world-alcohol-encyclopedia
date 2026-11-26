@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1847
 ---
+
 # 丁香园咖啡馆
 
 蒙帕纳斯大道走到 Observatoire 路口，会看到一排被绿植和遮阳篷包住的店面，门口立着菜单牌，里面传出钢琴声。这就是丁香园咖啡馆。它不像花神或双叟那样把“文学咖啡馆”做成明显的旅游标签，门口甚至有点低调；但推门进去，酒吧台面上刻着海明威的名字，墙上挂着旧照片，靠里的钢琴吧在晚上会有人弹爵士。它既是餐厅，也是酒吧，也是蒙帕纳斯“还活着”的文学记忆。
@@ -149,3 +150,9 @@ founded_year: 1847
 - 若想走完整的左岸路线，读 `route:saint-germain-literary-cafes`。
 - 本页把达达争吵写成“关键冲突”而非单一因果；文学史叙述与店方故事之间存在细节差异。
 - 相关条目：[利普啤酒馆](ref:lipp)、[圆顶咖啡馆](ref:coupole)、[和平咖啡馆](ref:paix)、[圣日耳曼文学咖啡馆路线](ref:saint-germain)、[巴黎丽兹 Hemingway 酒吧](ref:hemingway)
+
+## 相关图像
+
+![La Coupole 的 Art Deco 立面与红色遮阳篷，102 boulevard du Montparnasse](/media/photos/place-la-coupole-dcbeb3f5.jpg)
+
+图：La Coupole 的 Art Deco 立面与红色遮阳篷，102 boulevard du Montparnasse。图片：besopha，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:La_coupole_(46200235745).jpg)）。关联图像：丁香园咖啡馆。

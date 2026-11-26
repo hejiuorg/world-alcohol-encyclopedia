@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:bierzo
 source_lang: zh
-source_revision: sha256:1a89d2b7acc59da8890bcc04a1282b8c73d71f399ce93a1397fdd07ba82f7921
-source_sha256: 1a89d2b7acc59da8890bcc04a1282b8c73d71f399ce93a1397fdd07ba82f7921
+source_revision: sha256:9e464cfac52fbd6bdb28e0cfaf3d8e26f24119fc38da491cc00684ca2d4e5934
+source_sha256: 9e464cfac52fbd6bdb28e0cfaf3d8e26f24119fc38da491cc00684ca2d4e5934
 translation_status: reviewed
 level: other
 parent_id: region:spain
@@ -92,6 +92,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Bierzo
 
 Bierzo is a wine denomination in western León, Spain, a basin ringed by mountains and known for Mencía reds, slate slopes and old vines. It only became a DO in 1989, yet it is one of the oldest planted areas in north-west Spain.
@@ -174,3 +175,13 @@ Begin with the appellation and its permitted varieties, move on to the vintage a
 - [Vintage](ref:vintage): vintage variation and the stability of old vines.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
 - [Dry](ref:dry): dry styles versus residual sugar.
+
+## Related images
+
+![Photograph for Spain: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-spain-732e598a.jpg)
+
+Image: Uga - Lanzarote - Spain. Vineyards -U16. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=17458062)). Related image for Bierzo.
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Bierzo.

@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:aquavit
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1dfc1ad2963bc0868428d4fc8ee25539d1f81a9e9946564b7a9e039da9e8af0b
-source_sha256: 1dfc1ad2963bc0868428d4fc8ee25539d1f81a9e9946564b7a9e039da9e8af0b
+source_revision: sha256:b1b4a80436167c1b89f499c0ad38b9d37d5a6292d84efa53a285f87c531981f8
+source_sha256: b1b4a80436167c1b89f499c0ad38b9d37d5a6292d84efa53a285f87c531981f8
 legacy_refs: []
 aroma_family: caraway, dill and citrus
 aliases:
@@ -138,3 +138,9 @@ Compared with absinthe or anise liqueurs, aquavit has less anise and more carawa
 Look for the category word and strength: a bottle labelled "akvavit/aquavit" must meet the caraway or dill requirement, and around 40% is typical. Clear versions suit freezing and mixing; amber versions suit sipping. "Juleakevitt" usually signals a Christmas-spiced style. Once opened, store away from light at room temperature, and refrigerate lower-strength bottles, finishing them within a year.
 
 Aquavit is not meant for long cellaring at home; oak character does not keep developing in the bottle. If the aroma turns flat or visibly oxidised, it has passed its best. In cocktails, reduce the other spices, or caraway will quickly take over the glass.
+
+## Related images
+
+![Vodka](/media/photos/drink-style-vodka-415ef8e0.jpg)
+
+Image: Vodka. Credit: Ashley Pomeroy, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Smirnoff_Red_Label_8213.jpg)). Related image for Aquavit.

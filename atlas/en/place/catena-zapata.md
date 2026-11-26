@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:catena-zapata
 source_lang: zh
-source_revision: sha256:05f0ae805f504a6e6f1c6320768e85333135e039a72de6ed4ece443bea532f26
-source_sha256: 05f0ae805f504a6e6f1c6320768e85333135e039a72de6ed4ece443bea532f26
+source_revision: sha256:69b700a51f3d88479b4668590aa03a5204b6d6e8cd42e51e3587958c9fdda340
+source_sha256: 69b700a51f3d88479b4668590aa03a5204b6d6e8cd42e51e3587958c9fdda340
 translation_status: reviewed
 subtype: winery-visitor
 address: Cobos s/n, Luján de Cuyo (5509), Mendoza, Argentina
@@ -94,6 +94,7 @@ rights:
   note: Third-party trademarks, labels, menus, images and quoted texts are not covered by this licence; opening hours, visit prices, booking rules and wines change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Catena Zapata
 
 Catena Zapata stands on Cobos road in Luján de Cuyo, its winery marked by a Mayan pyramid and its vineyards running from the valley floor toward the high Andean foothills. The company was founded in 1902, but what brought it to international attention was the late-20th-century redefinition of Malbec and high-altitude terroir. A visit here is not only about seeing the pyramid; it is about understanding how one family turned variety, altitude and winemaking choice into a repeatable narrative.
@@ -155,3 +156,9 @@ Start with the address. From there, consider the current opening status, then wh
 ## References
 
 This entry was checked against Catena Zapata's official contact, about and visit pages, Argentina's national tourism promotion material for Mendoza and Wines of Argentina's INV-based data. Page verified 2026-11-09. To place this stop in a day, see the [Mendoza wine trail](ref:route). Opening hours, prices and booking rules are subject to official channels.
+
+## Related images
+
+![Photograph for Mendoza: Mendoza Vineyard. Credit: Justin De La Ornellas, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-mendoza-043c2ae0.jpg)
+
+Image: Mendoza Vineyard. Credit: Justin De La Ornellas, CC BY 2.0, via Wikimedia Commons.. Credit: Justin De La Ornellas, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=25786871)). Related image for Catena Zapata.

@@ -5,7 +5,7 @@ type: place
 lang: zh
 slug: mcsorleys-old-ale-house
 title: 麦克索利老麦酒馆
-summary: 纽约东村的历史酒馆，1854 年开业，以只供应淡色和深色艾尔、历史陈设闻名。
+summary: 纽约东村的历史酒馆，1854 年开业，以只供应淡色和深色艾尔、历史陈设闻名；没有酒单、只收现金的传统保留至今，是纽约最老的连续经营酒馆之一。
 status: reviewed
 revision: 5
 subtype: pub
@@ -82,6 +82,7 @@ city: 纽约
 verification_scope: source-verified
 founded_year: 1854
 ---
+
 # 麦克索利老麦酒馆
 
 麦克索利老麦酒馆（McSorley’s Old Ale House）位于纽约东村 15 East 7th Street，1854 年由爱尔兰移民约翰·麦克索利开办，最初叫“The Old House at Home”。它最著名的特征不是“老”，而是“窄”：一百多年里只供应一种酒——艾尔，而且只有淡色与深色两种选择。店内至今保留木桌、旧海报、吊灯与历代顾客留下的物件；1970 年，在法院与市政法令的压力下，它结束长期只接待男性的做法，向女性开放。门口那句“Be Good or Be Gone”是店规，也是这家酒馆的性格。
@@ -137,3 +138,9 @@ founded_year: 1854
 | 官网 | mcsorleysoldalehouse.nyc |
 
 **来源与边界。** 本页关于「麦克索利老麦酒馆」的关键事实，主要由以下来源交叉核对：Wikipedia（历史、地址与营业信息）、City of New York（东村与历史酒馆背景）、McSorley’s Old Ale House（1854 年开业、只供应艾尔、1970 年向女性开放等店内历史时间线；营业时间（周一至周六 11:00–01:00、周日 12:00–01:00）、不收预订、只收现金与电话 212-473-9148）等 5 条来源。产品、地址或营业状态变化较快时，以 mcsorleysoldalehouse.nyc 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“白马酒馆”页面配图：White Horse Tavern PA。摄影：Smallbones，CC0，来自 Wikimedia Commons。](/media/photos/q2-place-white-horse-tavern-b0f0ef12.jpg)
+
+图：White Horse Tavern PA。摄影：Smallbones，CC0，来自 Wikimedia Commons。。图片：Smallbones，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13351900)）。关联图像：麦克索利老麦酒馆。

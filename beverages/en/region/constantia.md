@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:constantia
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8041116f74ff2ed737dacf8545d68d5cc01c768c07f610f354936c0caccafc46
-source_sha256: 8041116f74ff2ed737dacf8545d68d5cc01c768c07f610f354936c0caccafc46
+source_revision: sha256:6292b0bf3c6636c2ca3dc3e026b70202d5227ba17243753e4f1e6cb46b117bb1
+source_sha256: 6292b0bf3c6636c2ca3dc3e026b70202d5227ba17243753e4f1e6cb46b117bb1
 level: other
 parent_id: region:south-africa
 country_code: ZA
@@ -116,6 +116,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Constantia
 
 Constantia is a wine ward on the southern side of the city of Cape Town and the starting point of South African wine history. It is known for sea breezes, granite slopes and Muscat sweet wine, but today's wines go well beyond the historic sweet style.
@@ -202,3 +203,13 @@ Fifth, that the Wine of Origin seal is a quality grade. It certifies origin, var
 - [Vintage](ref:vintage): vintage variation in Constantia.
 - [Single variety](ref:single-varietal): the 85% labelling rule.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Photograph for Sémillon: Sémillon - Joseph Daurel. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons.](/media/photos/q2-variety-semillon-f7547db4.jpg)
+
+Image: Sémillon - Joseph Daurel. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons.. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=94839238)). Related image for Constantia.
+
+![Chenin Blanc](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+Image: Chenin Blanc. Credit: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)). Related image for Constantia.

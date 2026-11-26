@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:bodegas-lopez-de-heredia
 source_lang: zh
-source_revision: sha256:3d65e98883b3b1ae61af7c73757d83239ff861fbc7ebfbe43e48819515d02abe
-source_sha256: 3d65e98883b3b1ae61af7c73757d83239ff861fbc7ebfbe43e48819515d02abe
+source_revision: sha256:8448252418a8ac22780702d61ede6aaebe35de49f93bfa2862c0d63640b74846
+source_sha256: 8448252418a8ac22780702d61ede6aaebe35de49f93bfa2862c0d63640b74846
 translation_status: reviewed
 subtype: winery-visitor
 address: Avenida de Vizcaya 3, 26200 Haro, La Rioja, Spain
@@ -171,3 +171,9 @@ Without a car, the train to Haro is easiest, but public transport from Haro to B
 López de Heredia is a concrete sample of traditional [Rioja](ref:rioja) and turns the idea of ageing in [wine](ref:wine) into a cellar you can walk through. For how cellars shape flavour, read [cellar and storage](ref:cellar); for another benchmark producer in the same region, see [Vega Sicilia](ref:vega).
 
 Further reading: [A Ginjinha](ref:c-extra-1).
+
+## Related images
+
+![Photograph for Rioja: A Rioja Vineyard - panoramio. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-rioja-e8334a87.jpg)
+
+Image: A Rioja Vineyard - panoramio. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Art Anderson, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=56546384)). Related image for Bodegas López de Heredia.

@@ -93,6 +93,7 @@ rights:
   note: 本页配图为维基共享资源的青岛啤酒博物馆院落实拍照片，按 CC0 1.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 青岛啤酒厂（登州路厂区）
 
 登州路 56 号是青岛啤酒的诞生地，也是今天仍在运转的老厂区。很多游客把这里直接叫“啤酒博物馆”，但厂区与博物馆并不是两个可以分开买票的景点：博物馆坐落在厂区里，参观动线从百年厂房、老设备一直走到贴着生产车间的玻璃廊道。理解这层关系，才知道自己看的是一座“活着的工厂”，不是一座把机器封存起来的展馆。
@@ -142,3 +143,9 @@ verification_scope: source-verified
 青岛啤酒厂把[拉格](ref:lager)的德式传统落在一座仍在运转的老厂里，也让[青岛啤酒](ref:tsingtao-beer)从品牌名变成可触摸的建筑与设备。想理解更广的啤酒风格，可以回到[啤酒](ref:beer)的总览；想看这家企业的产品脉络，可以继续读[生产者档案](ref:producer)与[中国](ref:china)近代工业史的相关条目。
 
 对照阅读：[啤酒](ref:beer)、[青岛啤酒股份有限公司](ref:producer)。
+
+## 相关图像
+
+![拉格啤酒](/media/photos/drink-style-lager-7d0e4091.jpg)
+
+图：拉格啤酒。图片：Lars Curfs ( Grashoofd )，CC BY-SA 3.0 nl，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bitburger_Glass.JPG)）。关联图像：青岛啤酒厂（登州路厂区）。

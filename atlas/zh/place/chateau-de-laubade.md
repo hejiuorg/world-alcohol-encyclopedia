@@ -94,6 +94,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观时间、价格与线路会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 洛巴德酒庄
 
 洛巴德（Château de Laubade）是下雅文邑（Bas-Armagnac）的一家单一庄园酒庄，位于热尔省索尔贝（Sorbets），1870 年建庄，80 公顷葡萄园围绕城堡连成一片，由 Lesgourgues 家族经营三代。它以下雅文邑的沙质土壤、单一庄园装瓶与年份雅文邑著称：生命之水按葡萄品种与年份分开陈年，每瓶标注装瓶日期与批次。这三点决定了它和以调配为主的大酒商是两种不同的参访对象。
@@ -156,3 +157,9 @@ verification_scope: source-verified
 | 官网 | chateaudelaubade.com |
 
 **来源与边界。** 本页关于「洛巴德酒庄」的关键事实，主要由以下来源交叉核对：Château de Laubade（1870 年建庄、80 公顷单一地块、Lesgourgues 家族三代、1974 年定制的连续蒸馏器、约 3000 只 420 升酒桶与九座酒窖；1974 年重启年份装瓶传统、15 至 50 年年份系列与本庄装瓶的做法）、BNIA（下雅文邑分区、连续蒸馏与年份标示的产区规则）、INAO（雅文邑原产地命名的管理框架）。产品、地址或营业状态变化较快时，以 chateaudelaubade.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![雅文邑](/media/photos/region-armagnac-e5e16174.jpg)
+
+图：雅文邑。图片：Rama，CC BY-SA 2.0 fr，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Armagnac-img_0465.jpg)）。关联图像：洛巴德酒庄。

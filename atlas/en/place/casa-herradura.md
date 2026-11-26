@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:casa-herradura
 source_lang: zh
-source_revision: sha256:02f7b2f58fda8b2f46cbfb96c26b59439678eb0f333982164ddf6755ce06d97e
-source_sha256: 02f7b2f58fda8b2f46cbfb96c26b59439678eb0f333982164ddf6755ce06d97e
+source_revision: sha256:68a5e869ecfc0f552f95307463d4b15440c42988e1ccb4b9751e7bdde536e8d6
+source_sha256: 68a5e869ecfc0f552f95307463d4b15440c42988e1ccb4b9751e7bdde536e8d6
 translation_status: reviewed
 subtype: distillery-visitor
 address: Ex-Hacienda San José del Refugio, Doña Gabriela Peña Lozada 405, 45380 Amatitán, Jalisco, México
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are outside this licence; tour prices, times and releases change, so confirm with the distillery's official channels.
 verification_scope: source-verified
 ---
+
 # Casa Herradura: The Horseshoe Hacienda of Amatitán
 
 Casa Herradura occupies the Ex-Hacienda San José del Refugio in Amatitán, Jalisco. It is one of the few old houses in the tequila lowlands that still keeps estate, distillery and bottling line on one piece of land. The story is often reduced to "founded in 1870", but what matters now is how it keeps clay-dome ovens, wild-yeast fermentation and its own American white oak barrels while replacing the donkey-drawn tahona with a modern mill.![Casa Herradura: The Horseshoe Hacienda of Amatitán photograph](/media/photos/q2-place-casa-herradura-16d9e678.jpg)
@@ -164,3 +165,9 @@ The Amatitán hacienda is a working distillery with agave fields around it, and 
 | Official site | herradura.com |
 
 **Sources and limits.** The key claims about Casa Herradura: The Horseshoe Hacienda of Amatitán are checked against the following sources: Tequila Herradura (Used to check the tour types, durations, prices, the minimum age of 18 and the online booking route), Consejo Regulador del Tequila. For current products, addresses or opening status, use herradura.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Tequila](/media/photos/drink-style-tequila-827c4596.jpg)
+
+Image: Tequila. Credit: T2O media México, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Paisaje_agavero_de_Jose_Cuervo_en_Tequila,_Jalisco.jpg)). Related image for Casa Herradura: The Horseshoe Hacienda of Amatitán.

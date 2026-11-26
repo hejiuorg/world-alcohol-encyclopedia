@@ -71,6 +71,7 @@ rights:
   note: 第三方标准/商标/图片不在许可内；第三方图片已在图注中标注作者与许可；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 卡莎萨
 
 卡莎萨（Cachaça）是巴西以甘蔗汁发酵后蒸馏得到的烈酒，也是巴西最具代表性的蒸馏酒。它与朗姆酒共享“甘蔗”这一原料起点，却在原料形态、法规身份与风味传统上走的是另一条路：朗姆酒多以制糖副产物糖蜜为原料，卡莎萨则以新鲜甘蔗汁为主；在巴西，卡莎萨是受法律定义与地理标志保护的独立类别，不是朗姆酒的地方叫法。
@@ -158,3 +159,9 @@ verification_scope: source-verified
 - [蒸馏](ref:distillation)：壶式与柱式蒸馏对卡莎萨风格的影响。
 - [甘蔗](ref:sugarcane)：卡莎萨的原料基础与压榨时机。
 - [发酵](ref:fermentation)：自发发酵与接种酵母的差异。
+
+## 相关图像
+
+![收获后切段的甘蔗茎，可见节与节间。](/media/photos/ingredient-sugarcane-64425b4f.jpg)
+
+图：收获后切段的甘蔗茎，可见节与节间。。图片：ruurmo，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cut_sugarcane.jpg)）。关联图像：卡莎萨。

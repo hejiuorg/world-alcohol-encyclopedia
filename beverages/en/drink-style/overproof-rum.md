@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:overproof-rum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:eda17f437a49dfc9e8a95d57a068d8d085fcfdb2d1020b216d01a26e3977c564
-source_sha256: eda17f437a49dfc9e8a95d57a068d8d085fcfdb2d1020b216d01a26e3977c564
+source_revision: sha256:d5013b361a8055d2e717358370fbc6ae5ba7711b57d97e0175c60e0723449ee6
+source_sha256: d5013b361a8055d2e717358370fbc6ae5ba7711b57d97e0175c60e0723449ee6
 related:
   - relation: about
     target_id: drink-style:rum
@@ -79,6 +79,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Overproof Rum
 
 Rum with alcohol well above the standard category, often 57.15% ABV (151 US proof) or higher; intense, flammable and mostly used in mixing and cooking.
@@ -170,3 +171,9 @@ A common use is a float on a tiki drink, where a small measure adds aroma withou
 | Parent style | Rum |
 
 **Sources and limits.** The key claims about Overproof Rum are checked against the following sources: European Union (spirit categories, definitions and labelling rules), US TTB (US whiskey, rum and spirits classifications), West Indies Rum and Spirits Producers' Association (Caribbean rum production, geographical indications and industry standards) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Jamaica](/media/photos/place-appleton-estate-b81db790.jpg)
+
+Image: Category image for Jamaica. Credit: Acampbell3000, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Appleton_Estate_Jamaica_November_2012.jpg)). Related image for Overproof Rum.

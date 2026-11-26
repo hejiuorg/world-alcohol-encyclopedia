@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:united-kingdom
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d8678f7bc22371adeefafc155aa5b1fb632f002f81bb7cbbd44d3f692d21989f
-source_sha256: d8678f7bc22371adeefafc155aa5b1fb632f002f81bb7cbbd44d3f692d21989f
+source_revision: sha256:c39ae4b91c3752ea54018ab297c9c2e0567111da0a314ffed010fb684dc731de
+source_sha256: c39ae4b91c3752ea54018ab297c9c2e0567111da0a314ffed010fb684dc731de
 level: country
 country_code: GB
 legacy_refs: []
@@ -89,6 +89,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # United Kingdom
 
 The United Kingdom is an island country made up of England, Wales, Scotland and Northern Ireland. Its drinks landscape is often overshadowed by Scotch whisky, yet English and Welsh sparkling wine, British gin, beer and cider all have clear traditions and markets. This region focuses on England, Wales and Northern Ireland; for Scotch whisky, see the [Scotland](ref:scotland) page.
@@ -184,3 +185,13 @@ Start with [Wine](ref:wine) for geographic boundary, then read [Gin](ref:gin) fo
 - [Beer](ref:beer) and [cider](ref:cider): British fermented-drink traditions.
 - [Barley](ref:barley) and [water](ref:water): the base materials of beer.
 - [Scotland](ref:scotland) and [whisky](ref:whisky): the separate Scotch whisky system.
+
+## Related images
+
+![Cider](/media/photos/drink-style-cider-f3bc26a6.jpg)
+
+Image: Cider. Credit: ChuckDabs, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Midwest_hard_cider.jpg)). Related image for United Kingdom.
+
+![Gin](/media/photos/drink-style-gin-abe0a9c8.jpg)
+
+Image: Gin. Credit: Decatur Wine & Spirits, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)). Related image for United Kingdom.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: guide:read-a-label
 source_lang: zh
-source_revision: sha256:6e5732dd126c70d122819a35bff0391768e9c19d8ddb3ac6b5032458d0c6fe68
-source_sha256: 6e5732dd126c70d122819a35bff0391768e9c19d8ddb3ac6b5032458d0c6fe68
+source_revision: sha256:fec062cf14f11ead1fb37e4a05e62394aad48b2c84c614a52e8a1f7fcd05d882
+source_sha256: fec062cf14f11ead1fb37e4a05e62394aad48b2c84c614a52e8a1f7fcd05d882
 translation_status: reviewed
 about_refs:
   - drink-style:whisky
@@ -68,6 +68,12 @@ sources:
     publisher: OIV
     accessed: 2026-11-21
     note: Used to verify the entry's background, terminology and regulatory context; no source text is reproduced.
+  - key: adv-eu-labelling
+    title: European Commission — Food labelling and packaging
+    url: https://ec.europa.eu/food/food-labelling-and-packaging_en
+    publisher: European Commission
+    note: Used to check mandatory fields and consumer information on pre-packaged food labels; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -161,6 +167,28 @@ Awards and scores are also marketing information. The scope of an award, the com
 - Check whether the standard code and production licence number are clearly legible.
 - Keep marketing words separate from regulated fields; do not treat adjectives as facts.
 - Leave uncertain information blank rather than filling it in from memory.
+
+
+## Advanced judgment
+
+![Back label of a Côtes de Provence wine](/media/photos/guide-read-a-label-d715c0ff.jpg)
+
+Figure: The back label of a Côtes de Provence wine, where origin, grade, alcohol and bottling information sit. Image: Wiki.cullin, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Label_-_Back_of_Bottle_-_Sainte_Magdeleine_-_Cotes_de_Provence.jpg)).
+
+| Label field | What it proves | What it does not prove |
+| --- | --- | --- |
+| Origin / region | Regulatory status and geographic source | Quality or flavour |
+| Alcohol / net volume | Strength and container size | Raw materials or method |
+| Ingredients | Which materials are declared | Exact proportions or quality |
+| Standard / category | The product category | Batch variation or actual taste |
+
+**Does AOC / AOP mean good wine?** No. AOC/AOP proves origin and rule compliance, not quality. Within one appellation there are different levels, producers and vintages; producer, vintage and storage still matter.
+
+**What does “pure grain solid-state” prove?** It describes a raw-material and process route, not a quality grade or a guarantee of taste. Read the aroma type, alcohol, producer, standard and batch as well.
+
+**Is the Chinese back label enough for imported wine?** The Chinese back label is compliance information; the original label often carries region, variety, estate and bottling detail. Read both, especially producer, bottler and importer.
+
+Further reading: [standard](ref:standard) and [terroir](ref:terroir).
 
 ## Boundary
 

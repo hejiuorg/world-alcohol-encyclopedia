@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:caffe-florian
 source_lang: zh
-source_revision: sha256:3706a8dc42884b17fd7b40763227644d3b3597cc769354fb9e2373b802f2edce
-source_sha256: 3706a8dc42884b17fd7b40763227644d3b3597cc769354fb9e2373b802f2edce
+source_revision: sha256:bb3216ee58b487ce64dd1566bc54721373e8912091829ea6de068850a87b5cdc
+source_sha256: bb3216ee58b487ce64dd1566bc54721373e8912091829ea6de068850a87b5cdc
 translation_status: reviewed
 subtype: pub
 address: Piazza San Marco 57, 30124 Venezia, Italy
@@ -149,3 +149,9 @@ For a half day, see the church and the Doge's Palace in the morning, avoid the m
 - [Pub and city](ref:pub-and-city): how cafés, pubs, bars and beer halls use seating and opening hours to organise public life.
 - [Harry's Bar Venice](ref:harrys): another way to drink in the same quarter, known for the Bellini and carpaccio.
 - [Venice San Marco two-bar walk](ref:venice-route): the two stops as a short evening route.
+
+## Related images
+
+![The entrance to Harry’s Bar on Calle Vallaresso, with the house number 1323 above the door.](/media/photos/place-harrys-bar-venice-ad372cc6.jpg)
+
+Image: The entrance to Harry’s Bar on Calle Vallaresso, with the house number 1323 above the door.. Credit: Felix Haslimeier, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Italy_-_Venice,_Harry%27s_Bar,_San_Marco.jpg)). Related image for Caffè Florian.

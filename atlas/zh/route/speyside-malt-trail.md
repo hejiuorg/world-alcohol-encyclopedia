@@ -70,6 +70,12 @@ sources:
     publisher: Traveline Scotland
     note: 用于核对斯佩塞公共交通与巴士、火车衔接的查询入口；班次与票价不写入正文，以当日查询为准。
     accessed: 2026-11-08
+  - key: adv-visitscotland
+    title: VisitScotland — Whisky tours and Speyside
+    url: https://www.visitscotland.com/see-do/food-drink/whisky/
+    publisher: VisitScotland
+    note: 用于核对斯佩塞路线、交通与游客信息；未复制原文。
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -89,6 +95,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # 斯佩塞麦芽威士忌路线：达夫镇、Craigellachie 与 Ballindalloch
 
 斯佩塞的酒厂密度很高，路线很容易排成“一天五家”。这条路线只取三家：达夫镇的格兰菲迪、Craigellachie 的麦卡伦庄园、Ballindalloch 的格兰威特。它们沿 A941 与 A95 展开，车程都在半小时上下，却分别回答三个不同的问题：家族独立如何与大产能共存，雪莉桶与新建酒厂如何互相解释，果香风格如何与 1824 年的合法化历史放在一起。三站都需预约，且都不适合“喝完再开车”。
@@ -164,6 +171,28 @@ updated_at: 2026-11-08
 
 相关条目：[格兰菲迪蒸馏厂](ref:glenfiddich)、[麦卡伦庄园](ref:macallan)。
 
+
+## 进阶判断
+
+![格兰罗塞斯酒厂](/media/photos/route-speyside-malt-trail-5f2ee11e.jpg)
+
+图：斯佩塞罗瑟斯的格兰罗塞斯酒厂，麦芽威士忌路线上的典型站点。图片：Yves Cosentino，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenrothes_Distillery,_Rothes,_Speyside.jpg)）。
+
+| 路段 | 建议时间 | 预约重点 |
+| --- | --- | --- |
+| Rothes / Keith | 半天 | 酒厂参观与品鉴 |
+| Dufftown | 一天 | Glenfiddich 等热门站点 |
+| Craigellachie | 半天 | Macallan 与河畔景观 |
+| 自驾全线 | 2–3 天 | 不酒驾、留代驾 |
+
+**没有车能走斯佩塞路线吗？** 可以，但站点分散，公共交通班次有限。把住宿放在 Elgin 或 Dufftown，选择火车加出租车/当地团，比硬凑公交更可靠。
+
+**品鉴后能开车吗？** 不能。苏格兰对酒驾执行严格，一杯也可能超标。把品鉴安排在住宿地附近，或提前订代驾、出租车与公交；不要用“我只喝一点”做判断。
+
+**什么时候走这条线最好？** 5–9 月白天长、路况稳，但游客多；春秋人少、光线好，部分酒厂缩短营业。先查酒厂预约、火车班次与天气，再定路线。
+
+延伸阅读：[格兰菲迪](ref:glenfiddich)、[麦卡伦](ref:macallan)。
+
 ## 另见
 
 - [格兰菲迪蒸馏厂](ref:glenfiddich)：1887 年首次出酒、家族独立、12 年与 15 年索莱拉。
@@ -172,3 +201,9 @@ updated_at: 2026-11-08
 - 想继续读背景，可在内容仓中查阅斯佩塞产区、苏格兰威士忌与“产地与工艺”条目；本页不再重复登记引用。
 
 达夫镇、Craigellachie 与 Ballindalloch 之间以自驾或包车更稳，酒厂参观需分别预约；以各官网确认场次与交通。核验于 2026-11-08。
+
+## 相关图像
+
+![麦卡伦庄园的 Easter Elchies House（建于 1700 年）](/media/photos/place-the-macallan-estate-c7353c3c.jpg)
+
+图：麦卡伦庄园的 Easter Elchies House（建于 1700 年）。图片：יאיר צפורי，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Macallan_Easter_Elchies_House_Built_in_1700.jpg)）。关联图像：斯佩塞麦芽威士忌路线：达夫镇、Craigellachie 与 Ballindalloch。

@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1797
 ---
+
 # 拿破仑屋
 
 新奥尔良法国区的 Chartres 与 St. Louis 街角，有一栋三层、灰白灰泥墙、带小穹顶的老屋。它没有法国宫廷式的华丽，反而更像一栋被潮气、雨水与时间反复擦过的加勒比式宅子。门口的酒旗写着“Napoleon House Since 1797”，但真正的故事比门牌更绕：这里从未住过拿破仑，却因为一个“请他來避难”的计划，永久地改了名字。
@@ -147,3 +148,9 @@ Pimm’s Cup 是这里的常见点单，庭院与旧吧台比菜单更像历史�
 本页于 2026-11-21 核对 Napoleon House 官方页面。每日 11:00–22:00、不接受订位，狂欢节与爵士乐节期间排队会变长，出发前查官网。1797 年建成、1814 年扩建、1914 年起家族经营是三条不同时间线；拿破仑从未到过这里，“避难邀请”属于城市传说，Pimm’s Cup 的配方差异也已在正文保留限定。本页图片是拿破仑屋的街角外观与小穹顶，不是室内或菜单；图注已逐张署名，图片许可见来源页。
 
 对照阅读：[酒馆史：从酒肆、客栈到酒吧](ref:taverns)、[禁酒令：禁令改变供给，不消灭需求](ref:prohibition)。
+
+## 相关图像
+
+![Hotel Monteleone 内旋转木马酒吧的彩绘吧台与顶棚；吧台 1949 年安装，现有木马顶棚为 1992 年加建](/media/photos/place-carousel-bar-hotel-monteleone-1da9d1ef.jpg)
+
+图：Hotel Monteleone 内旋转木马酒吧的彩绘吧台与顶棚；吧台 1949 年安装，现有木马顶棚为 1992 年加建。图片：Carnaval.com Studios，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Carousel_Bar_at_Hotel_Monteleone,_New_Orleans,_April_2022.jpg)）。关联图像：拿破仑屋。

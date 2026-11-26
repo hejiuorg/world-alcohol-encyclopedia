@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:hubei
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e76d528f45b66a65df66825fd2590269cd0fe9fb120593d2344376cadf19b26c
-source_sha256: e76d528f45b66a65df66825fd2590269cd0fe9fb120593d2344376cadf19b26c
+source_revision: sha256:cc35d041bfb9fa630d66dbc4a47b0eca15fecd4d9787fc7444fcf23cb92aca82
+source_sha256: cc35d041bfb9fa630d66dbc4a47b0eca15fecd4d9787fc7444fcf23cb92aca82
 legacy_refs: []
 level: province
 parent_id: region:china
@@ -86,6 +86,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Hubei Province
 
 Hubei lies in central China along the middle Yangtze. In the map of alcoholic drinks it is a major baijiu producer with a yellow wine tradition of its own: around Fangxian in Shiyan, glutinous rice and small qu are fermented in clay jars for a fairly sweet style, and Fangxian yellow wine is a local famous wine.![Hubei Province image](/media/photos/region-hubei-942a963d.jpg)
@@ -171,3 +172,13 @@ Hubei's Fangxian yellow wine uses glutinous rice and small qu, and the province 
 - [Yellow wine](ref:yellow-wine): definition, classification and process.
 - [Glutinous rice](ref:glutinous-rice) and [water](ref:water): the base materials of Fangxian yellow wine.
 - [Qu making](ref:qu-making) and [fermentation](ref:fermentation): small qu and clay-jar fermentation.
+
+## Related images
+
+![Glutinous rice](/media/photos/ingredient-glutinous-rice-db551383.jpg)
+
+Image: Glutinous rice. Credit: 국립국어원, CC BY-SA 2.0 kr, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg)). Related image for Hubei Province.
+
+![Yellow wine](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+Image: Yellow wine. Credit: udono, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)). Related image for Hubei Province.

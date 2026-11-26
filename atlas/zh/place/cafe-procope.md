@@ -79,6 +79,7 @@ rights:
 city: 巴黎
 verification_scope: source-verified
 ---
+
 # 普罗可布咖啡馆
 
 ![普罗可布咖啡馆 图像](/media/photos/place-cafe-procope-e1f880f0.jpg)
@@ -124,3 +125,9 @@ Francesco Procopio dei Coltelli 来自西西里，常被简称为 Procopio。他
 补充阅读：[A Ginjinha](ref:c-extra-1)。
 
 相关条目：[葡萄酒](ref:wine)、[认识一座城，从一间酒馆开始](ref:pub-and-city)、[法国](ref:france)。
+
+## 相关图像
+
+![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。关联图像：普罗可布咖啡馆。

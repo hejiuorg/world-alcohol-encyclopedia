@@ -22,8 +22,8 @@ tags:
 translation_of: variety:montepulciano
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3fcee14b3e764b857f3ba7a035cbe570028ab0f9fad373b6bbd959aa2f5d9480
-source_sha256: 3fcee14b3e764b857f3ba7a035cbe570028ab0f9fad373b6bbd959aa2f5d9480
+source_revision: sha256:9b473cc3ff6381790e5bbfbe49cea277b2469ec98ed5e17ce611cefab5b06a9b
+source_sha256: 9b473cc3ff6381790e5bbfbe49cea277b2469ec98ed5e17ce611cefab5b06a9b
 related:
   - relation: about
     target_id: region:italy
@@ -166,3 +166,9 @@ A useful comparison is to set a Colline Teramane or Teramo slope reserve beside 
 Planting area, clones and overseas plantings keep updating with variety surveys; for formal citation, check the Italian agriculture ministry, ISMEA statistics, the VIVC register and the relevant regional disciplinari.
 
 - Related: [italy](ref:italy), [sangiovese](ref:sangiovese), [red-wine](ref:red), [oak-ageing](ref:oak), [terroir](ref:terroir).
+
+## Related images
+
+![Sangiovese](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
+
+Image: Sangiovese. Credit: Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:VIVC10680_SANGIOVESE_Cluster_in_the_field_20354.jpg)). Related image for Montepulciano.

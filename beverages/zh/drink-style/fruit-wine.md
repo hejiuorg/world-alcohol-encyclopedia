@@ -66,6 +66,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 果酒
 
 果酒是以水果汁或水果浸提液经酵母发酵得到的酒精饮料。它的酒精度通常低于蒸馏酒，风味取决于水果品种、成熟度、发酵方式和是否保留残糖。苹果酒、梨酒、樱桃酒、蓝莓酒都属于这一大类；中国的果酒行业标准对原料和基本工艺也有相应要求。
@@ -131,3 +132,9 @@ verification_scope: source-verified
 - [蒸馏](ref:distillation)：把发酵果酒转化为水果白兰地的关键步骤。
 - [利口酒](ref:liqueur)：以烈酒为基、加糖与风味的相邻类别。
 - [白兰地](ref:brandy)：水果蒸馏酒的归属大类。
+
+## 相关图像
+
+![白兰地](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+图：白兰地。图片：Didier Descouens，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)）。关联图像：果酒。

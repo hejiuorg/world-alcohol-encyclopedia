@@ -87,6 +87,7 @@ rights:
 city: 牛津
 verification_scope: source-verified
 ---
+
 # 鹰与孩童酒馆
 
 圣吉尔斯街 49 号现在更像一处需要读门牌的建筑：门前没有排队的人，也没有酒保在擦杯子。鹰与孩童酒馆自 2020 年 3 月起关闭，2023 年由 Ellison Institute of Technology（EIT）买下，2025 年获准按修复方案改造。它仍然是牛津文学地图上最常被指认的地点之一，但“文学地标”和“正在营业的酒馆”在这里已经不是同一件事。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 | 地址 | 49 St Giles', Oxford OX1 3LU, United Kingdom |
 | 城市/国家 | 牛津 / 英国 |
 | 营业状态 | 已停业 |
+
+## 相关图像
+
+![舰队街柴郡奶酪酒馆的悬挂招牌，写着店名与“Rebuilt 1667”。](/media/photos/place-ye-olde-cheshire-cheese-628a8f9d.jpg)
+
+图：舰队街柴郡奶酪酒馆的悬挂招牌，写着店名与“Rebuilt 1667”。。图片：Images George Rex，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ye_Olde_Cheshire_Cheese_rebuilt_1667_(14276567866).jpg)）。关联图像：鹰与孩童酒馆。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:central-otago
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3eabd69d99c25409bd561986a6a6b6766e915dce3be6cb4c239330d8de7f1166
-source_sha256: 3eabd69d99c25409bd561986a6a6b6766e915dce3be6cb4c239330d8de7f1166
+source_revision: sha256:c500804e0f685d591bbea299019315488b3a66a9b192905df12f186945b8ee21
+source_sha256: c500804e0f685d591bbea299019315488b3a66a9b192905df12f186945b8ee21
 level: other
 parent_id: region:new-zealand
 country_code: NZ
@@ -105,6 +105,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Central Otago
 
 Central Otago is New Zealand's southernmost wine region and one of the world's southernmost commercial wine regions. It lies inland on the South Island and is known for Pinot Noir, with mountains, lakes and a semi-continental climate shaping a concentrated, clearly structured style.![Central Otago image](/media/photos/region-central-otago-db19be57.jpg)
@@ -193,3 +194,13 @@ Fifth, taking a GI name for a brand. A GI is a geographic boundary; winery names
 - [Vintage](ref:vintage): vintage variation and frost risk in Central Otago.
 - [Single varietal](ref:single-varietal): the 85% variety labelling rule.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Central Otago.
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Central Otago.

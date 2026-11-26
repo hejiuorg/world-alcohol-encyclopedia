@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:pisco
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:42ac182d97f4bf299b4033c9c35d66c833a6ce08e003335e9389ffe95f23185a
-source_sha256: 42ac182d97f4bf299b4033c9c35d66c833a6ce08e003335e9389ffe95f23185a
+source_revision: sha256:6ad57ab16ddefa071457fda2d42bb749c2b310eb93ef20d126136f1ed886a6f4
+source_sha256: 6ad57ab16ddefa071457fda2d42bb749c2b310eb93ef20d126136f1ed886a6f4
 legacy_refs: []
 parent_style_id: drink-style:brandy
 aroma_family: Fruit / sugarcane
@@ -164,3 +164,9 @@ First, that Pisco is a grape-marc brandy. It is made from fresh juice, not skins
 - [Muscat](ref:muscat): a key aromatic variety behind many Piscos.
 - [Chile](ref:chile): the northern valleys and climate behind Chilean Pisco.
 - [Appellation](ref:appellation): the basic idea behind Pisco's protected name.
+
+## Related images
+
+![Muscat](/media/photos/variety-muscat-4cf9d96f.jpg)
+
+Image: Muscat. Credit: Tristan, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Al_Alam_Palace.jpg)). Related image for Pisco.

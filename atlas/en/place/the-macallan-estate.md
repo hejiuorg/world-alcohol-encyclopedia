@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:the-macallan-estate
 source_lang: zh
-source_revision: sha256:02d0d01c770720da183b0faf311c91db355591930928475f6bb130c44e1a69ad
-source_sha256: 02d0d01c770720da183b0faf311c91db355591930928475f6bb130c44e1a69ad
+source_revision: sha256:64c5bcc47e8f684c6b583bda1fb9d37b3a5f61f3e8aa65cfe930be097125f6ca
+source_sha256: 64c5bcc47e8f684c6b583bda1fb9d37b3a5f61f3e8aa65cfe930be097125f6ca
 translation_status: reviewed
 subtype: distillery-visitor
 address: The Macallan Distillery, Easter Elchies, Craigellachie, Moray AB38 9RX, Scotland, United Kingdom
@@ -186,3 +186,9 @@ To switch to peat, head west to Islay and the [Islay whisky trail](ref:islayrout
 - Speyside comparisons: [Glenfiddich](ref:glenfiddich), [Glenlivet](ref:glenlivet), [Speyside malt trail](ref:speysideroute).
 - Islay comparisons: [Lagavulin](ref:lagavulin), [Laphroaig](ref:laphroaig), [Ardbeg](ref:ardbeg), [Islay whisky trail](ref:islayroute).
 - Official sources are listed in the sources block above: the distillery visit page, the new-distillery page, VisitScotland and Edrington’s brand page.
+
+## Related images
+
+![Photograph for The Glenlivet Distillery: The Glenlivet distillery. Credit: Kkonstan, CC BY 3.0, via Wikimedia Commons.](/media/photos/q2-place-glenlivet-distillery-3859ea02.jpg)
+
+Image: The Glenlivet distillery. Credit: Kkonstan, CC BY 3.0, via Wikimedia Commons.. Credit: Kkonstan, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=2808279)). Related image for The Macallan Estate.

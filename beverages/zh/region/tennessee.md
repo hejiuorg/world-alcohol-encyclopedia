@@ -79,6 +79,7 @@ rights:
   note: 第三方法规文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 田纳西
 
 田纳西（Tennessee）是美国中南部的一个州，也是[田纳西威士忌](ref:tennessee-whiskey)的法定产地。它常被误认为“波本的另一个名字”，但两者并不完全重合：田纳西威士忌在州法层面有一套独立条件，在联邦层面却没有被单列为独立类别。理解这种“州法定义 + 联邦标签”的双层结构，是读懂这个产区的关键。
@@ -139,3 +140,13 @@ verification_scope: source-verified
 | 层级 | 省/大区 |
 | 所属 | 美国 |
 | 国家代码 | US |
+
+## 相关图像
+
+![美国类别配图](/media/photos/place-domaine-drouhin-oregon-0dcea8cb.jpg)
+
+图：美国类别配图。图片：Luke，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg)）。关联图像：田纳西。
+
+![波本威士忌类型示意图](/media/photos/theme-wine-spirits.jpg)
+
+图：波本威士忌类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：田纳西。

@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1948
 ---
+
 # 维苏威咖啡馆
 
 旧金山 North Beach 的 Columbus Avenue 上，有一栋窄得像船头的三角建筑，底层是酒吧，门口上方挂着“Vesuvio”的招牌，侧面是彩绘玻璃与壁画。它对面就是 City Lights 书店，中间隔着一条窄巷——Jack Kerouac Alley。很多人把这里当作“Beat Generation 圣地”来打卡，但维苏威（Vesuvio Café）首先是一间仍在营业的社区酒吧：下午有人独自看书，傍晚有人站在吧台聊天，晚上则挤满游客与本地人。
@@ -151,3 +152,9 @@ Vesuvio 的文学地景与 City Lights 书店相邻，但酒吧不是书店的�
 最后核对：255 Columbus Avenue 的地址、与城市之光书店的相邻关系及酒单按官网查于 2026-11-21；“圣地/发源地”只在“垮掉的一代”语境中使用，不作城市官方称号。本页是“喝酒去”的旧金山咖啡馆条目，中文与英文版同步；文字许可见上方 rights 字段，图片署名与许可见各图注。
 
 对照阅读：[美景咖啡馆](ref:buena-vista)、[认识一座城，从一间酒馆开始](ref:pub-city)。
+
+## 相关图像
+
+![旧金山 Hyde 与 Beach 街角的 Buena Vista Café 外观；原建筑 1916 年由寄宿公寓一层改为酒吧，1952 年开始供应爱尔兰咖啡，照片为 2025 年街景](/media/photos/place-buena-vista-cafe-bba07ce2.jpg)
+
+图：旧金山 Hyde 与 Beach 街角的 Buena Vista Café 外观；原建筑 1916 年由寄宿公寓一层改为酒吧，1952 年开始供应爱尔兰咖啡，照片为 2025 年街景。图片：BriefEdits，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Buena_Vista_Cafe,_exterior,_San_Francisco_(May_2025)_03.jpg)）。关联图像：维苏威咖啡馆。

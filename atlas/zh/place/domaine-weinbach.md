@@ -61,6 +61,12 @@ sources:
     publisher: Agence Touristique du Haut-Rhin / Bas-Rhin
     note: 用于核对凯泽斯堡与施洛斯山在葡萄酒之路上的位置；未复制原文。
     accessed: 2026-11-09
+  - key: weinbach-official
+    title: "Domaine Weinbach — 官方网站"
+    url: "https://www.domaineweinbach.com/"
+    publisher: "Domaine Weinbach"
+    note: "用于核对酒庄位置、家族与葡萄园信息；未复制原文。"
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -68,6 +74,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 魏恩巴赫酒庄
 
 魏恩巴赫酒庄（Domaine Weinbach）在法国阿尔萨斯的凯泽斯堡（Kaysersberg），门牌是 25 Route du Vin。酒庄建在施洛斯山（Schlossberg）脚下，1612 年由嘉布遣会修士建立，后来由法勒（Faller）家族接手。它的名字来自穿过庄园的一条小溪——“酒溪”。今天它既是家族住宅，也是仍在运转的酒窖与品鉴空间，属于那种“走进院子就能看见葡萄园”的酒庄。
@@ -139,3 +146,9 @@ VT 与 SGN 的差别不只在糖度：VT 的关键是迟采带来的熟果与蜂
 | 官网 | domaineweinbach.com |
 
 **来源与边界。** 本页关于「魏恩巴赫酒庄」的关键事实，主要由以下来源交叉核对：Domaine Weinbach（预约制接待、周一至周六时段与周日闭馆；25 Route du Vin, 68240 Kaysersberg 地址、电话与酒庄主体）、Conseil Interprofessionnel des Vins d'Alsace（阿尔萨斯特级园、贵族品种与迟摘标签的官方说明）、Agence Touristique du Haut-Rhin / Bas-Rhin（凯泽斯堡与施洛斯山在葡萄酒之路上的位置）。产品、地址或营业状态变化较快时，以 domaineweinbach.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![阿尔萨斯](/media/photos/region-alsace-15887179.jpg)
+
+图：阿尔萨斯。图片：Jorge Franganillo from Barcelona, Spain，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg)）。关联图像：魏恩巴赫酒庄。

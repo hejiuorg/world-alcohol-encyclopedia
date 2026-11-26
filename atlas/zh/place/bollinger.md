@@ -89,6 +89,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；参观、会员活动与配额会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 堡林爵香槟
 
 从兰斯往北，车开进阿伊（Aÿ）时，葡萄园一直压到镇边。堡林爵的宅邸与酒窖就在主街上，门口是石阶、铁门与一块不张扬的招牌。它与库克是两种香槟：库克把“调配”做成跨年份的图书馆，堡林爵则把 Pinot Noir、旧橡木桶与长时间带酒泥陈年放在前面。要理解堡林爵，先记住三个数字：180 公顷、85%、60%。
@@ -164,3 +165,9 @@ Vieilles Vignes Françaises 来自两块未嫁接的围墙园，产量极少，�
 - 本页不提供地图；参观、会员与发售信息以官方渠道为准。
 
 对照阅读：[库克香槟](ref:krug)、[埃佩尔奈香槟大道](ref:avenue)。
+
+## 相关图像
+
+![泰亭哲圣尼凯斯酒庄入口的骑士徽记](/media/photos/place-taittinger-a98e566a.jpg)
+
+图：泰亭哲圣尼凯斯酒庄入口的骑士徽记。图片：UNTERMVIERENBERGE-2，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:F-Marne_(51)-Reims_-_Champagne_Taittinger_001.jpg)）。关联图像：堡林爵香槟。

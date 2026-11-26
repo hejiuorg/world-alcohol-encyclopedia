@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:antico-caffe-greco
 source_lang: zh
-source_revision: sha256:7e99b8fe6ee5327b8062f50707d2b8c208b15f1255133fc6cdb8ebd381dd76e9
-source_sha256: 7e99b8fe6ee5327b8062f50707d2b8c208b15f1255133fc6cdb8ebd381dd76e9
+source_revision: sha256:253a1011408f822f4cfb78aa78a724e0441b1ea979da77ab459941eda1828f82
+source_sha256: 253a1011408f822f4cfb78aa78a724e0441b1ea979da77ab459941eda1828f82
 translation_status: reviewed
 subtype: bar
 address: Via dei Condotti 86, 00187 Roma RM, Italy
@@ -167,3 +167,9 @@ In rain or summer heat, crowds gather under the arcades and in shop doorways alo
 - [Café de Flore (Paris)](ref:cafe-de-flore): a Left Bank literary café and another version of the "famous customers" story.
 - [Café Central (Vienna)](ref:cafe-central): a Viennese literary café opened in 1876, which has also passed through closure and reopening.
 - [Café Hawelka (Vienna)](ref:hawelka): an artist's café known for family ownership and Buchteln.
+
+## Related images
+
+![The open-air tables of Caffè Florian under the arcades of Piazza San Marco, with the band playing in front of the white awning.](/media/photos/place-caffe-florian-0ca403e2.jpg)
+
+Image: The open-air tables of Caffè Florian under the arcades of Piazza San Marco, with the band playing in front of the white awning.. Credit: Son of Groucho, CC BY 2.0, via Wikimedia Commons ([source page](https://www.flickr.com/photo.gne?id=9755522045)). Related image for Antico Caffè Greco.

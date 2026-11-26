@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 圣劳伦特
 
 圣劳伦特（St. Laurent，德语 Sankt Laurent，捷克语 Svatovavřinecké）是中欧冷凉气候下的深色红葡萄，核心产区在奥地利 Niederösterreich、Burgenland 与捷克摩拉维亚。它香气浓郁、酒色深，酸度明亮、单宁中等偏上，年轻时紧涩，陈年后转为丝绒般圆润，带黑樱桃、酸樱桃、黑莓、李子、紫罗兰与香料泥土气息，风格常被放在黑皮诺与蓝弗兰克之间比较（ref:pinot）。
@@ -159,3 +160,9 @@ verification_scope: source-verified
 | --- | --- |
 | 一句话定位 | 中欧的红葡萄，与黑皮诺同属 Pinot 家族；酒色深、酸度明亮、单宁中等偏上，年轻时紧涩、陈年后圆润，带黑樱桃、黑莓、香料与泥土，风格介于黑皮诺与蓝弗兰克之间 |
 | 物种 | Vitis vinifera |
+
+## 相关图像
+
+![Blaufränkisch：Ried Neuberg Blaufränkisch（Wikimedia Commons）](/media/photos/variety-blaufrankisch-8d884b99.jpg)
+
+图：Blaufränkisch：Ried Neuberg Blaufränkisch（Wikimedia Commons）。图片：Geolina163，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ried_Neuberg_Blaufr%C3%A4nkisch.jpg)）。关联图像：圣劳伦特。

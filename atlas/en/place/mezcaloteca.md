@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:mezcaloteca
 source_lang: zh
-source_revision: sha256:ccba01029f8e719e1991e312a495ca9c4f905dc2891604368cfceba20ba45f14
-source_sha256: ccba01029f8e719e1991e312a495ca9c4f905dc2891604368cfceba20ba45f14
+source_revision: sha256:599c03daa552f34ca6178fccd201df5b1193d608f93874517720c34d13d9cd9a
+source_sha256: 599c03daa552f34ca6178fccd201df5b1193d608f93874517720c34d13d9cd9a
 translation_status: reviewed
 subtype: bar
 address: Reforma 506, Ruta Independencia, Centro, 68000 Oaxaca de Juárez, Oaxaca, México
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are outside this licence; opening hours, booking and tasting prices change, so confirm with the venue's official channels.
 verification_scope: source-verified
 ---
+
 # Mezcaloteca: A Tasting Archive in Central Oaxaca
 
 Mezcaloteca sits at Reforma 506 in the historic centre of Oaxaca de Juárez, on the Ruta Independencia stretch, postcode 68000. It is not a palenque and does not lean on a kitchen or cocktail list: it is a tasting room that puts [mezcal](ref:mezcal) from different states, villages, varieties and producers on one table so that comparison does the teaching. For a first day in [Oaxaca](ref:oaxaca), it is a better starting point than any drinks list.![related photograph of Mezcaloteca: A Tasting Archive in Central Oaxaca](/media/photos/place-mezcaloteca-251b8e9f.jpg)
@@ -166,3 +167,9 @@ The usual confusion is to treat Mezcaloteca as a brand or a region. Check whethe
 | Official site | mezcaloteca.com |
 
 **Sources and limits.** The key claims about Mezcaloteca: A Tasting Archive in Central Oaxaca are checked against the following sources: Mezcaloteca (Used to check that the tasting room currently operates alongside an online shop), Consejo Mexicano Regulador de la Calidad del Mezcal (Used to check the 1994 appellation, NOM-070-SCFI-2016, the 100% agave requirement and the category framework), Gobierno del Estado de Oaxaca (Used to check the Oaxaca mezcal route and the context of urban tastings). For current products, addresses or opening status, use mezcaloteca.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Mezcal](/media/photos/drink-style-mezcal-a77be8ad.jpg)
+
+Image: Mezcal. Credit: ProtoplasmaKid, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg)). Related image for Mezcaloteca: A Tasting Archive in Central Oaxaca.

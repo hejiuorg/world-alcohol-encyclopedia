@@ -79,6 +79,7 @@ rights:
   note: 第三方法规文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 坎贝尔镇
 
 坎贝尔镇（Campbeltown）是[苏格兰](ref:scotland)威士忌五个受保护名称中面积最小的一个，位于金泰尔半岛南端。它在 19 世纪曾被称为“世界威士忌之都”，今天只剩三家酒厂。这个落差本身就是理解它的入口：产区名称保护的是地理与传统，不是产量，也不保证某种固定风味。
@@ -145,3 +146,13 @@ verification_scope: source-verified
 | 层级 | 其他 |
 | 所属 | 苏格兰 |
 | 国家代码 | GB |
+
+## 相关图像
+
+![单一麦芽苏格兰威士忌](/media/photos/drink-style-single-malt-scotch-9e96a856.jpg)
+
+图：单一麦芽苏格兰威士忌。图片：Sansvase，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)）。关联图像：坎贝尔镇。
+
+![苏格兰类别配图](/media/photos/place-glenmorangie-distillery-5294b3a3.jpg)
+
+图：苏格兰类别配图。图片：Alan Jamieson，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenmorangie_Distillery_-_panoramio.jpg)）。关联图像：坎贝尔镇。

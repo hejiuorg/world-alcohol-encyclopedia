@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:marlborough
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:89bdbe5fb6b15d74ded8616aa4b028eacaf0a0c50d65bbe15cc865a3e24840df
-source_sha256: 89bdbe5fb6b15d74ded8616aa4b028eacaf0a0c50d65bbe15cc865a3e24840df
+source_revision: sha256:cb6138a90ed3e51ffb3c23600cb4c6d332324e0da5834c6df034d0deff24ae5d
+source_sha256: cb6138a90ed3e51ffb3c23600cb4c6d332324e0da5834c6df034d0deff24ae5d
 level: other
 parent_id: region:new-zealand
 country_code: NZ
@@ -101,6 +101,7 @@ rights:
   note: The lead image is a photograph of a vineyard in the Wairau Valley, Marlborough, used under CC BY 4.0; see the figure caption. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Marlborough
 
 Marlborough is New Zealand's largest wine region, at the north-east end of the South Island. It opened the international market with Sauvignon Blanc and also produces Pinot Noir, Chardonnay and aromatic whites. A cool but sunny climate, low rainfall and free-draining soils explain its style.
@@ -191,3 +192,13 @@ Start with the appellation and its permitted varieties. From there, consider the
 - [Vintage](ref:vintage): vintage variation and rainfall in Marlborough.
 - [Single varietal](ref:single-varietal): the 85% variety labelling rule.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Marlborough.
+
+![Related photograph of Sauvignon Blanc](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+Image: Related photograph of Sauvignon Blanc. Credit: Geolina163 + 1971markus, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)). Related image for Marlborough.

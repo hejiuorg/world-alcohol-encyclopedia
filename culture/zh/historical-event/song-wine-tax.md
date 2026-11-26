@@ -75,6 +75,7 @@ rights:
   note: 第三方点校本、注释、译本与数据库页面不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 宋代酒课：官务、民酿岁课与财政依赖
 
 宋代把酒类专卖与酒税收入统称为“酒课”。《宋史·食货志》用一句话概括了制度骨架：“诸州城内皆置务酿酒，县、镇、乡、闾或许民酿而定其岁课，若有遗利，所在多请官酤。三京官造曲，听民纳直以取。”官营的“务”、民酿的“岁课”与官造的曲，三者组合成一张覆盖城乡的酒业网络；酒课也从地方杂税变成国家财政的大宗。
@@ -149,3 +150,9 @@ verification_scope: source-verified
 补充阅读：[1855年波尔多分级：一张为世博会赶出的名单](ref:c-extra-1)。
 
 相关条目：[中国](ref:china)、[中国酒史纲：从谷物发酵到国家名酒](ref:chinese-wine-history)、[唐代酒坊：酒户、官坊与官店](ref:tang-workshops)。
+
+## 相关图像
+
+![1855年波尔多分级：一张为世博会赶出的名单类别配图](/media/photos/place-chateau-cheval-blanc-31ae585f.jpg)
+
+图：1855年波尔多分级：一张为世博会赶出的名单类别配图。图片：Benjamin Zingg, Switzerland，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Cheval-Blanc.jpg)）。关联图像：宋代酒课：官务、民酿岁课与财政依赖。

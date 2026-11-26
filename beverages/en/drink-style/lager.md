@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:lager
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b9fc775c5a6da541fa62487466014059b91dd5b2f6ae1bf29f11399053fef4d4
-source_sha256: b9fc775c5a6da541fa62487466014059b91dd5b2f6ae1bf29f11399053fef4d4
+source_revision: sha256:39c717d081a66a6e2eed171489d2bbe66b686f9cdf6e69476ed66794c28600d6
+source_sha256: 39c717d081a66a6e2eed171489d2bbe66b686f9cdf6e69476ed66794c28600d6
 legacy_refs: []
 aliases:
   - Lager
@@ -83,6 +83,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Lager
 
 Lager is an umbrella term for beers made with cool bottom-fermenting yeast and then stored for a long period near freezing point. Together with top-fermented ale it forms one of the two basic technical routes in brewing. Within the style system of [beer](ref:beer), lager is a process family rather than a single style: pale lager, dark lager and [Pilsner](ref:pilsner) all belong to it, and Pilsner is merely its most representative branch. Keeping this clear is what puts the words “lager” and “Pilsner” back in their proper places.![Lager image](/media/photos/drink-style-lager-7d0e4091.jpg)
@@ -160,3 +161,9 @@ Lager is a process family, not a style: cool bottom fermentation followed by col
 - [Fermentation](ref:fermentation): bottom fermentation and cold storage.
 - [Original gravity](ref:original-gravity): another measure of beer strength.
 - [Craft beer](ref:craft-beer): the background for small-batch lager today.
+
+## Related images
+
+![Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.](/media/photos/ingredient-water-edf289bf.jpg)
+
+Image: Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.. Credit: Jorge Barrios, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)). Related image for Lager.

@@ -74,6 +74,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 马沙拉
 
 意大利西西里马沙拉地区的加强葡萄酒，以白葡萄为基酒，加入酒精或熟酒、经氧化陈年；从干型到甜型、从琥珀到宝石红都有。
@@ -154,3 +155,9 @@ Florio、Pellegrino、Curatolo Arini 是最常见的商业品牌；Marco De Bart
 | 上位风格 | 加强葡萄酒 |
 
 **来源与边界。** 本页关于「马沙拉」的关键事实，主要由以下来源交叉核对：OIV（葡萄酒、加强酒与特种葡萄酒定义）、European Union（欧盟葡萄酒类别、地理标志与标签规则）、Wine Institute（美国葡萄酒与甜酒分类背景）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![Sicily：Old Inzolia vine in vineyard Dietro le Case, Menfi, Sicily（Wikimedia Commons）](/media/photos/region-sicily-6e979fe1.jpg)
+
+图：Sicily：Old Inzolia vine in vineyard Dietro le Case, Menfi, Sicily（Wikimedia Commons）。图片：Marilena.CantineBarbera，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Old_Inzolia_vine_in_vineyard_Dietro_le_Case,_Menfi,_Sicily.jpg)）。关联图像：马沙拉。

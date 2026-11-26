@@ -89,6 +89,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 纳帕谷
 
 纳帕谷（Napa Valley）是加州最知名的葡萄酒产区，以 Cabernet Sauvignon 与高密度的小产区体系著称。
@@ -180,3 +181,13 @@ Cabernet Sauvignon 适合红肉、烤肉与硬质奶酪；Chardonnay 适合海�
 - [年份](ref:vintage)：纳帕谷的年份差异与干旱、山火影响。
 - [单一品种](ref:single-varietal)：纳帕谷的品种比例与酒标标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![葡萄](/media/photos/ingredient-grape-2d929148.jpg)
+
+图：葡萄。图片：Vyacheslav Argenberg，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)）。关联图像：纳帕谷。
+
+![发酵](/media/photos/process-fermentation-f5958dba.webp)
+
+图：发酵。图片：Tjhackmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)）。关联图像：纳帕谷。

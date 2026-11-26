@@ -83,6 +83,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1897
 ---
+
 # 四猫咖啡馆
 
 从巴塞罗那主教座堂旁的小巷拐进 Carrer de Montsió，会看到一栋尖顶、砖石立面、带现代主义铁艺的窄楼；底层就是 Els Quatre Gats。门口挂着“4 GATS”的招牌，里面是深色木饰、镜面、海报与一盏盏 brass 灯。它不像兰布拉大道上的游客咖啡馆那样喧闹，而像一间“按了暂停键”的 1900 年酒馆：菜单、墙饰、桌椅都在提醒你，这里曾经是加泰罗尼亚现代主义的据点。
@@ -152,3 +153,9 @@ Els Quatre Gats 于 1897 年 6 月 12 日开幕。发起人是 Miquel Utrillo、
 - 相关条目：[拉布拉之家](ref:labra)、[马杰斯蒂克咖啡馆](ref:majestic)、[巴黎丽兹 Hemingway 酒吧](ref:hemingway)、[花神咖啡馆（威尼斯）](ref:florian)、[和平咖啡馆](ref:paix)
 
 对照阅读：[拉布拉之家](ref:labra)、[丽兹海明威酒吧](ref:hemingway)。
+
+## 相关图像
+
+![Casa Labra 的弧形木立面与“Restaurante”招牌，Calle de Tetuán 12](/media/photos/place-casa-labra-19738080.jpg)
+
+图：Casa Labra 的弧形木立面与“Restaurante”招牌，Calle de Tetuán 12。图片：Midir，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Casa_labra.jpg)）。关联图像：四猫咖啡馆。

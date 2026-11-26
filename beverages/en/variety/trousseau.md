@@ -22,8 +22,8 @@ tags:
 translation_of: variety:trousseau
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:708c1436736e8eba67153ab2a1d4db564b5abfead26f43ae1435c8319025eed3
-source_sha256: 708c1436736e8eba67153ab2a1d4db564b5abfead26f43ae1435c8319025eed3
+source_revision: sha256:a313344eba01efcaba07dfe817aa1b11dd9283a058fad1742f37e7d17af1954d
+source_sha256: a313344eba01efcaba07dfe817aa1b11dd9283a058fad1742f37e7d17af1954d
 related:
   - relation: about
     target_id: region:jura
@@ -78,6 +78,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Trousseau
 
 A red grape of the Jura, France, pale in colour, high in acidity and low in tannin, with red cherry, spice and earth; it makes light reds, rosés and sparkling wine and is central to the Jura’s light-body tradition.
@@ -148,3 +149,9 @@ Compare Trousseau with Poulsard and Pinot Noir from the Jura, then a Jura Trouss
 Start with [Jura](ref:jura) for variety character, then read [Rosé Wine](ref:rose) for regional performance. Seeing both keeps Trousseau from being confused with a neighbouring idea.
 
 Trousseau is the Jura's light red grape, known as Trousseau Noir in France and as Bastardo in Portugal; it ripens late and gives pale colour, high acidity and low tannin. The best sites are on the gravel and marl slopes around Arbois and Pupillin, where the grape makes translucent reds with red cherry, spice and earth. It is also used in rosé and sparkling wine, and in the Jura's vin de paille sweet wines. The variety needs warmth to ripen but not too much, or it loses acidity; climate change has made late picking more common. A Trousseau label from Arbois or Côtes du Jura is the clearest reference; in Portugal, Bastardo is often blended rather than bottled alone.
+
+## Related images
+
+![Photograph for Jura: File:Bodegas Grand vineyard in Passenans, Jura, France.jpg. Credit: Francisco Gonzalez, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-jura-de526709.jpg)
+
+Image: File:Bodegas Grand vineyard in Passenans, Jura, France.jpg. Credit: Francisco Gonzalez, CC BY 2.0, via Wikimedia Commons.. Credit: Francisco Gonzalez, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=25637605)). Related image for Trousseau.

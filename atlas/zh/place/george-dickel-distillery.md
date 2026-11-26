@@ -88,6 +88,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览安排与酒款会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 乔治迪克尔酒厂
 
 乔治迪克尔（George Dickel）在田纳西州塔拉霍马（Tullahoma）附近的 Cascade Hollow，厂址藏在一条山谷里，离林奇堡的杰克丹尼大约半小时到四十分钟车程。它比邻居安静得多，游客也少得多，但两家做的是同一类酒：以玉米为主、经糖枫木炭过滤、在田纳西州境内完成的[田纳西威士忌](ref:tnwhiskey)。如果你只去过杰克丹尼，这里能补上“同一产区、不同做法”的另一半。
@@ -145,3 +146,9 @@ No. 8 是入门款，酒体轻、甜感明显，适合加冰或做 highball；No
 | 官网 | georgedickel.com |
 
 **来源与边界。** 本页关于「乔治迪克尔酒厂」的关键事实，主要由以下来源交叉核对：George Dickel（1950 Cascade Hollow Rd、开放日与时段、导览时长、21 岁品鉴与儿童规定；品牌名称、Cascade Hollow Distilling Co. 与核心酒款序列）、Tennessee Whiskey Trail（酒厂在田纳西威士忌路线中的位置与州内酒厂分布）、UNESCO（补充核对条目背景、术语与制度口径）。产品、地址或营业状态变化较快时，以 georgedickel.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![“田纳西”页面配图：Tennessee - Arrington Vineyards。摄影：P. Hughes，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-tennessee-acaafa61.jpg)
+
+图：Tennessee - Arrington Vineyards。摄影：P. Hughes，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：P. Hughes，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=128050365)）。关联图像：乔治迪克尔酒厂。

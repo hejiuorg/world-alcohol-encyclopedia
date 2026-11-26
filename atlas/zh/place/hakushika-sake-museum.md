@@ -96,6 +96,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开馆时间、票价与展览会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 白鹿酒纪念馆
 
 白鹿酒纪念馆的正式名称是“白鹿纪念酒造博物馆”，当地人也叫它“酒博物馆”（酒ミュージアム）。它在兵库县西宫市鞍挂町，夹在六甲山与濑户内海之间的滩五乡北端。这里不是一座单纯的清酒展馆，而是由白鹿的酿造元辰马本家酒造设立、用来保存滩酒工艺与地方记忆的复合设施：一栋是 1869 年建造的老酒藏，另一栋是带展厅与研究室的新馆。
@@ -164,3 +165,9 @@ verification_scope: source-verified
 补充阅读：[日本](ref:c-extra-1)、[A Ginjinha](ref:c-extra-2)。
 
 相关条目：[兵库县](ref:hyogo)、[清酒](ref:sake)、[清酒与烧酎：同为日本酒，工艺完全不同](ref:sake-and-shochu)。
+
+## 相关图像
+
+![兵库县](/media/photos/region-hyogo-b092f465.jpg)
+
+图：兵库县。图片：Laitr Keiows，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Night_view_of_Rokk%C5%8D_Island_and_Higashinada-ku,_Kobe,_Japan.jpg)）。关联图像：白鹿酒纪念馆。

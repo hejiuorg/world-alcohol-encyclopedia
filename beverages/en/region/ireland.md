@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:ireland
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:66d05db82d1063acfab70b034197a4937d401483ac149fd61204743de362fe2f
-source_sha256: 66d05db82d1063acfab70b034197a4937d401483ac149fd61204743de362fe2f
+source_revision: sha256:cfb6987617d2d10e3ed205f6f10f01540bc9d030aee226f7ea5ca71ef1ee1110
+source_sha256: cfb6987617d2d10e3ed205f6f10f01540bc9d030aee226f7ea5ca71ef1ee1110
 legacy_refs: []
 level: country
 country_code: IE
@@ -74,6 +74,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This region uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Ireland
 
 Ireland is an island nation in north-west Europe with a mild, damp climate that suits barley. In the map of alcoholic drinks its clearest identity is as a [beer](ref:beer) region: dry stout and Irish red ale are the representative styles, and Guinness has brewed in Dublin since 1759.
@@ -160,3 +161,13 @@ Its independent distilleries now number more than thirty, compared with a handfu
 - [Barley](ref:barley) and [water](ref:water): the base materials of Irish beer.
 - [Fermentation](ref:fermentation): top fermentation compared with bottom fermentation.
 - [Craft beer](ref:craft-beer): the craft revival and local breweries.
+
+## Related images
+
+![Craft beer](/media/photos/term-craft-beer-ce03e9bb.jpg)
+
+Image: Craft beer. Credit: Bernt Rostad, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zachariasbryggen_Microbrewery.jpg)). Related image for Ireland.
+
+![Hefeweizen and kristallweizen, two treatments within the same wheat-beer family](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+Image: Hefeweizen and kristallweizen, two treatments within the same wheat-beer family. Credit: Ich, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)). Related image for Ireland.

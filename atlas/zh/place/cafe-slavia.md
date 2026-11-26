@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 CC BY 2.0，署名与许可见正文图注。营业时间与价格以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 斯拉维亚咖啡馆
 
 布拉格民族大街（Národní）走到国家剧院对面，会看到一栋浅色转角建筑，二楼是斯拉维亚咖啡馆（Café Slavia）。它的位置几乎定义了它的身份：正对伏尔塔瓦河与国家剧院，楼下是布拉格最繁忙的交通与游客流，楼上是高窗、深色木饰面与老式吊灯。1884 年开业，1930 年代改造成装饰艺术风格，至今仍是布拉格最常被提到的“文学咖啡馆”。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 - [罗马希腊咖啡馆](ref:greco)：已停业的意大利历史咖啡馆，说明“有名”与“仍在营业”是两件事。
 
 相关条目：[认识一座城，从一间酒馆开始](ref:pub-and-city)、[中央咖啡馆](ref:cafe-central)、[哈维尔卡咖啡馆](ref:hawelka)。
+
+## 相关图像
+
+![布拉格金虎酒馆门上的金虎市宅标志](/media/photos/place-u-zlateho-tygra-43a8c302.jpg)
+
+图：布拉格金虎酒馆门上的金虎市宅标志。图片：Sarah Stierch，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:M%C4%9Bstsk%C3%BD_d%C5%AFm_U_zlat%C3%A9ho_tygra_-_Stierch.jpg)）。关联图像：斯拉维亚咖啡馆。

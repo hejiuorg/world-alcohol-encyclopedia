@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:amaro
 source_lang: zh
-source_revision: sha256:3aea1437c2d2ba56530c3e2b6c5b414e9a765a09e3dbf43e938638178f5152fb
-source_sha256: 3aea1437c2d2ba56530c3e2b6c5b414e9a765a09e3dbf43e938638178f5152fb
+source_revision: sha256:75b6a43ce675df06bde211f14d0470552f55eeec88bda3c9a89491cabe832308
+source_sha256: 75b6a43ce675df06bde211f14d0470552f55eeec88bda3c9a89491cabe832308
 translation_status: reviewed
 legacy_refs: []
 parent_style_id: drink-style:liqueur
@@ -78,6 +78,7 @@ rights:
   note: The lead image is a photograph of Amaro Montenegro from Wikimedia Commons, used under CC BY-SA 4.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Amaro
 
 Amaro is the Italian family of herbal bitter [liqueurs](ref:liqueur). What they share is not one plant but a structure: herbs, roots, bark, flowers and citrus are macerated or distilled in alcohol to make a bitter base, then blended with syrup, water or spirit so that bitter and sweet balance. It can be very bitter, very sweet, herbal, citrusy, caramel-like or minty; the axes it cannot lose are bitterness and herbs.
@@ -143,3 +144,9 @@ For Amaro, begin with the production rule. Then look at the strength, and finall
 | Aroma family | herbal/bitter/citrus |
 
 **Sources and limits.** The key claims about Amaro are checked against the following sources: European Union (the legal boundaries between liqueurs, bitter spirits and aromatised wines), Federvini (Italian spirits and liqueur categories and traditions), Amaro Averna (the 1868 recipe and Sicilian family production history) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![A Negroni in a rocks glass, with red liquid, ice, an orange slice and a black straw.](/media/photos/cocktail-negroni-52212d3c.jpg)
+
+Image: A Negroni in a rocks glass, with red liquid, ice, an orange slice and a black straw.. Credit: Sudhertzen, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Negroni_(cocktail).jpg)). Related image for Amaro.

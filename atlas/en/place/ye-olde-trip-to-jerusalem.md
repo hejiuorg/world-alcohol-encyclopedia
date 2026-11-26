@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: place:ye-olde-trip-to-jerusalem
 source_lang: zh
-source_revision: sha256:25a8240e66644a0379520bf23ed65766d41554ead3e3ca491da758151885e80c
-source_sha256: 25a8240e66644a0379520bf23ed65766d41554ead3e3ca491da758151885e80c
+source_revision: sha256:51b2e92ac90f967f451570c4a64ea1ab1241552fc102169dfa43ae72678809d4
+source_sha256: 51b2e92ac90f967f451570c4a64ea1ab1241552fc102169dfa43ae72678809d4
 translation_status: reviewed
 subtype: pub
 address: 1 Brewhouse Yard, Nottingham NG1 6AD, United Kingdom
@@ -89,6 +89,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; opening hours, menus and prices change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Ye Olde Trip to Jerusalem
 
 On the south side of Nottingham's Castle Rock, the pub frontage leans against the sandstone and some of its rooms are cut directly into the rock. Ye Olde Trip to Jerusalem's loudest claim is that it is the oldest pub in England, with an opening date of 1189. Once the legend, the datable building features and the earliest written record are separated, however, the real interest is not the verdict "oldest" but the way three timelines occupy the same caves and timber structure.
@@ -138,3 +139,9 @@ From the pub, Nottingham Castle is immediately above, with the Museum of Notting
 The pub serves beer and other drinks, and it is best understood within the story of [the pub and the city](ref:pub-and-city), alongside the [beer](ref:beer) style entry.
 
 Further reading: [The Mermaid Inn](ref:c-extra-1), [A Ginjinha](ref:c-extra-2), [À la Mort Subite](ref:c-extra-3).
+
+## Related images
+
+![Photograph for The Mermaid Inn: The Mermaid Inn, Rye - 20220620121757. Credit: Herman.vandenbroeck, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-place-mermaid-inn-57b6d4da.jpg)
+
+Image: The Mermaid Inn, Rye - 20220620121757. Credit: Herman.vandenbroeck, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Herman.vandenbroeck, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=122527773)). Related image for Ye Olde Trip to Jerusalem.

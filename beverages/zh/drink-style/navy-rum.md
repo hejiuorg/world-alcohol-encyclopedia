@@ -74,6 +74,7 @@ rights:
   note: 本页配图为维基共享资源的 Lamb’s Navy Rum 实拍照片，按 Public domain 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 海军朗姆
 
 海军朗姆是对英国皇家海军历史配给朗姆的俗称，现代市场上则指一类高酒精度、深色、厚重的加勒比调和朗姆，带焦糖、香料与干果气息；多数现代品牌由多个加勒比产地的陈酿朗姆调配而成。
@@ -129,3 +130,9 @@ verification_scope: source-verified
 认识海军朗姆，可以先从一款 40% 左右的多产地调和款入手了解糖蜜与骨架，再比较一款火药强度的复原配给款；两相对照，配给历史、产地调和与强度差别会比较清楚。
 
 - 相关条目：[rum](ref:rum)、[distillation](ref:distillation)、[oak-ageing](ref:oak)、[liqueur](ref:liqueur)、[proof-and-abv](ref:proof)。
+
+## 相关图像
+
+![Old Rip Van Winkle 波本酒瓶与标签；标签是酒精度/Proof 标示的实际载体，不是比重计或测量仪器](/media/photos/term-proof-and-abv-bfb3bc09.jpg)
+
+图：Old Rip Van Winkle 波本酒瓶与标签；标签是酒精度/Proof 标示的实际载体，不是比重计或测量仪器。图片：Joe Hall from Oakland, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Old_Rip_Van_Winkle_Whiskey_301243232.jpg)）。关联图像：海军朗姆。

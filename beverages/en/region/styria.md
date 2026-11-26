@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:styria
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:83544d89fd051e6caa3b6139ac844b4394ab622e69aabf0bbf8086f84e893e4b
-source_sha256: 83544d89fd051e6caa3b6139ac844b4394ab622e69aabf0bbf8086f84e893e4b
+source_revision: sha256:1b1032c02a8d4dfec02711acfb4c5ff6940e4ee9e297d5196eb83eadc173696a
+source_sha256: 1b1032c02a8d4dfec02711acfb4c5ff6940e4ee9e297d5196eb83eadc173696a
 level: other
 country_code: AT
 legacy_refs: []
@@ -89,6 +89,7 @@ rights:
   note: The lead image is a photograph of the Schilcher wine country in Weststeiermark, used under CC BY 4.0; see the figure caption. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Styria
 
 Styria, Steiermark in German, is a federal-state wine region in south-eastern Austria, known for dry white wines from Sauvignon Blanc and for the western rosé Schilcher.
@@ -177,3 +178,13 @@ Start with [Wine](ref:wine) for geographic boundary, then read [Rosé Wine](ref:
 - [Terroir](ref:terroir): how Opok and volcanic soils create site differences.
 - [Oak ageing](ref:oak-ageing): the Reserve level and the choice of container.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
+
+## Related images
+
+![Rosé Wine](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+Image: Rosé Wine. Credit: THOR, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)). Related image for Styria.
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Styria.

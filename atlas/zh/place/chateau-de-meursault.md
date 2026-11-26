@@ -103,6 +103,7 @@ verified_at: 2026-11-08
 founded_year: 1973
 verification_scope: source-verified
 ---
+
 # 默尔索城堡
 
 默尔索城堡（Château de Meursault）在勃艮第金丘的默尔索村，地址是 Rue Charles Giraud。它常被简称为“城堡”，但参访者真正进入的是一处仍在运营的葡萄酒庄园：葡萄园、酿造车间、地下酒窖与品鉴空间连在一起，城堡建筑只是入口和会客的门面。把这里当成一座供人参观的古堡，会错过它作为酒庄的核心；把它当成普通酒庄，又会忽略它保存下来的建筑与地下空间。
@@ -169,3 +170,9 @@ verification_scope: source-verified
 - [红葡萄酒](ref:red-wine)：黑皮诺在勃艮第的表达方式。
 - [约瑟夫杜鲁安酒庄](ref:drouhin)：博讷市内的家族酒商与地下酒窖。
 - [博讷主宫医院](ref:hospices)：理解博讷葡萄酒与慈善拍卖历史的入口。
+
+## 相关图像
+
+![约瑟夫杜鲁安酒庄](/media/photos/place-domaine-drouhin-211d0e07.jpg)
+
+图：约瑟夫杜鲁安酒庄。图片：Tomas er，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Drouhin_Gevrey-Chambertin_in_glass.jpg)）。关联图像：默尔索城堡。

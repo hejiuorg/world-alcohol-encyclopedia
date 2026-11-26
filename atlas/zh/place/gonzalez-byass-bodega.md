@@ -102,6 +102,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观价格、时段与酒款会变化，以酒庄官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 冈萨雷斯·比亚斯酒庄
 
 冈萨雷斯·比亚斯（González Byass）在西班牙赫雷斯-德拉弗龙特拉（Jerez de la Frontera）市中心，地址是曼努埃尔·玛丽亚·冈萨雷斯街 12 号。它由曼努埃尔·玛丽亚·冈萨雷斯·安赫尔于 1835 年创立，以 Fino 品牌 Tío Pepe 闻名。与建在葡萄园边的酒庄不同，这里是一整片嵌在老城里的酒窖建筑群：庭院、鹅卵石小巷、白墙高窗的酒窖和花园连在一起，阿尔卡萨（Alcázar）就在几百米外。到这里参观，看的不是葡萄园，而是雪莉酒如何在城市建筑里完成生物陈年与氧化陈年。
@@ -149,3 +150,9 @@ Tío Pepe 是 Fino 的基准：干、咸、带酵母气息，酒精度通常 15 
 酒窖温度低、地面可能潮湿，夏天进去会觉得凉，带一件薄外套，穿防滑鞋。品鉴可以吐酒，尤其要开车的人；赫雷斯老城路窄，酒后不要驾车。拍照不要用闪光灯直射酒桶与老照片，也不要触摸桶塞和管道。若想把这站放进更大的语境，可以先读[赫雷斯](ref:jerez)产区页与[雪莉酒](ref:sherry)风格页，再对照[solera](ref:solera)、[flor](ref:flor)与[加强](ref:fortification)三条工艺条目；想看看另一种“传统酒庄”的写法，可以读里奥哈的[洛佩兹雷迪亚](ref:lopez)。两家酒庄都把“老”当成生产方式而不是装饰，这一点比酒款名单更值得比较。
 
 对照阅读：[洛佩兹雷迪亚酒庄](ref:lopez)、[雪莉](ref:sherry)。
+
+## 相关图像
+
+![加强（加度）](/media/photos/process-fortification-fbbba4e5.jpg)
+
+图：加强（加度）。图片：John Scofield，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg)）。关联图像：冈萨雷斯·比亚斯酒庄。

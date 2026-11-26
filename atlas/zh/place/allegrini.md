@@ -82,6 +82,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；体验时长、价格与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 阿莱格里尼酒庄
 
 阿莱格里尼（Allegrini）在富马内，属于瓦坡里切拉经典产区。它和普罗塞克的距离不远，却是另一套完全不同的葡萄酒逻辑：这里的主角是科维纳，是风干葡萄，是需要时间与氧气才能打开的阿玛罗尼。官方叙述把家族在富马内的历史追溯到 16 世纪，今天由 Francesco、Giovanni、Matteo 与 Silvia 一代接手；酒庄拥有 100 余公顷葡萄园，并以 La Poja、La Grola、Palazzo della Torre 与 Amarone 构成产品骨架。
@@ -145,3 +146,9 @@ Amarone 的产品线里还有 Fieramonte 等更高阶的选择，来自特定园
 - [Allegrini 接待页](https://allegrini.it/ospitalita/)：品鉴与葡萄园体验的时长、价格与 Wine Club 活动。
 
 补充阅读：[葡萄酒](ref:c-extra-1)。
+
+## 相关图像
+
+![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。关联图像：阿莱格里尼酒庄。

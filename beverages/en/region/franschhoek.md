@@ -24,8 +24,8 @@ tags:
 translation_of: region:franschhoek
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8fba7b7fa0dd09f3785ac16bebf41463adeb3087b038611dc4124f15de6b9a50
-source_sha256: 8fba7b7fa0dd09f3785ac16bebf41463adeb3087b038611dc4124f15de6b9a50
+source_revision: sha256:928fa16a45ad5bda4be5935cd2978a3efff63c8ab3cbff8329e403a1da6c0421
+source_sha256: 928fa16a45ad5bda4be5935cd2978a3efff63c8ab3cbff8329e403a1da6c0421
 related:
   - relation: about
     target_id: region:south-africa
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Franschhoek
 
 A valley region in the Western Cape where French Huguenot settlers arrived in 1688; known for Cabernet Sauvignon, Pinotage, Chardonnay and restaurants, its narrow, scenic valley makes it one of the easiest Cape Winelands regions to drive.
@@ -165,3 +166,13 @@ The valley's wine route is compact, and many estates sit within a short drive of
 | Level | province or region |
 | Parent | South Africa |
 | Country code | ZA |
+
+## Related images
+
+![Pinotage](/media/photos/variety-pinotage-5dc171a5.jpg)
+
+Image: Pinotage. Credit: Please note: This photo can be reproduced. Please quote the source as indicated below: Doris Schneider, Julius Kühn-Institut (JKI), Federal Research Centre for , CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:VIVC9286_PINOTAGE_Full_plant_3638.jpg)). Related image for Franschhoek.
+
+![Photograph for South Africa: Vineyards in the Cederberg - South Africa. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-south-africa-d7cf33ea.jpg)
+
+Image: Vineyards in the Cederberg - South Africa. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Ltz Raptor, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=4647540)). Related image for Franschhoek.

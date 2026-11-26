@@ -37,8 +37,8 @@ tags:
 translation_of: place:vasse-felix
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:064b118cec80d14f0d5fbc732a49e7fbfeb0977acb847699d9aeb1e7ff0040d7
-source_sha256: 064b118cec80d14f0d5fbc732a49e7fbfeb0977acb847699d9aeb1e7ff0040d7
+source_revision: sha256:bd1025e3106ef3028f7f599f491a672c69e28df2decceb363de8e600f22ecdf7
+source_sha256: bd1025e3106ef3028f7f599f491a672c69e28df2decceb363de8e600f22ecdf7
 related:
   - relation: about
     target_id: region:margaret-river
@@ -68,6 +68,18 @@ sources:
     publisher: Wine Australia
     note: Used to verify Margaret River's location, maritime climate and variety background; no source text is reproduced.
     accessed: 2026-11-21
+  - key: vasse-official
+    title: "Vasse Felix — official website"
+    url: "https://www.vassefelix.com.au/"
+    publisher: "Vasse Felix"
+    note: "Used to check the estate location, Margaret River region and winery history; no text copied."
+    accessed: 2026-11-26
+  - key: vasse-visit
+    title: "Vasse Felix — Visit"
+    url: "https://www.vassefelix.com.au/visit"
+    publisher: "Vasse Felix"
+    note: "Used to check cellar door, restaurant and visit information; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -156,3 +168,9 @@ To understand the region rather than just the brand, see Vasse Felix for history
 - Related entries: [margaret-river](ref:margaret-river), [australia](ref:australia), [chardonnay](ref:chardonnay), [cabernet-sauvignon](ref:cabernet), [oak-ageing](ref:oak).
 - This entry does not provide live prices, menus or opening status; check the estate website and regional association before visiting.
 - To compare Vasse Felix tiers, taste one Filius, one Premier and one TOM CULLITY in the same visit and record fruit, acidity, tannin and oak.
+
+## Related images
+
+![Photograph for Australia: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-australia-968b262e.jpg)
+
+Image: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=9069567)). Related image for Vasse Felix.

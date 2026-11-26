@@ -77,6 +77,7 @@ city: 伦敦
 verification_scope: source-verified
 founded_year: 1908
 ---
+
 # 杜克斯酒吧
 
 杜克斯酒吧在圣詹姆斯广场 35 号的杜克斯酒店（Dukes Hotel）内，是伦敦少数把“只做一件事”做成招牌的酒店酒吧。它空间不大，服务围绕一张手推车展开：冷冻的酒杯、冷冻的酒，以及一片柠檬皮。第一次来的人常以为这里卖的是“邦德同款”，实际上店里更在意的是温度、稀释与节奏。
@@ -129,3 +130,9 @@ founded_year: 1908
 补充阅读：[A Ginjinha](ref:c-extra-1)、[À la Mort Subite](ref:c-extra-2)。
 
 相关条目：[伦敦经典酒吧步行路线](ref:london-classic-bar-walk)、[萨沃伊美式酒吧](ref:american-bar-savoy)、[干马天尼](ref:dry-martini)。
+
+## 相关图像
+
+![干马天尼](/media/photos/cocktail-dry-martini-c9d91c19.jpg)
+
+图：干马天尼。图片：Ralf Roletschek，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0084.jpg)）。关联图像：杜克斯酒吧。

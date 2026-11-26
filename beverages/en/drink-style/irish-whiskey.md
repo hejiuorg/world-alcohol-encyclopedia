@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:irish-whiskey
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0b9b701b73430dae7b9a6a1160ad59a26eb641adaa7072a5a1681e9ff876ea87
-source_sha256: 0b9b701b73430dae7b9a6a1160ad59a26eb641adaa7072a5a1681e9ff876ea87
+source_revision: sha256:0007eb7023af0781fc6c20ac016e0546969038fc37fb8eb151a098e58abc1fb8
+source_sha256: 0007eb7023af0781fc6c20ac016e0546969038fc37fb8eb151a098e58abc1fb8
 legacy_refs: []
 parent_style_id: drink-style:whisky
 aroma_family: cereal and fruit
@@ -177,3 +177,9 @@ Sixth, treating age as a guarantee of quality. Maturation depends on cask, wareh
 - [Oak ageing](ref:oak-ageing): how cask type and time shape flavour.
 - [Barley](ref:barley): the main cereal of Irish whiskey.
 - [Ireland](ref:ireland): the country's food and drink background.
+
+## Related images
+
+![Ireland](/media/photos/region-ireland-6c11da34.jpg)
+
+Image: Ireland. Credit: Jeff Schmaltz, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ireland_(MODIS).jpg)). Related image for Irish whiskey.

@@ -39,8 +39,8 @@ tags:
 translation_of: place:bollinger
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:018eaa4cf0f1dd8b80d9191eee57d3ee5a4959a17e77120b051cc34b30248006
-source_sha256: 018eaa4cf0f1dd8b80d9191eee57d3ee5a4959a17e77120b051cc34b30248006
+source_revision: sha256:30d55f2e79e86720c267b7d020728a5e09cf84b9faad6177b1392f02aaa6f947
+source_sha256: 30d55f2e79e86720c267b7d020728a5e09cf84b9faad6177b1392f02aaa6f947
 related:
   - relation: about
     target_id: place:krug
@@ -95,6 +95,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; visits, membership events and allocations may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Champagne Bollinger
 
 Driving north from Reims into Aÿ, the vineyards press right up to the edge of the town. Bollinger’s house and cellars sit on the main street behind stone steps, an iron gate and a discreet sign. It is a different Champagne from Krug: Krug turns blending into a library across years, while Bollinger puts Pinot Noir, old oak and long lees ageing at the front. Three numbers matter here: 180 hectares, 85% and 60%.
@@ -174,3 +175,9 @@ Half a day: a booked Bollinger tasting and a walk in Aÿ. A full day: add the av
 | Official site | champagne-bollinger.com |
 
 **Sources and limits.** The key claims about Champagne Bollinger are checked against the following sources: Champagne Bollinger (Used to confirm the Aÿ headquarters, the winery building and the official entry point; the booking arrangements for 1829 member visits, estate events and scarce-release sales), Groupe Bollinger (the group's brand structure and family ownership background). For current products, addresses or opening status, use champagne-bollinger.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The Krug building in Reims, seen from the Boulevard Lundy side](/media/photos/place-krug-1f18f1fa.jpg)
+
+Image: The Krug building in Reims, seen from the Boulevard Lundy side. Credit: G.Garitan, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Krug_boulevard_Lundy_1512968.jpg)). Related image for Champagne Bollinger.

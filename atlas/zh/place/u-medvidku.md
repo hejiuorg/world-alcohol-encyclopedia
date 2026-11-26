@@ -89,6 +89,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、酒单与预约安排会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 小熊酒馆
 
 ![小熊酒馆 图像](/media/photos/place-u-medvidku-69f06015.jpg)
@@ -148,3 +149,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「小熊酒馆」的关键事实，主要由以下来源交叉核对：Hotel, restaurace a pivovar U Medvídků（餐厅、微型酒厂、酒店、啤酒商店与互动啤酒之旅的预约方式（电话 +420 736 662 900）；餐厅每日 11:30–23:00 的营业时间与庭院座位）、Prague City Tourism（老城步行范围与周边街区关系）。产品、地址或营业状态变化较快时，以 umedvidku.cz 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「小熊酒馆」与「弗勒克啤酒屋」、「比尔森啤酒厂：金色拉格的诞生地」、「拉格啤酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认地址与营业状态，再比较历史、空间与点单体验。本页负责给出场所的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于场所本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![比尔森啤酒厂：金色拉格的诞生地相关实景照片](/media/photos/place-pilsner-urquell-brewery-3c101021.jpg)
+
+图：比尔森啤酒厂：金色拉格的诞生地相关实景照片。图片：Txllxt TxllxT，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Plze%C5%88_-_Sady_5._kv%C4%9Btna_-_View_East_over_Ml%C3%BDnsk%C3%A1_strouha_towards_Plze%C5%88sk%C3%BD_Prazdroj_(Pilsner_Urquell_Brewery).jpg)）。关联图像：小熊酒馆。

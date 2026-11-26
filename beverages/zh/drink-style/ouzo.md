@@ -75,6 +75,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 乌佐
 
 乌佐（ouzo）是希腊最具辨识度的茴香烈酒：无色透明，加入水或冰块后迅速变成乳白色，入口是茴香、甘草与轻微甜感，尾段带一点植物苦味。它通常以铜壶蒸馏、以茴香籽为核心香料，酒精度不低于 37.5% vol。对希腊人来说，它不是一个“旅游纪念酒”，而是与meze小盘菜、海鲜和漫长午后绑在一起日常饮品。
@@ -138,3 +139,9 @@ verification_scope: source-verified
 乌佐不需要陈年，开瓶后拧紧瓶盖、避光常温保存即可。长时间暴露在空气中会让茴香脑氧化，香气变钝；若出现明显沉淀或异味，就不要再用。它也不适合长期冷藏，低温会让茴香脑提前析出。
 
 相关条目：[利口酒](ref:liqueur)、[蒸馏](ref:distillation)、[壶式蒸馏器（pot still）](ref:pot-still)。
+
+## 相关图像
+
+![苦艾酒礼盒：黑色 Teichenné 酒瓶、槽孔金属糖匙与印有 ABSINTHE 的玻璃杯。](/media/photos/drink-style-absinthe-7d2100d5.jpg)
+
+图：苦艾酒礼盒：黑色 Teichenné 酒瓶、槽孔金属糖匙与印有 ABSINTHE 的玻璃杯。。图片：Tangopaso，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Absinthe_bottle_with_glass_and_spoon.jpg)）。关联图像：乌佐。

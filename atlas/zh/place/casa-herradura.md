@@ -96,6 +96,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观价格、时段与酒款会变化，以酒厂官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 埃拉杜拉酒厂：阿马蒂坦的马蹄庄园
 
 埃拉杜拉（Casa Herradura）在哈利斯科州阿马蒂坦（Amatitán）的圣何塞德尔雷富希奥庄园（Hacienda San José del Refugio），是龙舌兰酒低地产区里少数仍把葡萄园式庄园、生产车间与装瓶线放在同一片土地上的老字号。它常被压缩成“1870 年创立”，但真正值得看的是它如何在二十一世纪保留砖砌穹顶炉、露天野酵母发酵与自建美国白橡木桶，同时又用现代磨机替换了驴拉的塔霍纳。
@@ -153,3 +154,9 @@ verification_scope: source-verified
 把这站与同一条线路上的[福塔莱萨酒厂](ref:fortaleza)对读，能看到两种“传统”：一边是大庄园的规模化延续，一边是小酒厂的旧设备复燃。两处相距不远，适合安排成一天的龙舌兰谷行程。
 
 把 Casa Herradura 放回龙舌兰谷的蒸馏传统，可对照[龙舌兰酒](ref:tequila)与[蒸馏](ref:distillation)。
+
+## 相关图像
+
+![玛格丽特](/media/photos/cocktail-margarita-d834f379.jpg)
+
+图：玛格丽特。图片：Akke Monasso，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:MargaritaReal.jpg)）。关联图像：埃拉杜拉酒厂：阿马蒂坦的马蹄庄园。

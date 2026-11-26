@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:vaud
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9815bae69cbebb4dfabba40e251f71183b344534a63297535d2c19877ec18097
-source_sha256: 9815bae69cbebb4dfabba40e251f71183b344534a63297535d2c19877ec18097
+source_revision: sha256:36a7273a314d59abf81c9668e6fdd05e36df32af9800904b03060d86e7b71596
+source_sha256: 36a7273a314d59abf81c9668e6fdd05e36df32af9800904b03060d86e7b71596
 level: other
 country_code: CH
 legacy_refs: []
@@ -91,6 +91,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Vaud
 
 Vaud, Waadt in German, is a wine region in western Switzerland centred on the north shore of Lake Geneva, known for Chasselas white wines and the Lavaux terraces.
@@ -193,3 +194,13 @@ Read Vaud through the appellation and its permitted varieties, then the vintage 
 - [Vintage](ref:vintage): vintage variation in Vaud.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
 - [Oak ageing](ref:oak-ageing): ageing of reds and Grand Cru whites.
+
+## Related images
+
+![Wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Image: Wine. Credit: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Related image for Vaud.
+
+![Thematic illustration for White wine](/media/photos/theme-wine-spirits.jpg)
+
+Image: Thematic illustration for White wine. Project-made bilingual editorial figure, not an on-site photograph. Related image for Vaud.

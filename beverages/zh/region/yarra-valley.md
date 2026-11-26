@@ -88,6 +88,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 雅拉谷
 
 雅拉谷位于墨尔本东北约五十公里，是维多利亚州最早种葡萄的产区，1838 年便种下第一批葡萄；冷凉气候下以黑皮诺、霞多丽与西拉著称，1990 年代获得 GI 身份，风格常被拿来对照勃艮第与北罗讷。
@@ -144,3 +145,13 @@ verification_scope: source-verified
 - 出行前可在 Wine Australia 或雅拉谷酒庄协会官网核对 GI 规则、当年开放时间与品鉴预约方式。
 
 相关条目：[澳大利亚](ref:australia)、[黑皮诺](ref:pinot)、[霞多丽](ref:chardonnay)。
+
+## 相关图像
+
+![“澳大利亚”页面配图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-region-australia-968b262e.jpg)
+
+图：Renmark South Australia Vineyard。摄影：Feral Arts，CC BY 2.0，来自 Wikimedia Commons。。图片：Feral Arts，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=9069567)）。关联图像：雅拉谷。
+
+![黑皮诺](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+图：黑皮诺。图片：Cjp24，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)）。关联图像：雅拉谷。

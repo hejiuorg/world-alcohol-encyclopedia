@@ -94,6 +94,7 @@ rights:
   note: 第三方协会页面、商标与配方文本不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 国际调酒师协会成立（1951）：七个协会的圆桌
 
 1951 年 2 月 24 日，来自丹麦、法国、意大利、荷兰、瑞典、瑞士与英国的七个调酒师协会，在英格兰托基的格兰德酒店沙龙里决定成立国际调酒师协会（International Bartenders Association，IBA）。首任主席是英国调酒师公会的比尔·塔林（Bill Tarling）。此后，协会用世界鸡尾酒大赛、调酒教育与官方鸡尾酒名单，把各自为政的各国公会连成一套跨国职业网络。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 | 历法 | 公历 |
 
 **来源与边界。** 本页关于「国际调酒师协会成立（1951）：七个协会的圆桌」的关键事实，主要由以下来源交叉核对：International Bartenders Association（官方鸡尾酒名单的分组与用途；本页不复制配方比例）、Association des Barmen de France（交叉核对成立日期、地点与法国公会作为创始成员的身份；属会员协会的纪念文字）、Oxford University Press（交叉核对 1951 年在托基格兰德酒店成立、七个创始国家与 W. J. “Billy” Tarling 任首任主席；只引条目要点）等 6 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![古典相关实景照片](/media/photos/cocktail-old-fashioned-f1533cb4.jpg)
+
+图：古典相关实景照片。图片：Capvideo，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Claris_Hotel,_Barcelona,_Smoky_Old-Fashioned_with_Popcorn.jpg)）。关联图像：国际调酒师协会成立（1951）：七个协会的圆桌。

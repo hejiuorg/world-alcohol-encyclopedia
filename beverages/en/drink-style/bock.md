@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:bock
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d6220edd797678b5ef699d2d0340fcf7584b2b35235f8f428e1b635757e1d605
-source_sha256: d6220edd797678b5ef699d2d0340fcf7584b2b35235f8f428e1b635757e1d605
+source_revision: sha256:7becca9f6bf8443ac03e1e6d6cb03588fe93c9c91eda4b6f4ea0c6044e6daabd
+source_sha256: 7becca9f6bf8443ac03e1e6d6cb03588fe93c9c91eda4b6f4ea0c6044e6daabd
 legacy_refs: []
 aliases:
   - Bock
@@ -85,6 +85,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Bock
 
 Bock is a dark, malt-forward strong lager from Germany: full-bodied, low in bitterness and sweet at the finish, associated with late winter and spring. It is not a single recipe but a family descended from the brewing tradition of Einbeck and reinterpreted in Munich, including traditional bock, doppelbock, maibock and eisbock. Within the wider framework of [lager](ref:lager), bock represents the combination of a high-gravity wort, cool fermentation and long storage rather than a particular shade of brown.
@@ -144,3 +145,9 @@ Begin with the production rule, move on to the strength, and finish with the usu
 | Aroma family | Malt |
 
 **Sources and limits.** The key claims about Bock are checked against the following sources: Beer Judge Certification Program, Einbecker Brauhaus AG (public information on Einbeck brewing history and the Ur-Bock range; no original text is reproduced), Deutscher Brauer-Bund e.V. (public statements on German beer variety and brewing tradition; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Bavaria](/media/photos/place-weihenstephan-brewery-a3316b19.jpg)
+
+Image: Category image for Bavaria. Credit: Christian Schranner, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%C3%9Cberblick_der_Bayerischen_Staatsbrauerei_Weihenstephan.jpg)). Related image for Bock.

@@ -83,6 +83,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 杜罗
 
 杜罗（Douro）是[葡萄牙](ref:portugal)东北部杜罗河谷的葡萄酒法定产区，1756 年完成边界划定，是世界上最早的划界产区之一。产区既生产[波特](ref:porto)基酒，也生产结构紧致的干型[红葡萄酒](ref:red-wine)与[白葡萄酒](ref:white-wine)。
@@ -178,3 +179,13 @@ verification_scope: source-verified
 - [发酵](ref:fermentation)与[橡木桶陈年](ref:oak-ageing)：杜罗葡萄酒的基础工艺环节。
 - [葡萄酒](ref:wine)：理解杜罗的类别、年份与产地规则的入口。
 - [酒精度](ref:abv)：13%–14.5% vol 在标签上的含义。
+
+## 相关图像
+
+![波特](/media/photos/region-porto-c256c7e1.jpg)
+
+图：波特。图片：Diego Delso，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG)）。关联图像：杜罗。
+
+![加强葡萄酒](/media/photos/drink-style-fortified-wine-45f14e62.jpg)
+
+图：加强葡萄酒。图片：Jon Sullivan，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Port_wine.jpg)）。关联图像：杜罗。

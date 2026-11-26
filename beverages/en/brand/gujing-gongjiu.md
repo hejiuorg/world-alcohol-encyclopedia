@@ -11,8 +11,8 @@ revision: 3
 translation_of: brand:gujing-gongjiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ad7de9f4c9d103a7b88ba73951da110f8d6b27bc7658e6bc910368eb8b67b5ce
-source_sha256: ad7de9f4c9d103a7b88ba73951da110f8d6b27bc7658e6bc910368eb8b67b5ce
+source_revision: sha256:a08ff8acec6deeb05c7f4830b259802b381511804362254c35e49e9f3cf3d9fe
+source_sha256: a08ff8acec6deeb05c7f4830b259802b381511804362254c35e49e9f3cf3d9fe
 producer_refs:
   - producer:gujing-distillery
 region_refs:

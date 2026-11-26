@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cafe-slavia
 source_lang: zh
-source_revision: sha256:b4782b89f3ced7fa3c25611c08ae0992100038373cfd345342893f6857be13da
-source_sha256: b4782b89f3ced7fa3c25611c08ae0992100038373cfd345342893f6857be13da
+source_revision: sha256:adf29540a708842b8781e6d820732dd3f1e98c9440d22676d4a1d27b3d5013ad
+source_sha256: adf29540a708842b8781e6d820732dd3f1e98c9440d22676d4a1d27b3d5013ad
 translation_status: reviewed
 subtype: bar
 address: Národní 1012/1, 110 00 Praha 1, Czechia
@@ -169,3 +169,9 @@ When the National Theatre has a performance, Národní and the café entrance ar
 - [Café Hawelka](ref:hawelka): a Viennese family café and another version of the "writers and artists" tradition.
 - [U Zlatého tygra](ref:tygra): a Prague Old Town beer hall with its own Hrabal and Havel table memories.
 - [Antico Caffè Greco](ref:greco): a closed Italian historic café, a reminder that "famous" and "still trading" are different things.
+
+## Related images
+
+![The façade of Café Hawelka in Vienna](/media/photos/place-cafe-hawelka-3a2e4186.jpg)
+
+Image: The façade of Café Hawelka in Vienna. Credit: Photo: Andreas Praefcke, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wien_Caf%C3%A9_Hawelka.jpg)). Related image for Café Slavia.

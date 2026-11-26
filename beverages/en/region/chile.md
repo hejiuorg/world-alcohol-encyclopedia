@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:chile
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a5501e895ca73ba387f05dbb3f6ffc133581dea6774bfbf07018d0f2cbcb32a2
-source_sha256: a5501e895ca73ba387f05dbb3f6ffc133581dea6774bfbf07018d0f2cbcb32a2
+source_revision: sha256:ddc12c5fcb594c6fb4bda6ba96487ce140b700efa50ea255c8684167bc9cc289
+source_sha256: ddc12c5fcb594c6fb4bda6ba96487ce140b700efa50ea255c8684167bc9cc289
 level: country
 country_code: CL
 legacy_refs: []
@@ -185,3 +185,13 @@ Fifth, assuming Chilean vineyards rely on natural rainfall. The central regions 
 - [Vintage](ref:vintage): vintage variation and El Niño effects in Chile.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Chile.
+
+![Wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Image: Wine. Credit: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Related image for Chile.

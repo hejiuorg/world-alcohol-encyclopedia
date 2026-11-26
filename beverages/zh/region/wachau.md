@@ -79,6 +79,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 瓦豪
 
 瓦豪（Wachau）是奥地利下奥地利州多瑙河峡谷中的法定产区，位于梅尔克（Melk）与克雷姆斯（Krems）之间，约 1,340 公顷陡峭阶地，以 Grüner Veltliner 与 Riesling 的干型酒著称。
@@ -181,3 +182,13 @@ Steinfeder 建议 8–10 摄氏度，Federspiel 与 Smaragd 建议 10–12 摄�
 - [酒精度](ref:abv)：三级风格按酒精度划分的含义。
 - [橡木桶陈年](ref:oak-ageing)：大桶在瓦豪白葡萄酒中的角色。
 - [单一品种](ref:single-varietal)：瓦豪的品种比例与酒标标注规则。
+
+## 相关图像
+
+![橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。](/media/photos/editorial-oak-ageing-q2.jpg)
+
+图：橡木桶陈酿的编辑插图：桶壁烘烤层、酒液与取样管；AI 辅助绘制，不是酒窖实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：瓦豪。
+
+![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。关联图像：瓦豪。

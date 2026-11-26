@@ -89,6 +89,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；本页图片为 Public Domain，署名与来源见正文图注。开放时间、门票与预约以景区官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 汾酒博物馆
 
 从汾阳市区往北 15 公里，到杏花村镇，路边是汾酒集团的厂区与“牧童遥指杏花村”的招牌。汾酒博物馆就在厂区内，建筑是仿明清木架结构，红柱、彩画、灰瓦，门口挂着“汾酒博物馆”匾。它是一座酒文化专题博物馆，也是汾酒集团“酒文旅”线路的核心：一边讲 6000 年的酿酒叙事，一边把历代酒器、书画与清香型白酒的工艺摆在你面前。
@@ -173,3 +174,9 @@ verification_scope: source-verified
 - [王宝和酒家](ref:wang-bao-he)：上海黄酒与蟹宴老字号，另一种中国酒的餐桌。
 
 相关条目：[清香型白酒](ref:light-aroma)、[白酒](ref:baijiu)、[泸州老窖窖池群](ref:luzhou)。
+
+## 相关图像
+
+![上海福州路的王宝和酒家](/media/photos/place-wang-bao-he-f27cc79e.jpg)
+
+图：上海福州路的王宝和酒家。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wang_Bao_He_Restaurant_(20250610145416).jpg)）。关联图像：汾酒博物馆。

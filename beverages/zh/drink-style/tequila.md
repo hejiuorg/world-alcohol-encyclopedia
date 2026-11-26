@@ -63,6 +63,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。法规细节以 NOM-006-SCFI-2012 现行文本为准。
 verification_scope: source-verified
 ---
+
 # 龙舌兰酒
 
 龙舌兰酒（tequila）是以蓝色韦伯龙舌兰（Agave tequilana Weber var. azul）为原料、在墨西哥法定产区生产的蒸馏酒。它的风味来自龙舌兰心烘煮后的甜味与植物气息，工艺上则依赖蒸煮、压榨、发酵与[蒸馏](ref:distillation)四步。它和以其他龙舌兰为原料的梅斯卡尔（mezcal）属于不同类别。
@@ -132,3 +133,9 @@ Blanco 适合纯饮或调制玛格丽特等鸡尾酒；Reposado 适合纯饮、�
 - [橡木桶陈年](ref:oak-ageing)：Reposado 与 Añejo 风格差异的主要来源。
 - [朗姆酒](ref:rum)：另一种以热带作物为原料的蒸馏酒，可对照其甜味与陈年风格。
 - [酒精度](ref:abv)：理解标签上 ABV 标注的基础概念。
+
+## 相关图像
+
+![一瓶 Captain Morgan 原味朗姆酒，深色酒液与品牌标签。](/media/photos/drink-style-rum-ebd00623.jpg)
+
+图：一瓶 Captain Morgan 原味朗姆酒，深色酒液与品牌标签。。图片：Pinakpani，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bottle_of_Captain_Morgan_Rum_01.jpg)）。关联图像：龙舌兰酒。

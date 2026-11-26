@@ -95,6 +95,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；各酒庄的开放时间、票价与参观语言会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 埃佩尔奈香槟大道
 
 埃佩尔奈香槟大道（Avenue de Champagne）在埃佩尔奈市中心南侧，从共和国广场一带向东南延伸，约 1.5 公里。它不是一座酒庄，而是一条由香槟酒商宅邸、生产与仓储建筑共同构成的街道。18 世纪这里是巴黎通往德国的大道，被称为“王家之路”；酒商因为地下白垩岩层适合挖酒窖而聚集，街道先后叫过“商业郊区”等名字，1925 年正式改称“香槟大道”。1849 年巴黎—埃佩尔奈铁路通车，把这里与巴黎市场更紧密地连起来。
@@ -154,3 +155,9 @@ verification_scope: source-verified
 对照阅读：[香槟法定产区](ref:champagne)、[一杯酒，为什么有地方的味道？](ref:process)。
 
 相关条目：[起泡酒](ref:sparkling)。
+
+## 相关图像
+
+![香槟法定产区](/media/photos/drink-france-champagne-acf0412f.jpg)
+
+图：香槟法定产区。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：埃佩尔奈香槟大道。

@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1806
 ---
+
 # 老苦艾酒屋
 
 Bourbon 街与 Bienville 街的转角，一栋两层灰泥老楼把街口切成一个钝角。白天，它看起来像法国区任何一栋被旅游商店包围的历史建筑；到了晚上，门口的霓虹与酒旗把“Old Absinthe House”几个字照得很亮。它的故事不在“苦艾酒是否致幻”这类都市传说里，而在一条更具体的时间线：进口商行、咖啡酒馆、苦艾酒室、禁酒令、餐厅与酒吧，这栋楼几乎把新奥尔良两百年的饮酒史压在同一块地砖上。
@@ -143,3 +144,9 @@ Bourbon 街与 Bienville 街的转角，一栋两层灰泥老楼把街口切成�
 - [旋转木马酒吧](ref:carousel)
 
 本页于 2026-11-21 核对 Old Absinthe House 官方页面。营业时间通常从白天到深夜，21 岁以上才能饮酒，Bourbon Street 夜间人多、地面湿滑，出发前查官网与门口公示。建筑 1806 年完成、1835 年取得酒牌、1874 年创作 Absinthe House Frappé，正文已把三条时间线分开；苦艾酒致幻传说与“点火烧糖”表演也不等于 19 世纪标准喝法。本页图片是老苦艾酒屋的悬挂招牌，不是店内吧台；图注已标摄影者与许可，文字许可见文末 rights 字段。
+
+## 相关图像
+
+![新奥尔良 Chartres 与 St. Louis 街角的拿破仑屋；门牌写 1797 年，主楼在 1814 年由 Girod 扩建](/media/photos/place-napoleon-house-new-orleans-6ffd3cd6.jpg)
+
+图：新奥尔良 Chartres 与 St. Louis 街角的拿破仑屋；门牌写 1797 年，主楼在 1814 年由 Girod 扩建。图片：ajay_suresh，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:The_Napoleon_House_-_New_Orleans_February_2026.jpg)）。关联图像：老苦艾酒屋。

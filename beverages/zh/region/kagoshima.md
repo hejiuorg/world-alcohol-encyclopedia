@@ -87,6 +87,7 @@ rights:
   note: 第三方组合资料、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 鹿儿岛
 
 鹿儿岛是[日本](ref:japan)九州南部的本格烧酒核心产区。与清酒不同，[烧酒](ref:shochu)是蒸馏酒：先以[米](ref:rice)麹和水培养酵母，再加入蒸熟的萨摩芋进行二次发酵，最后用单式蒸馏器[蒸馏](ref:distillation)。鹿儿岛的产地名声建立在芋、麹、蒸馏方式与贮藏容器之上，而不是清酒式的精米步合与吟醸香。
@@ -171,3 +172,13 @@ verification_scope: source-verified
 - 東京国税局「焼酎に関するもの」：https://www.nta.go.jp/about/organization/tokyo/sake/abc/abc-shochu.htm
 - 日本酒造組合中央会「日本の酒・本格焼酎と泡盛」：https://www.japansake.or.jp/honkaku/about/all/
 - 薩摩酒造「明治蔵」：https://www.meijigura.com/
+
+## 相关图像
+
+![萨摩酒造明治藏相关实景照片](/media/photos/place-satsuma-shochu-meijigura-dc51a493.jpg)
+
+图：萨摩酒造明治藏相关实景照片。图片：Sakaori ( talk )，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Satsuma_Shuzo%27s_Kedogawa_Shochu_factory_and_museum,_Meijigura.JPG)）。关联图像：鹿儿岛。
+
+![日本类别配图](/media/photos/place-kamotsuru-a0074234.jpg)
+
+图：日本类别配图。图片：OS6，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)）。关联图像：鹿儿岛。

@@ -84,6 +84,7 @@ rights:
   note: 本页配图为维基共享资源的博廷餐厅正立面实拍照片，按 CC BY-SA 4.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 博廷餐厅
 
 马德里市长广场西南角有一条很短的斜坡街，叫刀匠街（Calle de Cuchilleros）。17 号的门脸不算张扬，门口却常年有人张望、排队或举着手机拍那块木招牌。博廷餐厅（Restaurante Botín，旧称 Sobrino de Botín）1725 年在这里开业，吉尼斯世界纪录常把它引为“世界最古老餐厅”；它至今仍在营业，卖的是卡斯蒂利亚式的烤乳猪、烤羊与一套非常马德里的老派服务。
@@ -146,3 +147,9 @@ verification_scope: source-verified
 博廷是[西班牙](ref:spain)饮食史里的一个老样本：它把卡斯蒂利亚烤肉、里奥哈葡萄酒与马德里老城空间绑在一起。想理解这类场所在城市里的角色，可以读[酒吧与城市](ref:pub-and-city)；若更关心杯中的酒，可以从[葡萄酒](ref:wine)的风格与配餐逻辑入手，再回来看一份烤乳猪为什么适合配红酒。
 
 补充阅读：[A Ginjinha](ref:c-extra-1)、[À la Mort Subite](ref:c-extra-2)。
+
+## 相关图像
+
+![“西班牙”页面配图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。](/media/photos/q2-region-spain-732e598a.jpg)
+
+图：Uga - Lanzarote - Spain. Vineyards -U16。摄影：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，来自 Wikimedia Commons。。图片：Luis Miguel Bugallo Sánchez，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=17458062)）。关联图像：博廷餐厅。

@@ -71,6 +71,12 @@ sources:
     publisher: "www.drouhinoregon.com"
     note: 用于核对官方公开信息与页面入口；本轮登记官方 URL，未复制正文。
     accessed: 2026-11-21
+  - key: drouhin-visit
+    title: "Domaine Drouhin Oregon — Visit"
+    url: "https://domainedrouhin.com/visit/"
+    publisher: "Domaine Drouhin Oregon"
+    note: "用于核对酒庄地址、预约品鉴与庄园面积；未复制原文。"
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -78,6 +84,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与价格会变化，出行前以官网为准。"
 verification_scope: source-verified
 ---
+
 # 杜鲁安俄勒冈酒庄
 
 杜鲁安俄勒冈是勃艮第 Drouhin 家族在 1987 年伸向美国的第一根枝条：Robert Drouhin 在 Dundee Hills 买下 225 英亩坡地，把女儿 Véronique 派来做酿酒师，用勃艮第的优雅标准酿俄勒冈黑皮诺。今天它仍是威拉米特谷最有辨识度的“勃艮第式”酒庄之一。
@@ -153,3 +160,9 @@ DDO 适合作为 Dundee Hills 一日路线的核心站：从酒庄可以继续�
 - 相关条目：[willamette-valley](ref:willamette)、[usa](ref:usa)、[pinot-noir](ref:pinot)、[red-wine](ref:red)、[oak-ageing](ref:oak)。
 - 本页不提供实时价格、菜单、品鉴费用或营业状态；参观前以酒庄官网与 Oregon Wine Board 为准。
 - 想理解重力流酒厂，可以在导览时问清果实从哪一层进入、在哪一层发酵、在哪一层装瓶，以及哪些环节仍然需要泵送。
+
+## 相关图像
+
+![威拉米特谷](/media/photos/region-willamette-valley-2f0dfd25.jpg)
+
+图：威拉米特谷。图片：Rvannatta ( talk · contribs ) Image edits: Peteforsyth ( talk · contribs )，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wvatbethel1.jpg)）。关联图像：杜鲁安俄勒冈酒庄。

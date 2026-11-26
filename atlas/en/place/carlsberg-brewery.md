@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:carlsberg-brewery
 source_lang: zh
-source_revision: sha256:ab7aea3fe64213e3cd19fead500abfe83c8cd41cf4ea7c54b4c8e8717cb71cd7
-source_sha256: ab7aea3fe64213e3cd19fead500abfe83c8cd41cf4ea7c54b4c8e8717cb71cd7
+source_revision: sha256:ba3a41bcab1ed94a063a823f5d360fe31f1632979f6edbc8aa4df88bb732e7e9
+source_sha256: ba3a41bcab1ed94a063a823f5d360fe31f1632979f6edbc8aa4df88bb732e7e9
 translation_status: reviewed
 subtype: brewery-visitor
 address: Gamle Carlsberg Vej 11, 1799 København V, Denmark
@@ -92,6 +92,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; hours, prices and exhibitions change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Carlsberg: Beer, a Laboratory and a Garden
 
 In Valby, south-west of central Copenhagen, an old industrial district rises gently around the Carlsberg brewery. The address is Gamle Carlsberg Vej 11, and the site now opens as Home of Carlsberg; the former Visit Carlsberg name and old links lead here. It is not an empty shell: exhibition, cellars, stables, garden and bar are in use, although mass production moved elsewhere long ago. Beer and laboratory belong together: much of Carlsberg's influence came from the latter.
@@ -157,3 +158,9 @@ The usual confusion is to treat Carlsberg as a brand or a region. Check whether 
 | Official site | homeofcarlsberg.com |
 
 **Sources and limits.** The key claims about Carlsberg: Beer, a Laboratory and a Garden are checked against the following sources: Home of Carlsberg (Used to check the Gamle Carlsberg Vej 11 address, the Home of Carlsberg name and the visitor programmes; Used to check the Carlsberg Bar, the Bryggergården garden, the stables and the brand store), VisitCopenhagen (Used to check the address and the coordinates 55.6647829, 12.529747499). For current products, addresses or opening status, use homeofcarlsberg.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Lager](/media/photos/drink-style-lager-7d0e4091.jpg)
+
+Image: Lager. Credit: Lars Curfs ( Grashoofd ), CC BY-SA 3.0 nl, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bitburger_Glass.JPG)). Related image for Carlsberg: Beer, a Laboratory and a Garden.

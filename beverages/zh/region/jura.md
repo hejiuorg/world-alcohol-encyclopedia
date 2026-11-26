@@ -89,6 +89,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 汝拉
 
 汝拉（Jura）是法国东部一条狭长的葡萄酒产区，夹在勃艮第与瑞士边境之间。它最容易被记住的是黄酒（vin jaune）：一种用萨瓦涅（Savagnin）酿造、在旧橡木桶中不添酒、不换桶、任由一层酵母膜覆盖表面、陈年六年以上的白葡萄酒。但汝拉并不只有黄酒。普尔萨（Poulsard）与特鲁索（Trousseau）做的轻色红酒、霞多丽与萨瓦涅做的“未氧化”白葡萄酒、稻草酒与起泡酒，共同构成一个品种与法规都很具体的产区。
@@ -163,3 +164,13 @@ verification_scope: source-verified
 **并读。** 把「汝拉」与「法国」、「勃艮第」、「白葡萄酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「汝拉」而言，产区边界、面积与法定分类会随法规更新；气候描述是长期趋势，不是某一年的天气预报。
+
+## 相关图像
+
+![黄酒](/media/photos/drink-style-yellow-wine-e20f3280.jpg)
+
+图：黄酒。图片：udono，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shaoxing_wine_in_a_glass_by_udono_in_Tokyo.jpg)）。关联图像：汝拉。
+
+![“勃艮第”页面配图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+图：Burgundy vineyards near Beaune, France。摄影：Mark Gorzynski，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Mark Gorzynski，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=65061583)）。关联图像：汝拉。

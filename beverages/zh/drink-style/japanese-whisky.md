@@ -74,6 +74,7 @@ rights:
   note: 第三方标准文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 日本威士忌
 
 日本威士忌的历史不足百年，却在国际市场上形成了清晰的辨识度。它早期以苏格兰为模板，随后发展出自己的蒸馏器组合、酵母管理与水楢桶语言。更重要的是，2021 年生效的行业标识规则，把“日本威士忌”从一个容易被滥用的产地印象，变成了一套可以逐条核对的条件。
@@ -158,3 +159,9 @@ verification_scope: source-verified
 | 一句话定位 | 在日本完成糖化、发酵、蒸馏、陈年与装瓶的威士忌；2021 年起日本洋酒酒造组合以自主标识规则界定“日本威士忌”，要求原料、三年木桶陈年与 40% vol 装瓶等条件 |
 | 上位风格 | 威士忌 |
 | 香气家族 | 谷物/果香/烟熏 |
+
+## 相关图像
+
+![苏格兰威士忌](/media/photos/drink-style-scotch-whisky-9e96a856.jpg)
+
+图：苏格兰威士忌。图片：Sansvase，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)）。关联图像：日本威士忌。

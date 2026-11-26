@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:gaja-barbaresco
 source_lang: zh
-source_revision: sha256:53cb5a9e5a95ec983667d3f35da581a1b110dc5c531ad71d83f46e6659946b09
-source_sha256: 53cb5a9e5a95ec983667d3f35da581a1b110dc5c531ad71d83f46e6659946b09
+source_revision: sha256:f9b69f1936a1a519721326d837edfab10f1e9217f548dc7ee1702752f258fd24
+source_sha256: f9b69f1936a1a519721326d837edfab10f1e9217f548dc7ee1702752f258fd24
 translation_status: reviewed
 subtype: winery-visitor
 address: Via Torino 5, 12050 Barbaresco (CN), Italy
@@ -89,6 +89,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are not covered by this licence; visiting policy, prices and slots change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Gaja Barbaresco
 
 Gaja's address in Barbaresco is clear: Via Torino 5, 12050 Barbaresco (CN). Its "visitability" is not clear. At the time of checking, the official pages that loaded gave only the address, the telephone +39 0173 635158 and the email info@gaja.com, with no public tour times, ticket prices or booking entry. This entry therefore marks the operating status as unknown: the address and contact details are verified, but whether a visit or tasting can be arranged must be settled by an official reply. The common mistake here is to treat a famous name as a door that is always open.
@@ -142,3 +143,9 @@ From Alba, Barbaresco is about twenty minutes by car; from Turin, about an hour 
 - [Barolo DOCG — Langhe consortium](https://www.langhevini.it/le-denominazioni-tutelate-dal-consorzio/barolo-docg/): Barolo's 11 communes, three-year ageing and Riserva rules.
 
 Further reading: [Piedmont](ref:c-extra-1), [Wine](ref:c-extra-2).
+
+## Related images
+
+![Nebbiolo](/media/photos/variety-nebbiolo-82c1e8bb.jpg)
+
+Image: Nebbiolo. Credit: Hanna, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Close_up_of_Nebbiolo_cluster_in_Italy.jpg)). Related image for Gaja Barbaresco.

@@ -59,6 +59,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 金酒
 
 金酒（gin）是以杜松子为核心风味来源的蒸馏烈酒。它的工艺骨架是“中性酒精 + 植物复配 + [蒸馏](ref:distillation)”，风味骨架是“杜松子主导、其他植物修饰”。理解这两层结构，比记住某个品牌更重要。
@@ -123,3 +124,9 @@ verification_scope: source-verified
 - [蒸馏](ref:distillation)：植物香气进入酒液的关键步骤。
 - [伏特加](ref:vodka)：同样以中性酒精为基、但追求中性的烈酒类别。
 - [内格罗尼](ref:negroni)：以金酒为骨架的经典鸡尾酒。
+
+## 相关图像
+
+![伏特加](/media/photos/drink-style-vodka-415ef8e0.jpg)
+
+图：伏特加。图片：Ashley Pomeroy，CC BY 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Smirnoff_Red_Label_8213.jpg)）。关联图像：金酒。

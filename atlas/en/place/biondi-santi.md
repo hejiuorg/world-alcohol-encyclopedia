@@ -39,8 +39,8 @@ tags:
 translation_of: place:biondi-santi
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8687714f508cf7dd285b408c223951d70f34740f3eb1bf524aa6d417ae98e2e4
-source_sha256: 8687714f508cf7dd285b408c223951d70f34740f3eb1bf524aa6d417ae98e2e4
+source_revision: sha256:a0e479231cfaf421efc4c68eb133ad42ff5a904f65a0bb1fb225a920554a248f
+source_sha256: a0e479231cfaf421efc4c68eb133ad42ff5a904f65a0bb1fb225a920554a248f
 related:
   - relation: about
     target_id: place:antinori-nel-chianti-classico
@@ -101,6 +101,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; visits, vintages and prices may change and should be checked with official channels.
 verification_scope: source-verified
 ---
+
 # Biondi-Santi Tenuta Greppo
 
 Northeast of Montalcino, the road climbs between cypresses and olive groves before entering the Greppo yard. The houses are low, walls are covered with climbing vines, and the cellars still look nineteenth-century. Biondi-Santi is not a castle estate. It is more like a family farm that hides time underground: in 1888 Ferruccio Biondi Santi made the first wine officially labelled Brunello di Montalcino, and today the estate still centres on 100% Sangiovese Grosso, old vines and long ageing in large Slavonian oak.
@@ -168,3 +169,9 @@ Never taste before driving; the Montalcino to Val d’Orcia road is winding and 
 Begin with the address, move on to the current opening status, and finish with what the place is known for. That order keeps the reading of Biondi-Santi Tenuta Greppo practical.
 
 Start with [Antinori nel Chianti Classico](ref:antinori) for address and space, then read [Fattoria Fèlsina](ref:felsina) for operating status. Seeing both keeps Biondi-Santi Tenuta Greppo from being confused with a neighbouring idea.
+
+## Related images
+
+![The spiral staircase and geometric spaces inside Antinori nel Chianti Classico](/media/photos/place-antinori-nel-chianti-classico-78daa3d3.jpg)
+
+Image: The spiral staircase and geometric spaces inside Antinori nel Chianti Classico. Credit: Repuli, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Angoli_e_geometrie.jpg)). Related image for Biondi-Santi Tenuta Greppo.

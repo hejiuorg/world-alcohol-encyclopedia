@@ -15,8 +15,8 @@ legacy_refs: []
 translation_of: region:bordeaux
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f7520dbc2b4fb64637c1be8c3fec583b1819ef7e07dcdb9214dcb4a7cfa14583
-source_sha256: f7520dbc2b4fb64637c1be8c3fec583b1819ef7e07dcdb9214dcb4a7cfa14583
+source_revision: sha256:04bec666d31536f32b2ba7fa149977918f7def0a2ab837d6744c721a6ca98abb
+source_sha256: 04bec666d31536f32b2ba7fa149977918f7def0a2ab837d6744c721a6ca98abb
 aliases:
   - Bordeaux wine region
   - Bordeaux
@@ -152,6 +152,45 @@ The ageing potential of Bordeaux red varies widely. Wines with strong structure,
 ## En primeur and the market
 
 The Bordeaux en primeur system lets buyers purchase before bottling, with prices closely tied to expectations for the vintage. Merchants, estates and brokers form a complex trading network. En primeur is not a low-risk investment: the wine's actual performance, storage after bottling and market supply and demand all affect value. For ordinary consumers, it is enough to understand that en primeur exists; it is not the only route to buying Bordeaux. Merchants and cooperatives also play an important role in the everyday market, and their ranges do not necessarily appear on en primeur lists.
+
+
+## Decision table: left bank, right bank and Entre-deux-Mers
+
+| Area | Main varieties | Style | Typical drinking window | Entry advice |
+| --- | --- | --- | --- | --- |
+| Left bank, Médoc | Cabernet Sauvignon-led | firm structure, high tannin, long ageing | 8–20 years | start with village or cru bourgeois |
+| Left bank, Graves/Pessac-Léognan | Cabernet Sauvignon, Merlot | red and white; reds firmer | 5–15 years | a good route to dry white |
+| Right bank, Saint-Émilion/Pomerol | Merlot-led | rounder, fruitier, earlier drinking | 5–15 years | start here if tannin worries you |
+| Entre-deux-Mers | Merlot, Cabernet Franc, Sauvignon Blanc | mostly fresh dry white | 1–5 years | value for everyday white |
+
+“Bordeaux” is a regional name, not a quality grade; judge a bottle by sub-region, producer, vintage and bottling information.
+
+## Related images
+
+![Related photograph of Aconcagua Valley](/media/photos/region-aconcagua-4fe76950.jpg)
+
+Image: Related photograph of Aconcagua Valley. Credit: Bjørn Christian Tørrissen, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg)). Related image for Bordeaux.
+
+![Château Lafite Rothschild](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+Image: Château Lafite Rothschild. Credit: PA, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)). Related image for Bordeaux.
+
+## Frequently asked questions
+
+### Should a beginner start on the left or right bank?
+
+If you dislike tannin and want rounder fruit, start with a Merlot-led right-bank wine. Move to the left-bank Médoc when you want to practise recognising tannin and structure. On a budget, village wines, cru bourgeois and Entre-deux-Mers whites are more useful than chasing famous names.
+
+### How should I read a vintage?
+
+A vintage reflects growing-season weather and harvest conditions, not a simple good/bad label. Look at spring frost, summer hail, autumn rain and harvest reports. Ordinary vintages can still have well-made wines; weak vintages need more caution.
+
+### What should I buy at 100–300 RMB?
+
+Prefer village-level, cru bourgeois or Entre-deux-Mers whites with complete information. Avoid bottles that only say “Bordeaux” with no producer, bottler or batch. This price band is for everyday drinking, not long cellaring.
+
+> **Next:** Start with the difference between [red wine](ref:red-wine) and [white wine](ref:white-wine), then read [Château Lafite Rothschild](ref:lafite) for the left-bank first-growth story, and compare other areas on the [France](ref:france) page.
+
 
 ## Scope note
 

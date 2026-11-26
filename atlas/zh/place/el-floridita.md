@@ -5,7 +5,7 @@ type: place
 lang: zh
 slug: el-floridita
 title: 小佛罗里达酒馆
-summary: 哈瓦那老城的传奇酒吧，1817 年创立，以海明威、冷冻代基里和海鲜吧闻名。
+summary: 哈瓦那老城的传奇酒吧，1817 年创立，以海明威、冷冻代基里和海鲜吧闻名；现为两层空间，吧台与餐厅分开，是古巴莫吉托与代基里文化的标志。
 status: reviewed
 revision: 5
 subtype: pub
@@ -88,6 +88,7 @@ city: 哈瓦那
 verification_scope: source-verified
 founded_year: 1817
 ---
+
 # 小佛罗里达酒馆
 
 小佛罗里达酒馆（El Floridita）在哈瓦那老城 Obispo 街与 Monserrate 街的街角，门牌 Calle Obispo 557，1817 年以“La Piña de Plata”（银菠萝）的名字开业。它被称为“代基里摇篮”：1914 年开始在店里工作的加泰罗尼亚调酒师康斯坦丁诺·里巴拉伊瓜·韦尔特（Constantino Ribalaigua Vert，人称 Constante）在 1931 年做出冷冻代基里，后来把这间店变成了朗姆鸡尾酒的学校。海明威从 1932 年起成为常客，今天店里仍为他保留着吧台尽头的位置与一尊真人大小的铜像。
@@ -145,3 +146,9 @@ founded_year: 1817
 | 官网 | barfloridita.com |
 
 **来源与边界。** 本页关于「小佛罗里达酒馆」的关键事实，主要由以下来源交叉核对：El Floridita（创立时间、地址与海明威相关历史；1817 年创立、Constante 与冷冻代基里、海明威到访、2003 年铜像与营业时间）、Oxford University Press（提供关于代基里与哈瓦那酒吧文化的条目）、Gobierno Provincial de La Habana（Obispo 与 Monserrate 街角位置、名称演变、Constante 与“代基里摇篮”说法）等 6 条来源。产品、地址或营业状态变化较快时，以 barfloridita.com 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![半途小酒馆](/media/photos/place-la-bodeguita-del-medio-d602ad7c.jpg)
+
+图：半途小酒馆。图片：Derek Blackadder from Cobourg, ON, Canada，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bodeguita_del_Medio,_Havana,_Cuba_9.jpg)）。关联图像：小佛罗里达酒馆。

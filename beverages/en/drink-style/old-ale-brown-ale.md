@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:old-ale-brown-ale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:771efc5b309d3267ae344f2e1e836afd67f84012e5ef49825dd4849dc47ef349
-source_sha256: 771efc5b309d3267ae344f2e1e836afd67f84012e5ef49825dd4849dc47ef349
+source_revision: sha256:48f24b0f4e7d28fe14883a98e2654468a32b7a03436e22ecd3e81fb34d2e83d9
+source_sha256: 48f24b0f4e7d28fe14883a98e2654468a32b7a03436e22ecd3e81fb34d2e83d9
 related:
   - relation: about
     target_id: drink-style:english-ale
@@ -154,3 +154,9 @@ Styles close to these share the British malt and ale-fermentation framework: [en
 To learn a British ale, start with the standard benchmark, then a variant that changes strength or malt, then a long-aged extreme; after those three steps the boundary is clearer than from definitions alone.
 
 - Related: [english-ale](ref:english-ale), [beer](ref:beer), [barley](ref:barley), [fermentation](ref:fermentation), [vintage](ref:vintage).
+
+## Related images
+
+![Vintage](/media/photos/term-vintage-4b511c38.jpg)
+
+Image: Vintage. Credit: Chiusi Painter, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cup_vintage_Cdm_Paris_320_n1.jpg)). Related image for Old Ale / Brown Ale.

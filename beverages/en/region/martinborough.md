@@ -23,8 +23,8 @@ tags:
 translation_of: region:martinborough
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0ac902f28d279dbe05c0bbeb72392a54ac1ab4530b819db60ccec3f450454448
-source_sha256: 0ac902f28d279dbe05c0bbeb72392a54ac1ab4530b819db60ccec3f450454448
+source_revision: sha256:90e5addb33ccc2e4234f35714008d957e308372fff40dc5816de9d43404a013b
+source_sha256: 90e5addb33ccc2e4234f35714008d957e308372fff40dc5816de9d43404a013b
 related:
   - relation: about
     target_id: region:new-zealand
@@ -158,3 +158,13 @@ Driving is the main way around; public transport between the village and surroun
 - Related entries: [new-zealand](ref:new-zealand), [pinot-noir](ref:pinot), [chardonnay](ref:chardonnay), [red-wine](ref:red), [white-wine](ref:white).
 - This region does not provide maps, live opening hours or prices; check the regional association and winery websites before travelling.
 - To understand the difference between the terrace and Te Muna, the most efficient exercise is to visit one estate in each area on the same trip, taste the same variety from the same vintage, and record aroma, acidity and tannin side by side.
+
+## Related images
+
+![Photograph for New Zealand: New Zealand - Vineyard - 9878. Credit: Jorge Royan, CC BY-SA 3.0, via Wikimedia Commons.](/media/photos/q2-region-new-zealand-02bcf61e.jpg)
+
+Image: New Zealand - Vineyard - 9878. Credit: Jorge Royan, CC BY-SA 3.0, via Wikimedia Commons.. Credit: Jorge Royan, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=15897982)). Related image for Martinborough.
+
+![Pinot Noir](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+Image: Pinot Noir. Credit: Cjp24, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)). Related image for Martinborough.

@@ -83,6 +83,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；参观政策、价格与场次会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 嘉雅巴巴莱斯科酒庄
 
 嘉雅（Gaja）在巴巴莱斯科村的地址很清楚：Via Torino 5, 12050 Barbaresco (CN)。但它的“可参观性”并不清楚。官方网站在当时能打开的页面上只给出了地址、电话 +39 0173 635158 与邮箱 info@gaja.com，没有公布公众导览时段、票价或预约入口。因此本页把营业状态标为未知：地址与联系方式已经核实，参观与品鉴能否成行则必须以官方回复为准。把“名庄”自动等同于“随时可进”的想象，是这一站最容易犯的错误。
@@ -146,3 +147,9 @@ verification_scope: source-verified
 - [Barolo DOCG — 朗格产区协会](https://www.langhevini.it/le-denominazioni-tutelate-dal-consorzio/barolo-docg/)：巴罗洛 11 个市镇、三年陈年与 Riserva 规则。
 
 补充阅读：[皮埃蒙特](ref:c-extra-1)、[葡萄酒](ref:c-extra-2)。
+
+## 相关图像
+
+![丰塔纳弗雷达酒庄](/media/photos/place-fontanafredda-076ca0df.jpg)
+
+图：丰塔纳弗雷达酒庄。图片：Marchetto da Trieste，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Fontanafredda_-_chiesa_parrocchiale.jpg)）。关联图像：嘉雅巴巴莱斯科酒庄。

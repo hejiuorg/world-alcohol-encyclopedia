@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:ice-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a86be35f98852540f6276bda96b3a54129961bac527b129b70df665e81b95b72
-source_sha256: a86be35f98852540f6276bda96b3a54129961bac527b129b70df665e81b95b72
+source_revision: sha256:840025936fdcac0c45fe28d080dd673056b5eaab6a785cc45ea0dac411603254
+source_sha256: 840025936fdcac0c45fe28d080dd673056b5eaab6a785cc45ea0dac411603254
 legacy_refs: []
 parent_style_id: drink-style:wine
 aroma_family: Honey / tropical fruit / citrus
@@ -82,6 +82,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Ice Wine
 
 Ice wine, called Eiswein in German, is a sweet [wine](ref:wine) made from grapes that freeze naturally on the vine, and it belongs to the wider family of [dessert wine](ref:dessert-wine). The fruit is left on the vine until winter temperatures fall below freezing; it is then picked and pressed while still frozen. Water stays in the press as ice, and only a small amount of highly concentrated juice runs off. The sweetness comes neither from added sugar nor from botrytis but from physical dehydration and freezing. Understanding ice wine means understanding temperature, timing and risk.![Ice Wine image](/media/photos/drink-style-ice-wine-1300193a.jpg)
@@ -149,3 +150,9 @@ Start with [Dessert Wine](ref:dessert-wine) for legal definition, then read [Ger
 | Aroma family | Honey / tropical fruit / citrus |
 
 **Sources and limits.** The key claims about Ice Wine are checked against the following sources: Deutsches Weininstitut (DWI) (German harvest temperatures, history and the share of ice wine in the crop; no original text is reproduced), VQA Ontario (the Ontario VQA origin and production framework; no original text is reproduced), European Union (wine categories, geographical indications and labelling; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Germany](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+Image: Category image for Germany. Credit: Renardo la vulpo, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)). Related image for Ice Wine.

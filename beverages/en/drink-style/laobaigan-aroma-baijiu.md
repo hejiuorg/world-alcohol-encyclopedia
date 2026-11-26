@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:laobaigan-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4d812067f5cb10d298597905f2734c95786c6fc7ec25cb65e4f6115bb4dbaeb4
-source_sha256: 4d812067f5cb10d298597905f2734c95786c6fc7ec25cb65e4f6115bb4dbaeb4
+source_revision: sha256:8293e9a883213a1a9496fcb52a84497ecc2a5603c0b5b83206706b6e13ceecf5
+source_sha256: 8293e9a883213a1a9496fcb52a84497ecc2a5603c0b5b83206706b6e13ceecf5
 parent_style_id: drink-style:baijiu
 aroma_family: Laobaigan aroma
 legacy_refs: []
@@ -102,6 +102,7 @@ rights:
   note: Third-party standard texts, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Laobaigan-aroma baijiu
 
 Laobaigan-aroma baijiu is one of the aroma styles within [baijiu](ref:baijiu), represented above all by Hengshui Laobaigan in Hebei. The national standard GB/T 10781.10-2024, Quality requirements for baijiu — Part 10: Laobaiganxiangxing baijiu, was published on 2024-11-28 and took effect on 2025-12-01, fully replacing GB/T 20825-2007. It uses [sorghum](ref:sorghum) as the main material, wheat-based clear-branch qu as the saccharifying starter, and is commonly described as using ground-jar fermentation and separate steaming of grain and mash.![Laobaigan-aroma baijiu thematic illustration](/media/figures/specific/drink-style-laobaigan-aroma-baijiu.svg)
@@ -180,3 +181,9 @@ The entry on Laobaigan-aroma baijiu draws on State Administration for Market Reg
 - [Qu making](ref:qu-making): the role of clear-branch qu as a saccharifying starter.
 - [Fermentation](ref:fermentation) and [distillation](ref:distillation): where ground-jar fermentation and separate steaming sit in the process.
 - [Hengshui Laobaigan Gufa 20](ref:laobaigan-gufa): a concrete product example.
+
+## Related images
+
+![Wheat](/media/photos/ingredient-wheat-e782d218.jpg)
+
+Image: Wheat. Credit: kallerna, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)). Related image for Laobaigan-aroma baijiu.

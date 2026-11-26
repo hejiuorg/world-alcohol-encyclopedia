@@ -75,6 +75,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 伊贡·米勒酒庄
 
 伊贡·米勒酒庄（Weingut Egon Müller - Scharzhof）在德国萨尔河谷的维尔廷根，庄园名为沙兹霍夫（Scharzhof）。它的名字几乎等同于沙兹霍夫山（Scharzhofberg）：一片南向陡坡、蓝板岩与老藤，加上极低的产量，让这里的雷司令成为许多酒单上的“参照物”。与那些设有游客中心的酒庄不同，沙兹霍夫更像一座私人庄园——官方页面只给出地名与邮箱，抵达前必须自行确认。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 | 官网 | egon-mueller.de |
 
 **来源与边界。** 本页关于「伊贡·米勒酒庄」的关键事实，主要由以下来源交叉核对：Weingut Egon Müller - Scharzhof（Scharzhof、Wiltingen/Saar 所在地与联系邮箱；页面未列出参观时段，故营业状态标为 unknown）、Verband Deutscher Prädikatsweingüter（酒庄的 VDP 成员身份与摩泽尔/萨尔产区归属）、Deutsches Weininstitut（德国 Prädikat 分级与雷司令产区的官方说明）等 4 条来源。产品、地址或营业状态变化较快时，以 egon-mueller.de 的最新页面为准；价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![雷司令](/media/photos/variety-riesling-a836132e.jpg)
+
+图：雷司令。图片：No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)）。关联图像：伊贡·米勒酒庄。

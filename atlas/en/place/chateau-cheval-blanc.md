@@ -94,8 +94,8 @@ verification_scope: source-verified
 translation_of: place:chateau-cheval-blanc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d2195678601e7c075fec87d1a22f818c97dae56a9dc43d67fc845fc24ae396ac
-source_sha256: d2195678601e7c075fec87d1a22f818c97dae56a9dc43d67fc845fc24ae396ac
+source_revision: sha256:1df5e9687d8d6e21295e68327c397a50c63c64a0aa534251c488f4766629743c
+source_sha256: 1df5e9687d8d6e21295e68327c397a50c63c64a0aa534251c488f4766629743c
 ---
 
 # Château Cheval Blanc
@@ -171,3 +171,11 @@ With one day, Cheval Blanc plus Saint-Émilion village is a sensible pairing. To
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Château Cheval Blanc is built.
 
 [Château Pétrus](ref:petrus) and [Château Latour](ref:latour) answer different questions about Château Cheval Blanc: address and space and operating status. Read them as a pair, not as alternatives.
+
+## Related images
+
+![The Petrus vineyard and its marked farm buildings](/media/photos/place-chateau-petrus-6613fb81.jpg)
+
+Image: The Petrus vineyard and its marked farm buildings. Credit: Giogo, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:P%C3%A9trus_(ch%C3%A2teau)_02.jpg)). Related image for Château Cheval Blanc.
+
+A 2012 Left Bank Bordeaux Cup team photograph is used as the event reference.

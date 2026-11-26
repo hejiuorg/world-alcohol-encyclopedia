@@ -87,6 +87,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # 普罗旺斯桃红路线
 
 这条路线只有两站：塔拉多的 Château de Selle 与科朗斯的米拉沃。它们同属普罗旺斯，同做浅色桃红，却代表两种完全不同的组织方式。前者属于奥托酒庄的三庄园体系，酒窖与品鉴室在工作日按预约开放；后者是私家庄园，官方明确不对公众开放，酒只在佩兰家族的品鉴室与授权渠道出售。把两站串成一天，重点不是“多喝两家”，而是理解同一产区里“可参观”与“不可参观”的分界。
@@ -165,3 +166,13 @@ Côtes de Provence 于 1977 年获得 AOP 地位，葡萄园超过 20,000 公顷
 - [Vins de Provence 官网](https://www.vinsdeprovence.com/)：普罗旺斯三个产区与葡萄酒旅游入口。
 
 补充阅读：[普罗旺斯](ref:c-extra-1)。
+
+## 相关图像
+
+![桃红葡萄酒](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+图：桃红葡萄酒。图片：THOR，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)）。关联图像：普罗旺斯桃红路线。
+
+![米拉沃酒庄相关实景照片](/media/photos/place-chateau-miraval-261f44a3.jpg)
+
+图：米拉沃酒庄相关实景照片。图片：Hernandlucas，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Miraval_3.jpg)）。关联图像：普罗旺斯桃红路线。

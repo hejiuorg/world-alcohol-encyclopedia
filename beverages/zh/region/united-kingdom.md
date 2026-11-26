@@ -94,6 +94,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 英国
 
 英国是由英格兰、威尔士、苏格兰与北爱尔兰组成的岛国。它的酒类版图常被苏格兰威士忌的光芒掩盖，但英格兰与威尔士的起泡酒、英国的金酒、啤酒与苹果酒同样有清晰的传统与市场。本页聚焦英格兰、威尔士与北爱尔兰；苏格兰威士忌请参见[苏格兰](ref:scotland)页。
@@ -187,3 +188,13 @@ verification_scope: source-verified
 | 国家代码 | GB |
 
 **来源与边界。** 本页关于「英国」的关键事实，主要由以下来源交叉核对：UK Government — Defra（英国食品、农业与葡萄酒相关政策的公开信息）、WineGB（英格兰与威尔士葡萄酒产业、产区与品种的公开信息）、Oxford University Press（提供关于英国葡萄酒历史、产区与起泡酒的条目；提供关于金酒历史、类型与英国饮用文化的条目）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![苹果酒](/media/photos/drink-style-cider-f3bc26a6.jpg)
+
+图：苹果酒。图片：ChuckDabs，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Midwest_hard_cider.jpg)）。关联图像：英国。
+
+![金酒](/media/photos/drink-style-gin-abe0a9c8.jpg)
+
+图：金酒。图片：Decatur Wine & Spirits，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)）。关联图像：英国。

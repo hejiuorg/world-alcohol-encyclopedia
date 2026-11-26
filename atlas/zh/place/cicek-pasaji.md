@@ -87,6 +87,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；营业时间、价格与菜单会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # Çiçek Pasajı
 
 从 İstiklal 大街的人流里侧身拐进一道石拱门，声音会突然变厚：杯盘、瓶盖、土耳其语、英语、阿拉伯语与俄语混在一起，烤鱼与香料的味道从两侧店面涌出来。这里不是一间酒吧，而是一条叫 Çiçek Pasajı 的历史拱廊——“花廊”。它从 1876 年的商业公寓楼，变成 1978 年坍塌的废墟，再变成今天贝伊奥卢最密集的 meyhane 与餐馆群。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 - Portreler 长文：<https://www.portreler.com.tr/peranin-solmayan-hafizasi-cicek-pasaji/>，用于核对 1978 年 5 月 10 日坍塌、12 人死亡、1978–1988 年废墟与 1988 年修复。
 - Wow Cappadocia 指南：<https://wowcappadocia.com/cicek-pasaji-istanbul.html>，用于交叉核对 24 家店铺、18 套公寓、1908 年归属、花店集中与 1978/1988/2005 年修复。
 - 跨城条目：[Café Central](ref:central)、[Café Sacher](ref:sacher)、[New York Café](ref:newyork)、[A Brasileira](ref:brasileira)、[A Ginjinha](ref:ginjinha)。
+
+## 相关图像
+
+![Café Sacher 内部，Hotel Sacher 的红色天鹅绒座位与吊灯](/media/photos/place-cafe-sacher-43645c0a.jpg)
+
+图：Café Sacher 内部，Hotel Sacher 的红色天鹅绒座位与吊灯。图片：Feel free to use my photos, but please mention me as the author and if you want send me a message . or ( rufre@lenz-nenning.at )，CC BY-SA 3.0 at，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Cafe_Sacher,_Hotel_Sacher,_Wien.JPG)）。关联图像：Çiçek Pasajı。

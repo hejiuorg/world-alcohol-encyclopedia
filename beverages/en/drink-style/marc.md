@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:marc
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2afed0dd115c64972d5129d09d47a1ae09aa6d4070b705b5c459c1dedf28467f
-source_sha256: 2afed0dd115c64972d5129d09d47a1ae09aa6d4070b705b5c459c1dedf28467f
+source_revision: sha256:c99a3de3710033c5beff70049c5af81f075c41ecae1a31fd5c4b5c46f8c680a8
+source_sha256: c99a3de3710033c5beff70049c5af81f075c41ecae1a31fd5c4b5c46f8c680a8
 related:
   - relation: about
     target_id: drink-style:grappa
@@ -79,6 +79,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Marc
 
 The French name for grape-pomace spirit, most associated with Burgundy and Champagne; it is the same broad family as Italian grappa, but French rules, raw materials and ageing habits differ and the style is usually more rustic.
@@ -154,3 +155,9 @@ Compare an unaged and an aged marc from the same region, then a Champagne marc b
 - [Pomace](ref:pomace): the raw material for marc.
 - [Distillation](ref:distillation): pot stills and cuts.
 - [France](ref:france): regional and regulatory background.
+
+## Related images
+
+![Grappa](/media/photos/drink-style-grappa-b92c5c9d.jpg)
+
+Image: Grappa. Credit: Carsten Tolkmit from Kiel, Germany, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_glass_of_tasty_grappa.jpg)). Related image for Marc.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cafe-procope
 source_lang: zh
-source_revision: sha256:5a33a4e022f0dd82686dbff6079df8ff4e8edca2195f96b0bf108be59d769cb3
-source_sha256: 5a33a4e022f0dd82686dbff6079df8ff4e8edca2195f96b0bf108be59d769cb3
+source_revision: sha256:92b9b5846226d5c80534d295d7ca00a74649801aaa37db0779ee1370803efa1e
+source_sha256: 92b9b5846226d5c80534d295d7ca00a74649801aaa37db0779ee1370803efa1e
 translation_status: reviewed
 subtype: pub
 address: 13 Rue de l'Ancienne Comédie, 75006 Paris, France
@@ -130,3 +130,9 @@ Nearby you can walk through the old Cour du Commerce Saint-André, see Saint-Ger
 Further reading: [A Ginjinha](ref:c-extra-1).
 
 Le Procope is best approached through the address, then the current opening status, and then what the place is known for. One check alone will not settle it.
+
+## Related images
+
+![Photograph for France: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.](/media/photos/q2-region-france-338f007d.jpg)
+
+Image: Moët & Chandon vineyards in Verzenay, Champagne, France. Credit: Mustang Joe, CC0, via Flickr / Openverse.. Credit: Mustang Joe, CC0, via Wikimedia Commons ([source page](https://www.flickr.com/photos/63234672@N04/13180177073)). Related image for Le Procope.

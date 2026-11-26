@@ -22,8 +22,8 @@ tags:
 translation_of: variety:dolcetto
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c6008862e37ab70e4486556fefec967b3a73889f61f8f9714f2e2cf697ffcdae
-source_sha256: c6008862e37ab70e4486556fefec967b3a73889f61f8f9714f2e2cf697ffcdae
+source_revision: sha256:67c29d1218b6628edea5637d974dbfcf1c6eb99e0fde151a4d7babd83ffcb0f3
+source_sha256: 67c29d1218b6628edea5637d974dbfcf1c6eb99e0fde151a4d7babd83ffcb0f3
 related:
   - relation: about
     target_id: region:piedmont
@@ -157,3 +157,9 @@ On the label, separate DOC from DOCG, standard from Superiore, and single-vineya
 To read Dolcetto, start with where it is grown, then how it is labelled, then whether the style is dry or sweet; no single check settles it.
 
 [Piedmont](ref:piedmont) and [Barbera](ref:barbera) are the two useful reference points for Dolcetto. [Piedmont](ref:piedmont) sets out variety character; [Barbera](ref:barbera) brings in regional performance. Read them together.
+
+## Related images
+
+![Barbera](/media/photos/variety-barbera-e133d946.jpg)
+
+Image: Barbera. Credit: Agne27, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barbera_cluster.JPG)). Related image for Dolcetto.

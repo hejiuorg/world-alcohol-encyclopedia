@@ -81,6 +81,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 苏玳
 
 苏玳（Sauternes）是法国吉伦特省波尔多南部的[贵腐甜白](ref:sauternes-style)产区，覆盖 Sauternes、Barsac、Bommes、Fargues 与 Preignac 五座村庄。它不是一块均质的土地，而是一组沿 Ciron 河与加龙河分布的台地、砾石坡与黏土洼地；雾、河流与真菌把这里变成甜酒产区，1855 年的分级则把它写进市场记忆。它是[波尔多](ref:bordeaux)的一部分，也是[甜酒](ref:dessert-wine)世界里最受注视的产区之一，却以完全不同的方式被理解。
@@ -149,3 +150,13 @@ Barsac 的特别之处在于选择权。它既可以标 Sauternes，也可以标
 **来源与边界。** 本页关于「苏玳」的关键事实，主要由以下来源交叉核对：Official Journal of the European Union（苏玳 PDO 的地理范围、品种、最低糖度与产量规则）、Conseil Interprofessionnel du Vin de Bordeaux（波尔多产区与甜白的整体框架）、INAO（法国 AOC/AOP 的管理与产品规范体系）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「苏玳」与「波尔多」、「苏玳」、「甜酒」放在一起读时，先确认它们是同一层级还是上下游关系：先确认边界与法定分类，再比较气候、土壤、海拔与代表酒款。本页负责给出产区的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于产区本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![苏玳相关实景照片](/media/photos/drink-style-sauternes-b29c0c10.jpg)
+
+图：苏玳相关实景照片。图片：Pascal MOULIN，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sauternes_2.jpg)）。关联图像：苏玳。
+
+![贵腐（noble rot）](/media/photos/term-noble-rot-97171bf5.jpg)
+
+图：贵腐（noble rot）。图片：Photographer: Tom Maack No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Botrytis_riesling.jpg)）。关联图像：苏玳。

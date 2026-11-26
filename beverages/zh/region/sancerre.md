@@ -94,6 +94,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 桑塞尔
 
 桑塞尔是卢瓦尔河谷东部、谢尔省的丘陵产区，位于卢瓦尔河左岸，以长相思白葡萄酒与黑皮诺红、桃红著称；石灰岩与燧石土壤、凉爽大陆性气候与 1936 年白葡萄酒 AOC（1959 年增补红与桃红），使它成为“矿物感长相思”最常被引用的产地。
@@ -176,3 +177,13 @@ AOC 名之下，市镇或地块名提示土壤背景；品种（长相思或黑�
 | 层级 | 省/大区 |
 | 所属 | 卢瓦尔河谷 |
 | 国家代码 | FR |
+
+## 相关图像
+
+![卢瓦尔河谷](/media/photos/region-loire-d93c2c1f.jpg)
+
+图：卢瓦尔河谷。图片：Wikimedia Commons contributor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Azay_le_rideau.jpg)）。关联图像：桑塞尔。
+
+![长相思相关实景照片](/media/photos/variety-sauvignon-blanc-7b861786.jpg)
+
+图：长相思相关实景照片。图片：Geolina163 + 1971markus，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:HBLA_Klosterneuburg_Sauvignon_Blanc_2.jpg)）。关联图像：桑塞尔。

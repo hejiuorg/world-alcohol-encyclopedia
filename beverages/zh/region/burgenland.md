@@ -88,6 +88,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 布尔根兰
 
 布尔根兰（Burgenland）是奥地利最东部的联邦州级葡萄酒产区，受潘诺尼亚大陆性气候影响，以 Blaufränkisch 红葡萄酒与贵腐甜酒著称。
@@ -185,3 +186,13 @@ Blaufränkisch 建议 15–17 摄氏度，Zweigelt 与桃红可稍低；Pinot Bl
 - [风土](ref:terroir)：湖面微气候与土壤如何形成产地差异。
 - [年份](ref:vintage)：甜酒与红酒的年份差异。
 - [单一品种](ref:single-varietal)与[混酿](ref:blend)：酒标品种标注与调配的两种路径。
+
+## 相关图像
+
+![甜型（sweet）](/media/photos/term-sweet-263faa46.jpg)
+
+图：甜型（sweet）。图片：Tomomarusan，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Strawberry_shortcake.jpg)）。关联图像：布尔根兰。
+
+![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。关联图像：布尔根兰。

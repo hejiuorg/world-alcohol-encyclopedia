@@ -110,6 +110,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、导览价格与预约规则会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 麦卡伦庄园
 
 从 Craigellachie 往北，A941 沿 Spey 河走一小段，转入一条穿过草坡与树林的车道，才到麦卡伦的庄园。这里没有“路边酒厂”的随意感：大门、停车场、游客中心与厂房都被安排在 Easter Elchies 的坡地里，屋顶起伏，远看像把草地掀起来又盖回去。麦卡伦是世界上最知名的单一麦芽品牌之一，但它的参观体验首先是一套被设计过的“进入庄园”的流程——没有预约，通常连门都进不去。
@@ -183,3 +184,9 @@ verification_scope: source-verified
 - 斯佩塞对照：[Glenfiddich](ref:glenfiddich)、[Glenlivet](ref:glenlivet)、[斯佩塞麦芽路线](ref:speysideroute)。
 - 艾雷岛对照：[Lagavulin](ref:lagavulin)、[Laphroaig](ref:laphroaig)、[Ardbeg](ref:ardbeg)、[艾雷岛威士忌路线](ref:islayroute)。
 - 官方来源见页首 sources：酒厂参观页、新酒厂页、VisitScotland 与 Edrington 母公司页。
+
+## 相关图像
+
+![斯佩塞罗瑟斯的格兰罗塞斯酒厂，麦芽威士忌路线上的典型站点](/media/photos/route-speyside-malt-trail-5f2ee11e.jpg)
+
+图：斯佩塞罗瑟斯的格兰罗塞斯酒厂，麦芽威士忌路线上的典型站点。图片：Yves Cosentino，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glenrothes_Distillery,_Rothes,_Speyside.jpg)）。关联图像：麦卡伦庄园。

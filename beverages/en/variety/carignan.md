@@ -23,8 +23,8 @@ tags:
 translation_of: variety:carignan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:152c28fc847850ecad66879f62d2ffcf3e933d0d30f07281cfd2152b67861b9a
-source_sha256: 152c28fc847850ecad66879f62d2ffcf3e933d0d30f07281cfd2152b67861b9a
+source_revision: sha256:f5c190f9d837a622f32c8508e0a4ed3c29d59eb94b4398d17fe6df8a1e2111b7
+source_sha256: f5c190f9d837a622f32c8508e0a4ed3c29d59eb94b4398d17fe6df8a1e2111b7
 related:
   - relation: about
     target_id: variety:syrah
@@ -149,3 +149,9 @@ The most direct comparison is to taste a Languedoc old vine, a Priorat single va
 - Related: [syrah](ref:syrah), [red-wine](ref:red), [terroir](ref:terroir), [oak-ageing](ref:oak), [vintage](ref:vintage).
 
 [Syrah](ref:syrah) explains variety character; [Terroir](ref:terroir) adds regional performance. Put Carignan between them before deciding what it is.
+
+## Related images
+
+![Photograph for Syrah: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+Image: Syrah Grapes on the Vine. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons.. Credit: U.S. Geological Survey, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=114429512)). Related image for Carignan.

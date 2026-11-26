@@ -74,6 +74,7 @@ rights:
   note: 第三方点校本、注释、译本与数据库页面不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 唐代酒坊：酒户、官坊与官店
 
 唐前期的酒业以民营为主，朝廷多在灾年才下令禁酒；安史之乱以后军费与财政压力上升，酒从“可以禁止的消费品”变成“可以经营的商品”。广德二年开始量定酒户，建中三年改为官酿，贞元二年在京城与畿县行榷，元和年间又把榷钱摊入两税。酒坊的形态随之分裂：纳税酒户、官营酒坊与官店并存，私营酿造则反复被禁。
@@ -152,3 +153,9 @@ verification_scope: source-verified
 - [中国](ref:china)：中国酒类的产区与品类背景。
 
 相关条目：[中国酒史纲：从谷物发酵到国家名酒](ref:chinese-wine-history)。
+
+## 相关图像
+
+![宋代酒课：官务、民酿岁课与财政依赖类别配图](/media/photos/place-xianheng-hotel-329475b5.jpg)
+
+图：宋代酒课：官务、民酿岁课与财政依赖类别配图。图片：Jiong Sheng，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:ShaoxingXianheng.jpg)）。关联图像：唐代酒坊：酒户、官坊与官店。

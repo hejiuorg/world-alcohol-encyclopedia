@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:cuban-rum-nationalization
 source_lang: zh
-source_revision: sha256:c003f6ce91f9fa76b1d10cd1d3430d6c04164f36656c7c6ca707325a92dc36fc
-source_sha256: c003f6ce91f9fa76b1d10cd1d3430d6c04164f36656c7c6ca707325a92dc36fc
+source_revision: sha256:9e92a6378ddb49e1d75de48a005e93525c3b60486187da0b6f72da36c425163c
+source_sha256: 9e92a6378ddb49e1d75de48a005e93525c3b60486187da0b6f72da36c425163c
 translation_status: reviewed
 aliases:
   - 哈瓦那俱乐部国有化
@@ -147,3 +147,9 @@ Fifth, the main sources are partisan. The Bacardi-affiliated site and the Cuban-
 - [US Prohibition](ref:prohibition): the historical condition that brought American tourists and bartenders to Havana.
 - [United States](ref:usa): the market of the embargo and the trademark litigation.
 - [Spain](ref:spain): the starting point of Cuba's colonial and sugar economy.
+
+## Related images
+
+![Mojito](/media/photos/cocktail-mojito-95e6d248.jpg)
+
+Image: Mojito. Credit: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0072.jpg)). Related image for The Nationalisation of Cuban Rum: From the Arechabala Family to Two Havana Clubs.

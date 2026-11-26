@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:sour-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e235761965d39f1da7c2ed844ee78501c1c78b6111a197c8781f47f675b5e63f
-source_sha256: e235761965d39f1da7c2ed844ee78501c1c78b6111a197c8781f47f675b5e63f
+source_revision: sha256:f410c75c8dd17947dad2ea5d0d68c78f12a024e678c87328e42cd014382b9e01
+source_sha256: f410c75c8dd17947dad2ea5d0d68c78f12a024e678c87328e42cd014382b9e01
 legacy_refs: []
 aliases:
   - Sour beer
@@ -91,6 +91,7 @@ rights:
   note: Third-party style guidelines, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Sour beer
 
 Sour beer is a category of beers in which microbial metabolism produces marked acidity and acidity itself is central to the style. The acid comes mainly from lactic fermentation, and sometimes from acetic fermentation; the organisms involved are not only brewer's yeast but also lactic acid bacteria, acetic acid bacteria and Brettanomyces. Belgian lambic and red-brown ales, German Berliner Weisse and Gose, and modern kettle souring all belong to this lineage. Acidity is a style axis, not a defect and not a quality grade.
@@ -167,3 +168,9 @@ Start with [Beer](ref:beer) for legal definition, then read [Acidity](ref:acidit
 - [Belgium](ref:belgium): the home of lambic and Flanders sour ales.
 - [Germany](ref:germany): the tradition of Berliner Weisse and Gose.
 - [Craft beer](ref:craft-beer): the background of the sour revival and kettle souring.
+
+## Related images
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Sour beer.

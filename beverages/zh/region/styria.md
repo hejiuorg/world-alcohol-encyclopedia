@@ -85,6 +85,7 @@ rights:
   note: 本页配图为西施泰尔马克席尔歇葡萄酒产区实拍，按 CC BY 4.0 使用，具体见图片图注。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 施泰尔马克
 
 施泰尔马克（Steiermark，英文 Styria）是奥地利东南部的州级葡萄酒产区，以 Sauvignon Blanc 等干型白葡萄酒与西部桃红 Schilcher 著称。
@@ -180,3 +181,13 @@ Sauvignon Blanc 与 Schilcher 建议 8–10 摄氏度，Weißburgunder 与 Moril
 - [风土](ref:terroir)：Opok 与火山土如何形成产地差异。
 - [橡木桶陈年](ref:oak-ageing)：Reserve 级别与容器选择。
 - [单一品种](ref:single-varietal)：施泰尔马克的品种比例与酒标标注规则。
+
+## 相关图像
+
+![桃红葡萄酒](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+图：桃红葡萄酒。图片：THOR，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)）。关联图像：施泰尔马克。
+
+![葡萄酒](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+图：葡萄酒。图片：André Karwath，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)）。关联图像：施泰尔马克。

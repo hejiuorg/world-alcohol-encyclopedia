@@ -88,6 +88,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开馆时间、票价与展陈会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 月桂冠大仓纪念馆
 
 月桂冠大仓纪念馆在京都伏见区南浜町，濠川（外护城河）边的一排白壁土藏之间。它由月桂冠把一座 1909 年建造的酒窖改建而成，1982 年开馆，1987 年、也就是创业 350 年时开始常态向公众开放。馆名里的“大仓”是创业家族大仓家的姓氏，不是某位现代赞助人。这里讲的不只是月桂冠一家企业的历史，还包括伏见作为酒乡如何依靠水、河运与城市消费发展起来。
@@ -156,3 +157,9 @@ verification_scope: source-verified
 补充阅读：[纯米酒](ref:c-extra-1)、[A Ginjinha](ref:c-extra-2)。
 
 相关条目：[日本](ref:japan)、[清酒](ref:sake)、[清酒与烧酎：同为日本酒，工艺完全不同](ref:sake-and-shochu)。
+
+## 相关图像
+
+![纯米酒相关实景照片](/media/photos/drink-style-junmai-sake-c56e7eb1.jpg)
+
+图：纯米酒相关实景照片。图片：Nisiguti，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Matsui_Sake_Brewery%27s_Sake_20211122.jpg)）。关联图像：月桂冠大仓纪念馆。

@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:grenache
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cbdc68df0431ab93777ffa1412875e82bc23e3134b3ee4b89ca5abe14b890554
-source_sha256: cbdc68df0431ab93777ffa1412875e82bc23e3134b3ee4b89ca5abe14b890554
+source_revision: sha256:6477110a06ef6f1f9f46b7849101e5101b454bd7e94634c144fdf9ded239b682
+source_sha256: 6477110a06ef6f1f9f46b7849101e5101b454bd7e94634c144fdf9ded239b682
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -76,6 +76,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Grenache
 
 Grenache is one of the most important red grapes of the Mediterranean: heat- and drought-tolerant, quick to accumulate sugar, able to survive on dry, poor slopes. Its skins are thin, its tannin medium and its acidity low, so on its own it can feel loose, yet in blends it supplies fruit, alcohol and spice. It is Garnacha in Spain and Cannonau in Sardinia, and genetic work confirms they are the same variety.![Grenache image](/media/photos/variety-grenache-69c881eb.jpg)
@@ -140,3 +141,9 @@ For Grenache, begin with where it is grown. Then look at how it is labelled, and
 - [Fortified wine](ref:fortified): the vin doux naturel tradition of Banyuls and Maury.
 
 Further reading: [Aglianico](ref:c-extra-1).
+
+## Related images
+
+![Aglianico](/media/photos/variety-aglianico-d4dec6be.jpg)
+
+Image: Aglianico. Credit: Alexis Kreyder, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aglianico_Viala_Vermorel.jpg)). Related image for Grenache.

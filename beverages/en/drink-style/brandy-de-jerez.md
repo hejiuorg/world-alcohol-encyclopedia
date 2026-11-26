@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:brandy-de-jerez
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fb0d59197ae12ac1d5f4eeeff0a4b336e2ca42d153417f9daaa331a1e2ba4725
-source_sha256: fb0d59197ae12ac1d5f4eeeff0a4b336e2ca42d153417f9daaa331a1e2ba4725
+source_revision: sha256:4ef08a02ca514d6072612671b34bf26b62d2b08559d2dd07a345a27138f22c3a
+source_sha256: 4ef08a02ca514d6072612671b34bf26b62d2b08559d2dd07a345a27138f22c3a
 related:
   - relation: about
     target_id: drink-style:brandy
@@ -155,3 +155,9 @@ When buying, read the back label: whether the indication name, grade, producer, 
 Brandy de Jerez shares process and region with neighbouring categories: [brandy](ref:brandy) is the broad distilled-spirit family it belongs to, [sherry](ref:sherry) supplies the ageing casks and envinado tradition, [solera](ref:solera) is the core mechanism of its dynamic ageing, [oak-ageing](ref:oak) shapes vanilla, oxidation and wood layers, and [spain](ref:spain) is the national background of the Andalusian region. To learn a brandy style, start with the standard benchmark, then a variant that changes grade or cask type, then a long-aged extreme; after those three steps the boundary is clearer than from definitions alone.
 
 - Related: [brandy](ref:brandy), [sherry](ref:sherry), [solera](ref:solera), [oak-ageing](ref:oak), [spain](ref:spain).
+
+## Related images
+
+![Brandy](/media/photos/drink-style-brandy-b2c89cad.jpg)
+
+Image: Brandy. Credit: Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cognac_glass.jpg)). Related image for Brandy de Jerez.

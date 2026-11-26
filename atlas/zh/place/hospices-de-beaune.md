@@ -105,6 +105,7 @@ verified_at: 2026-11-08
 founded_year: 1443
 verification_scope: source-verified
 ---
+
 # 博讷主宫医院
 
 博讷主宫医院（Hôtel-Dieu des Hospices de Beaune）在博讷老城中心，地址是 2 Rue de l'Hôtel-Dieu。它首先是一家 15 世纪的慈善医院，其次才是一座博物馆：1443 年由勃艮第公爵府 chancellor 尼古拉·罗林（Nicolas Rolin）与妻子吉戈娜·德·萨兰（Guigone de Salins）创立，作为“穷人的宫殿”收治朝圣者、流浪者与无钱就医的病人。1971 年停止收治后，建筑被保留下来，成为勃艮第最常被参观的历史建筑之一。它的名字也属于一个仍在运营的医院集团——Hospices Civils de Beaune，这一点常被游客忽略。
@@ -171,3 +172,9 @@ verification_scope: source-verified
 - [红葡萄酒](ref:red-wine)：勃艮第红葡萄酒的结构与陈年。
 - [约瑟夫杜鲁安酒庄](ref:drouhin)：博讷市内的家族酒商与地下酒窖。
 - [默尔索城堡](ref:meursault)：默尔索的白葡萄酒与城堡式参观。
+
+## 相关图像
+
+![约瑟夫杜鲁安酒庄](/media/photos/place-domaine-drouhin-211d0e07.jpg)
+
+图：约瑟夫杜鲁安酒庄。图片：Tomas er，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Drouhin_Gevrey-Chambertin_in_glass.jpg)）。关联图像：博讷主宫医院。

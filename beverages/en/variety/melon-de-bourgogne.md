@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:melon-de-bourgogne
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6fc87622cef5fd54f950ecdf0262dd8bd013ac7553333e0966c11b37c38c8955
-source_sha256: 6fc87622cef5fd54f950ecdf0262dd8bd013ac7553333e0966c11b37c38c8955
+source_revision: sha256:ec2952754bf5e8034b1e0dcc9048e9cdee7bdbc702ee08fbd687b4b7085c6405
+source_sha256: ec2952754bf5e8034b1e0dcc9048e9cdee7bdbc702ee08fbd687b4b7085c6405
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -70,6 +70,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Melon de Bourgogne
 
 Melon de Bourgogne is a variety easily misled by its name. It is neither a melon nor a Muscat, but a white grape native to Burgundy that became the leading variety around Nantes in the Loire Valley. Three things matter: its shared parentage with Chardonnay, its high acidity and neutral aroma, and the Muscadet tradition of lees ageing.![Melon de Bourgogne image](/media/photos/variety-melon-de-bourgogne-14f19f21.jpg)
@@ -140,3 +141,9 @@ Start with where it is grown. From there, consider how it is labelled, then whet
 - [Muscadet](ref:muscadet): the wine and appellations built on this variety.
 
 Further reading: [Aglianico](ref:c-extra-1).
+
+## Related images
+
+![Muscadet](/media/photos/drink-france-muscadet-d069bc57.jpg)
+
+Image: Muscadet. Credit: Julien.scavini, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Muscadet_wine_bottle.jpg)). Related image for Melon de Bourgogne.

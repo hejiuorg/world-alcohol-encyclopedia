@@ -81,6 +81,7 @@ stop_ids:
 mode: walk
 updated_at: 2026-11-08
 ---
+
 # 圣日耳曼德佩文学咖啡馆半日路线
 
 这条路线只有两站，都在巴黎第六区圣日耳曼德佩：先到双叟咖啡馆，再去花神咖啡馆。两家店相距很近，几乎在同一街口的两侧，所以它不是“赶场式”的打卡路线，而是一段可以坐下来、观察街区、读几页书的半日行程。
@@ -154,3 +155,13 @@ updated_at: 2026-11-08
 **并读。** 把「圣日耳曼德佩文学咖啡馆半日路线」与「双叟咖啡馆」、「花神咖啡馆」、「认识一座城，从一间酒馆开始」放在一起读时，先确认它们是同一层级还是上下游关系：先确认停靠点与交通，再比较开放时间、预约与步行强度。本页负责给出路线的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于路线本身，哪些只是产地、批次或品牌选择。
 
 **适用边界。** 对「圣日耳曼德佩文学咖啡馆半日路线」而言，停靠顺序、开放时间与交通会变；出发前逐站核对官网与预约要求。
+
+## 相关图像
+
+![双叟咖啡馆](/media/photos/place-les-deux-magots-262de577.jpg)
+
+图：双叟咖啡馆。图片：Cheng-en Cheng from Taichung City, Taiwan，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Les_Deux_Magots,_25_September_2019.jpg)）。关联图像：圣日耳曼德佩文学咖啡馆半日路线。
+
+![“法国”页面配图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。](/media/photos/q2-region-france-338f007d.jpg)
+
+图：Moët & Chandon vineyards in Verzenay, Champagne, France。摄影：Mustang Joe，CC0，来自 Flickr / Openverse。。图片：Mustang Joe，CC0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photos/63234672@N04/13180177073)）。关联图像：圣日耳曼德佩文学咖啡馆半日路线。

@@ -88,6 +88,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、试饮菜单与见学场次会变化，以官方渠道为准。本页未绘制地图。
 verification_scope: source-verified
 ---
+
 # 贺茂鹤酒造
 
 贺茂鹤酒造是[日本](ref:japan)广岛县东广岛市西条町的酒藏，参观入口设在西条本町 9 番 7 号的“一号藏”藏元直营店，从 JR 西条站步行约三分钟。它常被误当成一座静态的酒藏纪念馆，实际仍是运转中的酒造：一号藏由 1872 年建成的旧藏改装，2019 年作为见学室与直营店开放，2024 年 2 月随“西条酒藏群”列为国史迹；真正的酿造藏就在附近，平时不对外开放，只能随不定期预约的见学团进入。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 - [日本酒の分類](https://japansake.or.jp/sake/about-sake/classification-of-sake/)，日本酒造组合中央会，核验特定名称酒的精米步合与原料规定。
 
 页面核验日期 2026-11-09；开放时间、试饮价格与见学安排以官方渠道为准。
+
+## 相关图像
+
+![清酒瓶装，精米步合、酒度与日本酒度常决定选购判断](/media/photos/drink-style-sake-de6a3028.jpg)
+
+图：清酒瓶装，精米步合、酒度与日本酒度常决定选购判断。图片：koutalou，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sake_bottles.jpg)）。关联图像：贺茂鹤酒造。

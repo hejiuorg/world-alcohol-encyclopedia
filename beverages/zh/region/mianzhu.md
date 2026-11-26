@@ -91,6 +91,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 绵竹市
 
 绵竹是四川省德阳市代管的县级市，位于四川盆地西北缘、龙门山前。市境东南接德阳市旌阳区，东北邻绵阳市安州区，西南与什邡隔河相望，西北进入阿坝州茂县方向。官方概况给出的面积是 1,246.2 平方公里，户籍人口 474,293 人，辖 10 个镇、2 个街道和 153 个村（社区）。这些数字说明绵竹并不是一个只围绕酒厂存在的工业点，而是一个山地、平原与城镇交织的完整县域。
@@ -153,3 +154,13 @@ verification_scope: source-verified
 - 想把绵竹放进四川产区地图，读[四川](ref:sichuan)，再对照[宜宾](ref:yibin)与[泸州](ref:luzhou)。
 - 想比较赤水河流域的酱香路线，读[贵州](ref:guizhou)与[酱香型白酒](ref:sauce)；想理解北方清香路线，读[清香型白酒](ref:light)。
 - 想从国家层级看中国酒类的地理分布，读[中国](ref:china)与[白酒](ref:baijiu)。
+
+## 相关图像
+
+![贵州省](/media/photos/region-guizhou-b13939f2.jpg)
+
+图：贵州省。图片：Huangdan2060，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg)）。关联图像：绵竹市。
+
+![酱香型白酒](/media/photos/drink-style-sauce-aroma-baijiu-1c3af236.jpg)
+
+图：酱香型白酒。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)）。关联图像：绵竹市。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:veneto-prosecco-trail
 source_lang: zh
-source_revision: sha256:6479ab100f4eae649076f36b819e3a3bf7a4f837b3611044923bc6ac3898314b
-source_sha256: 6479ab100f4eae649076f36b819e3a3bf7a4f837b3611044923bc6ac3898314b
+source_revision: sha256:211567c49daaa39040d35146c0929070d70b9f64bc6e034f85bf71b40de73123
+source_sha256: 211567c49daaa39040d35146c0929070d70b9f64bc6e034f85bf71b40de73123
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -161,3 +161,13 @@ September and October bring the Prosecco harvest and preparation for Valpolicell
 - [Prosecco.it — Area of Origin](https://www.prosecco.it/en/area-of-origin/): 15 communes, Glera, 600 hours of manual work and the 2019 UNESCO listing.
 - [Prosecco.it — DOCG](https://www.prosecco.it/en/conegliano-valdobbiadene-prosecco-superiore-docg/): the 1969 DOC, 2009 DOCG and category system.
 - [Grave di Stecca — Nino Franco](https://www.ninofranco.it/it/vini/grave-di-stecca/): the walled single vineyard, its area, altitude and tank fermentation.
+
+## Related images
+
+![Glera](/media/photos/variety-glera-308e7415.jpg)
+
+Image: Glera. Credit: paul Barker Hemings from seregno, 85, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Prosecco_vitigni.jpg)). Related image for Veneto Prosecco trail: Valdobbiadene to Fumane.
+
+![Illustration for Bisol](/media/photos/theme-vineyard.jpg)
+
+Image: Illustration for Bisol. Project-made bilingual editorial figure, not an on-site photograph. Related image for Veneto Prosecco trail: Valdobbiadene to Fumane.

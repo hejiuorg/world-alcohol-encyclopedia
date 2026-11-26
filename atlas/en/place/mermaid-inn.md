@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: place:mermaid-inn
 source_lang: zh
-source_revision: sha256:4f6b6ec33bf55db7db2d77c4a755f48138842256aeff4d08c5d3afddc723a380
-source_sha256: 4f6b6ec33bf55db7db2d77c4a755f48138842256aeff4d08c5d3afddc723a380
+source_revision: sha256:acc231e81257d353b9705388f6067c61ade8fcc55541435a1db6d590de160530
+source_sha256: acc231e81257d353b9705388f6067c61ade8fcc55541435a1db6d590de160530
 translation_status: reviewed
 subtype: pub
 address: Mermaid Street, Rye, East Sussex TN31 7EY, United Kingdom
@@ -144,3 +144,11 @@ To understand this kind of place, [Pub and city](ref:pub-and-city) provides the 
 Further reading: [Ye Olde Cheshire Cheese](ref:c-extra-1), [A Ginjinha](ref:c-extra-2), [À la Mort Subite](ref:c-extra-3).
 
 **Short definition:** A historic inn on Mermaid Street in Rye, East Sussex, with cellars dating from 1156 and a building rebuilt in 1420; it was linked to the Hawkhurst smuggling gang in the 18th century.
+
+## Related images
+
+![Hefeweizen and kristallweizen, two treatments within the same wheat-beer family](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+Image: Hefeweizen and kristallweizen, two treatments within the same wheat-beer family. Credit: Ich, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)). Related image for The Mermaid Inn.
+
+The pub sign reads "Rebuilt 1667", a date preserved on the current building.

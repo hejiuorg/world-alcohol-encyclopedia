@@ -86,6 +86,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；开放时间、票价、预约规则与展线会变化，以景区官方公告为准。
 verification_scope: source-verified
 ---
+
 # 洋河酒厂文化旅游区
 
 从宿迁市区往洋河镇走，路边的酒糟味会先于景区大门出现。这里不是一座“把酒厂封起来做博物馆”的园区，而是洋河酒厂仍在运转的生产基地：卡车、窖池、陶坛库、包装线与参观动线叠在一起。游客看到的是中国白酒工业化生产的一个超大规模样本，也是一段从 2006 年“工业旅游示范点”一路走到国家 4A 景区、国家工业遗产与全国重点文保的履历。
@@ -160,3 +161,9 @@ verification_scope: source-verified
 - 官方资讯列表：<https://ly.chinayanghe.com/CommunityArticle/Index/27>，用于核对 2026 年 7 月 7 日与 10 月 28 日的散客入园时间调整公告。
 - 洋河股份官网：<https://www.chinayanghe.com/>，用于交叉核对公司背景与产区信息。
 - 白酒工业旅游对照：[茅台酒厂](ref:maotai)、[五粮液酒文化博物馆](ref:wuliangye)、[古井酒文化博物馆](ref:gujing)、[汾酒博物馆](ref:fenjiu)、[泸州老窖窖池群](ref:luzhou)。
+
+## 相关图像
+
+![茅台酒厂（贵州茅台）相关实景照片](/media/photos/place-maotai-distillery-da9a56fc.jpg)
+
+图：茅台酒厂（贵州茅台）相关实景照片。图片：Jula2812，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Maotai_-_Kweichow_Moutai_Distillery_China,_Flasche_Etikett_Detail_(2).jpg)）。关联图像：洋河酒厂文化旅游区。

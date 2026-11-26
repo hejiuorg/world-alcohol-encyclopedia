@@ -90,6 +90,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。开放时间、票务与生产区开放范围会变化，以官方公告为准。
 verification_scope: source-verified
 ---
+
 # 古井酒文化博物馆
 
 古井酒文化博物馆在安徽省亳州市谯城区古井镇，古井酒厂对面。它由古井集团投资，1994 年建成，1996 年正式对外开放；2008 年，包含它在内的古井酒文化博览园获评国家 4A 级旅游景区。它不是一座独立的城市博物馆，而是“酒厂—古井—园区—展馆”连在一起的一处工业旅游目的地，理解这一点，参观顺序和预期都会不同。
@@ -182,3 +183,9 @@ verification_scope: source-verified
 补充阅读：[浓香型白酒](ref:c-extra-1)、[古井贡酒](ref:c-extra-2)、[五粮液酒文化博物馆](ref:c-extra-3)。
 
 相关条目：[安徽古井贡酒股份有限公司](ref:producer)、[亳州市](ref:bozhou)、[浓香型白酒](ref:c-extra-1)。
+
+## 相关图像
+
+![古井贡酒](/media/photos/brand-gujing-gongjiu-ef9d4a5d.jpg)
+
+图：古井贡酒。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Gujing_Gongjiu_at_a_supermarket_in_Beijing_(20241109164639).jpg)）。关联图像：古井酒文化博物馆。

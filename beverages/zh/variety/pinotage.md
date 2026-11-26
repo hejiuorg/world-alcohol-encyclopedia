@@ -71,6 +71,7 @@ rights:
   note: 第三方标准、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 皮诺塔吉
 
 皮诺塔吉（Pinotage）是南非独有的红葡萄品种，也是 20 世纪少数由人工杂交育成、并在国际上获得独立身份的红葡萄。它由黑皮诺与神索杂交而来，兼具前者的小果粒与香气潜力，以及后者的抗性与产量。酒色深、单宁结实，年轻时可以是鲜亮的桑葚与李子，经过橡木与瓶陈后又会出现咖啡、烟熏、皮革与泥土气息。皮诺塔吉的口碑起伏很大，理解它的关键不是记住“香蕉味”这类标签，而是看清克隆、树龄、采收与发酵温度如何共同决定风格(ref:wine)。
@@ -145,3 +146,9 @@ verification_scope: source-verified
 | 一句话定位 | 1925 年由南非斯泰伦博斯大学的 Perold 将黑皮诺与神索杂交而成；果色深、单宁结实，风格从鲜亮果味到咖啡、烟熏不等，是南非最具代表性的红葡萄品种，也是 20 世纪人工育种成功的少数红葡萄之一 |
 | 物种 | Vitis vinifera |
 | 代表产区 | 南非、斯沃特兰 |
+
+## 相关图像
+
+![斯沃特兰](/media/photos/region-swartland-72c3aa69.jpg)
+
+图：斯沃特兰。图片：Winfried Bruenken ( Amrum )，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Riebeek_Wes_PICT3382.JPG)）。关联图像：皮诺塔吉。

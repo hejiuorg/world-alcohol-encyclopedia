@@ -21,8 +21,8 @@ tags:
 translation_of: variety:rkatsiteli
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:242d28a55ad7e86132d4a2ea58a129ae4ffee18a0e15e874e6afef6ec5a1d6dc
-source_sha256: 242d28a55ad7e86132d4a2ea58a129ae4ffee18a0e15e874e6afef6ec5a1d6dc
+source_revision: sha256:efc2f3f4206d0325c300eb3fa2e2678afd87cbabb1cabf2ce32b9a31a25d86b5
+source_sha256: efc2f3f4206d0325c300eb3fa2e2678afd87cbabb1cabf2ce32b9a31a25d86b5
 related:
   - relation: about
     target_id: drink-style:white-wine
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Rkatsiteli
 
 One of Georgia’s oldest white grapes, high in acidity with green apple, white flowers and spice; it makes crisp dry whites and amber wines through qvevri skin contact, and is central to Georgia’s clay-vessel tradition.
@@ -150,3 +151,9 @@ Compare a dry Rkatsiteli and an amber qvevri version from the same vintage befor
 **In brief:** One of Georgia’s oldest white grapes, high in acidity with green apple, white flowers and spice; it makes crisp dry whites and amber wines through qvevri skin contact, and is central to Georgia’s clay-vessel tradition.
 
 Rkatsiteli is one of the oldest white grapes of Kakheti, Georgia, and remains the country's most planted variety. Classical Georgian winemaking ferments it in qvevri, large buried clay vessels, with skin contact that gives amber colour, tannin and dried-fruit complexity; modern producers also make crisp, unoaked white in the European style. The grape keeps high acidity in hot summers, which is why it can support long maceration without losing freshness. Its name appears on labels as Rkatsiteli or Rkatsiteli Mtsvane blends; Mtsvane is a separate variety often blended for aroma. Outside Georgia, it is planted in eastern Europe and the former Soviet republics, but the qvevri method remains the reference point for understanding the grape.
+
+## Related images
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for Rkatsiteli.

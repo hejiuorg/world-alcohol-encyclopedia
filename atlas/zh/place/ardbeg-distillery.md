@@ -106,6 +106,7 @@ verified_at: 2026-11-08
 founded_year: 1815
 verification_scope: source-verified
 ---
+
 # 阿贝蒸馏厂
 
 阿贝蒸馏厂（Ardbeg Distillery）在艾雷岛南岸，地址是 Port Ellen, Isle of Islay, Argyll, PA42 7EA。它不在波特埃伦镇中心，而是在镇外一条通向海岸的支路上；从主路拐进去，先看到的是低矮的厂房、仓库与访客中心，再往外就是海风与草地。阿贝以重泥煤、带海盐与烟熏感的单一麦芽威士忌闻名，但“最重泥煤”是品牌与酒评里的说法，不是一条可以量化到每一瓶的法规；参访时更值得关注的是它如何把麦芽、泥煤、蒸馏与陈年组合成稳定风格。
@@ -172,3 +173,9 @@ verification_scope: source-verified
 - [威士忌](ref:whisky)：从原料到陈年的基本知识。
 - [产地与工艺](ref:place-and-process)：理解风土、蒸馏与陈年。
 - [LVMH](ref:lvmh)：阿贝所属集团的公司背景。
+
+## 相关图像
+
+![威士忌](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+图：威士忌。图片：Guinnog，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)）。关联图像：阿贝蒸馏厂。

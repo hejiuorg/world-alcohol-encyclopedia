@@ -24,8 +24,8 @@ tags:
 translation_of: region:hebei
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4fc35a250a2b199ff19001b13a73069aa2d5fd7cf0704aedebfe7fbd01055240
-source_sha256: 4fc35a250a2b199ff19001b13a73069aa2d5fd7cf0704aedebfe7fbd01055240
+source_revision: sha256:2b9d970591d54a97e0ba25578afc18f93619c75cf78557ff403ec005053dadb4
+source_sha256: 2b9d970591d54a97e0ba25578afc18f93619c75cf78557ff403ec005053dadb4
 related:
   - relation: about
     target_id: region:china
@@ -192,4 +192,14 @@ Harvest runs in the Northern Hemisphere autumn, September to October, when estat
 
 - Related: [china](ref:china), [cabernet-sauvignon](ref:cabernet), [chardonnay](ref:chardonnay), [red-wine](ref:red), [white-wine](ref:white).
 
-**At a glance:** A wine region in northern China, with Huailai (Shacheng) and Changli as cores; a cool, dry climate with a wide diurnal range, known for Cabernet Sauvignon, Chardonnay and brands such as Great Wall, it is one of the earliest areas of China’s modern wine industry. 
+**At a glance:** A wine region in northern China, with Huailai (Shacheng) and Changli as cores; a cool, dry climate with a wide diurnal range, known for Cabernet Sauvignon, Chardonnay and brands such as Great Wall, it is one of the earliest areas of China’s modern wine industry.
+
+## Related images
+
+![Category image for China](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+Image: Category image for China. Credit: Gary Todd, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)). Related image for Hebei.
+
+![Thematic illustration for Red wine](/media/photos/theme-wine-spirits.jpg)
+
+Image: Thematic illustration for Red wine. Project-made bilingual editorial figure, not an on-site photograph. Related image for Hebei.

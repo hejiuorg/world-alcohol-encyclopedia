@@ -86,6 +86,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 意大利
 
 意大利是南欧重要的葡萄酒生产国，20 个大区几乎都产酒。它的特点不是单一风格，而是本土品种、地方传统与分级制度共同形成的多样性：北部有阿尔卑斯山脚下的起泡酒与内比奥罗，中部有托斯卡纳的桑娇维塞，南部与岛屿则多地中海气候下的红葡萄酒与甜酒。
@@ -167,3 +168,13 @@ verification_scope: source-verified
 - [桑娇维塞](ref:sangiovese)：托斯卡纳核心品种。
 - [西施佳雅](ref:sassicaia)：保格利产区的代表酒款。
 - [橡木桶陈年](ref:oak-ageing)：意大利红葡萄酒的桶陈传统。
+
+## 相关图像
+
+![金巴利](/media/photos/drink-italy-campari-3f79a94a.jpg)
+
+图：金巴利。图片：Kenneth C. Zirkel，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bottle_of_Campari_(United_States).jpg)）。关联图像：意大利。
+
+![开胃酒](/media/photos/drink-style-aperitif-7af7d066.jpg)
+
+图：开胃酒。图片：Wikimedia Commons contributor，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Aperitif_Campari_Soda.jpg)）。关联图像：意大利。

@@ -85,8 +85,8 @@ founded_year: 1905
 translation_of: place:cafe-a-brasileira
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:98171cf2419eb897c6edd8dea4d75af94ca2770e02065144c90c092eb8146372
-source_sha256: 98171cf2419eb897c6edd8dea4d75af94ca2770e02065144c90c092eb8146372
+source_revision: sha256:a0f929555a47621f743b49a5f2c62b3210e32ade59231b4418f2ca7bbbfb389b
+source_sha256: a0f929555a47621f743b49a5f2c62b3210e32ade59231b4418f2ca7bbbfb389b
 ---
 
 # A Brasileira
@@ -147,3 +147,9 @@ Two minutes north are Livraria Bertrand and the Carmo Convent; to the east are T
 - The nearby `place:a-ginjinha` is the standing-glass counterpart to A Brasileira’s seated coffee.
 - For a Central European café route, read `place:cafe-central`, `place:cafe-hawelka`, and `route:vienna-coffee-house-evening`.
 - Related entries: [A Ginjinha](ref:ginjinha), [Café Majestic](ref:majestic), [Café Central](ref:central), [Café Hawelka](ref:hawelka), [Café de la Paix](ref:paix)
+
+## Related images
+
+![The A Ginjinha storefront at Largo de São Domingos 8, with its red sign and standing bar](/media/photos/place-a-ginjinha-c9fe334e.jpg)
+
+Image: The A Ginjinha storefront at Largo de São Domingos 8, with its red sign and standing bar. Credit: Shadowgate, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ginjinha_store.jpg)). Related image for A Brasileira.

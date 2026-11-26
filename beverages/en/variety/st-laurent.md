@@ -22,8 +22,8 @@ tags:
 translation_of: variety:st-laurent
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c739676ad277aae5dbe7e81ad05df8da401201561404b14bdb01516c0c64e887
-source_sha256: c739676ad277aae5dbe7e81ad05df8da401201561404b14bdb01516c0c64e887
+source_revision: sha256:7b64602c091a13e0123ee36ae4fe3d2a16fd75832209d436eab91809a1699944
+source_sha256: 7b64602c091a13e0123ee36ae4fe3d2a16fd75832209d436eab91809a1699944
 related:
   - relation: about
     target_id: variety:pinot-noir
@@ -96,6 +96,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # St. Laurent
 
 St. Laurent (German Sankt Laurent, Czech Svatovavřinecké) is a dark-skinned red grape of Central Europe's cool climates, centered in Austria's Niederösterreich and Burgenland and in Czech Moravia. Aromatic and deep-coloured, it has bright acidity and medium-plus tannin: firm and tight when young, velvety with age, with black cherry, sour cherry, blackberry, plum, violet and spicy earth, often placed between Pinot Noir and Blaufränkisch in style (ref:pinot).
@@ -156,3 +157,9 @@ On the label, separate country and district, everyday wine from Reserve or singl
 Begin with where it is grown, move on to how it is labelled, and finish with whether the style is dry or sweet. That order keeps the reading of St. Laurent practical.
 
 Put [Pinot Noir](ref:pinot)'s variety character next to [Red wine](ref:red)'s regional performance; the difference marks the boundary.
+
+## Related images
+
+![Blaufränkisch: Ried Neuberg Blaufränkisch (Wikimedia Commons)](/media/photos/variety-blaufrankisch-8d884b99.jpg)
+
+Image: Blaufränkisch: Ried Neuberg Blaufränkisch (Wikimedia Commons). Credit: Geolina163, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ried_Neuberg_Blaufr%C3%A4nkisch.jpg)). Related image for St. Laurent.

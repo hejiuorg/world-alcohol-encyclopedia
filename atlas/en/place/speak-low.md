@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:speak-low
 source_lang: zh
-source_revision: sha256:a7d74774708f10c20473618d3bacbbe2d7aba43295329e9181c228b5b6038695
-source_sha256: a7d74774708f10c20473618d3bacbbe2d7aba43295329e9181c228b5b6038695
+source_revision: sha256:163234710307eaa52bf5203fa84b2def612f4dfa76688bc3c34516ce3bad9076
+source_sha256: 163234710307eaa52bf5203fa84b2def612f4dfa76688bc3c34516ce3bad9076
 translation_status: reviewed
 subtype: bar
 address: 579 Fuxing Middle Road, Huangpu District, Shanghai 200041
@@ -172,3 +172,9 @@ Weekend evening traffic on Fuxing Middle Road and Huaihai Middle Road is heavy, 
 - [American Bar at The Savoy](ref:american-bar-savoy): the classic London hotel bar, useful for comparing service traditions and menu structure.
 
 Further reading: [Old Fashioned](ref:c-extra-1), [Reading a city through its bars](ref:c-extra-2).
+
+## Related images
+
+![Related photograph of Old Fashioned](/media/photos/cocktail-old-fashioned-f1533cb4.jpg)
+
+Image: Related photograph of Old Fashioned. Credit: Capvideo, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Claris_Hotel,_Barcelona,_Smoky_Old-Fashioned_with_Popcorn.jpg)). Related image for Speak Low.

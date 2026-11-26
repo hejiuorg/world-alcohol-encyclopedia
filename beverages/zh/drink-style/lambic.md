@@ -80,6 +80,7 @@ rights:
   note: 第三方风格指南、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 兰比克
 
 兰比克（lambic，荷兰语 lambiek）是比利时布鲁塞尔周边帕约滕兰（Pajottenland）与森讷河谷（Senne/Zenne）一带的传统啤酒，依靠空气中的野生酵母与细菌进行自发发酵，而不是接种商业酵母。它酸、干、带野生菌气息，常以陈年兰比克与年轻兰比克混合装瓶，形成 gueuze；加入水果则成为 kriek、framboise 等版本。
@@ -157,3 +158,9 @@ gueuze 的调配是关键工艺：年轻兰比克提供可发酵糖，老年兰�
 **适用边界。** 对「兰比克」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
 
 **更新提示。** 「兰比克」最近核对于 2026-11-21；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
+
+## 相关图像
+
+![比利时类别配图](/media/photos/place-de-halve-maan-46bc86b4.jpg)
+
+图：比利时类别配图。图片：Falk2，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:J33_542_Walplein,_%C2%BBDe_halve_Maan%C2%AB.jpg)）。关联图像：兰比克。

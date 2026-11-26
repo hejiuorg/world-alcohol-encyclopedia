@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cafe-hawelka
 source_lang: zh
-source_revision: sha256:866e249278699ab2a858527dd1c2bbf600c426a83f6d08a71679d4f3cacdef01
-source_sha256: 866e249278699ab2a858527dd1c2bbf600c426a83f6d08a71679d4f3cacdef01
+source_revision: sha256:ac74ddfda42eee1e9f56023846ddd62b7305a7d34205b0a8f9c72c9be92dd080
+source_sha256: ac74ddfda42eee1e9f56023846ddd62b7305a7d34205b0a8f9c72c9be92dd080
 translation_status: reviewed
 subtype: bar
 address: Dorotheergasse 6, 1010 Wien, Austria
@@ -166,3 +166,9 @@ If a queue forms outside, do not block the Dorotheergasse pavement. The line is 
 - [Café Slavia](ref:slavia): the Prague café opposite the National Theatre, with a different literary and political tradition.
 - [Café de Flore](ref:cafe-de-flore): a Left Bank literary café, useful as a contrast with Vienna's family-run houses.
 - [Antico Caffè Greco](ref:greco): a closed Italian historic café, a reminder that "famous" and "still trading" are different things.
+
+## Related images
+
+![Café Central](/media/photos/place-cafe-central-2af7dbed.jpg)
+
+Image: Café Central. Credit: User:Florian Prischl, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Palais_Ferstel.jpg)). Related image for Café Hawelka.

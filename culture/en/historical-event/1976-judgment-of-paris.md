@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:1976-judgment-of-paris
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ff11b95963304134a3611eb5da127867f98b8ffc330502e673c83b2dc2e3e3d6
-source_sha256: ff11b95963304134a3611eb5da127867f98b8ffc330502e673c83b2dc2e3e3d6
+source_revision: sha256:e73ba75917bd59505cdbf8231eac3502231fd44af98579156cdf7962728d2d18
+source_sha256: e73ba75917bd59505cdbf8231eac3502231fd44af98579156cdf7962728d2d18
 date_text: 24 May 1976
 year_start: 1976
 year_end: 1976
@@ -84,6 +84,12 @@ sources:
     title: Jancis Robinson and Julia Harding, eds., The Oxford Companion to Wine, Oxford University Press
     publisher: Unattributed
     note: Migrated from the former reference list at the end of the article; access date not re-verified.
+  - key: adv-smithsonian
+    title: Smithsonian National Museum of American History — Food and wine collections
+    url: https://americanhistory.si.edu/
+    publisher: Smithsonian Institution
+    note: Used to check collection and exhibition information related to the 1976 tasting; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -130,6 +136,28 @@ First, sample and representativeness. Twenty wines, particular vintages and part
 ## Common misreadings
 
 One: "California wine defeated French wine across the board." What happened was a ranking of 20 wines in two groups; California won both groups, but there was no region-level verdict. Two: "The French wines were chosen at random." The four Bordeaux and four Burgundies were representative estates of the time, even if vintage and condition were not always ideal. Three: "The judges were bribed or cheated." No evidence supports this; the dispute concerns method and representativeness. Four: "The tasting caused the decline of French wine." French prices and exports kept growing in the late 1970s; the tasting changed the boundary of perception, not the foundation of French wine. Five: "California wine was only recognised after 1976." It already had a domestic market; the tasting accelerated international recognition.
+
+
+## Advanced judgment
+
+![Winning bottles from the 1976 Judgment of Paris](/media/photos/historical-event-1976-judgment-of-paris-3833ecec.jpg)
+
+Figure: Winning bottles from the 1976 Judgment of Paris, a watershed in how California and French wines were evaluated. Image: Unknown author Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Judgment_of_Paris_1976_Winners_NMAH-2006-7043.jpg)).
+
+| Dimension | What happened in 1976 | Later effect |
+| --- | --- | --- |
+| Judging | Blind tasting in Paris with French judges | California entered the comparison |
+| Result | California won red and white | Rematches and dispute continued |
+| Industry | California's reputation rose | New World narratives changed |
+| Evidence | Winning bottles survived | They became museum objects |
+
+**Did California win every category?** No. The 1976 tasting is often summarised as a California victory, but the red and white flights had their own rankings; it was not every French estate losing to every California wine.
+
+**Has the tasting been repeated?** There have been rematches and anniversary events, with different results. One blind tasting is an event, not a permanent quality verdict; vintage, storage and judges all change the outcome.
+
+**Are the winning bottles authentic?** Museum bottles have provenance and authentication records, but the market also contains fakes and story-driven bottles. Buy historic wine on provenance, auction records and expert authentication.
+
+Further reading: [Lafite](ref:lafite) and [wine](ref:wine).
 
 ## See also
 

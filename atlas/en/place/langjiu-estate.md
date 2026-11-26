@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:langjiu-estate
 source_lang: zh
-source_revision: sha256:2198a60f7b06d195c27afa9cb3415a0da2fadce18c0a3079085b8e09c95955f9
-source_sha256: 2198a60f7b06d195c27afa9cb3415a0da2fadce18c0a3079085b8e09c95955f9
+source_revision: sha256:f4982e52cab4a8f503d82ef6f3228a2d3e3f0358ab80b71d2f754a2d607b4a12
+source_sha256: f4982e52cab4a8f503d82ef6f3228a2d3e3f0358ab80b71d2f754a2d607b4a12
 translation_status: reviewed
 subtype: distillery-visitor
 address: Langjiu Estate, Erlang Town, Gulin County, Luzhou, Sichuan, China
@@ -69,24 +69,24 @@ sources:
     title: 古蔺县人民政府 — 行政区划与人口
     url: https://www.gulin.gov.cn/mlgl/zjgl/hzqhyrk
     publisher: 古蔺县人民政府
-    note: 用于核对古蔺县的行政区划、地理位置与人口信息；未复制原文。
+    note: 用于核对古蔺县的行政区划、地理位置与人口信息；未复制原文.
     accessed: 2026-11-25
   - key: luzhou-gov-gulin
     title: 泸州市人民政府
     url: https://www.luzhou.gov.cn/
     publisher: 泸州市人民政府
-    note: 用于核对古蔺县属泸州市管辖的行政区划与公开城市信息；未复制原文。
+    note: 用于核对古蔺县属泸州市管辖的行政区划与公开城市信息；未复制原文.
     accessed: 2026-11-25
   - key: langjiu-about
     title: 郎酒 — 郎酒集团
     url: https://www.langjiu.cn/
     publisher: 四川郎酒集团有限责任公司
-    note: 用于核对郎酒产地、二郎镇与酱香型白酒的公开介绍；未复制原文。
+    note: 用于核对郎酒产地、二郎镇与酱香型白酒的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: gb2260
     title: GB/T 2260-2007 中华人民共和国行政区划代码
     publisher: 国家标准化管理委员会
-    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文。
+    note: 用于核对绵竹市、古蔺县、习水县的行政区划代码与层级；未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -102,7 +102,7 @@ Langjiu Estate is not a “liquor-themed hotel” but a composite valley space o
 
 ![Langjiu Estate (Erlang Town) bilingual editorial visual card](/media/figures/specific/place-langjiu-estate.svg)
 
-图：Langjiu Estate (Erlang Town) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Langjiu Estate (Erlang Town) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers who want sauce-aroma brewing, cave storage and tasting in one valley; approach from Luzhou or Xishui.
@@ -154,9 +154,17 @@ This page does not rate the wines or promise a particular cave. Production and h
 
 ## References
 
-- 古蔺县人民政府 — 行政区划与人口 — https://www.gulin.gov.cn/mlgl/zjgl/hzqhyrk (古蔺县人民政府, checked 2026-11-25)
-- 泸州市人民政府 — https://www.luzhou.gov.cn/ (泸州市人民政府, checked 2026-11-25)
-- 郎酒 — 郎酒集团 — https://www.langjiu.cn/ (四川郎酒集团有限责任公司, checked 2026-11-25)
-- GB/T 2260-2007 中华人民共和国行政区划代码 (国家标准化管理委员会, checked 2026-11-25)
+- gulin.gov.cn — official source — https://www.gulin.gov.cn/mlgl/zjgl/hzqhyrk (checked 2026-11-25)
+- luzhou.gov.cn — official source — https://www.luzhou.gov.cn/ (checked 2026-11-25)
+- langjiu.cn — official source — https://www.langjiu.cn/ (checked 2026-11-25)
+- Official source — official source —  (checked 2026-11-25)
 
 Related entries: [Erlang Town](ref:town), [Gulin Langjiu route](ref:route), [Langjiu](ref:brand), [Langjiu Group](ref:producer), [sauce-aroma baijiu](ref:style), [Guizhou](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![Sauce-aroma baijiu](/media/photos/drink-style-sauce-aroma-baijiu-1c3af236.jpg)
+
+Image: Sauce-aroma baijiu. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for Langjiu Estate (Erlang Town).
+
+The administrative division reference is the 2007 edition of GB/T 2260.

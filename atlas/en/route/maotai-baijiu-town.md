@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:maotai-baijiu-town
 source_lang: zh
-source_revision: sha256:134c8f4dcce6d032adeb4fd91dd8a745e5d970228bb58967368b799c2271a7fc
-source_sha256: 134c8f4dcce6d032adeb4fd91dd8a745e5d970228bb58967368b799c2271a7fc
+source_revision: sha256:a7d184244e4b95663f61d3bd6a096a0a1d9ac7f3701b59c4b1e43208b2a7da3c
+source_sha256: a7d184244e4b95663f61d3bd6a096a0a1d9ac7f3701b59c4b1e43208b2a7da3c
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -181,3 +181,13 @@ Spring and autumn are the most comfortable seasons. Summer in the valley is hot 
 This route was verified on 2026-11-08; opening hours, tickets, tastings, sales channels, transport schedules and prices are subject to official channels, and no map is provided here. Placed in the context of the [China Liquor Culture City](ref:culture-city) and the [Maotai distillery](ref:maotai), the route shows how the Chishui valley binds climate, raw materials, craft and time: understand the process chain in the museum first, then read the production area and its boundaries in the valley.
 
 Further reading: [Guizhou](ref:c-extra-1).
+
+## Related images
+
+![A street view of Maotai town in Renhuai, Guizhou, where valley terrain and climate are tightly bound to sauce-aroma production](/media/photos/place-maotai-distillery-bf022cc0.jpg)
+
+Image: A street view of Maotai town in Renhuai, Guizhou, where valley terrain and climate are tightly bound to sauce-aroma production. Credit: Wahsaw, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Streetview_of_Maotai(Moutai)_Town,_Renhuai_City,_Zunyi,_Guizhou.jpg)). Related image for Maotai Town baijiu route: from the Culture City to the distillery.
+
+![Category image for China](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+Image: Category image for China. Credit: Gary Todd, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)). Related image for Maotai Town baijiu route: from the Culture City to the distillery.

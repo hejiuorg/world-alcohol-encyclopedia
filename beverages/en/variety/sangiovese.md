@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: variety:sangiovese
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c7fcfded242c11afe283ea7f21ba979356a44d146104c41e383afd6e00f9a7df
-source_sha256: c7fcfded242c11afe283ea7f21ba979356a44d146104c41e383afd6e00f9a7df
+source_revision: sha256:0e410b62a58f38b1e45cce409562c346b1b016f3bca0d22a7d329e95c2d73003
+source_sha256: 0e410b62a58f38b1e45cce409562c346b1b016f3bca0d22a7d329e95c2d73003
 species: Vitis vinifera
 aliases:
   - Sangiovese Grosso
@@ -70,6 +70,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Sangiovese
 
 Sangiovese is Tuscany's most representative red grape, with high acidity, medium tannin and notes of sour cherry, tomato leaf, leather and earth. It is the core variety of Chianti and Brunello di Montalcino and is also used for rosé. Its clones vary widely, so the same variety can show different styles in different regions.![Sangiovese image](/media/photos/variety-sangiovese-e1a9eb1d.jpg)
@@ -153,3 +154,9 @@ For Sangiovese, this variety was last checked in 2026; prices, batches and avail
 - [Red wine](ref:red-wine): the basics of tannin, acidity and ageing.
 - [Rosé wine](ref:rose): the use of Sangiovese in rosé.
 - [Oak ageing](ref:oak-ageing): the barrel-ageing tradition of Brunello.
+
+## Related images
+
+![Rosé Wine](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+Image: Rosé Wine. Credit: THOR, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)). Related image for Sangiovese.

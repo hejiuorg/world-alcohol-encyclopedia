@@ -162,3 +162,9 @@ verification_scope: source-verified
 - 汾酒集团发展史 — 杏花村遗址与酒博物馆 — https://www.fenjiu.com.cn/developmentHistory/index.html（山西杏花村汾酒集团，核对 2026-11-25）
 
 相关条目：[汾酒博物馆](ref:museum)、[汾阳杏花村路线](ref:route)、[汾酒](ref:brand)、[汾酒集团](ref:producer)、[清香型白酒](ref:style)、[山西省](ref:region)、[第一次喝白酒怎么选](ref:guide)、[中国酒史纲](ref:history)。
+
+## 相关图像
+
+![汾酒](/media/photos/brand-fenjiu-3fd2e1c8.jpg)
+
+图：汾酒。图片：N509FZ，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_(20241109164541).jpg)）。关联图像：杏花村镇（汾阳）。

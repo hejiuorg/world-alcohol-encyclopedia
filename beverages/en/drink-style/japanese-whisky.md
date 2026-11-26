@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:japanese-whisky
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:92ecb62e872f32cdbd1dfcd185eeddf19c9d2b6ec110439b5de756fa2bbaab63
-source_sha256: 92ecb62e872f32cdbd1dfcd185eeddf19c9d2b6ec110439b5de756fa2bbaab63
+source_revision: sha256:2a909d06e38aadb8a63ec8b4e73afa997d615eaff4ac9c2e91640324a87384b0
+source_sha256: 2a909d06e38aadb8a63ec8b4e73afa997d615eaff4ac9c2e91640324a87384b0
 legacy_refs: []
 parent_style_id: drink-style:whisky
 aroma_family: grain/fruit/smoke
@@ -78,6 +78,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Japanese whisky
 
 Japanese whisky has a history of less than a century, yet it has acquired a clear international identity. It began by copying Scotland, then developed its own mix of stills, yeast management and mizunara oak. More recently, an industry labelling standard that took effect in 2021 turned "Japanese whisky" from an easily abused origin impression into a set of conditions that can be checked line by line.
@@ -158,3 +159,9 @@ Japanese whisky is not a single style: malt and grain whiskies from different di
 - [Oak ageing](ref:oak-ageing): the differences between bourbon, sherry and mizunara casks.
 - [Barley](ref:barley): the main cereal behind Japanese whisky.
 - [Japan](ref:japan): the geographical and industrial setting.
+
+## Related images
+
+![Scotch whisky](/media/photos/drink-style-scotch-whisky-9e96a856.jpg)
+
+Image: Scotch whisky. Credit: Sansvase, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)). Related image for Japanese whisky.

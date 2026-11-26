@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink-style:whisky
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6008f4ea0161aeb2d579c43d60f55f46a605f416111ba7ee39ce57e79f6f93be
-source_sha256: 6008f4ea0161aeb2d579c43d60f55f46a605f416111ba7ee39ce57e79f6f93be
+source_revision: sha256:7e2b25ab5eba37bb197b753d124592bcc664663cdbac729e306b805c9134f6bd
+source_sha256: 7e2b25ab5eba37bb197b753d124592bcc664663cdbac729e306b805c9134f6bd
 legacy_refs: []
 aliases:
   - Whisky
@@ -66,6 +66,12 @@ sources:
     title: The Oxford Companion to Spirits and Cocktails — whisky entries
     publisher: Oxford University Press
     note: Migrated from the former reference list at the end of the article; access date not re-verified.
+  - key: adv-swa
+    title: Scotch Whisky Association — Production and labelling
+    url: https://www.scotch-whisky.org.uk/
+    publisher: Scotch Whisky Association
+    note: Used to check Scotch whisky raw materials, distillation, ageing and labelling rules; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -137,6 +143,28 @@ The comparison with [Oak ageing](ref:oak-ageing) and [Beer](ref:beer) runs throu
 **At a glance:** A grain spirit distilled, then aged in oak, with Scottish, Irish, American and Japanese traditions and strict labelling rules.
 
 **Sources and limits.** The key claims about Whisky are checked against the following sources: Scotch Whisky Association (Scotch whisky's legal area, ingredients, distillation and minimum ageing requirements), Irish Whiskey Association (the Irish geographical indication and basic process boundaries), U.S. Alcohol and Tobacco Tax and Trade Bureau (the labelling and legal categories of American whiskey, including bourbon and rye) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+
+## Advanced judgment
+
+![Whisky barrels at Balgray Bond, Ayrshire](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+Figure: A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables. Image: Rosser1954 Roger Griffith, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)).
+
+| Variable | Effect on flavour | Label clue |
+| --- | --- | --- |
+| Cask type | Vanilla, spice, dried fruit | Bourbon cask / sherry cask |
+| Peat | Smoke and phenols | ppm, region |
+| Strength | Intensity and aroma release | Cask strength / diluted |
+| Age | Time in cask | Age is not the only signal |
+
+**Is single malt always better than blended whisky?** No. Single malt shows one distillery's character; blending aims at consistency and combination. Quality depends on the specific bottle, cask and method, not the category alone.
+
+**Is older whisky always better?** No. Age softens and complicates a whisky, but can also make oak dominant or fruit fade. The peak depends on spirit, cask and storage, not the number alone.
+
+**Should whisky always be diluted with water?** No. Cask-strength whisky often benefits from a few drops; a lower-strength whisky can become thin. Taste neat first, then add a little water and compare aroma and texture.
+
+Further reading: [distillation](ref:distillation) and [oak ageing](ref:oak-ageing).
 
 ## Further reading
 

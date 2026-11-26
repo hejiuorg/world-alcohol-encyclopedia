@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: variety:mourvedre
 source_lang: zh
-source_revision: sha256:aa0c5c66b3d6934fd0c4919c0fe32e02e17e68a49e62b179d548f071a506c9ae
-source_sha256: aa0c5c66b3d6934fd0c4919c0fe32e02e17e68a49e62b179d548f071a506c9ae
+source_revision: sha256:4a170df230a7ce2e439adb39915164c67f6785736961dd74d419d6b2d2a784ba
+source_sha256: 4a170df230a7ce2e439adb39915164c67f6785736961dd74d419d6b2d2a784ba
 translation_status: reviewed
 legacy_refs: []
 species: Vitis vinifera
@@ -79,6 +79,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Mourvèdre
 
 Mourvèdre is a red grape of the Mediterranean coast, known as Monastrell in Spain and Mataro in Australia. It has thick skins, ripens late and tolerates heat and drought, and is often used as a source of structure and colour in blends. In Bandol in Provence and in the southern Rhône it usually appears alongside Grenache and Syrah.![Mourvèdre image](/media/photos/variety-mourvedre-f491b97a.jpg)
@@ -166,3 +167,9 @@ For Mourvèdre, this variety was last checked in 2026; prices, batches and avail
 - [Provence](ref:provence): the regional background for Bandol.
 - [Grenache](ref:grenache): a common blending partner.
 - [Syrah](ref:syrah): a common blending partner.
+
+## Related images
+
+![Rhône Valley](/media/photos/region-rhone-df823b9c.jpg)
+
+Image: Rhône Valley. Credit: Béa at French Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Thain1.jpg)). Related image for Mourvèdre.

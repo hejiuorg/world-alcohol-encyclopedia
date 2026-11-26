@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:loire
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:cc8f67f1f7c623d968c2de636612c7a354101c5c0892b4a35d6bc81b0f8b1370
-source_sha256: cc8f67f1f7c623d968c2de636612c7a354101c5c0892b4a35d6bc81b0f8b1370
+source_revision: sha256:2649d06f5a3c3d4035bff510faff589dcc2a2ad73cf12eb22e27d3f6670921b5
+source_sha256: 2649d06f5a3c3d4035bff510faff589dcc2a2ad73cf12eb22e27d3f6670921b5
 legacy_refs: []
 level: other
 parent_id: region:france
@@ -92,6 +92,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Loire Valley
 
 The Loire Valley is a band of wine regions along the Loire river in western France, running from Nantes on the Atlantic coast to the Centre-Loire inland. It is not a single region but a group of appellations with different climates, soils and varieties, covering dry whites, sweet wines, reds and sparkling wines.![Loire Valley image](/media/photos/region-loire-d93c2c1f.jpg)
@@ -174,3 +175,13 @@ The region's sparkling wines are made mainly from Chenin Blanc and Cabernet Fran
 **Sources and limits.** The key claims about Loire Valley are checked against the following sources: INAO (Used to check the French appellation system and its administering body), European Union (Used to check EU wine categories, geographical indications and labelling rules), Oxford University Press (Consulted for entries on the Loire sub-regions and varieties) and 6 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
 
 For Loire Valley, this region was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![Cabernet Franc](/media/photos/variety-cabernet-franc-2d40c732.jpg)
+
+Image: Cabernet Franc. Credit: Viala et Vermorel, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Cabernet-franc.jpg)). Related image for Loire Valley.
+
+![Vouvray](/media/photos/drink-france-vouvray-6ecace6d.jpg)
+
+Image: Vouvray. Credit: Croquant, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vouvray_%C3%A9glise.jpg)). Related image for Loire Valley.

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:south-africa
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7f88a7cb3d967e6a87ba05e4366420abe9d0727abe23439fb185cb41dd729458
-source_sha256: 7f88a7cb3d967e6a87ba05e4366420abe9d0727abe23439fb185cb41dd729458
+source_revision: sha256:aebe9a1effd1075f51b186e60d6b8d2825dc3c2ac64596717f7e9401c93073ad
+source_sha256: aebe9a1effd1075f51b186e60d6b8d2825dc3c2ac64596717f7e9401c93073ad
 level: country
 country_code: ZA
 legacy_refs: []
@@ -93,6 +93,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # South Africa
 
 South Africa is the largest wine producer in Africa, with vineyards concentrated in the coastal and mountain valleys of the Western Cape, best known for Stellenbosch, Chenin Blanc and Pinotage.
@@ -180,3 +181,13 @@ Start with [Wine](ref:wine) for geographic boundary, then read [Red wine](ref:re
 - [Vintage](ref:vintage): vintage variation and drought in South Africa.
 - [Single varietal](ref:single-varietal): the concept behind variety labelling.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Wine](/media/photos/drink-style-wine-bbcaddfe.jpg)
+
+Image: Wine. Credit: André Karwath, CC BY-SA 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Red_and_white_wine_in_glass.jpg)). Related image for South Africa.
+
+![Fermentation](/media/photos/process-fermentation-f5958dba.webp)
+
+Image: Fermentation. Credit: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)). Related image for South Africa.

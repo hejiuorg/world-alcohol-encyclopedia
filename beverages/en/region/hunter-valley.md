@@ -24,8 +24,8 @@ tags:
 translation_of: region:hunter-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fb44f946fc7bc60eb664789f9670d10aa1d5b3b20c0bdb9062c93ecd0158d229
-source_sha256: fb44f946fc7bc60eb664789f9670d10aa1d5b3b20c0bdb9062c93ecd0158d229
+source_revision: sha256:ae17887c4d54815768720e11f8afee15a3b1ab1d2df88a69973aecae729d5193
+source_sha256: ae17887c4d54815768720e11f8afee15a3b1ab1d2df88a69973aecae729d5193
 related:
   - relation: about
     target_id: region:australia
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Hunter Valley
 
 A historic wine region in New South Wales, Australia, about two hours north of Sydney; warm and humid, known for young Semillon and Hunter Shiraz, with GI status in the 1990s and one of Australia’s oldest commercial wine districts.![Hunter Valley](/media/photos/region-hunter-valley-44eec2b6.jpg)
@@ -168,3 +169,13 @@ Hunter Valley is one of Australia's oldest wine regions, known for Semillon pick
 | Level | province or region |
 | Parent | Australia |
 | Country code | AU |
+
+## Related images
+
+![Photograph for Sémillon: Sémillon - Joseph Daurel. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons.](/media/photos/q2-variety-semillon-f7547db4.jpg)
+
+Image: Sémillon - Joseph Daurel. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons.. Credit: Imprimerie A. Bellier & Cie - Bordeaux, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=94839238)). Related image for Hunter Valley.
+
+![Photograph for Australia: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-australia-968b262e.jpg)
+
+Image: Renmark South Australia Vineyard. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons.. Credit: Feral Arts, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=9069567)). Related image for Hunter Valley.

@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 神索
 
 神索（Cinsault，法国官方拼法 Cinsaut）是法国南部地中海气候孕育的红葡萄，耐热耐旱、长势旺、产量高，果皮薄、酒色浅、单宁柔和，酸度中高，以红樱桃、草莓、白桃与花香见长。它长期作为混酿与桃红品种存在，为歌海娜、西拉、慕合怀特等补充果香、花香与酸度；近年老藤单一品种酒在法国南部、南非与黎巴嫩重新受到重视（ref:grenache）。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 
 - 相关条目：[provence](ref:provence)、[grenache](ref:grenache)、[rose-wine](ref:rose)、[red-wine](ref:red)、[terroir](ref:terroir)。
 - 想比较混酿与单一品种的差别，可选一款普罗旺斯桃红与一款南非老藤神索干红，对比果香浓度、单宁粗细与花香表现。
+
+## 相关图像
+
+![普罗旺斯](/media/photos/region-provence-bc066643.jpg)
+
+图：普罗旺斯。图片：Robert Brink，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Lavender_field_and_Mont_Ventoux.jpg)）。关联图像：神索。

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: route:jerez-sherry-route
 source_lang: zh
-source_revision: sha256:8be677b81db9be546c80fd0e17b4945707ad4b797ea4cbb06aca3f6fdbf83a5c
-source_sha256: 8be677b81db9be546c80fd0e17b4945707ad4b797ea4cbb06aca3f6fdbf83a5c
+source_revision: sha256:d88cff20051338163db72de33e46f9232c64eef15f1139db1d9898c88fcd9aff
+source_sha256: d88cff20051338163db72de33e46f9232c64eef15f1139db1d9898c88fcd9aff
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -177,3 +177,13 @@ Walking between the two stops sounds like a cure, but alcohol does not disappear
 The [Jerez](ref:jerez) region page covers albariza chalk, the Jerez and Manzanilla denominations and humidity-driven flor; the [Sherry](ref:sherry) style page runs from Fino to Pedro Ximénez; the [fortified-wine](ref:fortification) page explains fortification; the [solera](ref:solera) entry explains the stack and refreshment; the [flor](ref:flor) entry explains the veil; the [oxidation](ref:oxidation) entry explains how oxygen changes colour and aroma. Read those pages first and the rows of casks stop being "many barrels" and become a system you can read.
 
 The route's job is to put those abstract terms into one city: one stop shows a stock-holder's single solera, the other a branded, stable style; one stresses differences between three cities, the other turns the urban bodega into a model. After both, Sherry is no longer simply a sweet or aperitif wine but an ageing regime decided by flor, alcohol and refreshment.
+
+## Related images
+
+![Sherry casks under the arcades of the Lustau bodega in Jerez.](/media/photos/drink-style-sherry-876c72cd.jpg)
+
+Image: Sherry casks under the arcades of the Lustau bodega in Jerez.. Credit: Anual, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Lustau_003An2019.jpg)). Related image for Jerez sherry route: one city, two houses, three paths of ageing.
+
+![Flor](/media/photos/term-flor-f79b3e31.jpg)
+
+Image: Flor. Credit: El Pantera, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:FLOR-ValdiviaJerez59.jpg)). Related image for Jerez sherry route: one city, two houses, three paths of ageing.

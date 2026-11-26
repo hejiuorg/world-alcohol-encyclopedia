@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:creme-de-cassis
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:036ded76acb42682991ba2a9f18cb16bd53dcbf90d4842d1ae3bfa3285f3c628
-source_sha256: 036ded76acb42682991ba2a9f18cb16bd53dcbf90d4842d1ae3bfa3285f3c628
+source_revision: sha256:ad3203d2be4944874f35c4f639198a88808d71eb3bad32bb341620269d951859
+source_sha256: ad3203d2be4944874f35c4f639198a88808d71eb3bad32bb341620269d951859
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: black fruit and violet
@@ -139,3 +139,9 @@ It is not blackcurrant juice or syrup either. Juice spoils after opening, wherea
 First check the category word: "crème de cassis" carries the higher sugar level, while "liqueur de cassis" is usually lighter. Then look at strength and origin; 15% to 20% is the common range, and Dijon or Burgundy origins often indicate a clearer source of fruit. Once opened, keep the bottle cool and out of direct light. High sugar and alcohol make it more robust than most fruit liqueurs, but a brown colour or a flat, oxidised smell means it is no longer at its best.
 
 Further reading: [Abbey beer](ref:c-extra-1).
+
+## Related images
+
+![Grape](/media/photos/ingredient-grape-2d929148.jpg)
+
+Image: Grape. Credit: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg)). Related image for Crème de Cassis.

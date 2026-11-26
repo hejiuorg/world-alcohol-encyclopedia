@@ -83,6 +83,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1915
 ---
+
 # 坎帕里诺长廊酒吧
 
 米兰大教堂广场旁，Galleria Vittorio Emanuele II 的北拱廊下，有一间总是站着人的酒吧：大理石吧台、黄铜扶手、红白相间的 Campari 标志，吧台后面的马赛克在灯光下泛着光。这里是 Camparino in Galleria。它不像传统咖啡馆那样让你坐下慢慢喝，而是把“站着喝一杯 Campari Seltz、吃两口小食、再继续走”的米兰习惯保留下来。对很多米兰人来说，Camparino 不是旅游景点，而是下班后、看歌剧前、购物途中顺路停一下的地方。
@@ -154,3 +155,9 @@ Camparino 的站立式 Bar di Passo 与堂食区价格、服务不同；把这�
 最后核对：Piazza Duomo 21 的埃马努埃莱二世长廊入口、站立区与座位区规则按官网查于 2026-11-21；“第一”与“地标”只作历史叙述，不作无争议排名。本页是“喝酒去”的米兰长廊酒吧条目，中文与英文版同步；文字许可见上方 rights 字段，图片署名与许可见各图注。
 
 对照阅读：[金巴利](ref:campari)、[美国佬](ref:americano)。
+
+## 相关图像
+
+![一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。](/media/photos/cocktail-negroni-52212d3c.jpg)
+
+图：一杯内格罗尼，红色酒液盛于古典杯，杯中有冰块、橙片与一根黑色吸管。。图片：Sudhertzen，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Negroni_(cocktail).jpg)）。关联图像：坎帕里诺长廊酒吧。

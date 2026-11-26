@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:tuscany-chianti-classico
 source_lang: zh
-source_revision: sha256:c9e0c86330259da5d82379b72e98d6b5325ef1b2fcc55efd24ca3abf6dae3b22
-source_sha256: c9e0c86330259da5d82379b72e98d6b5325ef1b2fcc55efd24ca3abf6dae3b22
+source_revision: sha256:97cf59a199830bb333f02bd78333a0c9eb73c10e1230c136620f001357c07a71
+source_sha256: 97cf59a199830bb333f02bd78333a0c9eb73c10e1230c136620f001357c07a71
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -177,3 +177,13 @@ The best windows are April–June and September–October: long days and moderat
 There is one safety rule: do not drink and drive. All three stops offer tastings and spittoons. Chianti roads are narrow, winding and steep, with poor lighting at night. A designated driver, a hired car or a transport-inclusive tour makes this route work. Smell before tasting, sip slowly and avoid strong perfume.
 
 To go deeper, continue with the venue pages for [Antinori](ref:antinori), [Brolio](ref:brolio) and [Fèlsina](ref:felsina). Opening hours, bookings and transport are subject to official channels; this route was verified on 2026-11-08.
+
+## Related images
+
+![Castello di Brolio](/media/photos/place-castello-di-brolio-f7e13c0b.jpg)
+
+Image: Castello di Brolio. Credit: Sailko, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Castello_di_brolio,_edificio_padronale_11.JPG)). Related image for Chianti Classico: from Florence to three estates.
+
+![Photograph for Tuscany: Tuscany vineyard. Credit: cova69, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-tuscany-3d59e5d9.jpg)
+
+Image: Tuscany vineyard. Credit: cova69, CC BY 2.0, via Wikimedia Commons.. Credit: cova69, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=1393578)). Related image for Chianti Classico: from Florence to three estates.

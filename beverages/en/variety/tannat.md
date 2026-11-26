@@ -21,8 +21,8 @@ tags:
 translation_of: variety:tannat
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9e7d34299f1b2807fa3868320806c967dddc6ad159905d9a70a578661e19ac2f
-source_sha256: 9e7d34299f1b2807fa3868320806c967dddc6ad159905d9a70a578661e19ac2f
+source_revision: sha256:ee63521a86eaba9dea8e2d92dccbe8c048e48deb8b254cd60a89a6e9e22d90f0
+source_sha256: ee63521a86eaba9dea8e2d92dccbe8c048e48deb8b254cd60a89a6e9e22d90f0
 related:
   - relation: about
     target_id: variety:merlot
@@ -77,6 +77,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; synonyms, clones and classification can change, so check VIVC and official registers.
 verification_scope: source-verified
 ---
+
 # Tannat
 
 A red variety from Madiran in southwest France, known for high tannin, deep colour and long ageing; in Uruguay it became a national signature, often blended with Merlot or Cabernet Franc to soften structure.
@@ -149,3 +150,9 @@ Compare a Madiran Tannat with a Uruguayan Tannat at similar alcohol and vintage,
 Tannat's high tannin and acidity once made Madiran wines famously tough; modern winemaking softens it with oak and blending, while Uruguay built a national style around the variety and often blends it with Merlot or Cabernet Franc.
 
 Tannat's name comes from the French for tannin, and Madiran's traditional long maceration is the reference for its firm structure.
+
+## Related images
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Tannat.

@@ -77,6 +77,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1822
 ---
+
 # 圣卡洛咖啡馆
 
 都灵市中心 Piazza San Carlo 的拱廊下，一排石柱把街道与广场隔开，Caffè San Carlo 的木门与金色招牌就嵌在柱廊里。它不像街角咖啡馆那样随意，也不像博物馆餐厅那样疏离：门口是广场的喷泉与雕像，里面是镜面、灰泥、红色天鹅绒座椅与大理石小桌。对都灵人来说，这里是“历史咖啡馆”；对游客来说，它更像一扇进入十九世纪都灵上流社会的门。
@@ -138,3 +139,9 @@ founded_year: 1822
 - [Café Central](ref:central)
 
 本页于 2026-11-21 核对 Costardi Bros 与 Gallerie d’Italia 的公开页面。咖啡馆通常每日 08:30–20:30，博物馆展览与私人活动会调整；午晚餐与团体建议订位，座位费与小费规则以账单为准。1822 年是开业年，建筑与装饰在 1830–1850 年代形成、1942 年轰炸后重建；圣卡洛不是复兴运动博物馆，卡布奇诺的饮用习惯也已在正文限定。本页图片是都灵圣卡洛广场上的咖啡馆外观，不是店内实拍；图注已标摄影者与许可，文字许可见文末 rights 字段。
+
+## 相关图像
+
+![都灵 Piazza della Consolata 的 Al Bicerin 店面；咖啡馆 1763 年由 Giuseppe Dentis 开办，1856 年迁入建筑师 Carlo Promis 设计的新楼，照片为现址外观](/media/photos/place-al-bicerin-torino-2408309e.jpg)
+
+图：都灵 Piazza della Consolata 的 Al Bicerin 店面；咖啡馆 1763 年由 Giuseppe Dentis 开办，1856 年迁入建筑师 Carlo Promis 设计的新楼，照片为现址外观。图片：Jorge Franganillo，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Torino_Caff%C3%A8_Al_Bicerin_(52738271224).jpg)）。关联图像：圣卡洛咖啡馆。

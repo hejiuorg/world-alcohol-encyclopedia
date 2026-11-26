@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: pairing:japanese-sake
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f74d5851e4948970babce254354d6641654ae2693ddc0473deaa6f00249fde67
-source_sha256: f74d5851e4948970babce254354d6641654ae2693ddc0473deaa6f00249fde67
+source_revision: sha256:13567c34528bf74ff16389047a2fe74bee932ed55610f6b981b1bb2a7a751aeb
+source_sha256: 13567c34528bf74ff16389047a2fe74bee932ed55610f6b981b1bb2a7a751aeb
 aliases:
   - Japanese cuisine and sake
 tags:
@@ -116,6 +116,10 @@ verification_scope: source-verified
 ### Classification: polishing ratio and added alcohol
 
 The legal categories of sake are decided by two variables: the polishing ratio, meaning the proportion of the rice grain left after milling, and whether brewers' alcohol is added. Junmai uses only water, rice, koji and yeast, with no added alcohol. Honjozo allows a small amount of brewers' alcohol and has an upper polishing limit of 70%. Ginjo also allows added alcohol and has an upper limit of 60%. Daiginjo has an upper limit of 50%. Junmai ginjo and junmai daiginjo add no alcohol and correspond to 60% and 50% respectively.
+
+![Japanese cuisine with sake editorial card](/media/figures/specific/pairing-japanese-sake.svg)
+
+Figure：Japanese cuisine with sake, a project-made bilingual editorial card. It identifies the topic; it is not an on-site photograph.
 
 The more the rice is milled, the less protein and lipid remain in the outer layers, so fermentation is slower, aroma is cleaner, and notes of apple, pear and blossom are more likely. Less milling leaves more rice aroma and umami and a fuller texture. The number on the label is not a quality grade but a style coordinate: a high polishing ratio suits delicate sashimi, while a low ratio suits dishes with more fat and sauce.
 

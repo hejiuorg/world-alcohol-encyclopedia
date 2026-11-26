@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:alsace-grand-cru-trail
 source_lang: zh
-source_revision: sha256:b53ac09e727c73c4be6d7db74faa87550b943277f8888ffa35a08de403a46d6d
-source_sha256: b53ac09e727c73c4be6d7db74faa87550b943277f8888ffa35a08de403a46d6d
+source_revision: sha256:9adbdebcf04c6cb53c68e924132208b4f44ced66fcb4a967df0fefb56ad6d40b
+source_sha256: 9adbdebcf04c6cb53c68e924132208b4f44ced66fcb4a967df0fefb56ad6d40b
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -60,6 +60,12 @@ sources:
     publisher: Agence Touristique du Haut-Rhin / Bas-Rhin
     note: Used to check the position of Kaysersberg and Riquewihr on the wine route and the drive between them; no source text is reproduced.
     accessed: 2026-11-09
+  - key: visit-alsace
+    title: "Visit Alsace — Alsace Wine Route"
+    url: "https://www.visit.alsace/en/"
+    publisher: "Visit Alsace"
+    note: "Used to check the Alsace Wine Route and Grand Cru village context; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -134,3 +140,13 @@ Opening hours, bookings and transport are subject to official channels; page ver
 Alsace Grand Cru trail is best read by starting with the order of stops, moving to the distance and opening hours, and ending with whether it works as a fixed itinerary.
 
 Start with [Domaine Weinbach](ref:weinbach) for stop order, then read [Alsace](ref:alsace) for transport. Seeing both keeps Alsace Grand Cru trail from being confused with a neighbouring idea.
+
+## Related images
+
+![Photograph for Gewürztraminer: Gewürztraminer grapes. Credit: Robert Pitkin, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-variety-gewurztraminer-0b4647f6.jpg)
+
+Image: Gewürztraminer grapes. Credit: Robert Pitkin, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Robert Pitkin, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=20125056)). Related image for Alsace Grand Cru trail: Kaysersberg and Riquewihr.
+
+![Photograph for Domaine Weinbach: Domaine Weinbach (6710808155). Credit: Michal Osmenda from Brussels, Belgium, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-place-domaine-weinbach-59c1106f.jpg)
+
+Image: Domaine Weinbach (6710808155). Credit: Michal Osmenda from Brussels, Belgium, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Michal Osmenda from Brussels, Belgium, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=24415979)). Related image for Alsace Grand Cru trail: Kaysersberg and Riquewihr.

@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:new-zealand
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:249670002c8dbc53ded239f72ff717f17b9f5ce14f7cf3872475deee30804590
-source_sha256: 249670002c8dbc53ded239f72ff717f17b9f5ce14f7cf3872475deee30804590
+source_revision: sha256:c1dc1f4c5bf7933f3601dcfc58a5b1b00b820560a542c780d503abafbda676b2
+source_sha256: c1dc1f4c5bf7933f3601dcfc58a5b1b00b820560a542c780d503abafbda676b2
 level: country
 country_code: NZ
 legacy_refs: []
@@ -82,6 +82,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # New Zealand
 
 New Zealand is an island country in the South Pacific. Its wine industry is small in scale but internationally recognised for clear varietal expression. Marlborough Sauvignon Blanc shows citrus, passion fruit and herbal notes, while Central Otago Pinot Noir brings red fruit, spice and fresh acidity. An oceanic climate, a long growing season and strong winds are key to understanding New Zealand wine.
@@ -182,3 +183,13 @@ Read [Wine](ref:wine) for the geographic boundary side of New Zealand, and [Whit
 - [Riesling](ref:riesling) and [Chardonnay](ref:chardonnay): another main line of New Zealand whites.
 - [Merlot](ref:merlot) and [Syrah](ref:syrah): common North Island red varieties.
 - [Sparkling wine](ref:sparkling): styles and occasions for New Zealand sparkling wine.
+
+## Related images
+
+![Sparkling wine](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+Image: Sparkling wine. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for New Zealand.
+
+![Riesling](/media/photos/variety-riesling-a836132e.jpg)
+
+Image: Riesling. Credit: No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Riesling_grapes_leaves.jpg)). Related image for New Zealand.

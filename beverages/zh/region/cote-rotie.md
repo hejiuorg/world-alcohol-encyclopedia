@@ -112,6 +112,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 罗第丘
 
 北罗讷河谷最北的红葡萄酒 AOC，位于昂皮与圣西尔-sur-le-Rhône 之间的陡坡上；以西拉为主、可少量混酿维欧尼，分“金丘”与“棕丘”两条坡带，1940 年获 AOC。
@@ -173,3 +174,13 @@ Guigal 是产区最知名的家族酒庄，自有葡萄园全部位于北罗讷�
 采收在北半球秋季 9 月前后，酒庄最忙；周末与节庆开放时间变化大，出发前通过酒庄官网或产区工会确认预约、费用与接待语言。参观时不进入作业车间与地块，品鉴后不驾车；坡地石阶与干石墙路段不一定无障碍，带长辈先问清设施。
 
 - 相关条目：[rhone](ref:rhone)、[syrah](ref:syrah)、[viognier](ref:viognier)、[red-wine](ref:red)、[oak-ageing](ref:oak)。
+
+## 相关图像
+
+![“维欧尼”页面配图：Viognier Grape must after pressing。摄影：Ian Brown，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-viognier-0ccec251.jpg)
+
+图：Viognier Grape must after pressing。摄影：Ian Brown，CC BY 2.0，来自 Wikimedia Commons。。图片：Ian Brown，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13317886)）。关联图像：罗第丘。
+
+![罗讷河谷](/media/photos/region-rhone-df823b9c.jpg)
+
+图：罗讷河谷。图片：Béa at French Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Thain1.jpg)）。关联图像：罗第丘。

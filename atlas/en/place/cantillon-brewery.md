@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cantillon-brewery
 source_lang: zh
-source_revision: sha256:676db6c23bd932919af89c91598519eb7d882db28ee718dc1d17a00bb3d971ef
-source_sha256: 676db6c23bd932919af89c91598519eb7d882db28ee718dc1d17a00bb3d971ef
+source_revision: sha256:b5e9ad7c50f5094c0e40f21f90f4a2c3bf1117e388137f05010f7a32dc44a530
+source_sha256: b5e9ad7c50f5094c0e40f21f90f4a2c3bf1117e388137f05010f7a32dc44a530
 translation_status: reviewed
 subtype: brewery-visitor
 address: Rue Gheude 56, 1070 Bruxelles, Belgium
@@ -87,6 +87,7 @@ rights:
   note: Third-party trademarks, photographs and quoted texts are not covered by this licence; hours, prices and closures change, so check official channels.
 verification_scope: source-verified
 ---
+
 # Cantillon Brewery
 
 ![related photograph of Cantillon Brewery](/media/photos/place-cantillon-brewery-f3b0c65c.jpg)
@@ -152,3 +153,9 @@ Start with [Lambic](ref:lambic) for address and space, then read [Belgium](ref:b
 | Official site | cantillon.be |
 
 **Sources and limits.** The key claims about Cantillon Brewery are checked against the following sources: Brasserie Cantillon (Used to check the structure of the lambic, gueuze, fruit beer and Iris range), Visit Brussels (Used to check the transport relationship between Anderlecht and central Brussels). For current products, addresses or opening status, use cantillon.be. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Lambic](/media/photos/drink-style-lambic-e4a01a2a.jpg)
+
+Image: Lambic. Credit: Paul Hermans at Dutch Wikipedia, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Bieren_uit_de_streek_rond_brussel.jpg)). Related image for Cantillon Brewery.

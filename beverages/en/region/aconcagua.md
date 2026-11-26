@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:aconcagua
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0f657c1555a61bdd805a65bbc0d6003b96e4485c20d549011bbef294b1e7c9a1
-source_sha256: 0f657c1555a61bdd805a65bbc0d6003b96e4485c20d549011bbef294b1e7c9a1
+source_revision: sha256:5acf9c0307ffad1b3d7d461ca34d4e4a84b9854c84ef3d9e2f02d31d499073ab
+source_sha256: 5acf9c0307ffad1b3d7d461ca34d4e4a84b9854c84ef3d9e2f02d31d499073ab
 level: other
 parent_id: region:chile
 country_code: CL
@@ -106,6 +106,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Aconcagua Valley
 
 The Aconcagua Valley is the inland wine sub-region of Chile's Aconcagua region, north of Santiago. It is led by Cabernet Sauvignon, Carmenère and Syrah reds and also makes Chardonnay and Sauvignon Blanc. The Aconcagua River runs from the Andes to the Pacific, and the valley's terrain and sea-land winds create a temperature gradient.
@@ -199,3 +200,13 @@ SAG revised the Valle del Aconcagua boundaries in 2018.
 - [Vintage](ref:vintage): vintage variation and drought in the Aconcagua Valley.
 - [Single varietal](ref:single-varietal): the variety labelling share.
 - [Alcohol by volume](ref:abv): what % vol means on a label.
+
+## Related images
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Aconcagua Valley.
+
+![Acidity](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+Image: Acidity. Credit: Chemicalinterest, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)). Related image for Aconcagua Valley.

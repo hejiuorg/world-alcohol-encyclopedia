@@ -97,6 +97,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；开放时间、参观价格与库存会变化，以官方预约为准。
 verification_scope: source-verified
 ---
+
 # 达罗兹雅文邑
 
 Roquefort 是 Landes 省东部的一个小镇，主路两旁是矮房、面包店、药房与几家卖鹅肝和雅文邑的店。达罗兹的接待处与酒窖就在 277 Avenue de l’Armagnac，门口没有城堡式的排场，只有一个家族酒商的仓库、品鉴室与堆到天花板的酒瓶。它更像一个“把整个 Bas-Armagnac 收进酒窖”的地方，而不是一座供人拍照的庄园。
@@ -174,3 +175,9 @@ Roquefort 在 Landes 的东端，往西是 Mont-de-Marsan，往东是 Nérac 与
 - 干邑对照：[干邑路线](ref:cognacroute)、[Hennessy](ref:hennessy)、[Rémy Martin](ref:remy)。
 
 对照阅读：[洛巴德酒庄](ref:laubade)、[雅文邑路线：下雅文邑的单一庄园](ref:armagnacroute)。
+
+## 相关图像
+
+![人头马干邑酒庄相关实景照片](/media/photos/place-remy-martin-cognac-043d9ab3.jpg)
+
+图：人头马干邑酒庄相关实景照片。图片：Erko，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:R%C3%A9my_Martin_XO_Cannes_2016_Special_Edition_Cognac.jpg)）。关联图像：达罗兹雅文邑。

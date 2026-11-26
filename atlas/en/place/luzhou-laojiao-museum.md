@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:luzhou-laojiao-museum
 source_lang: zh
-source_revision: sha256:f9cf435854ada2ccc200218970b041a2495b73392090cafe54c31b5f5193e607
-source_sha256: f9cf435854ada2ccc200218970b041a2495b73392090cafe54c31b5f5193e607
+source_revision: sha256:2e061674be247ebff7b868947ab0181961507af279138bf4d49973ad8fa7e51e
+source_sha256: 2e061674be247ebff7b868947ab0181961507af279138bf4d49973ad8fa7e51e
 translation_status: reviewed
 subtype: museum
 address: Guojiao Square, Sanxing Street, Jiangyang District, Luzhou, Sichuan, China
@@ -69,25 +69,25 @@ sources:
     title: 国窖之旅 — 泸州老窖
     url: https://www.lzlj.com/travel/
     publisher: 泸州老窖
-    note: 用于核对国窖广场、1573 年窖池与浓香型白酒的公开参观信息；未复制原文。
+    note: 用于核对国窖广场、1573 年窖池与浓香型白酒的公开参观信息；未复制原文.
     accessed: 2026-11-25
   - key: lzlj-news
     title: 泸州老窖 — 窖池群与酿酒遗产
     url: https://www.lzlj.com/news/enterprise/13004.html
     publisher: 泸州老窖
-    note: 用于核对百年以上窖池、明清酿酒作坊与全国重点文物保护单位的公开介绍；未复制原文。
+    note: 用于核对百年以上窖池、明清酿酒作坊与全国重点文物保护单位的公开介绍；未复制原文.
     accessed: 2026-11-25
   - key: luzhou-gov
     title: 泸州老窖窖池群及酿酒作坊 — 泸州市人民政府
     url: https://www.luzhou.gov.cn/sq/lylz/wlmk/lswhpp/gjjwwbhdw/content_986905
     publisher: 泸州市人民政府
-    note: 用于核对全国重点文物保护单位的名称、分布与遗产构成；未复制原文。
+    note: 用于核对全国重点文物保护单位的名称、分布与遗产构成；未复制原文.
     accessed: 2026-11-25
   - key: luzhou-bendibao
     title: 泸州老窖景区旅游攻略 — 泸州本地宝
     url: http://m.luzhou.bendibao.com/tour/5894.shtm
     publisher: 泸州本地宝
-    note: 用于核对景区地址、开放时间与通行票价的公开记录；价格与开放时间会调整，未复制原文。
+    note: 用于核对景区地址、开放时间与通行票价的公开记录；价格与开放时间会调整，未复制原文.
     accessed: 2026-11-25
 rights:
   status: allowed
@@ -103,7 +103,7 @@ The common mistake in Luzhou is to photograph one “1573” pit without asking 
 
 ![Luzhou Laojiao Museum (Guojiao Square) bilingual editorial visual card](/media/figures/specific/place-luzhou-laojiao-museum.svg)
 
-图：Luzhou Laojiao Museum (Guojiao Square) bilingual editorial card。Project-created bilingual editorial card for topic identification, not a documentary photograph.
+Figure: Luzhou Laojiao Museum (Guojiao Square) bilingual editorial card. Project-created bilingual editorial card for topic identification, not a documentary photograph.
 
 > **Quick verdict**
 > **Best for:** travellers who want to understand the strong-aroma system of pits, grain and distillation; pairs well with Luzhou’s old town and Yangtze waterfront for a day.
@@ -155,9 +155,15 @@ This page does not give tasting or buying advice. Prices and stock differ betwee
 
 ## References
 
-- 国窖之旅 — 泸州老窖 — https://www.lzlj.com/travel/ (泸州老窖, checked 2026-11-25)
-- 泸州老窖 — 窖池群与酿酒遗产 — https://www.lzlj.com/news/enterprise/13004.html (泸州老窖, checked 2026-11-25)
-- 泸州老窖窖池群及酿酒作坊 — 泸州市人民政府 — https://www.luzhou.gov.cn/sq/lylz/wlmk/lswhpp/gjjwwbhdw/content_986905 (泸州市人民政府, checked 2026-11-25)
-- 泸州老窖景区旅游攻略 — 泸州本地宝 — http://m.luzhou.bendibao.com/tour/5894.shtm (泸州本地宝, checked 2026-11-25)
+- lzlj.com — official source — https://www.lzlj.com/travel/ (checked 2026-11-25)
+- lzlj.com — official source — https://www.lzlj.com/news/enterprise/13004.html (checked 2026-11-25)
+- luzhou.gov.cn — official source — https://www.luzhou.gov.cn/sq/lylz/wlmk/lswhpp/gjjwwbhdw/content_986905 (checked 2026-11-25)
+- m.luzhou.bendibao.com — official source — http://m.luzhou.bendibao.com/tour/5894.shtm (checked 2026-11-25)
 
 Related entries: [Luzhou Laojiao cellars](ref:cellars), [Luzhou Laojiao route](ref:route), [Luzhou Laojiao](ref:brand), [Luzhou Laojiao Group](ref:producer), [strong-aroma baijiu](ref:style), [Sichuan](ref:region), [First baijiu guide](ref:guide), [History of Chinese wine](ref:history).
+
+## Related images
+
+![A traditional distillation apparatus at the Luzhou Laojiao distillery](/media/photos/place-luzhou-laojiao-cellars-0e97e137.jpg)
+
+Image: A traditional distillation apparatus at the Luzhou Laojiao distillery. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Traditioneller_chinesischer_Destillationsapparat_in_der_Brennerei_Luzhou_Laojiao.jpg)). Related image for Luzhou Laojiao Museum (Guojiao Square).

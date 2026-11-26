@@ -92,6 +92,7 @@ rights:
   note: 本页配图为维基共享资源的贺茂泉酒造厂房实拍照片，按 CC BY-SA 4.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 贺茂泉酒造
 
 贺茂泉酒造位于[日本](ref:japan)广岛县东广岛市西条上市町 2 番 4 号，是西条酒藏通上以纯米酒为主线的酒藏。参观入口是藏内的“延寿藏”：平日可预约进入，由藏方按来客时间安排看片、走藏、讲解与试饮；周末与节假日则改由街边的酒泉馆接待，那里常备二十种以上的贺茂泉清酒，可以少量比较后再决定买哪一瓶。需要先说明：官网目前公告参观预约暂停，恢复时间未定，出发前必须打电话确认。
@@ -144,3 +145,9 @@ verification_scope: source-verified
 - [広島の西条酒の街](http://www.saijosake.com/japanese/town/)，西条酒藏组合，核验酒藏通上的位置关系。
 
 页面核验日期 2026-11-09；参观预约与酒泉馆营业时间以官方渠道为准。
+
+## 相关图像
+
+![清酒](/media/photos/drink-style-sake-c84f8e77.jpg)
+
+图：清酒。图片：Intforce，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Overflowing_sake_glass_in_masu.jpg)）。关联图像：贺茂泉酒造。

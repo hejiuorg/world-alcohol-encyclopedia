@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:single-malt-scotch
 source_lang: zh
-source_revision: sha256:d0a7440a71053529ee8d95aa33d77c49f18d1e40a8671a20b65b118298c33769
-source_sha256: d0a7440a71053529ee8d95aa33d77c49f18d1e40a8671a20b65b118298c33769
+source_revision: sha256:917046d4c9a78fb8dddca16e17f68bd2e26b5f3fa64bcbf4e81ef21137b4b31f
+source_sha256: 917046d4c9a78fb8dddca16e17f68bd2e26b5f3fa64bcbf4e81ef21137b4b31f
 translation_status: reviewed
 parent_style_id: drink-style:scotch-whisky
 legacy_refs: []
@@ -88,6 +88,7 @@ rights:
   note: Third-party regulations, trademarks, photographs and quoted texts are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Single Malt Scotch Whisky
 
 Single Malt Scotch Whisky is one of the five legal categories of [Scotch whisky](ref:scotch): whisky distilled at a single distillery from 100% malted barley in pot stills, in batches, and matured in oak in Scotland for at least three years. It is neither a single cask nor a single grain, and it is not a general name for all Scotch. Separating those three ideas is the first step in reading a label.
@@ -139,3 +140,9 @@ First, that single malt must come from a single cask. Second, that older is alwa
 Start with the distillery, age and cask type, then look at strength and whether the bottling is a single cask. Neat drinking is best for judging structure, and a few drops of water open the aroma; ice cools and dilutes at the same time, which suits stronger bottlings. Whatever the serve, keep intake moderate, and adults only.
 
 **Short definition:** A whisky distilled at one Scottish distillery from 100% malted barley in pot stills and matured in oak for at least three years; the 94.8% distillation ceiling and the 40% bottling floor mark its boundary from single-cask and cask-strength releases.
+
+## Related images
+
+![Category image for Speyside](/media/photos/place-glenfiddich-distillery-d6ab0496.jpg)
+
+Image: Category image for Speyside. Credit: Coldupnorth, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenfiddich_Distillery_View.jpg)). Related image for Single Malt Scotch Whisky.

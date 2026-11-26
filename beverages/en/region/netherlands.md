@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:netherlands
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fe88290171d402a10364d1e4ca05dfa4f117e2eb5e5d2715dd165c750b508138
-source_sha256: fe88290171d402a10364d1e4ca05dfa4f117e2eb5e5d2715dd165c750b508138
+source_revision: sha256:edcf466076e004f814b4e0c730fdcbfeb8061802bcd320d11c835b97f271b54b
+source_sha256: edcf466076e004f814b4e0c730fdcbfeb8061802bcd320d11c835b97f271b54b
 legacy_refs: []
 level: country
 country_code: NL
@@ -81,6 +81,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. Photographs are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Netherlands
 
 The Netherlands is a low-lying country in north-west Europe where the Rhine, Meuse and Scheldt reach the sea. Dutch drinking is easily reduced to Heineken and pilsner, but the country also has jenever, a traditional spirit protected in the EU, a growing craft beer scene and a small but persistent wine industry. Only by putting these three lines together can the national alcohol map be understood.![Netherlands photograph](/media/photos/q2-region-netherlands-01d9680b.jpg)
@@ -141,3 +142,13 @@ For Netherlands, this region was last checked in 2026; prices, batches and avail
 - [Barley](ref:barley) and [water](ref:water): the base materials of Dutch beer.
 - [Fermentation](ref:fermentation): bottom fermentation and cold maturation.
 - [Craft beer](ref:craft-beer): the craft revival and small breweries.
+
+## Related images
+
+![Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.](/media/photos/ingredient-water-edf289bf.jpg)
+
+Image: Water poured into a glass. Brewing water is also tested for hardness, alkalinity, minerals and microbiology.. Credit: Jorge Barrios, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_Water.JPG)). Related image for Netherlands.
+
+![Craft beer](/media/photos/term-craft-beer-ce03e9bb.jpg)
+
+Image: Craft beer. Credit: Bernt Rostad, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Zachariasbryggen_Microbrewery.jpg)). Related image for Netherlands.

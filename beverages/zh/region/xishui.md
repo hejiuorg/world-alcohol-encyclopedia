@@ -91,6 +91,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 习水县
 
 习水县隶属贵州省遵义市，位于贵州北部、遵义西部，处在黔北、川南、渝西的交汇地带。东连桐梓与重庆綦江，西接赤水，南邻仁怀与四川古蔺，北抵四川合江。官方简介给出的幅员面积是 3,128 平方公里，辖 26 个乡镇（街道），总人口约 80 万；县政府另有一组口径为 4 个街道、20 个镇、2 个乡、257 个村（居）。两组数字的差异来自统计时点与分类方式，引用时应写明口径。
@@ -153,3 +154,13 @@ verification_scope: source-verified
 - 想把习水放回遵义与贵州，读[遵义](ref:zunyi)与[贵州](ref:guizhou)；想对照河对岸，读[古蔺](ref:gulin)与[泸州](ref:luzhou)。
 - 想比较茅台镇与习酒镇的产区位置，读[茅台镇](ref:maotai)；想理解浓香路线，读[浓香型白酒](ref:strong)。
 - 想从国家层级看酒类地理，读[中国](ref:china)与[白酒](ref:baijiu)。
+
+## 相关图像
+
+![赤水河河谷（茅台镇段），用于说明流域地貌；不是古蔺二郎镇或郎酒厂区实景](/media/photos/region-chishui-river-maotai-cc0.jpg)
+
+图：赤水河河谷（茅台镇段），用于说明流域地貌；不是古蔺二郎镇或郎酒厂区实景。图片：Wahsaw，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chishui_River_Bank_in_Maotai%28Moutai%29_Town%2C_Renhuai_City%2C_Zunyi%2C_Guizhou.jpg)）。关联图像：习水县。
+
+![茅台酒厂（贵州茅台）相关实景照片](/media/photos/place-maotai-distillery-da9a56fc.jpg)
+
+图：茅台酒厂（贵州茅台）相关实景照片。图片：Jula2812，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Maotai_-_Kweichow_Moutai_Distillery_China,_Flasche_Etikett_Detail_(2).jpg)）。关联图像：习水县。

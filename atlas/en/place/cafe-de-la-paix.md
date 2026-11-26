@@ -31,8 +31,8 @@ tags:
 translation_of: place:cafe-de-la-paix
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0574461eac6ed4113aea32c0b1d5e248132c8d6378d3047179bbfe08e61780e2
-source_sha256: 0574461eac6ed4113aea32c0b1d5e248132c8d6378d3047179bbfe08e61780e2
+source_revision: sha256:c437d7a4394a0ced8c9ceccd2bb3bdc1de7e47662cfbb0af69f13f02c3f0f81b
+source_sha256: c437d7a4394a0ced8c9ceccd2bb3bdc1de7e47662cfbb0af69f13f02c3f0f81b
 related:
   - relation: about
     target_id: place:la-closerie-des-lilas
@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1862
 ---
+
 # Café de la Paix
 
 Step out of the Opéra Garnier's main entrance, cross the traffic of Place de l'Opéra, and the green awning and gilded front of Café de la Paix come into view. Its position is almost too good: the opera house on one side, the Grand Hôtel on the other, and the Grands Boulevards department stores behind it along Boulevard des Capucines. Visitors come for a first coffee, a look at the opera facade or to wait for a performance; Parisians treat it as a landmark of the theatre district and know when it is loudest and when the terrace is best for watching the square.![Daytime facade of Café de la Paix facing the Opéra Garnier](/media/photos/place-cafe-de-la-paix-7cafc69d.jpg)
@@ -157,3 +158,9 @@ Café de la Paix is best read by starting with the address, moving to the curren
 | Official site | cafedelapaix.fr |
 
 **Sources and limits.** The key claims about Café de la Paix are checked against the following sources: Café de la Paix, InterContinental Paris Le Grand (Used to cross-check the address, hours and the Maupassant / Hugo / Hemingway guest narrative). For current products, addresses or opening status, use cafedelapaix.fr. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![The glazed-tile facade and awning of Brasserie Lipp, 151 boulevard Saint-Germain](/media/photos/place-brasserie-lipp-1bdb69a3.jpg)
+
+Image: The glazed-tile facade and awning of Brasserie Lipp, 151 boulevard Saint-Germain. Credit: Daniel Cruz Valle, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Brasserie_Lipp,_Paris_17_September_2016.jpg)). Related image for Café de la Paix.

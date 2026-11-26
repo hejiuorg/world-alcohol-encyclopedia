@@ -161,3 +161,9 @@ verification_scope: source-verified
 - GB/T 2260-2007 中华人民共和国行政区划代码（国家标准化管理委员会，核对 2026-11-25）
 
 相关条目：[习酒厂区](ref:distillery)、[习水习酒路线](ref:route)、[贵州省](ref:region)、[中国](ref:regioncn)、[中国酒史纲](ref:history)、[酱香型白酒](ref:style)、[第一次喝白酒怎么选](ref:guide)、[习酒](ref:brand)。
+
+## 相关图像
+
+![酱香型白酒](/media/photos/drink-style-sauce-aroma-baijiu-1c3af236.jpg)
+
+图：酱香型白酒。图片：Xiaomage de，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)）。关联图像：土城古镇（习水）。

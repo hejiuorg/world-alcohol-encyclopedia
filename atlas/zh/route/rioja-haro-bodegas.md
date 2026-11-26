@@ -83,6 +83,7 @@ stop_ids:
 mode: walk-train
 updated_at: 2026-11-08
 ---
+
 # 里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年
 
 阿罗（Haro）火车站区（Barrio de la Estación）是里奥哈最容易低估的一小片街区。从站台出来，走几分钟就能经过洛佩兹雷迪亚、里奥哈阿尔塔与 CVNE 的老厂墙；三家都创始于 19 世纪下半叶，都靠铁路把酒运往法国与大西洋港口，却走上了三条不同的路。这条路线不追求“喝很多家”，而是用三站把“美国桶、长时间陈年、预约制参观”讲清楚，并且全程可以步行完成。
@@ -172,3 +173,13 @@ updated_at: 2026-11-08
 - 想继续读背景，可在内容仓中查阅里奥哈产区、葡萄酒与“产地与工艺”条目；本页不再重复登记引用。
 
 哈罗车站区三家百年酒庄可步行串联，但参观时段与酒窖开放不同；以各酒庄官网预约，铁路班次查 Renfe。核验于 2026-11-08。
+
+## 相关图像
+
+![洛佩兹雷迪亚酒庄](/media/photos/place-bodegas-lopez-de-heredia-8703f772.jpg)
+
+图：洛佩兹雷迪亚酒庄。图片：Zarateman，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Haro_-_Bodegas_L%C3%B3pez_de_Heredia_Vi%C3%B1a_Tondonia_1.JPG)）。关联图像：里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年。
+
+![“CVNE 酒庄”页面配图：CVNE bodega Imperial 2。摄影：Txo，CC BY-SA 4.0，来自 Wikimedia Commons。](/media/photos/q2-place-cvne-2d81cddc.jpg)
+
+图：CVNE bodega Imperial 2。摄影：Txo，CC BY-SA 4.0，来自 Wikimedia Commons。。图片：Txo，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=83638963)）。关联图像：里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年。

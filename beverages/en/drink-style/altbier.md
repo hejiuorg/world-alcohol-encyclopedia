@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:altbier
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1f266d6f23939dc7011860bd79178a3c96f476d197b67d1844d1e8cbd9e38531
-source_sha256: 1f266d6f23939dc7011860bd79178a3c96f476d197b67d1844d1e8cbd9e38531
+source_revision: sha256:5fdd6a4cd7cb4c6f806507f277ef883962e75ae2ac544d3da364feb65a165404
+source_sha256: 5fdd6a4cd7cb4c6f806507f277ef883962e75ae2ac544d3da364feb65a165404
 related:
   - relation: about
     target_id: drink-style:beer
@@ -145,3 +145,9 @@ Altbier is a fresh beer, not one for long ageing: store bottled versions away fr
 To approach Altbier, start with a regular-strength Düsseldorf-style example to learn the malt-and-bitterness skeleton, then compare a bottled version from another region, and finish with a strong Sticke. Across those three tiers, the differences from fermentation, conditioning and strength become clear.
 
 - Related: [beer](ref:beer), [barley](ref:barley), [hop](ref:hop), [fermentation](ref:fermentation), [germany](ref:germany).
+
+## Related images
+
+![Hops](/media/photos/ingredient-hop-72c4eef7.jpg)
+
+Image: Hops. Credit: LuckyStarr, CC BY 2.5, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg)). Related image for Altbier.

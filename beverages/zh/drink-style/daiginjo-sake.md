@@ -76,6 +76,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 大吟酿
 
 大吟酿是“把米磨到一半以下”的清酒。法定线只有两条：精米步合 50% 以下，采用吟酿造；可添加不超过白米重量 10% 的酿造酒精，不添加则称纯米大吟酿。但 50% 以下是一段陡峭的成本曲线，每一步都在和碎米、杂味与产量博弈。
@@ -166,3 +167,9 @@ verification_scope: source-verified
 | 香气家族 | 花果香 |
 
 **来源与边界。** 本页关于「大吟酿」的关键事实，主要由以下来源交叉核对：Japan Sake and Shochu Makers Association（大吟酿与纯米大吟酿的精米步合上限、原料条件与吟酿造定义）、日本国税庁（大吟酿的 50% 精米步合门槛、特定名称标示与酿造酒精添加规则；清酒的法定分类与制造概况）、Oxford University Press（提供关于高精米清酒、吟酿香与清酒酿造的条目）。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![清酒](/media/photos/drink-style-sake-c84f8e77.jpg)
+
+图：清酒。图片：Intforce，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Overflowing_sake_glass_in_masu.jpg)）。关联图像：大吟酿。

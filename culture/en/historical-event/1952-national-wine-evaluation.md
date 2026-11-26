@@ -11,8 +11,8 @@ revision: 3
 translation_of: historical-event:1952-national-wine-evaluation
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2ceeab5303e55e61bec890b1d24f262abff56c6d3bca9ffe25a97072df74f05d
-source_sha256: 2ceeab5303e55e61bec890b1d24f262abff56c6d3bca9ffe25a97072df74f05d
+source_revision: sha256:3ca46f146d01b9bd1a73d94d2af5fac079cff56043277451c84eac62fae81d10
+source_sha256: 3ca46f146d01b9bd1a73d94d2af5fac079cff56043277451c84eac62fae81d10
 date_text: September 1952
 year_start: 1952
 year_end: 1952
@@ -87,6 +87,7 @@ rights:
   note: Third-party reports, list compilations, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # 1952 National Wine Evaluation: the eight famous wines and the start of a system
 
 In September 1952 the first national wine evaluation was held in Beijing. From samples of baijiu, yellow wine, wine and fruit wine sent from around the country, it selected eight Chinese famous wines; Moutai, Luzhou Laojiao, Fenjiu and Xifeng later became known as the four famous baijiu. The significance of the meeting lies not only in the list but in the way it brought scattered local famous wines into a national system of quality and reputation.
@@ -144,3 +145,9 @@ For 1952 National Wine Evaluation, begin with the date and setting, then the doc
 | Calendar | Gregorian |
 
 **Sources and limits.** The key claims about 1952 National Wine Evaluation: the eight famous wines and the start of a system are checked against the following sources: Xinhua (Used to check that eight national famous wines were selected in 1952, four of them baijiu), China News Service, China National Radio (Used to check the date, place and later sessions of the first evaluation; facts only) and 5 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Category image for Shanxi Xinghuacun Fenjiu Group Co., Ltd.](/media/photos/drink-style-light-aroma-baijiu-1c3af236.jpg)
+
+Image: Category image for Shanxi Xinghuacun Fenjiu Group Co., Ltd.. Credit: Xiaomage de, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vertreter_der_vier_Baijiu_Kategorien.jpg)). Related image for 1952 National Wine Evaluation: the eight famous wines and the start of a system.

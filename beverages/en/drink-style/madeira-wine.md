@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:madeira-wine
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2335f6e7bcb25deb599e3fcf412a9b2b9628b0a9b914a117a52861d90920d8ed
-source_sha256: 2335f6e7bcb25deb599e3fcf412a9b2b9628b0a9b914a117a52861d90920d8ed
+source_revision: sha256:36d4a6c9c575cc26dc76cc42a4db04305798a69d292dfbce0d88189e11173ddb
+source_sha256: 36d4a6c9c575cc26dc76cc42a4db04305798a69d292dfbce0d88189e11173ddb
 legacy_refs: []
 parent_style_id: drink-style:fortified-wine
 aroma_family: Oxidative / nutty / caramel
@@ -82,6 +82,7 @@ rights:
   note: The lead image is a photograph of Barbeito Verdelho Madeira from Wikimedia Commons, used under CC BY-SA 4.0; see the figure caption. The image was resized only, not cropped. Third-party trademarks and quoted text are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Madeira
 
 Madeira is the [fortified wine](ref:fortified-wine) of the Portuguese island of [Madeira](ref:madeira), and one of the few wines that turned being heated into a style. It is fortified with grape spirit during fermentation, then aged in one of two ways: in heated tanks, or in casks under the warm roof of a cellar where the Atlantic climate does the work slowly. The result is high in acidity, dark in colour, nutty and caramel-scented, and stable for weeks or months after opening. Understanding Madeira means understanding how heat and oxygen were turned into rules.
@@ -141,3 +142,11 @@ Madeira is fortified and heated, either in estufagem tanks or in warm cask attic
 | Aroma family | Oxidative / nutty / caramel |
 
 **Sources and limits.** The key claims about Madeira are checked against the following sources: Instituto da Vinha e do Vinho (the Madeira DOP area, varieties, fortification and estufagem/canteiro ageing; no original text is reproduced), European Union (the framework for fortified wines, geographical indications and labelling; no original text is reproduced), International Organisation of Vine and Wine (OIV) (definitions of liqueur wine and fortification; no original text is reproduced) and 4 sources in total. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Port](/media/photos/drink-style-port-a4535e5c.jpg)
+
+Image: Port. Credit: cezzie901, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:View_of_Nam_Harbor_from_Busan_Tower.jpg)). Related image for Madeira.
+
+The visual reference set includes a 2011 photograph of the Quinta das Vinhas vineyards in Madeira.

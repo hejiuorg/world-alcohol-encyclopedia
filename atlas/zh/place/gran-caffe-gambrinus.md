@@ -83,6 +83,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1860
 ---
+
 # 甘布里努斯咖啡馆
 
 从 Piazza del Plebiscito 往南，拐进 Via Chiaia 不远，就能看到甘布里努斯咖啡馆的转角店面：深色木门、黄铜把手、玻璃橱窗里堆着糖果与蛋糕盒，门口永远有人站着喝咖啡。它夹在皇宫、圣卡洛歌剧院和翁贝托长廊之间，是那不勒斯老城最容易被“顺路经过”的一间历史咖啡馆，也是最容易被当成博物馆的一间。真正的用法不是站在门口拍一张照，而是进去点一杯咖啡或一份 babà，在镜子和灰泥装饰之间坐十分钟，听周围人用那不勒斯话争论足球、政治或晚饭吃什么。
@@ -133,3 +134,9 @@ founded_year: 1860
 - 若对维也纳咖啡馆的坐席礼仪感兴趣，可读 `route:vienna-coffee-house-evening`。
 - 本页把“1938 年关闭”的两种说法并列，不把单一原因写成定论；营业时间与价格以官方当日信息为准。
 - 相关条目：[罗马希腊咖啡馆](ref:greco)、[花神咖啡馆（威尼斯）](ref:florian)、[Camparino in Galleria](ref:camparino)、[圣卡洛咖啡馆](ref:san-carlo)、[维也纳咖啡馆之夜](ref:vienna)
+
+## 相关图像
+
+![米兰 Galleria Vittorio Emanuele II 的内部拱廊；Camparino 位于长廊北侧拱廊、Piazza Duomo 一侧，照片展示的是长廊建筑与马赛克地面，不是 Camparino 酒吧内部](/media/photos/place-camparino-in-galleria-cc66097d.jpg)
+
+图：米兰 Galleria Vittorio Emanuele II 的内部拱廊；Camparino 位于长廊北侧拱廊、Piazza Duomo 一侧，照片展示的是长廊建筑与马赛克地面，不是 Camparino 酒吧内部。图片：Dispe，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Galleria_Vittorio_Emanuele_II_di_Milano_-_Interno_-_Vista_da_un_piano_alto.JPG)）。关联图像：甘布里努斯咖啡馆。

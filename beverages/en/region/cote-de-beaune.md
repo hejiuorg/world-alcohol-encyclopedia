@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:cote-de-beaune
 source_lang: zh
-source_revision: sha256:644117b94ec7129c10a05516c569d295080008050a09ed1dcb447e3934ed5761
-source_sha256: 644117b94ec7129c10a05516c569d295080008050a09ed1dcb447e3934ed5761
+source_revision: sha256:ea11864affb6d81d7eaa9d75076221001527202e0018d0364c9426e94e614acf
+source_sha256: ea11864affb6d81d7eaa9d75076221001527202e0018d0364c9426e94e614acf
 translation_status: reviewed
 level: city
 parent_id: region:france
@@ -82,6 +82,7 @@ rights:
   note: Third-party trademarks, maps and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Côte de Beaune
 
 The Côte de Beaune is the wine region of Burgundy's southern Côte d'Or, running from Ladoix-Serrigny to Santenay. Unlike the Côte de Nuits, which is dominated by Pinot Noir, the Côte de Beaune is famous for Chardonnay white wines, yet it also produces excellent Pinot Noir reds; of its 8 grands crus, only Corton is mainly red, a structure that gives the area a special place on Burgundy's classification map.
@@ -156,3 +157,13 @@ For Côte de Beaune, begin with the appellation and its permitted varieties. The
 - [Pinot Noir](ref:pinot-noir): the variety behind Corton and other reds.
 - [White wine](ref:white-wine): an overview of still white wine and winemaking.
 - [Terroir](ref:terroir): slope position, soil depth and site differences.
+
+## Related images
+
+![Pinot Noir](/media/photos/variety-pinot-noir-e434879f.jpg)
+
+Image: Pinot Noir. Credit: Cjp24, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Grape_near_Sancerre.jpg)). Related image for Côte de Beaune.
+
+![Chardonnay](/media/photos/variety-chardonnay-efde6838.jpg)
+
+Image: Chardonnay. Credit: Jenavive at English Wikipedia, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)). Related image for Côte de Beaune.

@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:limoncello
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:28f7dfda882d1182b6be611ba94b0d9054efb3d02594d9f590a115ac87563597
-source_sha256: 28f7dfda882d1182b6be611ba94b0d9054efb3d02594d9f590a115ac87563597
+source_revision: sha256:b887154ef99390c4b841a4fab5995e20739af463f746038467cc6a996777caa4
+source_sha256: b887154ef99390c4b841a4fab5995e20739af463f746038467cc6a996777caa4
 legacy_refs: []
 parent_style_id: drink-style:liqueur
 aroma_family: lemon and citrus oil
@@ -141,3 +141,9 @@ Read the ingredient order: peel, alcohol, sugar and water near the front suggest
 For home-made versions, use unwaxed fruit with no pesticide residue, and let the alcohol and syrup rest before filtering, or a haze will form in the bottle. High sugar and alcohol make limoncello relatively durable, but the aroma flattens with time, so it is best finished within a year.
 
 Further reading: [Abbey beer](ref:c-extra-1).
+
+## Related images
+
+![Abbey beer](/media/photos/drink-style-abbey-beer-276b4dc3.jpg)
+
+Image: Abbey beer. Credit: BLloydT, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_wall_of_Belgian_beer_bottles_at_the_Bruges_beer_experience.jpg)). Related image for Limoncello.

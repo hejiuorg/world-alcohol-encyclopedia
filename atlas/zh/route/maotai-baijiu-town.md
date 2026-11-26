@@ -98,6 +98,7 @@ stop_ids:
 mode: car-walk
 updated_at: 2026-11-08
 ---
+
 # 茅台镇白酒路线：从酒文化城到茅台酒厂
 
 茅台镇不大，却很容易被走成两个极端：一边是酒文化城的展馆与旅游团，一边是厂区门口拍照与“内部酒”兜售。真正值得花一天的走法，是先把“酱香型白酒为什么这样酿”在展馆里弄明白，再到赤水河畔的厂区看产地与生产节律，最后把品鉴与购买分开处理。这条路线只有两站，却需要提前做功课：预约、交通、品鉴量与购买边界，缺一项都会让行程变形。
@@ -182,3 +183,13 @@ updated_at: 2026-11-08
 补充阅读：[贵州省](ref:c-extra-1)。
 
 相关条目：[贵州省](ref:c-extra-1)、[中国酒文化城](ref:culture-city)、[茅台酒厂（贵州茅台）](ref:maotai)。
+
+## 相关图像
+
+![贵州仁怀茅台镇街景，河谷地形、气候与酱香酒生产高度绑定](/media/photos/place-maotai-distillery-bf022cc0.jpg)
+
+图：贵州仁怀茅台镇街景，河谷地形、气候与酱香酒生产高度绑定。图片：Wahsaw，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Streetview_of_Maotai(Moutai)_Town,_Renhuai_City,_Zunyi,_Guizhou.jpg)）。关联图像：茅台镇白酒路线：从酒文化城到茅台酒厂。
+
+![中国类别配图](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+图：中国类别配图。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)）。关联图像：茅台镇白酒路线：从酒文化城到茅台酒厂。

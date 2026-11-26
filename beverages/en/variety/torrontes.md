@@ -22,8 +22,8 @@ tags:
 translation_of: variety:torrontes
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:10fb3aaee0488c577c4493fd61b1c6eb1165bcba75ce2774a107045c6e915de2
-source_sha256: 10fb3aaee0488c577c4493fd61b1c6eb1165bcba75ce2774a107045c6e915de2
+source_revision: sha256:02ee6de29d64fc9ce6f82a1f47eda0187ea1dd5b38c380fee0e0d46b04a26010
+source_sha256: 02ee6de29d64fc9ce6f82a1f47eda0187ea1dd5b38c380fee0e0d46b04a26010
 related:
   - relation: about
     target_id: region:salta
@@ -177,3 +177,9 @@ Planting area, clones and parentage of Torrontés keep updating with variety sur
 - Related: [salta](ref:salta), [muscat](ref:muscat), [white-wine](ref:white), [terroir](ref:terroir), [fermentation](ref:fermentation).
 
 [Salta](ref:salta) and [White wine](ref:white) are the two useful reference points for Torrontés. [Salta](ref:salta) sets out variety character; [White wine](ref:white) brings in regional performance. Read them together.
+
+## Related images
+
+![Salta: Angastaco Salta (Wikimedia Commons)](/media/photos/region-salta-ef92d49d.jpg)
+
+Image: Salta: Angastaco Salta (Wikimedia Commons). Credit: CarlosA.Barrio, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Angastaco_Salta.JPG)). Related image for Torrontés.

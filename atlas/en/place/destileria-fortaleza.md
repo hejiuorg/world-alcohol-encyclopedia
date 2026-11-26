@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:destileria-fortaleza
 source_lang: zh
-source_revision: sha256:eb3ad8b1fcccc3b0dfc758e34b28b09fd69526b7027f9956283d42c3b293ad55
-source_sha256: eb3ad8b1fcccc3b0dfc758e34b28b09fd69526b7027f9956283d42c3b293ad55
+source_revision: sha256:6e6c0867c2d4f0b2f3bc4c865af132b9cb54115a26cd6d7c89fe3d31d72001c5
+source_sha256: 6e6c0867c2d4f0b2f3bc4c865af132b9cb54115a26cd6d7c89fe3d31d72001c5
 translation_status: reviewed
 subtype: distillery-visitor
 address: Calle Tabasco 153, Centro, 46400 Tequila, Jalisco, México
@@ -93,6 +93,7 @@ rights:
   note: Third-party trademarks, labels, photographs and quoted texts are outside this licence; tour prices, times and releases change, so confirm with the distillery's official channels.
 verification_scope: source-verified
 ---
+
 # Fortaleza: Relighting the 1873 Workshop
 
 Fortaleza stands at Calle Tabasco 153 in the town of Tequila, Jalisco, on the high side of town. It is often called a time capsule: the brick oven, tahona, wooden vats and two original copper pots still work, while output is small enough to require booking. The point is not age but a plant that stopped, was repaired and started again, tying family history to [tequila](ref:tequila).![Fortaleza: Relighting the 1873 Workshop photograph](/media/photos/q2-place-destileria-fortaleza-00599785.jpg)
@@ -164,3 +165,9 @@ Fortaleza is a small tequila distillery in Tequila, Jalisco, known for its tahon
 | Official site | tequilafortaleza.com |
 
 **Sources and limits.** The key claims about Fortaleza: Relighting the 1873 Workshop are checked against the following sources: Tequila Fortaleza, Consejo Regulador del Tequila (Used to check NOM-006-SCFI-2012, the 100% blue Weber rule and the ageing categories). For current products, addresses or opening status, use tequilafortaleza.com. Prices, batches and status change; the body is project-written and does not reproduce source text.
+
+## Related images
+
+![Photograph for Casa Herradura: The Horseshoe Hacienda of Amatitán: Casa Herradura. Credit: Lupita Sarai, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-place-casa-herradura-16d9e678.jpg)
+
+Image: The Horseshoe Hacienda of Amatitán: Casa Herradura. Credit: Lupita Sarai, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Lupita Sarai, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=84673666)). Related image for Fortaleza: Relighting the 1873 Workshop.

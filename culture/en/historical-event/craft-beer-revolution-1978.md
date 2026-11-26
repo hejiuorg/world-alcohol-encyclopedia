@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:craft-beer-revolution-1978
 source_lang: zh
-source_revision: sha256:e612a3f2a166aff45e0d91aa9b510f49d80391ecca5001ebb138d1c406db37dc
-source_sha256: e612a3f2a166aff45e0d91aa9b510f49d80391ecca5001ebb138d1c406db37dc
+source_revision: sha256:8989444b490b77f9af13f1825cde0b365218c1231f6fcb9fc98b631c8f5aa617
+source_sha256: 8989444b490b77f9af13f1825cde0b365218c1231f6fcb9fc98b631c8f5aa617
 translation_status: reviewed
 aliases:
   - 美国自酿合法化
@@ -147,3 +147,9 @@ For Craft Beer Revolution (1978), begin with the date and setting. Then look at 
 - [Beer](ref:beer): the stylistic background from industrial lager to craft beer.
 - [United States](ref:usa): the federal and state layers of alcohol regulation.
 - [History of taverns](ref:taverns): the long-term change in spaces of beer consumption.
+
+## Related images
+
+![During Prohibition in the United States, officials pour barrels of liquor into a sewer.](/media/photos/historical-event-us-prohibition-3cc2932a.jpg)
+
+Image: During Prohibition in the United States, officials pour barrels of liquor into a sewer.. Credit: Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:5_Prohibition_Disposal(9).jpg)). Related image for Craft Beer Revolution (1978): US Homebrewing Legalization and the Microbrewery.

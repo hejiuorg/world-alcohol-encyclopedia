@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: variety:tempranillo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:85386a057576d932db0d544bb819110a0e811e423592cd7d472495f92eda45c3
-source_sha256: 85386a057576d932db0d544bb819110a0e811e423592cd7d472495f92eda45c3
+source_revision: sha256:b8bd499f8f11cfc843bbc7ee8df1ee5457c9f4a1517da604922a7905ba9b844f
+source_sha256: b8bd499f8f11cfc843bbc7ee8df1ee5457c9f4a1517da604922a7905ba9b844f
 species: Vitis vinifera
 aliases:
   - Tinto Fino
@@ -70,6 +70,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Tempranillo
 
 Tempranillo is one of Spain's signature red grape varieties, with relatively thick skins and early ripening and notes of cherry, plum, leather and tobacco. In Rioja and Ribera del Duero it is often aged in oak, producing a complete, food-friendly style. It is also used for rosé wine and is gradually spreading beyond Spain.![Tempranillo photograph](/media/photos/q2-variety-tempranillo-186ba329.jpg)
@@ -151,3 +152,9 @@ For Tempranillo, this variety was last checked in 2026; prices, batches and avai
 - [Red wine](ref:red-wine): the basics of tannin, acidity and ageing.
 - [Rosé wine](ref:rose): the use of Tempranillo in rosé.
 - [Oak ageing](ref:oak-ageing): the Rioja tradition of barrel ageing Tempranillo.
+
+## Related images
+
+![Rosé Wine](/media/photos/drink-style-rose-wine-b270c399.jpg)
+
+Image: Rosé Wine. Credit: THOR, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sancerre_rose_Wine.jpg)). Related image for Tempranillo.

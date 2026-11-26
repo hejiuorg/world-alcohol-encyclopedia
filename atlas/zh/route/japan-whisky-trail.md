@@ -100,6 +100,7 @@ stop_ids:
 mode: rail
 updated_at: 2026-11-08
 ---
+
 # 日本威士忌路线：坐铁路从山崎到白州
 
 山崎与白州同属三得利，却分处大阪府与山梨县，中间隔着大半条本州岛。这条路线不租车，全程用铁路加接驳巴士：先在京都西南的天王山脚看日本最早的麦芽威士忌蒸馏所，再换乘到南阿尔卑斯山脚，看一座建在森林里的蒸馏所。两站之间，正好等于日本威士忌从“起点”走到“另一种答案”的距离。
@@ -164,3 +165,13 @@ updated_at: 2026-11-08
 这条路线是[日本](ref:japan)产区页的具体走法：产区页讲清日本威士忌的标识规则、原料与陈年要求，以及“同一家公司、多座酒厂”的生产结构；路线页让你在山崎与白州之间看到这套结构如何落到水、发酵槽与蒸馏器上。风格上，读[日本威士忌](ref:japanese-whisky)能分清单一麦芽、调和与谷物威士忌；读[山梨](ref:yamanashi)理解白州的环境；读[橡木桶](ref:oak-ageing)解释水楢桶为何成为识别符号。
 
 对照阅读：[山崎蒸馏所](ref:yamazaki)、[日本](ref:japan)。
+
+## 相关图像
+
+![日本类别配图](/media/photos/place-kamotsuru-a0074234.jpg)
+
+图：日本类别配图。图片：OS6，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Kamotsuru_Sake_Brewing.jpg)）。关联图像：日本威士忌路线：坐铁路从山崎到白州。
+
+![日本威士忌](/media/photos/drink-style-japanese-whisky-d17593e0.jpg)
+
+图：日本威士忌。图片：Mikael Leppä，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vintage_Suntory_Tasting.jpg)）。关联图像：日本威士忌路线：坐铁路从山崎到白州。

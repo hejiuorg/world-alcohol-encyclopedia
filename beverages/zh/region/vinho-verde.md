@@ -80,6 +80,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 绿酒
 
 绿酒（Vinho Verde）是[葡萄牙](ref:portugal)西北部米尼奥地区的法定产区，以清新、低酒精度、酸度高的白[葡萄酒](ref:wine)著称。名称里的“verde”指酒年轻、宜早饮，不指酒的颜色。
@@ -184,3 +185,13 @@ Alvarinho 皮厚、香气浓，成熟度高时仍有足够酸度；Loureiro 香�
 - [酸度](ref:acidity)：绿酒高酸度对风格与配餐的影响。
 - [单一品种](ref:single-varietal)：Alvarinho 标示规则的相关概念。
 - [酒精度](ref:abv)：8% vol 至 14% vol 的标签含义。
+
+## 相关图像
+
+![葡萄牙类别配图](/media/photos/q2-route-porto-douro-route-fa83b03a.jpg)
+
+图：葡萄牙类别配图。图片：John Hayes from San Antonio, Texas, USA，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=151531010)）。关联图像：绿酒。
+
+![起泡酒](/media/photos/drink-style-sparkling-wine-acf0412f.jpg)
+
+图：起泡酒。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：绿酒。

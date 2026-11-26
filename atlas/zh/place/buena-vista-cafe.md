@@ -82,6 +82,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1916
 ---
+
 # 美景咖啡馆
 
 旧金山 Hyde 与 Beach 街角有一间看起来并不“网红”的酒吧：白色外墙、深色窗框、门口一块不大的招牌，里面却常常坐满人，吧台上排着一列六盎司玻璃杯，侍者把奶油从杯沿慢慢倒下去。这里是美景咖啡馆（Buena Vista Café）。它的名气几乎完全绑定在一个饮品——爱尔兰咖啡（Irish Coffee）；但它的故事并不只是“发明了一种咖啡”，而是战后旧金山港口、报纸专栏与缆车终点共同造就的一段城市日常。
@@ -133,3 +134,9 @@ founded_year: 1916
 最后核对：2765 Hyde Street 的地址、缆车沿线位置与营业安排按官网查于 2026-11-21；爱尔兰咖啡的版本与“发明”说法已在正文加限定。本页是“喝酒去”的旧金山咖啡馆条目，中文与英文版同步；文字许可见上方 rights 字段，图片署名与许可见各图注。
 
 对照阅读：[爱尔兰咖啡](ref:irish-coffee)、[维苏威咖啡馆](ref:vesuvio)。
+
+## 相关图像
+
+![旧金山 North Beach 的 Vesuvio Café 立面与招牌；酒吧 1948 年由 Henri Lenoir 开办，与 City Lights 书店隔 Jack Kerouac Alley 相望，照片为 2023 年街景](/media/photos/place-vesuvio-cafe-1be238eb.jpg)
+
+图：旧金山 North Beach 的 Vesuvio Café 立面与招牌；酒吧 1948 年由 Henri Lenoir 开办，与 City Lights 书店隔 Jack Kerouac Alley 相望，照片为 2023 年街景。图片：The wub，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vesuvio_Cafe,_San_Francisco_2023-07-20.jpg)）。关联图像：美景咖啡馆。

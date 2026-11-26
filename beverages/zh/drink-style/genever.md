@@ -77,6 +77,7 @@ rights:
   note: 第三方标准、商标、图片与引用文本不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 荷兰杜松子酒
 
 荷兰杜松子酒（genever，荷兰语 jenever）是以谷物为基底、以杜松子为核心香料的烈酒，主要产于荷兰、比利时以及法国北部的北部省和加来海峡省。它与英式[金酒](ref:gin)共享杜松子，却在原料结构上走出另一条路：传统 genever 使用麦芽酒，也就是把黑麦、玉米、小麦或大麦糖化发酵后蒸馏得到的酒液，再与中性谷物酒精和杜松子等植物调配。这个“麦芽酒底”是理解它的钥匙。
@@ -136,3 +137,9 @@ Genièvre/Jenever/Genever 在 2008 年获得欧盟地理标志保护，保护范
 **适用边界。** 对「荷兰杜松子酒」而言，法定定义、原料比例与地域风格会随法规和行业分类更新；品牌案例不等于整个风格。
 
 **更新提示。** 「荷兰杜松子酒」最近核对于 2026-11-21；价格、状态与公开信息会变，引用前以本页来源的最新版本为准。
+
+## 相关图像
+
+![伦敦干金](/media/photos/drink-style-london-dry-gin-abe0a9c8.jpg)
+
+图：伦敦干金。图片：Decatur Wine & Spirits，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:DecaturGins.jpg)）。关联图像：荷兰杜松子酒。

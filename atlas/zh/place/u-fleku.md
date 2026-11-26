@@ -78,6 +78,7 @@ city: 布拉格
 verification_scope: source-verified
 founded_year: 1499
 ---
+
 # 弗勒克啤酒屋
 
 ![弗勒克啤酒屋 图像](/media/photos/place-u-fleku-1192f412.jpg)
@@ -143,3 +144,9 @@ founded_year: 1499
 对照阅读：[啤酒](ref:beer)、[认识一座城，从一间酒馆开始](ref:pub-and-city)。
 
 相关条目：[拉格啤酒](ref:lager)。
+
+## 相关图像
+
+![À la Mort Subite 的室内：木镶板、镜子、长桌与布鲁塞尔老咖啡馆的拥挤气氛](/media/photos/place-a-la-mort-subite-0e08d4e8.jpg)
+
+图：À la Mort Subite 的室内：木镶板、镜子、长桌与布鲁塞尔老咖啡馆的拥挤气氛。图片：kishjar?，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_La_Mort_Subite.jpg)）。关联图像：弗勒克啤酒屋。

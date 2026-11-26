@@ -22,8 +22,8 @@ tags:
 translation_of: variety:nero-d-avola
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:871cc55afa1c0cbf00ad7008cc5b6611faf1e62eee3e95110e30e11ecfdd7220
-source_sha256: 871cc55afa1c0cbf00ad7008cc5b6611faf1e62eee3e95110e30e11ecfdd7220
+source_revision: sha256:896c61c68595add1300eef8a701c63835b8ab0aa6b82cae587037564b92011fd
+source_sha256: 896c61c68595add1300eef8a701c63835b8ab0aa6b82cae587037564b92011fd
 related:
   - relation: about
     target_id: region:sicily
@@ -151,4 +151,10 @@ The most direct comparison is to taste a Cerasuolo di Vittoria blend, a Noto sin
 
 - Related: [sicily](ref:sicily), [red-wine](ref:red), [terroir](ref:terroir), [oak-ageing](ref:oak), [vintage](ref:vintage).
 
-**In brief:** Sicily’s most important red grape, deep in colour with medium-high tannin, blackberry, black cherry, plum and spice; it performs differently around Noto, Vittoria and Etna and is often blended with Frappato. 
+**In brief:** Sicily’s most important red grape, deep in colour with medium-high tannin, blackberry, black cherry, plum and spice; it performs differently around Noto, Vittoria and Etna and is often blended with Frappato.
+
+## Related images
+
+![Sicily: Old Inzolia vine in vineyard Dietro le Case, Menfi, Sicily (Wikimedia Commons)](/media/photos/region-sicily-6e979fe1.jpg)
+
+Image: Sicily: Old Inzolia vine in vineyard Dietro le Case, Menfi, Sicily (Wikimedia Commons). Credit: Marilena.CantineBarbera, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Old_Inzolia_vine_in_vineyard_Dietro_le_Case,_Menfi,_Sicily.jpg)). Related image for Nero d’Avola.

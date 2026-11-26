@@ -60,6 +60,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 红葡萄酒
 
 红葡萄酒是用深色葡萄品种酿造的葡萄酒。它的颜色来自葡萄皮中的花青素，单宁来自果皮、种子和果梗。与白葡萄酒最大的区别，不是原料颜色本身，而是发酵时是否让酒液与果皮充分接触：红葡萄酒通常带皮发酵，在浸渍过程中同时提取颜色、单宁和香气。
@@ -129,3 +130,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「红葡萄酒」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（葡萄酒与特种葡萄酒的定义、最低酒精度与类别）、European Union（欧盟葡萄酒类别、地理标志与标签规则）、Oxford University Press（提供关于红葡萄酒酿造、单宁与产区的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「红葡萄酒」与「葡萄酒」、「拉菲古堡红葡萄酒」、「罗曼尼·康帝」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![罗曼尼·康帝](/media/photos/drink-france-romaneeconti-4a67bacc.jpg)
+
+图：罗曼尼·康帝。图片：Wikipedro，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vosne-Roman%C3%A9e,_le_Domaine_de_la_Roman%C3%A9e-Conti.jpg)）。关联图像：红葡萄酒。

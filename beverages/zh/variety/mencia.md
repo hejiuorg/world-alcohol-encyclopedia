@@ -92,6 +92,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；品种同义词、克隆与分类会更新，以 VIVC 与官方登记为准。"
 verification_scope: source-verified
 ---
+
 # 门西亚
 
 门西亚（Mencía）是伊比利亚半岛西北部的本土红葡萄，核心产区在西班牙西北部的 Bierzo 与 Galicia 的 Ribeira Sacra、Valdeorras、Monterrei。它香气芬芳、酸度明亮、单宁细致中等，带黑樱桃、覆盆子、紫罗兰、干草药与板岩矿物气息；二十世纪末从平淡的大宗混酿品种，复兴为欧洲最受关注的伊比利亚原生红品种之一（ref:bierzo）。
@@ -160,3 +161,9 @@ Galicia 一侧，Ribeira Sacra 的梯田沿 Sil、Miño 峡谷展开，Valdeorra
 | 一句话定位 | 西班牙西北部 Bierzo 与 Ribeira Sacra 的红葡萄，带黑樱桃、草药、香料与板岩矿物，酸度明亮、单宁细致中等；历史上曾被误认成品丽珠，市场上有时类比黑皮诺或佳美 |
 | 物种 | Vitis vinifera |
 | 代表产区 | 比埃尔索 |
+
+## 相关图像
+
+![比埃尔索](/media/photos/region-bierzo-de87f9ed.jpg)
+
+图：比埃尔索。图片：Fogar Mozárabe，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Arquitectura_tradicional_de_El_Bierzo.jpg)）。关联图像：门西亚。

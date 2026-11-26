@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:shaoxing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:38dd89e8c5bdde2389d90ff879b0e098328cd04afd72235cc3c87b032842ac60
-source_sha256: 38dd89e8c5bdde2389d90ff879b0e098328cd04afd72235cc3c87b032842ac60
+source_revision: sha256:dd072ed53d2dc45f3ee15bba082e15eb3201c4985aba8b4d35a296dc56720de0
+source_sha256: dd072ed53d2dc45f3ee15bba082e15eb3201c4985aba8b4d35a296dc56720de0
 level: city
 parent_id: region:china
 country_code: CN
@@ -91,6 +91,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Shaoxing
 
 Shaoxing is in northern Zhejiang, on the south shore of Hangzhou Bay at the northern foot of the Kuaiji Mountains, and is one of the most concentrated huangjiu regions in [China](ref:china). Shaoxing wine combines glutinous rice, wheat qu and Jian Lake water, and forms its style through the tanfan method, open-mash stirring and jar ageing. The general definition and classification of [huangjiu](ref:yellow-wine) are covered on the style page; this region focuses on the raw materials, process and product structure of the Shaoxing region.
@@ -169,3 +170,13 @@ An administrative place name is not a safe shorthand for Shaoxing. Check what it
 - [Huijishan](ref:huijishan): another representative Shaoxing huangjiu product page.
 - [GB/T 13662-2018 Huangjiu](ref:gbt-13662-2018): the general huangjiu product standard.
 - [China](ref:china): the national regional background.
+
+## Related images
+
+![Qu making](/media/photos/process-qu-making-ff7ff7ce.jpg)
+
+Image: Qu making. Credit: Uranassbandit, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hongqu_3.jpg)). Related image for Shaoxing.
+
+![Thematic illustration for GB/T 13662-2018 Huangjiu](/media/photos/theme-asian.jpg)
+
+Image: Thematic illustration for GB/T 13662-2018 Huangjiu. Project-made bilingual editorial figure, not an on-site photograph. Related image for Shaoxing.

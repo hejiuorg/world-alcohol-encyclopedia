@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:melomel
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d260024eb2afd3af839545b2668f3ee61b2d8e4da0f1c5a0607e3ade07c1a8e2
-source_sha256: d260024eb2afd3af839545b2668f3ee61b2d8e4da0f1c5a0607e3ade07c1a8e2
+source_revision: sha256:0241a82df51687a1ed98f398122eb4fa9f9f02ee83570bb57c7c4f1bba26b537
+source_sha256: 0241a82df51687a1ed98f398122eb4fa9f9f02ee83570bb57c7c4f1bba26b537
 related:
   - relation: about
     target_id: drink-style:honey-wine
@@ -151,3 +151,11 @@ Common misreadings: assuming all mead is sweet—dry and hydromel examples exist
 - To map the category, start with one cyser and one berry mead, compare fruit acid, tannin and honey sweetness, then try a pyment or stone-fruit version.
 
 **In brief:** Mead made with fruit or fruit juice, generally called melomel; fruit adds acidity, aroma and colour, with styles from dry to sweet and light to high-alcohol.
+
+## Related images
+
+![Honey Wine](/media/photos/drink-style-honey-wine-de8f53ea.jpg)
+
+Image: Honey Wine. Credit: Evan-Amos, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Honey-Fruit-Mead-Brewing.jpg)). Related image for Melomel.
+
+A 2025 cherry photograph is used as the fruit reference for cherry melomel.

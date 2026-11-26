@@ -11,8 +11,8 @@ revision: 2
 translation_of: variety:barbera
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9c0a7feb4fa6b7a7e2978023688644612ba7db0b0afa59f23b2c9287321272ed
-source_sha256: 9c0a7feb4fa6b7a7e2978023688644612ba7db0b0afa59f23b2c9287321272ed
+source_revision: sha256:aad86d89e4d628c6e6c33eec692d0f6ddbdf41adb4c9b63fafd6065490a02f25
+source_sha256: aad86d89e4d628c6e6c33eec692d0f6ddbdf41adb4c9b63fafd6065490a02f25
 legacy_refs: []
 species: Vitis vinifera
 aliases:
@@ -73,6 +73,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Barbera
 
 Barbera is one of Piedmont's most important red grapes. Its profile is clear: deep colour, high acidity and medium tannin, giving structure without astringency. In Piedmont it often appears alongside Nebbiolo, Barbera supplying everyday fruit and acidity, Nebbiolo stronger tannin and ageing potential. It is also one of the few red grapes that keeps acidity in hot years, which has brought it renewed attention under climate change.![Barbera image](/media/photos/variety-barbera-e133d946.jpg)
@@ -142,3 +143,9 @@ First, that Barbera is only an everyday wine; good single vineyards can age. Sec
 - [Piedmont](ref:piedmont): the core region for Barbera.
 - [Italy](ref:italy): the regional and legal framework of Italian wine.
 - [Nebbiolo](ref:nebbiolo): the variety often contrasted with Barbera.
+
+## Related images
+
+![Photograph for Piedmont: Piedmont vineyard in autumn. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-region-piedmont-86c6d640.jpg)
+
+Image: Piedmont vineyard in autumn. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Giorgio Montersino, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=5816942)). Related image for Barbera.

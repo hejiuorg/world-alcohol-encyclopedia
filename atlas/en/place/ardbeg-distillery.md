@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:ardbeg-distillery
 source_lang: zh
-source_revision: sha256:59328713cbfa8c7ca7a9b658401fa96e8a10013faa210c6dfcc36fa30bfe6f32
-source_sha256: 59328713cbfa8c7ca7a9b658401fa96e8a10013faa210c6dfcc36fa30bfe6f32
+source_revision: sha256:4f098fb4cfa777d1961d02ea2d284dd8ef9509c7f2ce102dfdf1bffb4ceac362
+source_sha256: 4f098fb4cfa777d1961d02ea2d284dd8ef9509c7f2ce102dfdf1bffb4ceac362
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -175,3 +175,9 @@ For a one-day visit, leave Kennacraig or Glasgow in the morning, reach Port Elle
 - [Whisky](ref:whisky): the basics from raw material to maturation.
 - [Place and process](ref:place-and-process): terroir, distillation and ageing.
 - [LVMH](ref:lvmh): the corporate group behind Ardbeg.
+
+## Related images
+
+![Category image for Islay](/media/photos/q2-place-scotch-whisky-experience-fa14dbdc.jpg)
+
+Image: Category image for Islay. Credit: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=98613535)). Related image for Ardbeg Distillery.

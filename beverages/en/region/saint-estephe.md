@@ -24,8 +24,8 @@ tags:
 translation_of: region:saint-estephe
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e4e65209531a1129e8142dce2505dc63d99cf887d21a5fb3e934d1fe8bbfa085
-source_sha256: e4e65209531a1129e8142dce2505dc63d99cf887d21a5fb3e934d1fe8bbfa085
+source_revision: sha256:91fe31bafa88eeba78b50036ac7863aae062ec5d49290336db266eecdd20558c
+source_sha256: 91fe31bafa88eeba78b50036ac7863aae062ec5d49290336db266eecdd20558c
 related:
   - relation: about
     target_id: region:bordeaux
@@ -80,6 +80,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; appellation rules, classifications and boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Saint-Estèphe
 
 The northernmost communal AOC in the Médoc, known for clay-and-gravel soils, a higher share of Merlot and firmer tannin; the 1855 second growths Cos d’Estournel and Montrose and the third growth Calon-Ségur are its landmarks.
@@ -164,3 +165,13 @@ Saint-Estèphe is about an hour north of Bordeaux, with estates spread around th
 | Level | other |
 | Parent | Bordeaux |
 | Country code | FR |
+
+## Related images
+
+![Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.](/media/photos/editorial-oak-ageing-q2.jpg)
+
+Image: Editorial illustration of oak ageing: the toasted barrel staves, wine and a sampling tube; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Saint-Estèphe.
+
+![Merlot](/media/photos/variety-merlot-2a33ecba.jpg)
+
+Image: Merlot. Credit: Felloni claire, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Merlot.jpg)). Related image for Saint-Estèphe.

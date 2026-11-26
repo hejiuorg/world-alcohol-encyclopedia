@@ -31,8 +31,8 @@ tags:
 translation_of: place:napoleon-house-new-orleans
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9f8526745b9e7e863521476b1853e45dacfbcc840677c4f9dba71ca438cd7666
-source_sha256: 9f8526745b9e7e863521476b1853e45dacfbcc840677c4f9dba71ca438cd7666
+source_revision: sha256:b4fb206b2c17971393f4dfd80a309ec8d8d7be3251e6f5201c48f172adbc566d
+source_sha256: b4fb206b2c17971393f4dfd80a309ec8d8d7be3251e6f5201c48f172adbc566d
 related:
   - relation: about
     target_id: culture-article:history-of-taverns
@@ -94,6 +94,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1797
 ---
+
 # Napoleon House
 
 At the corner of Chartres and St. Louis streets in the French Quarter, a three-storey building with grey-white stucco walls and a small cupola cuts the intersection at an angle. It is not remotely palace-like. It looks more like a Caribbean creole house that has been rubbed by damp, rain and time. The flag outside says "Napoleon House Since 1797," but the real story is more crooked: Napoleon never lived here, yet a plan to offer him refuge permanently renamed the building.![The corner exterior and cupola of Napoleon House](/media/photos/place-napoleon-house-new-orleans-6ffd3cd6.jpg)
@@ -139,3 +140,11 @@ From Napoleon House, Jackson Square and St. Louis Cathedral are two blocks south
 Read Napoleon House through the address, then the current opening status, and finally what the place is known for. The sequence matters.
 
 Checked on 2026-11-21 against the Napoleon House official page. The bar opens daily 11:00–22:00 and does not take reservations; queues lengthen during Carnival and Jazz Fest, so confirm before visiting. Construction in 1797, expansion in 1814 and family operation from 1914 are three separate timelines; Napoleon never came here, the refuge invitation is city legend, and Pimm's Cup recipes vary. The image shows the corner exterior and cupola, not the interior or menu.
+
+## Related images
+
+![The hanging sign of the Old Absinthe House at Bourbon and Bienville streets, lettered "Since 1807"; the building was begun in 1798 and completed in 1806, with its bar function developing after 1835.](/media/photos/place-old-absinthe-house-f9d36a04.jpg)
+
+Image: The hanging sign of the Old Absinthe House at Bourbon and Bienville streets, lettered "Since 1807"; the building was begun in 1798 and completed in 1806, with its bar function developing after 1835.. Credit: Tom Hilton, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Old_Absinthe_House,_New_Orleans,_August_2022.jpg)). Related image for Napoleon House.
+
+The Carousel Bar reference notes the bar installed in 1949 and the current carousel canopy added in 1992.

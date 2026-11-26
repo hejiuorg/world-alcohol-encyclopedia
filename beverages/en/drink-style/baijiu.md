@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: drink-style:baijiu
 source_lang: zh
-source_revision: sha256:05fa93c623701f057d2fbb84775c86351ca7f2ed30414c8c87a82ba4a8b74256
-source_sha256: 05fa93c623701f057d2fbb84775c86351ca7f2ed30414c8c87a82ba4a8b74256
+source_revision: sha256:17bf18946ecc2a430e76c843e308b87159359b57f182969c46bb9f7d64c40538
+source_sha256: 17bf18946ecc2a430e76c843e308b87159359b57f182969c46bb9f7d64c40538
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -36,6 +36,8 @@ references:
     target_id: drink:shanxi-fenjiu
   - key: wuliangye
     target_id: drink:sichuan-wuliangye
+  - key: strong
+    target_id: drink-style:strong-aroma-baijiu
 sources:
   - key: gbt-15109
     title: National Standards Full Text Public System — GB/T 15109-2021 Terminology of baijiu industry
@@ -71,6 +73,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are not covered by this licence. Archive facts and business claims still require independent checking.
 verification_scope: source-verified
 ---
+
 # Baijiu
 
 Baijiu is a category of traditional Chinese distilled spirit. Under GB/T 15109-2021, Terminology of baijiu industry, it is generally made from grains as the main raw material, using daqu, xiaoqu, fuqu, yeast cultures or similar agents for saccharification and fermentation, followed by cooking, saccharification, fermentation, distillation, ageing and blending. This definition identifies the drink at the level of process and category, not the quality grade of a particular bottle.
@@ -124,6 +127,41 @@ Common misconceptions include treating aroma family as a quality ranking, treati
 **In brief:** A traditional Chinese distilled spirit made mainly from grains, saccharified and fermented with qu or yeast cultures, then distilled, aged and blended; aroma family is a common lens, not the only one.
 
 Start with the production rule. From there, consider the strength, then the usual serving. That is how a practical judgment about Baijiu is built.
+
+
+## Decision table: aroma, strength and occasion
+
+| Aroma family | Typical aromas | Texture | Common strength | Best for |
+| --- | --- | --- | --- | --- |
+| Sauce aroma | soy sauce, toasted grain, lingering empty cup | thick, long finish | often 52–53% | business dinners, slow drinking |
+| Strong aroma | cellar, grain, sweet | mellow, clean finish | often 38–52% | family banquets, gifting |
+| Light aroma | clean grain, gentle | crisp, light | often 42–53% | light dishes, beginners |
+| Rice aroma | rice, honey | soft, short | often 38–52% | southern gatherings, gentle palates |
+
+Strength is label information, not a quality grade; the same aroma family can have high- and low-strength products. Choose the occasion and food first, then a complete label from a clear channel within budget.
+
+## Related images
+
+![Moutai](/media/photos/drink-guizhou-moutai-d01115d5.jpg)
+
+Image: Moutai. Credit: 毕明明, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Kweichow_Moutai_2023_Part_1.jpg)). Related image for Baijiu.
+
+## Frequently asked questions
+
+### How do I choose an aroma family?
+
+Start with food and occasion, not brand. Rich braises, roasts and grilled meat suit sauce or strong aroma; steamed, blanched and cold dishes suit light or rice aroma. If unsure, buy a small bottle or taste at a shop rather than stocking a case.
+
+### Which strength is better?
+
+High-strength baijiu has more aroma and body but also more burn; low-strength is softer but can taste watery and short. Around 50% is common for many traditional products, but suitability depends on aroma, process and your tolerance. The label is the final reference.
+
+### Why does one brand vary so much in price?
+
+A brand can have several product lines, batches, strengths and channel policies. Check the execution standard, raw materials, producer, volume and invoice rather than claims such as “internal supply” or “special edition”; avoid cheap bottles with no traceable source.
+
+> **Next:** Read [strong-aroma baijiu](ref:strong) for the most common family, compare the product stories of [Moutai](ref:moutai) and [Wuliangye](ref:wuliangye), then use [Fenjiu](ref:fenjiu) to understand the light-aroma route.
+
 
 ## Further reading
 

@@ -70,6 +70,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 绿维特利纳
 
 绿维特利纳（Grüner Veltliner）是奥地利最具代表性的白葡萄品种，在瓦豪、克雷姆斯谷、坎普谷与韦恩维尔特都有广泛种植。它的辨识度来自酸度与香气：柑橘、青豌豆、白胡椒与矿物感，年轻时清爽，成熟后可以变得饱满而有层次。它也是少数能以“白胡椒”作为品种标志的白葡萄，这一香气来自一种名为 rotundone 的化合物。
@@ -139,3 +140,9 @@ DNA 研究显示，绿维特利纳是特拉明（Traminer/Savagnin）与奥地�
 | 代表产区 | 施泰尔马克、瓦豪 |
 
 **来源与边界。** 本页关于「绿维特利纳」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（品种描述与 Vitis 物种框架）、Oxford University Press（提供关于绿维特利纳、瓦豪与奥地利白葡萄酒的条目；由原条目末尾参考资料迁移，未逐条复核访问日期）、Austrian Wine Marketing Board（绿维特利纳的种植面积、瓦豪分级与奥地利产区框架）等 5 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![瓦豪](/media/photos/region-wachau-3eeab471.jpg)
+
+图：瓦豪。图片：C.Stadler/Bwag，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wachau_(2).JPG)）。关联图像：绿维特利纳。

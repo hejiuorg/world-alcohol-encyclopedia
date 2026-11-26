@@ -84,9 +84,10 @@ founded_year: 1858
 translation_of: place:gerbeaud
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:228dc6baa7c487f81887cd756805cef7c37664a36640c0de7f45381cfb43583f
-source_sha256: 228dc6baa7c487f81887cd756805cef7c37664a36640c0de7f45381cfb43583f
+source_revision: sha256:fe9b007f598d4c3e3dfff23200b8cb8a31c8c55076e457c9d665331cb099e6ad
+source_sha256: fe9b007f598d4c3e3dfff23200b8cb8a31c8c55076e457c9d665331cb099e6ad
 ---
+
 # Gerbeaud
 
 On the north-west corner of Vörösmarty tér, Gerbeaud’s dark awning, gold lettering, and row of seats facing the square are almost a synonym for Budapest afternoon tea. In summer the terrace is full; in winter the windows fill with Christmas decorations. Inside, chandeliers, mirrors, marble counters, and a pastry display divide the space into a retail front and a café/restaurant rear. It does not overwhelm with a dome like New York Café; it uses the scale of an old patisserie to keep guests between cake and coffee.
@@ -149,3 +150,9 @@ Step out of Gerbeaud and you are on Vörösmarty tér with the Budapest Eye; nor
 Start with the address. From there, consider the current opening status, then what the place is known for. That is how a practical judgment about Gerbeaud is built.
 
 [New York Café](ref:newyork) and [Demel](ref:demel) are the nearest useful comparisons: one clarifies address and space, the other tests operating status.
+
+## Related images
+
+![The gilded main hall and ceiling of New York Café](/media/photos/place-new-york-cafe-eaf841d1.jpg)
+
+Image: The gilded main hall and ceiling of New York Café. Credit: Fred Romero from Paris, France, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Budapest_-_New_York-palota_(37595301645).jpg)). Related image for Gerbeaud.

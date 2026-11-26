@@ -71,6 +71,12 @@ sources:
     publisher: "www.eyrievineyards.com"
     note: 用于核对官方公开信息与页面入口；本轮登记官方 URL，未复制正文。
     accessed: 2026-11-21
+  - key: eyrie-fact-sheet
+    title: "The Eyrie Vineyards — General Fact Sheet"
+    url: "https://www.eyrievineyards.com/pdfs/download/Eyrie%20Vineyards%20General%20Fact%20Sheet.pdf"
+    publisher: "The Eyrie Vineyards"
+    note: "用于核对 1965 年建园、首任酿酒师与酒庄沿革；未复制原文。"
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -78,6 +84,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；开放时间、预约规则与价格会变化，出行前以官网为准。"
 verification_scope: source-verified
 ---
+
 # 艾瑞酒庄
 
 艾瑞是威拉米特谷现代黑皮诺的开端：1965 年，25 岁的 David Lett 带着 3,000 根葡萄插条来到俄勒冈，在 Dundee Hills 种下谷地第一批黑皮诺；1975 年的 Reserve 黑皮诺在巴黎与伯恩的盲品中击败多款勃艮第名庄，直接把俄勒冈送进世界黑皮诺地图。
@@ -151,3 +158,9 @@ Dundee Hills 的土壤是约 1,500 万年前火山熔岩形成的 Jory 与 Nekia
 - 相关条目：[willamette-valley](ref:willamette)、[usa](ref:usa)、[pinot-noir](ref:pinot)、[terroir](ref:organic)、[australia](ref:region)。
 - 本页不提供实时价格、品鉴费用或营业状态；参观前以酒庄官网与 Oregon Wine Board 为准。
 - 想理解自根老藤，可以在品鉴时问清酒款是否来自 1966–1974 年的 Original Vines，以及是否经过灌溉或补植。
+
+## 相关图像
+
+![风土（terroir）](/media/photos/term-terroir-c440d7e4.jpg)
+
+图：风土（terroir）。图片：Friedrich Petersdorff，CC BY-SA 2.0 de，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:080110_zell_mosel.JPG)）。关联图像：艾瑞酒庄。

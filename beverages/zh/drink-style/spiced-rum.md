@@ -80,6 +80,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 香料朗姆
 
 香料朗姆（spiced rum）是以朗姆酒为基底，加入香草、肉桂、丁香、肉豆蔻等香料，再以糖或焦糖调味调色的调味烈酒；风格从清淡辛香到甜厚香草感都有，常见酒精度 35–40%，是加勒比饮法与现代调酒中很常见的一类产品。
@@ -137,3 +138,9 @@ Captain Morgan 是全球销量最大的香料朗姆之一，Original Spiced Gold
 学习一类调味烈酒，可以先喝最标准的基准款，再试一个换香料或甜度的变体，最后接触一个高酒精度极端款；三步之后，风格边界会比读定义更清楚。
 
 - 相关条目：[rum](ref:rum)、[distillation](ref:distillation)、[liqueur](ref:liqueur)、[proof-and-abv](ref:proof)、[maceration](ref:maceration)。
+
+## 相关图像
+
+![四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格](/media/photos/drink-style-rum-825d5bd2.jpg)
+
+图：四方朗姆酒厂的橡木桶仓库，热带陈年与桶型共同塑造朗姆风格。图片：Unknown author Unknown author，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Foursquare_Rum_Distillery_Barrel_Warehouse.jpg)）。关联图像：香料朗姆。

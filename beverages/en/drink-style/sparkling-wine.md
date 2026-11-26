@@ -11,8 +11,8 @@ revision: 2
 parent_style_id: drink-style:wine
 translation_of: drink-style:sparkling-wine
 source_lang: zh
-source_revision: sha256:5bf2a2a36a69f83bea04129809eac0c732f9cfee3dcf934c46379b0dc4a85cb1
-source_sha256: 5bf2a2a36a69f83bea04129809eac0c732f9cfee3dcf934c46379b0dc4a85cb1
+source_revision: sha256:d4a20fbeb19d662eca04bb4ef83001c8959ec9a1744ec224ec5dcdb08ce45727
+source_sha256: d4a20fbeb19d662eca04bb4ef83001c8959ec9a1744ec224ec5dcdb08ce45727
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -69,6 +69,7 @@ rights:
   note: Third-party texts, trademarks and images are not covered by this licence.
 verification_scope: source-verified
 ---
+
 # Sparkling wine
 
 Sparkling wine is wine that contains carbon dioxide and keeps producing bubbles after the bottle is opened. The bubbles may come from fermentation or from added gas. Under the OIV definition, true sparkling wine derives its carbon dioxide entirely from fermentation (endogenous origin) and has an excess pressure in the bottle of at least 3.5 bar at 20 °C. This pressure threshold separates sparkling wine from still wine with only a slight prickle.
@@ -142,3 +143,9 @@ This style describes the category, process and labelling framework, not specific
 - [Dom Pérignon](ref:dom-perignon): a specific vintage Champagne.
 
 Further reading: [Champagne](ref:c-extra-1).
+
+## Related images
+
+![Champagne](/media/photos/region-champagne-acf0412f.jpg)
+
+Image: Champagne. Credit: bgvjpe, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)). Related image for Sparkling wine.

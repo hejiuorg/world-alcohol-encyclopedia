@@ -39,8 +39,8 @@ tags:
 translation_of: place:domaine-drouhin-oregon
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ac6045935afac6dd260e87f8ac36c9115aa5b76a611059f8e45f4180524c7ecb
-source_sha256: ac6045935afac6dd260e87f8ac36c9115aa5b76a611059f8e45f4180524c7ecb
+source_revision: sha256:100af41b2cd818eba19fddc1adc2b68230023df7b9594917a0e9a5f8f0c22f1d
+source_sha256: 100af41b2cd818eba19fddc1adc2b68230023df7b9594917a0e9a5f8f0c22f1d
 related:
   - relation: about
     target_id: region:willamette-valley
@@ -70,6 +70,18 @@ sources:
     publisher: Oregon Wine Board
     note: Used to verify the Willamette Valley region, Dundee Hills and variety background; no source text is reproduced.
     accessed: 2026-11-21
+  - key: drouhin-visit
+    title: "Domaine Drouhin Oregon — Visit"
+    url: "https://domainedrouhin.com/visit/"
+    publisher: "Domaine Drouhin Oregon"
+    note: "Used to check the estate address, tasting appointments and acreage; no text copied."
+    accessed: 2026-11-26
+  - key: oregon-wine-board
+    title: "Oregon Wine Board — Oregon wine regions"
+    url: "https://www.oregonwine.org/"
+    publisher: "Oregon Wine Board"
+    note: "Used to check Oregon wine regions and industry context; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -156,3 +168,9 @@ The best way to understand DDO is not to buy many vintages at once but to compar
 - Related entries: [willamette-valley](ref:willamette), [usa](ref:usa), [pinot-noir](ref:pinot), [red-wine](ref:red), [oak-ageing](ref:oak).
 - This entry does not provide live prices, menus, tasting fees or opening status; check the estate website and Oregon Wine Board before visiting.
 - To understand the gravity-flow winery, ask during a tour where fruit enters, where it ferments and where it is bottled, and which steps still require pumping.
+
+## Related images
+
+![Willamette Valley](/media/photos/region-willamette-valley-2f0dfd25.jpg)
+
+Image: Willamette Valley. Credit: Rvannatta ( talk · contribs ) Image edits: Peteforsyth ( talk · contribs ), CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wvatbethel1.jpg)). Related image for Domaine Drouhin Oregon.

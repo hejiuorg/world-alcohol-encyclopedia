@@ -77,6 +77,7 @@ rights:
   note: 本页配图为维基共享资源的 Daron Calvados XO 实拍照片，按 CC BY-SA 3.0 使用，具体见图片图注。图片仅作尺寸压缩，未作构图裁剪。第三方商标与引用文本不在本许可内。
 verification_scope: source-verified
 ---
+
 # 卡尔瓦多斯
 
 卡尔瓦多斯（calvados）是法国诺曼底以苹果酒、梨酒或两者混合蒸馏得到的[白兰地](ref:brandy)。它的边界很清楚：原料必须是诺曼底的果园水果，先发酵成含酒精的苹果酒，再蒸馏成烈酒。它既不是加强型的苹果酒，也不是任何地方都能生产的“苹果味白兰地”；只有在法国规定的产区、按 AOC 规则生产，才能在酒标上使用这个名字。
@@ -138,3 +139,9 @@ Pays d'Auge 的传统是壶式蒸馏器二次蒸馏：第一次得到低度原�
 | 香气家族 | 果香/花香/橡木 |
 
 **来源与边界。** 本页关于「卡尔瓦多斯」的关键事实，主要由以下来源交叉核对：Calvados France（三个 AOC 的名称、产区范围、原料与蒸馏方式）、INAO（法国原产地命名体系的官方框架）、European Union（果渣烈酒、水果烈酒与地理标志烈酒的定义边界）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![雅文邑](/media/photos/drink-style-armagnac-e5e16174.jpg)
+
+图：雅文邑。图片：Rama，CC BY-SA 2.0 fr，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Armagnac-img_0465.jpg)）。关联图像：卡尔瓦多斯。

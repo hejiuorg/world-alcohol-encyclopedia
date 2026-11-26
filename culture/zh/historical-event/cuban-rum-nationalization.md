@@ -81,6 +81,7 @@ rights:
   note: 第三方品牌页面、商标、标识与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 古巴朗姆国有化：从阿雷查巴拉家族到两个哈瓦那俱乐部
 
 哈瓦那俱乐部（Havana Club）是古巴朗姆酒最著名的品牌，也是国际酒业中持续时间最长的商标争端之一。它的故事有两套叙述：古巴政府与保乐力加一方强调革命后的国有化与全球成功；流亡的阿雷查巴拉家族与百加得一方强调财产被无偿没收、品牌被“冒用”。两套叙述都建立在同一组事件上——1934 年创牌、1959 年革命、1960 年国有化、1993 年合资、1997 年商标转让——但对这些事件的定性完全不同。
@@ -150,3 +151,9 @@ verification_scope: source-verified
 - [西班牙](ref:spain)：古巴殖民与甘蔗经济的起点。
 
 相关条目：[朗姆酒](ref:rum)、[莫吉托](ref:mojito)。
+
+## 相关图像
+
+![莫吉托](/media/photos/cocktail-mojito-95e6d248.jpg)
+
+图：莫吉托。图片：Ralf Roletschek，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0072.jpg)）。关联图像：古巴朗姆国有化：从阿雷查巴拉家族到两个哈瓦那俱乐部。

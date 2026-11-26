@@ -77,6 +77,7 @@ year_end: 1933
 calendar: 公历
 place_refs: []
 ---
+
 # 美国禁酒令：1920年至1933年的实验与废止
 
 美国禁酒令常被简化成“全国不许喝酒”。更准确的说法是：联邦宪法与法律在一段时期内禁止酒类的制造、销售与运输，但保留了若干例外，执行也远非全面有效。它从 1920 年持续到 1933 年，最后以一条专门废止前一条修正案的宪法修正案收场。这段历史既是酒类监管的案例，也是国家能力、市场与犯罪之间关系的案例。
@@ -170,3 +171,9 @@ place_refs: []
 - [杰克丹尼](ref:jackdaniels)：美国威士忌品牌与禁酒时期行业变迁。
 - [啤酒](ref:beer)：低度酒在禁酒令末期率先回到合法渠道。
 - [酒馆与城市](ref:pub-and-city)：酒吧、街区与城市生活的关系。
+
+## 相关图像
+
+![杰克丹尼老7号](/media/photos/drink-usa-jackdaniels-1ab6c621.jpg)
+
+图：杰克丹尼老7号。图片：Ben Jacobson ( Kranar Drogin )，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Jack_Daniel_Distillery_Lynchburg_TN_001.JPG)）。关联图像：美国禁酒令：1920年至1933年的实验与废止。

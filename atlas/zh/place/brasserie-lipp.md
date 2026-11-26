@@ -83,6 +83,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1880
 ---
+
 # 利普啤酒馆
 
 圣日耳曼大道走到 151 号，会看到一家外墙铺满彩釉瓷砖、门口挂着“BRASSERIE LIPP”老招牌的店。它不像花神那样把座位摆到人行道上，也不像高级餐厅那样需要门童；推门进去，先是一道老式旋转门，然后是深色木饰、镜面、皮革长椅与密密麻麻的桌子。中午和晚上，这里永远有人在吃饭、谈事、看人。它是一家啤酒馆，但更像圣日耳曼-德普雷的“政治与文学客厅”。
@@ -154,3 +155,9 @@ Lipp 的空间是“窄、深、密”。外立面是彩釉瓷砖与红色遮阳
 - 相关条目：[丁香园咖啡馆](ref:closerie)、[和平咖啡馆](ref:paix)、[圆顶咖啡馆](ref:coupole)、[圣日耳曼文学咖啡馆路线](ref:saint-germain)、[巴黎丽兹 Hemingway 酒吧](ref:hemingway)
 
 对照阅读：[丁香园咖啡馆](ref:closerie)、[圆顶咖啡馆](ref:coupole)。
+
+## 相关图像
+
+![La Closerie des Lilas 的绿色门面与招牌，171 boulevard du Montparnasse](/media/photos/place-la-closerie-des-lilas-73ad59b7.jpg)
+
+图：La Closerie des Lilas 的绿色门面与招牌，171 boulevard du Montparnasse。图片：Britchi Mirela，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:La_Closerie_des_Lilas,_Paris.jpg)）。关联图像：利普啤酒馆。

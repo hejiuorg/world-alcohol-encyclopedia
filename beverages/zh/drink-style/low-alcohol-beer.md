@@ -93,6 +93,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 无醇/低醇啤酒
 
 无醇/低醇啤酒是把酒精限制在很低水平，或在酿好之后再去除酒精的啤酒大类。法律阈值按国家各不相同，工艺上分成"控制发酵"与"事后脱醇"两条路线；风味从清淡谷物、甜麦芽到接近普通拉格都有，酒体常偏薄，残甜与酒花苦度的平衡是关键。
@@ -155,3 +156,9 @@ verification_scope: source-verified
 
 - 相关条目：[beer](ref:beer)、[fermentation](ref:fermentation)、[distillation](ref:distillation)、[barley](ref:barley)、[hop](ref:hop)。
 - 想建立品类边界，可以先喝一支脱醇拉格和一支工艺无醇 IPA，对比麦芽甜、酒花苦与酒体厚度的差别，再尝试一支停发酵或无发酵调配版本。
+
+## 相关图像
+
+![啤酒花](/media/photos/ingredient-hop-72c4eef7.jpg)
+
+图：啤酒花。图片：LuckyStarr，CC BY 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg)）。关联图像：无醇/低醇啤酒。

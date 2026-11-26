@@ -24,8 +24,8 @@ tags:
 translation_of: region:canada
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:58a6ca7cbd076a56cdf9935fd61b0bd149f480305864684ce494c8f8247415d7
-source_sha256: 58a6ca7cbd076a56cdf9935fd61b0bd149f480305864684ce494c8f8247415d7
+source_revision: sha256:a060b7a8fabab141a8016e378c8ac3bec3e29adb9a42525a4325fa6ee7a2d3f3
+source_sha256: a060b7a8fabab141a8016e378c8ac3bec3e29adb9a42525a4325fa6ee7a2d3f3
 related:
   - relation: about
     target_id: region:niagara
@@ -86,6 +86,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; spirit regulations, labels and regional boundaries can be revised, so check the official text.
 verification_scope: source-verified
 ---
+
 # Canada
 
 The national Canadian whisky category, made from corn, rye and barley, mashed, distilled and aged at least three years in wood; caramel and flavouring (other spirits or wine) are permitted, and the 9.09% figure is an age-claim and export-certificate threshold rather than a compositional cap; the style is usually soft and approachable.
@@ -166,3 +167,13 @@ Another practical split is softness versus sweetness: softness comes from body a
 
 - Related: [niagara](ref:niagara), [whisky](ref:whisky), [barley](ref:barley), [distillation](ref:distillation), [oak-ageing](ref:oak).
 - This region provides no map, prices or opening hours; confirm before travelling.
+
+## Related images
+
+![Niagara Peninsula: Wine Grapes in the Niagara Peninsula (Wikimedia Commons)](/media/photos/region-niagara-6b321c03.jpg)
+
+Image: Niagara Peninsula: Wine Grapes in the Niagara Peninsula (Wikimedia Commons). Credit: M Readey, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Wine_Grapes_in_the_Niagara_Peninsula.jpg)). Related image for Canada.
+
+![Barley](/media/photos/ingredient-barley-37a96001.jpg)
+
+Image: Barley. Credit: Cliff from Arlington, Virginia, USA, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)). Related image for Canada.

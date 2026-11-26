@@ -81,6 +81,7 @@ rights:
   note: 第三方法规文本、商标、图片与引用文本不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 黑麦威士忌
 
 黑麦威士忌（rye whiskey）是以黑麦为主要谷物的威士忌。在美国，它有一套可核查的联邦门槛：发酵醪中黑麦不少于 51%，蒸馏酒精度不高于 160 proof（80% ABV），入桶不高于 125 proof（62.5% ABV），使用新烧焦橡木桶，装瓶不低于 80 proof（40% ABV）。在加拿大，“rye”又是另一套故事：它常常只是 Canadian Whisky 的同义词，并不保证瓶中有多少黑麦。
@@ -147,3 +148,9 @@ verification_scope: source-verified
 | 上位风格 | 威士忌 |
 
 **来源与边界。** 本页关于「黑麦威士忌」的关键事实，主要由以下来源交叉核对：U.S. Government Publishing Office（rye whisky、straight rye whisky 的谷物比例、蒸馏与入桶上限、桶型与陈年规则）、Alcohol and Tobacco Tax and Trade Bureau（美国烈酒类别名称与标签管理的官方框架）、Canadian Food Inspection Agency（Canadian Whisky、Canadian Rye Whisky 与 Rye Whisky 的共同标准、陈年与酒精度要求）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
+
+## 相关图像
+
+![一杯曼哈顿，深琥珀色酒液盛于碟形杯，杯口横放酒签与一颗酒渍樱桃。](/media/photos/cocktail-manhattan-648a58c7.jpg)
+
+图：一杯曼哈顿，深琥珀色酒液盛于碟形杯，杯口横放酒签与一颗酒渍樱桃。。图片：naotakem，CC BY 2.0，via Wikimedia Commons（[原图页面](https://www.flickr.com/photo.gne?id=6992048786)）。关联图像：黑麦威士忌。

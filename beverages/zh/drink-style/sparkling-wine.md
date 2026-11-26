@@ -65,6 +65,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。
 verification_scope: source-verified
 ---
+
 # 起泡酒
 
 起泡酒是含有二氧化碳、开瓶后产生持续气泡的葡萄酒。气泡可以来自发酵，也可以来自人工充气；按 OIV 的定义，真正的起泡酒，其二氧化碳应完全来自发酵（内源），并在 20°C 时瓶内过剩压力至少达到 3.5 bar。这个压力阈值把“起泡酒”和仅有一点微气泡的静止酒区分开来。
@@ -133,3 +134,9 @@ OIV 对起泡酒的甜度给出了可核查的阈值。以 Brut 为例，残糖�
 **来源与边界。** 本页关于「起泡酒」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（起泡酒的压力阈值、二氧化碳来源与甜度等级）、Comité Interprofessionnel du vin de Champagne（香槟产区、法定工艺与标签框架）、European Union（欧盟起泡酒类别与地理标志规则）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「起泡酒」与「葡萄酒」、「唐·培里侬香槟」、「香槟」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![香槟](/media/photos/region-champagne-acf0412f.jpg)
+
+图：香槟。图片：bgvjpe，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg)）。关联图像：起泡酒。

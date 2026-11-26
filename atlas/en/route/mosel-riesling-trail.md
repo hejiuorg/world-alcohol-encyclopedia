@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:mosel-riesling-trail
 source_lang: zh
-source_revision: sha256:89f6b4a8520f183b0a16619b6861fdf48ea8e20624076b596d788882a6ba0971
-source_sha256: 89f6b4a8520f183b0a16619b6861fdf48ea8e20624076b596d788882a6ba0971
+source_revision: sha256:ac003d0c340e99a41f80b3d5f330505c3e3d97666a6d314c6f130bc0df906e13
+source_sha256: ac003d0c340e99a41f80b3d5f330505c3e3d97666a6d314c6f130bc0df906e13
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -84,6 +84,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-09
 ---
+
 # Mosel Riesling trail: two steep-slope estates on the Mittelmosel and Saar
 
 The Mosel's wine map follows the river, and what shapes a route is not the administrative district but the aspect, the slate and the bend. This two-stop drive links Bernkastel-Kues on the Mittelmosel with Wiltingen in the upper Saar valley: the first shows how a slate-slope estate puts parcels on the label, the second how a family estate held since 1797 turns one hill into one name. Both stops are built on [Riesling](ref:riesling) and both combine [oak](ref:oak-ageing) with stainless steel, yet they give two different answers to the question of steepness.
@@ -137,3 +138,13 @@ Before tasting, ask four things: whether there is a fee, whether the cellar is i
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-09. Loosen in Bernkastel-Kues to Egon Müller in Wiltingen, the two stops follow the Mosel and Saar valleys.
 
 [Dr. Loosen](ref:dr-loosen) explains stop order; [Mosel](ref:mosel) adds transport. Put Mosel Riesling trail between them before deciding what it is.
+
+## Related images
+
+![Dr. Loosen](/media/photos/place-dr-loosen-b7cab628.jpg)
+
+Image: Dr. Loosen. Credit: Weingut Dr Loosen, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ernst_Loosen.jpg)). Related image for Mosel Riesling trail: two steep-slope estates on the Mittelmosel and Saar.
+
+![Egon Müller](/media/photos/place-egon-muller-1c0adf7b.jpg)
+
+Image: Egon Müller. Credit: KarleHorn, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Egon_Mueller_2018.jpg)). Related image for Mosel Riesling trail: two steep-slope estates on the Mittelmosel and Saar.

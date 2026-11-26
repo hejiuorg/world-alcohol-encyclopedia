@@ -96,6 +96,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参访时段、品鉴安排与酒款会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 恩里克斯与恩里克斯酒庄
 
 恩里克斯与恩里克斯（Henriques & Henriques，常简称 H&H）在丰沙尔以西的卡马拉-德洛布什（Câmara de Lobos），地址是自治大道 10 号（Avenida da Autónoma 10）。不少旅游资料把它写成“丰沙尔酒庄”，实际酒窖在隔壁市镇，从丰沙尔开车约十五到二十分钟。它没有布兰迪那样的市中心博物馆动线，而是一座仍在运转的陈年、装瓶与销售酒窖：参观短、信息密，品鉴从三年期基础款开始，适合已经喝过几款马德拉酒、想弄明白价格差异从哪来的人。
@@ -141,3 +142,9 @@ H&H 官方称自己是岛上唯一拥有自有葡萄园的马德拉酒公司，�
 行程上可以上午去[布兰迪](ref:blandy)，下午开车到卡马拉-德洛布什，顺路看 Cabo Girão 海崖；也可以反过来，先喝 H&H 的基础款，再去布兰迪看博物馆，理解会更立体。买酒时注意航空液体限制，老年份可以请店家安排运输。想补背景，可读[马德拉](ref:madeira)产区、[马德拉酒](ref:madeirawine)与[加强酒](ref:fortified)条目，再延伸到[残糖](ref:sugar)与[发酵](ref:fermentation)，就能把“为什么同一串葡萄能做出一排不同甜度的酒”串起来。
 
 对照阅读：[布兰迪葡萄酒庄](ref:blandy)、[马德拉](ref:madeirawine)。
+
+## 相关图像
+
+![布兰迪葡萄酒庄相关实景照片](/media/photos/place-blandys-wine-lodge-f07dd2e8.jpg)
+
+图：布兰迪葡萄酒庄相关实景照片。图片：H. Zell，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Blandy%27s_Wine_Lodge_-_Funchal_03.jpg)）。关联图像：恩里克斯与恩里克斯酒庄。

@@ -32,8 +32,8 @@ tags:
 translation_of: place:al-bicerin-torino
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:fd61e05014da44f00ef7ebd045ad51dc1f801e664b2a9ce6014d36549f2fea6c
-source_sha256: fd61e05014da44f00ef7ebd045ad51dc1f801e664b2a9ce6014d36549f2fea6c
+source_revision: sha256:2b07894d63c2b9b992c63bd5432a82772e005da5515ec4d06f65c954db9d7222
+source_sha256: 2b07894d63c2b9b992c63bd5432a82772e005da5515ec4d06f65c954db9d7222
 related:
   - relation: about
     target_id: place:caffe-san-carlo-torino
@@ -83,6 +83,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1763
 ---
+
 # Al Bicerin
 
 In a corner of Piazza della Consolata, away from the grand arcades of central Turin, a small café has been serving a hot, layered drink for more than two centuries. The shop is narrow, the counter is wooden, the tables are small, and the clientele includes people who have been coming for decades alongside visitors who have read about the drink in a guidebook. Al Bicerin is not a large café and does not try to be one. Its identity is the bicerin, a drink of coffee, drinking chocolate and cream that is served in a glass and drunk without stirring.![The storefront of Al Bicerin on Piazza della Consolata in Turin](/media/photos/place-al-bicerin-torino-2408309e.jpg)
@@ -140,3 +141,9 @@ Read [Caffè San Carlo](ref:san-carlo) for the address and space side of Al Bice
 **At a glance:** A café on Piazza della Consolata in Turin since 1763, Al Bicerin is the best-known home of the bicerin, a layered drink of coffee, chocolate and cream; the café is small, old-fashioned and still run as a daily neighborhood business.
 
 Checked on 2026-11-21: the address at Piazza della Consolata 5 and the Wednesday closure were confirmed on the café's official site. The layered bicerin and the claims that the café is the oldest or the inventor are qualified in the body. This is the Turin café entry in the Hejiu atlas; the Chinese and English versions are aligned, and image credits and licences are given in the captions.
+
+## Related images
+
+![Caffè San Carlo on Piazza San Carlo in Turin; the café opened in 1822 as Caffè di Piazza d'Armi, was remodelled by Giuseppe Leoni after 1837 and acquired its present neoclassical decoration, so this photograph shows the later building rather than its 1822 state](/media/photos/place-caffe-san-carlo-torino-e529cc33.jpg)
+
+Image: Caffè San Carlo on Piazza San Carlo in Turin; the café opened in 1822 as Caffè di Piazza d'Armi, was remodelled by Giuseppe Leoni after 1837 and acquired its present neoclassical decoration, so this photograph shows the later building rather than its 1822 state. Credit: K.Weise, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Caff%C3%A9SanCarloTo1.jpg)). Related image for Al Bicerin.

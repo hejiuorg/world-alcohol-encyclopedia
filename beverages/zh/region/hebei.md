@@ -112,6 +112,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 河北
 
 中国北方葡萄酒产区，核心包括怀来（沙城）与昌黎；气候冷凉干燥、昼夜温差大，以赤霞珠、霞多丽与长城等品牌著称，是中国现代葡萄酒工业最早成形的地区之一。
@@ -187,3 +188,13 @@ verification_scope: source-verified
 采收在北半球秋季 9 至 10 月，酒庄最忙；多数精品酒庄品鉴需提前预约，大厂酒窖与展厅开放时间相对固定。参观时不进入作业车间与地块，品鉴后不驾车；山地与坡地园区步道不一定无障碍，带长辈先电话确认。
 
 - 相关条目：[china](ref:china)、[cabernet-sauvignon](ref:cabernet)、[chardonnay](ref:chardonnay)、[red-wine](ref:red)、[white-wine](ref:white)。
+
+## 相关图像
+
+![中国类别配图](/media/photos/book-history-of-chinese-alcohol-book-d7d68be3.jpg)
+
+图：中国类别配图。图片：Gary Todd，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Shang_Bronze_Gu,_Jue,_%26_Jia_Wine_Vessels.jpg)）。关联图像：河北。
+
+![“赤霞珠”页面配图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。](/media/photos/q2-variety-cabernet-sauvignon-9a9d8323.jpg)
+
+图：Cabernet Sauvignon grapes from Château Cos D'Estournel。摄影：Megan Mallen，CC BY 2.0，来自 Wikimedia Commons。。图片：Megan Mallen，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=13318021)）。关联图像：河北。

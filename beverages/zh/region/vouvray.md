@@ -95,6 +95,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；产区法规、分级与边界会修订，以官方文本为准。"
 verification_scope: source-verified
 ---
+
 # 武弗雷
 
 武弗雷是卢瓦尔河谷图尔以东、卢瓦尔河右岸的白葡萄酒产区，1936 年获 AOC；法定品种以白诗南（当地称 Pineau de la Loire）为主，同一片葡萄园可酿成干型、半干、甜型、贵腐甜型与起泡酒。图弗石灰岩台地、凉爽湿润的秋季与连片洞穴酒窖，使这里成为观察白诗南多面性最集中的产地。
@@ -175,3 +176,13 @@ Clos Naudin（Philippe Foreau）以严谨的白诗南与甜酒著称；François
 - 相关条目：[loire](ref:loire)、[chenin-blanc](ref:chenin)、[sparkling-wine](ref:sparkling)、[white-wine](ref:white)、[terroir](ref:terroir)。
 
 相关条目：[卢瓦尔河谷](ref:loire)、[白诗南](ref:chenin)、[起泡酒](ref:sparkling)。
+
+## 相关图像
+
+![卢瓦尔河谷](/media/photos/region-loire-d93c2c1f.jpg)
+
+图：卢瓦尔河谷。图片：Wikimedia Commons contributor，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Azay_le_rideau.jpg)）。关联图像：武弗雷。
+
+![白诗南](/media/photos/variety-chenin-blanc-8a15f9a2.jpg)
+
+图：白诗南。图片：Benjamin Smith，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg)）。关联图像：武弗雷。

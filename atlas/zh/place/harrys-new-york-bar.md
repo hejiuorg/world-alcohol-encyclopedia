@@ -85,6 +85,7 @@ rights:
 city: 巴黎
 verification_scope: source-verified
 ---
+
 # 哈利纽约酒吧
 
 ![哈利纽约酒吧 图像](/media/photos/place-harrys-new-york-bar-042b838e.jpg)
@@ -132,3 +133,9 @@ MacElhone 是苏格兰人，先在伦敦与巴黎的酒吧工作，一战后回�
 补充阅读：[A Ginjinha](ref:c-extra-1)。
 
 相关条目：[威士忌](ref:whisky)、[走出酒馆：把一杯酒追到产地](ref:beyond-the-pub)、[法国](ref:france)。
+
+## 相关图像
+
+![威士忌](/media/photos/drink-style-whisky-d84866a3.jpg)
+
+图：威士忌。图片：Guinnog，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Whiskyhogmanay2010.jpg)）。关联图像：哈利纽约酒吧。

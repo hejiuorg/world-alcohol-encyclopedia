@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:scottish-ale
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b29ddf3f330e02a440f78638d45731525443c46b82786524a8cf416e7abe698c
-source_sha256: b29ddf3f330e02a440f78638d45731525443c46b82786524a8cf416e7abe698c
+source_revision: sha256:37f78910fcd63928a937a103b80e2d14a706cb1ae71719569bcc7b29de09b8af
+source_sha256: 37f78910fcd63928a937a103b80e2d14a706cb1ae71719569bcc7b29de09b8af
 related:
   - relation: about
     target_id: drink-style:english-ale
@@ -90,6 +90,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Scottish Ale
 
 Scottish ale is the umbrella for Scotland's traditional top-fermented beers, malt-led with low hop bitterness and caramel, toast, toffee and dried-fruit notes. Strength runs the gradient from the light 60/- to the heavy Wee Heavy, and the family sits within the British Isles ale tradition alongside English ale (ref:english-ale).![Scottish Ale](/media/photos/drink-style-scottish-ale-0ec81e49.jpg)
@@ -145,3 +146,9 @@ To approach Scottish ale, start with a standard-strength 70/- or 80/- to learn t
 - Related: [english-ale](ref:english-ale), [beer](ref:beer), [barley](ref:barley), [peat](ref:peat), [scotland](ref:scotland).
 
 For Scottish Ale, begin with the production rule. Then look at the strength, and finally ask the usual serving. The answers point to different choices, not to a single score.
+
+## Related images
+
+![Peat](/media/photos/term-peat-36a70265.jpg)
+
+Image: Peat. Credit: David Stanley from Nanaimo, Canada, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Peat_(49302157252).jpg)). Related image for Scottish Ale.

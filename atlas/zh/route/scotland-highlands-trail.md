@@ -81,6 +81,7 @@ stop_ids:
 mode: car
 updated_at: 2026-11-08
 ---
+
 # 苏格兰高地路线：沿 A9 从泰恩到德拉莫赫特山口
 
 “高地”是苏格兰五个法定产区中面积最大的一个，从北海边一直铺到中部山地。面积大意味着内部差异大：同样是高地，海边的酒厂与山口上的酒厂可以给出完全不同的酒体。这条路线只取两家：多诺赫湾边的格兰杰与德拉莫赫特山口南侧的达尔维尼。两站沿 A9 相距约两小时车程，一端是海风与长颈蒸馏器，一端是海拔、虫管与冷气候。
@@ -151,3 +152,13 @@ Classic Distillery Tour 约 45 分钟，走完糖化、发酵、蒸馏与 Dunnag
 对照阅读：[格兰杰酒厂](ref:glenmorangie)、[高地](ref:c-extra-1)。
 
 A9 路线跨度大，酒厂参观与山口天气都要留余量；以各酒厂官网确认场次，自驾前查路况与天气。核验于 2026-11-08。
+
+## 相关图像
+
+![单一麦芽苏格兰威士忌](/media/photos/drink-style-single-malt-scotch-9e96a856.jpg)
+
+图：单一麦芽苏格兰威士忌。图片：Sansvase，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG)）。关联图像：苏格兰高地路线：沿 A9 从泰恩到德拉莫赫特山口。
+
+![壶式蒸馏器（pot still）](/media/photos/term-pot-still-665ffa28.jpg)
+
+图：壶式蒸馏器（pot still）。图片：see Source，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sjb_whiskey_still.jpg)）。关联图像：苏格兰高地路线：沿 A9 从泰恩到德拉莫赫特山口。

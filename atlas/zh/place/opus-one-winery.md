@@ -91,6 +91,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观项目、时间与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 作品一号酒庄
 
 作品一号酒庄在纳帕谷奥克维尔，与罗伯特·蒙大维酒庄隔 29 号公路相望。它 1979 年由罗伯特·蒙大维与菲利普·德·罗斯柴尔德男爵共同创立，从一开始就只做一件事：每年酿一款波尔多式混酿。这种做法在纳帕谷并不常见，因为多数酒庄会同时做赤霞珠、霞多丽、长相思等多个产品线；作品一号把品牌、酒款与年份压成一条线，参观也围绕这一款酒展开。
@@ -161,3 +162,9 @@ verification_scope: source-verified
 补充阅读：[美国](ref:c-extra-1)、[罗伯特·蒙大维酒庄](ref:c-extra-2)。
 
 相关条目：[纳帕谷](ref:napa)、[葡萄酒](ref:wine)、[1976年巴黎审判：加州酒击败法国名庄](ref:judgment-of-paris)。
+
+## 相关图像
+
+![1976年巴黎审判：加州酒击败法国名庄类别配图](/media/photos/place-chateau-dyquem-7d20592f.jpg)
+
+图：1976年巴黎审判：加州酒击败法国名庄类别配图。图片：Benjamin Zingg, Switzerland，CC BY-SA 2.5，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27Yquem.jpg)）。关联图像：作品一号酒庄。

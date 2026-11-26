@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:speyside-malt-trail
 source_lang: zh
-source_revision: sha256:02a99887d4c0f98fae2d552913c3e096d57308a8ec652c7da2413bf3a0d243b7
-source_sha256: 02a99887d4c0f98fae2d552913c3e096d57308a8ec652c7da2413bf3a0d243b7
+source_revision: sha256:1d5dbddd5f3b3f0b478a63fb8d20aa7f29684b7394a8e2ec26ef3b3707f832d3
+source_sha256: 1d5dbddd5f3b3f0b478a63fb8d20aa7f29684b7394a8e2ec26ef3b3707f832d3
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -73,6 +73,12 @@ sources:
     publisher: Traveline Scotland
     note: Used to check the public-transport and bus/rail connection search entry; times and fares are not reproduced here.
     accessed: 2026-11-08
+  - key: adv-visitscotland
+    title: VisitScotland — Whisky tours and Speyside
+    url: https://www.visitscotland.com/see-do/food-drink/whisky/
+    publisher: VisitScotland
+    note: Used to check Speyside routes, transport and visitor information; no text copied.
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -166,6 +172,28 @@ A distillery is a production site, not a bar. Do not enter production areas with
 
 With time for only two, keep Glenfiddich and Glenlivet; if sherry and architecture matter more, keep Macallan and Glenlivet. North lie Aberlour, Craigellachie and Elgin; south lie Ballindalloch Castle and the Cairngorms. For more whisky, add Balvenie, Mortlach or the Speyside Cooperage, but each needs a booking.
 
+
+## Advanced judgment
+
+![Glenrothes Distillery, Rothes, Speyside](/media/photos/route-speyside-malt-trail-5f2ee11e.jpg)
+
+Figure: Glenrothes Distillery in Rothes, Speyside, a typical stop on the malt-whisky trail. Image: Yves Cosentino, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Glenrothes_Distillery,_Rothes,_Speyside.jpg)).
+
+| Segment | Suggested time | Booking focus |
+| --- | --- | --- |
+| Rothes / Keith | Half day | Distillery tours and tastings |
+| Dufftown | One day | Glenfiddich and other popular stops |
+| Craigellachie | Half day | Macallan and riverside views |
+| Whole route by car | 2–3 days | No drink-driving, arrange a driver |
+
+**Can I do the Speyside route without a car?** Yes, but stops are spread out and public transport is limited. Base in Elgin or Dufftown and combine rail with taxi or a local tour; that is more reliable than forcing bus connections.
+
+**Can I drive after a tasting?** No. Scotland enforces drink-driving limits strictly and one drink can put you over. Taste near your lodging or book a driver, taxi or bus in advance; do not rely on “just a little”.
+
+**When is the best time for this route?** May to September has long daylight and stable roads but more visitors; spring and autumn are quieter with good light, though some distilleries shorten hours. Check bookings, trains and weather first.
+
+Further reading: [Glenfiddich](ref:glenfiddich) and [The Macallan](ref:macallan).
+
 ## See also
 
 - [Glenfiddich Distillery](ref:glenfiddich): first spirit in 1887, family ownership, the 12 and the 15 Solera.
@@ -173,3 +201,9 @@ With time for only two, keep Glenfiddich and Glenlivet; if sherry and architectu
 - [Glenlivet Distillery](ref:glenlivet): the 1824 licence, the Minmore site and a fruity style.
 
 Opening hours, bookings and transport are subject to official channels; page verified on 2026-11-08.
+
+## Related images
+
+![Easter Elchies House (built in 1700) on the Macallan estate](/media/photos/place-the-macallan-estate-c7353c3c.jpg)
+
+Image: Easter Elchies House (built in 1700) on the Macallan estate. Credit: יאיר צפורי, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Macallan_Easter_Elchies_House_Built_in_1700.jpg)). Related image for Speyside malt trail: Dufftown, Craigellachie and Ballindalloch.

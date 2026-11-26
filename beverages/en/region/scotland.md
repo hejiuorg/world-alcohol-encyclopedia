@@ -14,8 +14,8 @@ legacy_refs: []
 translation_of: region:scotland
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:510302d5fe502988e24978812ab6dd626414909d7d94bf6d56b045a588d46529
-source_sha256: 510302d5fe502988e24978812ab6dd626414909d7d94bf6d56b045a588d46529
+source_revision: sha256:0dd033dd44138a5567ab4a60bbbcd574a7820cde7ad7f20554faa0f532874622
+source_sha256: 0dd033dd44138a5567ab4a60bbbcd574a7820cde7ad7f20554faa0f532874622
 aliases:
   - Scotland
   - Scotch whisky region
@@ -170,3 +170,13 @@ Whisky is an important Scottish industry, and the distribution of distilleries i
 This region describes Scotland's legal and stylistic framework as a whisky region and does not assess specific distilleries or market prices.
 
 Further reading: [Aconcagua Valley](ref:c-extra-1).
+
+## Related images
+
+![Related photograph of Aconcagua Valley](/media/photos/region-aconcagua-4fe76950.jpg)
+
+Image: Related photograph of Aconcagua Valley. Credit: Bjørn Christian Tørrissen, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg)). Related image for Scotland.
+
+![A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables](/media/photos/drink-style-whisky-2c7c457f.jpg)
+
+Image: A whisky bond warehouse in Ayrshire; cask type, age and warehouse conditions are the flavour variables. Credit: Rosser1954 Roger Griffith, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Balgray_Bond,_whisky_barrels,_Barrmill,_Ayrshire.JPG)). Related image for Scotland.

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: drink-style:sotol
 source_lang: zh
-source_revision: sha256:0d18b3e30562822edaeab78cc78222e066005b7b170854a1ed7495c88e5654fa
-source_sha256: 0d18b3e30562822edaeab78cc78222e066005b7b170854a1ed7495c88e5654fa
+source_revision: sha256:94e627e83b580f23a784d6e048b2eed85655b032857f7afe8a7e31d5cbaf2dad
+source_sha256: 94e627e83b580f23a784d6e048b2eed85655b032857f7afe8a7e31d5cbaf2dad
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -76,6 +76,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted text are outside this licence; sources are cited for verification only. This style uses no third-party images.
 verification_scope: source-verified
 ---
+
 # Sotol
 
 Sotol is a distilled spirit from northern Mexico made from desert spoon (Dasylirion). It is often placed next to [mezcal](ref:mezcal), but the two do not use the same plant: mezcal uses agave, while sotol uses Dasylirion, a genus in the asparagus family. That botanical difference shapes its legal identity, flavour and regions. Sotol has a denomination of origin covering Chihuahua, Coahuila and Durango; it is not a "northern agave spirit" that anyone may make anywhere.![Sotol image](/media/photos/drink-style-sotol-dcc1dd06.jpg)
@@ -131,3 +132,9 @@ For Sotol, begin with the production rule. Then look at the strength, and finall
 **Read alongside.** Put Sotol next to Mezcal, Tequila, Agave: the first fixes identity and boundary, the others provide a region, process or peer comparison. Read this style first, then return to those entries; the links become coordinates, not decoration.
 
 For Sotol, this style was last checked in 2026; prices, batches and availability change, so confirm them against the sources below.
+
+## Related images
+
+![Mezcal](/media/photos/drink-style-mezcal-a77be8ad.jpg)
+
+Image: Mezcal. Credit: ProtoplasmaKid, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg)). Related image for Sotol.

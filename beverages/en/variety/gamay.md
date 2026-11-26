@@ -13,8 +13,8 @@ species: Vitis vinifera
 translation_of: variety:gamay
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:784c34b33d46c3695df18dd59ae79e8920aa1c1b127549c6f7b5ba96627de460
-source_sha256: 784c34b33d46c3695df18dd59ae79e8920aa1c1b127549c6f7b5ba96627de460
+source_revision: sha256:271efc88254699178d2c7e934c6244cf69a322c17692f394322935c2626c3a48
+source_sha256: 271efc88254699178d2c7e934c6244cf69a322c17692f394322935c2626c3a48
 aliases:
   - Gamay
   - Gamay Noir à Jus Blanc
@@ -76,6 +76,7 @@ rights:
   note: Third-party standards, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Gamay
 
 Gamay is a red grape variety, botanically Vitis vinifera, whose full name is usually written Gamay Noir à Jus Blanc. It is thin-skinned, early-ripening and high in acidity, and it is the core variety of [Beaujolais](ref:beaujolais) [red wine](ref:red-wine); it is also planted in France's [Loire](ref:loire) and elsewhere. Compared with [Pinot Noir](ref:pinot-noir), Gamay is easier to grow and more direct in fruit, and its styles range from light and easy to ageworthy village crus.![Gamay image](/media/photos/variety-gamay-e34c94c9.jpg)
@@ -156,3 +157,9 @@ For Gamay, this variety was last checked in 2026; prices, batches and availabili
 - [Beaujolais](ref:beaujolais): Gamay's core region and its tiers.
 - [Morgon](ref:morgon): a Beaujolais village cru made from Gamay.
 - [Pinot Noir](ref:pinot-noir): Gamay's better-known parent and a useful comparison.
+
+## Related images
+
+![Beaujolais](/media/photos/region-beaujolais-9700eca2.webp)
+
+Image: Beaujolais. Credit: Cyril5555, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)). Related image for Gamay.

@@ -93,6 +93,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 日本
 
 日本是东亚岛国，酒类版图以清酒为核心，同时有烧酒、威士忌、啤酒与葡萄酒。清酒以米、水、曲与酵母为原料，通过糖化与发酵并行酿成；烧酒与威士忌则依赖蒸馏；啤酒与葡萄酒更多受现代产业与进口文化影响。理解日本酒，需要把原料、工艺与标签制度放在一起。
@@ -186,3 +187,13 @@ verification_scope: source-verified
 - [山崎](ref:yamazaki)：日本威士忌的代表酒款。
 - [啤酒](ref:beer)与[葡萄酒](ref:wine)：日本的其他酒类。
 - [橡木桶陈年](ref:oak-ageing)：威士忌风味形成的关键环节。
+
+## 相关图像
+
+![山崎单一麦芽威士忌相关实景照片](/media/photos/drink-japan-yamazaki-406efb1c.jpg)
+
+图：山崎单一麦芽威士忌相关实景照片。图片：Gentgeen，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Yamazake_single_malt.jpg)）。关联图像：日本。
+
+![谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。](/media/photos/editorial-saccharification-q2.jpg)
+
+图：谷物糖化的编辑插图：蒸煮罐、蒸汽、加热结构与取样；AI 辅助绘制，不是工厂实拍。。图片：Hejiu 编辑团队，使用豆包 Seedream 5.5 AI 辅助生成；项目自制，不是现场照片（[项目说明](https://hejiu.org/about/)）。关联图像：日本。

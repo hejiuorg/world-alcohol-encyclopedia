@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: variety:malbec
 source_lang: zh
-source_revision: sha256:2aa665ca2c839c6fa3ec0a3b2f31b84836468ac927c4148ea8d3027c89ba45f7
-source_sha256: 2aa665ca2c839c6fa3ec0a3b2f31b84836468ac927c4148ea8d3027c89ba45f7
+source_revision: sha256:5c8a2d4c07ec6cbf03fa53d04ca4a91dcd527d68014b9ed170c1eba81b62e45c
+source_sha256: 5c8a2d4c07ec6cbf03fa53d04ca4a91dcd527d68014b9ed170c1eba81b62e45c
 translation_status: reviewed
 legacy_refs: []
 species: Vitis vinifera
@@ -74,6 +74,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are used for verification only.
 verification_scope: source-verified
 ---
+
 # Malbec
 
 Malbec is a red grape native to south-west France, where it is often called Côt. It was once one of the permitted red varieties in Bordeaux blends, and later found a larger stage in Argentina. Today most people who hear "Malbec" think first of high-altitude vineyards in Mendoza rather than the black wines of Cahors.![Malbec image](/media/photos/variety-malbec-88d109c6.jpg)
@@ -159,3 +160,9 @@ For Malbec, this variety was last checked in 2026; prices, batches and availabil
 - [Bordeaux](ref:bordeaux): the historical home and blending tradition of Malbec.
 - [Mendoza](ref:mendoza): the core Argentine region for Malbec.
 - [Merlot](ref:merlot): a fellow Bordeaux variety for comparison.
+
+## Related images
+
+![Photograph for Mendoza: Mendoza Vineyard. Credit: Justin De La Ornellas, CC BY 2.0, via Wikimedia Commons.](/media/photos/q2-region-mendoza-043c2ae0.jpg)
+
+Image: Mendoza Vineyard. Credit: Justin De La Ornellas, CC BY 2.0, via Wikimedia Commons.. Credit: Justin De La Ornellas, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=25786871)). Related image for Malbec.

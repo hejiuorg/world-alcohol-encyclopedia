@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:beaujolais
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:73e59886ae49250de0d0bb20a931c8ec8374aac394b787f870be0c46bed76b7c
-source_sha256: 73e59886ae49250de0d0bb20a931c8ec8374aac394b787f870be0c46bed76b7c
+source_revision: sha256:d7083927d0e7992fae2a7767f1ac4c238eb39b390e6de73b5f922f0821c7311f
+source_sha256: d7083927d0e7992fae2a7767f1ac4c238eb39b390e6de73b5f922f0821c7311f
 level: other
 parent_id: region:france
 country_code: FR
@@ -83,6 +83,7 @@ rights:
   note: Third-party rules, trademarks, images and quoted texts are not covered by this licence. Sources are used for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Beaujolais
 
 Beaujolais is a wine region in eastern France, west of the Saône and north of Lyon, south of [Burgundy](ref:burgundy). It makes mostly [red wine](ref:red-wine) from [Gamay](ref:gamay), with a small amount of [white wine](ref:white-wine) from [Chardonnay](ref:chardonnay). The region is divided from regional and Beaujolais-Villages up to ten village crus.
@@ -174,3 +175,13 @@ Beaujolais is based on Gamay and includes three tiers: Beaujolais, Beaujolais-Vi
 - [Gamay](ref:gamay): the core variety of Beaujolais reds.
 - [Chardonnay](ref:chardonnay): the variety used for Beaujolais whites.
 - [Morgon](ref:morgon): a representative village cru in northern Beaujolais.
+
+## Related images
+
+![Gamay](/media/photos/variety-gamay-e34c94c9.jpg)
+
+Image: Gamay. Credit: Viking59, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Gamay.jpg)). Related image for Beaujolais.
+
+![Photograph for Burgundy: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-region-burgundy-8580e678.jpg)
+
+Image: Burgundy vineyards near Beaune, France. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Mark Gorzynski, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=65061583)). Related image for Beaujolais.

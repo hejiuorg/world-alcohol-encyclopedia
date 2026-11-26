@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:airag
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8211264a3e8cdd38c4ebaf7e8ac8e8919dcf040ea2ccdbe4967f778c26238d67
-source_sha256: 8211264a3e8cdd38c4ebaf7e8ac8e8919dcf040ea2ccdbe4967f778c26238d67
+source_revision: sha256:54a36a3985ab60dfb1057484d8761e60dfdd7f425641eba7c53bfc45eb351f24
+source_sha256: 54a36a3985ab60dfb1057484d8761e60dfdd7f425641eba7c53bfc45eb351f24
 related:
   - relation: about
     target_id: drink-style:other
@@ -79,6 +79,7 @@ rights:
   note: Third-party trademarks, labels, images and quoted text are excluded; style names, legal parameters and commercial labels change, so check current rules and the bottle label before buying.
 verification_scope: source-verified
 ---
+
 # Airag / Kumis
 
 A low-alcohol drink of Mongolia and Central Asia made by naturally fermenting mare's milk, tart and milky with light bubbles; usually 1–3% alcohol, part of nomadic food and festivals.
@@ -149,3 +150,9 @@ To learn this family, build a "fresh–slightly sour–over-sour" sequence: tast
 Airag / Kumis is best read by starting with the production rule, moving to the strength, and ending with the usual serving.
 
 [Other Drinks (Category Note)](ref:other)'s legal definition and [Aroma](ref:aroma)'s materials and process form a useful pair: the contrast shows where one ends and the other begins.
+
+## Related images
+
+![Aroma](/media/photos/term-aroma-6bfbd007.jpg)
+
+Image: Aroma. Credit: Jan Brueghel the Elder / Peter Paul Rubens, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Jan_Brueghel_d._O._-_Allegorie_van_de_geur.jpg)). Related image for Airag / Kumis.

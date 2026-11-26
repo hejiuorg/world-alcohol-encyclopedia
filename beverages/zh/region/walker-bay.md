@@ -99,6 +99,7 @@ rights:
   note: 第三方文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 沃克湾
 
 沃克湾（Walker Bay）是南非南海岸的冷凉葡萄酒产区，环绕海滨城镇 Hermanus，以 Hemel-en-Aarde 山谷的 Pinot Noir 与 Chardonnay 最为知名。它的风格来自海洋与山地的相互作用，而不是单一的品种标签。
@@ -191,3 +192,13 @@ Pinot Noir 建议 14–16 摄氏度，Chardonnay 建议 10–12 摄氏度，Sauv
 - [年份](ref:vintage)：冷凉产区的年份差异。
 - [单一品种](ref:single-varietal)：85% 品种标注规则。
 - [酒精度](ref:abv)：酒标上 % vol 的含义。
+
+## 相关图像
+
+![“西拉”页面配图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。](/media/photos/q2-variety-syrah-dc13087a.jpg)
+
+图：Syrah Grapes on the Vine。摄影：U.S. Geological Survey，CC0，来自 Wikimedia Commons。。图片：U.S. Geological Survey，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/w/index.php?curid=114429512)）。关联图像：沃克湾。
+
+![霞多丽](/media/photos/variety-chardonnay-efde6838.jpg)
+
+图：霞多丽。图片：Jenavive at English Wikipedia，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chardonnay.jpg)）。关联图像：沃克湾。

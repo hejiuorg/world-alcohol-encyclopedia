@@ -86,6 +86,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；风格名称、法规参数与商业标签会变化，购买前以生产国现行规则与瓶标为准。"
 verification_scope: source-verified
 ---
+
 # 莱希亚
 
 莱希亚是墨西哥哈利斯科州西部山区与太平洋沿岸村落出产的龙舌兰蒸馏酒，与梅斯卡尔同属龙舌兰烈酒家族，但所用野生龙舌兰种类、村落工艺和风味谱系都更分散；2019 年获得墨西哥原产地名称保护，2020 年列入欧盟与墨西哥烈酒互认清单。
@@ -141,3 +142,9 @@ verification_scope: source-verified
 想建立对莱希亚的认识，可以先从一款未陈年、标注市镇的基础款入手，再比较不同龙舌兰品种的批次，最后尝试一款木陈或小批次山地产品；三轮对照之后，品种、烘烤与陈化带来的差别会比读定义更清楚。
 
 - 相关条目：[mezcal](ref:mezcal)、[agave](ref:agave)、[distillation](ref:distillation)、[peat](ref:smoke)、[liqueur](ref:liqueur)。
+
+## 相关图像
+
+![龙舌兰（龙舌兰属）](/media/photos/ingredient-agave-6671c637.jpg)
+
+图：龙舌兰（龙舌兰属）。图片：Marc Ryckaert ( MJJR )，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Agave_americana_R01.jpg)）。关联图像：莱希亚。

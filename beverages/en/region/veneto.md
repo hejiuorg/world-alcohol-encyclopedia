@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:veneto
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9401c65ac6b64414216a2700033f114bbfb60735405b2fc43d25908c512bd920
-source_sha256: 9401c65ac6b64414216a2700033f114bbfb60735405b2fc43d25908c512bd920
+source_revision: sha256:778a7670188567d623f633ecab89996578e67fcc29c1046d82832aa768729ab8
+source_sha256: 778a7670188567d623f633ecab89996578e67fcc29c1046d82832aa768729ab8
 level: province
 parent_id: region:italy
 country_code: IT
@@ -96,6 +96,7 @@ rights:
   note: Third-party legal texts, trademarks and images are not covered by this licence. Sources are used for verification only. Photographs are credited in the figure captions under their respective licences.
 verification_scope: source-verified
 ---
+
 # Veneto
 
 Veneto (Italian Veneto) lies in north-east [Italy](ref:italy), running from the Dolomites at the southern edge of the Alps to the Adriatic and the Venetian lagoon. It is a major Italian wine region, best known for three blocks: the red wines of Valpolicella, the whites of Soave and the sparkling wines of Prosecco.
@@ -190,3 +191,13 @@ The region's sparkling Prosecco is made mainly from Glera, and its Valpolicella 
 - [Red wine](ref:red-wine), [white wine](ref:white-wine) and [sparkling wine](ref:sparkling-wine): three basic categories.
 - [Oak ageing](ref:oak-ageing) and [fermentation](ref:fermentation): key processes behind style.
 - [Wine](ref:wine): an overview of wine categories and origin rules.
+
+## Related images
+
+![Corvina](/media/photos/variety-corvina-633c9e19.jpg)
+
+Image: Corvina. Credit: Please note: This photo can be reproduced. Please quote the source as indicated below: Ursula Brühl, Julius Kühn-Institut (JKI) Bundesforschungsinstitut für Kul, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:VIVC2863_CORVINA_VERONESE_Cluster_in_the_field_19664.jpg)). Related image for Veneto.
+
+![Photograph for Amarone della Valpolicella: A bottle of Amarone della Valpolicella. Credit: Jerzy Kociatkiewicz, CC BY-SA 2.0, via Wikimedia Commons.](/media/photos/q2-drink-italy-amarone-della-valpolicella-035ae8e3.jpg)
+
+Image: A bottle of Amarone della Valpolicella. Credit: Jerzy Kociatkiewicz, CC BY-SA 2.0, via Wikimedia Commons.. Credit: Jerzy Kociatkiewicz, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=8844471)). Related image for Veneto.

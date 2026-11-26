@@ -97,6 +97,7 @@ rights:
   note: 第三方商标、图片与引用文本不在本许可内；参观项目、时间与价格会变化，以官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 罗伯特·蒙大维酒庄
 
 罗伯特·蒙大维酒庄在纳帕谷奥克维尔（Oakville），紧邻 29 号公路，拱门与钟楼是这条公路最容易被认出的轮廓之一。它 1966 年由罗伯特·蒙大维创立，官方称其为禁酒令结束后纳帕谷第一家大型新酒庄。2023 年起酒庄闭门改造，2026 年 4 月 20 日、也就是创业 60 周年时重新开放。今天看到的庄园保留了 1966 年克利夫·梅（Cliff May）设计的拱门与塔楼，又在旁边加入了新的接待空间。
@@ -167,3 +168,9 @@ To Kalon 是理解这家酒庄的另一把钥匙。这片葡萄园位于奥克�
 补充阅读：[美国](ref:c-extra-1)、[作品一号酒庄](ref:c-extra-2)。
 
 相关条目：[纳帕谷](ref:napa)、[葡萄酒](ref:wine)、[1976年巴黎审判：加州酒击败法国名庄](ref:judgment-of-paris)。
+
+## 相关图像
+
+![1976 年巴黎盲品会的获奖酒样，加州与法国葡萄酒评价体系的分水岭](/media/photos/historical-event-1976-judgment-of-paris-3833ecec.jpg)
+
+图：1976 年巴黎盲品会的获奖酒样，加州与法国葡萄酒评价体系的分水岭。图片：Unknown author Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Judgment_of_Paris_1976_Winners_NMAH-2006-7043.jpg)）。关联图像：罗伯特·蒙大维酒庄。

@@ -24,8 +24,8 @@ tags:
 translation_of: route:sonoma-county-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:96837a6775a4665dc5ef1359e834afb22d39a7cf46134213bea8ae1644919639
-source_sha256: 96837a6775a4665dc5ef1359e834afb22d39a7cf46134213bea8ae1644919639
+source_revision: sha256:8aed44cd4b01d4fa2b209627b85647c4431ce63af3bc5295f6f835d63744e273
+source_sha256: 8aed44cd4b01d4fa2b209627b85647c4431ce63af3bc5295f6f835d63744e273
 related:
   - relation: about
     target_id: place:jordan-vineyard
@@ -61,6 +61,12 @@ sources:
     publisher: Williams Selyem
     note: Used to verify 7227 Westside Road and booked visits; no source text is reproduced.
     accessed: 2026-11-21
+  - key: sonoma-county
+    title: "Sonoma County — official tourism website"
+    url: "https://www.sonomacounty.com/"
+    publisher: "Sonoma County Tourism"
+    note: "Used to check Sonoma County regions, towns and route context; no text copied."
+    accessed: 2026-11-26
 rights:
   status: allowed
   license: CC-BY-4.0
@@ -137,3 +143,13 @@ This route does not draw a map or provide live prices; roads, hours and booking 
 - With half a day, drop Jordan and keep Williams Selyem plus Healdsburg; with only two hours, choose one estate rather than trying both.
 
 Start with the order of stops. From there, consider the distance and opening hours, then whether it works as a fixed itinerary. That is how a practical judgment about Sonoma County Wine Route is built.
+
+## Related images
+
+![Photograph for Williams Selyem: File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg. Credit: Sarah Stierch, CC BY 4.0, via Wikimedia Commons.](/media/photos/q2-place-williams-selyem-1c5e46dc.jpg)
+
+Image: File:Williams Selyem wine at Fort Ross State Historic Park - Jenner, California - Stierch.jpg. Credit: Sarah Stierch, CC BY 4.0, via Wikimedia Commons.. Credit: Sarah Stierch, CC BY 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=44884501)). Related image for Sonoma County Wine Route.
+
+![Category image for Jordan Vineyard & Winery](/media/photos/region-sonoma-a79b1e60.jpg)
+
+Image: Category image for Jordan Vineyard & Winery. Credit: Cullen328, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Sonoma_City_Hall_(cropped).jpg)). Related image for Sonoma County Wine Route.

@@ -95,6 +95,7 @@ rights:
   note: "第三方商标、酒标、图片与引用文本不在本许可内；酒店、参观与价格会变化，以官方渠道为准。"
 verification_scope: source-verified
 ---
+
 # 瑞格尔侯爵酒庄
 
 从毕尔巴鄂往南，车进入里奥哈阿拉维萨的丘陵，Elciego 的屋顶与葡萄园之间，突然出现一条钛金属的波浪。那是 Frank Gehry 为瑞格尔侯爵设计的酒店，2006 年开业。它像一条被风吹起的丝带，覆盖在 19 世纪酒窖与葡萄园之上。瑞格尔侯爵不是“老酒庄加一个新地标”那么简单：它的历史、酒款与建筑，正好对应里奥哈从散装酒到瓶装酒、从传统到现代旅游的三次转折。
@@ -160,3 +161,9 @@ Elciego 在里奥哈阿拉维萨的中心，往北是 Laguardia 的中世纪城�
 - 里奥哈对照：[姆加](ref:muga)、[López de Heredia](ref:lopez)、[CVNE](ref:cvne)、[Haro 车站酒庄路线](ref:route)。
 - 背景阅读：[里奥哈产区](ref:rioja)。
 - 本页不提供地图；酒店、参观与餐厅信息以官方渠道为准。
+
+## 相关图像
+
+![里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年相关实景照片](/media/photos/route-rioja-haro-bodegas-fef0d4a7.jpg)
+
+图：里奥哈哈罗车站区酒庄路线：三家百年酒庄与长时间陈年相关实景照片。图片：Schumi4ever，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:N-340a_Rioja.jpg)）。关联图像：瑞格尔侯爵酒庄。

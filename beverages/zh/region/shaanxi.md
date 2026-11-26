@@ -96,6 +96,7 @@ rights:
   note: 第三方标准文本、商标与图片不在本许可内；来源仅作核验引用。第三方图片已在图注中标注作者与许可。
 verification_scope: source-verified
 ---
+
 # 陕西
 
 陕西是中国凤香型白酒的核心产区，产业中心在宝鸡市凤翔区柳林镇。凤香型常被形容为“浓清之间”：它有清香型的干净与果香，也有浓香型的窖香与厚度，却不属于任何一端。这种中间位置不是调和出来的，而是由高粱、大麦、豌豆、小麦，中高温大曲，黄土泥窖，混蒸混烧，以及酒海陈贮共同决定的。
@@ -164,3 +165,13 @@ verification_scope: source-verified
 - [发酵](ref:fermentation)：黄土泥窖与混蒸混烧对发酵的控制。
 - [蒸馏](ref:distillation)：混蒸混烧与掐头去尾对酒体的影响。
 - [西凤集团](ref:xifeng)：凤香型的代表性生产者。
+
+## 相关图像
+
+![凤香型白酒类型示意图](/media/photos/theme-asian.jpg)
+
+图：凤香型白酒类型示意图。项目自制双语视觉卡，示意性编辑图，不是现场照片。关联图像：陕西。
+
+![高粱](/media/photos/ingredient-sorghum-879ae613.jpg)
+
+图：高粱。图片：No machine-readable author provided. Pethan assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Sorghum_bicolor03.jpg)）。关联图像：陕西。

@@ -97,6 +97,7 @@ rights:
   note: 第三方商标、酒标、图片与引用文本不在本许可内；导览价格、时段与酒款会变化，以酒厂官方渠道为准。
 verification_scope: source-verified
 ---
+
 # 雷亚尔米内罗帕伦克：圣卡塔里娜米纳斯的陶罐与种子
 
 雷亚尔米内罗（Real Minero）的 palenque 在瓦哈卡州中央谷地南缘的圣卡塔里娜米纳斯（Santa Catarina Minas），地址是 Iturbide 街无门牌号。这里不是一座面向旅游大巴的示范厂，而是安赫莱斯（Ángeles）家族仍在使用的生产现场：土坑烘烤、木槌手捣、陶罐二次蒸馏，产量小，批次差异被当作特征而不是缺陷。它也是理解[梅斯卡尔](ref:mezcal)与[瓦哈卡](ref:oaxaca)产区关系的一个具体入口——不是所有梅斯卡尔都来自瓦哈卡，但瓦哈卡的这一套做法足够有代表性。
@@ -154,3 +155,9 @@ verification_scope: source-verified
 若想把“酒厂现场”与“城市品鉴”连起来，可以接着读[梅斯卡尔图书馆](ref:mezcaloteca)：那里把不同村子、不同品种的酒并排放在一张桌上，正好补上生产端看不到的比较视角。
 
 对照阅读：[梅斯卡尔](ref:mezcal)、[梅斯卡尔图书馆：瓦哈卡市中心的一间品鉴档案室](ref:mezcaloteca)。
+
+## 相关图像
+
+![瓦哈卡](/media/photos/region-oaxaca-ab7acd22.jpg)
+
+图：瓦哈卡。图片：Prsjl，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Oaxaqa_(41).jpg)）。关联图像：雷亚尔米内罗帕伦克：圣卡塔里娜米纳斯的陶罐与种子。

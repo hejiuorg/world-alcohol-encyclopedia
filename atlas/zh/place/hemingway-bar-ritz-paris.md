@@ -88,6 +88,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1994
 ---
+
 # 丽兹海明威酒吧
 
 在巴黎旺多姆广场一侧，丽兹酒店的门廊把街道的噪声挡在外面。穿过大堂再往里走，海明威酒吧（Bar Hemingway）的门并不显眼，里面也没有音乐；你听到的是冰块碰杯壁、低声交谈和远处服务生脚步的声音。它只有 25 个座位，墙面是深色木饰与旧皮革，灯光偏琥珀色，像一个被保留下来的私人书房，而不是供人打卡的“文学主题空间”。
@@ -143,3 +144,9 @@ Serendipity 与 Dry Martini 是招牌，服务生仍以银色托盘与桌边调�
 - [康诺特酒吧](ref:connaught)
 
 本页于 2026-11-21 核对 Ritz Paris 与 Bar Hemingway 的官方页面。酒吧每日 17:00–00:00、tapas 17:30–22:30、不接受订位，25 个座位与着装要求可能随酒店活动调整，出发前查官网。海明威“51 杯干马天尼”的解放故事、墙上陈列是否为其遗物，正文已保留限定；Serendipity 的配方以官方给出的 Calvados、薄荷、苹果汁与香槟为骨架。本页图片是丽兹海明威酒吧入口的铜字招牌，不是吧台或酒单；这块招牌是入口识别点，不代表酒吧内部陈设，图注已逐张署名，图片许可见来源页。
+
+## 相关图像
+
+![杜克斯酒吧](/media/photos/place-dukes-bar-d9c0fb94.jpg)
+
+图：杜克斯酒吧。图片：Ricardalovesmonuments，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hotel_Dukes_London.jpg)）。关联图像：丽兹海明威酒吧。

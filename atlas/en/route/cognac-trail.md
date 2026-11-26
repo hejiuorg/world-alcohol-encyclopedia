@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:cognac-trail
 source_lang: zh
-source_revision: sha256:cae41602efbfcccf53963ba24bd5050c0469eb7ecd689718679788927d1e2444
-source_sha256: cae41602efbfcccf53963ba24bd5050c0469eb7ecd689718679788927d1e2444
+source_revision: sha256:61aaae288e221e5c3b6797ba02cc902145f2488902a397d345a44fa473b58872
+source_sha256: 61aaae288e221e5c3b6797ba02cc902145f2488902a397d345a44fa473b58872
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -141,3 +141,13 @@ Taste from VS to VSOP to XO. VS is direct and fruity, with grape and flowers; VS
 Cognac station is about a five-minute walk from the Hennessy quay; Angoulême TGV is about 45 minutes by road; Bordeaux and La Rochelle are each about 1 hour 30 minutes by car. Rémy Martin's old house is walkable in town; Merpins and Juillac-le-Coq are outside and need a car or a transfer. Cognac to Jarnac is a dozen kilometres, about 20 minutes, past the river, vines and low warehouse buildings.
 
 Both stops need booking, on different terms: Hennessy sells timed tours and fills quickly at weekends, while Rémy Martin assembles guests at each site, and one ticket cannot be used across the house, Merpins and Juillac-le-Coq. Confirm meeting point, length, tasting, age limits and cancellation policy. Do not drive after drinking: parking in the old town is limited, so a chauffeur or a designated driver is safest, and anyone driving should spit every sample. Opening hours, prices and transport are subject to official channels; page verified 2026-11-09.
+
+## Related images
+
+![Editorial illustration of a wine blending trial: base wines compared in beakers, with a pipette for bench trials; AI-assisted illustration, not a photograph.](/media/photos/editorial-blending-q2.jpg)
+
+Image: Editorial illustration of a wine blending trial: base wines compared in beakers, with a pipette for bench trials; AI-assisted illustration, not a photograph.. Credit: Hejiu editorial team, AI-assisted with Doubao Seedream 5.5; project-generated editorial figure, not a photograph ([about](https://hejiu.org/about/)). Related image for Cognac trail: the house belt between Cognac and Jarnac.
+
+![Photograph for Hennessy in Cognac: 2023 Hennessy V.S. Cognac. Credit: Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons.](/media/photos/q2-place-hennessy-cognac-f2436160.jpg)
+
+Image: 2023 Hennessy V.S. Cognac. Credit: Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons.. Credit: Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/w/index.php?curid=132066502)). Related image for Cognac trail: the house belt between Cognac and Jarnac.

@@ -12,8 +12,8 @@ legacy_refs: []
 translation_of: variety:merlot
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3c0754a5ee9670b57c2135592ff06175491499759923ea3216ed915803a90f31
-source_sha256: 3c0754a5ee9670b57c2135592ff06175491499759923ea3216ed915803a90f31
+source_revision: sha256:fe3588e194a0da2956a45c0f5b4b203de800a1458dd66967c94f5b95e48aef74
+source_sha256: fe3588e194a0da2956a45c0f5b4b203de800a1458dd66967c94f5b95e48aef74
 species: Vitis vinifera
 aliases:
   - Merlot noir
@@ -71,6 +71,7 @@ rights:
   note: Third-party standards, trademarks and images are not covered by this licence; sources are cited for verification only. Third-party images are credited in the figure captions.
 verification_scope: source-verified
 ---
+
 # Merlot
 
 Merlot is one of the most widely planted red grape varieties in the world and originated in Bordeaux, France. Its berries are medium in size, its skins relatively thin, and it ripens early; tannin and acidity are moderate, which is why it is often described as supple and easy to drink. In Bordeaux, Merlot is the leading variety on the Right Bank and an important softening component in Left Bank blends.![Merlot image](/media/photos/variety-merlot-2a33ecba.jpg)
@@ -156,3 +157,9 @@ For Merlot, this variety was last checked in 2026; prices, batches and availabil
 - [Red wine](ref:red-wine): the basics of tannin, acidity and ageing.
 - [Bordeaux](ref:bordeaux): the regional background of Merlot and its blending tradition.
 - [Château Lafite Rothschild](ref:lafite): where Merlot sits in a Left Bank blend.
+
+## Related images
+
+![Château Lafite Rothschild](/media/photos/drink-france-chateaulafiterothschild-22829880.jpg)
+
+Image: Château Lafite Rothschild. Credit: PA, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Lafite-Rothschild.jpg)). Related image for Merlot.

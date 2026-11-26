@@ -32,8 +32,8 @@ tags:
 translation_of: place:caffe-san-carlo-torino
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:ab1f49ed6290ba9ae2f28c6538640dcea1bd7f2c5f5fc4d5422924e9dac1953f
-source_sha256: ab1f49ed6290ba9ae2f28c6538640dcea1bd7f2c5f5fc4d5422924e9dac1953f
+source_revision: sha256:da4236bc56a9427d3b0c1912ba2c712a0bd063e2564416e4fea96642eea06aae
+source_sha256: da4236bc56a9427d3b0c1912ba2c712a0bd063e2564416e4fea96642eea06aae
 related:
   - relation: about
     target_id: place:antico-caffe-greco
@@ -83,6 +83,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1822
 ---
+
 # Caffè San Carlo
 
 On the west side of Piazza San Carlo, under the arcades, a café occupies a corner that has been a public room for two centuries. The square is one of Turin's grandest, with a statue of Emmanuel Philibert in the middle and the twin churches of San Carlo and Santa Cristina at the far end. Caffè San Carlo is not the oldest café in Turin, and it is not the most famous in Italy. It is, however, one of the clearest examples of the Italian café as a civic institution: a place where politics, literature, coffee and dessert shared the same tables.
@@ -142,3 +143,9 @@ Read Caffè San Carlo through the address, then the current opening status, and 
 Checked on 2026-11-21 against the public pages of Costardi Bros and Gallerie d'Italia. The café usually opens 08:30–20:30, but museum exhibitions and private events can alter hours; lunch, dinner and groups should book, and seat fees and tips follow the bill. 1822 is the opening year; the interior took shape in the 1830s–1850s and was rebuilt after the 1942 bombing. San Carlo is not a Risorgimento museum, and the cappuccino habit is qualified in the body. The image shows the exterior on Piazza San Carlo, not the interior.
 
 Gambero Rosso reviewed the café in 2025.
+
+## Related images
+
+![The storefront of Al Bicerin on Piazza della Consolata in Turin; Giuseppe Dentis opened the café in 1763, and in 1856 it moved into the building designed by Carlo Promis, which is the building shown here](/media/photos/place-al-bicerin-torino-2408309e.jpg)
+
+Image: The storefront of Al Bicerin on Piazza della Consolata in Turin; Giuseppe Dentis opened the café in 1763, and in 1856 it moved into the building designed by Carlo Promis, which is the building shown here. Credit: Jorge Franganillo, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Torino_Caff%C3%A8_Al_Bicerin_(52738271224).jpg)). Related image for Caffè San Carlo.

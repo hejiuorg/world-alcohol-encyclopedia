@@ -77,6 +77,7 @@ rights:
 verification_scope: source-verified
 founded_year: 1763
 ---
+
 # 阿尔比切林咖啡馆
 
 都灵 Consolata 教堂前的小广场上，Al Bicerin 的门面并不起眼：深色木门、金色手写体招牌、门口几张白色小桌。它面对的是一座巴洛克教堂，侧面是老城窄街；早上开门时，附近上班的人会站着喝一杯咖啡，下午则常有游客排队，等着喝那杯分层的小玻璃杯——bicerin。对都灵人来说，bicerin 不是“特色饮品”，而是这座城市早晨的一部分；Al Bicerin 则是这杯饮品最著名的守门人。
@@ -143,3 +144,9 @@ bicerin 的正确喝法是不搅拌。嘴唇先碰到顶层的奶/奶油，然�
 最后核对：地址 Piazza della Consolata 5 与周三休息按咖啡馆官网查于 2026-11-21；bicerin 的分层喝法、以及“最老/发明”一类说法已在正文保留限定。本页是“喝酒去”的都灵咖啡馆条目，中文与英文版同步；文字许可见上方 rights 字段，图片署名与许可见各图注。
 
 对照阅读：[圣卡洛咖啡馆](ref:san-carlo)、[花神咖啡馆（威尼斯）](ref:florian)。
+
+## 相关图像
+
+![都灵 Piazza San Carlo 的 Caffè San Carlo；咖啡馆 1822 年以 Caffè di Piazza d'Armi 开业，1837 年后经 Giuseppe Leoni 改造并形成今日的新古典装饰，照片为现址外观，不是 1822 年原貌](/media/photos/place-caffe-san-carlo-torino-e529cc33.jpg)
+
+图：都灵 Piazza San Carlo 的 Caffè San Carlo；咖啡馆 1822 年以 Caffè di Piazza d'Armi 开业，1837 年后经 Giuseppe Leoni 改造并形成今日的新古典装饰，照片为现址外观，不是 1822 年原貌。图片：K.Weise，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Caff%C3%A9SanCarloTo1.jpg)）。关联图像：阿尔比切林咖啡馆。

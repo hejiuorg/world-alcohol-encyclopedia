@@ -82,6 +82,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 巴登
 
 巴登（Baden）是德国西南部的法定产区，从北部的陶伯弗兰肯（Tauberfranken）沿莱茵平原延伸到南部的博登湖（Bodensee），全长约 400 公里，2025 年约 15,100 公顷，是德国最南端、面积第三大的产区。
@@ -189,3 +190,13 @@ Spätburgunder 建议 14–16 摄氏度饮用，Gutedel 与清爽白葡萄酒建
 - [酸度](ref:acidity)：巴登白葡萄酒酸度与配餐的关系。
 - [酒精度](ref:abv)：不同品种与风格在标签上的酒精度差异。
 - [橡木桶陈年](ref:oak-ageing)：Spätburgunder 陈年中的桶的角色。
+
+## 相关图像
+
+![德国类别配图](/media/photos/event-oktoberfest-45ef807b.jpg)
+
+图：德国类别配图。图片：Renardo la vulpo，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest_2022,_Fischer-Vroni_v_S,_1.jpeg)）。关联图像：巴登。
+
+![酸度（acidity）](/media/photos/term-acidity-5f4c1ad7.jpg)
+
+图：酸度（acidity）。图片：Chemicalinterest，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Zn_reaction_with_HCl.JPG)）。关联图像：巴登。

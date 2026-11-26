@@ -94,9 +94,10 @@ verification_scope: source-verified
 translation_of: place:bruichladdich-distillery
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:651cb7a8b8130756a82845fc888edce74c20be5b480720252192bed417b54df6
-source_sha256: 651cb7a8b8130756a82845fc888edce74c20be5b480720252192bed417b54df6
+source_revision: sha256:28c4e4ab79cb2d8bc81ea398e3dc500534eba5ae2e78aa2306237b1a186ae715
+source_sha256: 28c4e4ab79cb2d8bc81ea398e3dc500534eba5ae2e78aa2306237b1a186ae715
 ---
+
 # Bruichladdich Distillery
 
 Drive west from Bowmore and the road follows the south shore of Loch Indaal: grey-blue water on the left, low grass banks and white distillery buildings on the right. Bruichladdich has none of the grand gateways some distilleries build. It looks like a working Victorian factory—white walls, black window frames, a tall chimney, and the words “PROGRESSIVE HEBRIDEAN DISTILLERS / BRUICHLADDICH / SINCE 1881” painted across the wall. The wind is strong, the sea is close, and the smell of the distillery mixes with salt.
@@ -182,3 +183,9 @@ For a single day, Bruichladdich plus Bowmore is a relaxed pairing. To add the so
 - Rémy Cointreau brand page: <https://www.remy-cointreau.com/en/brands/bruichladdich-port-charlotte-octomore/>, for the 1881/1994/2000/2001/2004/2012/2020 timeline.
 - Islay comparisons: [Lagavulin](ref:lagavulin), [Laphroaig](ref:laphroaig), [Ardbeg](ref:ardbeg), [Islay whisky trail](ref:islayroute), [Fèis Ìle 2026](ref:feis).
 - Other Scottish routes: [Speyside malt trail](ref:speyside), [Glenfiddich](ref:glenfiddich), [Scotch Whisky Experience](ref:scotchexperience).
+
+## Related images
+
+![Lagavulin Distillery](/media/photos/place-lagavulin-distillery-c79279a4.jpg)
+
+Image: Lagavulin Distillery. Credit: Charlie Marshall, CC BY 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg)). Related image for Bruichladdich Distillery.

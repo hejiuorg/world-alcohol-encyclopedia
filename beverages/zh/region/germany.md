@@ -91,6 +91,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。图片按各自许可见图注署名。
 verification_scope: source-verified
 ---
+
 # 德国
 
 德国是欧洲中部重要的葡萄酒与啤酒生产国。葡萄酒产区集中在西部与西南部的河谷和山坡，雷司令是最具代表性的白葡萄品种；啤酒则依托大麦、小麦与水，形成从修道院传统到现代精酿的多样风格。德国的葡萄酒产区与分级制度，与欧盟框架紧密衔接。
@@ -179,3 +180,13 @@ verification_scope: source-verified
 - [啤酒](ref:beer)：德国啤酒的原料与工艺。
 - [大麦](ref:barley)、[小麦](ref:wheat)与[水](ref:water)：啤酒与谷物酒的基础原料。
 - [发酵](ref:fermentation)与[橡木桶陈年](ref:oak-ageing)：酿造与陈年的关键环节。
+
+## 相关图像
+
+![浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理](/media/photos/drink-style-beer-b11eac2d.jpg)
+
+图：浑浊酵母小麦啤与清澈小麦啤，同一风格家族里的两种处理。图片：Ich，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg)）。关联图像：德国。
+
+![大麦](/media/photos/ingredient-barley-37a96001.jpg)
+
+图：大麦。图片：Cliff from Arlington, Virginia, USA，CC BY 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg)）。关联图像：德国。

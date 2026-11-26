@@ -154,3 +154,9 @@ verification_scope: source-verified
 - GB/T 2260-2007 中华人民共和国行政区划代码（国家标准化管理委员会，核对 2026-11-25）
 
 相关条目：[剑南春酒坊遗址](ref:cellars)、[绵竹剑南春路线](ref:route)、[四川省](ref:region)、[中国](ref:regioncn)、[酒与绘画](ref:art)、[中国酒史纲](ref:history)、[第一次喝白酒怎么选](ref:guide)、[剑南春](ref:brand)。
+
+## 相关图像
+
+![酒与画：宴饮图像的四种看法相关实景照片](/media/photos/article-wine-and-painting-fb6d1391.jpg)
+
+图：酒与画：宴饮图像的四种看法相关实景照片。图片：Natasha Khaitan，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Wine_making_process_-_Deccan_Painting_-19th_Century.jpg)）。关联图像：绵竹年画村（孝德镇）。

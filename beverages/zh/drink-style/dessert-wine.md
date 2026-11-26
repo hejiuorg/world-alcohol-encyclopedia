@@ -79,6 +79,7 @@ rights:
   note: 第三方法规文本、商标与图片不在本许可内；来源仅作核验引用。本页未使用第三方图片。
 verification_scope: source-verified
 ---
+
 # 甜酒
 
 甜酒（dessert wine）不是一种葡萄、一个产区或一条法规，而是一组以残糖为核心特征的[葡萄酒](ref:wine)。它可以是贵腐菌感染后浓缩的白酒，可以是晚收或风干葡萄酿成的酒，可以是冬天在藤上结冰的葡萄压榨出的冰酒，也可以是发酵中途加入葡萄蒸馏酒、保留糖分的加强酒。把它们放在一起的理由只有一个：入口明显的甜味，以及为平衡这份甜味而必须存在的酸度。
@@ -138,3 +139,9 @@ verification_scope: source-verified
 **来源与边界。** 本页关于「甜酒」的关键事实，主要由以下来源交叉核对：International Organisation of Vine and Wine (OIV)（葡萄酒、甜型葡萄酒与特殊采收葡萄的定义）、European Union（葡萄酒类别、地理标志与甜度标签框架）、Oxford University Press（提供关于甜酒、贵腐、晚收与冰酒的条目）等 4 条来源。价格、批次与状态会变，涉及这些字段时以页面所列来源的最新版本为准。正文为项目自写，来源只作核验，不复制原文。
 
 **并读。** 把「甜酒」与「葡萄酒」、「加强葡萄酒」、「残糖（residual sugar）」放在一起读时，先确认它们是同一层级还是上下游关系：先确认定义与工艺，再比较原料、产区与代表品牌。本页负责给出酒类风格的基本坐标，对照条目补上具体案例与差异；读完再回到本页，才能分清哪些差别属于酒类风格本身，哪些只是产地、批次或品牌选择。
+
+## 相关图像
+
+![贵腐（noble rot）](/media/photos/term-noble-rot-97171bf5.jpg)
+
+图：贵腐（noble rot）。图片：Photographer: Tom Maack No machine-readable author provided. T.o.m.~commonswiki assumed (based on copyright claims).，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Botrytis_riesling.jpg)）。关联图像：甜酒。

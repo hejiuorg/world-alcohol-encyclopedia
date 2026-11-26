@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:feng-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e5677d5737c4354330cde69256461913905f7e9d0e516c0aaac2674a79e7e7e9
-source_sha256: e5677d5737c4354330cde69256461913905f7e9d0e516c0aaac2674a79e7e7e9
+source_revision: sha256:dcc816b712e20eb3088fa70803d7d800a7ea86ffa77518950a014b45b23c315c
+source_sha256: dcc816b712e20eb3088fa70803d7d800a7ea86ffa77518950a014b45b23c315c
 legacy_refs: []
 aliases:
   - Fengxiangxing baijiu
@@ -179,3 +179,9 @@ First, that feng-aroma is a blend of light and strong spirits. It is a composite
 - [Koji making](ref:qu-making): culturing medium-high-temperature daqu.
 - [Fermentation](ref:fermentation): loess mud pits and pit-mud microbiology.
 - [Distillation](ref:distillation): mixed steaming and distillation and the cut.
+
+## Related images
+
+![Wheat](/media/photos/ingredient-wheat-e782d218.jpg)
+
+Image: Wheat. Credit: kallerna, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg)). Related image for Feng-aroma baijiu.
