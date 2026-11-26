@@ -24,8 +24,8 @@ tags:
 translation_of: region:alentejo
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:a2bbd2833ddfd8dd291f266e7f5d84014b9f54b5a2c06bcb47df29a5921a24df
-source_sha256: a2bbd2833ddfd8dd291f266e7f5d84014b9f54b5a2c06bcb47df29a5921a24df
+source_revision: sha256:28e81a169f52d78645a4b8a32dbf15501e4e61fd7135e6e5783214299f29a4e5
+source_sha256: 28e81a169f52d78645a4b8a32dbf15501e4e61fd7135e6e5783214299f29a4e5
 related:
   - relation: about
     target_id: region:portugal
@@ -90,12 +90,6 @@ sources:
     url: https://vinhosdoalentejo.pt/en/producers/esporao
     publisher: Comissão Vitivinícola Regional Alentejana
     note: Used to verify the estate boundary year, purchase year, landholding area and first-wine year of Esporão; no source text is reproduced.
-    accessed: 2026-11-22
-  - key: esporao-reserva
-    title: Esporão Reserva Red 2020 — Esporão
-    url: https://www.esporao.com/en/wines/esporao-reserva-red-2020/
-    publisher: Herdade do Esporão
-    note: Used to verify the Reserva blend varieties and oak-barrel ageing period; no source text is reproduced.
     accessed: 2026-11-22
   - key: cartuxa-red
     title: Cartuxa DOC Alentejo – Évora Red 2022 (technical sheet PDF)

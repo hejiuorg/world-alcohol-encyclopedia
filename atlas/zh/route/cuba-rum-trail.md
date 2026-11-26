@@ -84,13 +84,6 @@ sources:
     publisher: Havana Club
     note: 用于核对西班牙殖民时期限制蒸馏、19 世纪后期采用柱式蒸馏、1993 年合资公司与朗姆酒大师体系；未复制原文。
     accessed: 2026-11-09
-  - key: bacardi-trademark
-    title: "Bacardi demands US government revoke licence granted to Cuban government"
-    url: https://www.bacardilimited.com/media/news-archive/bacardi-demands-u-s-government-revoke-license-granted-to-cuban-government
-    publisher: Bacardi Limited
-    note: 用于核对 Havana Club 品牌 1934 年创立与 1960 年被古巴政府没收的时间线；该来源为商标争议一方立场，仅用于年代核对。未复制原文。
-    accessed: 2026-11-09
-
 rights:
   status: allowed
   license: CC-BY-4.0

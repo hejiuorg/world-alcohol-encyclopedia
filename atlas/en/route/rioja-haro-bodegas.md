@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:rioja-haro-bodegas
 source_lang: zh
-source_revision: sha256:7654f23ee8a26bba40d3be65efa873a9f8fa17b20e047a1eece2867c9b2b882a
-source_sha256: 7654f23ee8a26bba40d3be65efa873a9f8fa17b20e047a1eece2867c9b2b882a
+source_revision: sha256:085745b24ca3fb0856558a9e48ca8b33dfb9fc755aa46797a7fc4963f055fd69
+source_sha256: 085745b24ca3fb0856558a9e48ca8b33dfb9fc755aa46797a7fc4963f055fd69
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -60,12 +60,6 @@ sources:
     url: https://www.rutasdelvinorioja.com/en/haro-station-wine-experience/
     publisher: Ruta del Vino Rioja Alta
     note: Used to check how the station district formed in the second half of the nineteenth century through the railway and French demand; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: haro-tourism
-    title: Haro Turismo — El vino
-    url: https://www.haroturismo.org/en/enoturismo/el-vino
-    publisher: Haro Turismo
-    note: Used to check the effect of Haro's railway station on the layout of the wine trade and the distribution of wineries in the town; no source text is reproduced.
     accessed: 2026-11-08
   - key: renfe
     title: Renfe — Official site

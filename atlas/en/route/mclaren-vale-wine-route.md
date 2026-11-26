@@ -23,8 +23,8 @@ tags:
 translation_of: route:mclaren-vale-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:50e1487a920e7671f35e940766ee0d7e0e99fec365c887bad25ece6ac8c8546f
-source_sha256: 50e1487a920e7671f35e940766ee0d7e0e99fec365c887bad25ece6ac8c8546f
+source_revision: sha256:afedf97f419025391d479a2367bd978e7bf5e4c209213c51c47ef91c7937817e
+source_sha256: afedf97f419025391d479a2367bd978e7bf5e4c209213c51c47ef91c7937817e
 related:
   - relation: about
     target_id: place:darenberg
@@ -65,12 +65,6 @@ sources:
     url: https://www.darenberg.com.au/pages/visit
     publisher: d’Arenberg
     note: Used to verify 58 Osborn Road, the Cube, bookings and opening hours; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: mv-wirra
-    title: Visit — Wirra Wirra
-    url: https://www.wirrawirra.com/pages/visit
-    publisher: Wirra Wirra
-    note: Used to verify 255 Strout Road, the cellar door and bookings; no source text is reproduced.
     accessed: 2026-11-21
 rights:
   status: allowed

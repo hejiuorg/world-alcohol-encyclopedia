@@ -87,12 +87,6 @@ sources:
     publisher: "Comissão Vitivinícola Regional Alentejana"
     note: "用于核对 Esporão 庄园边界年份、购入年份、庄园面积与首款酒年份，未复制原文。"
     accessed: 2026-11-22
-  - key: esporao-reserva
-    title: "Esporão Reserva Red 2020 — Esporão"
-    url: https://www.esporao.com/en/wines/esporao-reserva-red-2020/
-    publisher: "Herdade do Esporão"
-    note: "用于核对 Reserva 混酿品种与橡木桶陈酿时长，未复制原文。"
-    accessed: 2026-11-22
   - key: cartuxa-red
     title: "Cartuxa DOC Alentejo – Évora Red 2022（PDF 技术表）"
     url: https://www.cartuxa.pt/wp-content/uploads/Cartuxa-red-2022.pdf

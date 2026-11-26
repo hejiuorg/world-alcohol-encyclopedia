@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: tool:hydrometer
 source_lang: zh
-source_revision: sha256:10a1fa8ee227daf8bf944223d6e371d1bd88ef2dca1b8f68aed5af9d9fba65ef
-source_sha256: 10a1fa8ee227daf8bf944223d6e371d1bd88ef2dca1b8f68aed5af9d9fba65ef
+source_revision: sha256:759dae25c411cd12b7b1f705a60bd6c4d94dd712dac376df6b41525eb70640e2
+source_sha256: 759dae25c411cd12b7b1f705a60bd6c4d94dd712dac376df6b41525eb70640e2
 translation_status: reviewed
 legacy_refs: []
 materials:
@@ -55,22 +55,16 @@ references:
 sources:
   - key: nist-sp250-78
     title: NIST Calibration Services for Hydrometers (SP 250-78)
-    url: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-78.pdf
+    url: https://www.nist.gov/publications/nist-calibration-services-hydrometers
     publisher: National Institute of Standards and Technology
-    note: Used to check the buoyancy principle, construction, reading method and three-point calibration service for hydrometers; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: nist-circular16
-    title: The Testing of Hydrometers (NBS Circular 16)
-    url: https://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular16.pdf
+    note: Used to check hydrometer calibration, temperature correction and reading uncertainty; no source text is reproduced.
+    accessed: 2026-11-26
+  - key: nist-sp250-series
+    title: NIST SP 250 Series on Measurement Services
+    url: https://www.nist.gov/calibrations/sp-250-publications
     publisher: National Institute of Standards and Technology
-    note: Used to check density, alcoholometer and saccharometer classes, plus cleaning, temperature, meniscus reading and parallax requirements; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: ttb-gauging
-    title: Distilled Spirits Gauging Manual — 27 CFR Part 30
-    url: https://www.ttb.gov/foia/distilled-spirits-gauging-manual
-    publisher: U.S. Alcohol and Tobacco Tax and Trade Bureau
-    note: Used to check proof graduations at 60°F, the 0–200 scale and temperature correction; no source text is reproduced.
-    accessed: 2026-11-21
+    note: Used to confirm the place of hydrometer calibration within NIST measurement services; no source text is reproduced.
+    accessed: 2026-11-26
   - key: ecfr-30-23
     title: 27 CFR 30.23 — Use of precision hydrometers and thermometers
     url: https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-30/subpart-C/section-30.23

@@ -76,12 +76,6 @@ sources:
     publisher: VisitScotland
     note: 用于核对酒厂选址与泉水、周边泥煤、凯恩戈姆国家公园与“苏格兰最高蒸馏厂”的表述；未复制原文。
     accessed: 2026-11-08
-  - key: dw-worm-tub
-    title: "Dalwhinnie Distillery — Malt Madness"
-    url: https://www.malt-whisky-madness.com/maltmadness/whisky/dalwhinnie.html
-    publisher: Malt Madness
-    note: 用于核对仍在使用虫管冷凝器、其中部分为木制虫管的说法；未复制原文。
-    accessed: 2026-11-08
   - key: dw-coordinates
     title: "Dalwhinnie Distillery — The Great Britain Guide"
     url: https://thegreatbritainguide.com/place/dalwhinnie-distillery/

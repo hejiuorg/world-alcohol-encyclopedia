@@ -11,8 +11,8 @@ revision: 1
 translation_of: poem:xin-qiji-xi-jiang-yue-qian-xing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2df73f58783bccfc6a6c58ca25d183fa3727d2e9a2861c2739c2303934a7719c
-source_sha256: 2df73f58783bccfc6a6c58ca25d183fa3727d2e9a2861c2739c2303934a7719c
+source_revision: sha256:f1b868c70c9d624615f5e9725f0d33f00d6d6d8252d1fb518b0a283b70226ba4
+source_sha256: f1b868c70c9d624615f5e9725f0d33f00d6d6d8252d1fb518b0a283b70226ba4
 author_name: Xin Qiji
 source_title: Jiaxuan Long and Short Lines
 dynasty: Southern Song
@@ -54,12 +54,6 @@ sources:
     url: https://m.gushiwen.cn/gushiwen_360266aeaf.aspx
     publisher: Gushiwen
     note: Used to check the received text, variants and the allusion to "believing all books"; the lyric quoted here is in the public domain.
-    accessed: 2026-11-20
-  - key: gsw6-xijiang
-    title: "Gushiwen — Xin Qiji, Xi Jiang Yue: Diverting the Mood, appreciation"
-    url: https://m.gsw6.com/shici/10/285594.html
-    publisher: Gushiwen
-    note: Used to cross-check the text and the reading of "just" and "believing all books"; the full appreciation is not reproduced.
     accessed: 2026-11-20
   - key: gushici-xijiang
     title: "Gushici — Xin Qiji, Xi Jiang Yue: Diverting the Mood"

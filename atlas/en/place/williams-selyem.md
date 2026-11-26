@@ -38,8 +38,8 @@ tags:
 translation_of: place:williams-selyem
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:54b2074c2d5bb45eeaffd0d21b346ab06e7e74acf145231fa7d1dd52e7d7b5cb
-source_sha256: 54b2074c2d5bb45eeaffd0d21b346ab06e7e74acf145231fa7d1dd52e7d7b5cb
+source_revision: sha256:e2cadae12dafbdd6a26c0ba991509b7ba9b3c50ae8b577bf3ab8fdf7e7e46e4c
+source_sha256: e2cadae12dafbdd6a26c0ba991509b7ba9b3c50ae8b577bf3ab8fdf7e7e46e4c
 related:
   - relation: about
     target_id: region:sonoma
@@ -63,12 +63,6 @@ references:
   - key: region
     target_id: region:australia
 sources:
-  - key: ws-history
-    title: Our History — Williams Selyem
-    url: https://www.williamsselyem.com/pages/our-history
-    publisher: Williams Selyem
-    note: Used to verify Burt Williams and Ed Selyem's 1981 garage founding and the Russian River Valley Pinot Noir background; no source text is reproduced.
-    accessed: 2026-11-21
   - key: ws-visit
     title: Visit — Williams Selyem
     url: https://www.williamsselyem.com/pages/visit
@@ -80,12 +74,6 @@ sources:
     url: https://www.williamsselyem.com/collections/wine
     publisher: Williams Selyem
     note: Used to verify Rochioli, Allen, Porter Bass and Estate wines; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: sonoma-wine2
-    title: Sonoma County — Wine Institute
-    url: https://www.wineinstitute.org/regions/sonoma-county
-    publisher: Wine Institute
-    note: Used to verify Sonoma County, the Russian River Valley and variety background; no source text is reproduced.
     accessed: 2026-11-21
 rights:
   status: allowed

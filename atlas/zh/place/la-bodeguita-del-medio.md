@@ -71,13 +71,6 @@ sources:
     publisher: CiberCuba
     note: 用于核对 1948 年阿永组织饭局、1949 年西尔维娅·托雷斯加入与 1950 年定名的店史叙述。
     accessed: 2026-11-07
-  - key: bodeguita-coords
-    title: La Bodeguita del Medio — Coordonnées
-    url: https://wikimonde.com/article/La_Bodeguita_del_Medio
-    publisher: Wikimonde（维基百科镜像）
-    note: 用于核对坐标 23°08′27″N, 82°21′08″W，即十进制 23.14083, -82.35222。
-    accessed: 2026-11-08
-
 rights:
   status: allowed
   license: CC-BY-4.0

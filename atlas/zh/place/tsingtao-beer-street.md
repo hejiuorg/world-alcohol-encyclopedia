@@ -66,12 +66,6 @@ sources:
     publisher: 青岛市文化和旅游局
     note: 用于核对街区范围、啤酒厂与博物馆同街、夜间消费场景；未复制原文。
     accessed: 2026-11-08
-  - key: qingdao-gov-2022
-    title: 2022 年青岛啤酒街开街 — 青岛政务网
-    url: http://www.qingdao.gov.cn/ywdt/zwyw/202207/t20220709_6247879.shtml
-    publisher: 青岛市人民政府
-    note: 用于核对 2022 年改造后的彩绘、休闲广场与亮化提升；未复制原文。
-    accessed: 2026-11-08
   - key: dazhong-street
     title: “码上”监督 青岛啤酒街让消费者把钱花在明面上 — 大众网
     url: https://w.dzwww.com/p/pfIcsLBjQGd.html

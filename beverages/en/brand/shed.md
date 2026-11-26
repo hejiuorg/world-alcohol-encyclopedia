@@ -11,8 +11,8 @@ revision: 2
 translation_of: brand:shed
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0626670b8b14abcb847ea78000124d2fdd624ee5afffd020b0b5125d6aa00578
-source_sha256: 0626670b8b14abcb847ea78000124d2fdd624ee5afffd020b0b5125d6aa00578
+source_revision: sha256:ddbef8c76d4efc3fceabb022779298378965ce5509ff83bcb9b7c1df1b3cccdc
+source_sha256: ddbef8c76d4efc3fceabb022779298378965ce5509ff83bcb9b7c1df1b3cccdc
 producer_refs:
   - producer:shed
 region_refs:
@@ -50,12 +50,6 @@ sources:
     url: https://www.tuopaishede.cn/
     publisher: 舍得酒业股份有限公司
     note: Used to verify public brand positioning and product-line information; no source text is reproduced.
-    accessed: 2026-11-04
-  - key: baike-shede
-    title: Baidu Baike — Shede liquor
-    url: https://m.baike.com/wiki/%E8%88%8D%E5%BE%97%E9%85%92/5286044
-    publisher: Baidu Baike
-    note: Used to verify the December 2001 launch and high-end positioning; no source text is reproduced.
     accessed: 2026-11-04
   - key: chinanews-2018
     title: China News Service — Zhihui Shede launched as Shede adopts the slogan Chinese wisdom

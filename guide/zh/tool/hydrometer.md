@@ -50,23 +50,17 @@ references:
     target_id: term:brix
 sources:
   - key: nist-sp250-78
-    title: NIST Calibration Services for Hydrometers (SP 250-78)
-    url: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication250-78.pdf
+    title: NIST Calibration Services for Hydrometers（SP 250-78）
+    url: https://www.nist.gov/publications/nist-calibration-services-hydrometers
     publisher: National Institute of Standards and Technology
-    note: 用于核对比重计的浮力原理、结构、读数方式与三点校准服务；未复制原文。
-    accessed: 2026-11-21
-  - key: nist-circular16
-    title: The Testing of Hydrometers (NBS Circular 16)
-    url: https://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular16.pdf
+    note: 用于核对比重计校准、温度修正与读数不确定度；未复制原文。
+    accessed: 2026-11-26
+  - key: nist-sp250-series
+    title: NIST SP 250 Series on Measurement Services
+    url: https://www.nist.gov/calibrations/sp-250-publications
     publisher: National Institute of Standards and Technology
-    note: 用于核对密度计、酒精计、糖度计等类别，以及清洁、温度、弯月面读数与视差的要求；未复制原文。
-    accessed: 2026-11-21
-  - key: ttb-gauging
-    title: Distilled Spirits Gauging Manual — 27 CFR Part 30
-    url: https://www.ttb.gov/foia/distilled-spirits-gauging-manual
-    publisher: U.S. Alcohol and Tobacco Tax and Trade Bureau
-    note: 用于核对 60°F 下的 proof 刻度、0–200 刻度范围与温度修正；未复制原文。
-    accessed: 2026-11-21
+    note: 用于确认比重计校准服务在 NIST 测量服务体系中的位置；未复制原文。
+    accessed: 2026-11-26
   - key: ecfr-30-23
     title: 27 CFR 30.23 — Use of precision hydrometers and thermometers
     url: https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-30/subpart-C/section-30.23

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:tennessee
 source_lang: zh
-source_revision: sha256:c85d682e61d0d393dfcf2ca9fd6e9fda555bf5052d225a5f319928dec45e54e1
-source_sha256: c85d682e61d0d393dfcf2ca9fd6e9fda555bf5052d225a5f319928dec45e54e1
+source_revision: sha256:20d9844f7ad7300df71fe5e33fbe7ef411a31f7734debc05064406417c168a0a
+source_sha256: 20d9844f7ad7300df71fe5e33fbe7ef411a31f7734debc05064406417c168a0a
 translation_status: reviewed
 level: province
 parent_id: region:usa
@@ -63,12 +63,6 @@ sources:
     url: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
     publisher: Alcohol and Tobacco Tax and Trade Bureau
     note: Used to check the official US framework for distilled spirits labels, categories and geographic names; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: tn-ag-opinion
-    title: Tennessee Attorney General Opinion No. 15-23 — Tennessee Whiskey
-    url: https://www.buystateoftnsurplus.gov/content/dam/tn/attorneygeneral/documents/ops/2015/op15-23.pdf
-    publisher: Office of the Tennessee Attorney General
-    note: Used to check the state code requirements for place of manufacture, corn share, distillation strength, cask type and maple-charcoal filtration; no source text is reproduced.
     accessed: 2026-11-08
   - key: jack-daniels
     title: Our History — Jack Daniel's

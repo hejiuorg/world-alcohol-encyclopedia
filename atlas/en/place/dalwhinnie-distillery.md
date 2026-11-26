@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:dalwhinnie-distillery
 source_lang: zh
-source_revision: sha256:d5ae3a281e86d5732cd251fb3b4a5758e92d95f4cf519f7107bd5574f37cb191
-source_sha256: d5ae3a281e86d5732cd251fb3b4a5758e92d95f4cf519f7107bd5574f37cb191
+source_revision: sha256:594f5b058b5db4a07ef8b20a5e69cb790445f05626aad32e8643c1205c054b63
+source_sha256: 594f5b058b5db4a07ef8b20a5e69cb790445f05626aad32e8643c1205c054b63
 translation_status: reviewed
 subtype: distillery-visitor
 address: Dalwhinnie, Inverness-shire PH19 1AA, Scotland
@@ -79,12 +79,6 @@ sources:
     url: https://www.visitscotland.com/info/see-do/dalwhinnie-distillery-visitor-centre-whisky-shop-p418511
     publisher: VisitScotland
     note: Used to check the siting for spring water and surrounding peat, Cairngorms National Park and the "highest distillery in Scotland" description; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: dw-worm-tub
-    title: Dalwhinnie Distillery — Malt Madness
-    url: https://www.malt-whisky-madness.com/maltmadness/whisky/dalwhinnie.html
-    publisher: Malt Madness
-    note: Used to check the claim that worm tubs are still in use and that some are made of wood; no source text is reproduced.
     accessed: 2026-11-08
   - key: dw-coordinates
     title: Dalwhinnie Distillery — The Great Britain Guide

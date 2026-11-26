@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:filtration
 source_lang: zh
-source_revision: sha256:7c212839495ef266f45c04851bbe574b1440ea11fc334ec2f9ce2a9845f53947
-source_sha256: 7c212839495ef266f45c04851bbe574b1440ea11fc334ec2f9ce2a9845f53947
+source_revision: sha256:157445c9b3c3f9123d7c9373fd7e10836c8ee554f7afb52c47f4f6e5a0b3e855
+source_sha256: 157445c9b3c3f9123d7c9373fd7e10836c8ee554f7afb52c47f4f6e5a0b3e855
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -74,7 +74,7 @@ verification_scope: source-verified
 ---
 # Filtration
 
-Filtration passes wine through a medium that physically retains suspended particles, yeast and bacteria. Its immediate aims are clarity and microbiological stability, not "filtering out flavour". Filtration is often confused with fining, but the mechanisms differ: fining uses adsorption and flocculation to turn dissolved or colloidal material into settlable particles, while filtration uses pore size to hold back particles that have already formed. The two are often used together and cannot replace each other.![diagram of Filtration](/media/photos/term-filtration-c974bd5e.png)
+Filtration passes wine through a medium that physically retains suspended particles, yeast and bacteria. Its immediate aims are clarity and microbiological stability, not "filtering out flavour". Filtration is often confused with fining, but the mechanisms differ: fining uses adsorption and flocculation to turn dissolved or colloidal material into settlable particles, while filtration uses pore size to hold back particles that have already formed. The two are often used together and cannot replace each other.![diagram of Filtration](/media/photos/term-filtration-c974bd5e.webp)
 
 Figure: Diagram of Filtration. Image: Wikiwayman, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:FilterDiagram.svg)).
 

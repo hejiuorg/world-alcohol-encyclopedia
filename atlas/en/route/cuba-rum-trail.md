@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:cuba-rum-trail
 source_lang: zh
-source_revision: sha256:1b528d546994a30b507394c7b920207bf8e463800219e4170f5b06cbc88203bc
-source_sha256: 1b528d546994a30b507394c7b920207bf8e463800219e4170f5b06cbc88203bc
+source_revision: sha256:3624a6740cd152d3d583bcb5b9faaba1df33f3abc83c204448c93a1cccee1a96
+source_sha256: 3624a6740cd152d3d583bcb5b9faaba1df33f3abc83c204448c93a1cccee1a96
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -86,12 +86,6 @@ sources:
     url: https://havana-club.com/en-gb/the-brand/
     publisher: Havana Club
     note: Used to check the colonial restriction on distillation, late 19th-century column stills, the 1993 joint venture and the Maestros del Ron Cubano system; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: bacardi-trademark
-    title: Bacardi demands US government revoke licence granted to Cuban government
-    url: https://www.bacardilimited.com/media/news-archive/bacardi-demands-u-s-government-revoke-license-granted-to-cuban-government
-    publisher: Bacardi Limited
-    note: Used to check the timeline of Havana Club's 1934 creation and its 1960 confiscation; this source represents one side of the trademark dispute and is used only for dates. No source text is reproduced.
     accessed: 2026-11-09
 rights:
   status: allowed

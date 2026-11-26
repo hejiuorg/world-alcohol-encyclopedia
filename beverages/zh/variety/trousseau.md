@@ -80,7 +80,7 @@ verification_scope: source-verified
 
 特鲁索是汝拉的红葡萄，酒色浅、酸度高、单宁低；它可酿轻红、桃红与起泡。读它时，不要用深色红葡萄酒的标准去要求它。
 
-!["特鲁索"产区风貌](/media/photos/drink-france-cremant-du-jura-dea97caf.png)
+!["特鲁索"产区风貌](/media/photos/drink-france-cremant-du-jura-dea97caf.webp)
 
 图："特鲁索"的产区风貌配图。图片：DalGobboM ¿!i?，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vignobles_jura.png)）。这张照片用于说明"特鲁索"的主要种植环境，不是特鲁索的品种标本照。
 

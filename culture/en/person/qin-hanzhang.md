@@ -13,8 +13,8 @@ birth_year: 1908
 death_year: 2019
 translation_of: person:qin-hanzhang
 source_lang: zh
-source_revision: sha256:38884450a048278d1e7fdec4ac4dcef3dcc8b9a223977952e4b65a66c31d239c
-source_sha256: 38884450a048278d1e7fdec4ac4dcef3dcc8b9a223977952e4b65a66c31d239c
+source_revision: sha256:d02769359e1e72a1167eaa0332e1b995dcf028614d7c655bbb80a7767b65c621
+source_sha256: d02769359e1e72a1167eaa0332e1b995dcf028614d7c655bbb80a7767b65c621
 translation_status: reviewed
 roles:
   - Food-industry scientist
@@ -61,12 +61,6 @@ sources:
     url: https://m.thepaper.cn/newsDetail_forward_4176523
     publisher: Jiangnan University (The Paper)
     note: Used to check his dates, education, teaching and institutional posts, the Fenjiu and Maotai trials, and his bibliography; no source text is reproduced.
-    accessed: 2026-11-07
-  - key: xjb-qin
-    title: "Qin Hanzhang: the craft life of a 112-year-old master craftsman"
-    url: https://m.chinanews.com/wap/detail/chs/zw/8936894.shtml
-    publisher: The Beijing News / China News Service
-    note: Used to check his death on 15 August 2019, the timing of the Fenjiu trial, the Maotai analyses, the scale of his writings and colleagues' recollections; no source text is reproduced.
     accessed: 2026-11-07
   - key: southcn-qin
     title: "Qin Hanzhang, a century-old vintage: born in the late Qing, educated in Europe, a technical founder of Maotai and Fenjiu"

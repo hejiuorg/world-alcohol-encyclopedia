@@ -7,8 +7,8 @@ slug: reinheitsgebot
 title: German Beer Purity Law
 translation_of: standard:reinheitsgebot
 source_lang: zh
-source_revision: sha256:2949cf7fd91398a712246a7a06473f0ebbdd1692826762398923c279c6208433
-source_sha256: 2949cf7fd91398a712246a7a06473f0ebbdd1692826762398923c279c6208433
+source_revision: sha256:9cae49a3316152ef3c755c439bb2c33f6179e9feee9ef93e37bde014b1ac4e9e
+source_sha256: 9cae49a3316152ef3c755c439bb2c33f6179e9feee9ef93e37bde014b1ac4e9e
 translation_status: reviewed
 issuer: Duchy of Bavaria (now the Free State of Bavaria)
 standard_code: Reinheitsgebot / § 9 Vorläufiges Biergesetz
@@ -63,12 +63,6 @@ sources:
     url: https://www.bundestag.de/resource/blob/824148/WD-5-142-20-pdf.pdf
     publisher: Deutscher Bundestag, Wissenschaftliche Dienste
     note: Used for the wording of section 9 and the exemption for imported beer.
-    accessed: 2026-11-20
-  - key: biergesetz
-    title: Vorläufiges Biergesetz (VorlBierG)
-    url: https://www.gesetze-im-internet.de/bierstg_1993/
-    publisher: Gesetze im Internet
-    note: Used to confirm the current text and section numbering.
     accessed: 2026-11-20
   - key: eu-case
     title: Commission v Germany, Case 178/84

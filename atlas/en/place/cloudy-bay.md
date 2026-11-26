@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:cloudy-bay
 source_lang: zh
-source_revision: sha256:30a478a4dc6bb8993552fece7ae691e2ef028f4e3757132cb37f94dc582c864d
-source_sha256: 30a478a4dc6bb8993552fece7ae691e2ef028f4e3757132cb37f94dc582c864d
+source_revision: sha256:015cc23d773a5770f7551f754676d32bddd67400653fe98a634f876388f9af2b
+source_sha256: 015cc23d773a5770f7551f754676d32bddd67400653fe98a634f876388f9af2b
 translation_status: reviewed
 subtype: winery-visitor
 address: 230 Jacksons Road, Blenheim, New Zealand
@@ -60,12 +60,6 @@ sources:
     url: https://www.cloudybay.com/en-ww/visit-us/marlborough
     publisher: Cloudy Bay
     note: Used to check the 230 Jacksons Road address, seven-day 10:00–17:00 cellar door hours, booking advice, Saku restaurant times and closure days; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: nzw-cloudy-bay
-    title: Cloudy Bay Vineyards — New Zealand Winegrowers
-    url: https://www.nzwine.com/en/winery/cloudy-bay-vineyards
-    publisher: New Zealand Winegrowers
-    note: Used to check the 1985 first vintage, the Central Otago presence since 2010, the 230 Jacksons Rd address and the cellar door description; no source text is reproduced.
     accessed: 2026-11-09
   - key: brancott-1973
     title: Brancott — Pernod Ricard USA

@@ -23,8 +23,8 @@ tags:
 translation_of: route:margaret-river-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:24b9cc2e4d67e15d31b5ca104a2506ceabe79d7217da385bc1e179c6e338760f
-source_sha256: 24b9cc2e4d67e15d31b5ca104a2506ceabe79d7217da385bc1e179c6e338760f
+source_revision: sha256:57294695ffb4caef43215c53fc8fe17f6a359b1c903f4fe9685ce6473fe2073d
+source_sha256: 57294695ffb4caef43215c53fc8fe17f6a359b1c903f4fe9685ce6473fe2073d
 related:
   - relation: about
     target_id: place:vasse-felix
@@ -59,12 +59,6 @@ sources:
     url: https://www.margaretriver.wine/
     publisher: Margaret River Wine
     note: Used to verify production-area maps, wine estates and visitor information; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: mr-vasse
-    title: Visit — Vasse Felix
-    url: https://www.vassefelix.com.au/pages/visit
-    publisher: Vasse Felix
-    note: Used to verify 4357 Bussell Highway, the cellar door, art gallery and restaurant; no source text is reproduced.
     accessed: 2026-11-21
   - key: mr-leeuwin
     title: Visit — Leeuwin Estate

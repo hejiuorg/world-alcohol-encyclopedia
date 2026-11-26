@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:gueuze
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7fd573d5eeee178df09e8d6d5a90de33203647137792f9659870832b9b303ab6
-source_sha256: 7fd573d5eeee178df09e8d6d5a90de33203647137792f9659870832b9b303ab6
+source_revision: sha256:6f129a3b7b9d1a6b8b16137036a89cdb9d9380190745d04bcb7a8adf85cdacce
+source_sha256: 6f129a3b7b9d1a6b8b16137036a89cdb9d9380190745d04bcb7a8adf85cdacce
 parent_style_id: drink-style:lambic
 aroma_family: Sour and wild yeast
 legacy_refs: []
@@ -88,7 +88,7 @@ verification_scope: source-verified
 
 Gueuze, also written geuze, is a type of [Belgian](ref:belgium) [beer](ref:beer) made by blending [lambic](ref:lambic) of different ages, bottling the blend and letting residual sugar referment in the bottle. It is not a beer with acid added; it joins the structure of young and old beer: the young supplies fermentable sugar and active yeast, the old supplies acidity, barnyard notes and complexity. The finished beer is dry, finely sparkling and brightly sour without being harsh.
 
-![Gueuze image](/media/photos/drink-style-gueuze-32f50b06.png)
+![Gueuze image](/media/photos/drink-style-gueuze-32f50b06.webp)
 
 Figure: Gueuze. Image: Strangerhappenings, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Oude_Gueuze_bottle.png)).
 

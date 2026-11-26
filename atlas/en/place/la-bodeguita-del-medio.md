@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:la-bodeguita-del-medio
 source_lang: zh
-source_revision: sha256:24f0bc785d76c1b525a244f20c0db78b2e15cb0f7a6b4bc433feb2f5d72ed923
-source_sha256: 24f0bc785d76c1b525a244f20c0db78b2e15cb0f7a6b4bc433feb2f5d72ed923
+source_revision: sha256:27d53e44ce66cb8393e41a16471d2b0959b9d4eaf3fe10d4f9700c0f8547f3bd
+source_sha256: 27d53e44ce66cb8393e41a16471d2b0959b9d4eaf3fe10d4f9700c0f8547f3bd
 translation_status: reviewed
 subtype: pub
 address: Calle Empedrado 207, entre Cuba y San Ignacio, La Habana Vieja, La Habana 10100, Cuba
@@ -79,12 +79,6 @@ sources:
     publisher: CiberCuba
     note: Used to verify the 1948 meals organised by Ayón, the 1949 arrival of Silvia Torres and the 1950 naming.
     accessed: 2026-11-07
-  - key: bodeguita-coords
-    title: La Bodeguita del Medio — Coordonnées
-    url: https://wikimonde.com/article/La_Bodeguita_del_Medio
-    publisher: Wikimonde (Wikipedia mirror)
-    note: Used to verify the coordinates 23°08′27″N, 82°21′08″W, i.e. 23.14083, -82.35222 in decimal degrees.
-    accessed: 2026-11-08
 rights:
   status: allowed
   license: CC-BY-4.0

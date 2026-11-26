@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:torii-shinjiro
 source_lang: zh
-source_revision: sha256:b009350ea7af74b2b254c445144f3254a0bef8e47075ab6a4aa90aca79ab5331
-source_sha256: b009350ea7af74b2b254c445144f3254a0bef8e47075ab6a4aa90aca79ab5331
+source_revision: sha256:7ab71e8797ed0e90f3560d602082b2834d3d5eca03dadbd11c1d486f29781b8e
+source_sha256: 7ab71e8797ed0e90f3560d602082b2834d3d5eca03dadbd11c1d486f29781b8e
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1879
@@ -54,12 +54,6 @@ sources:
     publisher: Suntory Holdings
     note: Used to check Torii Shoten in 1899, Akadama Port Wine in 1907, Yamazaki in 1923 and Shirofuda in 1929; no source text is reproduced.
     accessed: 2026-11-20
-  - key: suntory-heritage
-    title: Suntory Heritage — 120 Years of History
-    url: https://www.suntory.com/about/history/heritage/
-    publisher: Suntory Holdings
-    note: Used to check Torii's biography, management philosophy and the early product structure; no source text is reproduced.
-    accessed: 2026-11-20
   - key: house-suntory
     title: House of Suntory — Heritage
     url: https://www.houseofsuntory.com/en/heritage/
@@ -71,12 +65,6 @@ sources:
     url: https://www.suntorybeverageandfoodeurope.com/en/about-us/our-history
     publisher: Suntory Beverage & Food Europe
     note: Used to check the stages from an Osaka liquor trader to a global drinks group; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: suntory-120
-    title: Suntory 120th Anniversary History
-    url: https://www.suntory.com/about/history/120th/
-    publisher: Suntory Holdings
-    note: Used to check the corporate chronology from 1899 to 1962, product launches and Taketsuru's employment dates; no source text is reproduced.
     accessed: 2026-11-20
 rights:
   status: allowed

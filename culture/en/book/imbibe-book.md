@@ -81,13 +81,13 @@ rights:
   basis: Project-authored article, checked against publisher pages, the author page and a reference work, without reproducing text, recipes or the foreword. The project owner declared project content CC BY 4.0 on 2026-10-29.
   note: The original text, recipes and foreword are not covered by this licence; sources are cited for verification only. The image on this book entry is a modern colourised illustration of Jerry Thomas performing the Blue Blazer, not a historical photograph and not the book cover.
 verification_scope: source-verified
-source_sha256: a9cf4671ae715d68d6706809b990c42e699496ac8267fd07eb047b855bfc8945
-source_revision: sha256:a9cf4671ae715d68d6706809b990c42e699496ac8267fd07eb047b855bfc8945
+source_sha256: ca293fe4671db30123a77698c4014f1f07a194400879e5728e60844889ab9142
+source_revision: sha256:ca293fe4671db30123a77698c4014f1f07a194400879e5728e60844889ab9142
 ---
 
 # Imbibe!
 
-![Illustration of Jerry Thomas performing the Blue Blazer](/media/photos/book-imbibe-book-d0363558.png)
+![Illustration of Jerry Thomas performing the Blue Blazer](/media/photos/book-imbibe-book-d0363558.webp)
 
 Figure: A modern colourised illustration of Jerry Thomas performing the Blue Blazer; it is not a historical photograph and not the cover of Imbibe!. Image: CakeandTail, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:JerryThomas-blue-blazer-880x435.png)).
 

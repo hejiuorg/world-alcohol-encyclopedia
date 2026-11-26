@@ -49,18 +49,6 @@ references:
   - key: mondavi
     target_id: person:robert-mondavi
 sources:
-  - key: mouton-history
-    title: 木桐酒庄历史 — Château Mouton Rothschild
-    url: https://www.chateau-mouton-rothschild.com/zh-hans/the-history
-    publisher: Château Mouton Rothschild
-    note: 用于核对 1922 年菲利普男爵接管、1924 年原瓶灌装、1926 年大酒窖、1933 年购入阿尔马亚克、1945 年起艺术家酒标、1973 年一级庄升格等节点；未复制原文。
-    accessed: 2026-11-20
-  - key: mouton-key-dates
-    title: 木桐酒庄大事记 — Château Mouton Rothschild
-    url: https://www.chateau-mouton-rothschild.com/zh-hans/the-history/key-dates
-    publisher: Château Mouton Rothschild
-    note: 用于核对 1930 年木桐嘉棣、1962 年葡萄酒艺术博物馆、1970 年克拉米伦、1988 年菲利普男爵去世与女儿菲利嫔接掌；未复制原文。
-    accessed: 2026-11-20
   - key: opus-estate
     title: Our Winery & Vineyards — Opus One
     url: https://www.opusonewinery.com/estate/

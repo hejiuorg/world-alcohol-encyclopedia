@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: term:proof-and-abv
 source_lang: zh
-source_revision: sha256:9e8012599b87598fd1a45d9b39260bc8b985d7a1b810e0c20ae9c23c28270282
-source_sha256: 9e8012599b87598fd1a45d9b39260bc8b985d7a1b810e0c20ae9c23c28270282
+source_revision: sha256:2831bd8f084aabd5f64ac6a87938eb3c114a730e6a374d502a85830ae8345049
+source_sha256: 2831bd8f084aabd5f64ac6a87938eb3c114a730e6a374d502a85830ae8345049
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -59,12 +59,6 @@ sources:
     url: https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-5/subpart-E/section-5.65
     publisher: U.S. Alcohol and Tobacco Tax and Trade Bureau / eCFR
     note: Used to check the US rule that distilled spirits labels must state ABV and that proof, if used, must appear in the same field of vision; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: ttb-gauging
-    title: Distilled Spirits Gauging Manual — 27 CFR Part 30
-    url: https://www.ttb.gov/foia/distilled-spirits-gauging-manual
-    publisher: U.S. Alcohol and Tobacco Tax and Trade Bureau
-    note: Used to check how a hydrometer reads proof at 60°F, temperature correction and the 0–200 proof scale; no source text is reproduced.
     accessed: 2026-11-21
   - key: eu-fic
     title: Regulation (EU) No 1169/2011, Annex XII — alcoholic strength

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:craft-beer-revolution-1978
 source_lang: zh
-source_revision: sha256:d0eaa7661f1b39bedafda97054e5c8d0bc9d0613629c84ad228c1829a09c4736
-source_sha256: d0eaa7661f1b39bedafda97054e5c8d0bc9d0613629c84ad228c1829a09c4736
+source_revision: sha256:e612a3f2a166aff45e0d91aa9b510f49d80391ecca5001ebb138d1c406db37dc
+source_sha256: e612a3f2a166aff45e0d91aa9b510f49d80391ecca5001ebb138d1c406db37dc
 translation_status: reviewed
 aliases:
   - 美国自酿合法化
@@ -55,12 +55,6 @@ sources:
     url: https://www.homebrewersassociation.org/membership/american-homebrewers-association/
     publisher: American Homebrewers Association
     note: Used to check the founding of the association by Charlie Papazian and Charlie Matzen on 7 December 1978 and the first issue of Zymurgy.
-    accessed: 2026-11-04
-  - key: smithsonian-new-albion
-    title: Here's What's Brewing in the New Smithsonian Beer Collections
-    url: https://www.smithsonianmag.com/smithsonian-institution/heres-whats-brewing-new-smithsonian-beer-collections/180973134/
-    publisher: Smithsonian Magazine
-    note: Used to check New Albion as the first from-the-ground-up microbrewery in the United States and the collecting of early Sierra Nevada labels.
     accessed: 2026-11-04
   - key: si-anchor
     title: Anchor Steam Beer tap handle

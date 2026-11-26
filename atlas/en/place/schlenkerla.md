@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:schlenkerla
 source_lang: zh
-source_revision: sha256:fc97b2a1d108d7a316b181f4bd35eb46a6c68b1f0666e7a5ed03d4bf62e64932
-source_sha256: fc97b2a1d108d7a316b181f4bd35eb46a6c68b1f0666e7a5ed03d4bf62e64932
+source_revision: sha256:2088479ca1281e84573546ee58215db78fbf48f67ecf111b34e8da573bdcf802
+source_sha256: 2088479ca1281e84573546ee58215db78fbf48f67ecf111b34e8da573bdcf802
 translation_status: reviewed
 subtype: pub
 address: Dominikanerstraße 6, 96049 Bamberg, Germany
@@ -56,12 +56,6 @@ sources:
     publisher: Schlenkerla
     note: Used for factual verification; no source text is reproduced.
     accessed: 2026-10-29
-  - key: schlenkerla-hours
-    title: Schlenkerla — Öffnungszeiten
-    url: https://www.schlenkerla.de/schlenkerla/oeffnungszeiten.html
-    publisher: Schlenkerla
-    note: The official page states daily 9:30–23:30 all year, a continuous kitchen 11:00–22:00, and the beer garden open Easter to October in good weather; Christmas and New Year have special arrangements.
-    accessed: 2026-11-08
   - key: mapcarta-schlenkerla
     title: Schlenkerla — Mapcarta (OpenStreetMap node 513414350)
     url: https://mapcarta.com/N513414350

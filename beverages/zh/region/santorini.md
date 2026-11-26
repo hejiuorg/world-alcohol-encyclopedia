@@ -89,7 +89,7 @@ verification_scope: source-verified
 
 圣托里尼（Santorini，希腊语 Thira）是爱琴海基克拉泽斯群岛中的火山岛，也是希腊最独特的 PDO 白葡萄酒产区。它以 Assyrtiko、火山土与篮式修剪 kouloura 闻名，在极度干旱与强风中维持着一套近乎手工的葡萄种植体系。
 
-![圣托里尼 图像](/media/photos/region-santorini-5becaa54.png)
+![圣托里尼 图像](/media/photos/region-santorini-5becaa54.webp)
 
 图：圣托里尼。图片：Pitichinaccio，CC BY 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:2011_Dimos_Thiras.png)）。
 

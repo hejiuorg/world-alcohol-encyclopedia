@@ -40,18 +40,6 @@ references:
   - key: public-house
     target_id: culture-article:pub-and-city
 sources:
-  - key: archives-18
-    title: The 18th Amendment — U.S. National Archives
-    url: https://www.archives.gov/milestone-documents/18th-amendment
-    publisher: U.S. National Archives
-    note: 用于核对第十八修正案的文本、通过与被批准时间；未复制原文。
-    accessed: 2026-11-04
-  - key: archives-21
-    title: The 21st Amendment — U.S. National Archives
-    url: https://www.archives.gov/milestone-documents/21st-amendment
-    publisher: U.S. National Archives
-    note: 用于核对第二十一修正案废止禁酒的时间与程序；未复制原文。
-    accessed: 2026-11-04
   - key: britannica-prohibition
     title: Prohibition — Encyclopaedia Britannica
     url: https://www.britannica.com/event/Prohibition-United-States-1920-1933

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:philippe-de-rothschild
 source_lang: zh
-source_revision: sha256:1745e9941ade15a34af92b8242d012683ee16209dc8ad6212bdfe158aa6bc5f7
-source_sha256: 1745e9941ade15a34af92b8242d012683ee16209dc8ad6212bdfe158aa6bc5f7
+source_revision: sha256:339ce77e8db244702a1187f203c137f71d23b4ea21597be0c409f78d328e5c72
+source_sha256: 339ce77e8db244702a1187f203c137f71d23b4ea21597be0c409f78d328e5c72
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1902
@@ -54,18 +54,6 @@ references:
   - key: mondavi
     target_id: person:robert-mondavi
 sources:
-  - key: mouton-history
-    title: History — Château Mouton Rothschild
-    url: https://www.chateau-mouton-rothschild.com/zh-hans/the-history
-    publisher: Château Mouton Rothschild
-    note: Used to check the 1922 takeover, 1924 château bottling, 1926 Grand Chai, 1933 d'Armailhac purchase, artist labels from 1945 and the 1973 promotion; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: mouton-key-dates
-    title: Key dates — Château Mouton Rothschild
-    url: https://www.chateau-mouton-rothschild.com/zh-hans/the-history/key-dates
-    publisher: Château Mouton Rothschild
-    note: Used to check Mouton Cadet in 1930, the wine-in-art museum in 1962, Clerc Milon in 1970, Philippe's death in 1988 and Philippine's succession; no source text is reproduced.
-    accessed: 2026-11-20
   - key: opus-estate
     title: Our Winery & Vineyards — Opus One
     url: https://www.opusonewinery.com/estate/

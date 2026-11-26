@@ -68,12 +68,6 @@ sources:
     publisher: Légifrance
     note: 用于确认 2025 年规范的公布渠道。
     accessed: 2026-11-20
-  - key: vin-bordeaux
-    title: Le vignoble de Bordeaux — chiffres clés
-    url: https://www.bordeaux.com/fr/le-vignoble-de-bordeaux
-    publisher: Conseil Interprofessionnel du Vin de Bordeaux
-    note: 用于核对种植面积与产量结构。
-    accessed: 2026-11-20
 rights:
   status: allowed
   license: CC-BY-4.0

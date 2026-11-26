@@ -73,12 +73,6 @@ sources:
     publisher: "WIPO / IMPI México"
     note: "用于核对 Bacanora 原产地名称的 2000 年保护、35 个市镇产区范围与名称来源，未复制原文。"
     accessed: 2026-11-22
-  - key: economia-bacanora
-    title: "Secretaría de Economía — Bacanora, evaluación de la conformidad"
-    url: https://www.economia.gob.mx/platiica-evaluacion-de-la-conformidad/bacanora/
-    publisher: "Secretaría de Economía, México"
-    note: "用于核对原料品种 Agave angustifolia Haw.（pacífica / yaquiana）与 NOM-168-SCFI-2004 标准，未复制原文。"
-    accessed: 2026-11-22
   - key: eumx-1997-spirits
     title: "EU–Mexico Agreement on mutual recognition and protection of spirit drinks (1997), Annex II"
     url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A01997A0611%2801%29-20200131

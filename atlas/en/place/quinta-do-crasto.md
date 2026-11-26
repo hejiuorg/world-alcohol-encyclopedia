@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:quinta-do-crasto
 source_lang: zh
-source_revision: sha256:f27ac41204e0d8f8511606682be12d09e26499133246b63e7dda373e827583f3
-source_sha256: f27ac41204e0d8f8511606682be12d09e26499133246b63e7dda373e827583f3
+source_revision: sha256:80ad6282391408e202687ee1bed38b8f5decde626947cf40f2369049c4459f81
+source_sha256: 80ad6282391408e202687ee1bed38b8f5decde626947cf40f2369049c4459f81
 translation_status: reviewed
 subtype: winery-visitor
 address: Quinta do Crasto, Gouvinhas, 5060-063 Sabrosa, Portugal
@@ -68,12 +68,6 @@ sources:
     publisher: Quinta do Crasto
     note: Used to check tour formats, duration, group size, prices, the daily 10:00–18:00 reception and wine-shop hours, and the booking channel; the page's prices are dated 6 October 2026; no source text is reproduced.
     accessed: 2026-11-08
-  - key: crasto-contacts
-    title: Quinta do Crasto — Contacts
-    url: https://www.quintadocrasto.wine/en/contacts/
-    publisher: Quinta do Crasto
-    note: Used to check the address Quinta do Crasto, Gouvinhas, 5060-063 Sabrosa, the telephone +351 254 920 020, the wine-tourism booking line +351 254 106 086 and the email enoturismo@quintadocrasto.pt; no source text is reproduced.
-    accessed: 2026-11-08
   - key: mapcarta-crasto
     title: Quinta do Crasto — Mapcarta (OpenStreetMap)
     url: https://mapcarta.com/pt/36097596
@@ -85,12 +79,6 @@ sources:
     url: https://honore.quintadocrasto.wine/en/project/
     publisher: Quinta do Crasto
     note: Used to check the two dates 1615 and 1918 and the inscription on the old iron gate; no source text is reproduced.
-    accessed: 2026-11-07
-  - key: worlds-best
-    title: World's Best Vineyards — Quinta do Crasto
-    url: https://www.worldsbestvineyards.com/the-list/11-20/quinta-do-crasto.html
-    publisher: World's Best Vineyards
-    note: Used to check the 2024 ranking of 15th in the world and first in Portugal; no source text is reproduced.
     accessed: 2026-11-07
 rights:
   status: allowed

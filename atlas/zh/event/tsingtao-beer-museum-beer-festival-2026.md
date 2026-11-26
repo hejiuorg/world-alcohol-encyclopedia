@@ -33,18 +33,6 @@ references:
   - key: c-extra-3
     target_id: drink:shandong-tsingtao
 sources:
-  - key: qingdao-festival
-    title: 第36届青岛国际啤酒节7月17日启幕
-    url: http://www.qingdao.gov.cn/ywdt/zwyw/202606/t20260627_10644680.shtml
-    publisher: 青岛市人民政府
-    note: 用于核对第 36 届青岛国际啤酒节 2026 年 7 月 17 日至 8 月 15 日、为期 30 天、三大会场与免门票政策；未复制原文。
-    accessed: 2026-11-07
-  - key: qingdao-guide
-    title: “限定”30天！啤酒节玩法上新，速速码住
-    url: http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202607/t20260721_10681613.shtml
-    publisher: 青岛市文化和旅游局
-    note: 用于核对啤酒节会期与“打卡青啤博物馆的‘金色奇妙夜’”的官方推荐；未复制原文。
-    accessed: 2026-11-07
   - key: museum-hours
     title: 青岛啤酒博物馆 — 参观须知
     url: https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail
@@ -68,12 +56,6 @@ sources:
     url: https://www.tsingtaomuseum.com/
     publisher: 青岛啤酒博物馆
     note: 用于核对每日 08:30–17:30、16:30 停止入场与在线预约入口；未复制原文。
-    accessed: 2026-11-08
-  - key: qingdao-gov-beer-festival
-    title: 青岛政务网 — 第36届青岛国际啤酒节
-    url: http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202607/t20260720_10681371.shtml
-    publisher: 青岛市人民政府
-    note: 用于核对 2026 年 7 月 17 日至 8 月 15 日、为期 30 天及三大会场；未复制原文。
     accessed: 2026-11-08
 rights:
   status: allowed

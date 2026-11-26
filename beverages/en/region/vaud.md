@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:vaud
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:4a6c9908b69233cff868966448a8d562e46559b62f1cce410e448c276c1aab1a
-source_sha256: 4a6c9908b69233cff868966448a8d562e46559b62f1cce410e448c276c1aab1a
+source_revision: sha256:9815bae69cbebb4dfabba40e251f71183b344534a63297535d2c19877ec18097
+source_sha256: 9815bae69cbebb4dfabba40e251f71183b344534a63297535d2c19877ec18097
 level: other
 country_code: CH
 legacy_refs: []
@@ -95,7 +95,7 @@ verification_scope: source-verified
 
 Vaud, Waadt in German, is a wine region in western Switzerland centred on the north shore of Lake Geneva, known for Chasselas white wines and the Lavaux terraces.
 
-![Vaud image](/media/photos/region-vaud-baccb613.png)
+![Vaud image](/media/photos/region-vaud-baccb613.webp)
 
 Figure: Vaud. Image: Tschubby, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Karte_Kanton_Waadt_2010.png)).
 

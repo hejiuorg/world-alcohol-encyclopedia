@@ -37,8 +37,8 @@ tags:
 translation_of: place:vasse-felix
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7acdfffca09de6f8a37d4633464e5e403ffe65abf7e5bd923bec964a4ed574b6
-source_sha256: 7acdfffca09de6f8a37d4633464e5e403ffe65abf7e5bd923bec964a4ed574b6
+source_revision: sha256:064b118cec80d14f0d5fbc732a49e7fbfeb0977acb847699d9aeb1e7ff0040d7
+source_sha256: 064b118cec80d14f0d5fbc732a49e7fbfeb0977acb847699d9aeb1e7ff0040d7
 related:
   - relation: about
     target_id: region:margaret-river
@@ -62,24 +62,6 @@ references:
   - key: oak
     target_id: process:oak-ageing
 sources:
-  - key: vf-history
-    title: Our History — Vasse Felix
-    url: https://www.vassefelix.com.au/pages/our-history
-    publisher: Vasse Felix
-    note: Used to verify Tom Cullity's 1967 founding, Margaret River's first vineyard and the estate; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: vf-visit
-    title: Visit — Vasse Felix
-    url: https://www.vassefelix.com.au/pages/visit
-    publisher: Vasse Felix
-    note: Used to verify 4357 Bussell Highway, the cellar door, art gallery, restaurant and bookings; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: vf-wines
-    title: Our Wines — Vasse Felix
-    url: https://www.vassefelix.com.au/collections/wine
-    publisher: Vasse Felix
-    note: Used to verify Heytesbury, Filius, Premier and the wine range; no source text is reproduced.
-    accessed: 2026-11-21
   - key: mr-wine
     title: Margaret River — Wine Australia
     url: https://www.wineaustralia.com/market-insights/regions-and-varieties/western-australia-wines/margaret-river

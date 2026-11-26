@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:fenyang
 source_lang: zh
-source_revision: sha256:2454b27b4ed53f6fe11d96cf3f241158f2a7b6a389160647a28d0d544649c8dc
-source_sha256: 2454b27b4ed53f6fe11d96cf3f241158f2a7b6a389160647a28d0d544649c8dc
+source_revision: sha256:381eecc0ae619f72c209cbd111e4e1e79e70787dbebbb5edf23cd3c1bf29ead6
+source_sha256: 381eecc0ae619f72c209cbd111e4e1e79e70787dbebbb5edf23cd3c1bf29ead6
 translation_status: reviewed
 level: city
 parent_id: region:shanxi
@@ -84,7 +84,7 @@ verification_scope: source-verified
 
 Fenyang is a county-level city administered by Lüliang in Shanxi, located at the western edge of the Jinzhong Basin and beneath the Lüliang Mountains. Xinghuacun lies within Fenyang and is the production place long associated with Fenjiu. Unlike the humid strong-aroma areas of southern Sichuan, Fenyang has a semi-arid monsoon climate with cold winters, windy springs and large temperature swings between day and night. To understand Fenyang, "light aroma" is only a starting point; the relationship between earthen jars, climate and sorghum matters just as much.
 
-![Gold medal in the Fenjiu Museum](/media/photos/place-fenjiu-museum-efad0f85.png)
+![Gold medal in the Fenjiu Museum](/media/photos/place-fenjiu-museum-efad0f85.webp)
 
 Image: a gold medal from the 1915 Panama-Pacific International Exposition on display in the Fenjiu Museum; this is a museum object, not a production scene. Photo: Fenjiu Group Cultural Centre, public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E8%A5%BF%E6%B1%BE%E9%85%92%E8%8D%A3%E8%8E%B71915%E5%B9%B4%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E7%9A%84%E2%80%9C%E4%B8%80%E7%AD%89%E9%87%91%E8%B4%A8%E5%A4%A7%E5%A5%96%E7%AB%A0%E2%80%9D_%E6%B1%BE%E9%85%92%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F.png)).
 

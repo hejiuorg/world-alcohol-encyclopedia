@@ -63,12 +63,6 @@ sources:
     publisher: Encyclopaedia Britannica
     note: 用于核对葡萄酒感官与产区背景；未复制原文。
     accessed: 2026-11-20
-  - key: winefolly
-    title: Wine Folly — wine glass guide
-    url: https://winefolly.com/tips/wine-glass-guide/
-    publisher: Wine Folly
-    note: 用于核对品鉴杯型与感官训练建议；未复制原文。
-    accessed: 2026-11-20
   - key: cmog
     title: Corning Museum of Glass — collection search
     url: https://www.cmog.org/collection

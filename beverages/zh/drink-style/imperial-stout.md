@@ -83,7 +83,7 @@ verification_scope: source-verified
 
 帝国世涛（imperial stout）是[啤酒](ref:beer)中[世涛](ref:stout)家族里麦芽浓度最高、酒精度最高的一支。它源于 18 世纪英国向俄国宫廷与波罗的海市场出口的高酒精度、重酒花黑啤，因此在英语里常写作 Russian Imperial Stout。它的边界由四件事共同划出：深色烘焙谷物、厚实酒体、明显的酒精温暖，以及足以支撑多年陈放的苦味与酸度结构。
 
-![帝国世涛 图像](/media/photos/drink-style-imperial-stout-5ced0da8.png)
+![帝国世涛 图像](/media/photos/drink-style-imperial-stout-5ced0da8.webp)
 
 图：帝国世涛。图片：55belgianbeerfan，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)）。
 

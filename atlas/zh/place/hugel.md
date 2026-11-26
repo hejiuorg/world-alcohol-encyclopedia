@@ -49,18 +49,6 @@ references:
   - key: white-wine
     target_id: drink-style:white-wine
 sources:
-  - key: hugel-visit
-    title: "Hugel & Fils — Dégustation à Riquewihr"
-    url: http://www.hugel.com/fr/riquewihr.php
-    publisher: Hugel & Fils
-    note: 用于核对 3, rue de la première armée 地址、品鉴室开放期与预约式酒窖参观；未复制原文。
-    accessed: 2026-11-09
-  - key: hugel-home
-    title: "Hugel & Fils — Official site"
-    url: http://www.hugel.com/fr/
-    publisher: Hugel & Fils
-    note: 用于核对家族自 1639 年起的叙述、贵族品种、产量与出口比例；未复制原文。
-    accessed: 2026-11-09
   - key: vinsalsace
     title: "Vins d'Alsace — Official site"
     url: https://www.vinsalsace.com/

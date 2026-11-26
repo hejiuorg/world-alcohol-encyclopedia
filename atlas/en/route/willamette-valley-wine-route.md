@@ -24,8 +24,8 @@ tags:
 translation_of: route:willamette-valley-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0d01c864cd053e29dd5e857450106849da9698c8b39c577e48b6088f43d04b72
-source_sha256: 0d01c864cd053e29dd5e857450106849da9698c8b39c577e48b6088f43d04b72
+source_revision: sha256:cd1cad9b4dc79cee4950dde9f02a07ed8b71f66f005f68bf4eb4fb496b174150
+source_sha256: cd1cad9b4dc79cee4950dde9f02a07ed8b71f66f005f68bf4eb4fb496b174150
 related:
   - relation: about
     target_id: place:domaine-drouhin-oregon
@@ -60,18 +60,6 @@ sources:
     url: https://willamettewineries.com/
     publisher: Willamette Valley Wineries Association
     note: Used to verify wine-estate maps, routes and visitor information; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: wv-ddo
-    title: Visit — Domaine Drouhin Oregon
-    url: https://www.drouhinoregon.com/pages/visit
-    publisher: Domaine Drouhin Oregon
-    note: Used to verify 6750 Breyman Orchards Road, bookings and opening hours; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: wv-eyrie
-    title: Visit — The Eyrie Vineyards
-    url: https://www.eyrievineyards.com/pages/visit
-    publisher: The Eyrie Vineyards
-    note: Used to verify 935 N. Kutch Street, bookings and opening hours; no source text is reproduced.
     accessed: 2026-11-21
 rights:
   status: allowed

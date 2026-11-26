@@ -7,8 +7,8 @@ slug: blind-tasting
 title: Blind Tasting
 translation_of: technique:blind-tasting
 source_lang: zh
-source_revision: sha256:4403757976f603762fd4c3ae841725b65f86d5263940f646632ae004d7428648
-source_sha256: 4403757976f603762fd4c3ae841725b65f86d5263940f646632ae004d7428648
+source_revision: sha256:3f91fe0d84e0d6765ae5aff83380c59477715803298d13a5b53e359a8db5d638
+source_sha256: 3f91fe0d84e0d6765ae5aff83380c59477715803298d13a5b53e359a8db5d638
 translation_status: reviewed
 summary: Judging a drink without seeing its label, using aroma, palate, structure and finish to infer type, origin, age and quality. Method matters more than guessing right.
 status: reviewed
@@ -66,12 +66,6 @@ sources:
     url: https://www.britannica.com/topic/wine
     publisher: Encyclopaedia Britannica
     note: Used to check wine sensory and regional background; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: winefolly
-    title: Wine Folly — wine glass guide
-    url: https://winefolly.com/tips/wine-glass-guide/
-    publisher: Wine Folly
-    note: Used to check tasting glass and sensory training advice; no source text is reproduced.
     accessed: 2026-11-20
   - key: cmog
     title: Corning Museum of Glass — collection search

@@ -83,7 +83,7 @@ verification_scope: source-verified
 
 世涛（stout）是一类深色上面发酵啤酒，以烘焙大麦带来的咖啡、可可与烘烤香气为特征。名称源自 18 世纪的“stout porter”，即更烈的波特；19 世纪在都柏林形成以干世涛为代表的形态，20 世纪又分化出甜世涛、燕麦世涛与帝国世涛。世涛不是“最烈的啤酒”的同义词，其内部强度差异很大。
 
-![世涛 图像](/media/photos/drink-style-stout-5ced0da8.png)
+![世涛 图像](/media/photos/drink-style-stout-5ced0da8.webp)
 
 图：世涛。图片：55belgianbeerfan，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)）。
 

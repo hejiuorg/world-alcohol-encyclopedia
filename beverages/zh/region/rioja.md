@@ -77,11 +77,6 @@ sources:
     note: 参考其关于里奥哈、丹魄与歌海娜的条目；未复制原文。
     accessed: 2026-11-05
     url: https://global.oup.com/academic/product/the-oxford-companion-to-wine-9780198871316
-  - key: eurlex
-    title: Commission Notice on traditional terms for Rioja — OJ C 73, 6 March 2020
-    url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52020XC0306
-    publisher: European Union
-    note: 由原条目末尾参考资料迁移，未逐条复核访问日期。
   - key: ref
     title: 《The Oxford Companion to Wine》里奥哈、丹魄与歌海娜条目
     publisher: Oxford University Press

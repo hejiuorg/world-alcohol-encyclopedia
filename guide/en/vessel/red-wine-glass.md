@@ -7,8 +7,8 @@ slug: red-wine-glass
 title: Red Wine Glass
 translation_of: vessel:red-wine-glass
 source_lang: zh
-source_revision: sha256:b962a3f66fde06262e47ed0962efd1442684b59101ae20fa743978a3e4db724a
-source_sha256: b962a3f66fde06262e47ed0962efd1442684b59101ae20fa743978a3e4db724a
+source_revision: sha256:895edeae099bf28c94c9f63a908c4ae539e616268a5f45c26e7122886a8f68b1
+source_sha256: 895edeae099bf28c94c9f63a908c4ae539e616268a5f45c26e7122886a8f68b1
 translation_status: reviewed
 summary: A stemmed glass with a wide bowl and a slightly narrowed rim, used for red wine. The wide bowl opens the aroma and the narrowed rim gathers it at the nose.
 status: reviewed
@@ -71,12 +71,6 @@ sources:
     url: https://www.riedel.com/en
     publisher: Riedel
     note: Used to check the design logic of different wine glasses; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: winefolly
-    title: Wine Folly — wine glass guide
-    url: https://winefolly.com/tips/wine-glass-guide/
-    publisher: Wine Folly
-    note: Used to check general guidance on glass and wine pairing; no source text is reproduced.
     accessed: 2026-11-20
 rights:
   status: allowed

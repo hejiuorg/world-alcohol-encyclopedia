@@ -117,7 +117,7 @@ abv:
 
 汝拉坡（Côtes du Jura）是[法国](ref:france)[汝拉](ref:jura)覆盖范围最广的法定产区：从北到南铺开 105 个市镇，却只有约 551 公顷葡萄园。它以[白葡萄酒](ref:white-wine)和起泡酒为主，同时生产[红葡萄酒](ref:red-wine)、[黄酒](ref:yellow-wine)、稻草酒，并为 Macvin du Jura 提供葡萄。常见 750 mL，[酒精度](ref:abv)约 12.5%–14.5% vol。
 
-![汝拉坡 图像](/media/photos/drink-france-cotes-du-jura-dea97caf.png)
+![汝拉坡 图像](/media/photos/drink-france-cotes-du-jura-dea97caf.webp)
 
 图：汝拉坡。图片：DalGobboM ¿!i?，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vignobles_jura.png)）。
 

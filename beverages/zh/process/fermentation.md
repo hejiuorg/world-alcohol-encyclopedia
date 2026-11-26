@@ -83,7 +83,7 @@ applies_to_refs:
 
 发酵是酵母或细菌在低氧条件下分解糖、生成乙醇、二氧化碳与风味物质的代谢过程。它把糖化学能转成细胞能量，顺带把乙醇排到细胞外。所有发酵酒都以这一步为核心：葡萄酒、啤酒、清酒、苹果酒、蜂蜜酒靠它得到酒精；白酒、威士忌、白兰地则先发酵，再用[蒸馏](ref:distillation)浓缩。
 
-![发酵 图像](/media/photos/process-fermentation-f5958dba.png)
+![发酵 图像](/media/photos/process-fermentation-f5958dba.webp)
 
 图：发酵。图片：Tjhackmann，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)）。
 

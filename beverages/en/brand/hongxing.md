@@ -11,8 +11,8 @@ revision: 2
 translation_of: brand:hongxing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9372c4555d82a68f5d921f3096751f5798e45d441162fbdc7f2fc2a129d506ac
-source_sha256: 9372c4555d82a68f5d921f3096751f5798e45d441162fbdc7f2fc2a129d506ac
+source_revision: sha256:521df7e7db894d5a4107e92ab41abdfed87b71e091a0b4cf521ce96246aa8fc4
+source_sha256: 521df7e7db894d5a4107e92ab41abdfed87b71e091a0b4cf521ce96246aa8fc4
 producer_refs:
   - producer:hongxing
 region_refs:
@@ -57,12 +57,6 @@ sources:
     url: https://www.redstarwine.cn/
     publisher: 北京二锅头酒博物馆
     note: Used to verify the Yuanshenghao origin and the 2008 national intangible cultural heritage status; no source text is reproduced.
-    accessed: 2026-11-04
-  - key: baike-blue-bottle
-    title: Baidu Baike — Red Star blue-bottle er-guotou
-    url: https://m.baike.com/wiki/%E7%BA%A2%E6%98%9F%E8%93%9D%E7%93%B6%E4%BA%8C%E9%94%85%E5%A4%B4/7915594
-    publisher: 百度百科
-    note: Used to verify the aroma type, strength and net-volume range of the blue-bottle product; no source text is reproduced.
     accessed: 2026-11-04
   - key: redstar-csr
     title: Beijing Red Star Co., Ltd. 2024 corporate social responsibility report

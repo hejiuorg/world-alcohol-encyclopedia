@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:napa-valley
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:06933d9881271fe89511a40dace320dfd4f968384cc578b11b9028dc66e8f9b0
-source_sha256: 06933d9881271fe89511a40dace320dfd4f968384cc578b11b9028dc66e8f9b0
+source_revision: sha256:9af2b8c0a634dfe52c0702192d7e194d2e87e777117cea39216a32e6a707529f
+source_sha256: 9af2b8c0a634dfe52c0702192d7e194d2e87e777117cea39216a32e6a707529f
 level: other
 parent_id: region:usa
 country_code: US
@@ -98,7 +98,7 @@ verification_scope: source-verified
 
 Napa Valley is California's best-known wine region, known for Cabernet Sauvignon and a dense system of small appellations.
 
-![Napa Valley image](/media/photos/region-napa-valley-777f1f74.png)
+![Napa Valley image](/media/photos/region-napa-valley-777f1f74.webp)
 
 Figure: Napa Valley. Image: Unknown author Unknown author, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:TTB_Map_Napa_Valley_AVA.png)).
 

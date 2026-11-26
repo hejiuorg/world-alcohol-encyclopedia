@@ -45,23 +45,11 @@ references:
   - key: pinot
     target_id: variety:pinot-noir
 sources:
-  - key: sonoma-wine
-    title: "Sonoma County — Wine Institute"
-    url: https://www.wineinstitute.org/regions/sonoma-county
-    publisher: "Wine Institute"
-    note: "用于核对索诺马县位置、海岸雾、亚历山大谷与俄罗斯河谷；未复制原文。"
-    accessed: 2026-11-21
   - key: sonoma-vintners
     title: "Sonoma Valley Vintners & Growers Alliance"
     url: https://www.sonomavalley.com/
     publisher: "Sonoma Valley Vintners & Growers Alliance"
     note: "用于核对索诺马谷酒庄、地图与访问信息；未复制原文。"
-    accessed: 2026-11-21
-  - key: sonoma-jordan
-    title: "Visit — Jordan Vineyard & Winery"
-    url: https://www.jordanwinery.com/pages/visit
-    publisher: "Jordan Vineyard & Winery"
-    note: "用于核对 1474 Alexander Valley Road、预约与餐厅；未复制原文。"
     accessed: 2026-11-21
   - key: sonoma-selyem
     title: "Visit — Williams Selyem"

@@ -40,8 +40,8 @@ related:
 translation_of: person:andre-tchelistcheff
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8b8cdf44421df2b66bb07c4d98571d7f85ab2ebb3d077f97a74287d45a535f03
-source_sha256: 8b8cdf44421df2b66bb07c4d98571d7f85ab2ebb3d077f97a74287d45a535f03
+source_revision: sha256:453b4df80ad73eb59cab2ffa6ccfc9febabf631ba40bd697cc82004bb8653ee0
+source_sha256: 453b4df80ad73eb59cab2ffa6ccfc9febabf631ba40bd697cc82004bb8653ee0
 references:
   - key: usa
     target_id: region:usa
@@ -65,12 +65,6 @@ sources:
     url: https://www.bvwines.com/en/100-years-of-quality-wine.html
     publisher: Beaulieu Vineyard
     note: Used to check Georges de Latour's 1938 recruitment, the creation of Private Reserve and Tchelistcheff's innovations; no text copied.
-    accessed: 2026-11-21
-  - key: maestro-film
-    title: André Tchelistcheff — The Story
-    url: http://themaestrofilm.com/thestory.htm
-    publisher: The Voice of Wine documentary
-    note: Used to check the White Army service, Pasteur study, Moët & Chandon and Nicolas work, cold fermentation, malolactic fermentation, frost protection and vineyard disease work; no text copied.
     accessed: 2026-11-21
   - key: oxford-companion-wine
     title: The Oxford Companion to Wine (4th edition)

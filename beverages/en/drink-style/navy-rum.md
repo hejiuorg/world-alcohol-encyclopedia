@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:navy-rum
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:99612987e6e96d52e1a390c2b9bdad25fa8802a05423b2414cac522c42bb3af3
-source_sha256: 99612987e6e96d52e1a390c2b9bdad25fa8802a05423b2414cac522c42bb3af3
+source_revision: sha256:c8f7fb747f57fa93306c21583cfa2df61b18a383b945ab73b578a34f00ee2e0f
+source_sha256: c8f7fb747f57fa93306c21583cfa2df61b18a383b945ab73b578a34f00ee2e0f
 related:
   - relation: about
     target_id: drink-style:rum
@@ -69,18 +69,6 @@ sources:
     url: https://www.rmg.co.uk/stories/blog/curatorial/rum-deal-origins-nelsons-blood
     publisher: Royal Museums Greenwich
     note: Used to verify Royal Navy rum rations, Pusser's Rum and Black Tot Day history; no source text is reproduced.
-    accessed: 2026-11-22
-  - key: pussers-history
-    title: The Pusser's Story — Royal Navy ration history and Pusser's founding
-    url: https://pussers.com/pussers-history/
-    publisher: Pusser's British West Indies, Ltd.
-    note: Used to verify the 1655 rum-for-beer ration switch, the Purser name, the 1970 Black Tot Day and the 1979 brand recreation; no source text is reproduced.
-    accessed: 2026-11-22
-  - key: lambs-navy
-    title: Lambs Navy Rum — product range
-    url: https://www.libradrinks.co.uk/product-ranges/spirits/lambs-navy-rum-lamb02
-    publisher: Libra Drinks
-    note: Used to verify the Lamb's 1849 founding, blend of 18 origin rums and 40% ABV; no source text is reproduced.
     accessed: 2026-11-22
 rights:
   status: allowed

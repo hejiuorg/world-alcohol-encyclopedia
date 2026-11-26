@@ -62,24 +62,6 @@ sources:
     note: 参考其关于中国白酒香型与评酒的条目；未复制原文。
     accessed: 2026-11-05
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
-  - key: hhljy-intro
-    title: 黄鹤楼酒业有限公司 — 企业概况
-    url: "https://www.hhljy.com.cn/list/2.html"
-    publisher: 黄鹤楼酒业有限公司
-    note: 用于核对品牌历史、产品系列与荣誉；仅作事实核验，未复制宣传文案。
-    accessed: 2026-11-07
-  - key: hhljy-chenxiang
-    title: 黄鹤楼酒业有限公司 — 陈香系列
-    url: "https://www.hhljy.com.cn/list/19.html"
-    publisher: 黄鹤楼酒业有限公司
-    note: 用于核对陈香系列的单品命名；未复制原文。
-    accessed: 2026-11-07
-  - key: hhljy-gengshang
-    title: 黄鹤楼酒业有限公司 — 黄鹤楼酒·更上层楼
-    url: "https://www.hhljy.com.cn/view/470.html"
-    publisher: 黄鹤楼酒业有限公司
-    note: 用于核对更上层楼的香型、酒精度与原料标注；未复制原文。
-    accessed: 2026-11-07
   - key: ref
     title: "GB/T 10781.2-2022《白酒质量要求 第2部分：清香型白酒》"
     publisher: "国家市场监督管理总局、国家标准化管理委员会"

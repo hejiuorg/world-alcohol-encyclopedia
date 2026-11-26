@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fattoria-felsina
 source_lang: zh
-source_revision: sha256:18ada035ada23bd2bf5f4f524119d12e809eb2ee20c889d65ac8c4fc4ca00cb6
-source_sha256: 18ada035ada23bd2bf5f4f524119d12e809eb2ee20c889d65ac8c4fc4ca00cb6
+source_revision: sha256:08f24caad5fc21e5726c96b2edff447ef87e83b3ad54bcf74f878b3443305b82
+source_sha256: 08f24caad5fc21e5726c96b2edff447ef87e83b3ad54bcf74f878b3443305b82
 translation_status: reviewed
 subtype: winery-visitor
 address: Via del Chianti 101, 53019 Castelnuovo Berardenga (SI), Italy
@@ -59,23 +59,11 @@ references:
   - key: c-extra-2
     target_id: place:castello-di-brolio
 sources:
-  - key: felsina-home
-    title: Fèlsina — Land of Light
-    url: https://www.felsina.it/en/home/
-    publisher: Fattoria Fèlsina
-    note: Used to check the Poggiali family's purchase in 1966, the first Fontalloro and Rancia in 1983, Giovanni Poggiali's arrival in 1990, the tufa cellars and the 1998 stainless-steel equipment; no source text is reproduced.
-    accessed: 2026-11-08
   - key: felsina-contact
     title: Contact — Fattoria Fèlsina
     url: https://www.felsina.it/en/contact/
     publisher: Fattoria Fèlsina
     note: Used to check the Via del Chianti 101 address, the official coordinates 43.349499 / 11.501247, the 10:00–18:00 hours, Sunday closure in January–February and the booking email and phone; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: felsina-products
-    title: Fèlsina Products — Wine & Olive Oil
-    url: https://www.felsina.it/en/i-prodotti-di-felsina/
-    publisher: Fattoria Fèlsina
-    note: Used to check the Rancia, Fontalloro, Colonia, Berardenga, Vin Santo, sparkling wine and olive-oil ranges; no source text is reproduced.
     accessed: 2026-11-08
   - key: chianticlassico-types
     title: Types — Consorzio Vino Chianti Classico

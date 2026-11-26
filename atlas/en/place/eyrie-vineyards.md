@@ -39,8 +39,8 @@ tags:
 translation_of: place:eyrie-vineyards
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:25c6cd2fed2ebb11a674abc4e810cd715a57d8fe884f010430e904b749824ceb
-source_sha256: 25c6cd2fed2ebb11a674abc4e810cd715a57d8fe884f010430e904b749824ceb
+source_revision: sha256:8a7dec6b42e06cfec561bb4d86f7cbde65811171fd42e42a2ca3751f0641829e
+source_sha256: 8a7dec6b42e06cfec561bb4d86f7cbde65811171fd42e42a2ca3751f0641829e
 related:
   - relation: about
     target_id: region:willamette-valley
@@ -64,24 +64,6 @@ references:
   - key: region
     target_id: region:australia
 sources:
-  - key: eyrie-history
-    title: Our History — The Eyrie Vineyards
-    url: https://www.eyrievineyards.com/pages/our-history
-    publisher: The Eyrie Vineyards
-    note: Used to verify David Lett's 1965 founding, the 1966 Pinot Noir planting and the estate's history; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: eyrie-visit
-    title: Visit — The Eyrie Vineyards
-    url: https://www.eyrievineyards.com/pages/visit
-    publisher: The Eyrie Vineyards
-    note: Used to verify 935 N. Kutch Street, booked tastings and opening hours; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: eyrie-wines
-    title: Our Wines — The Eyrie Vineyards
-    url: https://www.eyrievineyards.com/collections/wine
-    publisher: The Eyrie Vineyards
-    note: Used to verify the Estate, Original Vines, Pinot Gris and Chardonnay wines; no source text is reproduced.
-    accessed: 2026-11-21
   - key: oregon-wine2
     title: Willamette Valley — Oregon Wine Board
     url: https://www.oregonwine.org/regions/willamette-valley/

@@ -7,8 +7,8 @@ slug: bordeaux-aoc
 title: Bordeaux AOC Decree
 translation_of: standard:bordeaux-aoc
 source_lang: zh
-source_revision: sha256:54c19809771c0639a8559ed155223a8c20ca7361b2c7cba05b36a1e97bc90c04
-source_sha256: 54c19809771c0639a8559ed155223a8c20ca7361b2c7cba05b36a1e97bc90c04
+source_revision: sha256:b0dd85ca62cc8dc11200f68a5f1bcbd7607040b829a731f1a1cc4959d98b70f6
+source_sha256: b0dd85ca62cc8dc11200f68a5f1bcbd7607040b829a731f1a1cc4959d98b70f6
 translation_status: reviewed
 issuer: Institut national de l'origine et de la qualité (INAO)
 standard_code: Cahier des charges de l'AOC Bordeaux
@@ -69,12 +69,6 @@ sources:
     url: https://www.legifrance.gouv.fr/
     publisher: Légifrance
     note: Used to confirm the publication channel for the 2025 specification.
-    accessed: 2026-11-20
-  - key: vin-bordeaux
-    title: Le vignoble de Bordeaux — chiffres clés
-    url: https://www.bordeaux.com/fr/le-vignoble-de-bordeaux
-    publisher: Conseil Interprofessionnel du Vin de Bordeaux
-    note: Used for vineyard area and production structure.
     accessed: 2026-11-20
 rights:
   status: allowed

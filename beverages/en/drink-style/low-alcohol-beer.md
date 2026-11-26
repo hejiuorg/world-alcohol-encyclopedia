@@ -23,8 +23,8 @@ tags:
 translation_of: drink-style:low-alcohol-beer
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1f1617b9681b81f098729466aec3fc8864b161377e8ee7890f983dad4f90c281
-source_sha256: 1f1617b9681b81f098729466aec3fc8864b161377e8ee7890f983dad4f90c281
+source_revision: sha256:a545c9314cc535259d079c031fdbd5c60b95a5f96f364ddf527fa2d140c7c910
+source_sha256: a545c9314cc535259d079c031fdbd5c60b95a5f96f364ddf527fa2d140c7c910
 related:
   - relation: about
     target_id: drink-style:beer
@@ -72,12 +72,6 @@ sources:
     publisher: ASBC
     note: Used to verify beer analysis and process parameters; no source text is reproduced.
     accessed: 2026-11-21
-  - key: ttb-malt-label
-    title: "TTB — Malt Beverage Labeling: Alcohol Content"
-    url: https://www.ttb.gov/beer/labeling/malt-beverage-alcohol-content
-    publisher: US Alcohol and Tobacco Tax and Trade Bureau
-    note: Used to verify US labelling rules for non-alcoholic (below 0.5% ABV), low alcohol (below 2.5% ABV) and alcohol free malt beverages; no source text is reproduced.
-    accessed: 2026-11-22
   - key: govuk-nolo
     title: GOV.UK — Updating labelling guidance for no and low-alcohol alternatives
     url: https://www.gov.uk/government/consultations/updating-labelling-guidance-for-no-and-low-alcohol-alternatives/updating-labelling-guidance-for-no-and-low-alcohol-alternatives-consultation

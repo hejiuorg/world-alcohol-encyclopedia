@@ -39,8 +39,8 @@ tags:
 translation_of: place:domaine-drouhin-oregon
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b338eff6d190b54bc6b2ec4b9518a2c611c2ce4fcbba3e1f47a689f08d1f8f49
-source_sha256: b338eff6d190b54bc6b2ec4b9518a2c611c2ce4fcbba3e1f47a689f08d1f8f49
+source_revision: sha256:ac6045935afac6dd260e87f8ac36c9115aa5b76a611059f8e45f4180524c7ecb
+source_sha256: ac6045935afac6dd260e87f8ac36c9115aa5b76a611059f8e45f4180524c7ecb
 related:
   - relation: about
     target_id: region:willamette-valley
@@ -64,24 +64,6 @@ references:
   - key: oak
     target_id: process:oak-ageing
 sources:
-  - key: ddo-history
-    title: Our History — Domaine Drouhin Oregon
-    url: https://www.drouhinoregon.com/pages/our-history
-    publisher: Domaine Drouhin Oregon
-    note: Used to verify Robert Drouhin's 1987 founding, Dundee Hills and the Burgundian family background; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: ddo-visit
-    title: Visit — Domaine Drouhin Oregon
-    url: https://www.drouhinoregon.com/pages/visit
-    publisher: Domaine Drouhin Oregon
-    note: Used to verify 6750 Breyman Orchards Road, booked tastings and opening hours; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: ddo-wines
-    title: Our Wines — Domaine Drouhin Oregon
-    url: https://www.drouhinoregon.com/collections/wine
-    publisher: Domaine Drouhin Oregon
-    note: Used to verify Dundee Hills, Laurene, Roserock and the wine range; no source text is reproduced.
-    accessed: 2026-11-21
   - key: oregon-wine
     title: Willamette Valley — Oregon Wine Board
     url: https://www.oregonwine.org/regions/willamette-valley/

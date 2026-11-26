@@ -76,12 +76,6 @@ sources:
     publisher: "Wine Australia"
     note: "用于核对塔斯马尼亚葡萄园面积、海拔、生长季降雨、一月气温与土壤类型，未复制原文。"
     accessed: 2026-11-22
-  - key: wineaustralia-tasmania-history
-    title: "Tasmania: Australian Wine's Outsider Comes In From The Cold"
-    url: https://www.wineaustralia.com/tasmania
-    publisher: "Wine Australia"
-    note: "用于核对 1788、1823、1834、1956、1958 等历史年份与人物，未复制原文。"
-    accessed: 2026-11-22
   - key: wine-tasmania
     title: "Wine Tasmania — peak industry body"
     url: https://winetasmania.com.au/

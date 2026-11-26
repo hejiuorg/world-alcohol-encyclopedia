@@ -68,12 +68,6 @@ sources:
     publisher: "ASBC"
     note: "用于核对啤酒分析与工艺参数，未复制原文。"
     accessed: 2026-11-21
-  - key: ttb-malt-label
-    title: "TTB — Malt Beverage Labeling: Alcohol Content"
-    url: https://www.ttb.gov/beer/labeling/malt-beverage-alcohol-content
-    publisher: "US Alcohol and Tobacco Tax and Trade Bureau"
-    note: "用于核对美国 non-alcoholic（低于 0.5% ABV）、low alcohol（低于 2.5% ABV）与 alcohol free 的标签规则，未复制原文。"
-    accessed: 2026-11-22
   - key: govuk-nolo
     title: "GOV.UK — Updating labelling guidance for no and low-alcohol alternatives"
     url: https://www.gov.uk/government/consultations/updating-labelling-guidance-for-no-and-low-alcohol-alternatives/updating-labelling-guidance-for-no-and-low-alcohol-alternatives-consultation

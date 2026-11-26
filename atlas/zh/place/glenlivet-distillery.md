@@ -70,12 +70,6 @@ sources:
     publisher: Pernod Ricard
     note: 用于核对 2021 年游客体验翻新、品牌归属与“原创斯佩塞单一麦芽”的定位；未复制原文。
     accessed: 2026-11-08
-  - key: visitscotland-speyside
-    title: Speyside — VisitScotland
-    url: https://www.visitscotland.com/places-to-go/regions/speyside
-    publisher: VisitScotland
-    note: 用于核对斯佩塞产区范围、Ballindalloch 一带的酒厂分布与旅行季节；未复制原文。
-    accessed: 2026-11-08
   - key: official-site
     title: "格兰威特蒸馏厂 — 官方页面"
     url: "https://www.theglenlivet.com/"

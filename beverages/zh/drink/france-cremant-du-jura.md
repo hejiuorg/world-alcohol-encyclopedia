@@ -86,7 +86,7 @@ abv:
 
 汝拉起泡酒（Crémant du Jura）是[法国](ref:france)[汝拉](ref:jura)的传统法[起泡酒](ref:sparkling-wine)法定产区。它以霞多丽、萨瓦涅、黑皮诺、普尔萨与特鲁索等品种酿造，二次发酵在瓶中进行，带酒泥陈年不少于 9 个月。常见 750 mL，[酒精度](ref:abv)约 12.0%–12.5% vol。
 
-![汝拉起泡酒 图像](/media/photos/drink-france-cremant-du-jura-dea97caf.png)
+![汝拉起泡酒 图像](/media/photos/drink-france-cremant-du-jura-dea97caf.webp)
 
 图：汝拉起泡酒。图片：DalGobboM ¿!i?，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Vignobles_jura.png)）。
 

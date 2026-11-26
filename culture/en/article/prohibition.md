@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: culture-article:prohibition
 source_lang: zh
-source_revision: sha256:ad4eb1b2aa03df28c1fd990a2298c0f8b09a93c532b0912205e117ad260433a3
-source_sha256: ad4eb1b2aa03df28c1fd990a2298c0f8b09a93c532b0912205e117ad260433a3
+source_revision: sha256:8c4b4660b954e31262b19822fc8871b93526d833c341aed76885fb21b41ea194
+source_sha256: 8c4b4660b954e31262b19822fc8871b93526d833c341aed76885fb21b41ea194
 translation_status: reviewed
 about_refs:
   - historical-event:us-prohibition
@@ -44,18 +44,6 @@ references:
   - key: public-house
     target_id: culture-article:pub-and-city
 sources:
-  - key: archives-18
-    title: The 18th Amendment — U.S. National Archives
-    url: https://www.archives.gov/milestone-documents/18th-amendment
-    publisher: U.S. National Archives
-    note: Used to check the text, adoption and ratification dates of the 18th Amendment; no source text is reproduced.
-    accessed: 2026-11-04
-  - key: archives-21
-    title: The 21st Amendment — U.S. National Archives
-    url: https://www.archives.gov/milestone-documents/21st-amendment
-    publisher: U.S. National Archives
-    note: Used to check the date and procedure by which the 21st Amendment repealed prohibition; no source text is reproduced.
-    accessed: 2026-11-04
   - key: britannica-prohibition
     title: Prohibition — Encyclopaedia Britannica
     url: https://www.britannica.com/event/Prohibition-United-States-1920-1933

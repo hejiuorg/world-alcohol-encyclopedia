@@ -83,7 +83,7 @@ verification_scope: source-verified
 ---
 # 《Imbibe!》
 
-![杰里·托马斯表演蓝焰调酒的插画](/media/photos/book-imbibe-book-d0363558.png)
+![杰里·托马斯表演蓝焰调酒的插画](/media/photos/book-imbibe-book-d0363558.webp)
 
 图：描绘杰里·托马斯表演“蓝焰”（Blue Blazer）的现代上色插画；它不是历史照片，也不是《Imbibe!》封面。图片：CakeandTail，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:JerryThomas-blue-blazer-880x435.png)）。
 

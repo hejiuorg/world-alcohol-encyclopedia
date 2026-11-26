@@ -58,12 +58,6 @@ references:
   - key: art
     target_id: term:terroir
 sources:
-  - key: le-history
-    title: "Our History — Leeuwin Estate"
-    url: https://www.leeuwinestate.com.au/pages/our-history
-    publisher: "Leeuwin Estate"
-    note: "用于核对 1969 年 Horgan 家族创立、玛格丽特河种植与家族传承；未复制原文。"
-    accessed: 2026-11-21
   - key: le-visit
     title: "Visit — Leeuwin Estate"
     url: https://www.leeuwinestate.com.au/pages/visit

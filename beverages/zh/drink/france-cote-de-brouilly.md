@@ -87,7 +87,7 @@ abv:
 
 酒标上，布鲁伊丘比相邻的[布鲁伊](ref:brouilly)只多了一个词：Côte。这个“坡”字不是装饰——它把范围从山脚收缩到山坡，也把酒从轻盈果味推向更紧的骨架。选购时先分清这两个名字，比记住任何形容词都管用。常见 750 mL，[酒精度](ref:abv)约 12.5%–13.5% vol。
 
-![布鲁伊丘 图像](/media/photos/drink-france-cote-de-brouilly-9700eca2.png)
+![布鲁伊丘 图像](/media/photos/drink-france-cote-de-brouilly-9700eca2.webp)
 
 图：布鲁伊丘。图片：Cyril5555，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)）。
 

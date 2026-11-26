@@ -52,12 +52,6 @@ sources:
     publisher: The Glenlivet
     note: 用于核对 Ballindalloch 地址、B9008 位置与建议提前预约；未复制原文。
     accessed: 2026-11-08
-  - key: visitscotland-speyside
-    title: "Speyside — VisitScotland"
-    url: https://www.visitscotland.com/places-to-go/regions/speyside
-    publisher: VisitScotland
-    note: 用于核对斯佩塞产区范围、达夫镇与 Craigellachie、Ballindalloch 的相对位置；未复制原文。
-    accessed: 2026-11-08
   - key: malt-whisky-trail
     title: "The Malt Whisky Trail — Speyside"
     url: https://www.maltwhiskytrail.com/

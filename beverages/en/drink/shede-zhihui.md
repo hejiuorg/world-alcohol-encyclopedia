@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink:shede-zhihui
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:38fade1a8580fbc47e3bfa670f0d26a7d7f4a60f7121c593b963e7ca1149d181
-source_sha256: 38fade1a8580fbc47e3bfa670f0d26a7d7f4a60f7121c593b963e7ca1149d181
+source_revision: sha256:883afc9d94839d180810876ee1ae04514176488a84c7c73c39dcf46a37ddd0b6
+source_sha256: 883afc9d94839d180810876ee1ae04514176488a84c7c73c39dcf46a37ddd0b6
 style_refs:
   - drink-style:baijiu
   - drink-style:strong-aroma-baijiu
@@ -68,12 +68,6 @@ sources:
     url: https://www.tuopaishede.cn/
     publisher: 舍得酒业股份有限公司
     note: Used to verify brand positioning and public product information; no source text is reproduced.
-    accessed: 2026-11-04
-  - key: baike-shede
-    title: 百度百科 — 舍得酒
-    url: https://m.baike.com/wiki/%E8%88%8D%E5%BE%97%E9%85%92/5286044
-    publisher: 百度百科
-    note: Used to verify aroma type, strengths, volume and the base-spirit age statement; no source text is reproduced.
     accessed: 2026-11-04
   - key: chinanews-2018
     title: 中国新闻网 — 智慧舍得上市 舍得推出全新品牌口号“中国智慧”

@@ -40,8 +40,8 @@ related:
 translation_of: person:giacomo-conterno
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:43a2d75dae2b78d59716885ca4c729f0c0c2b914199ee126742ade146dd05e68
-source_sha256: 43a2d75dae2b78d59716885ca4c729f0c0c2b914199ee126742ade146dd05e68
+source_revision: sha256:fa0fe708925fa7f897dbb8e2499d63a2b4ba2467ea0450d4b9c099b894b6e42d
+source_sha256: fa0fe708925fa7f897dbb8e2499d63a2b4ba2467ea0450d4b9c099b894b6e42d
 references:
   - key: barolo
     target_id: region:barolo
@@ -59,12 +59,6 @@ sources:
     url: https://www.giacomoconterno.com/
     publisher: Giacomo Conterno
     note: Used to check the estate's location in Monforte d'Alba and the basic identity of Cascina Francia and Monfortino; no text copied.
-    accessed: 2026-11-21
-  - key: rarewine
-    title: Giacomo Conterno
-    url: https://www.rarewineco.com/wholesale/producer/giacomo-conterno/
-    publisher: The Rare Wine Co.
-    note: Used to check Giovanni's 1908 tavern, Giacomo's post-war 1920 Riserva, the Monfortino name, the 1974 Cascina Francia purchase and Giovanni's death in 2004; no text copied.
     accessed: 2026-11-21
   - key: sommselect
     title: "Behind The Wine: Giacomo Conterno"

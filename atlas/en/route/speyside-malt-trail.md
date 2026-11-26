@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:speyside-malt-trail
 source_lang: zh
-source_revision: sha256:7dad000a53cb146c8e535aaf2cac61e6caa785443dc67fa1215f675f1be9ed21
-source_sha256: 7dad000a53cb146c8e535aaf2cac61e6caa785443dc67fa1215f675f1be9ed21
+source_revision: sha256:02a99887d4c0f98fae2d552913c3e096d57308a8ec652c7da2413bf3a0d243b7
+source_sha256: 02a99887d4c0f98fae2d552913c3e096d57308a8ec652c7da2413bf3a0d243b7
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -54,12 +54,6 @@ sources:
     url: https://www.theglenlivet.com/en/our-community/articles/the-glenlivet-distillery-reopened
     publisher: The Glenlivet
     note: Used to check the Ballindalloch address, the B9008 location and the advice to pre-book; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: visitscotland-speyside
-    title: Speyside — VisitScotland
-    url: https://www.visitscotland.com/places-to-go/regions/speyside
-    publisher: VisitScotland
-    note: Used to check the Speyside region and the relative positions of Dufftown, Craigellachie and Ballindalloch; no source text is reproduced.
     accessed: 2026-11-08
   - key: malt-whisky-trail
     title: The Malt Whisky Trail — Speyside

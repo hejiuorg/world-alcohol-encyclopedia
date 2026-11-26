@@ -63,12 +63,6 @@ sources:
     publisher: 齐鲁晚报
     note: 用于核对济南李清照纪念堂的沿革、陈列与纪念传统；未复制原文。
     accessed: 2026-11-20
-  - key: gsw6-qingzhao
-    title: 古诗文网 — 李清照生平与作品列表
-    url: https://www.gsw6.com/shiren/186/index.html
-    publisher: 古诗文网
-    note: 用于核对李清照的生卒、籍贯与词作数量；未复制原文。
-    accessed: 2026-11-20
   - key: britannica-ci
     title: Ci — Encyclopaedia Britannica
     url: https://www.britannica.com/art/ci-Chinese-poetry

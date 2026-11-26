@@ -68,12 +68,6 @@ sources:
     publisher: "Bioversity International"
     note: "用于核对遗传资源与品种保存框架，未复制原文。"
     accessed: 2026-11-21
-  - key: wines-of-chile-maule
-    title: "Denominations of Origin — Wines of Chile（Maule 产区品种面积）"
-    url: https://www.winesofchile.org/es/denominations-of-origin/
-    publisher: "Wines of Chile / Vinos de Chile"
-    note: "用于核对 Maule 派斯种植面积与主产区划分，未复制原文。"
-    accessed: 2026-11-22
   - key: wiley-criolla-2024
     title: "Genetic Characterization of Criolla and European Grapevines Recently Found in Chile: A Key Step for Their Rescue and Conservation"
     url: https://onlinelibrary.wiley.com/doi/10.1155/2024/4817877

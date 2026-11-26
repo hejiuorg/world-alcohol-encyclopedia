@@ -55,23 +55,11 @@ references:
   - key: c-extra-2
     target_id: place:castello-di-brolio
 sources:
-  - key: felsina-home
-    title: Fèlsina — Land of Light
-    url: https://www.felsina.it/en/home/
-    publisher: Fattoria Fèlsina
-    note: 用于核对 1966 年 Poggiali 家族购入、1983 年首次酿造 Fontalloro 与 Rancia、1990 年 Giovanni Poggiali 加入、凝灰岩酒窖与 1998 年不锈钢设备；未复制原文。
-    accessed: 2026-11-08
   - key: felsina-contact
     title: Contact — Fattoria Fèlsina
     url: https://www.felsina.it/en/contact/
     publisher: Fattoria Fèlsina
     note: 用于核对 Via del Chianti 101 地址、官方坐标 43.349499 / 11.501247、10:00–18:00 开放时间、1—2 月周日关闭与预约邮箱电话；未复制原文。
-    accessed: 2026-11-08
-  - key: felsina-products
-    title: Fèlsina Products — Wine & Olive Oil
-    url: https://www.felsina.it/en/i-prodotti-di-felsina/
-    publisher: Fattoria Fèlsina
-    note: 用于核对 Rancia、Fontalloro、Colonia、Berardenga、Vin Santo、起泡酒与橄榄油产品线；未复制原文。
     accessed: 2026-11-08
   - key: chianticlassico-types
     title: Types — Consorzio Vino Chianti Classico

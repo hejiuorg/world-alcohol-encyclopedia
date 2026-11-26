@@ -7,8 +7,8 @@ slug: eu-wine-regulation-1308-2013
 title: EU Wine Regulation 1308/2013
 translation_of: standard:eu-wine-regulation-1308-2013
 source_lang: zh
-source_revision: sha256:950327801d69487dbb4de659e6adda32e1e707ccc9afffb1915613540fbf948d
-source_sha256: 950327801d69487dbb4de659e6adda32e1e707ccc9afffb1915613540fbf948d
+source_revision: sha256:4d3b7bab75f94458c25a6b69370a8f72844b897fc69628d5287387a3f368d008
+source_sha256: 4d3b7bab75f94458c25a6b69370a8f72844b897fc69628d5287387a3f368d008
 translation_status: reviewed
 issuer: European Parliament and Council of the European Union
 standard_code: Regulation (EU) No 1308/2013
@@ -53,12 +53,6 @@ sources:
     url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2117
     publisher: EUR-Lex
     note: Used to check the nutrition and ingredient-labelling requirements that apply from 8 December 2023.
-    accessed: 2026-11-20
-  - key: ec-wine
-    title: Wine — market measures and labelling
-    url: https://agriculture.ec.europa.eu/common-agricultural-policy/market-measures/agricultural-products/wine_en
-    publisher: European Commission, Directorate-General for Agriculture and Rural Development
-    note: Used for the Commission's official description of market measures, labelling and geographical indications.
     accessed: 2026-11-20
   - key: inao
     title: Institut national de l'origine et de la qualité — missions et procédures

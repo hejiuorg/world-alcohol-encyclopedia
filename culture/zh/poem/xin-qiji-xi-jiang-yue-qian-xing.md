@@ -51,12 +51,6 @@ sources:
     publisher: 古诗文网
     note: 用于核对通行本正文、异文与“尽信书”等典故注释；本页引用全词，属公共领域文本。
     accessed: 2026-11-20
-  - key: gsw6-xijiang
-    title: 古诗文网 — 辛弃疾《西江月·遣兴》赏析
-    url: https://m.gsw6.com/shici/10/285594.html
-    publisher: 古诗文网
-    note: 用于交叉核对正文与“且”“尽信书”的解读；未复制赏析全文。
-    accessed: 2026-11-20
   - key: gushici-xijiang
     title: 古诗词 — 辛弃疾《西江月·遣兴》
     url: https://www.gushici.cn/shi/xinqiji/806.html

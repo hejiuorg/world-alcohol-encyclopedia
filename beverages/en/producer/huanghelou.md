@@ -11,8 +11,8 @@ revision: 2
 translation_of: producer:huanghelou
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:e4e7e5a53962876ad4e934f0761dc15eff08feebaeabf63e686b4956278c9506
-source_sha256: e4e7e5a53962876ad4e934f0761dc15eff08feebaeabf63e686b4956278c9506
+source_revision: sha256:cbeb1b459cda8cafcb72c07877fa037f5f8ef736051e0a9df1d76343c609764f
+source_sha256: cbeb1b459cda8cafcb72c07877fa037f5f8ef736051e0a9df1d76343c609764f
 region_refs:
   - region:hubei
   - region:china
@@ -64,12 +64,6 @@ sources:
     note: Consulted for entries on Chinese baijiu aroma families and national evaluations; no source text is reproduced.
     accessed: 2026-11-05
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
-  - key: hhljy-site
-    title: Huanghelou Distillery — company profile and product display
-    url: https://www.hhljy.com.cn/list/2.html
-    publisher: Huanghelou Distillery
-    note: Used to check the three production sites, employee scale, historical milestones and product series; facts only, no promotional copy is reproduced.
-    accessed: 2026-11-07
   - key: szse-2025
     title: Anhui Gujing Gongjiu Co., Ltd. — announcement on goodwill impairment provision
     url: https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-04-29/9d826aec-197c-490f-bca5-70458817b5fa.PDF

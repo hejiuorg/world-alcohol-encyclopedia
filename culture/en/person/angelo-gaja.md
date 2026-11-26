@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:angelo-gaja
 source_lang: zh
-source_revision: sha256:241fa3959b2b6f09925a04246e8d4f732e0a468645de0a46eda13cc6a3144c34
-source_sha256: 241fa3959b2b6f09925a04246e8d4f732e0a468645de0a46eda13cc6a3144c34
+source_revision: sha256:43bfd729d62cb6383647da69159abcb470295c468c2f04111f3a21bd4e1a8acb
+source_sha256: 43bfd729d62cb6383647da69159abcb470295c468c2f04111f3a21bd4e1a8acb
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1940
@@ -36,6 +36,14 @@ related:
     target_id: region:piedmont
   - relation: about
     target_id: region:italy
+  - relation: about
+    target_id: drink:italy-barbaresco
+  - relation: about
+    target_id: variety:nebbiolo
+  - relation: about
+    target_id: person:giacomo-conterno
+  - relation: about
+    target_id: region:tuscany
 references:
   - key: gaja-place
     target_id: place:gaja-barbaresco
@@ -45,31 +53,15 @@ references:
     target_id: region:piedmont
   - key: italy
     target_id: region:italy
+  - key: barbaresco
+    target_id: drink:italy-barbaresco
+  - key: nebbiolo
+    target_id: variety:nebbiolo
+  - key: conterno
+    target_id: person:giacomo-conterno
+  - key: tuscany
+    target_id: region:tuscany
 sources:
-  - key: gaja-history
-    title: History — Gaja
-    url: https://www.gaja.com/en/history/
-    publisher: Gaja
-    note: Used to check the family's 1859 foundation, Angelo's 1961 takeover, single vineyards and the turn to French oak; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: gaja-wines
-    title: Wines — Gaja
-    url: https://www.gaja.com/en/wines/
-    publisher: Gaja
-    note: Used to check Sorì San Lorenzo, Sorì Tildìn, Costa Russi, Sperss, Conteisa and Darmagi; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: gaja-estates
-    title: Estates — Gaja
-    url: https://www.gaja.com/en/estates/
-    publisher: Gaja
-    note: Used to check the 1994 Pieve Santa Restituta and 1996 Ca' Marcanda acquisitions; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: gaja-philosophy
-    title: Philosophy — Gaja
-    url: https://www.gaja.com/en/philosophy/
-    publisher: Gaja
-    note: Used to check yield reduction, green harvest, oak and terroir-expression ideas; no source text is reproduced.
-    accessed: 2026-11-20
   - key: oxford-wine
     title: The Oxford Companion to Wine
     publisher: Oxford University Press
@@ -137,3 +129,7 @@ To follow the traditionalist-modernist conflict, compare Barolo's traditional an
 - [Wine](ref:wine): Nebbiolo, oak, single vineyards and ageing.
 - [Piedmont](ref:piedmont): Barbaresco, Barolo, Langhe and Nebbiolo terroir.
 - [Italy](ref:italy): Piedmont, Tuscany and the geography and institutions of Italian wine.
+- [Barbaresco](ref:barbaresco): the appellation rules, the 1996 declassification and Gaja's single vineyards.
+- [Nebbiolo](ref:nebbiolo): rose, cherry, tar and high tannin.
+- [Giacomo Conterno](ref:conterno): a traditionalist counterpoint in Barolo.
+- [Tuscany](ref:tuscany): Montalcino, Bolgheri and Gaja's cross-regional expansion.

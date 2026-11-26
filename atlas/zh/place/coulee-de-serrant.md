@@ -57,12 +57,6 @@ sources:
     publisher: SAS Famille Joly
     note: 用于核对 Château de la Roche aux Moines 地址、7 公顷独占 AOC、1130 年种植、三款酒与 1984 年起的生物动力法；未复制原文。
     accessed: 2026-11-09
-  - key: coulee-history
-    title: La Coulée de Serrant — Histoire
-    url: https://coulee-de-serrant.com/cds/histoire-de-la-coulee-de-serrant/
-    publisher: SAS Famille Joly
-    note: 用于核对西多会起源、乔利家族接手与产区历史叙述；未复制原文。
-    accessed: 2026-11-09
   - key: vinsdeloire
     title: Vins de Loire — Official site
     url: https://www.vinsdeloire.fr/

@@ -53,12 +53,6 @@ sources:
     publisher: 北京二锅头酒博物馆
     note: 用于核对源升号源流与 2008 年国家级非物质文化遗产信息；未复制原文。
     accessed: 2026-11-04
-  - key: baike-blue-bottle
-    title: 百度百科 — 红星蓝瓶二锅头
-    url: https://m.baike.com/wiki/%E7%BA%A2%E6%98%9F%E8%93%9D%E7%93%B6%E4%BA%8C%E9%94%85%E5%A4%B4/7915594
-    publisher: 百度百科
-    note: 用于核对蓝瓶二锅头的香型、度数与净含量区间；未复制原文。
-    accessed: 2026-11-04
   - key: redstar-csr
     title: 北京红星股份有限公司 2024 年度社会责任报告
     url: https://www.redstarwine.com/hxgfxxgs/hxgfshzr/db968072d8ca428f90418e2e11eee0ab/df4e593915584b60af8614b45e90bcd8.pdf

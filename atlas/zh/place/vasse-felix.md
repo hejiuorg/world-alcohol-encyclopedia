@@ -58,24 +58,6 @@ references:
   - key: oak
     target_id: process:oak-ageing
 sources:
-  - key: vf-history
-    title: "Our History — Vasse Felix"
-    url: https://www.vassefelix.com.au/pages/our-history
-    publisher: "Vasse Felix"
-    note: "用于核对 1967 年 Tom Cullity 创立、玛格丽特河第一个葡萄园与酒庄；未复制原文。"
-    accessed: 2026-11-21
-  - key: vf-visit
-    title: "Visit — Vasse Felix"
-    url: https://www.vassefelix.com.au/pages/visit
-    publisher: "Vasse Felix"
-    note: "用于核对 4357 Bussell Highway、cellar door、美术馆、餐厅与预约；未复制原文。"
-    accessed: 2026-11-21
-  - key: vf-wines
-    title: "Our Wines — Vasse Felix"
-    url: https://www.vassefelix.com.au/collections/wine
-    publisher: "Vasse Felix"
-    note: "用于核对 Heytesbury、Filius、Premier 与酒款结构；未复制原文。"
-    accessed: 2026-11-21
   - key: mr-wine
     title: "Margaret River — Wine Australia"
     url: https://www.wineaustralia.com/market-insights/regions-and-varieties/western-australia-wines/margaret-river

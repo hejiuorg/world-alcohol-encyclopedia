@@ -79,11 +79,6 @@ sources:
     publisher: Château de Meursault
     note: "Re-checked on 2026-11-08: Prestige €105, Exclusive €175, groups of 10–30 at €49 per person (1 h 30 to 2 h); walk-in tastings in the château rooms and on the terrace."
     accessed: 2026-11-08
-  - key: routedesgrandscrusdebourgogne
-    title: Château de Meursault, a Burgundy institution — Route des Grands Crus —
-    url: https://www.routedesgrandscrusdebourgogne.com/en/the-history-of-the-route-heritage-villages/unmissable-treasures/chateau-de-meursault/
-    publisher: Route des Grands Crus de Bourgogne
-    note: Migrated from the former reference list at the end of the article; access date not re-verified.
 rights:
   status: allowed
   license: CC-BY-4.0

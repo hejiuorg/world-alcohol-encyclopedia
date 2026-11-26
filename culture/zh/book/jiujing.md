@@ -46,12 +46,6 @@ sources:
     publisher: 国家图书馆出版社
     note: 用于核对三卷结构、制曲分类与酿酒内容；未复制原文。
     accessed: 2026-11-04
-  - key: dpm-song-wine
-    title: 宋代饮酒文化：由陶瓷注子温碗谈
-    url: https://www.dpm.org.cn/Uploads/File/2024/01/29/u65b7126c4807.pdf
-    publisher: 故宫博物院
-    note: 用于核对《北山酒经》所记宋代黄酒工序与酒器背景；未复制原文。
-    accessed: 2026-11-04
   - key: siku-quanmu
     title: 《四库全书总目》子部谱录类·北山酒经提要
     publisher: 清纪昀等撰；中华书局整理本

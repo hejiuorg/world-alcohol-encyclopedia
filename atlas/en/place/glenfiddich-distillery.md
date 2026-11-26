@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:glenfiddich-distillery
 source_lang: zh
-source_revision: sha256:d4b10bd68a5527f8c6e176a280dbd7a98c94dc4a55b900ef90b6c76cfc9526ca
-source_sha256: d4b10bd68a5527f8c6e176a280dbd7a98c94dc4a55b900ef90b6c76cfc9526ca
+source_revision: sha256:417355734a768524ce050eb1b8364d627a6ee6cd08bc2fdc57a1e34ff83d67d5
+source_sha256: 417355734a768524ce050eb1b8364d627a6ee6cd08bc2fdc57a1e34ff83d67d5
 translation_status: reviewed
 subtype: distillery-visitor
 address: Glenfiddich Distillery, Dufftown, Keith AB55 4DH, Scotland, United Kingdom
@@ -57,12 +57,6 @@ sources:
     url: https://www.glenfiddich.com/
     publisher: William Grant & Sons
     note: Used to check the Dufftown address, brand and core range, visitor centre and booking entry; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: visitscotland-speyside
-    title: Speyside — VisitScotland
-    url: https://www.visitscotland.com/places-to-go/regions/speyside
-    publisher: VisitScotland
-    note: Used to check the Speyside region, Dufftown's location and the distribution of distilleries; no source text is reproduced.
     accessed: 2026-11-08
   - key: distillerytours-glenfiddich
     title: Glenfiddich Distillery — Distillery Tours Scotland

@@ -57,11 +57,6 @@ sources:
     publisher: Chemistry LibreTexts (UC Davis)
     note: 用于核对乙醇-水共沸物的浓度与沸点上限，未复制原文。
     accessed: 2026-11-07
-  - key: chem
-    title: "Chemistry LibreTexts — Separating Volatile Solutions: Distillation"
-    url: https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_4B:_General_Chemistry_for_Majors_II_
-    publisher: "未注明"
-    note: 由原条目末尾参考资料迁移，未逐条复核访问日期。
 rights:
   status: allowed
   license: CC-BY-4.0

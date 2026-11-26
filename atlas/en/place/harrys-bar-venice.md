@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:harrys-bar-venice
 source_lang: zh
-source_revision: sha256:fc8b51254692c2ff3d9a199fb0d4b9dbe72741b70dcae0800911456cba075684
-source_sha256: fc8b51254692c2ff3d9a199fb0d4b9dbe72741b70dcae0800911456cba075684
+source_revision: sha256:0bcab7ab56f77f6adcb94b0a4489a7b20faf9d778ee5fa6643407924178a9fb0
+source_sha256: 0bcab7ab56f77f6adcb94b0a4489a7b20faf9d778ee5fa6643407924178a9fb0
 translation_status: reviewed
 subtype: pub
 address: Calle Vallaresso 1323, 30124 Venezia, Italy
@@ -77,11 +77,6 @@ sources:
     publisher: Oxford University Press
     note: Used for factual verification; no source text is reproduced.
     accessed: 2026-10-29
-  - key: dbpedia
-    title: Harry's Bar (Venice) — DBpedia (Wikipedia/Wikidata coordinates) —
-    url: https://dbpedia.org/page/Harry%27s_Bar_
-    publisher: DBpedia
-    note: Migrated from the former reference list at the end of the article; access date not re-verified.
 rights:
   status: allowed
   license: CC-BY-4.0

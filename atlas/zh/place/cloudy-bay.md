@@ -55,12 +55,6 @@ sources:
     publisher: Cloudy Bay
     note: 用于核对 230 Jacksons Road 地址、每周七天 10:00–17:00 的门市时间、预约建议、Saku 餐厅时段与闭馆日；未复制原文。
     accessed: 2026-11-09
-  - key: nzw-cloudy-bay
-    title: Cloudy Bay Vineyards — New Zealand Winegrowers
-    url: https://www.nzwine.com/en/winery/cloudy-bay-vineyards
-    publisher: New Zealand Winegrowers
-    note: 用于核对 1985 年首个年份、2010 年起在 Central Otago 的布局、230 Jacksons Rd 地址与品鉴室描述；未复制原文。
-    accessed: 2026-11-09
   - key: brancott-1973
     title: Brancott — Pernod Ricard USA
     url: https://www.pernod-ricard-usa.com/brancott

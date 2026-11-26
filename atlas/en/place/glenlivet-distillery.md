@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:glenlivet-distillery
 source_lang: zh
-source_revision: sha256:1165c91c7c8e43c56ced05e04cb3b1517a2d2f10824e9f6a6a5cd9ef221c6bf9
-source_sha256: 1165c91c7c8e43c56ced05e04cb3b1517a2d2f10824e9f6a6a5cd9ef221c6bf9
+source_revision: sha256:d2d61c90ac8aa66ea96b88889d35ec788872477221a423f36f2adca04221c339
+source_sha256: d2d61c90ac8aa66ea96b88889d35ec788872477221a423f36f2adca04221c339
 translation_status: reviewed
 subtype: distillery-visitor
 address: The Glenlivet Distillery, Ballindalloch, Banffshire AB37 9DB, Scotland, United Kingdom
@@ -73,12 +73,6 @@ sources:
     url: https://www.pernod-ricard.com/sites/default/files/news/downloads/2021-08/The%20Glenlivet%20Brand%20Home%20Launch%20Release_FINAL.pdf
     publisher: Pernod Ricard
     note: Used to check the 2021 visitor-experience refurbishment, brand ownership and the "original Speyside single malt" positioning; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: visitscotland-speyside
-    title: Speyside — VisitScotland
-    url: https://www.visitscotland.com/places-to-go/regions/speyside
-    publisher: VisitScotland
-    note: Used to check the Speyside region, the distribution of distilleries around Ballindalloch and the travel season; no source text is reproduced.
     accessed: 2026-11-08
 rights:
   status: allowed

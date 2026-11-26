@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:arthur-guinness
 source_lang: zh
-source_revision: sha256:5fb24d1e6ef6cdd85e8246e784655a81af209547cc8aaecdf1e5f398cd892af7
-source_sha256: 5fb24d1e6ef6cdd85e8246e784655a81af209547cc8aaecdf1e5f398cd892af7
+source_revision: sha256:052468fbd51a60d8d72a876679a1e7837ee5d8fa48a06c6096a8a2ba887a1bcf
+source_sha256: 052468fbd51a60d8d72a876679a1e7837ee5d8fa48a06c6096a8a2ba887a1bcf
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1725
@@ -54,12 +54,6 @@ sources:
     url: https://www.guinness.com/en-ie/our-craft/
     publisher: Guinness
     note: Used to check the St James's Gate site, the four ingredients, porter and Guinness stout production; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: diageo
-    title: Guinness — Diageo
-    url: https://www.diageo.com/en/our-business/our-brands/guinness/
-    publisher: Diageo
-    note: Used to check brand ownership, global distribution and the historical status of St James's Gate; no source text is reproduced.
     accessed: 2026-11-20
   - key: guinness-archive
     title: Guinness Archive — Dublin

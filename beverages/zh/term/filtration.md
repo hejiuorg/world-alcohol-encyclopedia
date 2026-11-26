@@ -71,7 +71,7 @@ verification_scope: source-verified
 
 过滤（filtration）是让酒液通过滤材，以物理方式截留悬浮颗粒、酵母与细菌的工序。它的直接目标是澄清与微生物稳定，而不是“把味道滤掉”。过滤与下胶（fining）经常被混用，但机制不同：下胶靠吸附、絮凝，把溶解或胶体状态的物质变成可沉降的颗粒；过滤靠孔径，把已经形成的颗粒挡在滤材上。两者常配合使用，却不能互相替代。
 
-![过滤（filtration）示意图](/media/photos/term-filtration-c974bd5e.png)
+![过滤（filtration）示意图](/media/photos/term-filtration-c974bd5e.webp)
 
 图：过滤（filtration）示意图。图片：Wikiwayman，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:FilterDiagram.svg)）。
 

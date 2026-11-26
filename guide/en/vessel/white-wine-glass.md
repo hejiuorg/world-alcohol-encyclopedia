@@ -7,8 +7,8 @@ slug: white-wine-glass
 title: White Wine Glass
 translation_of: vessel:white-wine-glass
 source_lang: zh
-source_revision: sha256:75fbf11e6011a073cde8b07611984e266d4efbdbb6dd75697f72a7f09e01761f
-source_sha256: 75fbf11e6011a073cde8b07611984e266d4efbdbb6dd75697f72a7f09e01761f
+source_revision: sha256:7009aae5ac5c8f746e71163b29bfbac1127e4ba527b59192084184df01ff033d
+source_sha256: 7009aae5ac5c8f746e71163b29bfbac1127e4ba527b59192084184df01ff033d
 translation_status: reviewed
 summary: A stemmed glass with a smaller bowl and a narrower rim, used for white wine. The smaller bowl limits oxidation and the narrowed rim holds the floral and acidic freshness.
 status: reviewed
@@ -71,12 +71,6 @@ sources:
     url: https://www.riedel.com/en
     publisher: Riedel
     note: Used to check the design logic of different wine glasses; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: winefolly
-    title: Wine Folly — wine glass guide
-    url: https://winefolly.com/tips/wine-glass-guide/
-    publisher: Wine Folly
-    note: Used to check general guidance on glass and wine pairing; no source text is reproduced.
     accessed: 2026-11-20
 rights:
   status: allowed

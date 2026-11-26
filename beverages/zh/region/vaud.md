@@ -91,7 +91,7 @@ verification_scope: source-verified
 
 沃州（Vaud，德语 Waadt）是瑞士西部以日内瓦湖北岸为核心的葡萄酒产区，以 Chasselas 白葡萄酒与 Lavaux 梯田景观著称。
 
-![沃州 图像](/media/photos/region-vaud-baccb613.png)
+![沃州 图像](/media/photos/region-vaud-baccb613.webp)
 
 图：沃州。图片：Tschubby，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Karte_Kanton_Waadt_2010.png)）。
 

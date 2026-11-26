@@ -63,12 +63,6 @@ sources:
     publisher: Quinta do Crasto
     note: 用于核对参观项目、时长、人数、价格、接待与酒铺每日 10:00–18:00 的营业时间及预订方式；页面价目标注更新于 2026-10-06，未复制原文。
     accessed: 2026-11-08
-  - key: crasto-contacts
-    title: Quinta do Crasto — Contacts
-    url: https://www.quintadocrasto.wine/en/contacts/
-    publisher: Quinta do Crasto
-    note: 用于核对地址 Quinta do Crasto, Gouvinhas, 5060-063 Sabrosa、电话 +351 254 920 020、酒旅预订电话 +351 254 106 086 与邮箱 enoturismo@quintadocrasto.pt；未复制原文。
-    accessed: 2026-11-08
   - key: mapcarta-crasto
     title: Quinta do Crasto — Mapcarta (OpenStreetMap)
     url: https://mapcarta.com/pt/36097596
@@ -80,12 +74,6 @@ sources:
     url: https://honore.quintadocrasto.wine/en/project/
     publisher: Quinta do Crasto
     note: 用于核对 1615 与 1918 两个年份及老铁门上的铭文；未复制原文。
-    accessed: 2026-11-07
-  - key: worlds-best
-    title: World's Best Vineyards — Quinta do Crasto
-    url: https://www.worldsbestvineyards.com/the-list/11-20/quinta-do-crasto.html
-    publisher: World's Best Vineyards
-    note: 用于核对 2024 年全球最佳酒庄第 15 名与葡萄牙酒庄排名；未复制原文。
     accessed: 2026-11-07
 rights:
   status: allowed

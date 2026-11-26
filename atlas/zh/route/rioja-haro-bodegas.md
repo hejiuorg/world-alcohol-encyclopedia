@@ -58,12 +58,6 @@ sources:
     publisher: Ruta del Vino Rioja Alta
     note: 用于核对火车站区在 19 世纪下半叶因铁路与法国市场需求而形成的历史；未复制原文。
     accessed: 2026-11-08
-  - key: haro-tourism
-    title: "Haro Turismo — El vino"
-    url: https://www.haroturismo.org/en/enoturismo/el-vino
-    publisher: Haro Turismo
-    note: 用于核对阿罗火车站设立对酒业布局的影响与镇内酒庄分布；未复制原文。
-    accessed: 2026-11-08
   - key: renfe
     title: "Renfe — Official site"
     url: https://www.renfe.com/

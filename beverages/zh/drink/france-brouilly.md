@@ -87,7 +87,7 @@ abv:
 
 在博若莱的酒单上，布鲁伊经常被放在最前面：它产量大、名字好记，价格也常常是 cru 里最亲民的一档。但这种“入门”印象会遮住它的另一面——它同时是十个 cru 中面积最大的一支，覆盖六个村庄，村与村之间的坡地差异，比一个“轻快易饮”的标签复杂得多。常见 750 mL，[酒精度](ref:abv)约 12.5%–13.5% vol。
 
-![布鲁伊 图像](/media/photos/drink-france-brouilly-9700eca2.png)
+![布鲁伊 图像](/media/photos/drink-france-brouilly-9700eca2.webp)
 
 图：布鲁伊。图片：Cyril5555，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)）。
 

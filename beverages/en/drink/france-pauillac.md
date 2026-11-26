@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-pauillac
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:37d1c4e7aaefffe7aaf1dae09871e123f26d6ead2fe6b6e956644c1bb9f7e960
-source_sha256: 37d1c4e7aaefffe7aaf1dae09871e123f26d6ead2fe6b6e956644c1bb9f7e960
+source_revision: sha256:7f067f696668bbe775898b274c7a3ddb6bc1ea3dc8a22c9f3a97391d03cc854c
+source_sha256: 7f067f696668bbe775898b274c7a3ddb6bc1ea3dc8a22c9f3a97391d03cc854c
 style_refs:
   - drink-style:red-wine
 variety_refs:
@@ -83,12 +83,6 @@ sources:
     url: https://www.chateau-mouton-rothschild.com/the-history/key-dates/key-date-1973
     publisher: Château Mouton Rothschild
     note: Used to check Mouton's promotion from second to first growth in 1973 and the decree behind it; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: lafite-directory
-    title: Château Lafite Rothschild 2025 — Le répertoire des vins
-    url: https://winedirectory.lafite.com/fr/le-repertoire-des-vins/produit-1UU24F-chateau-lafite-rothschild/
-    publisher: Domaines Barons de Rothschild (Lafite)
-    note: Used to check Lafite's northern position, the 50-hectare Carruades plateau as the highest point of Pauillac, the clay-gravel soils and the 4.5-hectare parcel in Saint-Estèphe; no source text is reproduced.
     accessed: 2026-11-08
   - key: pauillac-tourisme
     title: Le Mag — Pauillac Tourisme (Caractéristiques de l'appellation Pauillac)

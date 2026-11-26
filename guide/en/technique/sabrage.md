@@ -7,8 +7,8 @@ slug: sabrage
 title: Sabrage
 translation_of: technique:sabrage
 source_lang: zh
-source_revision: sha256:803c6337e97fd8505b4f260e1bb02affe2379a189cef1cb70ca8b2607fd0f123
-source_sha256: 803c6337e97fd8505b4f260e1bb02affe2379a189cef1cb70ca8b2607fd0f123
+source_revision: sha256:ffad6296cceed649227b7d8e61cf841bdc623868b6ba931897faea143a3c8971
+source_sha256: ffad6296cceed649227b7d8e61cf841bdc623868b6ba931897faea143a3c8971
 translation_status: reviewed
 summary: Opening a Champagne bottle by sliding a sabre along the bottle's seam so the neck ring and cork fly off under pressure. It needs a cold bottle, a steady hold and a safe direction.
 status: reviewed
@@ -74,12 +74,6 @@ sources:
     url: https://www.cmog.org/collection
     publisher: Corning Museum of Glass
     note: Used to check Champagne bottle and glass craft background; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: champagnehistory
-    title: Champagne — history and sabrage overview
-    url: https://www.champagne.fr/en/champagne/champagne-history
-    publisher: Comité Champagne
-    note: Used to cross-check the sabrage legend; no source text is reproduced.
     accessed: 2026-11-20
 rights:
   status: allowed

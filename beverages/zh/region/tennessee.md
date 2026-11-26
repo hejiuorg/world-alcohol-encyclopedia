@@ -59,12 +59,6 @@ sources:
     publisher: Alcohol and Tobacco Tax and Trade Bureau
     note: 用于核对美国烈酒标签、类别与地理名称管理的官方框架；未复制原文。
     accessed: 2026-11-08
-  - key: tn-ag-opinion
-    title: Tennessee Attorney General Opinion No. 15-23 — Tennessee Whiskey
-    url: https://www.buystateoftnsurplus.gov/content/dam/tn/attorneygeneral/documents/ops/2015/op15-23.pdf
-    publisher: Office of the Tennessee Attorney General
-    note: 用于核对田纳西州法典对田纳西威士忌的制造地、玉米比例、蒸馏强度、桶型与枫木炭过滤要求；未复制原文。
-    accessed: 2026-11-08
   - key: jack-daniels
     title: Our History — Jack Daniel's
     url: https://www.jackdaniels.com/en/our-story/our-history

@@ -46,12 +46,6 @@ sources:
     publisher: 舍得酒业股份有限公司
     note: 用于核对品牌定位与产品线公开信息；未复制原文。
     accessed: 2026-11-04
-  - key: baike-shede
-    title: 百度百科 — 舍得酒
-    url: https://m.baike.com/wiki/%E8%88%8D%E5%BE%97%E9%85%92/5286044
-    publisher: 百度百科
-    note: 用于核对 2001 年 12 月推出与高端定位；未复制原文。
-    accessed: 2026-11-04
   - key: chinanews-2018
     title: 中国新闻网 — 智慧舍得上市 舍得推出全新品牌口号“中国智慧”
     url: http://www.chinanews.com.cn/m/wine/2018/03-20/8471634.shtml

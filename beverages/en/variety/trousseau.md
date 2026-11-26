@@ -22,8 +22,8 @@ tags:
 translation_of: variety:trousseau
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b7ce6ec472c1b7d537d196a1186233e8353ac59157b5ad9996452536296da279
-source_sha256: b7ce6ec472c1b7d537d196a1186233e8353ac59157b5ad9996452536296da279
+source_revision: sha256:708c1436736e8eba67153ab2a1d4db564b5abfead26f43ae1435c8319025eed3
+source_sha256: 708c1436736e8eba67153ab2a1d4db564b5abfead26f43ae1435c8319025eed3
 related:
   - relation: about
     target_id: region:jura
@@ -82,7 +82,7 @@ verification_scope: source-verified
 
 A red grape of the Jura, France, pale in colour, high in acidity and low in tannin, with red cherry, spice and earth; it makes light reds, rosés and sparkling wine and is central to the Jura’s light-body tradition.
 
-In the “Hejiu” variety index, Trousseau is both a recognisable name and a set of comparable viticultural and winemaking choices. Read it first through its ripening rhythm, acid frame and tannin direction at home, then through what survives or fades when it travels. The gap between Old and New World versions often explains more than the label. For the reader, the point is not a fixed flavour tag but how climate, soil and winemaking decisions turn the same grape into a different wine. This also explains why the same name carries different descriptions across sources: one stresses botany, another market style, another a single region’s rules.![Trousseau category image](/media/photos/drink-france-cremant-du-jura-dea97caf.png)
+In the “Hejiu” variety index, Trousseau is both a recognisable name and a set of comparable viticultural and winemaking choices. Read it first through its ripening rhythm, acid frame and tannin direction at home, then through what survives or fades when it travels. The gap between Old and New World versions often explains more than the label. For the reader, the point is not a fixed flavour tag but how climate, soil and winemaking decisions turn the same grape into a different wine. This also explains why the same name carries different descriptions across sources: one stresses botany, another market style, another a single region’s rules.![Trousseau category image](/media/photos/drink-france-cremant-du-jura-dea97caf.webp)
 
 Figure: Trousseau. Photograph: File:Vignobles jura.png. Credit: DalGobboM ¿!i?, CC BY-SA 3.0 ([source page](https://commons.wikimedia.org/wiki/File:Vignobles_jura.png)). Category image; not a claim that it shows the exact product, site or event.
 

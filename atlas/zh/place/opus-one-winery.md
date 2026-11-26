@@ -60,12 +60,6 @@ sources:
     publisher: Opus One Winery
     note: 用于核对 1978 年两位创始人商定合作、只酿一款酒的理念与酒庄建筑；未复制原文。
     accessed: 2026-11-07
-  - key: opus-concierge
-    title: Concierge — Opus One Winery
-    url: https://www.opusonewinery.com/concierge/
-    publisher: Opus One Winery
-    note: 用于核对预约规则、开放时间与闭馆日；未复制原文。
-    accessed: 2026-11-07
   - key: opus-contact
     title: Contact Us — Opus One Winery
     url: https://www.opusonewinery.com/contact/

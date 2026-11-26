@@ -62,12 +62,6 @@ sources:
     publisher: Deutscher Bundestag, Wissenschaftliche Dienste
     note: 用于核对《临时啤酒法》第 9 条的现行措辞与进口啤酒例外。
     accessed: 2026-11-20
-  - key: biergesetz
-    title: Vorläufiges Biergesetz (VorlBierG)
-    url: https://www.gesetze-im-internet.de/bierstg_1993/
-    publisher: Gesetze im Internet
-    note: 用于确认现行法律文本与条款编号。
-    accessed: 2026-11-20
   - key: eu-case
     title: Commission v Germany, Case 178/84
     url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:61984CJ0178

@@ -60,12 +60,6 @@ sources:
     publisher: Encyclopaedia Britannica
     note: 用于核对欧洲 tavern 与 inn 的功能差异及历史演变；未复制原文。
     accessed: 2026-11-07
-  - key: archives-prohibition
-    title: The 18th Amendment — U.S. National Archives
-    url: https://www.archives.gov/milestone-documents/18th-amendment
-    publisher: U.S. National Archives
-    note: 用于核对美国禁酒修正案的通过时间与文本；未复制原文。
-    accessed: 2026-11-07
   - key: c-ref-1
     title: Encyclopaedia Britannica — reference entry
     url: https://www.britannica.com/

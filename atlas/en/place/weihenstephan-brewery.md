@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:weihenstephan-brewery
 source_lang: zh
-source_revision: sha256:36c8a2fc1c2168b77cc0707ab54056dc4e3fe9e645794b5fb793cfc50d16fb2a
-source_sha256: 36c8a2fc1c2168b77cc0707ab54056dc4e3fe9e645794b5fb793cfc50d16fb2a
+source_revision: sha256:790f016b1ceecd7f2494ec63a53931eef1ec128d1202c0c974572821da39f68a
+source_sha256: 790f016b1ceecd7f2494ec63a53931eef1ec128d1202c0c974572821da39f68a
 translation_status: reviewed
 subtype: brewery-visitor
 address: Alte Akademie 2, 85354 Freising, Germany
@@ -67,12 +67,6 @@ sources:
     url: https://www.weihenstephaner.de/
     publisher: Bayerische Staatsbrauerei Weihenstephan
     note: Used to check the brand name, official contact channels and the wording about the 1040 brewing licence; parts of the site sit behind an age gate and no text is reproduced.
-    accessed: 2026-11-08
-  - key: braeustueberl
-    title: Bräustüberl Weihenstephan
-    url: https://www.braeustueberl-weihenstephan.de/en/
-    publisher: Bräustüberl Weihenstephan
-    note: Used to check the address at Weihenstephaner Berg 10, the daily 10:00–23:00 hours, kitchen times, the beer garden and the claim to be the birthplace of Obazda; no source text is reproduced.
     accessed: 2026-11-08
   - key: freising-tourism
     title: Freising Tourism

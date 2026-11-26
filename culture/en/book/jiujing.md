@@ -11,8 +11,8 @@ revision: 2
 translation_of: book:jiujing
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:b26361d98d53aed0ebe61c253ff4ec11608f641367a888a7193a03850eae232a
-source_sha256: b26361d98d53aed0ebe61c253ff4ec11608f641367a888a7193a03850eae232a
+source_revision: sha256:2dcf8a54d940955ab314cd35768c8c6e5460f851914c847d33c8b93e02cfbf3f
+source_sha256: 2dcf8a54d940955ab314cd35768c8c6e5460f851914c847d33c8b93e02cfbf3f
 author_names:
   - Zhu Gong
 author_refs: []
@@ -49,12 +49,6 @@ sources:
     url: http://www.nlcpress.com/ProductView.aspx?Id=12442
     publisher: National Library Press
     note: Used to check the three-volume structure, the classification of qu-making methods and the brewing content; no source text is reproduced.
-    accessed: 2026-11-04
-  - key: dpm-song-wine
-    title: "Song drinking culture: from ceramic wine warmers and bowls"
-    url: https://www.dpm.org.cn/Uploads/File/2024/01/29/u65b7126c4807.pdf
-    publisher: The Palace Museum
-    note: Used to check the Song yellow-wine process recorded in Beishan Jiujing and the background of wine vessels; no source text is reproduced.
     accessed: 2026-11-04
   - key: siku-quanmu
     title: "Siku Quanshu Zongmu, sub-class of catalogues: notice on Beishan Jiujing"

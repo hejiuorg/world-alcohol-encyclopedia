@@ -41,18 +41,6 @@ references:
   - key: blend
     target_id: term:blend
 sources:
-  - key: swa-about
-    title: The Scotch Whisky Association — About us
-    url: https://www.scotch-whisky.org.uk/about-us/
-    publisher: The Scotch Whisky Association
-    note: 用于核对 1912 年成立、爱丁堡总部、会员构成与主要职能；未复制原文。
-    accessed: 2026-11-07
-  - key: swa-protection
-    title: The Scotch Whisky Association — Protecting Scotch Whisky
-    url: https://www.scotch-whisky.org.uk/what-we-do/protecting-scotch-whisky/
-    publisher: The Scotch Whisky Association
-    note: 用于核对“Scotch Whisky”的法律定义、地理标志与海外执法工作；未复制原文。
-    accessed: 2026-11-07
   - key: oxford-companion-whisky
     title: The Oxford Companion to Whisky
     publisher: Oxford University Press

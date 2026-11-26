@@ -50,12 +50,6 @@ sources:
     publisher: Guinness
     note: 用于核对圣詹姆斯门厂址、四原料配方、波特啤酒与健力士黑啤的工艺；未复制原文。
     accessed: 2026-11-20
-  - key: diageo
-    title: Guinness — Diageo
-    url: https://www.diageo.com/en/our-business/our-brands/guinness/
-    publisher: Diageo
-    note: 用于核对品牌归属、全球分销与圣詹姆斯门的历史地位；未复制原文。
-    accessed: 2026-11-20
   - key: guinness-archive
     title: Guinness Archive — Dublin
     url: https://www.guinness-storehouse.com/en/guinness-archive

@@ -54,12 +54,6 @@ sources:
     publisher: William Grant & Sons
     note: 用于核对 Dufftown 地址、品牌与核心酒款、游客中心与预约入口；未复制原文。
     accessed: 2026-11-08
-  - key: visitscotland-speyside
-    title: "Speyside — VisitScotland"
-    url: https://www.visitscotland.com/places-to-go/regions/speyside
-    publisher: VisitScotland
-    note: 用于核对斯佩塞产区范围、达夫镇位置与酒厂分布；未复制原文。
-    accessed: 2026-11-08
   - key: distillerytours-glenfiddich
     title: "Glenfiddich Distillery — Distillery Tours Scotland"
     url: https://www.distillerytours.scot/distilleries/glenfiddich-distillery-visitor-centre

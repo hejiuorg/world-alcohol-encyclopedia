@@ -51,12 +51,6 @@ references:
   - key: cloudy-bay
     target_id: place:cloudy-bay
 sources:
-  - key: nzw-yealands
-    title: "Yealands Estate Wines — New Zealand Winegrowers"
-    url: https://www.nzwine.com/en/winery/yealands-estate-wines
-    publisher: New Zealand Winegrowers
-    note: 用于核对 534 Seaview Road, Seddon 地址、品鉴室、当地奶酪与腌肉、White Road 自驾路线、2008 年建厂与从建厂起碳中和的表述；未复制原文。
-    accessed: 2026-11-09
   - key: yealands-official
     title: "Yealands — Official site"
     url: https://www.yealands.co.nz/
@@ -68,12 +62,6 @@ sources:
     url: https://www.nzwine.com/en/regions/marlborough/
     publisher: New Zealand Winegrowers
     note: 用于核对 Awatere Valley 更凉、更干、风更大与沿海葡萄园的气候描述；未复制原文。
-    accessed: 2026-11-09
-  - key: toitu
-    title: "Toitū carboNZero Certification — New Zealand Winegrowers"
-    url: https://www.nzwine.com/en/winery/yealands-estate-wines/toitu-carbonzero-certification
-    publisher: New Zealand Winegrowers
-    note: 用于核对酒庄的 Toitū 碳中和认证与可持续项目分类；未复制原文。
     accessed: 2026-11-09
 rights:
   status: allowed

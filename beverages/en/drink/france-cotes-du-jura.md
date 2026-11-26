@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-cotes-du-jura
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6230d33ff45767626f8e66d5ae313826c6a38350408e0532804fc6d887f06429
-source_sha256: 6230d33ff45767626f8e66d5ae313826c6a38350408e0532804fc6d887f06429
+source_revision: sha256:a771a57fa745253044b759ae56636b519b0dd2698b66e28c9a39085ed110a1ce
+source_sha256: a771a57fa745253044b759ae56636b519b0dd2698b66e28c9a39085ed110a1ce
 style_refs:
   - drink-style:red-wine
   - drink-style:white-wine
@@ -122,7 +122,7 @@ abv:
 
 Côtes du Jura is the widest appellation in the [Jura](ref:jura), in eastern [France](ref:france): 105 communes from north to south, but only about 551 hectares of vines. It is led by [white wine](ref:white-wine) and crémant, while also producing [red](ref:red-wine), [yellow](ref:yellow-wine), vin de paille and the grapes behind Macvin du Jura. Bottles are typically 750 mL at 12.5%–14.5% [alcohol](ref:abv).
 
-![Côtes du Jura image](/media/photos/drink-france-cotes-du-jura-dea97caf.png)
+![Côtes du Jura image](/media/photos/drink-france-cotes-du-jura-dea97caf.webp)
 
 Figure: Côtes du Jura. Image: DalGobboM ¿!i?, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vignobles_jura.png)).
 

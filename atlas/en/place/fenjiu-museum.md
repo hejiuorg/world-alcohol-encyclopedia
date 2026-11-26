@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:fenjiu-museum
 source_lang: zh
-source_revision: sha256:f2468014884b01db38980757c65bd78d86ac66bcb0aa7dc8e5234efcd03f864e
-source_sha256: f2468014884b01db38980757c65bd78d86ac66bcb0aa7dc8e5234efcd03f864e
+source_revision: sha256:01238d9d1c203befaccac4f3bb150e03aef7d04c5ed62892e936f290629c709f
+source_sha256: 01238d9d1c203befaccac4f3bb150e03aef7d04c5ed62892e936f290629c709f
 translation_status: reviewed
 subtype: museum
 address: Xinghuacun, Fenyang, Lüliang, Shanxi 032205, China
@@ -104,7 +104,7 @@ From Fenyang, drive 15 kilometres north to Xinghuacun, where the Fenjiu Group co
 > - Getting there and cost: check the official page before booking; this entry does not promise a fixed price.
 > - Status: Verified; sources checked: 2026-11-20.
 
-![1915 Panama-Pacific exposition gold medal in the Fenjiu Museum collection](/media/photos/place-fenjiu-museum-efad0f85.png)
+![1915 Panama-Pacific exposition gold medal in the Fenjiu Museum collection](/media/photos/place-fenjiu-museum-efad0f85.webp)
 
 Figure: The 1915 Panama-Pacific exposition gold medal held by the Fenjiu Museum. Image: Fenjiu Group Cultural Centre, Public domain, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E8%A5%BF%E6%B1%BE%E9%85%92%E8%8D%A3%E8%8E%B71915%E5%B9%B4%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E7%9A%84%E2%80%9C%E4%B8%80%E7%AD%89%E9%87%91%E8%B4%A8%E5%A4%A7%E5%A5%96%E7%AB%A0%E2%80%9D_%E6%B1%BE%E9%85%92%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F.png)).
 

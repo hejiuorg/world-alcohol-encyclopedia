@@ -93,7 +93,7 @@ verification_scope: source-verified
 
 纳帕谷（Napa Valley）是加州最知名的葡萄酒产区，以 Cabernet Sauvignon 与高密度的小产区体系著称。
 
-![纳帕谷 图像](/media/photos/region-napa-valley-777f1f74.png)
+![纳帕谷 图像](/media/photos/region-napa-valley-777f1f74.webp)
 
 图：纳帕谷。图片：Unknown author Unknown author，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:TTB_Map_Napa_Valley_AVA.png)）。
 

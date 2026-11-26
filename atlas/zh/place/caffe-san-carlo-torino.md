@@ -63,12 +63,6 @@ sources:
     publisher: Museo Torino / Città di Torino
     note: 用于核对 1822 年起源、1837 年以“颠覆活动”关闭、Caffè Vassallo、Giuseppe Leoni 1839 年立面、1840 年内部装饰、1942 年轰炸与 1953–63 年修复。
     accessed: 2026-11-21
-  - key: locali-storici
-    title: Caffè San Carlo — Locali Storici d'Italia
-    url: http://www.localistorici.it/listing-item/caffe-san-carlo/
-    publisher: Locali Storici d'Italia
-    note: 用于核对历史场所认定与都灵传统咖啡馆谱系；不用于当前菜单。
-    accessed: 2026-11-21
   - key: gallerie
     title: Caffè San Carlo e SCATTO ristorante a Torino — Gallerie d'Italia
     url: https://gallerieditalia.com/it/torino/pianifica-la-tua-visita/ristorazione/

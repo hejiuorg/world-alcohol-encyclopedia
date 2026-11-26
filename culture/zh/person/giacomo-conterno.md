@@ -55,12 +55,6 @@ sources:
     publisher: Giacomo Conterno
     note: 用于核对酒庄位于 Monforte d'Alba、Cascina Francia 与 Monfortino 的基本信息；未复制原文。
     accessed: 2026-11-21
-  - key: rarewine
-    title: Giacomo Conterno
-    url: https://www.rarewineco.com/wholesale/producer/giacomo-conterno/
-    publisher: The Rare Wine Co.
-    note: 用于核对 1908 年 Giovanni 的酒馆、Giacomo 一战归来后的 1920 年 Riserva、Monfortino 名称、1974 年 Cascina Francia 与 2004 年 Giovanni 去世；未复制原文。
-    accessed: 2026-11-21
   - key: sommselect
     title: "Behind The Wine: Giacomo Conterno"
     url: https://sommselect.com/blogs/tasting-notes/behind-the-wine-giacomo-conterno

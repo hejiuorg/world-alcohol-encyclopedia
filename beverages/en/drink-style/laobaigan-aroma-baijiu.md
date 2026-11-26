@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:laobaigan-aroma-baijiu
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c0e6b9c1a00570ee61955964769bbe82cac639a145dd6a9b9bf31936d8d1fb06
-source_sha256: c0e6b9c1a00570ee61955964769bbe82cac639a145dd6a9b9bf31936d8d1fb06
+source_revision: sha256:4d812067f5cb10d298597905f2734c95786c6fc7ec25cb65e4f6115bb4dbaeb4
+source_sha256: 4d812067f5cb10d298597905f2734c95786c6fc7ec25cb65e4f6115bb4dbaeb4
 parent_style_id: drink-style:baijiu
 aroma_family: Laobaigan aroma
 legacy_refs: []
@@ -71,12 +71,6 @@ sources:
     publisher: State Administration for Market Regulation, Standardization Administration of China
     published: 2007-01-19
     note: Used to verify the old standard number, effective date and withdrawal date; no original text is reproduced.
-    accessed: 2026-11-05
-  - key: hslbg
-    title: Hengshui Laobaigan scenic area — Workshop No. 10
-    url: https://www.hslbgjq.com/product/49.cshtml
-    publisher: Hengshui Laobaigan
-    note: Used to verify public descriptions of the three-round separate steaming process, ground-jar fermentation and manual loading; no original text is reproduced.
     accessed: 2026-11-05
   - key: laobaigan-hs
     title: Hengshui Laobaigan Distillery Group — The distinctive Laobaigan aroma

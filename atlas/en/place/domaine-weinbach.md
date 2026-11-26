@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:domaine-weinbach
 source_lang: zh
-source_revision: sha256:2d0a5c76cd4159399206978b4f3adecad190a52f84498281f7dadc40fec3570d
-source_sha256: 2d0a5c76cd4159399206978b4f3adecad190a52f84498281f7dadc40fec3570d
+source_revision: sha256:2e8ccb6cf64476d3bbeab8978e8d882291d0ef65ab8d47ee53172f1318a2a979
+source_sha256: 2e8ccb6cf64476d3bbeab8978e8d882291d0ef65ab8d47ee53172f1318a2a979
 translation_status: reviewed
 subtype: winery-visitor
 address: 25 Route du Vin, 68240 Kaysersberg, France
@@ -55,18 +55,6 @@ references:
   - key: white-wine
     target_id: drink-style:white-wine
 sources:
-  - key: weinbach-contact
-    title: Domaine Weinbach — Contact
-    url: https://www.domaineweinbach.com/contact/
-    publisher: Domaine Weinbach
-    note: Used to check the appointment-based reception, weekday and Saturday hours and the Sunday closure; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: weinbach-legal
-    title: Domaine Weinbach — Mentions légales
-    url: https://www.domaineweinbach.com/mentions-legales/
-    publisher: Domaine Weinbach
-    note: Used to check the 25 Route du Vin, 68240 Kaysersberg address, phone and company details; no source text is reproduced.
-    accessed: 2026-11-09
   - key: vinsalsace
     title: Vins d'Alsace — Official site
     url: https://www.vinsalsace.com/

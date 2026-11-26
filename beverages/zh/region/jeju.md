@@ -81,7 +81,7 @@ verification_scope: source-verified
 
 韩国济州岛的烧酒与地方酒产区，以火山岩地下水、稻米与柑橘等地方原料著称；济州烧酒风格比本土稀释式烧酒更柔和，火山岛的风土与旅游场景紧密结合。
 
-![济州汉拿山烧酒](/media/photos/region-jeju-2ec62120.png)
+![济州汉拿山烧酒](/media/photos/region-jeju-2ec62120.webp)
 
 图：济州汉拿山烧酒，常见于当地餐桌。图片：ecodallaluna，CC BY-SA 2.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Hallasan_soju.png)）。
 

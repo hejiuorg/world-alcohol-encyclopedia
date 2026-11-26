@@ -59,24 +59,6 @@ references:
   - key: oak
     target_id: process:oak-ageing
 sources:
-  - key: ddo-history
-    title: "Our History — Domaine Drouhin Oregon"
-    url: https://www.drouhinoregon.com/pages/our-history
-    publisher: "Domaine Drouhin Oregon"
-    note: "用于核对 1987 年 Robert Drouhin 创立、Dundee Hills 与勃艮第家族背景；未复制原文。"
-    accessed: 2026-11-21
-  - key: ddo-visit
-    title: "Visit — Domaine Drouhin Oregon"
-    url: https://www.drouhinoregon.com/pages/visit
-    publisher: "Domaine Drouhin Oregon"
-    note: "用于核对 6750 Breyman Orchards Road、预约品鉴与开放时间；未复制原文。"
-    accessed: 2026-11-21
-  - key: ddo-wines
-    title: "Our Wines — Domaine Drouhin Oregon"
-    url: https://www.drouhinoregon.com/collections/wine
-    publisher: "Domaine Drouhin Oregon"
-    note: "用于核对 Dundee Hills、Laurene、Roserock 与酒款结构；未复制原文。"
-    accessed: 2026-11-21
   - key: oregon-wine
     title: "Willamette Valley — Oregon Wine Board"
     url: https://www.oregonwine.org/regions/willamette-valley/

@@ -63,12 +63,6 @@ sources:
     publisher: Bayerische Staatsbrauerei Weihenstephan
     note: 用于核对品牌名称、官方联系渠道与 1040 年酿酒特许的表述；官网部分页面要求年龄确认，正文未复制。
     accessed: 2026-11-08
-  - key: braeustueberl
-    title: Bräustüberl Weihenstephan
-    url: https://www.braeustueberl-weihenstephan.de/en/
-    publisher: Bräustüberl Weihenstephan
-    note: 用于核对山下酒馆地址 Weihenstephaner Berg 10、每日 10:00–23:00、厨房时段、啤酒花园与 Obazda 发源地的说法；未复制原文。
-    accessed: 2026-11-08
   - key: freising-tourism
     title: Freising Tourism
     url: https://tourismus.freising.de/

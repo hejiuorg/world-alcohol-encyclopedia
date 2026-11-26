@@ -87,7 +87,7 @@ abv:
 
 在博若莱十个 cru 的名单上，雷尼耶（Régnié）常常被念在最后。它直到 1988 年才获得村庄级 cru 地位，是名单里最年轻的一个；也正因为资历浅，它长期被酒单放在价格较低、曝光较少的位置。但“年轻”只说明制度史，不说明酒的质量。
 
-![雷尼耶 图像](/media/photos/drink-france-regnie-9700eca2.png)
+![雷尼耶 图像](/media/photos/drink-france-regnie-9700eca2.webp)
 
 图：雷尼耶。图片：Cyril5555，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)）。
 

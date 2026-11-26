@@ -41,12 +41,6 @@ sources:
     publisher: Robert Mondavi Winery
     note: Used to check the Oakville address, the 1966 founding, the To Kalon vineyard and visit information; no source text is reproduced.
     accessed: 2026-11-07
-  - key: opus-concierge
-    title: Concierge — Opus One Winery
-    url: https://www.opusonewinery.com/concierge/
-    publisher: Opus One Winery
-    note: Used to check the Oakville address, the 1979 joint venture, reservation-only visits and the age policy; no source text is reproduced.
-    accessed: 2026-11-07
   - key: beringer-visit
     title: Visit — Beringer Vineyards
     url: https://www.beringer.com/pages/visit
@@ -107,8 +101,8 @@ stop_ids:
     note: In St Helena, see the 1876 winery and Rhine House and put “modern” back into a longer history.
 mode: car
 updated_at: 2026-11-08
-source_sha256: 19dd2e10faa934c5f76e0dfb8b2bd0ccea33f259f0f47c46d2caedabae289516
-source_revision: sha256:19dd2e10faa934c5f76e0dfb8b2bd0ccea33f259f0f47c46d2caedabae289516
+source_sha256: b86d900e2edb04433a5014b44495edcb6f8ee9cafb6fe225483d2ddae3be34f1
+source_revision: sha256:b86d900e2edb04433a5014b44495edcb6f8ee9cafb6fe225483d2ddae3be34f1
 ---
 
 # Napa Valley: the modern winery belt after the 1976 Judgment of Paris

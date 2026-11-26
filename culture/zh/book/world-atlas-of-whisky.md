@@ -44,18 +44,6 @@ references:
   - key: single-malt
     target_id: term:single-malt
 sources:
-  - key: apple-us
-    title: The World Atlas of Whisky — Apple Books（US）
-    url: https://books.apple.com/us/book/the-world-atlas-of-whisky/id922573655
-    publisher: Apple Books / Octopus
-    note: 用于核对 2014 年修订版、200 多家酒厂、750 款酒样与六种风味营地；未复制原文。
-    accessed: 2026-11-20
-  - key: apple-gb
-    title: The World Atlas of Whisky — Apple Books（UK）
-    url: https://books.apple.com/gb/book/the-world-atlas-of-whisky/id919160753
-    publisher: Apple Books / Octopus
-    note: 用于核对 2014 年修订版的书目与版本描述；未复制原文。
-    accessed: 2026-11-20
   - key: worldcat-whisky-atlas
     title: The World Atlas of Whisky — WorldCat 检索
     url: https://search.worldcat.org/search?q=The+World+Atlas+of+Whisky

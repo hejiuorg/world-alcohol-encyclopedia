@@ -37,8 +37,8 @@ tags:
 translation_of: place:wirra-wirra
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7802d7b0f59d0378a86658798a0e27375fa7a811cf3a2633b914bcaf9508eb67
-source_sha256: 7802d7b0f59d0378a86658798a0e27375fa7a811cf3a2633b914bcaf9508eb67
+source_revision: sha256:19a26c31941f15947ee46f997ca87247be57a7c2b3920af643181a2c0ac79763
+source_sha256: 19a26c31941f15947ee46f997ca87247be57a7c2b3920af643181a2c0ac79763
 related:
   - relation: about
     target_id: region:mclaren-vale
@@ -62,18 +62,6 @@ references:
   - key: cabernet
     target_id: variety:cabernet-sauvignon
 sources:
-  - key: ww-history
-    title: Our History — Wirra Wirra
-    url: https://www.wirrawirra.com/pages/our-history
-    publisher: Wirra Wirra
-    note: Used to verify the 1894 creation, Greg Trott's 1969 restoration and the estate's history; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: ww-visit
-    title: Visit — Wirra Wirra
-    url: https://www.wirrawirra.com/pages/visit
-    publisher: Wirra Wirra
-    note: Used to verify 255 Strout Road, the cellar door, bookings and opening hours; no source text is reproduced.
-    accessed: 2026-11-21
   - key: ww-wines
     title: Our Wines — Wirra Wirra
     url: https://www.wirrawirra.com/collections/wine

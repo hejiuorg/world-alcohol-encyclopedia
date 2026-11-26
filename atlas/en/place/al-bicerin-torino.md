@@ -32,8 +32,8 @@ tags:
 translation_of: place:al-bicerin-torino
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:d64a22fa0ae73e0e1b4bc44d0f624540c7b95d8130c7f8053445dcd38f88e27c
-source_sha256: d64a22fa0ae73e0e1b4bc44d0f624540c7b95d8130c7f8053445dcd38f88e27c
+source_revision: sha256:fd61e05014da44f00ef7ebd045ad51dc1f801e664b2a9ce6014d36549f2fea6c
+source_sha256: fd61e05014da44f00ef7ebd045ad51dc1f801e664b2a9ce6014d36549f2fea6c
 related:
   - relation: about
     target_id: place:caffe-san-carlo-torino
@@ -74,12 +74,6 @@ sources:
     url: https://bicerin.it/dove-siamo/
     publisher: Al Bicerin
     note: Used for current hours, the Wednesday closure and the Consolata location; holiday closures can differ.
-    accessed: 2026-11-21
-  - key: locali-storici
-    title: Caffè Al Bicerin — Locali Storici d'Italia
-    url: https://www.localistorici.it/listing-item/caffe-al-bicerin/
-    publisher: Locali Storici d'Italia
-    note: Used for the historic-café designation and the continuity of the business; not for the current menu.
     accessed: 2026-11-21
 rights:
   status: allowed

@@ -28,6 +28,14 @@ related:
     target_id: ingredient:hop
   - relation: about
     target_id: guide:first-tasting
+  - relation: about
+    target_id: drink-style:stout
+  - relation: about
+    target_id: drink-style:pilsner
+  - relation: about
+    target_id: region:germany
+  - relation: about
+    target_id: region:belgium
 references:
   - key: beer
     target_id: drink-style:beer
@@ -45,6 +53,14 @@ references:
     target_id: guide:food-pairing
   - key: region
     target_id: region:china
+  - key: stout
+    target_id: drink-style:stout
+  - key: pilsner
+    target_id: drink-style:pilsner
+  - key: germany
+    target_id: region:germany
+  - key: belgium
+    target_id: region:belgium
 sources:
   - key: brewers-association
     title: Brewers Association
@@ -152,4 +168,4 @@ verification_scope: source-verified
 - Tasting Beer（Randy Mosher / Storey Publishing，核对 2026-11-25）
 - BJCP — Beer Judge Certification Program style guidelines — https://www.bjcp.org/（Beer Judge Certification Program，核对 2026-11-25）
 
-相关条目：[啤酒](ref:beer)、[低醇啤酒](ref:low)、[啤酒品鉴入门](ref:intro)、[发酵](ref:ferment)、[啤酒花](ref:hop)、[第一次品酒怎么开始](ref:tasting)、[餐酒搭配入门](ref:pairing)、[中国](ref:region)。
+相关条目：[啤酒](ref:beer)、[低醇啤酒](ref:low)、[啤酒品鉴入门](ref:intro)、[发酵](ref:ferment)、[啤酒花](ref:hop)、[第一次品酒怎么开始](ref:tasting)、[餐酒搭配入门](ref:pairing)、[中国](ref:region)、[世涛](ref:stout)、[皮尔森](ref:pilsner)、[德国啤酒](ref:germany)、[比利时啤酒](ref:belgium)。

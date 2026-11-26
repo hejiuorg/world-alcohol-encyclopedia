@@ -11,8 +11,8 @@ revision: 2
 translation_of: brand:huanghelou
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:48953b5fc833eee4d9dfebdab2ee90ca28143742985656afa0065c7757ab15f7
-source_sha256: 48953b5fc833eee4d9dfebdab2ee90ca28143742985656afa0065c7757ab15f7
+source_revision: sha256:d5fcaa0ee94f230f257bee01575bfa6c8898979fc78607100c6911c15e2b06c0
+source_sha256: d5fcaa0ee94f230f257bee01575bfa6c8898979fc78607100c6911c15e2b06c0
 producer_refs:
   - producer:huanghelou
 region_refs:
@@ -67,24 +67,6 @@ sources:
     note: Consulted for entries on Chinese baijiu aroma families and national evaluations; no source text is reproduced.
     accessed: 2026-11-05
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
-  - key: hhljy-intro
-    title: Huanghelou Distillery — company profile
-    url: https://www.hhljy.com.cn/list/2.html
-    publisher: Huanghelou Distillery
-    note: Used to check brand history, product series and honours; facts only, no promotional copy is reproduced.
-    accessed: 2026-11-07
-  - key: hhljy-chenxiang
-    title: Huanghelou Distillery — Chenxiang series
-    url: https://www.hhljy.com.cn/list/19.html
-    publisher: Huanghelou Distillery
-    note: Used to check the names of Chenxiang products; no source text is reproduced.
-    accessed: 2026-11-07
-  - key: hhljy-gengshang
-    title: Huanghelou Distillery — Huanghelou Gengshang Cenglou
-    url: https://www.hhljy.com.cn/view/470.html
-    publisher: Huanghelou Distillery
-    note: Used to check the aroma type, strength and raw-material declaration of Gengshang Cenglou; no source text is reproduced.
-    accessed: 2026-11-07
 rights:
   status: allowed
   license: CC-BY-4.0

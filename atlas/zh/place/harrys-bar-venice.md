@@ -70,11 +70,6 @@ sources:
     publisher: Oxford University Press
     note: 参考其关于贝里尼与哈里酒吧的条目。
     accessed: 2026-10-29
-  - key: dbpedia
-    title: "Harry's Bar (Venice) — DBpedia (Wikipedia/Wikidata coordinates) —"
-    url: https://dbpedia.org/page/Harry%27s_Bar_
-    publisher: "DBpedia"
-    note: 由原条目末尾参考资料迁移，未逐条复核访问日期。
 rights:
   status: allowed
   license: CC-BY-4.0

@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-regnie
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f7996101f2a0af9ba31169462ed722d65e78e2ff25707732f5e49b19049fa168
-source_sha256: f7996101f2a0af9ba31169462ed722d65e78e2ff25707732f5e49b19049fa168
+source_revision: sha256:5a5292fb20535668883b30a607c67ba7a1e360907205fe78d46443e35c4b8edc
+source_sha256: 5a5292fb20535668883b30a607c67ba7a1e360907205fe78d46443e35c4b8edc
 style_refs:
   - drink-style:red-wine
 variety_refs:
@@ -89,7 +89,7 @@ abv:
 ---
 # Régnié
 
-On the list of the ten Beaujolais crus, Régnié is often the name read last. It only gained village cru status in 1988 and is the youngest entry on the list; precisely because its record is short, it has long sat at lower prices and lower visibility on wine lists. But "young" describes institutional history, not the quality of the wine.![Régnié image](/media/photos/drink-france-regnie-9700eca2.png)
+On the list of the ten Beaujolais crus, Régnié is often the name read last. It only gained village cru status in 1988 and is the youngest entry on the list; precisely because its record is short, it has long sat at lower prices and lower visibility on wine lists. But "young" describes institutional history, not the quality of the wine.![Régnié image](/media/photos/drink-france-regnie-9700eca2.webp)
 
 Figure: Régnié. Image: Cyril5555, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)).
 

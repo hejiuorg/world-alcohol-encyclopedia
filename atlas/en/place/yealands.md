@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:yealands
 source_lang: zh
-source_revision: sha256:a6e06bd1ff1a1204733139dd7b7f3c96817595a23ae4081fefbd7a87037f6ac6
-source_sha256: a6e06bd1ff1a1204733139dd7b7f3c96817595a23ae4081fefbd7a87037f6ac6
+source_revision: sha256:2e5cc399e95cadc0aebf3bcb6117c1d9414790c7656fa6c36cb877ccb4fc2193
+source_sha256: 2e5cc399e95cadc0aebf3bcb6117c1d9414790c7656fa6c36cb877ccb4fc2193
 translation_status: reviewed
 subtype: winery-visitor
 address: 534 Seaview Road, Seddon, Marlborough 7285, New Zealand
@@ -57,12 +57,6 @@ references:
   - key: cloudy-bay
     target_id: place:cloudy-bay
 sources:
-  - key: nzw-yealands
-    title: Yealands Estate Wines — New Zealand Winegrowers
-    url: https://www.nzwine.com/en/winery/yealands-estate-wines
-    publisher: New Zealand Winegrowers
-    note: Used to check the 534 Seaview Road, Seddon address, the tasting room, local cheeses and cured meats, the White Road self-drive route, the 2008 winery and the carbonzero-from-inception wording; no source text is reproduced.
-    accessed: 2026-11-09
   - key: yealands-official
     title: Yealands — Official site
     url: https://www.yealands.co.nz/
@@ -74,12 +68,6 @@ sources:
     url: https://www.nzwine.com/en/regions/marlborough/
     publisher: New Zealand Winegrowers
     note: Used to check the cooler, drier, windier Awatere Valley and its coastal vineyard climate; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: toitu
-    title: Toitū carboNZero Certification — New Zealand Winegrowers
-    url: https://www.nzwine.com/en/winery/yealands-estate-wines/toitu-carbonzero-certification
-    publisher: New Zealand Winegrowers
-    note: Used to check the estate's Toitū carbonzero certification and the categories of its sustainability programme; no source text is reproduced.
     accessed: 2026-11-09
 rights:
   status: allowed

@@ -59,12 +59,6 @@ references:
   - key: china
     target_id: region:china
 sources:
-  - key: baike-blue-bottle
-    title: 百度百科 — 红星蓝瓶二锅头
-    url: "https://m.baike.com/wiki/%E7%BA%A2%E6%98%9F%E8%93%9D%E7%93%B6%E4%BA%8C%E9%94%85%E5%A4%B4/7915594"
-    publisher: 百度百科
-    note: 用于核对香型、43% vol 与净含量区间；未复制原文。
-    accessed: 2026-11-04
   - key: museum-craft
     title: 北京二锅头酒博物馆 — 红星对二锅头技艺的全面继承
     url: "https://www.redstarwine.cn/qyjs1/hxdjyccjcx/cindex1.html"
@@ -76,12 +70,6 @@ sources:
     url: "https://www.redstarwine.cn/tsfw/snjzl/cindex1.html"
     publisher: 北京二锅头酒博物馆
     note: 用于核对清蒸清烧、低温流酒与陶坛贮存表述；未复制原文。
-    accessed: 2026-11-04
-  - key: cbj-2109
-    title: 中国酒业协会团体标准 — T/CBJ 2109—2020 二锅头酒
-    url: "https://www.cada.cc/Common/ShowDownloadUrl.aspx?urlid=0&id=1117"
-    publisher: 中国酒业协会
-    note: 用于核对二锅头酒的适用范围与酒精度区间；未复制原文。
     accessed: 2026-11-04
 rights:
   status: allowed

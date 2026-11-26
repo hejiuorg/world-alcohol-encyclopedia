@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: term:column-still
 source_lang: zh
-source_revision: sha256:1f24ec14ab63f136ef886cb04026d6c111497033265eeed9e4fccd1bc6ebf52b
-source_sha256: 1f24ec14ab63f136ef886cb04026d6c111497033265eeed9e4fccd1bc6ebf52b
+source_revision: sha256:efdc2e7bd71d0e7d89098c5cb6e73db2887583ec59dc92552d69dea2d2415877
+source_sha256: efdc2e7bd71d0e7d89098c5cb6e73db2887583ec59dc92552d69dea2d2415877
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -61,11 +61,6 @@ sources:
     publisher: Chemistry LibreTexts (UC Davis)
     note: Used to check the concentration and boiling point of the ethanol-water azeotrope; no source text is reproduced.
     accessed: 2026-11-07
-  - key: chem
-    title: "Chemistry LibreTexts — Separating Volatile Solutions: Distillation"
-    url: https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_4B:_General_Chemistry_for_Majors_II_
-    publisher: Unattributed
-    note: Migrated from the former reference list at the end of the article; access date not re-verified.
 rights:
   status: allowed
   license: CC-BY-4.0

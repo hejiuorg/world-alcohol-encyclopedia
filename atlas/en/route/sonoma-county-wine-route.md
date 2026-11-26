@@ -24,8 +24,8 @@ tags:
 translation_of: route:sonoma-county-wine-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:7305852b5ab3c1296cad5f0d822f881ec577bc14b61f10d563d5e04f0ceb0510
-source_sha256: 7305852b5ab3c1296cad5f0d822f881ec577bc14b61f10d563d5e04f0ceb0510
+source_revision: sha256:96837a6775a4665dc5ef1359e834afb22d39a7cf46134213bea8ae1644919639
+source_sha256: 96837a6775a4665dc5ef1359e834afb22d39a7cf46134213bea8ae1644919639
 related:
   - relation: about
     target_id: place:jordan-vineyard
@@ -49,23 +49,11 @@ references:
   - key: pinot
     target_id: variety:pinot-noir
 sources:
-  - key: sonoma-wine
-    title: Sonoma County — Wine Institute
-    url: https://www.wineinstitute.org/regions/sonoma-county
-    publisher: Wine Institute
-    note: Used to verify Sonoma County's location, coastal fog, Alexander Valley and the Russian River Valley; no source text is reproduced.
-    accessed: 2026-11-21
   - key: sonoma-vintners
     title: Sonoma Valley Vintners & Growers Alliance
     url: https://www.sonomavalley.com/
     publisher: Sonoma Valley Vintners & Growers Alliance
     note: Used to verify Sonoma Valley wine estates, maps and visitor information; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: sonoma-jordan
-    title: Visit — Jordan Vineyard & Winery
-    url: https://www.jordanwinery.com/pages/visit
-    publisher: Jordan Vineyard & Winery
-    note: Used to verify 1474 Alexander Valley Road, bookings and the restaurant; no source text is reproduced.
     accessed: 2026-11-21
   - key: sonoma-selyem
     title: Visit — Williams Selyem

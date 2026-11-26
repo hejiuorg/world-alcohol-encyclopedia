@@ -57,12 +57,6 @@ sources:
     publisher: New Zealand Winegrowers
     note: 用于核对 2026 年约 440,000 吨的采收量、较上年下降 15% 以及出口额与出口量；未复制原文。
     accessed: 2026-11-09
-  - key: nzw-yealands
-    title: "Yealands Estate Wines — New Zealand Winegrowers"
-    url: https://www.nzwine.com/en/winery/yealands-estate-wines
-    publisher: New Zealand Winegrowers
-    note: 用于核对 534 Seaview Road 地址、品鉴室、White Road 自驾路线与 2008 年建厂信息；未复制原文。
-    accessed: 2026-11-09
   - key: brancott-1973
     title: "Brancott — Pernod Ricard USA"
     url: https://www.pernod-ricard-usa.com/brancott

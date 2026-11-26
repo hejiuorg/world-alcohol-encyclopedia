@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 博若莱（Beaujolais）是法国东部索恩河以西、里昂以北的葡萄酒产区，位于[勃艮第](ref:burgundy)以南。它主要以[佳美](ref:gamay)酿造[红葡萄酒](ref:red-wine)，也少量生产以[霞多丽](ref:chardonnay)酿造的[白葡萄酒](ref:white-wine)。产区从大区级、博若莱村庄到十个村庄级 cru 逐级细分。
 
-![博若莱 图像](/media/photos/region-beaujolais-9700eca2.png)
+![博若莱 图像](/media/photos/region-beaujolais-9700eca2.webp)
 
 图：博若莱。图片：Cyril5555，CC BY-SA 3.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)）。
 

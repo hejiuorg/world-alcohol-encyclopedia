@@ -45,18 +45,6 @@ references:
   - key: single-malt
     target_id: term:single-malt
 sources:
-  - key: apple-us
-    title: The World Atlas of Whisky — Apple Books (US)
-    url: https://books.apple.com/us/book/the-world-atlas-of-whisky/id922573655
-    publisher: Apple Books / Octopus
-    note: Used to check the 2014 revised edition, 200-plus distilleries, 750 expressions and the six Flavor Camps; no text is reproduced.
-    accessed: 2026-11-20
-  - key: apple-gb
-    title: The World Atlas of Whisky — Apple Books (UK)
-    url: https://books.apple.com/gb/book/the-world-atlas-of-whisky/id919160753
-    publisher: Apple Books / Octopus
-    note: Used to check the 2014 revised edition and bibliographic description; no text is reproduced.
-    accessed: 2026-11-20
   - key: worldcat-whisky-atlas
     title: The World Atlas of Whisky — WorldCat search
     url: https://search.worldcat.org/search?q=The+World+Atlas+of+Whisky
@@ -81,8 +69,8 @@ rights:
   basis: Project-authored article, checked against publisher and author pages, without reproducing maps, distillery entries, tasting notes or translations. The project owner declared project content CC BY 4.0 on 2026-10-29.
   note: The original maps, charts, tasting notes and translations are not covered by this licence; sources are cited for verification only. The image on this book entry shows a bottle of Lagavulin 16-year-old single malt, not the book cover.
 verification_scope: source-verified
-source_sha256: 4d824593cfb700d1d106a9295395676f3ebce208e5c39317ffe8ee55c6792fbb
-source_revision: sha256:4d824593cfb700d1d106a9295395676f3ebce208e5c39317ffe8ee55c6792fbb
+source_sha256: 1467cd4399349fc170bb4e9d33113e60d07c0bdca194485ddb7175ef07a8c986
+source_revision: sha256:1467cd4399349fc170bb4e9d33113e60d07c0bdca194485ddb7175ef07a8c986
 ---
 
 # The World Atlas of Whisky![Lagavulin 16-year-old single malt whisky](/media/photos/book-world-atlas-of-whisky-84a0994f.jpg)

@@ -62,12 +62,6 @@ sources:
     publisher: "d’Arenberg"
     note: "用于核对 58 Osborn Road、Cube、预约与开放时间；未复制原文。"
     accessed: 2026-11-21
-  - key: mv-wirra
-    title: "Visit — Wirra Wirra"
-    url: https://www.wirrawirra.com/pages/visit
-    publisher: "Wirra Wirra"
-    note: "用于核对 255 Strout Road、cellar door 与预约；未复制原文。"
-    accessed: 2026-11-21
 rights:
   status: allowed
   license: CC-BY-4.0

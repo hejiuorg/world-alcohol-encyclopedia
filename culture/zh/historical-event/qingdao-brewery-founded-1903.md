@@ -42,12 +42,6 @@ references:
   - key: tsingtao-beer
     target_id: drink:shandong-tsingtao
 sources:
-  - key: qingdao-gov
-    title: 第六批全国重点文物保护单位：青岛啤酒厂早期建筑资料
-    url: http://www.qingdao.gov.cn/lslm/zt/whyc/wwzl/202111/t20211126_3877117.shtml
-    publisher: 青岛政务网
-    note: 用于核对 1903 年 8 月 15 日香港盎格鲁—日耳曼啤酒公司的德英商人出资兴建日耳曼啤酒公司青岛股份公司、厂址米勒上尉路（今登州路 56 号），以及“中国第一家且持续经营至今的啤酒厂”的表述；属政府文物资料页。
-    accessed: 2026-11-04
   - key: people-daily
     title: 品百年啤酒味道
     url: http://paper.people.com.cn/hwbwap/html/2023-08/11/content_26010692.htm

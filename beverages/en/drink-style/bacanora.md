@@ -21,8 +21,8 @@ tags:
 translation_of: drink-style:bacanora
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2fd8a7d14a7ef0fc5ecb1df7be2626e5225038a68d10534400624f394dd7f1bc
-source_sha256: 2fd8a7d14a7ef0fc5ecb1df7be2626e5225038a68d10534400624f394dd7f1bc
+source_revision: sha256:655f0612ab7cb72b617c0eb5ac216ff301781a15ead2c2e6b5485dd7c777452e
+source_sha256: 655f0612ab7cb72b617c0eb5ac216ff301781a15ead2c2e6b5485dd7c777452e
 related:
   - relation: about
     target_id: drink-style:mezcal
@@ -75,12 +75,6 @@ sources:
     url: https://www.wipo.int/wipolex/zh/text/220970
     publisher: WIPO / IMPI México
     note: Used to verify the 2000 DO protection, the 35-municipality zone and the name origin of Bacanora; no source text is reproduced.
-    accessed: 2026-11-22
-  - key: economia-bacanora
-    title: Secretaría de Economía — Bacanora, evaluación de la conformidad
-    url: https://www.economia.gob.mx/platiica-evaluacion-de-la-conformidad/bacanora/
-    publisher: Secretaría de Economía, México
-    note: Used to verify the raw material Agave angustifolia Haw. (pacífica / yaquiana) and the NOM-168-SCFI-2004 standard; no source text is reproduced.
     accessed: 2026-11-22
   - key: eumx-1997-spirits
     title: EU–Mexico Agreement on mutual recognition and protection of spirit drinks (1997), Annex II

@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:korean-soju-modernization
 source_lang: zh
-source_revision: sha256:fcbb12f741e1f578cb015be0e18efeec42586dcdd7ce35df20143fff1b53d2a1
-source_sha256: fcbb12f741e1f578cb015be0e18efeec42586dcdd7ce35df20143fff1b53d2a1
+source_revision: sha256:9c73a7759adb2409bb05d983c6645bdca093a60825d605424aa2bc944cb75f3f
+source_sha256: 9c73a7759adb2409bb05d983c6645bdca093a60825d605424aa2bc944cb75f3f
 translation_status: reviewed
 aliases:
   - 韩国烧酒
@@ -64,12 +64,6 @@ sources:
     url: https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=2223700120000&pageNo=1_1_1_1
     publisher: Korea National Heritage Portal
     note: Used to check Andong soju as a distilled soju handed down in Andong, made from rice and other grains, and used medicinally and for hospitality.
-    accessed: 2026-11-04
-  - key: kbanker-soju
-    title: 정부는 ‘증류식 소주’에게 사과해야 한다
-    url: https://www.kbanker.co.kr/news/articleView.html?idxno=223401
-    publisher: Korea Financial News
-    note: Used to cross-check the 1965 government ban on grain brewing because of food shortages and the resulting decline of distilled soju.
     accessed: 2026-11-04
 rights:
   status: allowed

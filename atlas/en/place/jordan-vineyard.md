@@ -39,8 +39,8 @@ tags:
 translation_of: place:jordan-vineyard
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:6dfd643f292469432383b35802469614af4054317e534277bb0de8e460f092f6
-source_sha256: 6dfd643f292469432383b35802469614af4054317e534277bb0de8e460f092f6
+source_revision: sha256:ae2386d4f0dbb2770aab4d35c86c332f61009ac0d5d2723b9261d7a2d5c5678f
+source_sha256: ae2386d4f0dbb2770aab4d35c86c332f61009ac0d5d2723b9261d7a2d5c5678f
 related:
   - relation: about
     target_id: region:sonoma
@@ -66,26 +66,26 @@ references:
 sources:
   - key: jordan-history
     title: Our History — Jordan Vineyard & Winery
-    url: https://www.jordanwinery.com/pages/our-history
+    url: https://www.jordanwinery.com/about-us/our-history
     publisher: Jordan Vineyard & Winery
     note: Used to verify Tom and Sally Jordan's 1972 founding, the French-style château and Alexander Valley; no source text is reproduced.
     accessed: 2026-11-21
   - key: jordan-visit
     title: Visit — Jordan Vineyard & Winery
-    url: https://www.jordanwinery.com/pages/visit
+    url: https://www.jordanwinery.com/visit-jordan/
     publisher: Jordan Vineyard & Winery
     note: Used to verify 1474 Alexander Valley Road, bookings, château tours and the restaurant; no source text is reproduced.
     accessed: 2026-11-21
   - key: jordan-wines
     title: Our Wines — Jordan Vineyard & Winery
-    url: https://www.jordanwinery.com/collections/wine
+    url: https://www.jordanwinery.com/wines/
     publisher: Jordan Vineyard & Winery
     note: Used to verify Cabernet Sauvignon, Chardonnay and the wine range; no source text is reproduced.
     accessed: 2026-11-21
   - key: sonoma-wine
-    title: Sonoma County — Wine Institute
-    url: https://www.wineinstitute.org/regions/sonoma-county
-    publisher: Wine Institute
+    title: Sonoma County — Alexander Valley Winegrowers
+    url: https://alexandervalley.org/
+    publisher: Alexander Valley Winegrowers
     note: Used to verify Sonoma County, Alexander Valley and variety background; no source text is reproduced.
     accessed: 2026-11-21
 rights:

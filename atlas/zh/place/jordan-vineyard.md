@@ -61,26 +61,26 @@ references:
 sources:
   - key: jordan-history
     title: "Our History — Jordan Vineyard & Winery"
-    url: https://www.jordanwinery.com/pages/our-history
+    url: https://www.jordanwinery.com/about-us/our-history
     publisher: "Jordan Vineyard & Winery"
     note: "用于核对 1972 年 Tom 与 Sally Jordan 创立、法式城堡与亚历山大谷；未复制原文。"
     accessed: 2026-11-21
   - key: jordan-visit
     title: "Visit — Jordan Vineyard & Winery"
-    url: https://www.jordanwinery.com/pages/visit
+    url: https://www.jordanwinery.com/visit-jordan/
     publisher: "Jordan Vineyard & Winery"
     note: "用于核对 1474 Alexander Valley Road、预约、城堡导览与餐厅；未复制原文。"
     accessed: 2026-11-21
   - key: jordan-wines
     title: "Our Wines — Jordan Vineyard & Winery"
-    url: https://www.jordanwinery.com/collections/wine
+    url: https://www.jordanwinery.com/wines/
     publisher: "Jordan Vineyard & Winery"
     note: "用于核对 Cabernet Sauvignon、Chardonnay 与酒款结构；未复制原文。"
     accessed: 2026-11-21
   - key: sonoma-wine
-    title: "Sonoma County — Wine Institute"
-    url: https://www.wineinstitute.org/regions/sonoma-county
-    publisher: "Wine Institute"
+    title: "Sonoma County — Alexander Valley Winegrowers"
+    url: https://alexandervalley.org/
+    publisher: "Alexander Valley Winegrowers"
     note: "用于核对索诺马县、亚历山大谷与品种背景；未复制原文。"
     accessed: 2026-11-21
   - key: official-site

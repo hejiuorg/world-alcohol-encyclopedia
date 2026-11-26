@@ -49,18 +49,6 @@ references:
   - key: white-wine
     target_id: drink-style:white-wine
 sources:
-  - key: weinbach-contact
-    title: "Domaine Weinbach — Contact"
-    url: https://www.domaineweinbach.com/contact/
-    publisher: Domaine Weinbach
-    note: 用于核对预约制接待、周一至周六时段与周日闭馆；未复制原文。
-    accessed: 2026-11-09
-  - key: weinbach-legal
-    title: "Domaine Weinbach — Mentions légales"
-    url: https://www.domaineweinbach.com/mentions-legales/
-    publisher: Domaine Weinbach
-    note: 用于核对 25 Route du Vin, 68240 Kaysersberg 地址、电话与酒庄主体；未复制原文。
-    accessed: 2026-11-09
   - key: vinsalsace
     title: "Vins d'Alsace — Official site"
     url: https://www.vinsalsace.com/

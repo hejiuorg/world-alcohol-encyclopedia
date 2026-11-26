@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: event:tsingtao-beer-museum-beer-festival-2026
 source_lang: zh
-source_revision: sha256:e4d9cde6f04788d7c7a0bcb94ae61d8a815dea598a8eab7fad97163ab09a4222
-source_sha256: e4d9cde6f04788d7c7a0bcb94ae61d8a815dea598a8eab7fad97163ab09a4222
+source_revision: sha256:2c7eaa1324a3a75fe7315082890a925241e1cbae5c2efbedeae7d8dd0080e5e4
+source_sha256: 2c7eaa1324a3a75fe7315082890a925241e1cbae5c2efbedeae7d8dd0080e5e4
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -37,18 +37,6 @@ references:
   - key: c-extra-3
     target_id: drink:shandong-tsingtao
 sources:
-  - key: qingdao-festival
-    title: 第36届青岛国际啤酒节7月17日启幕
-    url: http://www.qingdao.gov.cn/ywdt/zwyw/202606/t20260627_10644680.shtml
-    publisher: Qingdao Municipal People's Government
-    note: Used to check the 36th Qingdao International Beer Festival dates, 17 July to 15 August 2026, the 30-day run, the three venues and the free-admission policy; no source text is reproduced.
-    accessed: 2026-11-07
-  - key: qingdao-guide
-    title: “限定”30天！啤酒节玩法上新，速速码住
-    url: http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202607/t20260721_10681613.shtml
-    publisher: Qingdao Municipal Culture and Tourism Bureau
-    note: Used to check the festival dates and the official recommendation to visit the museum's “Golden Wonder Night”; no source text is reproduced.
-    accessed: 2026-11-07
   - key: museum-hours
     title: 青岛啤酒博物馆 — 参观须知
     url: https://www.tsingtaomuseum.com/articleTitleCus/1790371205849559041?viewName=newCanguanDetail
@@ -72,12 +60,6 @@ sources:
     url: https://www.tsingtaomuseum.com/
     publisher: 青岛啤酒博物馆
     note: Used to check daily 08:30–17:30 hours, last entry at 16:30 and the online booking entry; no source text reproduced.
-    accessed: 2026-11-08
-  - key: qingdao-gov-beer-festival
-    title: Qingdao government — 36th Qingdao International Beer Festival
-    url: http://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202607/t20260720_10681371.shtml
-    publisher: 青岛市人民政府
-    note: Used to check the 17 July–15 August 2026 dates, the 30-day run and the three venues; no source text reproduced.
     accessed: 2026-11-08
 rights:
   status: allowed

@@ -22,8 +22,8 @@ tags:
 translation_of: drink-style:california-common
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:11720dc03d5e519dece3af3a33a77058d02a1f6b38f57dfabe5727e56307b0e5
-source_sha256: 11720dc03d5e519dece3af3a33a77058d02a1f6b38f57dfabe5727e56307b0e5
+source_revision: sha256:2f83c90f041c07fc3fdb7fdde784206988139c144d3558214d8b165b0acb71c9
+source_sha256: 2f83c90f041c07fc3fdb7fdde784206988139c144d3558214d8b165b0acb71c9
 related:
   - relation: about
     target_id: drink-style:beer
@@ -76,12 +76,6 @@ sources:
     url: https://www.bjcp.org/beer-styles/7b-california-common-beer/
     publisher: Beer Judge Certification Program
     note: Used to verify OG/FG, IBU, SRM and ABV ranges, ingredients, yeast and commercial examples; no source text is reproduced.
-    accessed: 2026-11-22
-  - key: anchor-story
-    title: Anchor Brewing — The Anchor Story
-    url: https://www.anchorbrewing.com/about-us/the-anchor-story/
-    publisher: Anchor Brewing
-    note: Used to verify the 1896 founding, post-Prohibition 1933 relaunch and 2010 ownership sale; no source text is reproduced.
     accessed: 2026-11-22
   - key: sf-anchor-lbr
     title: SF Legacy Business Registry — Anchor Brewing Company Staff Report

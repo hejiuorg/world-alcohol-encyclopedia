@@ -11,8 +11,8 @@ revision: 1
 translation_of: drink-style:imperial-stout
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:195dd1867dec7201f04e80833cf9bd9bc2619f7b865cc6cdc740653d1e679d8f
-source_sha256: 195dd1867dec7201f04e80833cf9bd9bc2619f7b865cc6cdc740653d1e679d8f
+source_revision: sha256:aaa0877c197439fd7cfad93a64b763ddd4c76591b40228f9427fca60b53b5ed2
+source_sha256: aaa0877c197439fd7cfad93a64b763ddd4c76591b40228f9427fca60b53b5ed2
 parent_style_id: drink-style:stout
 aroma_family: Roasted malt and alcohol
 legacy_refs: []
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 Imperial stout is the strongest branch of the [stout](ref:stout) family within [beer](ref:beer). It descends from the strong, heavily hopped black beer that Britain exported to the Russian court and the Baltic markets in the 18th century, which is why it is often written as Russian Imperial Stout. Four things draw its boundary: deeply roasted grain, a full body, obvious alcohol warmth, and enough bitterness and acidity to support years of cellaring.
 
-![Imperial Stout image](/media/photos/drink-style-imperial-stout-5ced0da8.png)
+![Imperial Stout image](/media/photos/drink-style-imperial-stout-5ced0da8.webp)
 
 Figure: Imperial Stout. Image: 55belgianbeerfan, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)).
 

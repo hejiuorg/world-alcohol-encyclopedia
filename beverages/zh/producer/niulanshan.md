@@ -49,12 +49,6 @@ sources:
     publisher: 北京顺鑫控股集团有限公司
     note: 用于核对二锅头传统酿制技艺与国家级非物质文化遗产表述；未复制原文。
     accessed: 2026-11-04
-  - key: baike-niulanshan
-    title: 百度百科 — 北京顺鑫农业股份有限公司牛栏山酒厂
-    url: https://m.baike.com/wiki/%E5%8C%97%E4%BA%AC%E9%A1%BA%E9%91%AB%E5%86%9C%E4%B8%9A%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%89%9B%E6%A0%8F%E5%B1%B1%E9%85%92%E5%8E%82/1197794
-    publisher: 百度百科
-    note: 用于核对厂址与建厂年份的公开表述；未复制原文。
-    accessed: 2026-11-04
   - key: official-site
     title: "北京顺鑫农业股份有限公司牛栏山酒厂 — 官方页面"
     url: "https://www.shunxinholdings.com/"

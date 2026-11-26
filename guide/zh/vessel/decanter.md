@@ -69,12 +69,6 @@ sources:
     publisher: Riedel
     note: 用于核对醒酒器与酒杯的器型逻辑；未复制原文。
     accessed: 2026-11-20
-  - key: winefolly
-    title: Wine Folly — wine glass guide
-    url: https://winefolly.com/tips/wine-glass-guide/
-    publisher: Wine Folly
-    note: 用于核对醒酒与器型的通用建议；未复制原文。
-    accessed: 2026-11-20
 rights:
   status: allowed
   license: CC-BY-4.0

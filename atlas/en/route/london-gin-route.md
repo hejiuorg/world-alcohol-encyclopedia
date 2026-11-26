@@ -23,8 +23,8 @@ tags:
 translation_of: route:london-gin-route
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:8948f567511f26c38e729e282f4a2654f2f1d08dee820096da022dabd55ffb85
-source_sha256: 8948f567511f26c38e729e282f4a2654f2f1d08dee820096da022dabd55ffb85
+source_revision: sha256:9fa9c1c047f3335684585891a2de76666fd2971369e2de2fd82af1ad96c9fede
+source_sha256: 9fa9c1c047f3335684585891a2de76666fd2971369e2de2fd82af1ad96c9fede
 related:
   - relation: about
     target_id: place:american-bar-savoy
@@ -53,18 +53,6 @@ sources:
     url: https://www.visitlondon.com/things-to-do/food-and-drink/gin
     publisher: Visit London
     note: Used to verify London gin history, distilleries and bar background; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: savoy
-    title: American Bar — The Savoy
-    url: https://www.thesavoylondon.com/restaurant-bars/american-bar/
-    publisher: The Savoy
-    note: Used to verify the American Bar's location, cocktails and dress-code/booking information; no source text is reproduced.
-    accessed: 2026-11-21
-  - key: dukes
-    title: Dukes Bar — Dukes Hotel
-    url: https://www.dukeshotel.com/dukes-bar/
-    publisher: Dukes Hotel
-    note: Used to verify Dukes Bar's location, martinis and booking information; no source text is reproduced.
     accessed: 2026-11-21
   - key: gin-guild
     title: The Gin Guild

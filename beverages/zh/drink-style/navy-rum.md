@@ -67,18 +67,6 @@ sources:
     publisher: Royal Museums Greenwich
     note: 用于核对英国皇家海军朗姆配给、Pusser's Rum 与 Black Tot Day 历史，未复制原文。
     accessed: 2026-11-22
-  - key: pussers-history
-    title: "The Pusser's Story — Royal Navy ration history and Pusser's founding"
-    url: https://pussers.com/pussers-history/
-    publisher: Pusser's British West Indies, Ltd.
-    note: "用于核对 1655 年朗姆替代啤酒配给、Purser 名称由来、1970 年 Black Tot Day 与 1979 年品牌复原历史，未复制原文。"
-    accessed: 2026-11-22
-  - key: lambs-navy
-    title: "Lambs Navy Rum — product range"
-    url: https://www.libradrinks.co.uk/product-ranges/spirits/lambs-navy-rum-lamb02
-    publisher: Libra Drinks
-    note: "用于核对 Lamb's 品牌 1849 年创立、18 款产地朗姆调和与 40% 酒精度，未复制原文。"
-    accessed: 2026-11-22
 rights:
   status: allowed
   license: CC-BY-4.0

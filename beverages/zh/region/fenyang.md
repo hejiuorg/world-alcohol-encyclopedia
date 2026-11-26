@@ -79,7 +79,7 @@ verification_scope: source-verified
 
 汾阳是山西省吕梁市代管的县级市，位于晋中盆地西缘、吕梁山脚下。杏花村在汾阳境内，是汾酒长期使用的产地地名。与川南浓香型产区的湿润气候不同，汾阳属于北方半干旱季风气候，冬季寒冷、春季多风、昼夜温差大。理解汾阳，不能只看“清香”两个字，还要看地缸、气候与高粱之间的关系。
 
-![汾酒博物馆收藏的 1915 年巴拿马万国博览会一等金质奖章](/media/photos/place-fenjiu-museum-efad0f85.png)
+![汾酒博物馆收藏的 1915 年巴拿马万国博览会一等金质奖章](/media/photos/place-fenjiu-museum-efad0f85.webp)
 
 图：汾酒博物馆展陈的 1915 年巴拿马万国博览会一等金质奖章；这是馆藏文物，不是酒厂生产场景。图片：汾酒集团文化中心，Public domain，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E8%A5%BF%E6%B1%BE%E9%85%92%E8%8D%A3%E8%8E%B71915%E5%B9%B4%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A%E7%9A%84%E2%80%9C%E4%B8%80%E7%AD%89%E9%87%91%E8%B4%A8%E5%A4%A7%E5%A5%96%E7%AB%A0%E2%80%9D_%E6%B1%BE%E9%85%92%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F.png)）。
 

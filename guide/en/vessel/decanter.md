@@ -7,8 +7,8 @@ slug: decanter
 title: Decanter
 translation_of: vessel:decanter
 source_lang: zh
-source_revision: sha256:4b4bca85203f1d4a739096eb5a347be58632592f6df194c3e643619e930857d9
-source_sha256: 4b4bca85203f1d4a739096eb5a347be58632592f6df194c3e643619e930857d9
+source_revision: sha256:3538b5b2a76d4ff53199d19b3040e8bd7673b7859b8df17e127f90336eaba430
+source_sha256: 3538b5b2a76d4ff53199d19b3040e8bd7673b7859b8df17e127f90336eaba430
 translation_status: reviewed
 summary: A glass vessel for separating sediment and letting wine meet air, usually with a wide base, a long neck and a stopper. Decanting time depends on age, body and aroma.
 status: reviewed
@@ -72,12 +72,6 @@ sources:
     url: https://www.riedel.com/en
     publisher: Riedel
     note: Used to check decanter and glassware logic; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: winefolly
-    title: Wine Folly — wine glass guide
-    url: https://winefolly.com/tips/wine-glass-guide/
-    publisher: Wine Folly
-    note: Used to check general decanting and glassware advice; no source text is reproduced.
     accessed: 2026-11-20
 rights:
   status: allowed

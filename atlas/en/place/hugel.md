@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:hugel
 source_lang: zh
-source_revision: sha256:08c97d53bd886ba9c847bb1bb9558f4b34bc400a55093b46f808edd0a21c9e0b
-source_sha256: 08c97d53bd886ba9c847bb1bb9558f4b34bc400a55093b46f808edd0a21c9e0b
+source_revision: sha256:3f220789d0b327657efac3d25b8d3d154e693f795cb8d561ed4a717deea643e9
+source_sha256: 3f220789d0b327657efac3d25b8d3d154e693f795cb8d561ed4a717deea643e9
 translation_status: reviewed
 subtype: winery-visitor
 address: 3, rue de la Première Armée, 68340 Riquewihr, France
@@ -55,18 +55,6 @@ references:
   - key: white-wine
     target_id: drink-style:white-wine
 sources:
-  - key: hugel-visit
-    title: Hugel & Fils — Dégustation à Riquewihr
-    url: http://www.hugel.com/fr/riquewihr.php
-    publisher: Hugel & Fils
-    note: Used to check the 3, rue de la première armée address, the tasting-room season and the booked cellar tours; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: hugel-home
-    title: Hugel & Fils — Official site
-    url: http://www.hugel.com/fr/
-    publisher: Hugel & Fils
-    note: Used to check the family history from 1639, the noble varieties, production and the export share; no source text is reproduced.
-    accessed: 2026-11-09
   - key: vinsalsace
     title: Vins d'Alsace — Official site
     url: https://www.vinsalsace.com/

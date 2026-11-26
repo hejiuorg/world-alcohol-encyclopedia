@@ -56,12 +56,6 @@ sources:
     publisher: U.S. Alcohol and Tobacco Tax and Trade Bureau / eCFR
     note: 用于核对美国蒸馏酒标签必须以 ABV 标示、proof 可与 ABV 同时出现在同一视野内的规则；未复制原文。
     accessed: 2026-11-21
-  - key: ttb-gauging
-    title: Distilled Spirits Gauging Manual — 27 CFR Part 30
-    url: https://www.ttb.gov/foia/distilled-spirits-gauging-manual
-    publisher: U.S. Alcohol and Tobacco Tax and Trade Bureau
-    note: 用于核对比重计在 60°F 下读取 proof、温度修正与 0–200 proof 刻度；未复制原文。
-    accessed: 2026-11-21
   - key: eu-fic
     title: Regulation (EU) No 1169/2011, Annex XII — alcoholic strength
     url: https://eur-lex.europa.eu/eli/reg/2011/1169/oj

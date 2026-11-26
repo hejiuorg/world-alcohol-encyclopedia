@@ -69,12 +69,6 @@ sources:
     publisher: Caffè Al Bicerin
     note: 用于核对每日 09:00–19:15、周三休息、地址与 Consolata 教堂位置；节假日与冬夏休会调整。
     accessed: 2026-11-21
-  - key: locali-storici
-    title: Caffè Al Bicerin — Locali Storici d'Italia
-    url: https://www.localistorici.it/listing-item/caffe-al-bicerin/
-    publisher: Locali Storici d'Italia
-    note: 用于核对历史场所认定与都灵传统咖啡馆谱系；不用于当前菜单。
-    accessed: 2026-11-21
 rights:
   status: allowed
   license: CC-BY-4.0

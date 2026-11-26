@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: historical-event:qingdao-brewery-founded-1903
 source_lang: zh
-source_revision: sha256:68430e6dee1552fee1037bfe392f537081585f4d585f7782b3ef56ff97e7c515
-source_sha256: 68430e6dee1552fee1037bfe392f537081585f4d585f7782b3ef56ff97e7c515
+source_revision: sha256:2782f8898e42a605aac95cb4c427b356e0b7dd428d11ec6c1c11e7ae46dd38b9
+source_sha256: 2782f8898e42a605aac95cb4c427b356e0b7dd428d11ec6c1c11e7ae46dd38b9
 translation_status: reviewed
 aliases:
   - 日耳曼啤酒公司青岛股份公司
@@ -42,12 +42,6 @@ references:
   - key: c-extra-1
     target_id: historical-event:1855-bordeaux-classification
 sources:
-  - key: qingdao-gov
-    title: "Sixth-batch national key cultural relic: early buildings of the Qingdao Brewery"
-    url: http://www.qingdao.gov.cn/lslm/zt/whyc/wwzl/202111/t20211126_3877117.shtml
-    publisher: Qingdao Government website
-    note: Used to check the founding on 15 August 1903 by German and British merchants of the Hong Kong Anglo-German Brewery Company, the site on Millerstrasse (now 56 Dengzhou Road), and the description 'China''s first brewery still in continuous operation'; a government heritage page.
-    accessed: 2026-11-04
   - key: people-daily
     title: A taste of a century of beer
     url: http://paper.people.com.cn/hwbwap/html/2023-08/11/content_26010692.htm

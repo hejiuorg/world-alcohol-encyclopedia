@@ -63,12 +63,6 @@ sources:
     publisher: OCLC WorldCat
     note: Used to check publishers and dates across editions; results depend on library holdings.
     accessed: 2026-11-20
-  - key: savoy-bar
-    title: The American Bar at The Savoy — official page
-    url: https://www.thesavoylondon.com/american-bar/
-    publisher: The Savoy
-    note: Used to check the bar’s historical position and current operation; no text is reproduced.
-    accessed: 2026-11-20
   - key: oxford-spirits
     title: The Oxford Companion to Spirits and Cocktails
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780198845249
@@ -81,8 +75,8 @@ rights:
   basis: Project-authored article, checked against publisher pages, the hotel’s official page and a reference work, without reproducing recipes, illustrations or translations. The project owner declared project content CC BY 4.0 on 2026-10-29.
   note: The original recipes, illustrations and the 2014 introduction are not covered by this licence; sources are cited for verification only. The image on this book entry shows the Savoy Hotel entrance, not the book cover.
 verification_scope: source-verified
-source_sha256: 317f2dc66a111de9cb3a9c4dd0944963ae4a0997dd7dd21dba13a512dd487b7e
-source_revision: sha256:317f2dc66a111de9cb3a9c4dd0944963ae4a0997dd7dd21dba13a512dd487b7e
+source_sha256: 66942ec3e8f4a79430950e412cd4d7e29f890884c0ca25feeeafc5bde8421466
+source_revision: sha256:66942ec3e8f4a79430950e412cd4d7e29f890884c0ca25feeeafc5bde8421466
 ---
 
 # The Savoy Cocktail Book

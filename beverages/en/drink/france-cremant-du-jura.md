@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink:france-cremant-du-jura
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0f1fc9effecd64b3bb7e9a5d6ce4d910979dce8317f7e6193ebd7c06c47c9e9c
-source_sha256: 0f1fc9effecd64b3bb7e9a5d6ce4d910979dce8317f7e6193ebd7c06c47c9e9c
+source_revision: sha256:c785f58ca7bf7799bf66a62d2eac13e0f8f44bdd26f2b5536965135e5e5a58c9
+source_sha256: c785f58ca7bf7799bf66a62d2eac13e0f8f44bdd26f2b5536965135e5e5a58c9
 style_refs:
   - drink-style:sparkling-wine
 variety_refs:
@@ -89,7 +89,7 @@ abv:
 ---
 # Crémant du Jura
 
-Crémant du Jura is the traditional-method [sparkling wine](ref:sparkling-wine) appellation of [Jura](ref:jura) in [France](ref:france). It is made from Chardonnay, Savagnin, Pinot Noir, Poulsard and Trousseau, with the second fermentation in bottle and at least 9 months on the lees. It is commonly 750 mL at about 12.0%–12.5% [alcohol by volume](ref:abv).![Crémant du Jura image](/media/photos/drink-france-cremant-du-jura-dea97caf.png)
+Crémant du Jura is the traditional-method [sparkling wine](ref:sparkling-wine) appellation of [Jura](ref:jura) in [France](ref:france). It is made from Chardonnay, Savagnin, Pinot Noir, Poulsard and Trousseau, with the second fermentation in bottle and at least 9 months on the lees. It is commonly 750 mL at about 12.0%–12.5% [alcohol by volume](ref:abv).![Crémant du Jura image](/media/photos/drink-france-cremant-du-jura-dea97caf.webp)
 
 Figure: Crémant du Jura. Image: DalGobboM ¿!i?, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Vignobles_jura.png)).
 

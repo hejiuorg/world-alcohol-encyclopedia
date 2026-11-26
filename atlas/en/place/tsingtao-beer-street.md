@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:tsingtao-beer-street
 source_lang: zh
-source_revision: sha256:1ba0b7520ee76e9cba84f2ee55812c437cb74d7f7a268fe0747dda64790d765f
-source_sha256: 1ba0b7520ee76e9cba84f2ee55812c437cb74d7f7a268fe0747dda64790d765f
+source_revision: sha256:de207dfb7c185b30ea5b868c9bec39de8365bee6d279ab91343fa86f26f206e2
+source_sha256: de207dfb7c185b30ea5b868c9bec39de8365bee6d279ab91343fa86f26f206e2
 translation_status: reviewed
 subtype: pub
 address: Dengzhou Road (Yan'an 2nd Road to Shouguang Road), Shibei District, Qingdao, Shandong, China
@@ -69,12 +69,6 @@ sources:
     url: http://whlyj.qingdao.gov.cn/wlzx/202112/t20211227_4147013.shtml
     publisher: Qingdao Culture and Tourism Bureau
     note: Used to check the street's extent, the brewery and museum on the same street, and the evening economy; no source text is reproduced.
-    accessed: 2026-11-08
-  - key: qingdao-gov-2022
-    title: 2022 Qingdao Beer Street opening — Qingdao Government
-    url: http://www.qingdao.gov.cn/ywdt/zwyw/202207/t20220709_6247879.shtml
-    publisher: Qingdao Municipal People's Government
-    note: Used to check the 2022 upgrade, painted walls, leisure square and lighting; no source text is reproduced.
     accessed: 2026-11-08
   - key: dazhong-street
     title: Scan-to-check supervision on Qingdao Beer Street — Dazhong Daily

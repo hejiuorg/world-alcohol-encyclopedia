@@ -67,12 +67,6 @@ sources:
     publisher: 韩国国家遗产门户
     note: 用于核对安东烧酒作为安东地区传承的蒸馏式烧酒、以大米等谷物为原料，以及其药用与待客用途。
     accessed: 2026-11-04
-  - key: kbanker-soju
-    title: 정부는 ‘증류식 소주’에게 사과해야 한다
-    url: https://www.kbanker.co.kr/news/articleView.html?idxno=223401
-    publisher: 大韩金融新闻
-    note: 用于交叉核对 1965 年政府因粮食不足禁止谷物酿酒，以及蒸馏式烧酒由此进入衰退的叙述。
-    accessed: 2026-11-04
 rights:
   status: allowed
   license: CC-BY-4.0

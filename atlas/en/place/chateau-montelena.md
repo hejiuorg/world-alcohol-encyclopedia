@@ -39,8 +39,8 @@ tags:
 translation_of: place:chateau-montelena
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9f762ae420786a8a92b1b2409a2132f88679ef4ff5b5e505bfed0239594556df
-source_sha256: 9f762ae420786a8a92b1b2409a2132f88679ef4ff5b5e505bfed0239594556df
+source_revision: sha256:bc072ad6f3889c2017d0a4dc17a5bb76bdd22b723347ebfb27a9fd799ed6946f
+source_sha256: bc072ad6f3889c2017d0a4dc17a5bb76bdd22b723347ebfb27a9fd799ed6946f
 related:
   - relation: about
     target_id: region:napa-valley
@@ -99,7 +99,7 @@ verification_scope: source-verified
 
 Calistoga sits at Napa’s northern end, below Mount St. Helena, where evening fog clears earlier than on the valley floor. Tubbs Lane runs west from town to a grey stone “chateau” with a lawn and pond in front and vineyards behind. Montelena feels less like a winery than a nineteenth-century country estate: stone walls, a tower, arches and clipped trees. Its fame also comes from the 1976 Judgment of Paris, but in the white category: the 1973 Chardonnay placed first. Together with Stag’s Leap’s red wine result, these two outcomes turned Napa from an emerging region into a name on the world wine map.
 
-![Stone chateau at Chateau Montelena](/media/photos/place-chateau-montelena-acba3a58.png)
+![Stone chateau at Chateau Montelena](/media/photos/place-chateau-montelena-acba3a58.webp)
 
 Figure: The stone chateau and courtyard at Chateau Montelena. Image: Unknown author Unknown author, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Chateau_Montelena_Exterior.png)).
 

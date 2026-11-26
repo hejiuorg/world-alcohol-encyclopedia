@@ -45,24 +45,6 @@ references:
   - key: white-wine
     target_id: drink-style:white-wine
 sources:
-  - key: weinbach-contact
-    title: "Domaine Weinbach — Contact"
-    url: https://www.domaineweinbach.com/contact/
-    publisher: Domaine Weinbach
-    note: 用于核对预约参观时段、周日闭馆与接待方式；未复制原文。
-    accessed: 2026-11-09
-  - key: weinbach-legal
-    title: "Domaine Weinbach — Mentions légales"
-    url: https://www.domaineweinbach.com/mentions-legales/
-    publisher: Domaine Weinbach
-    note: 用于核对 25 Route du Vin, 68240 Kaysersberg 地址与酒庄主体信息；未复制原文。
-    accessed: 2026-11-09
-  - key: hugel-visit
-    title: "Hugel & Fils — Dégustation à Riquewihr"
-    url: http://www.hugel.com/fr/riquewihr.php
-    publisher: Hugel & Fils
-    note: 用于核对 3 rue de la première armée 地址、品鉴室开放期与预约式酒窖参观；未复制原文。
-    accessed: 2026-11-09
   - key: vinsalsace
     title: "Vins d'Alsace — Official site"
     url: https://www.vinsalsace.com/

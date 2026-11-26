@@ -58,12 +58,6 @@ sources:
     publisher: American Homebrewers Association
     note: 用于核对 1978 年 12 月 7 日查理·帕帕齐安与查理·马岑创办协会并出版《Zymurgy》的节点。
     accessed: 2026-11-04
-  - key: smithsonian-new-albion
-    title: Here's What's Brewing in the New Smithsonian Beer Collections
-    url: https://www.smithsonianmag.com/smithsonian-institution/heres-whats-brewing-new-smithsonian-beer-collections/180973134/
-    publisher: Smithsonian Magazine
-    note: 用于核对新阿尔比恩（New Albion）被视为美国第一家从零建起的微型酿酒厂，以及内华达山脉（Sierra Nevada）早期酒标的收藏背景。
-    accessed: 2026-11-04
   - key: si-anchor
     title: Anchor Steam Beer tap handle
     url: https://www.si.edu/object/anchor-steam-beer-tap-handle:nmah_2033275

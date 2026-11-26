@@ -68,12 +68,6 @@ sources:
     publisher: Riedel
     note: 用于核对不同酒款杯型的设计逻辑；未复制原文。
     accessed: 2026-11-20
-  - key: winefolly
-    title: Wine Folly — wine glass guide
-    url: https://winefolly.com/tips/wine-glass-guide/
-    publisher: Wine Folly
-    note: 用于核对杯型与酒款搭配的通用建议；未复制原文。
-    accessed: 2026-11-20
 rights:
   status: allowed
   license: CC-BY-4.0

@@ -52,12 +52,6 @@ sources:
     publisher: EUR-Lex
     note: 用于核对 2023 年 12 月 8 日起的营养声明与配料表要求。
     accessed: 2026-11-20
-  - key: ec-wine
-    title: Wine — market measures and labelling
-    url: https://agriculture.ec.europa.eu/common-agricultural-policy/market-measures/agricultural-products/wine_en
-    publisher: European Commission, Directorate-General for Agriculture and Rural Development
-    note: 用于核对欧盟葡萄酒市场政策、标签与产地命名制度的官方说明。
-    accessed: 2026-11-20
   - key: inao
     title: Institut national de l'origine et de la qualité — missions et procédures
     url: https://www.inao.gouv.fr/

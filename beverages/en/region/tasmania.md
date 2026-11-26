@@ -25,8 +25,8 @@ tags:
 translation_of: region:tasmania
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:9a7eff91b1b59c65f3342f8787408854c2b2b9307d3b8e3dc24122080334bb46
-source_sha256: 9a7eff91b1b59c65f3342f8787408854c2b2b9307d3b8e3dc24122080334bb46
+source_revision: sha256:010ccb84a32103a589e6707c88da7497c483a8c9cc6aab9735625f80ed146b1c
+source_sha256: 010ccb84a32103a589e6707c88da7497c483a8c9cc6aab9735625f80ed146b1c
 related:
   - relation: about
     target_id: region:australia
@@ -79,12 +79,6 @@ sources:
     url: https://www.wineaustralia.com/market-insights/regions-and-varieties/tasmania-wines/tasmania
     publisher: Wine Australia
     note: Used to verify vineyard area, altitude, growing-season rainfall, January mean temperature and soil types for Tasmania; no source text is reproduced.
-    accessed: 2026-11-22
-  - key: wineaustralia-tasmania-history
-    title: "Tasmania: Australian Wine's Outsider Comes In From The Cold"
-    url: https://www.wineaustralia.com/tasmania
-    publisher: Wine Australia
-    note: Used to verify historical years and figures including 1788, 1823, 1834, 1956 and 1958; no source text is reproduced.
     accessed: 2026-11-22
   - key: wine-tasmania
     title: Wine Tasmania — peak industry body

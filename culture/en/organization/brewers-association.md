@@ -33,8 +33,8 @@ related:
 translation_of: organization:brewers-association
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c998bcd2eff61b60a80ab9bec01c001dea7efc3923d5d6192370e435a11150a6
-source_sha256: c998bcd2eff61b60a80ab9bec01c001dea7efc3923d5d6192370e435a11150a6
+source_revision: sha256:cf5b1e585e2b42dbbfa41b7fd6936a4ca50ffb2e25fba46bbf7af426832baa1a
+source_sha256: cf5b1e585e2b42dbbfa41b7fd6936a4ca50ffb2e25fba46bbf7af426832baa1a
 references:
   - key: beer
     target_id: drink-style:beer
@@ -52,12 +52,6 @@ sources:
     url: https://www.brewersassociation.org/brewers-association/brewers-association-timeline/
     publisher: Brewers Association
     note: Used to check the 1942 Small Brewers Committee, the 1978 AHA, the 1983 Association of Brewers, the 2005 merger and the 2025 AHA spin-off; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: ba-about
-    title: About the Brewers Association
-    url: https://www.brewersassociation.org/about-us/
-    publisher: Brewers Association
-    note: Used to check the BA's mission, membership composition and small-and-independent positioning; no source text is reproduced.
     accessed: 2026-11-20
   - key: ba-craft-definition
     title: Craft Brewer Definition

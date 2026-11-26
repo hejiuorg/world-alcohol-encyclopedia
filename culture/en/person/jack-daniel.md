@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: person:jack-daniel
 source_lang: zh
-source_revision: sha256:3b9cdf9a87a3a2f62621fbc6a50123b80610007936d4849322af97c974fa2956
-source_sha256: 3b9cdf9a87a3a2f62621fbc6a50123b80610007936d4849322af97c974fa2956
+source_revision: sha256:3285e4cfaf28fd1f76b3404f343b5104211fb69133237a246a8d91ddf38f9f6a
+source_sha256: 3285e4cfaf28fd1f76b3404f343b5104211fb69133237a246a8d91ddf38f9f6a
 translation_status: reviewed
 legacy_refs: []
 birth_year: 1850
@@ -53,18 +53,6 @@ sources:
     url: https://www.jackdaniels.com/en-us/our-story
     publisher: Jack Daniel's
     note: Used to check the 1866 registration, Lynchburg, the Dan Call relationship and the 1904 St Louis exposition; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: jd-faq
-    title: Frequently Asked Questions — Jack Daniel's
-    url: https://www.jackdaniels.com/en-us/faq
-    publisher: Jack Daniel's
-    note: Used to check Tennessee whiskey, the Lincoln County Process, maple charcoal and the Old No. 7 questions; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: jd-lincoln
-    title: The Lincoln County Process — Jack Daniel's
-    url: https://www.jackdaniels.com/en-us/our-story/lincoln-county-process
-    publisher: Jack Daniel's
-    note: Used to check the maple-charcoal filtration, the ten-foot charcoal bed and the new charred oak barrels; no source text is reproduced.
     accessed: 2026-11-20
   - key: brown-forman
     title: Jack Daniel's — Brown-Forman

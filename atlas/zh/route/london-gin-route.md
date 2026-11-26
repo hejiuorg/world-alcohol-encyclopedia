@@ -50,18 +50,6 @@ sources:
     publisher: "Visit London"
     note: "用于核对伦敦金酒历史、蒸馏厂与酒吧背景；未复制原文。"
     accessed: 2026-11-21
-  - key: savoy
-    title: "American Bar — The Savoy"
-    url: https://www.thesavoylondon.com/restaurant-bars/american-bar/
-    publisher: "The Savoy"
-    note: "用于核对 American Bar 的位置、鸡尾酒与着装/预约信息；未复制原文。"
-    accessed: 2026-11-21
-  - key: dukes
-    title: "Dukes Bar — Dukes Hotel"
-    url: https://www.dukeshotel.com/dukes-bar/
-    publisher: "Dukes Hotel"
-    note: "用于核对 Dukes Bar 的位置、马丁尼与预约信息；未复制原文。"
-    accessed: 2026-11-21
   - key: gin-guild
     title: "The Gin Guild"
     url: https://www.theginguild.com/

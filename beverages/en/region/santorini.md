@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:santorini
 source_lang: zh
-source_revision: sha256:04b58f45a8641295c48f17889b434386a34f5db0e154df4e2080cb41f8d37210
-source_sha256: 04b58f45a8641295c48f17889b434386a34f5db0e154df4e2080cb41f8d37210
+source_revision: sha256:dbb788b2bc52f5425a0e7681873b47df56fc77bffc546ce8b6acc80a0823b178
+source_sha256: dbb788b2bc52f5425a0e7681873b47df56fc77bffc546ce8b6acc80a0823b178
 translation_status: reviewed
 level: other
 country_code: GR
@@ -93,7 +93,7 @@ verification_scope: source-verified
 
 Santorini, or Thira, is a volcanic island in the Cyclades and Greece's most distinctive white-wine PDO. It is known for Assyrtiko, volcanic soils and the kouloura basket system, and it maintains an almost hand-made form of viticulture under extreme drought and wind.
 
-![Santorini image](/media/photos/region-santorini-5becaa54.png)
+![Santorini image](/media/photos/region-santorini-5becaa54.webp)
 
 Figure: Santorini. Image: Pitichinaccio, CC BY 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:2011_Dimos_Thiras.png)).
 

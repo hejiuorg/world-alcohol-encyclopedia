@@ -58,18 +58,6 @@ references:
   - key: cabernet
     target_id: variety:cabernet-sauvignon
 sources:
-  - key: ww-history
-    title: "Our History — Wirra Wirra"
-    url: https://www.wirrawirra.com/pages/our-history
-    publisher: "Wirra Wirra"
-    note: "用于核对 1894 年创建、Greg Trott 1969 年修复与酒庄历史；未复制原文。"
-    accessed: 2026-11-21
-  - key: ww-visit
-    title: "Visit — Wirra Wirra"
-    url: https://www.wirrawirra.com/pages/visit
-    publisher: "Wirra Wirra"
-    note: "用于核对 255 Strout Road、cellar door、预约与开放时间；未复制原文。"
-    accessed: 2026-11-21
   - key: ww-wines
     title: "Our Wines — Wirra Wirra"
     url: https://www.wirrawirra.com/collections/wine

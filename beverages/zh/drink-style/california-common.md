@@ -73,12 +73,6 @@ sources:
     publisher: "Beer Judge Certification Program"
     note: "用于核对 OG/FG、IBU、SRM、ABV 参数区间、原料酵母与商业样本，未复制原文。"
     accessed: 2026-11-22
-  - key: anchor-story
-    title: "Anchor Brewing — The Anchor Story"
-    url: https://www.anchorbrewing.com/about-us/the-anchor-story/
-    publisher: "Anchor Brewing"
-    note: "用于核对 1896 年建厂、1933 年禁酒令后复产与 2010 年股权出售等品牌史实，未复制原文。"
-    accessed: 2026-11-22
   - key: sf-anchor-lbr
     title: "SF Legacy Business Registry — Anchor Brewing Company Staff Report"
     url: https://www.sf.gov/sites/default/files/2024-09/item_3a._lbr-2018-19-053_anchor_brewing.pdf

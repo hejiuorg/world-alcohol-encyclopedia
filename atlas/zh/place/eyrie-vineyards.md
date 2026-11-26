@@ -59,24 +59,6 @@ references:
   - key: region
     target_id: region:australia
 sources:
-  - key: eyrie-history
-    title: "Our History — The Eyrie Vineyards"
-    url: https://www.eyrievineyards.com/pages/our-history
-    publisher: "The Eyrie Vineyards"
-    note: "用于核对 1965 年 David Lett 创立、1966 年黑皮诺种植与酒庄历史；未复制原文。"
-    accessed: 2026-11-21
-  - key: eyrie-visit
-    title: "Visit — The Eyrie Vineyards"
-    url: https://www.eyrievineyards.com/pages/visit
-    publisher: "The Eyrie Vineyards"
-    note: "用于核对 935 N. Kutch Street、预约品鉴与开放时间；未复制原文。"
-    accessed: 2026-11-21
-  - key: eyrie-wines
-    title: "Our Wines — The Eyrie Vineyards"
-    url: https://www.eyrievineyards.com/collections/wine
-    publisher: "The Eyrie Vineyards"
-    note: "用于核对 Estate、Original Vines、Pinot Gris 与 Chardonnay；未复制原文。"
-    accessed: 2026-11-21
   - key: oregon-wine2
     title: "Willamette Valley — Oregon Wine Board"
     url: https://www.oregonwine.org/regions/willamette-valley/

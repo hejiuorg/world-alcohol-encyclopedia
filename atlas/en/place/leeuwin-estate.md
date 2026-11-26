@@ -37,8 +37,8 @@ tags:
 translation_of: place:leeuwin-estate
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:898ac7587fb22d5c183c7f4ee61adf641e66069ccd29d563335d20a0203c61c5
-source_sha256: 898ac7587fb22d5c183c7f4ee61adf641e66069ccd29d563335d20a0203c61c5
+source_revision: sha256:95c0505e6a9943503bd68813c2a0a68ba1c60bd3135461ec78a1cc7b76e56b76
+source_sha256: 95c0505e6a9943503bd68813c2a0a68ba1c60bd3135461ec78a1cc7b76e56b76
 related:
   - relation: about
     target_id: region:margaret-river
@@ -62,12 +62,6 @@ references:
   - key: art
     target_id: term:terroir
 sources:
-  - key: le-history
-    title: Our History — Leeuwin Estate
-    url: https://www.leeuwinestate.com.au/pages/our-history
-    publisher: Leeuwin Estate
-    note: Used to verify the Horgan family's 1969 founding, Margaret River plantings and family succession; no source text is reproduced.
-    accessed: 2026-11-21
   - key: le-visit
     title: Visit — Leeuwin Estate
     url: https://www.leeuwinestate.com.au/pages/visit

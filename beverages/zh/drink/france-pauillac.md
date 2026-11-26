@@ -80,12 +80,6 @@ sources:
     publisher: Château Mouton Rothschild
     note: 用于核对木桐 1973 年由二级晋升一级庄及其法令背景；未复制原文。
     accessed: 2026-11-08
-  - key: lafite-directory
-    title: Château Lafite Rothschild 2025 — Le répertoire des vins
-    url: "https://winedirectory.lafite.com/fr/le-repertoire-des-vins/produit-1UU24F-chateau-lafite-rothschild/"
-    publisher: Domaines Barons de Rothschild (Lafite)
-    note: 用于核对拉菲位于产区北部、卡吕阿德台地 50 公顷为波亚克最高点、黏土-砾石土壤与 4.5 公顷圣埃斯泰夫地块；未复制原文。
-    accessed: 2026-11-08
   - key: pauillac-tourisme
     title: Le Mag — Pauillac Tourisme（Caractéristiques de l'appellation Pauillac）
     url: "https://www.pauillac-medoc.com/wp-content/uploads/2019/07/Mag_4_web.pdf"

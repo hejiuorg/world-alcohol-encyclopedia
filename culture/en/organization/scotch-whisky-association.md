@@ -33,8 +33,8 @@ related:
 translation_of: organization:scotch-whisky-association
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1738be49bd663a95348b71171d0a1877a2c2877e2735dc72fc34ca3ee49d3d6d
-source_sha256: 1738be49bd663a95348b71171d0a1877a2c2877e2735dc72fc34ca3ee49d3d6d
+source_revision: sha256:0416db47fc09555aecc224e3b2ff9a07b08894ff6b2c2ba7c86425d6d35389a4
+source_sha256: 0416db47fc09555aecc224e3b2ff9a07b08894ff6b2c2ba7c86425d6d35389a4
 references:
   - key: whisky
     target_id: drink-style:whisky
@@ -45,18 +45,6 @@ references:
   - key: blend
     target_id: term:blend
 sources:
-  - key: swa-about
-    title: The Scotch Whisky Association — About us
-    url: https://www.scotch-whisky.org.uk/about-us/
-    publisher: The Scotch Whisky Association
-    note: Used to check the 1912 founding, the Edinburgh headquarters, membership and main functions; no source text is reproduced.
-    accessed: 2026-11-07
-  - key: swa-protection
-    title: The Scotch Whisky Association — Protecting Scotch Whisky
-    url: https://www.scotch-whisky.org.uk/what-we-do/protecting-scotch-whisky/
-    publisher: The Scotch Whisky Association
-    note: Used to check the legal definition of Scotch Whisky, geographical indications and overseas enforcement; no source text is reproduced.
-    accessed: 2026-11-07
   - key: oxford-companion-whisky
     title: The Oxford Companion to Whisky
     publisher: Oxford University Press

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:alsace-grand-cru-trail
 source_lang: zh
-source_revision: sha256:619a2d8f1a71ab1f5d5e13809de6aa3e51925a69cbc9909d8f711136063baf80
-source_sha256: 619a2d8f1a71ab1f5d5e13809de6aa3e51925a69cbc9909d8f711136063baf80
+source_revision: sha256:b53ac09e727c73c4be6d7db74faa87550b943277f8888ffa35a08de403a46d6d
+source_sha256: b53ac09e727c73c4be6d7db74faa87550b943277f8888ffa35a08de403a46d6d
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -48,24 +48,6 @@ references:
   - key: white-wine
     target_id: drink-style:white-wine
 sources:
-  - key: weinbach-contact
-    title: Domaine Weinbach — Contact
-    url: https://www.domaineweinbach.com/contact/
-    publisher: Domaine Weinbach
-    note: Used to check the appointment-based visiting hours and the Sunday closure; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: weinbach-legal
-    title: Domaine Weinbach — Mentions légales
-    url: https://www.domaineweinbach.com/mentions-legales/
-    publisher: Domaine Weinbach
-    note: Used to check the 25 Route du Vin, 68240 Kaysersberg address and the company details; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: hugel-visit
-    title: Hugel & Fils — Dégustation à Riquewihr
-    url: http://www.hugel.com/fr/riquewihr.php
-    publisher: Hugel & Fils
-    note: Used to check the 3 rue de la première armée address, the tasting-room season and the booked cellar tours; no source text is reproduced.
-    accessed: 2026-11-09
   - key: vinsalsace
     title: Vins d'Alsace — Official site
     url: https://www.vinsalsace.com/

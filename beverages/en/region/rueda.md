@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: region:rueda
 source_lang: zh
-source_revision: sha256:06f8a7d80d343ef11c1f3568da98ff510f2a9678ed9cd13c25d12e974e039e83
-source_sha256: 06f8a7d80d343ef11c1f3568da98ff510f2a9678ed9cd13c25d12e974e039e83
+source_revision: sha256:7635d105a44cd2a34ba6322d09e713813ca8dbb12197dd87baacba68a2d237da
+source_sha256: 7635d105a44cd2a34ba6322d09e713813ca8dbb12197dd87baacba68a2d237da
 translation_status: reviewed
 level: other
 parent_id: region:spain
@@ -61,12 +61,6 @@ references:
   - key: abv
     target_id: term:alcohol-by-volume
 sources:
-  - key: dorueda-character
-    title: The Rueda Character — Regulatory Council D.O. Rueda
-    url: https://www.dorueda.com/en/the-rueda-character/
-    publisher: Consejo Regulador de la D.O. Rueda
-    note: Used to verify the 700–870 metre altitude, 300–500 litres per square metre annual rainfall, 2,600 annual sunshine hours, continental climate and gravel terraces; no source text is reproduced.
-    accessed: 2026-11-09
   - key: rueda-crdo-profile
     title: Rueda Denominación de Origen — Consejo Regulador profile
     url: https://www.prowein.de/vis-content/event-prowein2026/exh-prowein2026.3051823/ProWein-2026-Consejo-Regulador-de-la-D.-O.-Rueda-C.R.D.O.-Rueda-Paper-prowein2026.3051823-DaDgAKQaSeOQjiIqw6AwNw.pdf

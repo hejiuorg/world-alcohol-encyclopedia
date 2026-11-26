@@ -32,8 +32,8 @@ tags:
 translation_of: place:caffe-san-carlo-torino
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:f85e70c581b75e6d763ef5c457710e5862e584e1bb7f66700ed84dcc7b9645fa
-source_sha256: f85e70c581b75e6d763ef5c457710e5862e584e1bb7f66700ed84dcc7b9645fa
+source_revision: sha256:ab1f49ed6290ba9ae2f28c6538640dcea1bd7f2c5f5fc4d5422924e9dac1953f
+source_sha256: ab1f49ed6290ba9ae2f28c6538640dcea1bd7f2c5f5fc4d5422924e9dac1953f
 related:
   - relation: about
     target_id: place:antico-caffe-greco
@@ -68,12 +68,6 @@ sources:
     url: https://www.museotorino.it/view/s/d385502fbbc84c4b88063c51377a1539
     publisher: Museo Torino
     note: Used for the 1822 Caffè di Piazza d'Armi, the 1837 closure, the Leoni facade, the Morgari/Borra interior and the 1851 Chinese Room.
-    accessed: 2026-11-21
-  - key: locali-storici
-    title: Caffè San Carlo — Locali Storici d'Italia
-    url: http://www.localistorici.it/listing-item/caffe-san-carlo/
-    publisher: Locali Storici d'Italia
-    note: Used for the historic-café designation and the continuity of the business; details of the current menu are not taken from here.
     accessed: 2026-11-21
   - key: gallerie
     title: Caffè San Carlo and SCATTO restaurant in Turin — Gallerie d'Italia

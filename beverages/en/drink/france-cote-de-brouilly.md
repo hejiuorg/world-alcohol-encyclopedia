@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-cote-de-brouilly
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:3cb495335b2ae31600c3ce5b0433deded632f4ff878a31556a0ea4c11071913d
-source_sha256: 3cb495335b2ae31600c3ce5b0433deded632f4ff878a31556a0ea4c11071913d
+source_revision: sha256:6548932b2f143afb976e3c0e44b1d17af38f3dcbbf22f4359396f64c1b25a5c9
+source_sha256: 6548932b2f143afb976e3c0e44b1d17af38f3dcbbf22f4359396f64c1b25a5c9
 style_refs:
   - drink-style:red-wine
 variety_refs:
@@ -91,7 +91,7 @@ abv:
 
 On the label, Côte de Brouilly adds just one word to neighbouring [Brouilly](ref:brouilly): Côte. The word for slope is not decoration. It narrows the area from the foot of the hill to the hillside itself, and it pushes the wine from light fruit toward a firmer backbone. Getting these two names apart is more useful when buying than memorising any adjective. The usual bottle is 750 mL, at about 12.5%–13.5% [alcohol by volume](ref:abv).
 
-![Côte de Brouilly image](/media/photos/drink-france-cote-de-brouilly-9700eca2.png)
+![Côte de Brouilly image](/media/photos/drink-france-cote-de-brouilly-9700eca2.webp)
 
 Figure: Côte de Brouilly. Image: Cyril5555, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)).
 

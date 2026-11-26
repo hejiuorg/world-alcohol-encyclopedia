@@ -100,7 +100,7 @@ verification_scope: source-verified
 
 卡利斯托加在纳帕谷北端，圣海伦娜山脚下，傍晚的雾气比谷底更早散去。Tubbs Lane 从镇中心向西，路尽头是一座灰石砌成的“城堡”，前面是草坪与池塘，后面是葡萄园。蒙特莱纳的入口不像酒庄，更像一座 19 世纪的乡间庄园：石墙、塔楼、拱门、修剪整齐的树。它的名气同样来自 1976 年巴黎审判，不过这次是白葡萄酒组：1973 年的霞多丽名列第一。与鹿跃的赤霞珠胜利并列，这两场结果让纳帕谷从“新兴产区”变成世界葡萄酒版图上的名字。
 
-![蒙特莱纳石砌城堡](/media/photos/place-chateau-montelena-acba3a58.png)
+![蒙特莱纳石砌城堡](/media/photos/place-chateau-montelena-acba3a58.webp)
 
 图：蒙特莱纳的石砌城堡主楼与庭院。图片：Unknown author Unknown author，CC0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Chateau_Montelena_Exterior.png)）。
 

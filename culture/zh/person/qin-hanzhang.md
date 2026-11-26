@@ -58,12 +58,6 @@ sources:
     publisher: 江南大学（澎湃号）
     note: 用于核对生卒年、求学经历、任教与任职、汾酒与茅台试点、著作目录；未复制原文。
     accessed: 2026-11-07
-  - key: xjb-qin
-    title: 秦含章 112 岁大国工匠的精酿人生
-    url: https://m.chinanews.com/wap/detail/chs/zw/8936894.shtml
-    publisher: 新京报／中国新闻网
-    note: 用于核对 2019 年 8 月 15 日逝世、汾酒试点时间、茅台化验分析、著作数量与同事回忆；未复制原文。
-    accessed: 2026-11-07
   - key: southcn-qin
     title: “世纪陈酿”秦含章：生于晚清留欧回国，系茅台、汾酒技术奠基人
     url: https://static.nfapp.southcn.com/content/201908/17/c2531604.html

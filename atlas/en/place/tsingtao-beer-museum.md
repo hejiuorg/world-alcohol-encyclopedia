@@ -10,8 +10,8 @@ status: reviewed
 revision: 4
 translation_of: place:tsingtao-beer-museum
 source_lang: zh
-source_revision: sha256:833ce9137d0f8060621d181c79131cf168e50efa7579546108b74d8ad59f3dd3
-source_sha256: 833ce9137d0f8060621d181c79131cf168e50efa7579546108b74d8ad59f3dd3
+source_revision: sha256:bede9d56402423d56828c52e5042c7be2c5fb413c14be9bfc9e686535a33e813
+source_sha256: bede9d56402423d56828c52e5042c7be2c5fb413c14be9bfc9e686535a33e813
 translation_status: reviewed
 subtype: museum
 address: 青岛市市北区登州路56号
@@ -64,12 +64,6 @@ sources:
     url: https://whlyj.qingdao.gov.cn/
     publisher: Qingdao Culture and Tourism Bureau
     note: Used to check the museum grade, protection status and opening hours; no source text is reproduced.
-    accessed: 2026-11-04
-  - key: qingdao-government
-    title: Qingdao Government Website — Tsingtao Beer Museum
-    url: https://www.qingdao.gov.cn/
-    publisher: Qingdao Municipal People's Government
-    note: Used to cross-check the opening background and city information; no source text is reproduced.
     accessed: 2026-11-04
   - key: wikidata-tsingtao-museum
     title: Wikidata — Tsingtao Beer Museum

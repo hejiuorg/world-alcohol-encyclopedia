@@ -11,8 +11,8 @@ revision: 3
 translation_of: drink:france-brouilly
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0fe8b6dd6c356287bf533deaf2eae12da891d3316530d85c9801913f5a1a5d22
-source_sha256: 0fe8b6dd6c356287bf533deaf2eae12da891d3316530d85c9801913f5a1a5d22
+source_revision: sha256:baebe5ad44657869c40b0a0656b7c729fe1183d7b47139da300e36a079d39f1f
+source_sha256: baebe5ad44657869c40b0a0656b7c729fe1183d7b47139da300e36a079d39f1f
 style_refs:
   - drink-style:red-wine
 variety_refs:
@@ -91,7 +91,7 @@ abv:
 
 On a Beaujolais wine list, Brouilly often appears near the front: volumes are large, the name is easy to remember and the price is often among the friendliest of the crus. That "entry-level" impression hides another side of it. It is also the largest of the ten crus, spread over six villages, and the differences between those villages are far more complex than a label of light, easy drinking suggests. The usual bottle is 750 mL, at about 12.5%–13.5% [alcohol by volume](ref:abv).
 
-![Brouilly image](/media/photos/drink-france-brouilly-9700eca2.png)
+![Brouilly image](/media/photos/drink-france-brouilly-9700eca2.webp)
 
 Figure: Brouilly. Image: Cyril5555, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)).
 

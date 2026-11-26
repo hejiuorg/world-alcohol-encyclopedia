@@ -25,8 +25,8 @@ tags:
 translation_of: region:jeju
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:c39bd82483f2f228753b7d2a0634f4bc020efc69aacea1ab3446f091b4fbe0e6
-source_sha256: c39bd82483f2f228753b7d2a0634f4bc020efc69aacea1ab3446f091b4fbe0e6
+source_revision: sha256:e4ffca8f320eb268259104221a5c7c18f2ac7ac644b45d8c9a522732b0dd7302
+source_sha256: e4ffca8f320eb268259104221a5c7c18f2ac7ac644b45d8c9a522732b0dd7302
 related:
   - relation: about
     target_id: region:south-korea
@@ -83,7 +83,7 @@ verification_scope: source-verified
 ---
 # Jeju
 
-The soju and local-drink region of Jeju Island, South Korea, known for volcanic groundwater, rice and local ingredients such as citrus; Jeju soju is softer than mainland diluted soju, and the island’s volcanic terroir is closely tied to tourism.![Hallasan soju from Jeju](/media/photos/region-jeju-2ec62120.png)
+The soju and local-drink region of Jeju Island, South Korea, known for volcanic groundwater, rice and local ingredients such as citrus; Jeju soju is softer than mainland diluted soju, and the island’s volcanic terroir is closely tied to tourism.![Hallasan soju from Jeju](/media/photos/region-jeju-2ec62120.webp)
 
 Figure: Hallasan soju, a Jeju rice spirit, being poured at a table. Image: ecodallaluna, CC BY-SA 2.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Hallasan_soju.png)).
 

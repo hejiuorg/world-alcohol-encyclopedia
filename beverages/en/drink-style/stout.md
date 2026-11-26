@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink-style:stout
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:2e5521252bc13817d1816b2bd27cd3ec030a254594d7af8aea9aabd6654754ce
-source_sha256: 2e5521252bc13817d1816b2bd27cd3ec030a254594d7af8aea9aabd6654754ce
+source_revision: sha256:32aaa40a4e3568058878fc5fca4db19d72e1850281059385e95774851cac842e
+source_sha256: 32aaa40a4e3568058878fc5fca4db19d72e1850281059385e95774851cac842e
 legacy_refs: []
 aliases:
   - Stout
@@ -84,7 +84,7 @@ verification_scope: source-verified
 ---
 # Stout
 
-Stout is a dark top-fermented beer, characterised by the coffee, cocoa and roast aromas that roasted barley brings. The name comes from 18th century “stout porter”, a stronger porter; in the 19th century Dublin developed the dry stout form, and in the 20th century sweet stout, oatmeal stout and imperial stout branched off. Stout is not a synonym for “the strongest beer”, and the family spans a wide range of strengths.![Stout image](/media/photos/drink-style-stout-5ced0da8.png)
+Stout is a dark top-fermented beer, characterised by the coffee, cocoa and roast aromas that roasted barley brings. The name comes from 18th century “stout porter”, a stronger porter; in the 19th century Dublin developed the dry stout form, and in the 20th century sweet stout, oatmeal stout and imperial stout branched off. Stout is not a synonym for “the strongest beer”, and the family spans a wide range of strengths.![Stout image](/media/photos/drink-style-stout-5ced0da8.webp)
 
 Figure: Stout. Image: 55belgianbeerfan, CC0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:A_Pint_of_English_Imperial_Stout.png)).
 

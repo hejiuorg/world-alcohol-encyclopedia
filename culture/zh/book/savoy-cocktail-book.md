@@ -62,12 +62,6 @@ sources:
     publisher: OCLC WorldCat
     note: 用于核对各版次的出版者与出版年；检索结果依馆藏记录而变。
     accessed: 2026-11-20
-  - key: savoy-bar
-    title: The American Bar at The Savoy — 官方页面
-    url: https://www.thesavoylondon.com/american-bar/
-    publisher: The Savoy
-    note: 用于核对美国酒吧的历史定位与当代营业信息；未复制原文。
-    accessed: 2026-11-20
   - key: oxford-spirits
     title: The Oxford Companion to Spirits and Cocktails
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780198845249

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: route:marlborough-wine-trail
 source_lang: zh
-source_revision: sha256:b2ff314a8948e68be71ce582807119f7a0a830498e0a203f5e11d595de84af5a
-source_sha256: b2ff314a8948e68be71ce582807119f7a0a830498e0a203f5e11d595de84af5a
+source_revision: sha256:6e379fc4a39a6ae515f326d63a1a9b88f3f42d29175643fd7988db8006fbc1b1
+source_sha256: 6e379fc4a39a6ae515f326d63a1a9b88f3f42d29175643fd7988db8006fbc1b1
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -59,12 +59,6 @@ sources:
     url: https://www.nzwine.com/en/media/media-releases/nzw-ar2026/
     publisher: New Zealand Winegrowers
     note: Used to check the approximately 440,000 tonnes harvested in 2026, the 15% fall on the previous year, and the export value and volume; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: nzw-yealands
-    title: Yealands Estate Wines — New Zealand Winegrowers
-    url: https://www.nzwine.com/en/winery/yealands-estate-wines
-    publisher: New Zealand Winegrowers
-    note: Used to check the 534 Seaview Road address, the tasting room, the White Road self-drive route and the 2008 winery; no source text is reproduced.
     accessed: 2026-11-09
   - key: brancott-1973
     title: Brancott — Pernod Ricard USA

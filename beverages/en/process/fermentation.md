@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: process:fermentation
 source_lang: zh
-source_revision: sha256:674ac2dae59f0a12719dcee0ac5f914af5c2b795bb1392803d487b16c01c2d85
-source_sha256: 674ac2dae59f0a12719dcee0ac5f914af5c2b795bb1392803d487b16c01c2d85
+source_revision: sha256:aeea0b8c0b574c0ea6cfb34bb6c4067c6d848f5ea9f29dbf5160dcd97bf04dcc
+source_sha256: aeea0b8c0b574c0ea6cfb34bb6c4067c6d848f5ea9f29dbf5160dcd97bf04dcc
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -87,7 +87,7 @@ applies_to_refs:
 
 Fermentation is the metabolic process in which yeast or bacteria break down sugar under low-oxygen conditions and produce ethanol, carbon dioxide and flavour compounds. It converts the chemical energy of sugar into cellular energy and releases ethanol as a waste product. Every fermented drink depends on this step: wine, beer, sake, cider and honey wine gain their alcohol from it, while baijiu, whisky and brandy ferment first and then concentrate the alcohol by [distillation](ref:distillation).
 
-![Fermentation image](/media/photos/process-fermentation-f5958dba.png)
+![Fermentation image](/media/photos/process-fermentation-f5958dba.webp)
 
 Figure: Fermentation. Image: Tjhackmann, CC BY-SA 4.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)).
 

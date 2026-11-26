@@ -59,12 +59,6 @@ sources:
     note: 参考其关于中国白酒香型与评酒的条目；未复制原文。
     accessed: 2026-11-05
     url: https://global.oup.com/academic/product/the-oxford-companion-to-spirits-and-cocktails-9780199311132
-  - key: hhljy-site
-    title: 黄鹤楼酒业有限公司 — 企业概况与产品展示
-    url: "https://www.hhljy.com.cn/list/2.html"
-    publisher: 黄鹤楼酒业有限公司
-    note: 用于核对三大基地、员工规模、历史节点与产品系列；仅作事实核验，未复制宣传文案。
-    accessed: 2026-11-07
   - key: szse-2025
     title: 安徽古井贡酒股份有限公司 — 关于计提商誉减值准备的公告
     url: "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-04-29/9d826aec-197c-490f-bca5-70458817b5fa.PDF"

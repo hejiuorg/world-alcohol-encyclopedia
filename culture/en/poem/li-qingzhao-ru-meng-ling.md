@@ -11,8 +11,8 @@ revision: 1
 translation_of: poem:li-qingzhao-ru-meng-ling
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:34b2e42db31d0a724babbafb55b3f5366f0d71bcd076f15dadbd5e182edb4de7
-source_sha256: 34b2e42db31d0a724babbafb55b3f5366f0d71bcd076f15dadbd5e182edb4de7
+source_revision: sha256:308d738a345319d376d0eb47a5cb8f05ec23341286ea4e1f976f2d9c9f022ffa
+source_sha256: 308d738a345319d376d0eb47a5cb8f05ec23341286ea4e1f976f2d9c9f022ffa
 author_name: Li Qingzhao
 source_title: Shuyu Lyrics
 dynasty: Song
@@ -66,12 +66,6 @@ sources:
     url: https://epaper.qlwb.com.cn/mobile/qlwb/content/20260307/ArticelA11002FM.htm
     publisher: Qilu Evening News
     note: Used to check the history, displays and memorial tradition of the Li Qingzhao Memorial Hall in Jinan; no source text is reproduced.
-    accessed: 2026-11-20
-  - key: gsw6-qingzhao
-    title: Gushiwen — Li Qingzhao, life and list of works
-    url: https://www.gsw6.com/shiren/186/index.html
-    publisher: Gushiwen
-    note: Used to check Li Qingzhao's dates, birthplace and the number of her surviving lyrics; no source text is reproduced.
     accessed: 2026-11-20
   - key: britannica-ci
     title: Ci — Encyclopaedia Britannica

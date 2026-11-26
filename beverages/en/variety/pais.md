@@ -23,8 +23,8 @@ tags:
 translation_of: variety:pais
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:28b893a2c91218cb8a13d6e5ca13d6a9dae537e4ddd8771a7ce907fc4a9940d4
-source_sha256: 28b893a2c91218cb8a13d6e5ca13d6a9dae537e4ddd8771a7ce907fc4a9940d4
+source_revision: sha256:e3c81ed70cba16776d45dffcfbc543f9c745721a168a07b30bb5d925b5a8a256
+source_sha256: e3c81ed70cba16776d45dffcfbc543f9c745721a168a07b30bb5d925b5a8a256
 related:
   - relation: about
     target_id: region:itata
@@ -72,12 +72,6 @@ sources:
     publisher: Bioversity International
     note: Used to verify genetic-resource and variety-conservation frameworks; no source text is reproduced.
     accessed: 2026-11-21
-  - key: wines-of-chile-maule
-    title: Denominations of Origin — Wines of Chile (Maule variety area)
-    url: https://www.winesofchile.org/es/denominations-of-origin/
-    publisher: Wines of Chile / Vinos de Chile
-    note: Used to verify País plantings in Maule and the main regional divisions; no source text is reproduced.
-    accessed: 2026-11-22
   - key: wiley-criolla-2024
     title: "Genetic Characterization of Criolla and European Grapevines Recently Found in Chile: A Key Step for Their Rescue and Conservation"
     url: https://onlinelibrary.wiley.com/doi/10.1155/2024/4817877

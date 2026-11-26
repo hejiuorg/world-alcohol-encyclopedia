@@ -85,7 +85,7 @@ verification_scope: source-verified
 
 贵兹（gueuze，也写作 geuze）是[比利时](ref:belgium)[啤酒](ref:beer)中把不同年份的[兰比克](ref:lambic)混合后装瓶、让残余糖在瓶中再次[发酵](ref:fermentation)的一类。它不是一种“加酸”的啤酒，而是把年轻酒与老年酒的结构拼在一起：年轻酒带来可发酵糖与活跃酵母，老年酒带来酸度、谷仓气息与复杂度。成品干爽、气泡细密，酸度明亮但不刺喉。
 
-![贵兹 图像](/media/photos/drink-style-gueuze-32f50b06.png)
+![贵兹 图像](/media/photos/drink-style-gueuze-32f50b06.webp)
 
 图：贵兹。图片：Strangerhappenings，CC BY-SA 4.0，via Wikimedia Commons（[原图页面](https://commons.wikimedia.org/wiki/File:Oude_Gueuze_bottle.png)）。
 

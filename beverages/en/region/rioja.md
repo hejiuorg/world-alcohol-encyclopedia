@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:rioja
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:1b3cd52d89db29a34f973558c599472c88a9f6549cb43230cad07c4788132fb3
-source_sha256: 1b3cd52d89db29a34f973558c599472c88a9f6549cb43230cad07c4788132fb3
+source_revision: sha256:3097d63ded5801ca2c25a83c602751571158552baad38c5dce3489ddc10f0b07
+source_sha256: 3097d63ded5801ca2c25a83c602751571158552baad38c5dce3489ddc10f0b07
 level: other
 parent_id: region:spain
 country_code: ES
@@ -82,11 +82,6 @@ sources:
     note: Consulted for entries on Rioja, Tempranillo and Garnacha; no source text is reproduced.
     accessed: 2026-11-05
     url: https://global.oup.com/academic/product/the-oxford-companion-to-wine-9780198871316
-  - key: eurlex
-    title: Commission Notice on traditional terms for Rioja — OJ C 73, 6 March 2020 —
-    url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52020XC0306
-    publisher: European Union
-    note: Migrated from the former reference list at the end of the article; access date not re-verified.
   - key: ref
     title: The Oxford Companion to Wine, entries on Rioja, Tempranillo and Garnacha
     publisher: Oxford University Press

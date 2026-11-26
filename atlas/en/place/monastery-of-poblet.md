@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:monastery-of-poblet
 source_lang: zh
-source_revision: sha256:9e9bdf39fef0be93ab425c75017ad3f3e1fd031a67740237459560918fe1631f
-source_sha256: 9e9bdf39fef0be93ab425c75017ad3f3e1fd031a67740237459560918fe1631f
+source_revision: sha256:28a54231e52166b580586ddee1036eac5eb92fd2997aad34e945f87f4213e6f2
+source_sha256: 28a54231e52166b580586ddee1036eac5eb92fd2997aad34e945f87f4213e6f2
 translation_status: reviewed
 subtype: winery-visitor
 address: Plaça de la Corona d'Aragó, s/n, 43448 Poblet, Vimbodí i Poblet, Tarragona, Spain
@@ -98,12 +98,6 @@ sources:
     url: https://patrimoni.gencat.cat/en/collection/royal-monastery-santa-maria-de-poblet
     publisher: Generalitat de Catalunya
     note: Used to verify the address (Zona del Monasterio, 43448 Vimbodí i Poblet), hours (Mon–Sat 10:00–12:30 and 15:00–17:30; Sun 10:30–12:30 and 15:00–17:30), ticket sales stopping 30 minutes before closing, a capacity of 100 visitors, and tickets at €8 standard and €6 reduced; no text copied.
-    accessed: 2026-11-08
-  - key: poblet-special-days
-    title: Visita turística — dies especials 2026 (PDF)
-    url: https://www.poblet.cat/media/upload/arxius/horaris/visita-turistica-dies-especials-2026.pdf
-    publisher: Monestir de Poblet
-    note: Used to verify the 2026 special-day schedule — the first visit on special days starts at 10:45; closed on 1 and 6 January, 25–26 December; closed on the afternoon of 2 and 3 April; closed all day on 6 April; no text copied.
     accessed: 2026-11-08
   - key: mapcarta-poblet
     title: Monestir de Poblet — Mapcarta (OpenStreetMap)

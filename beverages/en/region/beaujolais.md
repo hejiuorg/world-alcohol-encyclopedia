@@ -11,8 +11,8 @@ revision: 2
 translation_of: region:beaujolais
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:0da88d3a7d6438c502bb9d10283837d679ece436162288b6be975bd9f5d4fe80
-source_sha256: 0da88d3a7d6438c502bb9d10283837d679ece436162288b6be975bd9f5d4fe80
+source_revision: sha256:73e59886ae49250de0d0bb20a931c8ec8374aac394b787f870be0c46bed76b7c
+source_sha256: 73e59886ae49250de0d0bb20a931c8ec8374aac394b787f870be0c46bed76b7c
 level: other
 parent_id: region:france
 country_code: FR
@@ -87,7 +87,7 @@ verification_scope: source-verified
 
 Beaujolais is a wine region in eastern France, west of the Saône and north of Lyon, south of [Burgundy](ref:burgundy). It makes mostly [red wine](ref:red-wine) from [Gamay](ref:gamay), with a small amount of [white wine](ref:white-wine) from [Chardonnay](ref:chardonnay). The region is divided from regional and Beaujolais-Villages up to ten village crus.
 
-![Beaujolais image](/media/photos/region-beaujolais-9700eca2.png)
+![Beaujolais image](/media/photos/region-beaujolais-9700eca2.webp)
 
 Figure: Beaujolais. Image: Cyril5555, CC BY-SA 3.0, via Wikimedia Commons ([source page](https://commons.wikimedia.org/wiki/File:Carte_vignoble_beaujolais.png)).
 

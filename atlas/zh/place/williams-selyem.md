@@ -59,12 +59,6 @@ references:
   - key: region
     target_id: region:australia
 sources:
-  - key: ws-history
-    title: "Our History — Williams Selyem"
-    url: https://www.williamsselyem.com/pages/our-history
-    publisher: "Williams Selyem"
-    note: "用于核对 1981 年 Burt Williams 与 Ed Selyem 在车库创立、俄罗斯河谷黑皮诺背景；未复制原文。"
-    accessed: 2026-11-21
   - key: ws-visit
     title: "Visit — Williams Selyem"
     url: https://www.williamsselyem.com/pages/visit
@@ -76,12 +70,6 @@ sources:
     url: https://www.williamsselyem.com/collections/wine
     publisher: "Williams Selyem"
     note: "用于核对 Rochioli、Allen、Porter Bass 与 Estate 酒款；未复制原文。"
-    accessed: 2026-11-21
-  - key: sonoma-wine2
-    title: "Sonoma County — Wine Institute"
-    url: https://www.wineinstitute.org/regions/sonoma-county
-    publisher: "Wine Institute"
-    note: "用于核对索诺马县、俄罗斯河谷与品种背景；未复制原文。"
     accessed: 2026-11-21
   - key: official-site
     title: "威廉姆斯-塞莱姆酒庄 — 官方页面"

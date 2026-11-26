@@ -61,12 +61,6 @@ sources:
     publisher: Beaulieu Vineyard
     note: 用于核对 Georges de Latour 1938 年招聘、Private Reserve 的创立与 Tchelistcheff 的持续创新；未复制原文。
     accessed: 2026-11-21
-  - key: maestro-film
-    title: André Tchelistcheff — The Story
-    url: http://themaestrofilm.com/thestory.htm
-    publisher: The Voice of Wine documentary
-    note: 用于核对白军经历、Pasteur 学习、Moët & Chandon 与 Nicolas 工作、冷发酵、苹果酸-乳酸发酵、防霜与葡萄园病害；未复制原文。
-    accessed: 2026-11-21
   - key: oxford-companion-wine
     title: The Oxford Companion to Wine
     publisher: Oxford University Press

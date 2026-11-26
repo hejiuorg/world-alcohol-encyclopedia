@@ -95,12 +95,6 @@ sources:
     publisher: Generalitat de Catalunya
     note: 用于核对地址（Zona del Monasterio, 43448 Vimbodí i Poblet）、开放时间（周一至周六 10:00–12:30、15:00–17:30；周日 10:30–12:30、15:00–17:30）、售票提前 30 分钟停止、单次容量 100 人，以及门票成人 8 欧元、优惠 6 欧元；未复制原文。
     accessed: 2026-11-08
-  - key: poblet-special-days
-    title: Visita turística — dies especials 2026 (PDF)
-    url: https://www.poblet.cat/media/upload/arxius/horaris/visita-turistica-dies-especials-2026.pdf
-    publisher: Monestir de Poblet
-    note: 用于核对 2026 年特殊日安排：特殊日子首场 10:45 开始；1 月 1 日与 6 日、12 月 25–26 日闭馆；4 月 2 日下午、4 月 3 日下午闭馆；4 月 6 日全天闭馆；未复制原文。
-    accessed: 2026-11-08
   - key: mapcarta-poblet
     title: Monestir de Poblet — Mapcarta (OpenStreetMap)
     url: https://mapcarta.com/26926350

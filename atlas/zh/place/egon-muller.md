@@ -56,12 +56,6 @@ sources:
     publisher: Weingut Egon Müller - Scharzhof
     note: 用于核对 Scharzhof、Wiltingen/Saar 所在地与联系邮箱；页面未列出参观时段，故营业状态标为 unknown；未复制原文。
     accessed: 2026-11-09
-  - key: vdp-egonmuller
-    title: "VDP: VDP.Estates — Mosel"
-    url: https://www.vdp.de/de/die-winzer/mosel/egon-mueller/
-    publisher: Verband Deutscher Prädikatsweingüter
-    note: 用于核对酒庄的 VDP 成员身份与摩泽尔/萨尔产区归属；未复制原文。
-    accessed: 2026-11-09
   - key: germanwines
     title: German Wines — Deutsches Weininstitut
     url: https://www.germanwines.de/

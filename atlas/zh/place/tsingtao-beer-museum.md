@@ -61,12 +61,6 @@ sources:
     publisher: 青岛市文化和旅游局
     note: 用于核对博物馆等级、保护身份与开放时间；未复制原文。
     accessed: 2026-11-04
-  - key: qingdao-government
-    title: 青岛政务网 — 青岛啤酒博物馆
-    url: https://www.qingdao.gov.cn/
-    publisher: 青岛市人民政府
-    note: 用于交叉核对开馆背景与城市信息；未复制原文。
-    accessed: 2026-11-04
   - key: wikidata-tsingtao-museum
     title: Wikidata — Tsingtao Beer Museum
     url: https://www.wikidata.org/wiki/Q15914948

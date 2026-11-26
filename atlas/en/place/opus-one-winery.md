@@ -10,8 +10,8 @@ status: reviewed
 revision: 2
 translation_of: place:opus-one-winery
 source_lang: zh
-source_revision: sha256:b8d7b606b2ae65a169b0b35bfc150dc03d46512da12ef7a42c2e5db961be5a82
-source_sha256: b8d7b606b2ae65a169b0b35bfc150dc03d46512da12ef7a42c2e5db961be5a82
+source_revision: sha256:c121665c740a8d41fcebcc8b5eea147bdfd1d17913f3a3f4b9bf6ce544ae1df8
+source_sha256: c121665c740a8d41fcebcc8b5eea147bdfd1d17913f3a3f4b9bf6ce544ae1df8
 translation_status: reviewed
 subtype: winery-visitor
 address: 7900 St. Helena Highway, Oakville, CA 94562, USA
@@ -63,12 +63,6 @@ sources:
     url: https://www.opusonewinery.com/estate/
     publisher: Opus One Winery
     note: Used to check the 1978 agreement, the single-wine philosophy and the estate building; no source text is reproduced.
-    accessed: 2026-11-07
-  - key: opus-concierge
-    title: Concierge — Opus One Winery
-    url: https://www.opusonewinery.com/concierge/
-    publisher: Opus One Winery
-    note: Used to check booking rules, hours and closures; no source text is reproduced.
     accessed: 2026-11-07
   - key: opus-contact
     title: Contact Us — Opus One Winery

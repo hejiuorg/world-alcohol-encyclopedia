@@ -10,8 +10,8 @@ status: reviewed
 revision: 3
 translation_of: culture-article:history-of-taverns
 source_lang: zh
-source_revision: sha256:d4a6126cc493676864bd3c8194e1a86f1ffb0e4e849a82f37bdfccd71856963d
-source_sha256: d4a6126cc493676864bd3c8194e1a86f1ffb0e4e849a82f37bdfccd71856963d
+source_revision: sha256:d58e76431c81d2064df02d0fab27403c4fb83991077c38aab88ba92ab5af68c3
+source_sha256: d58e76431c81d2064df02d0fab27403c4fb83991077c38aab88ba92ab5af68c3
 translation_status: reviewed
 about_refs:
   - culture-article:pub-and-city
@@ -62,12 +62,6 @@ sources:
     url: https://www.britannica.com/topic/tavern
     publisher: Encyclopaedia Britannica
     note: Used to check the functional differences and historical development of the European tavern and inn; no source text is reproduced.
-    accessed: 2026-11-07
-  - key: archives-prohibition
-    title: The 18th Amendment — U.S. National Archives
-    url: https://www.archives.gov/milestone-documents/18th-amendment
-    publisher: U.S. National Archives
-    note: Used to check the passage and text of the American Prohibition amendment; no source text is reproduced.
     accessed: 2026-11-07
   - key: c-ref-4
     title: Encyclopaedia Britannica — reference entry

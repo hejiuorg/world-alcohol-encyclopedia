@@ -57,12 +57,6 @@ references:
   - key: abv
     target_id: term:alcohol-by-volume
 sources:
-  - key: dorueda-character
-    title: The Rueda Character — Regulatory Council D.O. Rueda
-    url: https://www.dorueda.com/en/the-rueda-character/
-    publisher: Consejo Regulador de la D.O. Rueda
-    note: 用于核对海拔 700–870 米、年降雨 300–500 升/平方米、年日照 2,600 小时、大陆性气候与砾石阶地；未复制原文。
-    accessed: 2026-11-09
   - key: rueda-crdo-profile
     title: Rueda Denominación de Origen — Consejo Regulador profile
     url: https://www.prowein.de/vis-content/event-prowein2026/exh-prowein2026.3051823/ProWein-2026-Consejo-Regulador-de-la-D.-O.-Rueda-C.R.D.O.-Rueda-Paper-prowein2026.3051823-DaDgAKQaSeOQjiIqw6AwNw.pdf

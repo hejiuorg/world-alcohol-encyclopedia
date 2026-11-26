@@ -57,18 +57,6 @@ sources:
     publisher: "Willamette Valley Wineries Association"
     note: "用于核对酒庄地图、路线与访问信息；未复制原文。"
     accessed: 2026-11-21
-  - key: wv-ddo
-    title: "Visit — Domaine Drouhin Oregon"
-    url: https://www.drouhinoregon.com/pages/visit
-    publisher: "Domaine Drouhin Oregon"
-    note: "用于核对 6750 Breyman Orchards Road、预约与开放时间；未复制原文。"
-    accessed: 2026-11-21
-  - key: wv-eyrie
-    title: "Visit — The Eyrie Vineyards"
-    url: https://www.eyrievineyards.com/pages/visit
-    publisher: "The Eyrie Vineyards"
-    note: "用于核对 935 N. Kutch Street、预约与开放时间；未复制原文。"
-    accessed: 2026-11-21
 rights:
   status: allowed
   license: CC-BY-4.0

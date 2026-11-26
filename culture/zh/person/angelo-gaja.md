@@ -31,6 +31,14 @@ related:
     target_id: region:piedmont
   - relation: about
     target_id: region:italy
+  - relation: about
+    target_id: drink:italy-barbaresco
+  - relation: about
+    target_id: variety:nebbiolo
+  - relation: about
+    target_id: person:giacomo-conterno
+  - relation: about
+    target_id: region:tuscany
 references:
   - key: gaja-place
     target_id: place:gaja-barbaresco
@@ -40,31 +48,15 @@ references:
     target_id: region:piedmont
   - key: italy
     target_id: region:italy
+  - key: barbaresco
+    target_id: drink:italy-barbaresco
+  - key: nebbiolo
+    target_id: variety:nebbiolo
+  - key: conterno
+    target_id: person:giacomo-conterno
+  - key: tuscany
+    target_id: region:tuscany
 sources:
-  - key: gaja-history
-    title: History — Gaja
-    url: https://www.gaja.com/en/history/
-    publisher: Gaja
-    note: 用于核对 1859 年家族创立、1961 年安杰洛接管、单一园与法国橡木桶等技术转向；未复制原文。
-    accessed: 2026-11-20
-  - key: gaja-wines
-    title: Wines — Gaja
-    url: https://www.gaja.com/en/wines/
-    publisher: Gaja
-    note: 用于核对 Sorì San Lorenzo、Sorì Tildìn、Costa Russi、Sperss、Conteisa、Darmagi 等酒款与产地；未复制原文。
-    accessed: 2026-11-20
-  - key: gaja-estates
-    title: Estates — Gaja
-    url: https://www.gaja.com/en/estates/
-    publisher: Gaja
-    note: 用于核对 1994 年蒙塔奇诺 Pieve Santa Restituta、1996 年宝格丽 Ca' Marcanda 的收购；未复制原文。
-    accessed: 2026-11-20
-  - key: gaja-philosophy
-    title: Philosophy — Gaja
-    url: https://www.gaja.com/en/philosophy/
-    publisher: Gaja
-    note: 用于核对减产、绿色采收、橡木桶与风土表达的理念；未复制原文。
-    accessed: 2026-11-20
   - key: oxford-wine
     title: The Oxford Companion to Wine
     publisher: Oxford University Press
@@ -131,5 +123,9 @@ Darmagi 是嘉雅在巴巴莱斯科种赤霞珠的产物，名字在皮埃蒙特
 - [葡萄酒](ref:wine)：内比奥罗、橡木桶、单一园与陈酿的基本框架。
 - [皮埃蒙特](ref:piedmont)：巴巴莱斯科、巴罗洛、朗格与内比奥罗的风土。
 - [意大利](ref:italy)：皮埃蒙特、托斯卡纳与意大利酒业的地理与制度。
+- [巴巴莱斯科](ref:barbaresco)：产区规则、1996 年降级与嘉雅单一园的背景。
+- [内比奥罗](ref:nebbiolo)：玫瑰、樱桃、焦油与高单宁的品种线索。
+- [贾科莫·孔泰尔诺](ref:conterno)：巴罗洛传统派的对照人物。
+- [托斯卡纳](ref:tuscany)：蒙塔奇诺与宝格丽的跨产区扩张。
 
 相关条目：[嘉雅巴巴莱斯科酒庄](ref:gaja-place)。

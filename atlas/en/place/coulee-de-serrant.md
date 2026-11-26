@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:coulee-de-serrant
 source_lang: zh
-source_revision: sha256:5fa64c56c1902cd34675a00addfa98d18c305cbf916931796290fd7d13709b90
-source_sha256: 5fa64c56c1902cd34675a00addfa98d18c305cbf916931796290fd7d13709b90
+source_revision: sha256:fd64331b185fdea1d79b533161f1b84da095b8d7fe796d1713d430655cd6d38c
+source_sha256: fd64331b185fdea1d79b533161f1b84da095b8d7fe796d1713d430655cd6d38c
 translation_status: reviewed
 subtype: winery-visitor
 address: Château de la Roche aux Moines, 49170 Savennières, France
@@ -62,12 +62,6 @@ sources:
     url: https://coulee-de-serrant.com/
     publisher: SAS Famille Joly
     note: Used to check the Château de la Roche aux Moines address, the 7-hectare monopole AOC, the 1130 planting, the three wines and biodynamics since 1984; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: coulee-history
-    title: La Coulée de Serrant — Histoire
-    url: https://coulee-de-serrant.com/cds/histoire-de-la-coulee-de-serrant/
-    publisher: SAS Famille Joly
-    note: Used to check the Cistercian origin, the Joly family's arrival and the appellation history; no source text is reproduced.
     accessed: 2026-11-09
   - key: vinsdeloire
     title: Vins de Loire — Official site

@@ -11,8 +11,8 @@ revision: 2
 translation_of: producer:niulanshan
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:bdaf1e1b7622326e3dbfb81ee00d663d147cd6d68f37345431b04277ce53833e
-source_sha256: bdaf1e1b7622326e3dbfb81ee00d663d147cd6d68f37345431b04277ce53833e
+source_revision: sha256:e57d079c16921e868ece1fe36ccf786f3dc3686b6a83979f5e7a45da02b40564
+source_sha256: e57d079c16921e868ece1fe36ccf786f3dc3686b6a83979f5e7a45da02b40564
 region_refs:
   - region:china
 founded_year: 1952
@@ -52,12 +52,6 @@ sources:
     url: https://www.shunxinholdings.com/gysx/index.aspx?contentid=663&nodeid=441&page=ContentPage
     publisher: 北京顺鑫控股集团有限公司
     note: Used to verify the er-guotou craft and national intangible cultural heritage statement; no source text is reproduced.
-    accessed: 2026-11-04
-  - key: baike-niulanshan
-    title: 百度百科 — 北京顺鑫农业股份有限公司牛栏山酒厂
-    url: https://m.baike.com/wiki/%E5%8C%97%E4%BA%AC%E9%A1%BA%E9%91%AB%E5%86%9C%E4%B8%9A%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%89%9B%E6%A0%8F%E5%B1%B1%E9%85%92%E5%8E%82/1197794
-    publisher: 百度百科
-    note: Used to verify the site and founding year as publicly stated; no source text is reproduced.
     accessed: 2026-11-04
 rights:
   status: allowed

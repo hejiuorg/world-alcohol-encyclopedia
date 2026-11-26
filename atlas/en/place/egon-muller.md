@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: place:egon-muller
 source_lang: zh
-source_revision: sha256:a691d16f2159068de84ae412d913c5f092cf8c2614a9f6e8e536c94a6b3742a5
-source_sha256: a691d16f2159068de84ae412d913c5f092cf8c2614a9f6e8e536c94a6b3742a5
+source_revision: sha256:5a2ac1d03565489d2de24ace5295aad31a405a5e07ddae26085ce86086771e99
+source_sha256: 5a2ac1d03565489d2de24ace5295aad31a405a5e07ddae26085ce86086771e99
 translation_status: reviewed
 subtype: winery-visitor
 address: Scharzhof, 54459 Wiltingen, Germany
@@ -61,12 +61,6 @@ sources:
     url: https://www.egon-mueller.de/de_DE/kontakt
     publisher: Weingut Egon Müller - Scharzhof
     note: Used to check the Scharzhof location at Wiltingen/Saar and the contact email; the page lists no visiting hours, so operating status is marked unknown; no source text is reproduced.
-    accessed: 2026-11-09
-  - key: vdp-egonmuller
-    title: "VDP: VDP.Estates — Mosel"
-    url: https://www.vdp.de/de/die-winzer/mosel/egon-mueller/
-    publisher: Verband Deutscher Prädikatsweingüter
-    note: Used to check VDP membership and the Mosel/Saar regional assignment; no source text is reproduced.
     accessed: 2026-11-09
   - key: germanwines
     title: German Wines — Deutsches Weininstitut

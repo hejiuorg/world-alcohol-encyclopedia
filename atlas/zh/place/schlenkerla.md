@@ -49,12 +49,6 @@ sources:
     publisher: Schlenkerla
     note: 用于核对历史、地址与营业信息。
     accessed: 2026-10-29
-  - key: schlenkerla-hours
-    title: Schlenkerla — Öffnungszeiten
-    url: https://www.schlenkerla.de/schlenkerla/oeffnungszeiten.html
-    publisher: Schlenkerla
-    note: 官网写明全年每日 9:30–23:30，厨房连续 11:00–22:00，天气好时啤酒花园复活节至十月开放；圣诞节与跨年有特殊安排。
-    accessed: 2026-11-08
   - key: mapcarta-schlenkerla
     title: Schlenkerla — Mapcarta (OpenStreetMap node 513414350)
     url: https://mapcarta.com/N513414350

@@ -10,8 +10,8 @@ status: reviewed
 revision: 1
 translation_of: guide:craft-beer-freshness
 source_lang: zh
-source_revision: sha256:8f7937caa77f588261cf606ca998dd9e35248160033867eeb60d7c7c07d734a0
-source_sha256: 8f7937caa77f588261cf606ca998dd9e35248160033867eeb60d7c7c07d734a0
+source_revision: sha256:8bad2ec7e81dbfcf8d009b0aa079e8ec4c5306a41f72ae092410af7e7ae9eb0d
+source_sha256: 8bad2ec7e81dbfcf8d009b0aa079e8ec4c5306a41f72ae092410af7e7ae9eb0d
 translation_status: reviewed
 legacy_refs: []
 aliases:
@@ -33,6 +33,14 @@ related:
     target_id: ingredient:hop
   - relation: about
     target_id: guide:first-tasting
+  - relation: about
+    target_id: drink-style:stout
+  - relation: about
+    target_id: drink-style:pilsner
+  - relation: about
+    target_id: region:germany
+  - relation: about
+    target_id: region:belgium
 references:
   - key: beer
     target_id: drink-style:beer
@@ -50,6 +58,14 @@ references:
     target_id: guide:food-pairing
   - key: region
     target_id: region:china
+  - key: stout
+    target_id: drink-style:stout
+  - key: pilsner
+    target_id: drink-style:pilsner
+  - key: germany
+    target_id: region:germany
+  - key: belgium
+    target_id: region:belgium
 sources:
   - key: brewers-association
     title: Brewers Association
@@ -157,4 +173,4 @@ Draught freshness also depends on the lines. A poorly cleaned system can give a 
 - Tasting Beer (Randy Mosher / Storey Publishing, checked 2026-11-25)
 - BJCP — Beer Judge Certification Program style guidelines — https://www.bjcp.org/ (Beer Judge Certification Program, checked 2026-11-25)
 
-Related entries: [beer](ref:beer), [low-alcohol beer](ref:low), [Beer tasting introduction](ref:intro), [fermentation](ref:ferment), [hops](ref:hop), [First tasting guide](ref:tasting), [Food-pairing guide](ref:pairing), [China](ref:region).
+Related entries: [beer](ref:beer), [low-alcohol beer](ref:low), [Beer tasting introduction](ref:intro), [fermentation](ref:ferment), [hops](ref:hop), [First tasting guide](ref:tasting), [Food-pairing guide](ref:pairing), [China](ref:region), [stout](ref:stout), [pilsner](ref:pilsner), [Germany](ref:germany), [Belgium](ref:belgium).

@@ -49,18 +49,6 @@ sources:
     publisher: Jack Daniel's
     note: 用于核对 1866 年登记、林奇堡、丹·考尔与杰克·丹尼的关系、1904 年圣路易斯世博会等节点；未复制原文。
     accessed: 2026-11-20
-  - key: jd-faq
-    title: Frequently Asked Questions — Jack Daniel's
-    url: https://www.jackdaniels.com/en-us/faq
-    publisher: Jack Daniel's
-    note: 用于核对田纳西威士忌、林肯县工艺、糖枫木炭过滤与“Old No. 7”等常见问题；未复制原文。
-    accessed: 2026-11-20
-  - key: jd-lincoln
-    title: The Lincoln County Process — Jack Daniel's
-    url: https://www.jackdaniels.com/en-us/our-story/lincoln-county-process
-    publisher: Jack Daniel's
-    note: 用于核对糖枫木炭过滤的工艺步骤、10 英尺炭层与新烧焦橡木桶；未复制原文。
-    accessed: 2026-11-20
   - key: brown-forman
     title: Jack Daniel's — Brown-Forman
     url: https://www.brown-forman.com/brands/jack-daniels

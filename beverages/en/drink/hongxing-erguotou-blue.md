@@ -11,8 +11,8 @@ revision: 2
 translation_of: drink:hongxing-erguotou-blue
 source_lang: zh
 translation_status: reviewed
-source_revision: sha256:39822dcf173d5581132ad46240e86f311aa3e16cb301f6a21e90b8e6e7eea389
-source_sha256: 39822dcf173d5581132ad46240e86f311aa3e16cb301f6a21e90b8e6e7eea389
+source_revision: sha256:d28b5f6cf09182c2c105b92d38249f50fb388c72b2581c0cdbca64ff754bf251
+source_sha256: d28b5f6cf09182c2c105b92d38249f50fb388c72b2581c0cdbca64ff754bf251
 style_refs:
   - drink-style:baijiu
 brand_refs:
@@ -63,12 +63,6 @@ references:
   - key: china
     target_id: region:china
 sources:
-  - key: baike-blue-bottle
-    title: 百度百科 — 红星蓝瓶二锅头
-    url: https://m.baike.com/wiki/%E7%BA%A2%E6%98%9F%E8%93%9D%E7%93%B6%E4%BA%8C%E9%94%85%E5%A4%B4/7915594
-    publisher: 百度百科
-    note: Used to verify the aroma type, 43% ABV and the net-volume range; no source text is reproduced.
-    accessed: 2026-11-04
   - key: museum-craft
     title: 北京二锅头酒博物馆 — 红星对二锅头技艺的全面继承
     url: https://www.redstarwine.cn/qyjs1/hxdjyccjcx/cindex1.html
@@ -80,12 +74,6 @@ sources:
     url: https://www.redstarwine.cn/tsfw/snjzl/cindex1.html
     publisher: 北京二锅头酒博物馆
     note: Used to verify the clean steaming and firing, low-temperature collection and ceramic-jar storage wording; no source text is reproduced.
-    accessed: 2026-11-04
-  - key: cbj-2109
-    title: 中国酒业协会团体标准 — T/CBJ 2109—2020 二锅头酒
-    url: https://www.cada.cc/Common/ShowDownloadUrl.aspx?urlid=0&id=1117
-    publisher: 中国酒业协会
-    note: Used to verify the scope and strength range of the er-guotou liquor standard; no source text is reproduced.
     accessed: 2026-11-04
 rights:
   status: allowed

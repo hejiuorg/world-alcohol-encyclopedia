@@ -67,12 +67,6 @@ sources:
     published: 2007-01-19
     note: 用于核对旧标准号、实施日期与废止日期；未复制标准正文。
     accessed: 2026-11-05
-  - key: hslbg
-    title: 衡水老白干景区 — 十号工坊
-    url: https://www.hslbgjq.com/product/49.cshtml
-    publisher: 衡水老白干
-    note: 用于核对清蒸清烧三排净、地缸发酵与人工装甑等工艺公开表述；未复制原文。
-    accessed: 2026-11-05
   - key: laobaigan-hs
     title: 衡水老白干酿酒集团 — 老白干香型独特受国际认可
     url: http://www.laobaigan-hs.com/show/101

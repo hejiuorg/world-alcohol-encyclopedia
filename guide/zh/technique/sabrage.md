@@ -71,12 +71,6 @@ sources:
     publisher: Corning Museum of Glass
     note: 用于核对香槟瓶与玻璃工艺背景；未复制原文。
     accessed: 2026-11-20
-  - key: champagnehistory
-    title: Champagne — history and sabrage overview
-    url: https://www.champagne.fr/en/champagne/champagne-history
-    publisher: Comité Champagne
-    note: 用于交叉核对军刀开香槟的历史传说；未复制原文。
-    accessed: 2026-11-20
 rights:
   status: allowed
   license: CC-BY-4.0

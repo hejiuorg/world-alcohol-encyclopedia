@@ -50,12 +50,6 @@ sources:
     publisher: Brewers Association
     note: 用于核对 1942 年 Small Brewers Committee、1978 年 AHA、1983 年 Association of Brewers、2005 年合并与 2025 年 AHA 独立；未复制原文。
     accessed: 2026-11-20
-  - key: ba-about
-    title: 'About the Brewers Association'
-    url: https://www.brewersassociation.org/about-us/
-    publisher: Brewers Association
-    note: 用于核对 BA 的使命、会员构成与“small and independent”定位；未复制原文。
-    accessed: 2026-11-20
   - key: ba-craft-definition
     title: 'Craft Brewer Definition'
     url: https://www.brewersassociation.org/brewers-association/craft-brewer-definition/

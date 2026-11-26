@@ -39,12 +39,6 @@ sources:
     publisher: Robert Mondavi Winery
     note: 用于核对 Oakville 地址、1966 年创立、To Kalon 葡萄园与参观信息；未复制原文。
     accessed: 2026-11-07
-  - key: opus-concierge
-    title: "Concierge — Opus One Winery"
-    url: https://www.opusonewinery.com/concierge/
-    publisher: Opus One Winery
-    note: 用于核对 Oakville 地址、1979 年合资、预约制参观与年龄限制；未复制原文。
-    accessed: 2026-11-07
   - key: beringer-visit
     title: "Visit — Beringer Vineyards"
     url: https://www.beringer.com/pages/visit

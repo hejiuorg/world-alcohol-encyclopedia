@@ -50,12 +50,6 @@ sources:
     publisher: Suntory Holdings
     note: 用于核对 1899 年鸟井商店、1907 年赤玉波特酒、1923 年山崎蒸馏所、1929 年白札等节点；未复制原文。
     accessed: 2026-11-20
-  - key: suntory-heritage
-    title: Suntory Heritage — 120 Years of History
-    url: https://www.suntory.com/about/history/heritage/
-    publisher: Suntory Holdings
-    note: 用于核对鸟井信治郎的生平、经营理念与三得利早期产品结构；未复制原文。
-    accessed: 2026-11-20
   - key: house-suntory
     title: House of Suntory — Heritage
     url: https://www.houseofsuntory.com/en/heritage/
@@ -67,12 +61,6 @@ sources:
     url: https://www.suntorybeverageandfoodeurope.com/en/about-us/our-history
     publisher: Suntory Beverage & Food Europe
     note: 用于核对三得利从大阪酒类商社到全球饮料集团的阶段划分；未复制原文。
-    accessed: 2026-11-20
-  - key: suntory-120
-    title: Suntory 120th Anniversary History
-    url: https://www.suntory.com/about/history/120th/
-    publisher: Suntory Holdings
-    note: 用于核对 1899 至 1962 年的公司纪年、产品上市与竹鹤政孝任职时间；未复制原文。
     accessed: 2026-11-20
 rights:
   status: allowed

@@ -56,12 +56,6 @@ sources:
     publisher: "Margaret River Wine"
     note: "用于核对产区地图、酒庄与访问信息；未复制原文。"
     accessed: 2026-11-21
-  - key: mr-vasse
-    title: "Visit — Vasse Felix"
-    url: https://www.vassefelix.com.au/pages/visit
-    publisher: "Vasse Felix"
-    note: "用于核对 4357 Bussell Highway、cellar door、美术馆与餐厅；未复制原文。"
-    accessed: 2026-11-21
   - key: mr-leeuwin
     title: "Visit — Leeuwin Estate"
     url: https://www.leeuwinestate.com.au/pages/visit
